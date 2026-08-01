@@ -1,0 +1,1526 @@
+[
+  {
+    "id": "supreme_court_judicial_review",
+    "title": "Supreme Court & Judicial Review",
+    "desc": "Apex court powers, appointments, collegium and judicial review",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Article of the Constitution provides for the establishment of the Supreme Court of India?",
+          "o": [
+            "Article 120",
+            "Article 124",
+            "Article 129",
+            "Article 141"
+          ],
+          "a": 1,
+          "e": "<b>Article 124</b> provides for the establishment and constitution of the Supreme Court of India."
+        },
+        {
+          "q": "What is the retirement age of a Judge of the Supreme Court of India?",
+          "o": [
+            "58 years",
+            "60 years",
+            "62 years",
+            "65 years"
+          ],
+          "a": 3,
+          "e": "Under <b>Article 124(2)</b>, a Supreme Court Judge holds office until the age of <b>65 years</b>."
+        },
+        {
+          "q": "Which Article declares the Supreme Court to be a 'Court of Record'?",
+          "o": [
+            "Article 127",
+            "Article 129",
+            "Article 132",
+            "Article 136"
+          ],
+          "a": 1,
+          "e": "<b>Article 129</b> declares the Supreme Court to be a <b>Court of Record</b> and gives it power to punish for contempt of itself."
+        },
+        {
+          "q": "Under Article 124(3), which of the following is NOT a valid qualification for appointment as a Judge of the Supreme Court?",
+          "o": [
+            "Judge of a High Court for at least 5 years",
+            "Advocate of a High Court for at least 10 years",
+            "Distinguished jurist in the opinion of the President",
+            "Member of the Union Public Service Commission for 10 years"
+          ],
+          "a": 3,
+          "e": "Article 124(3) requires a person to have been a <b>High Court Judge for 5 years</b>, an <b>Advocate for 10 years</b>, or be a <b>distinguished jurist</b>; UPSC membership is not a qualification."
+        },
+        {
+          "q": "Article 143 of the Constitution deals with which jurisdiction of the Supreme Court?",
+          "o": [
+            "Original jurisdiction",
+            "Appellate jurisdiction",
+            "Advisory jurisdiction",
+            "Writ jurisdiction"
+          ],
+          "a": 2,
+          "e": "<b>Article 143</b> empowers the President to seek the <b>advisory opinion</b> of the Supreme Court on questions of law or fact of public importance."
+        },
+        {
+          "q": "Which Article empowers the Supreme Court to issue writs for enforcement of Fundamental Rights?",
+          "o": [
+            "Article 32",
+            "Article 131",
+            "Article 136",
+            "Article 226"
+          ],
+          "a": 0,
+          "e": "<b>Article 32</b>, itself a Fundamental Right, empowers the Supreme Court to issue writs such as habeas corpus, mandamus, prohibition, quo warranto and certiorari for enforcement of Fundamental Rights."
+        },
+        {
+          "q": "Which Article grants the Supreme Court original jurisdiction in disputes between the Government of India and one or more States?",
+          "o": [
+            "Article 131",
+            "Article 132",
+            "Article 134",
+            "Article 136"
+          ],
+          "a": 0,
+          "e": "<b>Article 131</b> confers original jurisdiction on the Supreme Court in disputes between the Centre and States, or between States, involving a question of law or fact on which the existence of a legal right depends."
+        },
+        {
+          "q": "Which Article empowers the Supreme Court to grant special leave to appeal from any judgment or order passed by any court or tribunal in India?",
+          "o": [
+            "Article 132",
+            "Article 134",
+            "Article 136",
+            "Article 137"
+          ],
+          "a": 2,
+          "e": "<b>Article 136</b> gives the Supreme Court discretionary power to grant <b>Special Leave to Appeal (SLP)</b> against any judgment, decree, or order of any court or tribunal in India, except military tribunals."
+        },
+        {
+          "q": "Where is the seat of the Supreme Court of India as per the Constitution?",
+          "o": [
+            "Mumbai",
+            "Delhi",
+            "Kolkata",
+            "Determined solely by Parliament with no role for the CJI"
+          ],
+          "a": 1,
+          "e": "<b>Article 130</b> provides that the Supreme Court shall sit in <b>Delhi</b> or such other place(s) as the Chief Justice of India may, with the approval of the President, appoint."
+        },
+        {
+          "q": "Which Article states that the law declared by the Supreme Court is binding on all courts within the territory of India?",
+          "o": [
+            "Article 140",
+            "Article 141",
+            "Article 142",
+            "Article 144"
+          ],
+          "a": 1,
+          "e": "<b>Article 141</b> provides that the law declared by the Supreme Court is <b>binding on all courts</b> within the territory of India."
+        },
+        {
+          "q": "Which Article empowers the Supreme Court to pass any decree or order necessary for doing 'complete justice' in any cause or matter pending before it?",
+          "o": [
+            "Article 32",
+            "Article 141",
+            "Article 142",
+            "Article 226"
+          ],
+          "a": 2,
+          "e": "<b>Article 142</b> empowers the Supreme Court to pass any order necessary for doing <b>complete justice</b> in any cause or matter pending before it."
+        },
+        {
+          "q": "The concept of 'judicial review' in the Indian Constitution is most closely associated with which Article that renders laws inconsistent with Fundamental Rights void?",
+          "o": [
+            "Article 13",
+            "Article 21",
+            "Article 32",
+            "Article 368"
+          ],
+          "a": 0,
+          "e": "<b>Article 13</b> declares that any law inconsistent with or in derogation of the Fundamental Rights shall be void, forming the textual basis of <b>judicial review</b>."
+        },
+        {
+          "q": "Which Article empowers a High Court to issue writs not only for enforcement of Fundamental Rights but also for 'any other purpose'?",
+          "o": [
+            "Article 32",
+            "Article 131",
+            "Article 226",
+            "Article 227"
+          ],
+          "a": 2,
+          "e": "<b>Article 226</b> gives High Courts a wider writ jurisdiction than Article 32, extending to enforcement of Fundamental Rights and 'any other purpose', including ordinary legal rights."
+        },
+        {
+          "q": "As originally enacted, how many judges (including the Chief Justice) did the Supreme Court of India have?",
+          "o": [
+            "7",
+            "8",
+            "11",
+            "15"
+          ],
+          "a": 1,
+          "e": "The Supreme Court originally had a Chief Justice and <b>7 puisne judges</b> (total 8); Parliament has since increased this number several times by law."
+        },
+        {
+          "q": "Who administers the oath of office to a newly appointed Judge of the Supreme Court?",
+          "o": [
+            "The Chief Justice of India",
+            "The President of India",
+            "The Speaker of Lok Sabha",
+            "The Prime Minister"
+          ],
+          "a": 1,
+          "e": "As per Article 124(6), a Supreme Court Judge takes the oath of office before the <b>President of India</b> (or a person appointed by the President)."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the appointment of the Chief Justice of India (CJI):\n1. The Constitution mandates that the outgoing CJI must recommend the senior-most judge as successor.\n2. The convention of appointing the senior-most Supreme Court judge as CJI has, in the past, been departed from by the government.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The Constitution does not textually mandate seniority; it is a <b>convention</b>. This convention was departed from in 1973 (supersession of three judges to appoint A.N. Ray) and in 1977, making statement 2 correct and statement 1 incorrect."
+        },
+        {
+          "q": "Consider the following statements about the jurisdiction of the Supreme Court of India:\n1. Original jurisdiction under Article 131 extends to disputes between private citizens and the Union of India.\n2. Appellate jurisdiction in constitutional matters requires the High Court to certify that the case involves a substantial question of law as to interpretation of the Constitution.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Article 131 covers disputes between the <b>Centre and States</b> or between States only, not private citizens, making statement 1 incorrect. Article 132 requires a <b>High Court certificate</b> of a substantial constitutional question for a constitutional appeal, making statement 2 correct."
+        },
+        {
+          "q": "With reference to advisory jurisdiction of the Supreme Court under Article 143, consider the following statements:\n1. The opinion tendered by the Supreme Court under Article 143 is binding on the President.\n2. The Supreme Court may decline to answer a reference made under Article 143.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The Supreme Court's advisory opinion under Article 143 is <b>not binding</b> and only advisory in nature, making statement 1 incorrect. The Court has, in cases like the <b>Ayodhya reference (1993)</b>, declined to answer a reference, making statement 2 correct."
+        },
+        {
+          "q": "Which of the following statements about the removal of a Supreme Court Judge is/are correct?\n1. A Judge can be removed only on the grounds of proven misbehaviour or incapacity.\n2. The removal motion requires a special majority in each House of Parliament in the same session.\nSelect the correct answer using the code below:",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Article 124(4) allows removal only on grounds of <b>proven misbehaviour or incapacity</b>, through a motion passed by a <b>special majority</b> (majority of total membership and two-thirds of members present and voting) in the same session in each House, followed by a Presidential order."
+        },
+        {
+          "q": "Consider the following pairs of Articles and their subject matter:\n1. Article 127 — Appointment of ad hoc judges\n2. Article 128 — Attendance of retired judges at sittings of the Supreme Court\n3. Article 139A — Transfer of cases between High Courts\nWhich of the pairs given above is/are correctly matched?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3",
+            "1 only"
+          ],
+          "a": 2,
+          "e": "All three pairs are correctly matched: <b>Article 127</b> deals with ad hoc judges, <b>Article 128</b> with retired judges sitting at the Supreme Court, and <b>Article 139A</b> with transfer of cases between High Courts."
+        },
+        {
+          "q": "Which of the following is/are essential features distinguishing 'judicial review' from an ordinary 'appeal'?\n1. Judicial review examines the constitutionality/legality of a law or executive action rather than the merits of the decision.\n2. Judicial review can result in a law being declared void, which an ordinary appellate court cannot do to a statute.\nSelect the correct answer using the code below:",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Judicial review</b> examines constitutional validity rather than re-appreciating facts as in an appeal, and courts exercising judicial review can strike down a law as <b>void under Article 13</b>, a power an ordinary appellate forum lacks over legislation."
+        },
+        {
+          "q": "With reference to the Third Judges Case (1998), consider the following statements:\n1. It was rendered in response to a Presidential Reference under Article 143.\n2. It expanded the collegium for Supreme Court appointments to the CJI and four senior-most judges.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The <b>Third Judges Case (1998)</b> arose from a Presidential Reference under Article 143 seeking clarification after the Second Judges Case, and it expanded the <b>collegium</b> to comprise the CJI plus four senior-most Supreme Court judges."
+        },
+        {
+          "q": "Consider the following statements on the NJAC (National Judicial Appointments Commission):\n1. It was created by the 99th Constitutional Amendment Act, 2014.\n2. It provided for a body including the CJI, two senior-most SC judges, the Union Law Minister and two eminent persons.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The <b>99th Amendment Act, 2014</b> inserted Article 124A to create the <b>NJAC</b>, comprising the CJI, two senior-most SC judges, the Union Law Minister, and two eminent persons nominated by a committee; both statements are correct."
+        },
+        {
+          "q": "Which of the following statements regarding transfer of High Court judges is/are correct?\n1. Transfer of a High Court judge from one High Court to another is done by the President.\n2. Such transfer requires consultation with the Chief Justice of India as per the collegium system evolved through judicial pronouncements.\nSelect the correct answer using the code below:",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Transfers of High Court judges under Article 222 are effected by the <b>President</b>, and following the Second and Third Judges Cases, this requires the <b>CJI's recommendation formed via the collegium</b>."
+        },
+        {
+          "q": "Consider the following statements about the scope of judicial review in India:\n1. The 'basic structure' doctrine limits Parliament's power to amend the Constitution under Article 368.\n2. Judicial review of ordinary legislation is expressly and exhaustively defined in the text of the Constitution.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The <b>basic structure doctrine</b>, laid down in Kesavananda Bharati (1973), limits the amending power under Article 368, making statement 1 correct. Judicial review's scope has largely been <b>judicially evolved</b> rather than exhaustively defined in the constitutional text, making statement 2 incorrect."
+        },
+        {
+          "q": "With reference to the composition of the Supreme Court collegium for appointment of the CJI and Supreme Court judges (post Second and Third Judges Cases), which of the following statements is/are correct?\n1. The collegium consists of the CJI and four senior-most judges of the Supreme Court.\n2. The collegium system is expressly provided for in the text of the Constitution.\nSelect the correct answer using the code below:",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The collegium comprises the <b>CJI and four senior-most SC judges</b>, making statement 1 correct. However, the collegium system is a <b>judicial innovation</b> evolved through case law, not an express constitutional provision, making statement 2 incorrect."
+        },
+        {
+          "q": "Consider the following statements regarding the Memorandum of Procedure (MoP) for judicial appointments:\n1. It lays down the procedure to be followed by the collegium and the government in appointing judges.\n2. It has been revised after the NJAC judgment (2015) at the Supreme Court's directive.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The <b>Memorandum of Procedure</b> governs the appointment process between the collegium and the Union government, and following the NJAC verdict, the Supreme Court directed its revision in consultation with the government, making both statements correct."
+        },
+        {
+          "q": "Which of the following statements about 'contempt of court' powers of the Supreme Court is/are correct?\n1. These powers flow from Article 129, which makes the Supreme Court a Court of Record.\n2. The Contempt of Courts Act, 1971 is the only source of the Supreme Court's contempt power.\nSelect the correct answer using the code below:",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "As a <b>Court of Record</b> under Article 129, the Supreme Court has inherent power to punish for contempt of itself; this constitutional power exists independently of the <b>Contempt of Courts Act, 1971</b>, making statement 2 incorrect."
+        },
+        {
+          "q": "Consider the following statements regarding the appellate jurisdiction of the Supreme Court in criminal matters under Article 134:\n1. An appeal lies as of right if the High Court has reversed an order of acquittal and sentenced the accused to death.\n2. The High Court may itself certify a case as fit for appeal to the Supreme Court.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Under <b>Article 134</b>, an appeal lies as of right where the High Court has reversed an acquittal and imposed a death sentence, and separately, the High Court may <b>certify</b> a case as fit for appeal to the Supreme Court, making both statements correct."
+        },
+        {
+          "q": "With reference to judicial independence safeguards for Supreme Court judges, consider the following statements:\n1. Their salaries are charged on the Consolidated Fund of India and not subject to a vote in Parliament.\n2. Their conduct cannot be discussed in Parliament except during a removal motion.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Salaries and allowances of SC judges are <b>charged expenditure</b> on the Consolidated Fund of India, not subject to Parliamentary vote, and Article 121 bars discussion of a judge's conduct in Parliament except during removal proceedings, making both statements correct."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "In S.P. Gupta v. Union of India (1981), also known as the First Judges Case, the Supreme Court held that:",
+          "o": [
+            "The word 'consultation' in Articles 124 and 217 means 'concurrence', giving the CJI primacy",
+            "The word 'consultation' does not mean 'concurrence', giving the executive primacy in judicial appointments",
+            "A collegium of judges must be formed to appoint judges",
+            "The NJAC was constitutionally valid"
+          ],
+          "a": 1,
+          "e": "In the <b>First Judges Case (S.P. Gupta, 1981)</b>, the Supreme Court held that 'consultation' under Articles 124 and 217 did <b>not mean concurrence</b>, thereby giving the Executive primacy over the judiciary in appointments — a position later reversed in the Second Judges Case."
+        },
+        {
+          "q": "The Second Judges Case (1993), formally Supreme Court Advocates-on-Record Association v. Union of India, is significant because it:",
+          "o": [
+            "Struck down the NJAC as unconstitutional",
+            "Introduced the collegium system, giving primacy to the CJI's opinion formed in consultation with senior judges",
+            "Held that judicial appointments were purely an executive prerogative",
+            "Created Article 124A of the Constitution"
+          ],
+          "a": 1,
+          "e": "The <b>Second Judges Case (1993)</b> reversed the First Judges Case and introduced the <b>collegium system</b>, holding that the CJI's recommendation, formed in consultation with senior-most judges, would have primacy in judicial appointments."
+        },
+        {
+          "q": "The National Judicial Appointments Commission (NJAC), inserted via Article 124A by the 99th Constitutional Amendment Act, 2014, was declared unconstitutional by the Supreme Court in which case, and on which primary ground?",
+          "o": [
+            "Kesavananda Bharati v. State of Kerala (1973); violation of federalism",
+            "Supreme Court Advocates-on-Record Association v. Union of India (2015); violation of judicial independence, a part of the basic structure",
+            "Minerva Mills v. Union of India (1980); violation of separation of powers",
+            "L. Chandra Kumar v. Union of India (1997); violation of Article 32"
+          ],
+          "a": 1,
+          "e": "In <b>Supreme Court Advocates-on-Record Association v. Union of India (2015)</b> (the NJAC case), a Constitution Bench struck down the 99th Amendment and the NJAC Act, holding they violated <b>judicial independence</b>, a facet of the basic structure, due to executive/political involvement diluting judicial primacy in appointments."
+        },
+        {
+          "q": "Which of the following best describes the outcome and significance of the Third Judges Case (1998), In re Presidential Reference under Article 143?",
+          "o": [
+            "It restored executive primacy in appointment of judges",
+            "It held that the CJI's individual opinion alone, without consulting other judges, would be final",
+            "It expanded the collegium to the CJI and four senior-most judges and laid down detailed norms for consultation",
+            "It abolished the collegium system altogether"
+          ],
+          "a": 2,
+          "e": "The <b>Third Judges Case (1998)</b>, answering a Presidential Reference, held that the CJI must consult a collegium of <b>four senior-most judges</b> (not merely two as suggested in the Second Judges Case review) and laid down detailed norms, further institutionalising the collegium system."
+        },
+        {
+          "q": "In L. Chandra Kumar v. Union of India (1997), the Supreme Court held that:",
+          "o": [
+            "The power of judicial review vested in the High Courts and Supreme Court under Articles 226 and 32 respectively is part of the basic structure of the Constitution",
+            "Tribunals are wholly outside the scope of judicial review",
+            "Article 323A and 323B ousting High Court jurisdiction over tribunals were fully valid",
+            "The Supreme Court alone, not High Courts, can exercise judicial review"
+          ],
+          "a": 0,
+          "e": "In <b>L. Chandra Kumar (1997)</b>, the Supreme Court held that judicial review under <b>Articles 32 and 226</b> is a part of the basic structure, and that tribunals, while permissible as the first tier of adjudication, cannot exclude the supervisory jurisdiction of High Courts."
+        },
+        {
+          "q": "The doctrine that a court can strike down a constitutional amendment if it damages or destroys the 'basic structure' of the Constitution, even though such amendment does not directly violate a Fundamental Right, was propounded in:",
+          "o": [
+            "Golak Nath v. State of Punjab (1967)",
+            "Kesavananda Bharati v. State of Kerala (1973)",
+            "Minerva Mills v. Union of India (1980)",
+            "Indira Gandhi v. Raj Narain (1975)"
+          ],
+          "a": 1,
+          "e": "In <b>Kesavananda Bharati v. State of Kerala (1973)</b>, a 13-judge bench held that Parliament's amending power under Article 368 is limited and cannot be used to alter the <b>'basic structure'</b> of the Constitution, a doctrine central to judicial review of amendments."
+        },
+        {
+          "q": "In Minerva Mills v. Union of India (1980), the Supreme Court struck down certain changes made by the 42nd Amendment Act on the ground that:",
+          "o": [
+            "They gave undue primacy to Fundamental Rights over Directive Principles",
+            "They removed limitations on the amending power and sought to place constitutional amendments beyond judicial review, violating the basic structure",
+            "They abolished the Governor's office",
+            "They created the NJAC unconstitutionally"
+          ],
+          "a": 1,
+          "e": "In <b>Minerva Mills (1980)</b>, the Court struck down clauses of the 42nd Amendment that gave unlimited amending power to Parliament and barred judicial review of amendments, holding that <b>limited amending power</b> and <b>judicial review</b> are part of the basic structure."
+        },
+        {
+          "q": "Which of the following statements about the harmonious construction between Article 32 and Article 226 in the context of judicial review is most accurate?",
+          "o": [
+            "Article 226 jurisdiction of High Courts is narrower than Article 32 as it applies only to Fundamental Rights",
+            "Article 32 is itself a Fundamental Right while Article 226 is a constitutional (not fundamental) right, though Article 226 has a wider scope covering 'any other purpose'",
+            "Article 32 and Article 226 confer identical and coextensive powers with no difference",
+            "Article 226 can only be invoked after exhausting remedies under Article 32"
+          ],
+          "a": 1,
+          "e": "<b>Article 32</b> is itself a Fundamental Right (a 'guaranteed remedy'), enforceable only for Fundamental Rights violations, whereas <b>Article 226</b> is a wider but ordinary constitutional power of High Courts extending to Fundamental Rights and 'any other purpose', i.e., legal rights generally."
+        },
+        {
+          "q": "The power of the Supreme Court under Article 142 to pass orders for 'complete justice' has, in practice, been invoked in cases such as:",
+          "o": [
+            "Only in disputes between States under Article 131",
+            "The Bhopal Gas Tragedy compensation case and the Ayodhya title dispute verdict",
+            "Only advisory references under Article 143",
+            "Exclusively in matters of contempt of court"
+          ],
+          "a": 1,
+          "e": "The Supreme Court has used its <b>Article 142</b> power for 'complete justice' in landmark instances such as the <b>Bhopal Gas Tragedy (Union Carbide) settlement</b> and the <b>Ayodhya (M. Siddiq) verdict, 2019</b>, going beyond strict legal provisions to render equitable relief."
+        },
+        {
+          "q": "With respect to the appointment of judges, which of the following sequences correctly represents the chronological evolution from executive primacy to the collegium system?",
+          "o": [
+            "Third Judges Case → Second Judges Case → First Judges Case → NJAC",
+            "First Judges Case (1981) → Second Judges Case (1993) → Third Judges Case (1998) → NJAC (2014, struck down 2015)",
+            "NJAC → First Judges Case → Third Judges Case → Second Judges Case",
+            "Second Judges Case → First Judges Case → NJAC → Third Judges Case"
+          ],
+          "a": 1,
+          "e": "The correct chronology is: <b>First Judges Case (1981)</b> upheld executive primacy, the <b>Second Judges Case (1993)</b> introduced the collegium, the <b>Third Judges Case (1998)</b> expanded and clarified it, and the <b>NJAC (2014)</b> was struck down in 2015, restoring the collegium."
+        },
+        {
+          "q": "Which of the following is/are grounds on which Indian courts have exercised judicial review of legislative action, as evolved through case law?\n1. Violation of Fundamental Rights (Part III)\n2. Legislative incompetence, i.e., a law made beyond the legislature's competence under the Seventh Schedule\n3. Violation of other constitutional provisions or the basic structure\nSelect the correct answer using the code below:",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "Courts review legislation on grounds of <b>Fundamental Rights violation</b>, <b>legislative incompetence</b> (ultra vires the Seventh Schedule distribution of powers), and <b>violation of other constitutional provisions/basic structure</b>; all three are well-established grounds."
+        },
+        {
+          "q": "In the context of the Supreme Court's advisory jurisdiction, which of the following statements is correct regarding the 1993 Ayodhya Presidential Reference (Ismail Faruqui / Dr. M. Ismail Faruqui v. Union of India)?",
+          "o": [
+            "The Supreme Court answered the reference and definitively ruled on title to the disputed land",
+            "The Supreme Court declined to answer the reference, considering it superfluous and unnecessary",
+            "The reference was regarding the appointment of judges, not the Ayodhya dispute",
+            "The Supreme Court held the reference to be mandatory in nature and binding on all parties"
+          ],
+          "a": 1,
+          "e": "In the 1993 Presidential Reference case (<b>Ismail Faruqui v. Union of India</b>), the Supreme Court declined to answer the reference on whether a temple existed at the disputed site, calling it <b>superfluous and unnecessary</b> to decide, illustrating the Court's discretion under Article 143."
+        },
+        {
+          "q": "Which of the following best explains why the Indian model of judicial review, though inspired by the US, is often described as a 'middle path' between the US and UK models?",
+          "o": [
+            "India follows 'due process of law' exactly like the USA with no restriction on judicial review",
+            "India follows 'procedure established by law' historically, tempered by expansive judicial interpretation of Article 21 post Maneka Gandhi (1978), blending elements of both systems",
+            "India has no judicial review at all, similar to the UK's parliamentary sovereignty",
+            "India's judicial review applies only to money bills"
+          ],
+          "a": 1,
+          "e": "India originally adopted <b>'procedure established by law'</b> (closer to the UK approach) rather than the US 'due process', but post <b>Maneka Gandhi v. Union of India (1978)</b>, courts read fairness and reasonableness into Article 21, effectively importing substantive due process elements — a blend often called a 'middle path'."
+        },
+        {
+          "q": "Regarding transfer of a High Court judge under Article 222, the requirement of 'consultation with the Chief Justice of India' was interpreted by the Supreme Court in which case to mean that the CJI's opinion, formed collectively, should have primacy?",
+          "o": [
+            "S.P. Gupta v. Union of India (1981)",
+            "Supreme Court Advocates-on-Record Association v. Union of India (1993)",
+            "Union of India v. Sankalchand Himatlal Sheth (1977)",
+            "Kesavananda Bharati v. State of Kerala (1973)"
+          ],
+          "a": 1,
+          "e": "While <b>Sankalchand Sheth (1977)</b> earlier examined 'consultation' in the context of transfers holding it need not mean concurrence, it was the <b>Second Judges Case (1993)</b> that decisively held CJI's collectively-formed opinion must have primacy in transfers as well as appointments."
+        },
+        {
+          "q": "Which of the following statements correctly distinguishes 'original jurisdiction' from 'appellate jurisdiction' of the Supreme Court?",
+          "o": [
+            "Original jurisdiction means cases are instituted directly in the Supreme Court, as under Article 131, while appellate jurisdiction means the Court reviews decisions of lower courts, as under Articles 132-136",
+            "Original jurisdiction and appellate jurisdiction both refer to advisory opinions under Article 143",
+            "Appellate jurisdiction can only be invoked by States, never by individuals",
+            "Original jurisdiction covers criminal appeals exclusively"
+          ],
+          "a": 0,
+          "e": "<b>Original jurisdiction</b> (Article 131) allows cases to be filed directly in the Supreme Court (mainly Centre-State/inter-State disputes), while <b>appellate jurisdiction</b> (Articles 132-136) involves hearing appeals against judgments of High Courts and other courts/tribunals."
+        }
+      ]
+    }
+  },
+  {
+    "id": "judicial_activism_pil",
+    "title": "Judicial Activism & PIL",
+    "desc": "Origin of PIL, relaxed locus standi and judicial overreach debates",
+    "questions": {
+      "basic": [
+        {
+          "q": "Public Interest Litigation (PIL) in India is most closely associated with the judicial contributions of which two judges?",
+          "o": [
+            "Justice P.N. Bhagwati and Justice V.R. Krishna Iyer",
+            "Justice H.R. Khanna and Justice A.N. Ray",
+            "Justice M. Hidayatullah and Justice Y.V. Chandrachud",
+            "Justice Subba Rao and Justice K. Subba Rao"
+          ],
+          "a": 0,
+          "e": "<b>Justice P.N. Bhagwati</b> and <b>Justice V.R. Krishna Iyer</b> are widely credited as the pioneers of <b>Public Interest Litigation (PIL)</b> in India during the late 1970s and early 1980s."
+        },
+        {
+          "q": "PIL in India allows a person to approach the court on behalf of another person or group even if they have not personally suffered any legal injury. This is achieved through relaxation of which legal doctrine?",
+          "o": [
+            "Doctrine of pleasure",
+            "Doctrine of locus standi",
+            "Doctrine of colourable legislation",
+            "Doctrine of eclipse"
+          ],
+          "a": 1,
+          "e": "PIL relaxed the traditional rule of <b>locus standi</b> (standing to sue), allowing any public-spirited person to move the court on behalf of those unable to approach it themselves due to poverty or disability."
+        },
+        {
+          "q": "The term used for the practice where courts treat a letter or postcard addressed to a judge as a writ petition is called:",
+          "o": [
+            "Suo motu jurisdiction",
+            "Epistolary jurisdiction",
+            "Advisory jurisdiction",
+            "Curative jurisdiction"
+          ],
+          "a": 1,
+          "e": "<b>Epistolary jurisdiction</b> refers to the practice of treating letters, telegrams or postcards addressed to the court as writ petitions, a device used extensively to widen access to justice in PILs."
+        },
+        {
+          "q": "Hussainara Khatoon v. State of Bihar (1979), often cited as the first reported PIL case in India, primarily concerned:",
+          "o": [
+            "Environmental pollution in the Ganga",
+            "The right to speedy trial and release of undertrial prisoners languishing in Bihar jails",
+            "Reservation in public employment",
+            "The Governor's discretionary powers"
+          ],
+          "a": 1,
+          "e": "<b>Hussainara Khatoon v. State of Bihar (1979)</b> exposed the plight of undertrial prisoners held in jail for periods longer than the maximum sentence for their alleged offence, leading the Supreme Court to recognise the <b>right to speedy trial</b> as part of Article 21."
+        },
+        {
+          "q": "Which writ, commonly used in PILs concerning illegal detention, directs that a detained person be produced before the court?",
+          "o": [
+            "Mandamus",
+            "Certiorari",
+            "Habeas Corpus",
+            "Quo Warranto"
+          ],
+          "a": 2,
+          "e": "<b>Habeas Corpus</b> ('to have the body') is a writ directing that a person alleged to be illegally detained be produced before the court, frequently invoked in PILs relating to unlawful detention."
+        },
+        {
+          "q": "S.P. Gupta v. Union of India (1981), apart from dealing with judges' appointments, is also significant for having:",
+          "o": [
+            "Restricted PIL only to affected individuals",
+            "Widened the concept of locus standi, allowing any public-spirited citizen to approach the court in matters of public interest",
+            "Abolished writ jurisdiction of High Courts",
+            "Introduced the NJAC"
+          ],
+          "a": 1,
+          "e": "<b>S.P. Gupta v. Union of India (1981)</b> significantly liberalised the rule of <b>locus standi</b>, holding that any member of the public with sufficient interest could maintain an action for judicial redress of a legal wrong affecting a class of persons."
+        },
+        {
+          "q": "Which of the following is a common criticism leveled against expansive judicial activism in India?",
+          "o": [
+            "It strengthens the separation of powers strictly",
+            "It amounts to 'judicial overreach' into the domains of the legislature and executive",
+            "It reduces the workload of the judiciary",
+            "It eliminates the need for Fundamental Rights"
+          ],
+          "a": 1,
+          "e": "Critics argue that excessive judicial activism can result in <b>'judicial overreach'</b>, where courts step into policy-making functions that constitutionally belong to the legislature and executive, blurring the separation of powers."
+        },
+        {
+          "q": "PIL cases in India are typically filed under which constitutional provisions?",
+          "o": [
+            "Articles 32 and 226",
+            "Articles 124 and 217",
+            "Articles 356 and 360",
+            "Articles 74 and 75"
+          ],
+          "a": 0,
+          "e": "PILs are generally filed invoking the writ jurisdiction of the Supreme Court under <b>Article 32</b> or of High Courts under <b>Article 226</b>."
+        },
+        {
+          "q": "The expansion of Article 21 to include rights such as the right to a speedy trial, right to legal aid, and right to a clean environment through judicial interpretation is an example of:",
+          "o": [
+            "Judicial restraint",
+            "Judicial activism",
+            "Doctrine of pleasure",
+            "Colourable legislation"
+          ],
+          "a": 1,
+          "e": "The progressive interpretation of Article 21 to read in rights not explicitly mentioned in the text is a hallmark example of <b>judicial activism</b> in India."
+        },
+        {
+          "q": "In which decade did Public Interest Litigation emerge as a distinct feature of Indian constitutional practice?",
+          "o": [
+            "1950s",
+            "1960s",
+            "Late 1970s and 1980s",
+            "2000s"
+          ],
+          "a": 2,
+          "e": "PIL emerged as a distinct jurisprudential tool in India during the <b>late 1970s and 1980s</b>, in the aftermath of the Emergency, spearheaded by judges like Bhagwati and Krishna Iyer."
+        },
+        {
+          "q": "Which of the following best describes 'suo motu' cognizance by courts?",
+          "o": [
+            "A case initiated by the court itself, without any formal petition being filed",
+            "A case that can only be filed by the Attorney General",
+            "A case restricted to criminal appeals only",
+            "A case that requires prior sanction of the President"
+          ],
+          "a": 0,
+          "e": "<b>Suo motu</b> ('on its own motion') refers to courts taking up a matter for adjudication on their own initiative, often based on media reports or letters, without a formal petition."
+        },
+        {
+          "q": "Bandhua Mukti Morcha v. Union of India (1984) is a landmark PIL case dealing with which issue?",
+          "o": [
+            "Bonded labour and its abolition",
+            "Environmental degradation of rivers",
+            "Reservation policy in higher education",
+            "Governor's discretionary powers"
+          ],
+          "a": 0,
+          "e": "<b>Bandhua Mukti Morcha v. Union of India (1984)</b> was a PIL concerning the plight of <b>bonded labourers</b>, in which the Supreme Court laid down guidelines for their identification, release, and rehabilitation."
+        },
+        {
+          "q": "Which of the following writs is used by a court to command a public authority to perform a public duty it has failed to perform?",
+          "o": [
+            "Mandamus",
+            "Prohibition",
+            "Quo Warranto",
+            "Certiorari"
+          ],
+          "a": 0,
+          "e": "<b>Mandamus</b> ('we command') is a writ issued to a public authority directing it to perform a public duty that it has failed or refused to perform, frequently used in PILs to enforce governmental accountability."
+        },
+        {
+          "q": "The relaxation of the rule of locus standi in PILs primarily benefits which category of persons?",
+          "o": [
+            "Only government officials",
+            "Poor, disadvantaged and marginalised persons unable to approach courts themselves",
+            "Only registered political parties",
+            "Only foreign nationals"
+          ],
+          "a": 1,
+          "e": "PIL's relaxed locus standi was designed to help <b>poor, illiterate and marginalised individuals</b> who, due to poverty, social disability, or ignorance, cannot approach courts themselves to enforce their rights."
+        },
+        {
+          "q": "Which of the following is an example of judicial activism through PIL in the environmental domain?",
+          "o": [
+            "M.C. Mehta v. Union of India (various cases on pollution control)",
+            "Kesavananda Bharati v. State of Kerala",
+            "S.R. Bommai v. Union of India",
+            "Golak Nath v. State of Punjab"
+          ],
+          "a": 0,
+          "e": "<b>M.C. Mehta v. Union of India</b>, a series of PILs, led to landmark directions on controlling pollution, including the closure of polluting tanneries near the Ganga and vehicular emission norms in Delhi, exemplifying environmental judicial activism."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the origin of PIL in India:\n1. PIL was expressly provided for in the original text of the Constitution of 1950.\n2. PIL developed as a judicial innovation to widen access to justice, especially after the experience of the Emergency (1975-77).\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "PIL is not mentioned in the original constitutional text; it is a <b>judicial innovation</b> that developed through case law from the late 1970s, partly as a corrective response to the excesses of the <b>Emergency</b>, making statement 2 correct and statement 1 incorrect."
+        },
+        {
+          "q": "Consider the following statements regarding Hussainara Khatoon v. State of Bihar (1979):\n1. It recognised the right to a speedy trial as an essential ingredient of Article 21.\n2. It resulted in the release of numerous undertrial prisoners who had been detained longer than the maximum sentence for their offence.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The case, decided by a bench including Justice Bhagwati, held that the <b>right to speedy trial</b> is implicit in Article 21, and directed the release of undertrials who had already suffered incarceration exceeding the maximum punishment for their offence; both statements are correct."
+        },
+        {
+          "q": "Which of the following statements about 'epistolary jurisdiction' is/are correct?\n1. It allows courts to convert an informal letter into a writ petition.\n2. It was primarily developed to reduce the procedural and financial barriers faced by the poor in accessing courts.\nSelect the correct answer using the code below:",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Epistolary jurisdiction</b> permits treating letters as formal petitions, and its underlying rationale was to reduce the costly and technical procedural barriers that prevented the poor and marginalised from directly approaching courts."
+        },
+        {
+          "q": "With reference to criticisms of PIL and judicial activism in India, consider the following statements:\n1. Critics argue that PIL has sometimes been misused for personal, political or publicity purposes ('Publicity Interest Litigation').\n2. Critics argue that judicial overreach can undermine the separation of powers by making courts perform legislative or executive functions.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both criticisms are widely voiced: PIL is sometimes derisively called <b>'Publicity Interest Litigation'</b> or 'Private Interest Litigation' when misused, and excessive judicial directions on policy matters are criticised as <b>judicial overreach</b> violating separation of powers."
+        },
+        {
+          "q": "Consider the following statements comparing 'judicial activism' and 'judicial restraint':\n1. Judicial activism favours a proactive role of courts in protecting rights and reviewing state action.\n2. Judicial restraint favours courts deferring to the wisdom of the legislature and executive in policy matters.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Judicial activism</b> is characterised by courts proactively expanding rights and reviewing state action, while <b>judicial restraint</b> emphasises deference to the elected branches on policy matters; both statements correctly describe the two approaches."
+        },
+        {
+          "q": "Which of the following case(s) is/are correctly associated with the expansion of Article 21 through judicial activism?\n1. Maneka Gandhi v. Union of India (1978) - procedure under Article 21 must be fair, just and reasonable\n2. Olga Tellis v. Bombay Municipal Corporation (1985) - right to livelihood as part of right to life\nSelect the correct answer using the code below:",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Maneka Gandhi (1978)</b> held that procedure under Article 21 must be fair, just and reasonable, and <b>Olga Tellis (1985)</b> recognised the <b>right to livelihood</b> as part of the right to life; both are landmark instances of judicially expanding Article 21."
+        },
+        {
+          "q": "Consider the following statements about the People's Union for Democratic Rights (PUDR) v. Union of India (1982) case:\n1. It was a PIL concerning the exploitation of workers employed in projects connected with the 1982 Asian Games.\n2. The Supreme Court held that payment of wages below the statutory minimum wage amounted to forced labour under Article 23.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "In <b>PUDR v. Union of India (1982)</b>, also called the Asiad Workers' case, the Court held that paying workers less than the minimum wage constituted <b>forced labour</b> prohibited under Article 23, and the case was based on a PIL regarding Asian Games construction workers; both statements are correct."
+        },
+        {
+          "q": "With respect to the procedural relaxations introduced through PIL, which of the following is/are correct?\n1. Strict rules of pleadings and evidence, as in ordinary civil litigation, were relaxed by courts in PIL matters.\n2. Courts began appointing socio-legal commissions or fact-finding committees to investigate facts in PIL cases.\nSelect the correct answer using the code below:",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "In PIL cases, courts relaxed the <b>strict adversarial procedure and rules of pleading/evidence</b>, and frequently appointed <b>fact-finding commissions or committees</b> to investigate ground realities, both hallmarks of the flexible PIL process."
+        },
+        {
+          "q": "Consider the following statements regarding judicial review of legislative/policy inaction through PIL:\n1. Courts have, through PIL, issued directions in the absence of legislation, such as the Vishaka Guidelines (1997) on workplace sexual harassment.\n2. Such directions issued in a legislative vacuum are considered permanent and can never be superseded by subsequent legislation.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "In <b>Vishaka v. State of Rajasthan (1997)</b>, the Supreme Court laid down guidelines on workplace sexual harassment in the absence of legislation, making statement 1 correct. However, such judicially framed guidelines are explicitly meant to operate only <b>until Parliament legislates</b> on the subject, and were later superseded by the Sexual Harassment of Women at Workplace Act, 2013, making statement 2 incorrect."
+        },
+        {
+          "q": "Which of the following statements about the difference between traditional litigation and PIL is/are correct?\n1. In traditional litigation, only the aggrieved party can approach the court, while in PIL any public-spirited person can do so on behalf of an affected class.\n2. PIL is strictly limited to fundamental rights violations and cannot address violations of ordinary statutory rights.\nSelect the correct answer using the code below:",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly captures the essence of relaxed locus standi in PIL. Statement 2 is incorrect because PIL, especially under Article 226, can also address violations of <b>statutory and other legal rights</b>, not just Fundamental Rights."
+        },
+        {
+          "q": "Consider the following statements on Justice V.R. Krishna Iyer's contribution to PIL jurisprudence:\n1. He was associated with early cases relaxing locus standi and emphasising access to justice for the poor.\n2. He authored the majority opinion striking down the NJAC in 2015.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Justice Krishna Iyer was a pioneering figure in relaxing locus standi and promoting access to justice through cases like Municipal Council, Ratlam v. Vardhichand, making statement 1 correct. He <b>retired in 1980</b>, long before the NJAC case (2015), making statement 2 incorrect."
+        },
+        {
+          "q": "With reference to Municipal Council, Ratlam v. Vardhichand (1980), consider the following statements:\n1. The Supreme Court directed a municipality to perform its statutory duty of sanitation despite pleading a lack of financial resources.\n2. The Court held that budgetary constraints cannot be a valid excuse for a local authority to evade its statutory public duties.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "In this case, Justice Krishna Iyer directed the <b>Ratlam Municipality</b> to fulfil its sanitation obligations and held that a <b>plea of financial inability</b> is not a valid defence against enforcement of a public duty; both statements are correct."
+        },
+        {
+          "q": "Consider the following statements about the effect of PIL on the doctrine of separation of powers:\n1. Some scholars argue PIL has blurred the lines between judicial, executive and legislative functions by allowing courts to monitor implementation of policies.\n2. The Supreme Court itself has, in some judgments, cautioned against courts assuming administrative or legislative functions through continuous mandamus.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both concerns are well documented: scholars note PIL's expansion into <b>policy monitoring</b> blurs separation of powers, and the Supreme Court itself has, in various judgments, urged caution against courts overstepping into <b>administrative/legislative domains</b> through continuous mandamus."
+        },
+        {
+          "q": "Which of the following pairs of PIL-related concepts is/are correctly matched?\n1. Continuing mandamus — Court retains seizure of a case, issuing periodic directions to ensure compliance\n2. Amicus curiae — An independent person appointed to assist the court, often used in complex PIL matters\nSelect the correct answer using the code below:",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Continuing mandamus</b> refers to courts retaining jurisdiction over a matter and issuing periodic directions to monitor compliance (e.g., in Vineet Narain's case), and an <b>amicus curiae</b> ('friend of the court') is appointed to assist in complex matters; both are correctly matched."
+        },
+        {
+          "q": "Consider the following statements regarding the balance sought between judicial activism and judicial accountability:\n1. Judicial activism, being based on judge-made law, does not require the same electoral accountability as legislative action.\n2. Excessive activism, without corresponding accountability mechanisms, is sometimes termed 'judicial adventurism' by critics.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Judges are not electorally accountable, unlike legislators, which is why unchecked expansion of judicial power raises concerns; critics have used the term <b>'judicial adventurism'</b> to describe instances viewed as courts overstepping their constitutional role."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Which of the following best captures the doctrinal shift brought by S.P. Gupta v. Union of India (1981) regarding standing to sue?",
+          "o": [
+            "It restricted PIL to only registered NGOs",
+            "It held that any member of the public with 'sufficient interest' can maintain an action for judicial redress for public injury arising from breach of public duty or violation of constitutional/legal provisions",
+            "It abolished the concept of locus standi altogether, allowing anyone to file any case",
+            "It limited standing exclusively to Bar Council members"
+          ],
+          "a": 1,
+          "e": "Justice Bhagwati in <b>S.P. Gupta (1981)</b> held that where a legal wrong is caused to a class of persons who by reason of poverty or disability cannot approach the court, any member of the public acting bona fide with <b>'sufficient interest'</b> can move the court for redress — a foundational articulation of Indian PIL standing."
+        },
+        {
+          "q": "In Bandhua Mukti Morcha v. Union of India (1984), Justice Bhagwati emphasised which distinctive feature of PIL adjudication?",
+          "o": [
+            "Strict adherence to adversarial procedure with no scope for court-appointed commissions",
+            "The court can adopt an inquisitorial approach, appointing commissions to ascertain facts, departing from the traditional adversarial model",
+            "PIL cases must be dismissed if the petitioner is not personally aggrieved",
+            "The Directive Principles have no relevance to PIL adjudication"
+          ],
+          "a": 1,
+          "e": "In <b>Bandhua Mukti Morcha (1984)</b>, Justice Bhagwati underscored that in PIL, courts could depart from the strict adversarial model and adopt an <b>inquisitorial approach</b>, including appointing socio-legal commissions of inquiry to ascertain facts regarding bonded labour conditions."
+        },
+        {
+          "q": "The phrase 'access to justice' as a driving rationale for PIL is most linked to which structural problem in the Indian legal system that PIL sought to address?",
+          "o": [
+            "Excess of judges relative to case pendency",
+            "The inability of poor, illiterate and disadvantaged persons to bear the costs and complexities of traditional litigation",
+            "Overuse of the death penalty",
+            "Excessive use of Article 356"
+          ],
+          "a": 1,
+          "e": "PIL emerged largely to address the structural problem that <b>poor and disadvantaged persons</b> could not access courts due to high costs, illiteracy, and complex procedures, and thus needed public-spirited persons or the court itself to initiate proceedings on their behalf."
+        },
+        {
+          "q": "Which of the following is the most accurate description of 'judicial overreach' as distinguished from legitimate 'judicial activism'?",
+          "o": [
+            "Judicial overreach refers to courts merely interpreting existing laws, while judicial activism refers to courts making new laws",
+            "Judicial overreach is generally understood as courts crossing into policy-making or administrative domains reserved for the legislature/executive, going beyond interpretation and enforcement of rights",
+            "There is no meaningful distinction; the two terms are legally synonymous under the Constitution",
+            "Judicial overreach refers only to cases decided by a single judge bench"
+          ],
+          "a": 1,
+          "e": "While judicial activism broadly refers to a proactive judicial role in protecting rights, <b>'judicial overreach'</b> is the pejorative term used when courts are seen as substituting their own policy judgments for those of elected branches, effectively performing legislative or executive functions."
+        },
+        {
+          "q": "In Vineet Narain v. Union of India (1997) (the Jain Hawala case), the Supreme Court's use of 'continuing mandamus' primarily served to:",
+          "o": [
+            "Permanently transfer investigative powers of the CBI to the judiciary",
+            "Monitor the progress of CBI/investigative agencies in a politically sensitive corruption investigation through periodic judicial directions until compliance",
+            "Strike down the Prevention of Corruption Act as unconstitutional",
+            "Establish the NJAC for judicial appointments"
+          ],
+          "a": 1,
+          "e": "In <b>Vineet Narain (1997)</b>, the Supreme Court exercised 'continuing mandamus', retaining seizure of the case and issuing periodic directions to ensure the <b>CBI and other agencies</b> completed a politically sensitive corruption investigation impartially, without permanently taking over their statutory functions."
+        },
+        {
+          "q": "Which of the following statements about the relationship between PIL and Directive Principles of State Policy (DPSPs) is most accurate?",
+          "o": [
+            "Courts have used PIL as a vehicle to enforce DPSPs indirectly by reading them into Fundamental Rights, particularly Article 21",
+            "DPSPs can be directly enforced through PIL without any linkage to Fundamental Rights",
+            "PIL has no relationship whatsoever with DPSPs",
+            "DPSPs were rendered redundant once PIL was introduced"
+          ],
+          "a": 0,
+          "e": "Since <b>DPSPs are non-justiciable</b> under Article 37, courts have used PIL to indirectly enforce them by harmoniously reading DPSP goals (like health, environment, livelihood) into the expansive interpretation of <b>Article 21</b>, effectively making some directive principles judicially enforceable in substance."
+        },
+        {
+          "q": "Which of the following criticisms has been specifically directed at the misuse of PIL, sometimes termed 'Publicity Interest Litigation'?",
+          "o": [
+            "Filing genuine petitions on behalf of bonded labourers",
+            "Filing frivolous or politically motivated petitions primarily to gain media attention or settle personal scores, rather than genuine public interest",
+            "Seeking enforcement of the right to a speedy trial",
+            "Seeking environmental protection under Article 21"
+          ],
+          "a": 1,
+          "e": "Courts, including the Supreme Court, have on occasion criticised and imposed costs on petitioners who file frivolous PILs for <b>publicity, personal vendetta, or political mileage</b>, terming such misuse 'Publicity Interest Litigation' or 'Private Interest Litigation'."
+        },
+        {
+          "q": "Which of the following best explains why PIL is sometimes described as a uniquely 'Indian innovation' distinct from public interest litigation practices in other common law countries?",
+          "o": [
+            "Indian PIL requires a locus standi identical to that in the USA and UK, with no relaxation at all",
+            "Indian PIL evolved through extensive relaxation of locus standi, epistolary jurisdiction, and an inquisitorial, remedy-oriented approach uniquely suited to India's socio-economic conditions of poverty and illiteracy",
+            "PIL in India can only be filed by the Attorney General of India",
+            "PIL is identical to a class action suit under the Code of Civil Procedure with no distinguishing features"
+          ],
+          "a": 1,
+          "e": "Indian PIL is often described as unique because of its far-reaching relaxation of standing, adoption of <b>epistolary jurisdiction</b>, inquisitorial fact-finding, and remedial focus tailored to India's specific socio-economic realities of mass poverty and illiteracy, distinguishing it from PIL/class-action mechanisms elsewhere."
+        },
+        {
+          "q": "In the context of PIL and judicial activism, the Supreme Court's directions in Vishaka v. State of Rajasthan (1997) laying down guidelines against sexual harassment at the workplace, in the absence of specific legislation, are often cited as an example of the Court exercising which function?",
+          "o": [
+            "Purely interpretative function with no law-making element",
+            "A quasi-legislative function, filling a legislative vacuum by invoking Article 32 read with international conventions such as CEDAW, until Parliament enacted a law",
+            "Advisory jurisdiction under Article 143",
+            "Original jurisdiction under Article 131"
+          ],
+          "a": 1,
+          "e": "In <b>Vishaka (1997)</b>, the Court, invoking Article 32 and India's obligations under <b>CEDAW</b>, laid down binding guidelines in the absence of legislation — widely cited as an instance of the judiciary performing a <b>quasi-legislative function</b> to fill a legal vacuum, later replaced by the 2013 Act."
+        },
+        {
+          "q": "Which of the following statements correctly reflects the Supreme Court's own view (expressed in various judgments) on self-restraint in PIL matters involving policy decisions?",
+          "o": [
+            "Courts have held that they should substitute their own policy preferences for those of the executive in all economic matters",
+            "Courts have repeatedly cautioned that they should not act as an appellate authority over policy decisions unless they violate the Constitution or the law, respecting separation of powers",
+            "Courts have held that judicial review of executive policy is completely barred under all circumstances",
+            "Courts have held that PIL is available only for challenging Money Bills"
+          ],
+          "a": 1,
+          "e": "The Supreme Court has repeatedly emphasised (e.g., in cases on economic policy) that courts should exercise <b>self-restraint</b> and not sit in appeal over policy decisions unless there is a violation of constitutional provisions, statutory mandate, or manifest arbitrariness, respecting the separation of powers."
+        },
+        {
+          "q": "Which of the following statements about the origin and early development of PIL is most accurate?",
+          "o": [
+            "PIL was introduced through a specific constitutional amendment enacted by Parliament",
+            "PIL developed primarily through judicial interpretation and activism of judges like Bhagwati and Krishna Iyer, using existing provisions such as Articles 32 and 226 innovatively, rather than through any specific amendment",
+            "PIL was first introduced in India by the Law Commission's statutory recommendation which was directly enacted as law",
+            "PIL originated in the Government of India Act, 1935"
+          ],
+          "a": 1,
+          "e": "PIL has no dedicated constitutional amendment or standalone statute; it developed through <b>judicial innovation</b>, with judges creatively using the existing writ jurisdiction under <b>Articles 32 and 226</b> to widen access to justice."
+        },
+        {
+          "q": "Which of the following is the most accurate statement regarding the constitutional basis invoked by courts to justify PIL despite the absence of an explicit 'PIL' provision in the Constitution?",
+          "o": [
+            "Article 370, dealing with special status of Jammu & Kashmir",
+            "Articles 32 and 226, the writ jurisdiction provisions, interpreted expansively along with Article 142 for complete justice",
+            "Article 368, the constitutional amendment provision",
+            "Article 356, dealing with President's Rule"
+          ],
+          "a": 1,
+          "e": "Courts have grounded PIL in the expansive interpretation of the <b>writ jurisdiction under Articles 32 and 226</b>, often combined with the Supreme Court's power under <b>Article 142</b> to do complete justice, even though no article expressly names 'PIL'."
+        },
+        {
+          "q": "Which of the following statements best distinguishes 'representative standing' from 'citizen standing' in the context of Indian PIL jurisprudence?",
+          "o": [
+            "Representative standing allows a person to sue on behalf of a specific disadvantaged group unable to approach the court, while citizen standing allows any citizen to challenge a violation of public duty even without a specific victim group",
+            "Both terms mean exactly the same thing with no distinction",
+            "Representative standing applies only to corporations while citizen standing applies only to individuals",
+            "Citizen standing was rejected entirely by Indian courts"
+          ],
+          "a": 0,
+          "e": "Indian PIL jurisprudence recognises both: <b>'representative standing'</b>, where a petitioner represents a disadvantaged class unable to approach courts (e.g., bonded labourers), and <b>'citizen standing'</b>, where any citizen may challenge a violation of public duty in the nature of a public wrong, even without an identifiable victim class."
+        },
+        {
+          "q": "Which of the following is a valid concern raised regarding judicial activism's impact on the doctrine of separation of powers, as articulated in scholarly and judicial commentary?",
+          "o": [
+            "That courts, through PIL-based continuing mandamus, may end up performing executive functions like monitoring project implementation, blurring functional separation between organs of the State",
+            "That the Fundamental Rights chapter becomes redundant due to PIL",
+            "That the President's legislative powers are enhanced by PIL",
+            "That PIL eliminates the need for a Parliament altogether"
+          ],
+          "a": 0,
+          "e": "A recurring scholarly and judicial concern is that continuing mandamus and detailed monitoring of executive implementation through PIL can result in the judiciary effectively performing <b>executive/administrative functions</b>, raising separation of powers concerns."
+        },
+        {
+          "q": "Which of the following statements about the Supreme Court's approach to 'frivolous PILs' is correct?",
+          "o": [
+            "The Court has never imposed costs on petitioners filing frivolous PILs",
+            "The Court has, in several judgments, imposed exemplary costs on petitioners found to be misusing the PIL mechanism for personal or political gain, to deter frivolous litigation",
+            "Frivolous PILs are automatically referred to the President under Article 143",
+            "The Court is constitutionally barred from dismissing any PIL"
+          ],
+          "a": 1,
+          "e": "The Supreme Court has, in numerous cases, imposed <b>exemplary costs</b> on petitioners who abuse the PIL process for personal, political, or publicity purposes, as a deterrent against frivolous or motivated litigation clogging the judicial system."
+        }
+      ]
+    }
+  },
+  {
+    "id": "governor",
+    "title": "Governor",
+    "desc": "State executive head, discretionary powers and Centre-State link",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Article of the Constitution provides that there shall be a Governor for each State?",
+          "o": [
+            "Article 152",
+            "Article 153",
+            "Article 155",
+            "Article 163"
+          ],
+          "a": 1,
+          "e": "<b>Article 153</b> provides that there shall be a Governor for each State, though one person may be appointed Governor of two or more States."
+        },
+        {
+          "q": "Who appoints the Governor of a State?",
+          "o": [
+            "The Prime Minister",
+            "The Chief Justice of India",
+            "The President of India",
+            "The State Legislature"
+          ],
+          "a": 2,
+          "e": "Under <b>Article 155</b>, the Governor of a State is appointed by the <b>President</b> by warrant under his hand and seal."
+        },
+        {
+          "q": "What is the normal term of office of a Governor?",
+          "o": [
+            "3 years",
+            "4 years",
+            "5 years",
+            "6 years"
+          ],
+          "a": 2,
+          "e": "As per Article 156, a Governor holds office for a term of <b>5 years</b> from the date of assuming office, but holds office during the pleasure of the President."
+        },
+        {
+          "q": "Which Article lays down the qualifications for appointment as Governor?",
+          "o": [
+            "Article 154",
+            "Article 157",
+            "Article 160",
+            "Article 163"
+          ],
+          "a": 1,
+          "e": "<b>Article 157</b> lays down that a person must be a <b>citizen of India</b> and have completed the <b>age of 35 years</b> to be eligible for appointment as Governor."
+        },
+        {
+          "q": "Which Article empowers the Governor to promulgate ordinances when the State Legislature is not in session?",
+          "o": [
+            "Article 123",
+            "Article 200",
+            "Article 213",
+            "Article 356"
+          ],
+          "a": 2,
+          "e": "<b>Article 213</b> empowers the Governor to promulgate <b>ordinances</b> when the State Legislative Assembly (or both Houses in a bicameral state) is not in session."
+        },
+        {
+          "q": "The Governor holds office during the pleasure of which authority?",
+          "o": [
+            "Chief Minister",
+            "President of India",
+            "Chief Justice of the High Court",
+            "Speaker of the Legislative Assembly"
+          ],
+          "a": 1,
+          "e": "Article 156(1) states that the Governor holds office during the <b>pleasure of the President</b>, meaning the President can remove the Governor at any time without assigning any reason."
+        },
+        {
+          "q": "Which Article deals with the Governor's power to grant pardons, reprieves, respites or remissions of punishment?",
+          "o": [
+            "Article 72",
+            "Article 161",
+            "Article 213",
+            "Article 356"
+          ],
+          "a": 1,
+          "e": "<b>Article 161</b> empowers the Governor to grant pardons, reprieves, respites, or remissions of punishment, or to suspend, remit, or commute sentences in respect of offences against laws relating to matters within the State's executive power."
+        },
+        {
+          "q": "Which Article empowers the Governor to reserve a Bill passed by the State Legislature for the consideration of the President?",
+          "o": [
+            "Article 111",
+            "Article 200",
+            "Article 201",
+            "Article 213"
+          ],
+          "a": 1,
+          "e": "<b>Article 200</b> deals with the Governor's options on a Bill presented after passage by the State Legislature, including assent, withholding assent, returning it for reconsideration, or <b>reserving it for the President's consideration</b>."
+        },
+        {
+          "q": "Which Article provides for the Advocate General of a State?",
+          "o": [
+            "Article 76",
+            "Article 143",
+            "Article 165",
+            "Article 177"
+          ],
+          "a": 2,
+          "e": "<b>Article 165</b> provides for the appointment of an <b>Advocate General</b> for each State, appointed by the Governor, who must be qualified to be a High Court judge."
+        },
+        {
+          "q": "Which Article requires the Chief Minister to communicate to the Governor all decisions of the Council of Ministers relating to the administration of state affairs?",
+          "o": [
+            "Article 163",
+            "Article 164",
+            "Article 167",
+            "Article 200"
+          ],
+          "a": 2,
+          "e": "<b>Article 167</b> imposes a duty on the Chief Minister to furnish the Governor with information relating to the administration of the State's affairs and legislative proposals, whenever the Governor so requires."
+        },
+        {
+          "q": "The minimum age requirement for eligibility to become a Governor is:",
+          "o": [
+            "25 years",
+            "30 years",
+            "35 years",
+            "40 years"
+          ],
+          "a": 2,
+          "e": "As per Article 157, a person must have completed the age of <b>35 years</b> to be eligible for appointment as Governor of a State."
+        },
+        {
+          "q": "Which Article empowers the Governor to appoint the Chief Minister of the State?",
+          "o": [
+            "Article 163",
+            "Article 164",
+            "Article 166",
+            "Article 213"
+          ],
+          "a": 1,
+          "e": "<b>Article 164</b> provides that the Chief Minister shall be appointed by the Governor, and other Ministers shall be appointed by the Governor on the advice of the Chief Minister."
+        },
+        {
+          "q": "Article 213 dealing with the Governor's ordinance-making power is broadly modeled on which corresponding provision for the President?",
+          "o": [
+            "Article 72",
+            "Article 74",
+            "Article 123",
+            "Article 143"
+          ],
+          "a": 2,
+          "e": "The Governor's ordinance-making power under <b>Article 213</b> closely parallels the President's ordinance-making power under <b>Article 123</b>, with additional restrictions for certain categories of Bills requiring Presidential instructions."
+        },
+        {
+          "q": "As per Article 163, the Governor is generally required to act:",
+          "o": [
+            "Independently in all matters without any aid or advice",
+            "With the aid and advice of the Council of Ministers, except where the Constitution requires the Governor to act in their discretion",
+            "Only on the advice of the President",
+            "Only on the advice of the Chief Justice of the High Court"
+          ],
+          "a": 1,
+          "e": "<b>Article 163</b> provides that the Governor shall generally act on the <b>aid and advice of the Council of Ministers</b> headed by the Chief Minister, except in matters where the Constitution expressly requires the Governor to act in his discretion."
+        },
+        {
+          "q": "Can a sitting Governor be re-appointed for another term or transferred to another State?",
+          "o": [
+            "No, a Governor's term is strictly non-renewable and non-transferable",
+            "Yes, a Governor is eligible for re-appointment or transfer to another State",
+            "Only transfer is allowed, re-appointment is barred",
+            "Only re-appointment is allowed, transfer is barred"
+          ],
+          "a": 1,
+          "e": "The Constitution does not bar re-appointment or transfer; a Governor is <b>eligible for re-appointment</b> for another term or for transfer to another State, subject to the President's pleasure."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the office of Governor:\n1. A Governor must not be a member of the Legislature of any State.\n2. A Governor must vacate any office of profit before entering office as Governor.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Under Article 158, the Governor <b>shall not be a member</b> of either House of Parliament or of a State Legislature, and if such a member is appointed Governor, they are deemed to have vacated their seat; the Governor must also <b>not hold any other office of profit</b>, making both statements correct."
+        },
+        {
+          "q": "Consider the following statements about the Governor's discretionary powers:\n1. The Governor's discretion, wherever exercised, is expressly and exhaustively enumerated as a closed list in the Constitution.\n2. Situational discretion may arise, for example, in recommending President's Rule or in appointing a Chief Minister when no party has a clear majority.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The Constitution does not provide an exhaustive closed list of discretionary situations; discretion has also evolved through <b>constitutional conventions and practice</b>, such as choosing a Chief Minister in a hung Assembly, making statement 1 incorrect and statement 2 correct."
+        },
+        {
+          "q": "Consider the following statements regarding the removal of a Governor:\n1. A Governor can be removed by the President at any time without assigning any reason.\n2. The Constitution provides an impeachment-like procedure involving Parliament for removal of a Governor, similar to that for a Supreme Court Judge.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Since the Governor holds office during the <b>pleasure of the President</b>, removal can occur at any time without assigning reasons or following an impeachment procedure, making statement 1 correct and statement 2 incorrect — unlike judges, there is no Parliamentary impeachment process for Governors."
+        },
+        {
+          "q": "With reference to the Governor's role in Bill-related matters under Article 200, consider the following statements:\n1. The Governor can withhold assent to a Bill.\n2. If the Governor returns a Bill for reconsideration and the Legislature passes it again with or without amendments, the Governor is bound to give assent.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Article 200 permits the Governor to <b>withhold assent</b>, and if a Bill is returned and re-passed by the Legislature, the Governor <b>shall not withhold assent</b> again, making both statements correct."
+        },
+        {
+          "q": "Consider the following statements about the Governor's dual role:\n1. As the constitutional head of the State, the Governor normally acts on the aid and advice of the Council of Ministers.\n2. As an agent of the Centre, the Governor is expected to keep the Union government informed and may act as a channel of communication between the State and the Centre.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements correctly capture the Governor's <b>dual role</b>: a constitutional head bound generally by ministerial advice, and simultaneously a representative of the Union, appointed by and answerable to the President, serving as a link between Centre and State."
+        },
+        {
+          "q": "Consider the following statements on the Sarkaria Commission (1988) recommendations regarding the Governor:\n1. It recommended that the Governor should be a detached, non-partisan figure, preferably an eminent person not too intimately connected with the appointing party.\n2. It recommended abolishing the office of Governor altogether.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The <b>Sarkaria Commission (1988)</b> recommended that Governors be eminent, detached persons not too closely tied to the party in power at the Centre; it did <b>not recommend abolishing</b> the office, making statement 1 correct and statement 2 incorrect."
+        },
+        {
+          "q": "Consider the following statements about the Punchhi Commission (2010) recommendations on Governors:\n1. It recommended a fixed five-year tenure for Governors, with removal only for compelling reasons following a process of impeachment by the State Legislature.\n2. It recommended that Governors should not be removed at the whim of the Union Government merely because they belong to a different political ideology.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The <b>Punchhi Commission (2010)</b> recommended that Governors not be removed arbitrarily or for holding a different political ideology from the Union government, making statement 2 correct. However, it did not propose an <b>impeachment process via the State Legislature</b>; it favoured a fixed tenure with removal restricted to a process involving the Centre and safeguards, making statement 1 incorrect as described."
+        },
+        {
+          "q": "Which of the following statements about the appointment of a Chief Minister in a hung Assembly is/are correct?\n1. The Governor's choice in such situations is guided by conventions rather than an explicit constitutional provision.\n2. The Sarkaria Commission suggested an order of preference, such as giving the first opportunity to the pre-poll alliance with the largest number of seats.\nSelect the correct answer using the code below:",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "In a hung Assembly, there is no explicit constitutional text guiding the Governor's choice, so <b>conventions</b> apply, and the <b>Sarkaria Commission</b> suggested a specific order of preference (pre-poll alliance, single largest party, post-poll alliance, etc.), making both statements correct."
+        },
+        {
+          "q": "Consider the following statements about the Governor's ordinance-making power under Article 213:\n1. A Governor cannot promulgate an ordinance on a matter which would have required prior instructions from the President if introduced as a Bill.\n2. An ordinance promulgated by the Governor has the same force as an Act of the State Legislature but must be laid before the Legislature and ceases to operate six weeks after its reassembly unless approved.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Article 213 restricts the Governor from promulgating an ordinance on matters requiring <b>prior Presidential instructions</b> for a corresponding Bill, and mandates that ordinances be laid before the Legislature, ceasing to operate <b>six weeks after reassembly</b> unless approved earlier; both statements are correct."
+        },
+        {
+          "q": "Consider the following statements on the Governor's role during President's Rule (Article 356):\n1. During President's Rule, the Governor administers the State on behalf of the President.\n2. The imposition of President's Rule is done solely on the Governor's report, without any role for the Union Council of Ministers.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "During President's Rule, the Governor typically administers the State on the President's behalf, making statement 1 correct. However, the proclamation is issued by the <b>President on the advice of the Union Council of Ministers</b>, not by the Governor alone, making statement 2 incorrect."
+        },
+        {
+          "q": "With reference to the pleasure doctrine applicable to the Governor, consider the following statements:\n1. Judicial review of a Governor's removal is completely barred under all circumstances.\n2. Courts have held that while the reasons for removal need not be disclosed, arbitrary or mala fide removal could, in principle, be subject to limited judicial scrutiny.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Courts (e.g., in B.P. Singhal v. Union of India, 2010) have held that although reasons for removal need not be disclosed, the pleasure doctrine is <b>not absolute</b> and arbitrary or mala fide exercise of this power could be subject to limited <b>judicial review</b>, making statement 2 correct and statement 1 incorrect."
+        },
+        {
+          "q": "Consider the following statements about the salary and allowances of a Governor:\n1. The salary of the Governor is charged on the Consolidated Fund of the State.\n2. The Governor's salary can be reduced during their term of office.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The Governor's salary and allowances are charged on the <b>Consolidated Fund of the State</b>, making statement 1 correct. However, Article 158 protects the Governor's emoluments and allowances from being <b>diminished during their term of office</b>, making statement 2 incorrect."
+        },
+        {
+          "q": "Consider the following statements regarding a common Governor for two or more States (as permitted under the Seventh Constitutional Amendment Act, 1956):\n1. The Constitution permits one person to be appointed Governor of two or more States.\n2. In such cases, the States concerned share administrative and financial expenses of the Governor equally in all circumstances.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Article 153's proviso, introduced by the <b>Seventh Amendment Act, 1956</b>, allows one Governor for two or more States, making statement 1 correct. The apportionment of expenses is determined by the <b>President's order</b> and need not be an automatic equal split, making statement 2 incorrect."
+        },
+        {
+          "q": "Consider the following statements regarding legislative immunity/privilege enjoyed by the Governor:\n1. No criminal proceedings can be instituted or continued against the Governor during their term of office.\n2. Civil proceedings against the Governor in their personal capacity require two months' prior notice.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Article 361 grants the Governor immunity from <b>criminal proceedings</b> during their term, and civil proceedings in a personal capacity require <b>two months' prior notice</b>; both statements are correct."
+        },
+        {
+          "q": "Consider the following statements about the appointment process of Governors in practice:\n1. The Constitution mandates that the Governor of a State must be a resident of that State.\n2. Convention generally favours appointing persons from outside the concerned State as Governor, to ensure impartiality.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "There is <b>no constitutional requirement</b> that the Governor be a resident of the State concerned, making statement 1 incorrect. By convention (recommended by the Sarkaria Commission), Governors are usually appointed from <b>outside the State</b> to maintain neutrality and detachment from local politics, making statement 2 correct."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "In B.P. Singhal v. Union of India (2010), the Supreme Court, examining the constitutional validity of removal of Governors, held that:",
+          "o": [
+            "The 'pleasure of the President' doctrine under Article 156 is completely unfettered and cannot be challenged in any court under any circumstances",
+            "While the President need not assign reasons for removal, the power cannot be exercised arbitrarily, whimsically, or for extraneous reasons, and remains subject to limited judicial review",
+            "Governors can only be removed following an impeachment motion in Parliament, akin to that for the President",
+            "The Governor cannot be removed before completion of the fixed 5-year term under any circumstances"
+          ],
+          "a": 1,
+          "e": "In <b>B.P. Singhal v. Union of India (2010)</b>, the Supreme Court held that although reasons need not be disclosed, the pleasure doctrine is <b>not absolute</b>; removal cannot be arbitrary, capricious or for extraneous/unconstitutional reasons, and courts can examine claims of mala fide exercise of this power in limited circumstances."
+        },
+        {
+          "q": "Which of the following best describes the ratio in Nabam Rebia and Bamang Felix v. Deputy Speaker (2016) concerning the Governor's discretionary powers?",
+          "o": [
+            "The Governor has unfettered discretion to summon or prorogue the House at any time regardless of ministerial advice",
+            "The Supreme Court held that the Governor's power to summon the Assembly under Article 174 must ordinarily be exercised on the aid and advice of the Council of Ministers, and cannot be used to interfere in intra-party or floor-test matters at will",
+            "The Court held that the Governor is entirely immune from judicial review in all matters relating to summoning the Assembly",
+            "The Court held that Governors can dissolve the Assembly on their own discretion without any ministerial advice"
+          ],
+          "a": 1,
+          "e": "In <b>Nabam Rebia (2016)</b> (Arunachal Pradesh political crisis), the Supreme Court held that the Governor's power to summon the House under Article 174 is ordinarily to be exercised on the <b>aid and advice of the Council of Ministers</b>, restricting the scope of unilateral gubernatorial discretion in politically sensitive floor-test situations."
+        },
+        {
+          "q": "Which landmark case laid down guidelines emphasizing that the Governor should invite the party/coalition with a clear majority to form the government and, in case of ambiguity, should conduct a floor test at the earliest to determine majority, rather than deciding this subjectively?",
+          "o": [
+            "S.R. Bommai v. Union of India (1994)",
+            "Rameshwar Prasad v. Union of India (2006)",
+            "Both S.R. Bommai (1994) and Rameshwar Prasad (2006) have addressed related aspects of this issue",
+            "Kihoto Hollohan v. Zachillhu (1992)"
+          ],
+          "a": 2,
+          "e": "<b>S.R. Bommai v. Union of India (1994)</b> emphasized that majority should be tested on the floor of the House rather than in the Governor's subjective satisfaction, and <b>Rameshwar Prasad v. Union of India (2006)</b> (Bihar Assembly dissolution case) further scrutinised the Governor's role and the misuse of Article 356; both cases collectively shaped this jurisprudence."
+        },
+        {
+          "q": "In S.R. Bommai v. Union of India (1994), the Supreme Court held, among other things, that:",
+          "o": [
+            "The satisfaction of the President under Article 356 is beyond judicial review under all circumstances",
+            "The proclamation issued under Article 356 is subject to judicial review, and the majority of a Ministry must be tested on the floor of the House, not assessed by the Governor's subjective opinion",
+            "The Governor alone, without the President, can impose President's Rule",
+            "Article 356 cannot be invoked even in cases of a genuine breakdown of constitutional machinery"
+          ],
+          "a": 1,
+          "e": "<b>S.R. Bommai (1994)</b> held that Presidential Proclamations under <b>Article 356</b> are subject to judicial review and that the question of majority support should ordinarily be tested on the <b>floor of the House</b>, curbing the misuse of Governors' discretionary reports for imposing President's Rule."
+        },
+        {
+          "q": "The recommendation that a Governor, once appointed, should not be removed before completion of the normal five-year tenure except in rare and compelling circumstances, and that any such removal should follow a process that avoids arbitrariness, was primarily made by which Commission(s)?",
+          "o": [
+            "Only the Kothari Commission",
+            "The Sarkaria Commission (1988) and reiterated with modifications by the Punchhi Commission (2010)",
+            "Only the Rajamannar Committee",
+            "The Balwantrai Mehta Committee"
+          ],
+          "a": 1,
+          "e": "Both the <b>Sarkaria Commission (1988)</b> and the <b>Punchhi Commission (2010)</b> recommended safeguarding the Governor's tenure against arbitrary removal, emphasizing a fixed term and objective grounds for premature removal to protect the office's dignity and neutrality."
+        },
+        {
+          "q": "Which of the following statements about the distinction between the Governor's 'discretion' under Article 163(2) and 'aid and advice' under Article 163(1) is most accurate, based on judicial interpretation?",
+          "o": [
+            "The question of whether a matter falls within the Governor's discretion is itself non-justiciable, and the Governor's decision on this threshold question is final and cannot be examined by courts at all",
+            "Courts have held that while discretionary decisions on the merits enjoy some insulation, whether a particular action genuinely falls within the scope of the Governor's discretion is a matter that can, in appropriate cases, be examined judicially",
+            "Article 163 grants the Governor discretion in all matters without exception",
+            "Article 163 has been held to apply only to the appointment of the Advocate General"
+          ],
+          "a": 1,
+          "e": "Article 163(2) states that if a question arises whether a matter is one in which the Governor is required to act in discretion, the Governor's decision is final, and its validity cannot be called into question on the ground that they ought or ought not to have acted in discretion; however, courts (e.g., in Nabam Rebia) have clarified that whether the situation genuinely falls within a discretionary category can still be examined."
+        },
+        {
+          "q": "Which of the following correctly identifies a key criticism of the Governor's office rooted in the doctrine of 'agent of the Centre', as highlighted by several Commissions and scholars?",
+          "o": [
+            "That the Governor being a nominee of the Union tends to act as a partisan tool of the ruling party at the Centre, undermining federal principles, especially in matters like recommending President's Rule",
+            "That the Governor has no role whatsoever in Centre-State relations",
+            "That the office of Governor was created only after the 42nd Amendment Act, 1976",
+            "That the Governor cannot be appointed from a different political party than the one ruling the State"
+          ],
+          "a": 0,
+          "e": "A persistent criticism, noted by the Sarkaria and Punchhi Commissions and numerous scholars, is that Governors appointed by and removable at the pleasure of the Union have sometimes acted as <b>partisan agents of the Centre</b>, particularly in recommending Article 356 proclamations, undermining cooperative federalism."
+        },
+        {
+          "q": "Which of the following is a distinguishing feature between the Governor's ordinance-making power under Article 213 and the President's under Article 123?",
+          "o": [
+            "The Governor's ordinance requires no subsequent legislative approval whatsoever, unlike the President's ordinance",
+            "The Governor cannot promulgate an ordinance on certain matters (e.g., those requiring prior Presidential instructions for a Bill, or matters needing Presidential assent) without instructions from the President, a restriction not applicable to the President's own ordinance power",
+            "The President's ordinance-making power is discretionary while the Governor's is never discretionary",
+            "There is no difference at all between the two provisions"
+          ],
+          "a": 1,
+          "e": "Unlike the President under Article 123, the Governor under <b>Article 213</b> faces additional restrictions — an ordinance cannot be promulgated without <b>instructions from the President</b> if a similar Bill would have required prior Presidential instructions or reservation for the President's assent."
+        },
+        {
+          "q": "In the context of the debate on gubernatorial discretion in Bill assent, which of the following best reflects the constitutional position on whether a Governor can indefinitely withhold assent to a Bill without returning it or acting on it ('pocket veto')?",
+          "o": [
+            "The Constitution explicitly provides an unlimited timeframe allowing a Governor a formal 'pocket veto' with no time limit envisaged for any action",
+            "The Constitution does not prescribe a specific time limit for the Governor's action under Article 200, which has led to concerns of indefinite delay, prompting judicial and constitutional debate on implied reasonable time limits",
+            "The Governor is constitutionally required to act within exactly 14 days on every Bill, with no exceptions",
+            "Pocket veto by the Governor has been expressly validated by the Supreme Court as a legitimate discretionary tool with no timeframe"
+          ],
+          "a": 1,
+          "e": "Article 200 does not prescribe an explicit time limit for the Governor to act on a Bill, which has historically enabled indefinite delays (an informal 'pocket veto'); this ambiguity has been the subject of judicial scrutiny and constitutional reform debates, including recommendations for a reasonable/fixed timeframe."
+        },
+        {
+          "q": "Which of the following best captures the significance of the phrase 'Governor shall act in his discretion' as used sparingly in specific constitutional provisions (e.g., certain provisions relating to Nagaland, Assam, Sikkim, and the appointment of a Chief Minister in a hung house)?",
+          "o": [
+            "It means the Governor has unlimited general discretion in all executive matters of the State at all times",
+            "It refers to specific, limited situations either expressly mentioned in the Constitution (such as special provisions for certain States) or arising from constitutional necessity/convention (like a hung Assembly), rather than a general license to bypass the Council of Ministers",
+            "It applies only to the appointment of the Advocate General",
+            "It was expressly abolished by the 42nd Amendment Act, 1976"
+          ],
+          "a": 1,
+          "e": "The Governor's discretion is <b>textually confined to specific situations</b> (e.g., special responsibilities for certain States under Articles like 371 provisions) and to situations of <b>constitutional necessity</b> recognised by convention and case law (like appointing a CM in a hung Assembly), not a general or roving discretionary power."
+        },
+        {
+          "q": "Which of the following statements correctly reflects the historical evolution of the Governor's office from a check on state autonomy?",
+          "o": [
+            "The Government of India Act, 1935 had no provision for a Governor and the office was created for the first time by the Constitution of 1950",
+            "The office of Governor existed under British colonial administration and the Government of India Act, 1935, and was retained (with modification, removing overriding colonial-era special powers) in the 1950 Constitution as a constitutional head of the State",
+            "The Governor's office was introduced only by the 7th Constitutional Amendment Act, 1956",
+            "The office of Governor is unique to India with no precedent in the colonial period"
+          ],
+          "a": 1,
+          "e": "The office of <b>Governor existed under the Government of India Act, 1935</b>, wielding wide special/discretionary powers under colonial rule; the Constitution of 1950 retained the office but recast the Governor primarily as a <b>constitutional head</b> acting on ministerial advice, though some Centre-linked and discretionary elements were retained."
+        },
+        {
+          "q": "Which of the following is the most accurate statement about judicial scrutiny of the Governor's satisfaction while reserving a Bill for the President's consideration under Article 201?",
+          "o": [
+            "The Governor's satisfaction in reserving a Bill is wholly immune from any judicial examination in all circumstances without exception",
+            "Courts have generally shown deference in this area, though egregious constitutional violations or mala fide exercise could, in principle, attract limited scrutiny, similar to the broader jurisprudence on discretionary gubernatorial powers",
+            "The President cannot ever withhold assent once a Governor reserves a Bill under Article 201",
+            "Reservation of Bills under Article 201 is mandatory for every Bill passed by a State Legislature"
+          ],
+          "a": 1,
+          "e": "While courts generally show considerable deference to the Governor's/President's satisfaction in reserving or assenting to Bills, the broader jurisprudential trend (as seen in cases like B.P. Singhal) suggests that <b>gross mala fide or unconstitutional exercise</b> of such discretionary powers is not entirely beyond limited judicial scrutiny."
+        },
+        {
+          "q": "Which of the following correctly identifies why the Governor's role is often termed a 'lynchpin' of Centre-State relations, based on the design of the Constitution?",
+          "o": [
+            "Because the Governor is directly elected by the people of the State and represents state interests exclusively against the Centre",
+            "Because the Governor, appointed by and removable at the pleasure of the President, simultaneously functions as the constitutional head of the State bound generally by ministerial advice, creating a structural link between the Union and the State",
+            "Because the Governor has no functional connection to the Union government whatsoever",
+            "Because only the Governor can amend the Constitution under Article 368"
+          ],
+          "a": 1,
+          "e": "The Governor's dual position — a Union appointee bound by the pleasure doctrine, yet simultaneously the constitutional/executive head of the State expected to act on ministerial advice — structurally embeds the office as a <b>link (or 'lynchpin')</b> between Centre and State governance."
+        },
+        {
+          "q": "Which of the following best describes the position on whether the Governor can act purely on personal discretion in appointing a Chief Minister when a single party has secured a clear absolute majority in the State Assembly elections?",
+          "o": [
+            "The Governor retains full personal discretion and may appoint any person of choice as Chief Minister regardless of majority support",
+            "By settled convention, the Governor has no real discretion in such a scenario and must appoint the leader of the party with a clear majority as Chief Minister; discretion becomes relevant mainly in situations of a hung Assembly or post-election ambiguity",
+            "The Governor must always refer the matter to the President for a decision",
+            "The Governor must dissolve the Assembly and order fresh elections whenever a single party wins a majority"
+          ],
+          "a": 1,
+          "e": "Where a party secures a clear absolute majority, constitutional convention leaves the Governor with <b>little or no real discretion</b> — the leader of that party must be invited to form the government; genuine discretionary dilemmas for the Governor typically arise only in a <b>hung Assembly</b> or where post-poll alliances create ambiguity about majority support."
+        },
+        {
+          "q": "Which of the following best explains the significance of the phrase 'Governor shall not be liable to any proceedings in any court for the exercise and performance of the powers and duties of his office' under Article 361?",
+          "o": [
+            "It confers absolute immunity on the Governor personally, in perpetuity, even after leaving office, for any private wrongdoing unrelated to official duties",
+            "It confers immunity for official acts performed in the exercise of the powers and duties of the office, distinguishing this from the separate protections regarding personal criminal/civil proceedings during the term of office",
+            "It means the Governor can never be criticised by the media or Parliament",
+            "It was struck down as unconstitutional in Rameshwar Prasad v. Union of India (2006)"
+          ],
+          "a": 1,
+          "e": "Article 361 grants immunity to the Governor specifically for <b>official acts</b> done in exercise of the powers/duties of the office, which is conceptually distinct from (though related to) the separate clauses granting protection from personal criminal proceedings and requiring notice for civil proceedings during the term of office; it was not struck down in Rameshwar Prasad, which instead scrutinised the reasons behind an Assembly dissolution recommendation."
+        }
+      ]
+    }
+  }
+]

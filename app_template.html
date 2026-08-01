@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UPSC Prep — Practice App</title>
+<style>
+  :root{
+    --bg:#0f172a; --card:#ffffff; --ink:#1e293b; --muted:#64748b;
+    --accent:#1d4ed8; --accent-light:#dbeafe; --green:#16a34a; --green-bg:#dcfce7;
+    --red:#dc2626; --red-bg:#fee2e2; --amber:#d97706; --border:#e2e8f0;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:linear-gradient(180deg,#0f172a 0%,#1e3a8a 100%); min-height:100vh; color:var(--ink);
+  }
+  .wrap{max-width:760px; margin:0 auto; padding:20px 16px 60px;}
+  header.app-head{text-align:center; color:#fff; padding:18px 8px 22px;}
+  header.app-head h1{font-size:1.3rem; margin:0 0 4px; font-weight:700;}
+  header.app-head p{margin:0; font-size:0.85rem; color:#cbd5e1;}
+  .card{background:var(--card); border-radius:16px; box-shadow:0 10px 30px rgba(0,0,0,0.15); padding:22px;}
+  .breadcrumb{font-size:0.8rem; color:var(--accent); margin-bottom:10px; letter-spacing:0.3px; display:flex; align-items:center; gap:6px; cursor:pointer; flex-wrap:wrap;}
+  .breadcrumb span.sep{color:var(--muted); cursor:default;}
+  .breadcrumb span.crumb:hover{text-decoration:underline;}
+  .sec-title{font-size:0.78rem; font-weight:700; text-transform:uppercase; letter-spacing:0.5px; color:var(--muted); margin:20px 0 10px;}
+  .sec-title:first-child{margin-top:0;}
+
+  /* Subject grid */
+  .subj-grid{display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-top:10px;}
+  .subj-card{
+    padding:18px 14px; border-radius:12px; border:1px solid var(--border); background:#f8fafc;
+    cursor:pointer; text-align:left; transition:.15s;
+  }
+  .subj-card:hover{border-color:var(--accent); background:var(--accent-light);}
+  .subj-card.disabled{opacity:0.5; cursor:not-allowed;}
+  .subj-card .st{font-weight:700; font-size:1rem;}
+  .subj-card .sc{font-size:0.75rem; color:var(--muted); margin-top:3px;}
+  .subj-card .soon{font-size:0.68rem; font-weight:700; color:var(--amber); margin-top:6px; display:inline-block;}
+
+  /* Chapter list */
+  .chapter-list{display:flex; flex-direction:column; gap:10px; margin-top:8px;}
+  .chapter-item{
+    display:flex; align-items:center; justify-content:space-between; gap:12px;
+    padding:14px 16px; border-radius:12px; border:1px solid var(--border); background:#f8fafc;
+    cursor:pointer; transition:.15s;
+  }
+  .chapter-item:hover{border-color:var(--accent); background:var(--accent-light);}
+  .chapter-item.disabled{cursor:not-allowed; opacity:0.55; background:#f1f5f9;}
+  .chapter-item .num{font-weight:700; color:var(--accent); min-width:22px; font-size:0.85rem;}
+  .chapter-item .ct{font-weight:600; font-size:0.95rem;}
+  .chapter-item .cd{font-size:0.78rem; color:var(--muted); margin-top:2px;}
+  .chapter-item .qcount{font-size:0.72rem; color:var(--muted); white-space:nowrap;}
+  .chapter-item .soon-badge{font-size:0.68rem; font-weight:700; color:var(--amber); background:#fef3c7; padding:3px 8px; border-radius:999px; white-space:nowrap;}
+
+  /* Level select (reused for chapter tests and subject-wide tests) */
+  .level-grid{display:grid; grid-template-columns:1fr; gap:14px; margin-top:10px;}
+  .level-btn{
+    display:flex; align-items:center; justify-content:space-between; gap:12px;
+    padding:16px 18px; border-radius:12px; border:1px solid var(--border); background:#f8fafc;
+    cursor:pointer; text-align:left; transition:.15s;
+  }
+  .level-btn:hover{border-color:var(--accent); background:var(--accent-light);}
+  .level-btn .lt{font-weight:700; font-size:1.02rem;}
+  .level-btn .ld{font-size:0.82rem; color:var(--muted); margin-top:2px;}
+  .level-btn .badge{font-size:0.72rem; font-weight:700; padding:4px 10px; border-radius:999px; white-space:nowrap;}
+  .b-basic{background:#dcfce7; color:#166534;}
+  .b-inter{background:#fef3c7; color:#92400e;}
+  .b-adv{background:#fee2e2; color:#991b1b;}
+  .subject-test-box{margin-top:8px; padding:16px; border-radius:12px; background:#eff6ff; border:1px dashed var(--accent);}
+  .subject-test-box p{margin:0 0 12px; font-size:0.82rem; color:var(--muted);}
+
+  /* Quiz screen */
+  .top-row{display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; font-size:0.82rem; color:var(--muted);}
+  .progress-bar{height:8px; background:#e2e8f0; border-radius:999px; overflow:hidden; margin-bottom:18px;}
+  .progress-fill{height:100%; background:var(--accent); transition:width .25s;}
+  .q-chapter-tag{display:inline-block; font-size:0.68rem; font-weight:700; color:var(--accent); background:var(--accent-light); padding:3px 9px; border-radius:999px; margin-bottom:8px;}
+  .q-text{font-size:1.05rem; font-weight:600; line-height:1.5; margin-bottom:16px;}
+  .options{display:flex; flex-direction:column; gap:10px;}
+  .opt{
+    display:flex; align-items:flex-start; gap:10px; padding:13px 14px; border-radius:10px;
+    border:1.5px solid var(--border); cursor:pointer; font-size:0.95rem; line-height:1.4; transition:.12s;
+  }
+  .opt:hover{border-color:var(--accent);}
+  .opt .letter{font-weight:700; min-width:20px;}
+  .opt.correct{border-color:var(--green); background:var(--green-bg); color:#14532d;}
+  .opt.wrong{border-color:var(--red); background:var(--red-bg); color:#7f1d1d;}
+  .opt.disabled{cursor:default;}
+  .opt.dim{opacity:0.55;}
+
+  .explain{margin-top:16px; padding:14px 16px; border-radius:10px; background:#f1f5f9; font-size:0.88rem; line-height:1.55; display:none;}
+  .explain b{color:var(--accent);}
+  .actions{display:flex; justify-content:flex-end; gap:10px; margin-top:20px;}
+  button.primary{
+    background:var(--accent); color:#fff; border:none; padding:11px 22px; border-radius:9px;
+    font-size:0.92rem; font-weight:600; cursor:pointer;
+  }
+  button.primary:disabled{background:#93c5fd; cursor:not-allowed;}
+  button.ghost{background:transparent; border:1.5px solid var(--border); padding:11px 18px; border-radius:9px; cursor:pointer; font-size:0.9rem; color:var(--muted);}
+
+  /* Result screen */
+  .score-circle{
+    width:130px; height:130px; border-radius:50%; margin:6px auto 18px; display:flex; align-items:center; justify-content:center;
+    flex-direction:column; border:8px solid var(--accent-light);
+  }
+  .score-circle .num{font-size:1.8rem; font-weight:800; color:var(--accent);}
+  .score-circle .lbl{font-size:0.72rem; color:var(--muted);}
+  .stat-row{display:flex; justify-content:center; gap:22px; margin-bottom:20px; font-size:0.85rem;}
+  .stat-row div{text-align:center;}
+  .stat-row .n{font-weight:700; font-size:1.1rem; display:block;}
+  .review-item{border:1px solid var(--border); border-radius:10px; padding:12px 14px; margin-bottom:10px; font-size:0.85rem;}
+  .review-item .rq{font-weight:600; margin-bottom:6px;}
+  .review-item .ra{margin:2px 0;}
+  .tag-ok{color:var(--green); font-weight:700;}
+  .tag-bad{color:var(--red); font-weight:700;}
+  .hidden{display:none !important;}
+
+  @media (min-width:640px){
+    .card{padding:30px;}
+    header.app-head h1{font-size:1.55rem;}
+  }
+  @media (max-width:480px){
+    .subj-grid{grid-template-columns:1fr;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="app-head">
+    <h1>UPSC Prep</h1>
+    <p>Subject-wise & topic-wise practice, from basic to advanced</p>
+  </header>
+
+  <!-- SUBJECT SELECT -->
+  <div class="card" id="subject-screen">
+    <div class="sec-title">Choose a subject</div>
+    <div class="subj-grid" id="subject-grid"></div>
+  </div>
+
+  <!-- CHAPTER LIST (per subject) -->
+  <div class="card hidden" id="chapter-screen">
+    <div class="breadcrumb" id="chapter-breadcrumb"></div>
+    <div class="sec-title">Chapters</div>
+    <div class="chapter-list" id="chapter-list"></div>
+    <div class="sec-title">Full Subject Test</div>
+    <div class="subject-test-box">
+      <p>Mixed questions sampled across all available chapters — good for a final revision check.</p>
+      <div class="level-grid" id="subject-test-grid"></div>
+    </div>
+  </div>
+
+  <!-- LEVEL SELECT (per chapter or subject-test) -->
+  <div class="card hidden" id="level-screen">
+    <div class="breadcrumb" id="level-breadcrumb"></div>
+    <div class="sec-title" id="level-title">Choose difficulty</div>
+    <div class="level-grid" id="level-grid"></div>
+  </div>
+
+  <!-- QUIZ SCREEN -->
+  <div class="card hidden" id="quiz-screen">
+    <div class="top-row">
+      <span id="level-label"></span>
+      <span id="q-counter"></span>
+    </div>
+    <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+    <div id="q-chapter-tag" class="q-chapter-tag hidden"></div>
+    <div class="q-text" id="q-text"></div>
+    <div class="options" id="options"></div>
+    <div class="explain" id="explain"></div>
+    <div class="actions">
+      <button class="ghost" id="quit-btn">Exit</button>
+      <button class="primary" id="next-btn" disabled>Next</button>
+    </div>
+  </div>
+
+  <!-- RESULT SCREEN -->
+  <div class="card hidden" id="result-screen">
+    <div class="score-circle"><span class="num" id="score-num">0%</span><span class="lbl">SCORE</span></div>
+    <div class="stat-row">
+      <div><span class="n" id="stat-correct" style="color:var(--green)">0</span>Correct</div>
+      <div><span class="n" id="stat-wrong" style="color:var(--red)">0</span>Wrong</div>
+      <div><span class="n" id="stat-total">0</span>Total</div>
+    </div>
+    <div style="display:flex; gap:10px; justify-content:center; margin-bottom:22px; flex-wrap:wrap;">
+      <button class="primary" id="retry-btn">Retry this test</button>
+      <button class="ghost" id="chapters-btn">Back to chapters</button>
+    </div>
+    <div id="review-list"></div>
+  </div>
+</div>
+
+<script>
+/* ==================== DATA ==================== */
+const CHAPTERS = __CHAPTERS_JSON__;
+const PENDING = __PENDING_JSON__;
+
+const SUBJECTS = {
+  polity: { title:"Polity", desc:`${CHAPTERS.length} of ${CHAPTERS.length + PENDING.length} chapters ready`, ready:true }
+};
+const COMING_SOON_SUBJECTS = [
+  {title:"History", desc:"Ancient, Medieval & Modern"},
+  {title:"Geography", desc:"Physical, Indian & World"},
+  {title:"Economy", desc:"Indian Economic Development"},
+  {title:"Environment & Ecology", desc:"Biodiversity, climate, conservation"},
+  {title:"Science & Technology", desc:"Current developments"},
+  {title:"Current Affairs", desc:"Monthly compilations"}
+];
+
+const LEVEL_META = {
+  basic:{title:"Basic", desc:"Core facts & definitions", badge:"b-basic"},
+  intermediate:{title:"Intermediate", desc:"Statements, exceptions & comparisons", badge:"b-inter"},
+  advanced:{title:"Advanced", desc:"Landmark cases, doctrines & amendments", badge:"b-adv"}
+};
+
+const SUBJECT_TEST_SIZE = 25;
+
+/* ==================== STATE ==================== */
+let state = { mode:null, chapterId:null, level:null, idx:0, list:[], answers:[] };
+
+/* ==================== SCREENS ==================== */
+const screens = {
+  subject: document.getElementById('subject-screen'),
+  chapter: document.getElementById('chapter-screen'),
+  level: document.getElementById('level-screen'),
+  quiz: document.getElementById('quiz-screen'),
+  result: document.getElementById('result-screen')
+};
+function showScreen(name){
+  Object.values(screens).forEach(s=>s.classList.add('hidden'));
+  screens[name].classList.remove('hidden');
+}
+
+/* ==================== SUBJECT SCREEN ==================== */
+function renderSubjects(){
+  const grid = document.getElementById('subject-grid');
+  grid.innerHTML = '';
+  Object.entries(SUBJECTS).forEach(([key, s])=>{
+    const div = document.createElement('div');
+    div.className = 'subj-card';
+    div.innerHTML = `<div class="st">${s.title}</div><div class="sc">${s.desc}</div>`;
+    div.onclick = ()=> renderChapterList(key);
+    grid.appendChild(div);
+  });
+  COMING_SOON_SUBJECTS.forEach(s=>{
+    const div = document.createElement('div');
+    div.className = 'subj-card disabled';
+    div.innerHTML = `<div class="st">${s.title}</div><div class="sc">${s.desc}</div><div class="soon">Coming soon</div>`;
+    grid.appendChild(div);
+  });
+  showScreen('subject');
+}
+
+/* ==================== CHAPTER LIST SCREEN ==================== */
+function renderChapterList(subjectKey){
+  state.subjectKey = subjectKey;
+  const bc = document.getElementById('chapter-breadcrumb');
+  bc.innerHTML = `<span class="crumb" onclick="renderSubjects()">Subjects</span><span class="sep">›</span><span>${SUBJECTS[subjectKey].title}</span>`;
+
+  const list = document.getElementById('chapter-list');
+  list.innerHTML = '';
+  let n = 1;
+  CHAPTERS.forEach(ch=>{
+    const total = ch.questions.basic.length + ch.questions.intermediate.length + ch.questions.advanced.length;
+    const div = document.createElement('div');
+    div.className = 'chapter-item';
+    div.innerHTML = `<div style="display:flex; gap:12px; align-items:center;"><span class="num">${n}</span><div><div class="ct">${ch.title}</div><div class="cd">${ch.desc || ''}</div></div></div><span class="qcount">${total} Qs</span>`;
+    div.onclick = ()=> renderLevelSelect({mode:'chapter', chapterId:ch.id});
+    list.appendChild(div);
+    n++;
+  });
+  PENDING.forEach(ch=>{
+    const div = document.createElement('div');
+    div.className = 'chapter-item disabled';
+    div.innerHTML = `<div style="display:flex; gap:12px; align-items:center;"><span class="num">${n}</span><div><div class="ct">${ch.title}</div><div class="cd">Being added next</div></div></div><span class="soon-badge">Coming soon</span>`;
+    list.appendChild(div);
+    n++;
+  });
+
+  const stGrid = document.getElementById('subject-test-grid');
+  stGrid.innerHTML = '';
+  Object.entries(LEVEL_META).forEach(([key, meta])=>{
+    const btn = document.createElement('div');
+    btn.className = 'level-btn';
+    btn.innerHTML = `<div><div class="lt">${meta.title} — Full Polity Test</div><div class="ld">${meta.desc} · ${SUBJECT_TEST_SIZE} random questions across all chapters</div></div><span class="badge ${meta.badge}">${meta.title}</span>`;
+    btn.onclick = ()=> startQuiz({mode:'subject', level:key});
+    stGrid.appendChild(btn);
+  });
+
+  showScreen('chapter');
+}
+
+/* ==================== LEVEL SELECT SCREEN (per chapter) ==================== */
+function renderLevelSelect({mode, chapterId}){
+  state.mode = mode;
+  state.chapterId = chapterId;
+  const ch = CHAPTERS.find(c=>c.id===chapterId);
+  const bc = document.getElementById('level-breadcrumb');
+  bc.innerHTML = `<span class="crumb" onclick="renderSubjects()">Subjects</span><span class="sep">›</span><span class="crumb" onclick="renderChapterList(state.subjectKey)">${SUBJECTS[state.subjectKey].title}</span><span class="sep">›</span><span>${ch.title}</span>`;
+  document.getElementById('level-title').textContent = ch.title;
+
+  const grid = document.getElementById('level-grid');
+  grid.innerHTML = '';
+  Object.entries(LEVEL_META).forEach(([key, meta])=>{
+    const count = ch.questions[key].length;
+    const btn = document.createElement('div');
+    btn.className = 'level-btn';
+    btn.innerHTML = `<div><div class="lt">${meta.title}</div><div class="ld">${meta.desc} · ${count} questions</div></div><span class="badge ${meta.badge}">${meta.title}</span>`;
+    btn.onclick = ()=> startQuiz({mode:'chapter', chapterId, level:key});
+    grid.appendChild(btn);
+  });
+  showScreen('level');
+}
+
+/* ==================== QUIZ LOGIC ==================== */
+function shuffle(arr){
+  const a = arr.slice();
+  for(let i=a.length-1;i>0;i--){
+    const j = Math.floor(Math.random()*(i+1));
+    [a[i],a[j]] = [a[j],a[i]];
+  }
+  return a;
+}
+
+function startQuiz({mode, chapterId, level}){
+  let list = [];
+  if(mode === 'chapter'){
+    const ch = CHAPTERS.find(c=>c.id===chapterId);
+    list = ch.questions[level].map(q=>({...q, chapterTitle: ch.title}));
+  } else if(mode === 'subject'){
+    let pool = [];
+    CHAPTERS.forEach(ch=>{
+      ch.questions[level].forEach(q=> pool.push({...q, chapterTitle: ch.title}));
+    });
+    list = shuffle(pool).slice(0, SUBJECT_TEST_SIZE);
+  }
+  state = { mode, chapterId, level, idx:0, list, answers:[], selected:null };
+  showScreen('quiz');
+  renderQuestion();
+}
+
+function renderQuestion(){
+  const q = state.list[state.idx];
+  const levelName = LEVEL_META[state.level].title;
+  document.getElementById('level-label').textContent = (state.mode==='subject' ? 'Full Polity Test — ' : '') + levelName + ' Level';
+  document.getElementById('q-counter').textContent = `Question ${state.idx+1} of ${state.list.length}`;
+  document.getElementById('progress-fill').style.width = `${(state.idx/state.list.length)*100}%`;
+
+  const tag = document.getElementById('q-chapter-tag');
+  if(state.mode === 'subject'){
+    tag.textContent = q.chapterTitle;
+    tag.classList.remove('hidden');
+  } else {
+    tag.classList.add('hidden');
+  }
+
+  document.getElementById('q-text').textContent = q.q;
+  const optsEl = document.getElementById('options');
+  optsEl.innerHTML = '';
+  const letters = ['A','B','C','D'];
+  q.o.forEach((optText, i)=>{
+    const div = document.createElement('div');
+    div.className = 'opt';
+    div.innerHTML = `<span class="letter">${letters[i]}.</span><span>${optText}</span>`;
+    div.onclick = ()=> selectOption(i);
+    optsEl.appendChild(div);
+  });
+  document.getElementById('explain').style.display = 'none';
+  document.getElementById('explain').innerHTML = '';
+  document.getElementById('next-btn').disabled = true;
+  document.getElementById('next-btn').textContent = (state.idx === state.list.length-1) ? 'Finish' : 'Next';
+  state.selected = null;
+}
+
+function selectOption(i){
+  if(state.selected !== null) return;
+  const q = state.list[state.idx];
+  state.selected = i;
+  const opts = document.querySelectorAll('#options .opt');
+  opts.forEach((el,idx)=>{
+    el.classList.add('disabled');
+    if(idx === q.a) el.classList.add('correct');
+    else if(idx === i) el.classList.add('wrong');
+    else el.classList.add('dim');
+  });
+  const isCorrect = (i === q.a);
+  state.answers.push({q:q.q, options:q.o, correctIdx:q.a, chosenIdx:i, correct:isCorrect, explain:q.e, chapterTitle:q.chapterTitle});
+  const explainEl = document.getElementById('explain');
+  explainEl.style.display = 'block';
+  explainEl.innerHTML = (isCorrect ? '✅ Correct. ' : '❌ Incorrect. ') + q.e;
+  document.getElementById('next-btn').disabled = false;
+}
+
+document.getElementById('next-btn').onclick = ()=>{
+  if(state.idx < state.list.length-1){
+    state.idx++;
+    renderQuestion();
+  } else {
+    showResult();
+  }
+};
+
+document.getElementById('quit-btn').onclick = ()=>{
+  if(confirm('Exit this test? Your progress will be lost.')){
+    if(state.mode === 'subject') renderChapterList(state.subjectKey);
+    else renderLevelSelect({mode:'chapter', chapterId:state.chapterId});
+  }
+};
+
+function showResult(){
+  showScreen('result');
+  const total = state.answers.length;
+  const correct = state.answers.filter(a=>a.correct).length;
+  const wrong = total - correct;
+  const pct = Math.round((correct/total)*100);
+  document.getElementById('score-num').textContent = pct + '%';
+  document.getElementById('stat-correct').textContent = correct;
+  document.getElementById('stat-wrong').textContent = wrong;
+  document.getElementById('stat-total').textContent = total;
+
+  const reviewList = document.getElementById('review-list');
+  reviewList.innerHTML = '<h3 style="font-size:0.95rem; margin-bottom:10px;">Review</h3>';
+  const letters = ['A','B','C','D'];
+  state.answers.forEach((a, i)=>{
+    const div = document.createElement('div');
+    div.className = 'review-item';
+    div.innerHTML = `
+      <div class="rq">${i+1}. ${a.q}${a.chapterTitle && state.mode==='subject' ? ` <span style="color:var(--accent); font-weight:600;">(${a.chapterTitle})</span>` : ''}</div>
+      <div class="ra">Your answer: <b>${letters[a.chosenIdx]}. ${a.options[a.chosenIdx]}</b> — <span class="${a.correct?'tag-ok':'tag-bad'}">${a.correct?'Correct':'Wrong'}</span></div>
+      ${!a.correct ? `<div class="ra">Correct answer: <b>${letters[a.correctIdx]}. ${a.options[a.correctIdx]}</b></div>` : ''}
+      <div class="ra" style="color:var(--muted); margin-top:6px;">${a.explain}</div>
+    `;
+    reviewList.appendChild(div);
+  });
+}
+
+document.getElementById('retry-btn').onclick = ()=> startQuiz({mode:state.mode, chapterId:state.chapterId, level:state.level});
+document.getElementById('chapters-btn').onclick = ()=> renderChapterList(state.subjectKey);
+
+renderSubjects();
+</script>
+</body>
+</html>

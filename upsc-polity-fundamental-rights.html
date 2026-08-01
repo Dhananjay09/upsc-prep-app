@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UPSC Prep — Polity: Fundamental Rights</title>
+<style>
+  :root{
+    --bg:#0f172a; --card:#ffffff; --ink:#1e293b; --muted:#64748b;
+    --accent:#1d4ed8; --accent-light:#dbeafe; --green:#16a34a; --green-bg:#dcfce7;
+    --red:#dc2626; --red-bg:#fee2e2; --amber:#d97706; --border:#e2e8f0;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:linear-gradient(180deg,#0f172a 0%,#1e3a8a 100%); min-height:100vh; color:var(--ink);
+  }
+  .wrap{max-width:720px; margin:0 auto; padding:20px 16px 60px;}
+  header.app-head{text-align:center; color:#fff; padding:18px 8px 22px;}
+  header.app-head h1{font-size:1.3rem; margin:0 0 4px; font-weight:700;}
+  header.app-head p{margin:0; font-size:0.85rem; color:#cbd5e1;}
+  .card{background:var(--card); border-radius:16px; box-shadow:0 10px 30px rgba(0,0,0,0.15); padding:22px;}
+  .breadcrumb{font-size:0.8rem; color:#93c5fd; margin-bottom:6px; letter-spacing:0.3px;}
+
+  /* Home / level select */
+  .level-grid{display:grid; grid-template-columns:1fr; gap:14px; margin-top:10px;}
+  .level-btn{
+    display:flex; align-items:center; justify-content:space-between; gap:12px;
+    padding:16px 18px; border-radius:12px; border:1px solid var(--border); background:#f8fafc;
+    cursor:pointer; text-align:left; transition:.15s;
+  }
+  .level-btn:hover{border-color:var(--accent); background:var(--accent-light);}
+  .level-btn .lt{font-weight:700; font-size:1.02rem;}
+  .level-btn .ld{font-size:0.82rem; color:var(--muted); margin-top:2px;}
+  .level-btn .badge{font-size:0.72rem; font-weight:700; padding:4px 10px; border-radius:999px; white-space:nowrap;}
+  .b-basic{background:#dcfce7; color:#166534;}
+  .b-inter{background:#fef3c7; color:#92400e;}
+  .b-adv{background:#fee2e2; color:#991b1b;}
+
+  /* Quiz screen */
+  .top-row{display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; font-size:0.82rem; color:var(--muted);}
+  .progress-bar{height:8px; background:#e2e8f0; border-radius:999px; overflow:hidden; margin-bottom:18px;}
+  .progress-fill{height:100%; background:var(--accent); transition:width .25s;}
+  .q-text{font-size:1.05rem; font-weight:600; line-height:1.5; margin-bottom:16px;}
+  .options{display:flex; flex-direction:column; gap:10px;}
+  .opt{
+    display:flex; align-items:flex-start; gap:10px; padding:13px 14px; border-radius:10px;
+    border:1.5px solid var(--border); cursor:pointer; font-size:0.95rem; line-height:1.4; transition:.12s;
+  }
+  .opt:hover{border-color:var(--accent);}
+  .opt .letter{font-weight:700; min-width:20px;}
+  .opt.correct{border-color:var(--green); background:var(--green-bg); color:#14532d;}
+  .opt.wrong{border-color:var(--red); background:var(--red-bg); color:#7f1d1d;}
+  .opt.disabled{cursor:default;}
+  .opt.dim{opacity:0.55;}
+
+  .explain{margin-top:16px; padding:14px 16px; border-radius:10px; background:#f1f5f9; font-size:0.88rem; line-height:1.55; display:none;}
+  .explain b{color:var(--accent);}
+  .actions{display:flex; justify-content:flex-end; gap:10px; margin-top:20px;}
+  button.primary{
+    background:var(--accent); color:#fff; border:none; padding:11px 22px; border-radius:9px;
+    font-size:0.92rem; font-weight:600; cursor:pointer;
+  }
+  button.primary:disabled{background:#93c5fd; cursor:not-allowed;}
+  button.ghost{background:transparent; border:1.5px solid var(--border); padding:11px 18px; border-radius:9px; cursor:pointer; font-size:0.9rem; color:var(--muted);}
+
+  /* Result screen */
+  .score-circle{
+    width:130px; height:130px; border-radius:50%; margin:6px auto 18px; display:flex; align-items:center; justify-content:center;
+    flex-direction:column; border:8px solid var(--accent-light);
+  }
+  .score-circle .num{font-size:1.8rem; font-weight:800; color:var(--accent);}
+  .score-circle .lbl{font-size:0.72rem; color:var(--muted);}
+  .stat-row{display:flex; justify-content:center; gap:22px; margin-bottom:20px; font-size:0.85rem;}
+  .stat-row div{text-align:center;}
+  .stat-row .n{font-weight:700; font-size:1.1rem; display:block;}
+  .review-item{border:1px solid var(--border); border-radius:10px; padding:12px 14px; margin-bottom:10px; font-size:0.85rem;}
+  .review-item .rq{font-weight:600; margin-bottom:6px;}
+  .review-item .ra{margin:2px 0;}
+  .tag-ok{color:var(--green); font-weight:700;}
+  .tag-bad{color:var(--red); font-weight:700;}
+  .hidden{display:none !important;}
+
+  @media (min-width:640px){
+    .level-grid{gap:16px;}
+    .card{padding:30px;}
+    header.app-head h1{font-size:1.55rem;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="app-head">
+    <h1>UPSC Prep — Polity</h1>
+    <p>Topic: Fundamental Rights (Articles 12–35) · Prelims MCQ Practice</p>
+  </header>
+
+  <!-- HOME / LEVEL SELECT -->
+  <div class="card" id="home-screen">
+    <div class="breadcrumb">Polity → Fundamental Rights</div>
+    <p style="margin-top:0; color:var(--muted); font-size:0.9rem;">Choose a difficulty level to start. Each test gives instant feedback with explanations, UPSC Prelims style.</p>
+    <div class="level-grid" id="level-grid"></div>
+  </div>
+
+  <!-- QUIZ SCREEN -->
+  <div class="card hidden" id="quiz-screen">
+    <div class="top-row">
+      <span id="level-label"></span>
+      <span id="q-counter"></span>
+    </div>
+    <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+    <div class="q-text" id="q-text"></div>
+    <div class="options" id="options"></div>
+    <div class="explain" id="explain"></div>
+    <div class="actions">
+      <button class="ghost" id="quit-btn">Exit</button>
+      <button class="primary" id="next-btn" disabled>Next</button>
+    </div>
+  </div>
+
+  <!-- RESULT SCREEN -->
+  <div class="card hidden" id="result-screen">
+    <div class="score-circle"><span class="num" id="score-num">0%</span><span class="lbl">SCORE</span></div>
+    <div class="stat-row">
+      <div><span class="n" id="stat-correct" style="color:var(--green)">0</span>Correct</div>
+      <div><span class="n" id="stat-wrong" style="color:var(--red)">0</span>Wrong</div>
+      <div><span class="n" id="stat-total">0</span>Total</div>
+    </div>
+    <div style="display:flex; gap:10px; justify-content:center; margin-bottom:22px;">
+      <button class="primary" id="retry-btn">Retry this level</button>
+      <button class="ghost" id="home-btn">Back to levels</button>
+    </div>
+    <div id="review-list"></div>
+  </div>
+</div>
+
+<script>
+/* ---------------- QUESTION BANK: Fundamental Rights ---------------- */
+const QUESTIONS = {
+  basic: [
+    {q:"Which Part of the Indian Constitution deals with Fundamental Rights?", o:["Part II","Part III","Part IV","Part IVA"], a:1, e:"Fundamental Rights are enshrined in <b>Part III</b> (Articles 12–35) of the Constitution."},
+    {q:"Fundamental Rights are covered under which range of Articles?", o:["Articles 12–35","Articles 36–51","Articles 1–11","Articles 52–78"], a:0, e:"Part III spans <b>Articles 12 to 35</b>."},
+    {q:"Which Article defines the term 'State' for the purposes of Part III?", o:["Article 12","Article 13","Article 14","Article 19"], a:0, e:"<b>Article 12</b> defines 'State' to include the Government and Parliament of India, State Legislatures, local authorities, and other authorities."},
+    {q:"Which Article declares that laws inconsistent with Fundamental Rights are void?", o:["Article 11","Article 13","Article 15","Article 21"], a:1, e:"<b>Article 13</b> voids any law (pre- or post-Constitution) that is inconsistent with or takes away Fundamental Rights."},
+    {q:"Article 14 guarantees which right?", o:["Right to freedom of speech","Equality before law and equal protection of laws","Right against exploitation","Right to constitutional remedies"], a:1, e:"<b>Article 14</b> guarantees equality before the law and equal protection of the laws to all persons."},
+    {q:"Which Article abolishes 'untouchability'?", o:["Article 15","Article 16","Article 17","Article 18"], a:2, e:"<b>Article 17</b> abolishes untouchability and forbids its practice in any form; it is a punishable offence."},
+    {q:"Which Article abolishes titles (except military and academic distinctions)?", o:["Article 17","Article 18","Article 19","Article 20"], a:1, e:"<b>Article 18</b> abolishes titles; the State cannot confer titles other than military or academic distinctions."},
+    {q:"How many freedoms are currently guaranteed under Article 19(1) after the 44th Amendment?", o:["Four","Five","Six","Seven"], a:2, e:"Originally seven freedoms were listed; the <b>right to property [19(1)(f)]</b> was removed by the <b>44th Amendment (1978)</b>, leaving <b>six</b> freedoms."},
+    {q:"Which Article protects a person against ex-post-facto laws, double jeopardy, and self-incrimination?", o:["Article 19","Article 20","Article 21","Article 22"], a:1, e:"<b>Article 20</b> covers protection in respect of conviction for offences — no ex-post-facto law, no double jeopardy, and no self-incrimination."},
+    {q:"Which Article guarantees 'Protection of life and personal liberty'?", o:["Article 19","Article 20","Article 21","Article 24"], a:2, e:"<b>Article 21</b> states no person shall be deprived of life or personal liberty except according to procedure established by law."},
+    {q:"Article 21A, guaranteeing the Right to Education, was inserted by which Constitutional Amendment?", o:["44th Amendment","73rd Amendment","86th Amendment","93rd Amendment"], a:2, e:"The <b>86th Amendment Act, 2002</b> inserted Article 21A, providing free and compulsory education for children aged 6–14 years."},
+    {q:"Which Article prohibits traffic in human beings and forced labour (begar)?", o:["Article 21","Article 22","Article 23","Article 24"], a:2, e:"<b>Article 23</b> prohibits human trafficking and forced labour (begar)."},
+    {q:"Which Article prohibits employment of children below 14 years in factories, mines, or hazardous work?", o:["Article 21A","Article 23","Article 24","Article 25"], a:2, e:"<b>Article 24</b> bars employment of children below 14 years in hazardous occupations."},
+    {q:"Which Article did Dr. B.R. Ambedkar call the 'heart and soul' of the Constitution?", o:["Article 14","Article 21","Article 32","Article 356"], a:2, e:"<b>Article 32</b> (Right to Constitutional Remedies) was described by Ambedkar as the 'heart and soul' of the Constitution."},
+    {q:"Which Article empowers Parliament to restrict Fundamental Rights in their application to the armed forces?", o:["Article 31","Article 32","Article 33","Article 34"], a:2, e:"<b>Article 33</b> allows Parliament to modify FRs' application to armed forces, para-military, and intelligence personnel."}
+  ],
+  intermediate: [
+    {q:"Which clause of Article 15 was added by the 103rd Amendment to allow reservation based on economic criteria (EWS)?", o:["Article 15(3)","Article 15(4)","Article 15(5)","Article 15(6)"], a:3, e:"<b>Article 15(6)</b>, inserted by the <b>103rd Amendment (2019)</b>, permits up to 10% reservation for Economically Weaker Sections."},
+    {q:"'Cooperative societies' was added to the freedom under Article 19(1)(c) by which Amendment?", o:["93rd Amendment","97th Amendment","101st Amendment","103rd Amendment"], a:1, e:"The <b>97th Amendment Act, 2011</b> added the right to form 'cooperative societies' to Article 19(1)(c)."},
+    {q:"Which writ is issued by a court to release a person illegally detained?", o:["Mandamus","Certiorari","Habeas Corpus","Quo Warranto"], a:2, e:"<b>Habeas Corpus</b> ('to have the body') commands that a detained person be produced before the court to examine the legality of detention."},
+    {q:"Which writ is issued to command a public official or authority to perform a duty they have failed to perform?", o:["Mandamus","Prohibition","Certiorari","Quo Warranto"], a:0, e:"<b>Mandamus</b> ('we command') directs a public authority to perform a public duty it has failed or refused to perform."},
+    {q:"Which of the following is a correct distinction between Article 32 and Article 226?", o:["Article 226 is a Fundamental Right, Article 32 is not","Article 32 (Supreme Court) is limited to enforcement of Fundamental Rights, while Article 226 (High Courts) extends to any other legal right as well","Only High Courts can issue writs","Article 32 can be suspended by an ordinary law"], a:1, e:"Article 32 itself is a Fundamental Right restricted to enforcing Part III rights; Article 226 gives High Courts wider power covering FRs and other legal rights, but is not itself a Fundamental Right."},
+    {q:"Under Article 22, for how long can a person be detained without obtaining the opinion of an Advisory Board (in ordinary preventive detention law, pre-2019 practice)?", o:["24 hours","1 month","3 months","6 months"], a:2, e:"Ordinarily, preventive detention beyond <b>3 months</b> requires the opinion of an Advisory Board, per Article 22(4)."},
+    {q:"After the 44th Amendment (1978) removed the right to property from Part III, under which Article does it survive as a mere legal right?", o:["Article 19(1)(f)","Article 31","Article 300A","Article 265"], a:2, e:"Right to property is now a constitutional legal right (not a Fundamental Right) under <b>Article 300A</b>."},
+    {q:"Reservation for backward classes in public employment is provided under which Article?", o:["Article 15(4)","Article 16(4)","Article 16(6)","Article 46"], a:1, e:"<b>Article 16(4)</b> enables the State to reserve appointments/posts for backward classes not adequately represented in services."},
+    {q:"Which Articles collectively guarantee the 'Right to Freedom of Religion'?", o:["Articles 19–22","Articles 25–28","Articles 29–30","Articles 23–24"], a:1, e:"<b>Articles 25 to 28</b> cover freedom of conscience, religious practice, managing religious affairs, freedom from religious taxes, and religious instruction."},
+    {q:"Which Article ensures the State cannot levy taxes to promote or maintain any particular religion?", o:["Article 25","Article 26","Article 27","Article 28"], a:2, e:"<b>Article 27</b> ensures no person is compelled to pay taxes for promoting a particular religion."},
+    {q:"The right to establish and administer educational institutions of their choice is given to minorities under which Article?", o:["Article 28","Article 29","Article 30","Article 31"], a:2, e:"<b>Article 30</b> grants minorities (religious or linguistic) the right to establish and administer educational institutions."},
+    {q:"Which of these Fundamental Rights is available only to citizens, NOT to foreigners?", o:["Article 14 (Equality before law)","Article 21 (Life and personal liberty)","Article 19 (Six freedoms)","Article 20 (Protection in respect of conviction)"], a:2, e:"<b>Article 19</b> freedoms are available only to citizens. Articles 14, 20, 21, 21A, 22, 23 and 25 are available to all persons, citizens or not."},
+    {q:"The maximum ceiling on total reservations set by the Supreme Court (with certain exceptions) is:", o:["33%","50%","60%","No limit prescribed"], a:1, e:"In <i>Indra Sawhney v Union of India</i> (1992), the Supreme Court capped reservations at <b>50%</b>, barring extraordinary circumstances."},
+    {q:"Which Article deals with the 'Protection against arrest and detention in certain cases'?", o:["Article 20","Article 21","Article 22","Article 24"], a:2, e:"<b>Article 22</b> lays down procedural safeguards for arrested/detained persons, and also covers preventive detention."},
+    {q:"Which Article empowers only Parliament (not State Legislatures) to make laws giving effect to certain Fundamental Rights, like punishing untouchability under Article 17?", o:["Article 33","Article 34","Article 35","Article 368"], a:2, e:"<b>Article 35</b> reserves to Parliament alone the power to legislate on specified matters under Part III, including prescribing punishment for Article 17 and 23 violations."}
+  ],
+  advanced: [
+    {q:"The 'Basic Structure Doctrine' of the Constitution was propounded in which landmark case?", o:["A.K. Gopalan v State of Madras","Golaknath v State of Punjab","Kesavananda Bharati v State of Kerala","Minerva Mills v Union of India"], a:2, e:"In <b>Kesavananda Bharati v State of Kerala (1973)</b>, a 13-judge bench held Parliament can amend any part of the Constitution, including Fundamental Rights, but cannot alter its 'basic structure'."},
+    {q:"Which case significantly expanded the scope of Article 21, holding that the 'procedure established by law' must be right, just and fair, not arbitrary?", o:["A.K. Gopalan case (1950)","Maneka Gandhi v Union of India (1978)","Indra Sawhney case (1992)","Golaknath case (1967)"], a:1, e:"<b>Maneka Gandhi v Union of India (1978)</b> overturned the narrow view from A.K. Gopalan, ruling that any procedure depriving life/liberty must be fair, just and reasonable — linking Articles 14, 19 and 21 (the 'Golden Triangle')."},
+    {q:"The Right to Privacy was declared a Fundamental Right under which case, and under which Article?", o:["Puttaswamy case, Article 19","Puttaswamy case, Article 21","Shayara Bano case, Article 25","Navtej Johar case, Article 21"], a:1, e:"In <b>Justice K.S. Puttaswamy v Union of India (2017)</b>, a 9-judge bench unanimously held that the right to privacy is a Fundamental Right protected under <b>Article 21</b>."},
+    {q:"The 'Golden Triangle' of the Indian Constitution refers to which combination of Articles?", o:["Articles 12, 13, 14","Articles 14, 19, 21","Articles 19, 20, 21","Articles 21, 32, 226"], a:1, e:"The 'Golden Triangle' refers to <b>Articles 14 (equality), 19 (freedoms) and 21 (life and liberty)</b>, which courts read together to test the validity of laws."},
+    {q:"In which case did the Supreme Court read down Section 377 of the IPC, decriminalising consensual homosexual acts between adults?", o:["Joseph Shine v Union of India","Navtej Singh Johar v Union of India","Shayara Bano v Union of India","Shafin Jahan v Asokan K.M."], a:1, e:"<b>Navtej Singh Johar v Union of India (2018)</b> held that Section 377 IPC, insofar as it criminalised consensual sexual acts between adults of the same sex, violated Articles 14, 15, 19 and 21."},
+    {q:"The practice of 'instant triple talaq' (talaq-e-biddat) was declared unconstitutional in which case?", o:["Shah Bano case","Shayara Bano v Union of India (2017)","Sarla Mudgal case","Danial Latifi case"], a:1, e:"<b>Shayara Bano v Union of India (2017)</b> struck down instant triple talaq as unconstitutional and arbitrary, violating Article 14."},
+    {q:"Section 497 IPC (criminalising adultery) was struck down as unconstitutional in which case?", o:["Joseph Shine v Union of India (2018)","Navtej Singh Johar case","Lata Singh v State of UP","Independent Thought v Union of India"], a:0, e:"<b>Joseph Shine v Union of India (2018)</b> struck down Section 497 IPC, holding it violated Articles 14, 15 and 21 by treating women as property of their husbands."},
+    {q:"In A.K. Gopalan v State of Madras (1950), the Supreme Court interpreted Article 21 in which manner?", o:["Broad and purposive, linking it to Articles 14 and 19","Narrow/literal — any procedure enacted by a validly made law was sufficient, regardless of fairness","As including the right to privacy","As a non-justiciable Directive Principle"], a:1, e:"The early <b>A.K. Gopalan</b> ruling took a literal view: as long as a 'procedure established by law' existed, it need not be fair — a position later reversed by Maneka Gandhi (1978)."},
+    {q:"Minerva Mills v Union of India (1980) is significant because it held that:", o:["Fundamental Rights can never be amended","There must be a harmonious balance between Fundamental Rights and Directive Principles; unlimited power to amend FRs for DPSPs is unconstitutional","Directive Principles are superior to Fundamental Rights in all cases","Right to Property is a Fundamental Right"], a:1, e:"<b>Minerva Mills (1980)</b> struck down parts of the 42nd Amendment that gave Parliament unlimited amending power over FRs to implement DPSPs, holding the harmony/balance between Part III and Part IV is part of the basic structure."},
+    {q:"Which case first held that Parliament CANNOT amend Fundamental Rights at all — a position later overruled by Kesavananda Bharati?", o:["Shankari Prasad case (1951)","Sajjan Singh case (1965)","I.C. Golaknath v State of Punjab (1967)","Indra Sawhney case (1992)"], a:2, e:"<b>Golaknath v State of Punjab (1967)</b> held Fundamental Rights are beyond the amending power of Parliament under Article 368; this rigid view was overruled by Kesavananda Bharati (1973), which introduced the basic structure test instead."},
+    {q:"The concept of 'creamy layer' exclusion in OBC reservations was introduced through which case?", o:["Indra Sawhney v Union of India (1992)","M. Nagaraj v Union of India (2006)","Jarnail Singh v Lachhmi Narain Gupta (2018)","Ashoka Kumar Thakur v Union of India (2008)"], a:0, e:"<b>Indra Sawhney v Union of India (1992)</b> (Mandal case) introduced the 'creamy layer' concept to exclude the socially advanced among backward classes from reservation benefits."},
+    {q:"Article 16(4A), permitting reservation in promotions for SC/STs, was examined for validity in which case?", o:["Indra Sawhney case","M. Nagaraj v Union of India (2006)","Champakam Dorairajan case","Ashoka Kumar Thakur case"], a:1, e:"<b>M. Nagaraj v Union of India (2006)</b> upheld the validity of Article 16(4A) but required the State to show backwardness, inadequate representation, and administrative efficiency data — conditions later eased in Jarnail Singh (2018)."},
+    {q:"Which case is considered the origin of India's earliest Fundamental Rights amendment controversy, prompting the 1st Amendment (1951)?", o:["Champakam Dorairajan v State of Madras","Kesavananda Bharati case","Maneka Gandhi case","Minerva Mills case"], a:0, e:"<b>State of Madras v Champakam Dorairajan (1951)</b>, which struck down caste-based reservation as violating Article 29(2), led to the <b>1st Amendment</b> inserting Article 15(4)."},
+    {q:"Which statement about Fundamental Rights and Directive Principles (per Minerva Mills and subsequent rulings) is most accurate?", o:["Fundamental Rights are always subordinate to Directive Principles","Directive Principles can never influence interpretation of Fundamental Rights","Neither is absolutely superior; courts strive for harmonious construction, and the balance itself is part of the basic structure","Directive Principles are fully justiciable like Fundamental Rights"], a:2, e:"Courts (notably in Minerva Mills) hold that <b>Fundamental Rights and Directive Principles must be balanced harmoniously</b> — neither is completely subordinate, and this balance is itself part of the Constitution's basic structure."},
+    {q:"The 103rd Constitutional Amendment (2019), introducing EWS reservation, added which two clauses?", o:["Article 15(4) and 16(4)","Article 15(5) and 16(4A)","Article 15(6) and 16(6)","Article 14(1) and 15(1)"], a:2, e:"The <b>103rd Amendment (2019)</b> inserted <b>Article 15(6)</b> and <b>Article 16(6)</b>, enabling up to 10% reservation for Economically Weaker Sections in education and public employment."}
+  ]
+};
+
+const LEVEL_META = {
+  basic:{title:"Basic", desc:"Article numbers & core definitions", badge:"b-basic"},
+  intermediate:{title:"Intermediate", desc:"Statements, exceptions & comparisons", badge:"b-inter"},
+  advanced:{title:"Advanced", desc:"Landmark cases, doctrines & amendments", badge:"b-adv"}
+};
+
+let state = { level:null, idx:0, answers:[], selected:null };
+
+const homeScreen = document.getElementById('home-screen');
+const quizScreen = document.getElementById('quiz-screen');
+const resultScreen = document.getElementById('result-screen');
+const levelGrid = document.getElementById('level-grid');
+
+function renderHome(){
+  levelGrid.innerHTML = '';
+  Object.keys(LEVEL_META).forEach(key=>{
+    const meta = LEVEL_META[key];
+    const count = QUESTIONS[key].length;
+    const btn = document.createElement('div');
+    btn.className = 'level-btn';
+    btn.innerHTML = `<div><div class="lt">${meta.title}</div><div class="ld">${meta.desc} · ${count} questions</div></div><span class="badge ${meta.badge}">${meta.title}</span>`;
+    btn.onclick = ()=>startQuiz(key);
+    levelGrid.appendChild(btn);
+  });
+  homeScreen.classList.remove('hidden');
+  quizScreen.classList.add('hidden');
+  resultScreen.classList.add('hidden');
+}
+
+function startQuiz(level){
+  state = { level, idx:0, answers:[], selected:null };
+  homeScreen.classList.add('hidden');
+  resultScreen.classList.add('hidden');
+  quizScreen.classList.remove('hidden');
+  renderQuestion();
+}
+
+function renderQuestion(){
+  const list = QUESTIONS[state.level];
+  const q = list[state.idx];
+  document.getElementById('level-label').textContent = LEVEL_META[state.level].title + ' Level';
+  document.getElementById('q-counter').textContent = `Question ${state.idx+1} of ${list.length}`;
+  document.getElementById('progress-fill').style.width = `${((state.idx)/list.length)*100}%`;
+  document.getElementById('q-text').textContent = q.q;
+  const optsEl = document.getElementById('options');
+  optsEl.innerHTML = '';
+  const letters = ['A','B','C','D'];
+  q.o.forEach((optText, i)=>{
+    const div = document.createElement('div');
+    div.className = 'opt';
+    div.innerHTML = `<span class="letter">${letters[i]}.</span><span>${optText}</span>`;
+    div.onclick = ()=>selectOption(i);
+    optsEl.appendChild(div);
+  });
+  document.getElementById('explain').style.display = 'none';
+  document.getElementById('explain').innerHTML = '';
+  document.getElementById('next-btn').disabled = true;
+  document.getElementById('next-btn').textContent = (state.idx === list.length-1) ? 'Finish' : 'Next';
+  state.selected = null;
+}
+
+function selectOption(i){
+  if(state.selected !== null) return; // already answered
+  const list = QUESTIONS[state.level];
+  const q = list[state.idx];
+  state.selected = i;
+  const opts = document.querySelectorAll('#options .opt');
+  opts.forEach((el,idx)=>{
+    el.classList.add('disabled');
+    if(idx === q.a) el.classList.add('correct');
+    else if(idx === i) el.classList.add('wrong');
+    else el.classList.add('dim');
+  });
+  const isCorrect = (i === q.a);
+  state.answers.push({q:q.q, options:q.o, correctIdx:q.a, chosenIdx:i, correct:isCorrect, explain:q.e});
+  const explainEl = document.getElementById('explain');
+  explainEl.style.display = 'block';
+  explainEl.innerHTML = (isCorrect ? '✅ Correct. ' : '❌ Incorrect. ') + q.e;
+  document.getElementById('next-btn').disabled = false;
+}
+
+document.getElementById('next-btn').onclick = ()=>{
+  const list = QUESTIONS[state.level];
+  if(state.idx < list.length-1){
+    state.idx++;
+    renderQuestion();
+  } else {
+    showResult();
+  }
+};
+
+document.getElementById('quit-btn').onclick = ()=>{
+  if(confirm('Exit this test? Your progress will be lost.')) renderHome();
+};
+
+function showResult(){
+  quizScreen.classList.add('hidden');
+  resultScreen.classList.remove('hidden');
+  const total = state.answers.length;
+  const correct = state.answers.filter(a=>a.correct).length;
+  const wrong = total - correct;
+  const pct = Math.round((correct/total)*100);
+  document.getElementById('score-num').textContent = pct + '%';
+  document.getElementById('stat-correct').textContent = correct;
+  document.getElementById('stat-wrong').textContent = wrong;
+  document.getElementById('stat-total').textContent = total;
+
+  const reviewList = document.getElementById('review-list');
+  reviewList.innerHTML = '<h3 style="font-size:0.95rem; margin-bottom:10px;">Review</h3>';
+  const letters = ['A','B','C','D'];
+  state.answers.forEach((a, i)=>{
+    const div = document.createElement('div');
+    div.className = 'review-item';
+    div.innerHTML = `
+      <div class="rq">${i+1}. ${a.q}</div>
+      <div class="ra">Your answer: <b>${letters[a.chosenIdx]}. ${a.options[a.chosenIdx]}</b> — <span class="${a.correct?'tag-ok':'tag-bad'}">${a.correct?'Correct':'Wrong'}</span></div>
+      ${!a.correct ? `<div class="ra">Correct answer: <b>${letters[a.correctIdx]}. ${a.options[a.correctIdx]}</b></div>` : ''}
+      <div class="ra" style="color:var(--muted); margin-top:6px;">${a.explain}</div>
+    `;
+    reviewList.appendChild(div);
+  });
+}
+
+document.getElementById('retry-btn').onclick = ()=> startQuiz(state.level);
+document.getElementById('home-btn').onclick = ()=> renderHome();
+
+renderHome();
+</script>
+</body>
+</html>

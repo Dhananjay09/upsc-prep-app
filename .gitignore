@@ -1,0 +1,13 @@
+# Agent scratch/intermediate files (superseded by chapters_batch*.json)
+ch1_*.json
+ch2_*.json
+ch3_*.json
+ch4_*.json
+ch5_*.json
+ch6_*.json
+ch_*.json
+batch6_part*.json
+tmp_batchA/
+build/
+merged_chapters.json
+pending_chapters.json

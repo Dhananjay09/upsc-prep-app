@@ -1,0 +1,3050 @@
+[
+  {
+    "id": "dpsp",
+    "title": "Directive Principles of State Policy",
+    "desc": "Non-justiciable state goals guiding governance and justice",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Part of the Constitution contains the Directive Principles of State Policy (DPSP)?",
+          "o": [
+            "Part III",
+            "Part IV",
+            "Part IVA",
+            "Part V"
+          ],
+          "a": 1,
+          "e": "The <b>Directive Principles of State Policy</b> are contained in <b>Part IV</b> of the Constitution, from Articles 36 to 51."
+        },
+        {
+          "q": "The Directive Principles of State Policy were borrowed from the Constitution of which country?",
+          "o": [
+            "United Kingdom",
+            "United States of America",
+            "Ireland",
+            "Canada"
+          ],
+          "a": 2,
+          "e": "The concept of DPSP was borrowed from the <b>Irish Constitution</b>, which had in turn borrowed it from the Spanish Constitution."
+        },
+        {
+          "q": "Which Article of the Constitution declares that the Directive Principles shall not be enforceable by any court?",
+          "o": [
+            "Article 32",
+            "Article 36",
+            "Article 37",
+            "Article 13"
+          ],
+          "a": 2,
+          "e": "<b>Article 37</b> states that the DPSPs are not enforceable by any court but are nevertheless fundamental in the governance of the country."
+        },
+        {
+          "q": "Article 36 of the Constitution deals with which of the following?",
+          "o": [
+            "Definition of 'State' for Part IV",
+            "Uniform Civil Code",
+            "Village Panchayats",
+            "Separation of judiciary from executive"
+          ],
+          "a": 0,
+          "e": "<b>Article 36</b> defines the term 'State' for the purposes of Part IV in the same sense as it is defined in Article 12 for Fundamental Rights."
+        },
+        {
+          "q": "Which Article directs the State to secure equal pay for equal work for both men and women?",
+          "o": [
+            "Article 39",
+            "Article 41",
+            "Article 42",
+            "Article 43"
+          ],
+          "a": 0,
+          "e": "<b>Article 39(d)</b> directs the State to ensure equal pay for equal work for both men and women."
+        },
+        {
+          "q": "Which Article of the Constitution deals with the organization of village panchayats?",
+          "o": [
+            "Article 38",
+            "Article 40",
+            "Article 43",
+            "Article 48"
+          ],
+          "a": 1,
+          "e": "<b>Article 40</b> directs the State to take steps to organize village panchayats and endow them with such powers as may be necessary for self-government, forming the basis of the 73rd Amendment."
+        },
+        {
+          "q": "Which Article provides for a living wage for workers?",
+          "o": [
+            "Article 41",
+            "Article 42",
+            "Article 43",
+            "Article 47"
+          ],
+          "a": 2,
+          "e": "<b>Article 43</b> directs the State to secure a living wage, decent standard of life, and social and cultural opportunities for workers."
+        },
+        {
+          "q": "Which Article directs the State to endeavour to secure a Uniform Civil Code for citizens?",
+          "o": [
+            "Article 44",
+            "Article 45",
+            "Article 46",
+            "Article 48"
+          ],
+          "a": 0,
+          "e": "<b>Article 44</b> directs the State to endeavour to secure a <b>Uniform Civil Code</b> throughout the territory of India."
+        },
+        {
+          "q": "Article 45 of the Constitution, as amended by the 86th Amendment Act, 2002, deals with?",
+          "o": [
+            "Provision for early childhood care and education for children below six years",
+            "Free and compulsory education for children of 6-14 years",
+            "Nutrition and standard of living",
+            "Organisation of agriculture"
+          ],
+          "a": 0,
+          "e": "After the <b>86th Amendment Act, 2002</b>, Article 45 was changed to provide for early childhood care and education for children below the age of six, since free and compulsory education for 6-14 years became a Fundamental Right under Article 21A."
+        },
+        {
+          "q": "Which Article directs the State to promote the educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections?",
+          "o": [
+            "Article 15",
+            "Article 16",
+            "Article 46",
+            "Article 47"
+          ],
+          "a": 2,
+          "e": "<b>Article 46</b> directs the State to promote with special care the educational and economic interests of the weaker sections, particularly SCs and STs, and to protect them from social injustice and exploitation."
+        },
+        {
+          "q": "Which Article casts a duty on the State to organize agriculture and animal husbandry on modern and scientific lines and prohibits slaughter of cows, calves and other milch and draught cattle?",
+          "o": [
+            "Article 47",
+            "Article 48",
+            "Article 48A",
+            "Article 49"
+          ],
+          "a": 1,
+          "e": "<b>Article 48</b> directs the State to organize agriculture and animal husbandry on modern and scientific lines and, in particular, to prohibit the slaughter of cows, calves and other milch and draught cattle."
+        },
+        {
+          "q": "Article 48A of the Constitution deals with?",
+          "o": [
+            "Protection of monuments of national importance",
+            "Protection and improvement of environment, forests and wildlife",
+            "Separation of judiciary from executive",
+            "Promotion of international peace"
+          ],
+          "a": 1,
+          "e": "<b>Article 48A</b> directs the State to endeavour to protect and improve the environment and to safeguard the forests and wildlife of the country; it was inserted by the <b>42nd Amendment Act, 1976</b>."
+        },
+        {
+          "q": "Which Article of the DPSP relates to the protection of monuments and places of national importance?",
+          "o": [
+            "Article 48",
+            "Article 48A",
+            "Article 49",
+            "Article 50"
+          ],
+          "a": 2,
+          "e": "<b>Article 49</b> directs the State to protect monuments, places and objects of artistic or historic interest declared to be of national importance."
+        },
+        {
+          "q": "Which Article directs the State to take steps to separate the judiciary from the executive in the public services of the State?",
+          "o": [
+            "Article 48",
+            "Article 49",
+            "Article 50",
+            "Article 51"
+          ],
+          "a": 2,
+          "e": "<b>Article 50</b> directs the State to take steps to separate the judiciary from the executive in the public services of the State."
+        },
+        {
+          "q": "Which Article of the DPSP relates to the promotion of international peace and security?",
+          "o": [
+            "Article 48A",
+            "Article 49",
+            "Article 50",
+            "Article 51"
+          ],
+          "a": 3,
+          "e": "<b>Article 51</b> directs the State to endeavour to promote international peace and security, maintain just and honourable relations between nations, and encourage settlement of international disputes by arbitration."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which of the following DPSPs is classified as a 'Gandhian principle'?",
+          "o": [
+            "Article 44 - Uniform Civil Code",
+            "Article 40 - Organization of village panchayats",
+            "Article 50 - Separation of judiciary from executive",
+            "Article 51 - Promotion of international peace"
+          ],
+          "a": 1,
+          "e": "<b>Article 40</b> (village panchayats) reflects Gandhian philosophy of decentralization and village self-governance, along with Articles 43, 43B, 46, 47 and 48; Articles 44, 50 and 51 fall under the liberal-intellectual category."
+        },
+        {
+          "q": "Consider the following DPSPs: 1. Article 39 - distribution of material resources 2. Article 41 - right to work 3. Article 43A - workers' participation in management. Which of these are classified as 'socialist principles'?",
+          "o": [
+            "1 only",
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2 and 3 only"
+          ],
+          "a": 2,
+          "e": "Articles 38, 39, 39A, 41, 42, 43 and <b>43A</b> reflect the ideology of <b>socialism</b>, aiming to secure social and economic democracy, and are all classified as socialist principles of DPSP."
+        },
+        {
+          "q": "Which of the following is correctly classified under the 'liberal-intellectual' category of DPSPs?",
+          "o": [
+            "Article 43B - cooperative societies",
+            "Article 48 - animal husbandry",
+            "Article 50 - separation of judiciary from executive",
+            "Article 47 - prohibition of intoxicating drinks"
+          ],
+          "a": 2,
+          "e": "<b>Article 50</b> (separation of judiciary from executive), along with Articles 44, 45, 48, 48A, 49 and 51, is classified as a <b>liberal-intellectual</b> principle since it reflects the ideology of liberalism."
+        },
+        {
+          "q": "Which of the following statements about the enforceability of Directive Principles is correct?",
+          "o": [
+            "DPSPs are directly enforceable in courts like Fundamental Rights",
+            "DPSPs are non-justiciable but fundamental in the governance of the country as per Article 37",
+            "DPSPs can only be enforced through Presidential Ordinances",
+            "DPSPs override Fundamental Rights in all circumstances"
+          ],
+          "a": 1,
+          "e": "As per <b>Article 37</b>, the DPSPs are not enforceable by any court, yet the principles laid down are declared to be fundamental in the governance of the country and it is the duty of the State to apply them in making laws."
+        },
+        {
+          "q": "The Directive Principles relating to equal justice and free legal aid (Article 39A) and workers' participation in management (Article 43A) were inserted into the Constitution by which amendment?",
+          "o": [
+            "24th Amendment Act, 1971",
+            "25th Amendment Act, 1971",
+            "42nd Amendment Act, 1976",
+            "44th Amendment Act, 1978"
+          ],
+          "a": 2,
+          "e": "The <b>42nd Amendment Act, 1976</b> inserted Articles 39A, 43A and 48A into Part IV, along with Fundamental Duties in a new Part IVA."
+        },
+        {
+          "q": "Article 43B, relating to the promotion of cooperative societies, was inserted into the DPSP by which Constitutional Amendment?",
+          "o": [
+            "86th Amendment Act, 2002",
+            "97th Amendment Act, 2011",
+            "93rd Amendment Act, 2005",
+            "101st Amendment Act, 2016"
+          ],
+          "a": 1,
+          "e": "The <b>97th Amendment Act, 2011</b> inserted Article 43B, directing the State to promote voluntary formation, autonomous functioning and democratic control of cooperative societies."
+        },
+        {
+          "q": "Consider the following statements: 1. Article 31C was originally inserted by the 25th Amendment Act, 1971. 2. It originally protected only laws giving effect to Article 39(b) and (c) from being challenged as violative of Articles 14 and 19. Which of the statements is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The <b>25th Amendment Act, 1971</b> inserted <b>Article 31C</b>, which shielded laws implementing Article 39(b) and (c) from being declared void for violating Articles 14 or 19."
+        },
+        {
+          "q": "Which amendment removed the Right to Property from the list of Fundamental Rights and made it a legal right under Article 300A, thereby easing tension with DPSPs relating to distribution of resources?",
+          "o": [
+            "42nd Amendment Act, 1976",
+            "44th Amendment Act, 1978",
+            "24th Amendment Act, 1971",
+            "86th Amendment Act, 2002"
+          ],
+          "a": 1,
+          "e": "The <b>44th Amendment Act, 1978</b> repealed Article 19(1)(f) and Article 31, converting the right to property into a mere legal right under Article 300A."
+        },
+        {
+          "q": "Which of the following best distinguishes Fundamental Rights from Directive Principles of State Policy?",
+          "o": [
+            "Fundamental Rights are found in Part IV while DPSPs are in Part III",
+            "Fundamental Rights are justiciable while DPSPs are non-justiciable",
+            "DPSPs promote individual liberty while Fundamental Rights promote social welfare",
+            "DPSPs can be suspended during a financial emergency while Fundamental Rights cannot"
+          ],
+          "a": 1,
+          "e": "<b>Fundamental Rights</b> (Part III) are legally enforceable by courts, whereas <b>DPSPs</b> (Part IV) are non-justiciable, being merely directives for governance under Article 37."
+        },
+        {
+          "q": "Article 40, which directs organization of village panchayats, became the constitutional basis for which subsequent amendment?",
+          "o": [
+            "42nd Amendment Act, 1976",
+            "44th Amendment Act, 1978",
+            "73rd Amendment Act, 1992",
+            "86th Amendment Act, 2002"
+          ],
+          "a": 2,
+          "e": "<b>Article 40</b>'s directive to organize village panchayats provided the philosophical basis for the <b>73rd Amendment Act, 1992</b>, which gave constitutional status to Panchayati Raj institutions."
+        },
+        {
+          "q": "Consider the following statements about Article 38: 1. It directs the State to secure a social order for the promotion of welfare of the people. 2. Clause (2) was added by the 44th Amendment to minimize inequalities in income, status and opportunities. Which of the statements is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Article 38(1)</b> directs the State to secure a social order for promoting welfare, while <b>Article 38(2)</b>, added by the <b>44th Amendment Act, 1978</b>, specifically directs minimizing inequalities in income, status, facilities and opportunities."
+        },
+        {
+          "q": "Which of the following DPSP articles was NOT part of the original Constitution of 1950 and was added later by amendment?",
+          "o": [
+            "Article 39 - principles of policy",
+            "Article 44 - Uniform Civil Code",
+            "Article 48A - protection of environment",
+            "Article 50 - separation of judiciary from executive"
+          ],
+          "a": 2,
+          "e": "<b>Article 48A</b> was inserted by the <b>42nd Amendment Act, 1976</b>, along with Fundamental Duties; Articles 39, 44 and 50 were part of the original 1950 Constitution."
+        },
+        {
+          "q": "Consider the following pairs of DPSP Article and its subject: 1. Article 41 - Right to work, education and public assistance 2. Article 42 - Provision for just and humane conditions of work and maternity relief 3. Article 47 - Duty of the State to raise the level of nutrition and standard of living. Which of the pairs given above is/are correctly matched?",
+          "o": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three pairs are correctly matched: <b>Article 41</b> deals with right to work, education and public assistance; <b>Article 42</b> with humane conditions of work and maternity relief; and <b>Article 47</b> with nutrition, standard of living and public health."
+        },
+        {
+          "q": "The classification of DPSPs into 'socialist', 'Gandhian' and 'liberal-intellectual' categories is a classification made by?",
+          "o": [
+            "The Constitution itself in Part IV",
+            "Political scientists/scholars for analytical convenience, not the constitutional text",
+            "The Supreme Court in the Kesavananda Bharati case",
+            "The Sarkaria Commission"
+          ],
+          "a": 1,
+          "e": "The Constitution does not itself classify the DPSPs; the division into <b>socialist, Gandhian and liberal-intellectual</b> principles is a classification adopted by scholars of political science for ease of study and analysis."
+        },
+        {
+          "q": "Which of the following is a key difference between Fundamental Rights and Directive Principles of State Policy?",
+          "o": [
+            "Fundamental Rights impose negative obligations restraining the State, while DPSPs impose positive obligations directing the State to act",
+            "Fundamental Rights apply only to citizens, while DPSPs apply only to foreigners",
+            "DPSPs are found in Part III, while Fundamental Rights are found in Part IV",
+            "DPSPs can be enforced through writ petitions under Article 32"
+          ],
+          "a": 0,
+          "e": "<b>Fundamental Rights</b> are largely negative in character, restraining the State from certain actions, whereas <b>DPSPs</b> are positive instructions directing the State to work towards specific socio-economic goals."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "The Supreme Court's decision in State of Madras v. Champakam Dorairajan (1951) primarily held that?",
+          "o": [
+            "DPSPs must always prevail over Fundamental Rights",
+            "In case of conflict, Fundamental Rights would prevail over Directive Principles, since DPSPs are non-justiciable",
+            "Reservations in education can never be provided by the State",
+            "The judiciary has no power of judicial review over any law"
+          ],
+          "a": 1,
+          "e": "In <b>Champakam Dorairajan (1951)</b>, the Supreme Court held that in case of a conflict between Fundamental Rights and DPSPs, the former would prevail, since DPSPs are non-justiciable under Article 37 while FRs are enforceable; this led to the <b>First Amendment Act, 1951</b> inserting Article 15(4)."
+        },
+        {
+          "q": "In I.C. Golaknath v. State of Punjab (1967), the Supreme Court held that?",
+          "o": [
+            "Parliament has unlimited power to amend any part of the Constitution",
+            "Parliament cannot amend Fundamental Rights, as Article 368 does not give power to abridge Part III",
+            "DPSPs are superior to Fundamental Rights",
+            "The basic structure doctrine applies retrospectively to all amendments"
+          ],
+          "a": 1,
+          "e": "In <b>Golaknath v. State of Punjab (1967)</b>, an 11-judge bench held, by a narrow majority, that Parliament could not amend the Fundamental Rights in Part III, applying the doctrine of prospective overruling."
+        },
+        {
+          "q": "Which Constitutional Amendment was enacted specifically to overcome the effect of the Golaknath judgment by explicitly empowering Parliament to amend any part of the Constitution, including Fundamental Rights?",
+          "o": [
+            "24th Amendment Act, 1971",
+            "25th Amendment Act, 1971",
+            "39th Amendment Act, 1975",
+            "42nd Amendment Act, 1976"
+          ],
+          "a": 0,
+          "e": "The <b>24th Amendment Act, 1971</b> was passed to nullify the effect of the Golaknath judgment; it amended Article 368 to explicitly empower Parliament to amend any part of the Constitution, including Fundamental Rights."
+        },
+        {
+          "q": "The 'basic structure doctrine' was propounded by the Supreme Court in which landmark case?",
+          "o": [
+            "Golaknath v. State of Punjab (1967)",
+            "Kesavananda Bharati v. State of Kerala (1973)",
+            "Minerva Mills v. Union of India (1980)",
+            "Indira Nehru Gandhi v. Raj Narain (1975)"
+          ],
+          "a": 1,
+          "e": "In <b>Kesavananda Bharati v. State of Kerala (1973)</b>, a 13-judge bench of the Supreme Court propounded the <b>basic structure doctrine</b>, holding that Parliament can amend any part of the Constitution, including Fundamental Rights, but cannot alter its basic structure."
+        },
+        {
+          "q": "The original Article 31C, inserted by the 25th Amendment Act, 1971, protected laws giving effect to which Directive Principles from being challenged as violating Articles 14 and 19?",
+          "o": [
+            "Article 39(b) and 39(c) only",
+            "All Directive Principles in Part IV",
+            "Article 44 and Article 48A only",
+            "Article 40 and Article 43 only"
+          ],
+          "a": 0,
+          "e": "<b>Article 31C</b>, as originally inserted by the <b>25th Amendment Act, 1971</b>, provided that laws implementing the principles in <b>Article 39(b) and (c)</b> would not be void merely for being inconsistent with Articles 14 or 19."
+        },
+        {
+          "q": "The 42nd Amendment Act, 1976 amended Article 31C to extend its protective umbrella to?",
+          "o": [
+            "Only Article 39(b) and (c)",
+            "All the Directive Principles contained in Part IV",
+            "Only the Fundamental Duties",
+            "Only Articles 14 and 19"
+          ],
+          "a": 1,
+          "e": "The <b>42nd Amendment Act, 1976</b> widened Article 31C to protect laws giving effect to <b>any</b> of the Directive Principles in Part IV from challenge under Articles 14 and 19, giving DPSPs sweeping primacy over these Fundamental Rights."
+        },
+        {
+          "q": "In Minerva Mills v. Union of India (1980), the Supreme Court struck down which change made by the 42nd Amendment Act, 1976?",
+          "o": [
+            "The insertion of Fundamental Duties under Article 51A",
+            "The extension of Article 31C to cover all Directive Principles instead of only Article 39(b) and (c)",
+            "The addition of Article 48A on environmental protection",
+            "The renaming of the Preamble"
+          ],
+          "a": 1,
+          "e": "In <b>Minerva Mills v. Union of India (1980)</b>, the Supreme Court struck down the amendment to Article 31C that extended its protection to all DPSPs, holding that such unlimited primacy of DPSPs over Fundamental Rights (Articles 14 and 19) destroyed the basic structure of the Constitution."
+        },
+        {
+          "q": "The Minerva Mills case (1980) held that which of the following forms part of the 'basic structure' of the Constitution?",
+          "o": [
+            "Absolute primacy of Directive Principles over Fundamental Rights",
+            "The harmonious balance between Fundamental Rights (Part III) and Directive Principles (Part IV)",
+            "Unlimited amending power of Parliament under Article 368",
+            "Presidential immunity from judicial review"
+          ],
+          "a": 1,
+          "e": "The Supreme Court in <b>Minerva Mills (1980)</b> held that the <b>harmony and balance between Fundamental Rights and Directive Principles</b> is itself part of the basic structure of the Constitution, and giving absolute primacy to either would upset this balance."
+        },
+        {
+          "q": "Who was the Chief Justice of India who delivered the leading judgment in Minerva Mills v. Union of India (1980)?",
+          "o": [
+            "Justice H.R. Khanna",
+            "Justice Y.V. Chandrachud",
+            "Justice P.N. Bhagwati",
+            "Justice A.N. Ray"
+          ],
+          "a": 1,
+          "e": "<b>Chief Justice Y.V. Chandrachud</b> delivered the leading judgment in <b>Minerva Mills v. Union of India (1980)</b>, holding portions of the 42nd Amendment relating to Article 31C and Article 368 to be unconstitutional."
+        },
+        {
+          "q": "In Waman Rao v. Union of India (1981), the Supreme Court held that the basic structure doctrine, as propounded in Kesavananda Bharati, would apply?",
+          "o": [
+            "Retrospectively to all amendments since 1950",
+            "Prospectively, i.e., to constitutional amendments made after 24 April 1973",
+            "Only to amendments relating to Directive Principles",
+            "Only to amendments relating to the Ninth Schedule enacted before 1951"
+          ],
+          "a": 1,
+          "e": "In <b>Waman Rao v. Union of India (1981)</b>, the Supreme Court held that the basic structure doctrine would apply prospectively, i.e., to constitutional amendments enacted after the date of the Kesavananda Bharati judgment (24 April 1973)."
+        },
+        {
+          "q": "In Unni Krishnan, J.P. v. State of Andhra Pradesh (1993), the Supreme Court held that the right to education up to the age of 14 years is a Fundamental Right, deriving it from?",
+          "o": [
+            "Article 21 read with Articles 41 and 45 of the DPSP",
+            "Article 32 alone",
+            "Article 44 - Uniform Civil Code",
+            "Article 48A - environmental protection"
+          ],
+          "a": 0,
+          "e": "In <b>Unni Krishnan v. State of A.P. (1993)</b>, the Supreme Court held that the right to education for children up to 14 years flows from the right to life under <b>Article 21</b>, read in light of the directive principles in <b>Articles 41 and 45</b>; this was later made an explicit Fundamental Right under Article 21A by the 86th Amendment."
+        },
+        {
+          "q": "The 44th Amendment Act, 1978 is significant in the DPSP-Fundamental Rights debate because it?",
+          "o": [
+            "Made all DPSPs directly enforceable in courts",
+            "Abolished the right to property as a Fundamental Right, converting it into a legal right under Article 300A",
+            "Struck down the basic structure doctrine",
+            "Reinstated the unlimited primacy of DPSPs over Fundamental Rights"
+          ],
+          "a": 1,
+          "e": "The <b>44th Amendment Act, 1978</b> removed the right to property from Part III of the Constitution and made it a legal right under <b>Article 300A</b>, easing the tension between DPSPs on distribution of resources and Fundamental Rights."
+        },
+        {
+          "q": "In Sanjeev Coke Manufacturing Co. v. Bharat Coking Coal Ltd. (1983), the Supreme Court?",
+          "o": [
+            "Struck down Article 31C entirely",
+            "Upheld the validity of Article 31C as it stood after the Minerva Mills judgment, i.e., limited to Article 39(b) and (c)",
+            "Held that Directive Principles are directly enforceable in courts",
+            "Overruled the Kesavananda Bharati judgment"
+          ],
+          "a": 1,
+          "e": "In <b>Sanjeev Coke Manufacturing Co. v. Bharat Coking Coal Ltd. (1983)</b>, the Supreme Court upheld the validity of <b>Article 31C</b> in its original, limited form (protecting laws under Article 39(b) and (c) only), as restored after the Minerva Mills ruling."
+        },
+        {
+          "q": "Which of the following correctly represents the chronological order of these landmark developments?",
+          "o": [
+            "Kesavananda Bharati - Golaknath - Minerva Mills - Champakam Dorairajan",
+            "Champakam Dorairajan - Golaknath - Kesavananda Bharati - Minerva Mills",
+            "Minerva Mills - Kesavananda Bharati - Golaknath - Champakam Dorairajan",
+            "Golaknath - Champakam Dorairajan - Minerva Mills - Kesavananda Bharati"
+          ],
+          "a": 1,
+          "e": "The correct chronological order is <b>Champakam Dorairajan (1951)</b>, followed by <b>Golaknath (1967)</b>, then <b>Kesavananda Bharati (1973)</b>, and finally <b>Minerva Mills (1980)</b>."
+        },
+        {
+          "q": "The doctrine of 'harmonious construction' between Fundamental Rights and Directive Principles, as reaffirmed by the Supreme Court, essentially means that?",
+          "o": [
+            "Directive Principles must always be ignored in favour of Fundamental Rights",
+            "Courts should interpret the two Parts so as to give effect to both as far as possible, without either being rendered subordinate to the other in absolute terms",
+            "Fundamental Rights are subordinate to Directive Principles in all cases",
+            "Only Parliament, and not the judiciary, can decide the relationship between the two Parts"
+          ],
+          "a": 1,
+          "e": "The doctrine of <b>harmonious construction</b>, reaffirmed in cases like <b>Minerva Mills</b>, requires that Fundamental Rights and Directive Principles be interpreted together in a balanced manner, so that the object of both Parts III and IV of the Constitution is achieved."
+        }
+      ]
+    }
+  },
+  {
+    "id": "fundamental_duties",
+    "title": "Fundamental Duties",
+    "desc": "Citizens' civic obligations under Article 51A",
+    "questions": {
+      "basic": [
+        {
+          "q": "In which Part of the Indian Constitution are the Fundamental Duties enshrined?",
+          "o": [
+            "Part III",
+            "Part IV",
+            "Part IVA",
+            "Part V"
+          ],
+          "a": 2,
+          "e": "The <b>Fundamental Duties</b> are contained in <b>Part IVA</b> of the Constitution, which consists of a single Article, 51A."
+        },
+        {
+          "q": "Which Article of the Constitution lists the Fundamental Duties of citizens?",
+          "o": [
+            "Article 32",
+            "Article 51A",
+            "Article 44",
+            "Article 21A"
+          ],
+          "a": 1,
+          "e": "<b>Article 51A</b> enumerates the Fundamental Duties of every citizen of India."
+        },
+        {
+          "q": "The Fundamental Duties were added to the Constitution by which Amendment Act?",
+          "o": [
+            "44th Amendment Act, 1978",
+            "42nd Amendment Act, 1976",
+            "24th Amendment Act, 1971",
+            "86th Amendment Act, 2002"
+          ],
+          "a": 1,
+          "e": "The <b>42nd Amendment Act, 1976</b> inserted Part IVA containing Article 51A, listing the Fundamental Duties."
+        },
+        {
+          "q": "The incorporation of Fundamental Duties into the Constitution was based on the recommendations of which committee?",
+          "o": [
+            "Sarkaria Commission",
+            "Swaran Singh Committee",
+            "Balwant Rai Mehta Committee",
+            "Justice Verma Committee"
+          ],
+          "a": 1,
+          "e": "The <b>Swaran Singh Committee</b> (1976) recommended a separate chapter on Fundamental Duties, leading to their addition through the 42nd Amendment."
+        },
+        {
+          "q": "How many Fundamental Duties were originally incorporated by the 42nd Amendment Act, 1976?",
+          "o": [
+            "8",
+            "9",
+            "10",
+            "11"
+          ],
+          "a": 2,
+          "e": "Originally, <b>ten</b> Fundamental Duties, covering clauses (a) to (j), were added by the 42nd Amendment Act, 1976."
+        },
+        {
+          "q": "The 11th Fundamental Duty was added by which Amendment Act?",
+          "o": [
+            "73rd Amendment Act, 1992",
+            "86th Amendment Act, 2002",
+            "91st Amendment Act, 2003",
+            "42nd Amendment Act, 1976"
+          ],
+          "a": 1,
+          "e": "The <b>86th Amendment Act, 2002</b> inserted clause (k) into Article 51A, adding the 11th Fundamental Duty."
+        },
+        {
+          "q": "The 11th Fundamental Duty added in 2002 casts an obligation on whom?",
+          "o": [
+            "Every citizen to vote",
+            "Parents or guardians to provide education to their child or ward",
+            "The State to provide free education",
+            "Teachers to educate children"
+          ],
+          "a": 1,
+          "e": "Clause (k) obliges a <b>parent or guardian</b> to provide opportunities for education to his/her child or ward between the ages of <b>six and fourteen years</b>."
+        },
+        {
+          "q": "The concept of Fundamental Duties in the Indian Constitution draws inspiration from the constitution of which country?",
+          "o": [
+            "United Kingdom",
+            "United States of America",
+            "erstwhile USSR",
+            "Japan"
+          ],
+          "a": 2,
+          "e": "The idea of Fundamental Duties was inspired by the Constitution of the erstwhile <b>USSR</b>."
+        },
+        {
+          "q": "Which of the following best describes the legal character of Fundamental Duties?",
+          "o": [
+            "Justiciable and enforceable by courts",
+            "Non-justiciable, like Directive Principles",
+            "Enforceable only against foreigners",
+            "Fully enforceable through Fundamental Rights"
+          ],
+          "a": 1,
+          "e": "Like the <b>Directive Principles of State Policy</b>, Fundamental Duties are <b>non-justiciable</b>; there is no direct constitutional sanction for their violation."
+        },
+        {
+          "q": "Which committee, appointed in 1999, examined ways of operationalising the Fundamental Duties?",
+          "o": [
+            "Swaran Singh Committee",
+            "Justice Verma Committee",
+            "Sarkaria Commission",
+            "National Commission to Review the Working of the Constitution"
+          ],
+          "a": 1,
+          "e": "The <b>Justice J.S. Verma Committee</b> (1999) was constituted to suggest ways to operationalise the Fundamental Duties."
+        },
+        {
+          "q": "Fundamental Duties under Article 51A are applicable to:",
+          "o": [
+            "All persons within India",
+            "Only citizens of India",
+            "Only public servants",
+            "Only members of Parliament"
+          ],
+          "a": 1,
+          "e": "Article 51A applies only to every <b>citizen</b> of India and does not extend to foreigners residing in India."
+        },
+        {
+          "q": "Along with the 11th Fundamental Duty, the 86th Amendment Act, 2002 also inserted which new Article guaranteeing a right to education?",
+          "o": [
+            "Article 45",
+            "Article 21A",
+            "Article 39A",
+            "Article 46"
+          ],
+          "a": 1,
+          "e": "The 86th Amendment Act, 2002 inserted <b>Article 21A</b>, making free and compulsory education a Fundamental Right for children aged six to fourteen years, alongside the corresponding 11th Fundamental Duty."
+        },
+        {
+          "q": "In which year was the 42nd Constitutional Amendment, which introduced Fundamental Duties, enacted?",
+          "o": [
+            "1971",
+            "1976",
+            "1978",
+            "1985"
+          ],
+          "a": 1,
+          "e": "The <b>42nd Amendment Act</b> was enacted in <b>1976</b>, adding Part IVA with the Fundamental Duties."
+        },
+        {
+          "q": "In which year was the 86th Constitutional Amendment, which added the 11th Fundamental Duty, enacted?",
+          "o": [
+            "1999",
+            "2000",
+            "2002",
+            "2005"
+          ],
+          "a": 2,
+          "e": "The <b>86th Amendment Act</b> was enacted in <b>2002</b>, adding clause (k) to Article 51A."
+        },
+        {
+          "q": "As of now, how many Fundamental Duties are listed under Article 51A?",
+          "o": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "a": 2,
+          "e": "There are currently <b>eleven</b> Fundamental Duties, clauses (a) to (k), following the addition of clause (k) by the 86th Amendment Act, 2002."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements about Fundamental Duties: 1. They were added by the 42nd Amendment Act, 1976. 2. They are enforceable in a court of law like Fundamental Rights. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct; statement 2 is incorrect since Fundamental Duties are <b>non-justiciable</b> and cannot be directly enforced through courts."
+        },
+        {
+          "q": "Which of the following is NOT one of the Fundamental Duties enumerated in Article 51A?",
+          "o": [
+            "To safeguard public property and abjure violence",
+            "To pay taxes honestly",
+            "To develop scientific temper and spirit of inquiry",
+            "To protect and improve the natural environment"
+          ],
+          "a": 1,
+          "e": "Paying taxes is not among the eleven Fundamental Duties; the other three options correspond to clauses (i), (h) and (g) of <b>Article 51A</b> respectively."
+        },
+        {
+          "q": "Consider the following statements: 1. The Swaran Singh Committee recommended that Parliament may provide for imposition of penalties for non-compliance with Fundamental Duties. 2. This recommendation was fully incorporated into Article 51A. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The <b>Swaran Singh Committee</b> did recommend a penal provision, but this was not accepted by the government, and no such penalty clause exists in <b>Article 51A</b>."
+        },
+        {
+          "q": "Which of the following pairs of Fundamental Duty and its clause under Article 51A is correctly matched?",
+          "o": [
+            "Clause (e) - to safeguard public property and abjure violence",
+            "Clause (g) - to protect and improve the natural environment",
+            "Clause (k) - to defend the country",
+            "Clause (c) - to develop scientific temper"
+          ],
+          "a": 1,
+          "e": "Clause (g) of <b>Article 51A</b> casts the duty to protect and improve the natural environment, including forests, lakes, rivers and wildlife, and to have compassion for living creatures."
+        },
+        {
+          "q": "Which of the following is a Fundamental Duty of an Indian citizen under Article 51A?",
+          "o": [
+            "To vote in elections",
+            "To cherish and follow the noble ideals which inspired the national struggle for freedom",
+            "To pay income tax regularly",
+            "To join the armed forces"
+          ],
+          "a": 1,
+          "e": "Clause (b) of <b>Article 51A</b> requires citizens to cherish and follow the noble ideals which inspired the national struggle for freedom."
+        },
+        {
+          "q": "Consider the following statements regarding the 11th Fundamental Duty: 1. It was added by the 86th Amendment Act, 2002. 2. It requires every citizen to educate children between ages six and fourteen. 3. It specifically applies to a parent or guardian of the child or ward. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 only"
+          ],
+          "a": 0,
+          "e": "Statement 2 is incorrect because the duty applies specifically to the <b>parent or guardian</b>, not every citizen in general; statements 1 and 3 are correct."
+        },
+        {
+          "q": "Which of the following statements about Fundamental Duties is correct?",
+          "o": [
+            "They can be enforced directly by courts through writs",
+            "Some duties may be indirectly enforced through existing laws, such as the Prevention of Insults to National Honour Act, 1971",
+            "They apply equally to citizens and foreigners",
+            "They were part of the original Constitution of 1950"
+          ],
+          "a": 1,
+          "e": "Although Fundamental Duties are non-justiciable, certain duties can be indirectly enforced through ordinary legislation such as the <b>Prevention of Insults to National Honour Act, 1971</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Fundamental Duties are contained in Part IVA of the Constitution. 2. Directive Principles of State Policy are contained in Part IV of the Constitution. 3. Fundamental Rights are contained in Part III of the Constitution. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3",
+            "1 and 3 only"
+          ],
+          "a": 2,
+          "e": "All three statements are accurate: <b>Part III</b> covers Fundamental Rights, <b>Part IV</b> covers Directive Principles, and <b>Part IVA</b> covers Fundamental Duties."
+        },
+        {
+          "q": "Which of the following duties relates to promoting harmony among the people of India under Article 51A?",
+          "o": [
+            "Clause (d)",
+            "Clause (e)",
+            "Clause (f)",
+            "Clause (i)"
+          ],
+          "a": 1,
+          "e": "Clause (e) of <b>Article 51A</b> enjoins citizens to promote harmony and the spirit of common brotherhood amongst all people of India, transcending religious, linguistic, regional or sectional diversities."
+        },
+        {
+          "q": "Which of the following is NOT a correct match of Fundamental Duty clause with its content?",
+          "o": [
+            "Clause (a) - respect the Constitution, National Flag and National Anthem",
+            "Clause (c) - uphold and protect sovereignty, unity and integrity of India",
+            "Clause (j) - strive towards excellence in all spheres of activity",
+            "Clause (h) - defend the country and render national service"
+          ],
+          "a": 3,
+          "e": "Defending the country and rendering national service is <b>clause (d)</b>, not clause (h); clause (h) actually deals with developing scientific temper, humanism and the spirit of inquiry and reform."
+        },
+        {
+          "q": "Consider the following statements about the applicability of Fundamental Duties: 1. They are binding only on citizens of India. 2. Foreign nationals residing in India are also bound by Article 51A. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "<b>Article 51A</b> addresses every citizen of India, and hence it does not extend its obligations to foreign nationals."
+        },
+        {
+          "q": "Which of the following duties under Article 51A pertains to India's composite culture?",
+          "o": [
+            "To value and preserve the rich heritage of our composite culture",
+            "To uphold and protect the sovereignty, unity and integrity of India",
+            "To develop the scientific temper and spirit of inquiry",
+            "To abjure violence"
+          ],
+          "a": 0,
+          "e": "Clause (f) of <b>Article 51A</b> requires citizens to value and preserve the rich heritage of our composite culture."
+        },
+        {
+          "q": "Consider the following statements: 1. The Fundamental Duties, unlike Fundamental Rights, are confined to citizens only. 2. Some Fundamental Rights, such as those under Articles 14 and 21, are available to non-citizens too. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct; unlike certain Fundamental Rights (e.g., Articles 14 and 21) available to all persons, <b>Fundamental Duties</b> apply only to <b>citizens</b>."
+        },
+        {
+          "q": "Which of the following is a Fundamental Duty relating to public property?",
+          "o": [
+            "To safeguard public property and to abjure violence",
+            "To pay taxes for public infrastructure",
+            "To vote for public representatives",
+            "To protect wildlife sanctuaries only"
+          ],
+          "a": 0,
+          "e": "Clause (i) of <b>Article 51A</b> obliges citizens to safeguard public property and to abjure violence."
+        },
+        {
+          "q": "Consider the following statements about the Justice Verma Committee (1999): 1. It was constituted to suggest methods for operationalising the Fundamental Duties. 2. It recommended a new set of Fundamental Duties in addition to the existing eleven. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The <b>Justice Verma Committee</b> focused on ways to operationalise the existing Fundamental Duties through education, awareness and legal remedies, rather than proposing new duties."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Which of the following recommendations of the Swaran Singh Committee regarding Fundamental Duties was NOT accepted by Parliament while enacting the 42nd Amendment?",
+          "o": [
+            "Inclusion of a separate chapter on Fundamental Duties",
+            "Empowering Parliament to provide penalties for non-compliance with Fundamental Duties",
+            "Placing the Fundamental Duties after the Directive Principles",
+            "Casting duties only on citizens"
+          ],
+          "a": 1,
+          "e": "The Committee's suggestion that Parliament be authorised to impose <b>penalties</b> for non-compliance with Fundamental Duties was not incorporated into the final text of <b>Article 51A</b>."
+        },
+        {
+          "q": "Which statement best captures the constitutional status of Fundamental Duties relative to Fundamental Rights?",
+          "o": [
+            "Both are equally justiciable and enforceable by writ petitions",
+            "Fundamental Duties are justiciable but Fundamental Rights are not",
+            "Fundamental Rights are justiciable while Fundamental Duties are non-justiciable moral and civic obligations",
+            "Neither Fundamental Rights nor Fundamental Duties are enforceable"
+          ],
+          "a": 2,
+          "e": "<b>Fundamental Rights</b> (Part III) are legally enforceable through courts, whereas <b>Fundamental Duties</b> (Article 51A) are non-justiciable and function as moral and civic obligations."
+        },
+        {
+          "q": "The Supreme Court has used Fundamental Duties in judicial interpretation primarily to:",
+          "o": [
+            "Strike down laws inconsistent with Fundamental Duties",
+            "Interpret the reasonableness of restrictions on Fundamental Rights and uphold the validity of laws promoting duties",
+            "Directly penalise citizens who violate Article 51A",
+            "Amend the Constitution without a formal amendment process"
+          ],
+          "a": 1,
+          "e": "Courts have often invoked <b>Fundamental Duties</b> to assess the reasonableness of restrictions on Fundamental Rights and to judge the constitutional validity of laws giving effect to those duties, even though the duties are not directly enforceable."
+        },
+        {
+          "q": "Which of the following statements about the original ten Fundamental Duties (1976) versus the current eleven is correct?",
+          "o": [
+            "All eleven duties were part of the original 42nd Amendment",
+            "The 42nd Amendment added clauses (a) to (j); the 86th Amendment added clause (k)",
+            "The 44th Amendment added the 11th duty",
+            "The Swaran Singh Committee recommended eleven duties which were all adopted at once"
+          ],
+          "a": 1,
+          "e": "The <b>42nd Amendment Act, 1976</b> introduced clauses (a) to (j); clause (k), the 11th duty, was added later by the <b>86th Amendment Act, 2002</b>."
+        },
+        {
+          "q": "Which of the following is the most accurate reason why Fundamental Duties are considered non-justiciable?",
+          "o": [
+            "The Constitution explicitly bars courts from interpreting Article 51A",
+            "No mechanism or sanction has been prescribed in the Constitution for their direct enforcement against a defaulting citizen",
+            "They apply only to a small section of citizens",
+            "They are located in Part III of the Constitution"
+          ],
+          "a": 1,
+          "e": "The Constitution does not prescribe any <b>direct legal sanction or mechanism</b> for enforcing Article 51A duties against individuals, distinguishing them from Fundamental Rights."
+        },
+        {
+          "q": "Consider the following statements: 1. Article 51A(g) casts a duty to protect the environment and is often read alongside Article 48A, a Directive Principle on environmental protection. 2. Article 51A(k) is linked with Article 21A, a Fundamental Right on education. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both linkages are well recognised: clause (g) parallels the <b>Directive Principle in Article 48A</b> on environment protection, and clause (k) parallels the <b>Fundamental Right in Article 21A</b> on education."
+        },
+        {
+          "q": "Which of the following was a recommendation of the Swaran Singh Committee that WAS eventually accepted?",
+          "o": [
+            "A penal provision for violation of duties",
+            "Insertion of a new chapter, Part IVA, on Fundamental Duties in the Constitution",
+            "Making Fundamental Duties justiciable",
+            "Abolition of Directive Principles"
+          ],
+          "a": 1,
+          "e": "The Committee's core recommendation to add a distinct chapter enumerating Fundamental Duties was accepted and implemented as <b>Part IVA</b> via the 42nd Amendment."
+        },
+        {
+          "q": "Which of the following statements regarding comparison of Fundamental Duties with Directive Principles of State Policy (DPSP) is correct?",
+          "o": [
+            "Both are justiciable",
+            "Both are non-justiciable, but Fundamental Duties bind citizens while DPSPs are addressed to the State",
+            "DPSPs bind citizens while Fundamental Duties bind the State",
+            "Both are enumerated in Part III"
+          ],
+          "a": 1,
+          "e": "Fundamental Duties and DPSPs are both <b>non-justiciable</b>, but Fundamental Duties are obligations of <b>citizens</b>, whereas Directive Principles (Part IV) are directions to the <b>State</b>."
+        },
+        {
+          "q": "Which of the following duties under Article 51A most directly reflects the ideal of scientific temper and rationalism?",
+          "o": [
+            "Clause (b)",
+            "Clause (h)",
+            "Clause (d)",
+            "Clause (f)"
+          ],
+          "a": 1,
+          "e": "Clause (h) of <b>Article 51A</b> obliges citizens to develop the scientific temper, humanism and the spirit of inquiry and reform."
+        },
+        {
+          "q": "In the case of an alleged conflict between a citizen's Fundamental Right and a corresponding Fundamental Duty, which is the accepted constitutional position?",
+          "o": [
+            "The Fundamental Duty automatically overrides the Fundamental Right",
+            "The Fundamental Right remains enforceable and the corresponding duty serves only as a moral reminder unless separate legislation gives it legal force",
+            "Courts must strike down the exercise of the Fundamental Right",
+            "The matter must be referred to the President for adjudication"
+          ],
+          "a": 1,
+          "e": "Since <b>Fundamental Duties</b> are non-justiciable, a Fundamental Right continues to be enforceable unless a duly enacted law reasonably restricts it; the duty by itself has only moral force."
+        },
+        {
+          "q": "Which of the following statements about the 86th Amendment Act, 2002 is correct?",
+          "o": [
+            "It added only the 11th Fundamental Duty and made no other constitutional changes",
+            "It added Article 21A, amended Article 45, and inserted the 11th Fundamental Duty under Article 51A(k)",
+            "It replaced the Directive Principle on education with a Fundamental Duty",
+            "It repealed Article 51A entirely"
+          ],
+          "a": 1,
+          "e": "The <b>86th Amendment Act, 2002</b> made three linked changes: inserting Article 21A (Right to Education), amending Article 45 (early childhood care), and adding the 11th Fundamental Duty, clause (k)."
+        },
+        {
+          "q": "Which of the following best explains why Fundamental Duties were NOT included in the original Constitution of 1950 but added later in 1976?",
+          "o": [
+            "The Constituent Assembly rejected the idea outright and permanently",
+            "The framers considered them unnecessary since Fundamental Rights sufficed, and the felt need for a separate chapter arose later, following the Swaran Singh Committee's recommendations during the Emergency period",
+            "Fundamental Duties were mandated by an international treaty ratified in 1975",
+            "The Supreme Court directed their inclusion in the Kesavananda Bharati case"
+          ],
+          "a": 1,
+          "e": "Fundamental Duties were absent in the original 1950 Constitution; the idea gained momentum later, and on the recommendation of the <b>Swaran Singh Committee</b>, they were incorporated during the Emergency period via the 42nd Amendment."
+        },
+        {
+          "q": "Which of the following statements about enforceability of Fundamental Duties through ordinary law is correct?",
+          "o": [
+            "No law in India gives any effect to Fundamental Duties",
+            "The Prevention of Insults to National Honour Act, 1971 indirectly supports the duty to respect the National Flag and Anthem under Article 51A(a)",
+            "Parliament is constitutionally barred from legislating on subjects covered by Fundamental Duties",
+            "Fundamental Duties can only be enforced through a Presidential ordinance"
+          ],
+          "a": 1,
+          "e": "The <b>Prevention of Insults to National Honour Act, 1971</b> penalises disrespect to the Constitution, National Flag, and National Anthem, thereby indirectly reinforcing the duty under Article 51A(a)."
+        },
+        {
+          "q": "Which of the following pairs is NOT correctly matched with respect to Article 51A?",
+          "o": [
+            "Clause (c) - uphold and protect sovereignty, unity and integrity of India",
+            "Clause (j) - strive towards excellence in individual and collective activity",
+            "Clause (k) - added by the 42nd Amendment Act, 1976",
+            "Clause (g) - protect and improve the natural environment"
+          ],
+          "a": 2,
+          "e": "Clause (k) was added by the <b>86th Amendment Act, 2002</b>, not the 42nd Amendment Act; the other three pairs are correctly matched."
+        },
+        {
+          "q": "With reference to Fundamental Duties, consider the following statements: 1. The Justice Verma Committee (1999) suggested using the existing legal framework to give teeth to certain Fundamental Duties rather than proposing wholly new punitive laws. 2. Its recommendations led to a constitutional amendment prescribing penalties for violation of all eleven Fundamental Duties. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The <b>Justice Verma Committee</b> emphasised using existing laws and administrative/educational measures to operationalise duties; no constitutional amendment has since prescribed blanket penalties for violating all Fundamental Duties."
+        }
+      ]
+    }
+  },
+  {
+    "id": "amendment_of_constitution",
+    "title": "Amendment of the Constitution",
+    "desc": "Article 368, amendment procedures, and key amendments",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Part of the Constitution contains Article 368, which deals with the power of Parliament to amend the Constitution?",
+          "o": [
+            "Part XVIII",
+            "Part XIX",
+            "Part XX",
+            "Part XXI"
+          ],
+          "a": 2,
+          "e": "<b>Article 368</b> is located in <b>Part XX</b> of the Constitution, titled 'Amendment of the Constitution'."
+        },
+        {
+          "q": "The title of Part XX of the Constitution, which contains Article 368, is:",
+          "o": [
+            "Amendment of the Constitution",
+            "Miscellaneous Provisions",
+            "Temporary and Transitional Provisions",
+            "Special Provisions Relating to States"
+          ],
+          "a": 0,
+          "e": "Part XX is titled '<b>Amendment of the Constitution</b>' and contains only <b>Article 368</b>."
+        },
+        {
+          "q": "How many distinct procedures does the Indian Constitution provide for its amendment?",
+          "o": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "a": 1,
+          "e": "The Constitution can be amended in <b>three</b> ways: by simple majority, by special majority under <b>Article 368</b>, and by special majority with ratification by states."
+        },
+        {
+          "q": "Which of the following can be amended by a simple majority of Parliament, as in ordinary law-making, without invoking Article 368?",
+          "o": [
+            "Formation of new states",
+            "Election of the President",
+            "Distribution of legislative powers between Union and States",
+            "Representation of states in Parliament"
+          ],
+          "a": 0,
+          "e": "Formation of new states and alteration of boundaries under <b>Articles 2-4</b> are done by <b>simple majority</b>, outside the scope of <b>Article 368</b>."
+        },
+        {
+          "q": "What is the 'special majority' required under Article 368 for most constitutional amendments?",
+          "o": [
+            "Simple majority of members present and voting",
+            "Majority of total membership of each House and two-thirds majority of members present and voting",
+            "Two-thirds of total membership of each House",
+            "Three-fourths majority of members present and voting"
+          ],
+          "a": 1,
+          "e": "Special majority under <b>Article 368</b> means a <b>majority of the total membership</b> of each House and a <b>two-thirds majority</b> of members present and voting."
+        },
+        {
+          "q": "Which Schedule was inserted into the Constitution by the First Amendment Act, 1951?",
+          "o": [
+            "Eighth Schedule",
+            "Ninth Schedule",
+            "Tenth Schedule",
+            "Eleventh Schedule"
+          ],
+          "a": 1,
+          "e": "The <b>First Amendment Act, 1951</b> inserted the <b>Ninth Schedule</b> along with Articles 31A and 31B to protect land reform laws from judicial review."
+        },
+        {
+          "q": "The Seventh Amendment Act, 1956 was enacted to give effect to which reorganization?",
+          "o": [
+            "Linguistic reorganization under the States Reorganisation Act, 1956",
+            "Formation of Union Territories only",
+            "Merger of princely states",
+            "Creation of the Ninth Schedule"
+          ],
+          "a": 0,
+          "e": "The <b>7th Amendment Act, 1956</b> implemented the <b>States Reorganisation Act, 1956</b>, abolishing the four-fold classification of states into Part A, B, C and D."
+        },
+        {
+          "q": "Which amendment is popularly known as the 'Mini-Constitution'?",
+          "o": [
+            "24th Amendment, 1971",
+            "42nd Amendment, 1976",
+            "44th Amendment, 1978",
+            "52nd Amendment, 1985"
+          ],
+          "a": 1,
+          "e": "The <b>42nd Amendment Act, 1976</b> made sweeping changes and is popularly called the '<b>Mini-Constitution</b>'."
+        },
+        {
+          "q": "The words 'Socialist' and 'Secular' were added to the Preamble by which amendment?",
+          "o": [
+            "1st Amendment, 1951",
+            "42nd Amendment, 1976",
+            "44th Amendment, 1978",
+            "86th Amendment, 2002"
+          ],
+          "a": 1,
+          "e": "The <b>42nd Amendment Act, 1976</b> added the words '<b>Socialist</b>', '<b>Secular</b>' and 'Integrity' to the Preamble."
+        },
+        {
+          "q": "Fundamental Duties were added to the Constitution under which Article by the 42nd Amendment?",
+          "o": [
+            "Article 21A",
+            "Article 51A",
+            "Article 300A",
+            "Article 31C"
+          ],
+          "a": 1,
+          "e": "The <b>42nd Amendment Act, 1976</b> inserted <b>Article 51A</b> in a new <b>Part IVA</b>, laying down Fundamental Duties."
+        },
+        {
+          "q": "Which amendment changed the ground for declaring a National Emergency from 'internal disturbance' to 'armed rebellion'?",
+          "o": [
+            "42nd Amendment, 1976",
+            "44th Amendment, 1978",
+            "52nd Amendment, 1985",
+            "61st Amendment, 1988"
+          ],
+          "a": 1,
+          "e": "The <b>44th Amendment Act, 1978</b> replaced '<b>internal disturbance</b>' with '<b>armed rebellion</b>' as a ground for National Emergency under Article 352."
+        },
+        {
+          "q": "The Right to Property ceased to be a Fundamental Right and became a legal right under which Article, following the 44th Amendment?",
+          "o": [
+            "Article 19",
+            "Article 300A",
+            "Article 31A",
+            "Article 21A"
+          ],
+          "a": 1,
+          "e": "The <b>44th Amendment Act, 1978</b> deleted the Right to Property from Part III and made it a legal right under <b>Article 300A</b>."
+        },
+        {
+          "q": "The 73rd Amendment Act, 1992 deals with which subject?",
+          "o": [
+            "Municipalities",
+            "Panchayati Raj institutions",
+            "Goods and Services Tax",
+            "Right to Education"
+          ],
+          "a": 1,
+          "e": "The <b>73rd Amendment Act, 1992</b> gave constitutional status to <b>Panchayati Raj institutions</b> through Part IX."
+        },
+        {
+          "q": "The 74th Amendment Act, 1992 introduced constitutional provisions for:",
+          "o": [
+            "Panchayats",
+            "Municipalities",
+            "Cooperative societies",
+            "Tribunals"
+          ],
+          "a": 1,
+          "e": "The <b>74th Amendment Act, 1992</b> added Part IXA on <b>Municipalities</b>, providing them constitutional status."
+        },
+        {
+          "q": "Which amendment inserted Article 21A, guaranteeing the Right to Education as a Fundamental Right?",
+          "o": [
+            "44th Amendment, 1978",
+            "86th Amendment, 2002",
+            "93rd Amendment, 2005",
+            "101st Amendment, 2016"
+          ],
+          "a": 1,
+          "e": "The <b>86th Amendment Act, 2002</b> inserted <b>Article 21A</b>, making free and compulsory education for children aged 6-14 a Fundamental Right."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements about the amendment procedure under Article 368: 1. It requires a special majority in each House of Parliament. 2. It requires ratification by all state legislatures for every amendment. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Only some amendments (those in the proviso to <b>Article 368(2)</b>) require ratification by <b>not less than one-half</b> of state legislatures; it is not required for every amendment."
+        },
+        {
+          "q": "Which of the following requires ratification by state legislatures in addition to a special majority in Parliament?",
+          "o": [
+            "Formation of new states",
+            "Creation of Legislative Councils in states",
+            "Manner of election of the President",
+            "Second Schedule salaries of the Speaker"
+          ],
+          "a": 2,
+          "e": "The manner of <b>election of the President</b> (Articles 54 and 55) is among the provisions listed in the proviso to <b>Article 368(2)</b> requiring ratification by half the states."
+        },
+        {
+          "q": "Consider the following statements regarding the 42nd Amendment Act, 1976: 1. It added the Fundamental Duties. 2. It added the words 'Socialist' and 'Secular' to the Preamble. 3. It curtailed the scope of judicial review. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "The <b>42nd Amendment Act, 1976</b> added <b>Fundamental Duties</b>, inserted 'Socialist' and 'Secular' into the Preamble, and curtailed <b>judicial review</b> by amending Articles 368 and 31C."
+        },
+        {
+          "q": "Which amendment introduced the Goods and Services Tax (GST) regime in India?",
+          "o": [
+            "95th Amendment",
+            "99th Amendment",
+            "101st Amendment",
+            "103rd Amendment"
+          ],
+          "a": 2,
+          "e": "The <b>101st Amendment Act, 2016</b> introduced the <b>Goods and Services Tax (GST)</b> by inserting Articles 246A, 269A and 279A."
+        },
+        {
+          "q": "The 103rd Amendment Act, 2019 provides for reservation of what percentage of seats/posts for Economically Weaker Sections?",
+          "o": [
+            "5%",
+            "10%",
+            "15%",
+            "20%"
+          ],
+          "a": 1,
+          "e": "The <b>103rd Amendment Act, 2019</b> added Articles 15(6) and 16(6), providing <b>10% reservation</b> for Economically Weaker Sections (EWS)."
+        },
+        {
+          "q": "Granville Austin described the amending process of the Indian Constitution as:",
+          "o": [
+            "Purely rigid, like the USA",
+            "Purely flexible, like the UK",
+            "A synthesis of rigidity and flexibility",
+            "An entirely judicial process"
+          ],
+          "a": 2,
+          "e": "Granville Austin described the Indian Constitution's amending process as a '<b>synthesis of rigidity and flexibility</b>', combining elements of rigid constitutions like the USA and flexible ones like the UK."
+        },
+        {
+          "q": "Which of the following is amended by simple majority, not requiring the special procedure under Article 368?",
+          "o": [
+            "Seventh Schedule lists",
+            "Salaries and allowances of the President under the Second Schedule",
+            "Extent of executive power of states",
+            "Representation of states in Parliament"
+          ],
+          "a": 1,
+          "e": "Salaries, allowances and privileges under the <b>Second Schedule</b> can be altered by <b>simple majority</b>, as an ordinary legislative matter outside Article 368."
+        },
+        {
+          "q": "For an amendment requiring ratification by state legislatures, what proportion of states must ratify the amendment?",
+          "o": [
+            "Not less than one-half of the states",
+            "Not less than two-thirds of the states",
+            "All the states",
+            "Not less than one-third of the states"
+          ],
+          "a": 0,
+          "e": "As per the proviso to <b>Article 368(2)</b>, ratification requires resolutions passed by <b>not less than one-half</b> of the state legislatures."
+        },
+        {
+          "q": "By what majority must a state legislature pass a resolution to ratify a constitutional amendment?",
+          "o": [
+            "Special majority as in Article 368",
+            "Simple majority",
+            "Two-thirds of total membership",
+            "Three-fourths majority"
+          ],
+          "a": 1,
+          "e": "State legislatures ratify amendments by a <b>simple majority</b> resolution; no special majority is prescribed for ratification by states."
+        },
+        {
+          "q": "Consider the following statements about the 1st Amendment Act, 1951: 1. It added the Ninth Schedule. 2. It inserted Articles 31A and 31B. 3. It added new grounds of restriction to freedom of speech under Article 19(2). Which of the statements given above are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "The <b>1st Amendment Act, 1951</b> added the <b>Ninth Schedule</b>, inserted <b>Articles 31A and 31B</b>, and added grounds like public order and friendly relations with foreign states to Article 19(2)."
+        },
+        {
+          "q": "Match the following amendments with their subject matter: (1) 7th Amendment (2) 73rd Amendment (3) 86th Amendment (4) 101st Amendment; with (a) GST (b) Right to Education (c) States Reorganisation (d) Panchayati Raj",
+          "o": [
+            "1-c, 2-d, 3-b, 4-a",
+            "1-d, 2-c, 3-a, 4-b",
+            "1-c, 2-b, 3-d, 4-a",
+            "1-a, 2-b, 3-c, 4-d"
+          ],
+          "a": 0,
+          "e": "The <b>7th Amendment</b> relates to <b>States Reorganisation</b>, the <b>73rd</b> to <b>Panchayati Raj</b>, the <b>86th</b> to <b>Right to Education</b>, and the <b>101st</b> to <b>GST</b>."
+        },
+        {
+          "q": "Which of the following amendments does NOT require ratification by state legislatures?",
+          "o": [
+            "Amendment to Article 368 itself",
+            "Amendment altering distribution of legislative powers between Union and States",
+            "Amendment adding Fundamental Duties",
+            "Amendment to provisions on election of the President"
+          ],
+          "a": 2,
+          "e": "Addition of <b>Fundamental Duties</b> under Article 51A (via the 42nd Amendment) required only a <b>special majority</b> of Parliament, not state ratification, as it is not listed in the proviso to Article 368(2)."
+        },
+        {
+          "q": "The abolition of Legislative Councils in states is done through:",
+          "o": [
+            "A Constitutional Amendment Act under Article 368 with state ratification",
+            "An ordinary law of Parliament passed by simple majority under Article 169",
+            "A Presidential order",
+            "A resolution of the Rajya Sabha alone"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 169</b>, Parliament can create or abolish Legislative Councils by an ordinary law passed by <b>simple majority</b>, after the state assembly passes a special resolution."
+        },
+        {
+          "q": "In a rigid constitution like that of the USA, amendment typically requires:",
+          "o": [
+            "A simple majority of the legislature",
+            "A special and often more elaborate procedure distinct from ordinary law-making",
+            "No formal procedure at all",
+            "Judicial approval only"
+          ],
+          "a": 1,
+          "e": "Rigid constitutions, such as the <b>USA's</b>, require a special, more difficult amending procedure than ordinary lawmaking, unlike flexible constitutions such as the <b>UK's</b>."
+        },
+        {
+          "q": "Which of the following best describes a 'flexible' constitution such as that of the United Kingdom?",
+          "o": [
+            "It can be amended by the same procedure as ordinary laws",
+            "It cannot be amended at all",
+            "It requires a national referendum for every amendment",
+            "It requires ratification by all constituent units"
+          ],
+          "a": 0,
+          "e": "A <b>flexible constitution</b>, like the UK's unwritten constitution, can be amended by the <b>same procedure</b> used for ordinary legislation."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Which of the following can be altered by Parliament through simple majority, even though it relates to the judiciary?",
+          "o": [
+            "Jurisdiction of the Supreme Court under Article 138",
+            "Appointment procedure for Supreme Court judges under Article 124",
+            "Provisions relating to High Courts under Chapter V of Part VI",
+            "Article 368 itself"
+          ],
+          "a": 0,
+          "e": "Under <b>Article 138</b>, Parliament may confer additional jurisdiction on the Supreme Court by an ordinary law passed with a <b>simple majority</b>, without invoking Article 368."
+        },
+        {
+          "q": "The power of Parliament to regulate citizenship under Article 11 is exercised by:",
+          "o": [
+            "Special majority under Article 368",
+            "Simple majority as ordinary legislation",
+            "Special majority with state ratification",
+            "Presidential ordinance only"
+          ],
+          "a": 1,
+          "e": "Article 11 empowers Parliament to regulate the right of citizenship by <b>law</b>, passed by a <b>simple majority</b>, outside the scope of Article 368."
+        },
+        {
+          "q": "Which landmark case held that Parliament's constituent power under Article 368 cannot be used to alter the 'basic structure' of the Constitution?",
+          "o": [
+            "Golaknath v. State of Punjab (1967)",
+            "Kesavananda Bharati v. State of Kerala (1973)",
+            "Minerva Mills v. Union of India (1980)",
+            "Shankari Prasad v. Union of India (1951)"
+          ],
+          "a": 1,
+          "e": "In <b>Kesavananda Bharati (1973)</b>, the Supreme Court held that Parliament's amending power under <b>Article 368</b> does not extend to damaging or destroying the <b>'basic structure'</b> of the Constitution."
+        },
+        {
+          "q": "Which amendment made it obligatory for the President to give assent to a Constitution Amendment Bill passed under Article 368?",
+          "o": [
+            "7th Amendment, 1956",
+            "24th Amendment, 1971",
+            "42nd Amendment, 1976",
+            "44th Amendment, 1978"
+          ],
+          "a": 1,
+          "e": "The <b>24th Amendment Act, 1971</b> made it obligatory for the President to give assent to any Constitution Amendment Bill, reversing the discretion previously assumed to exist."
+        },
+        {
+          "q": "The 24th Amendment Act, 1971 was enacted primarily in response to which Supreme Court judgment?",
+          "o": [
+            "Kesavananda Bharati case",
+            "Golaknath case",
+            "Minerva Mills case",
+            "Indira Gandhi v. Raj Narain case"
+          ],
+          "a": 1,
+          "e": "The <b>24th Amendment Act, 1971</b> was enacted to overcome the <b>Golaknath (1967)</b> ruling, which had held that Parliament could not amend Fundamental Rights under Article 368."
+        },
+        {
+          "q": "The 42nd Amendment Act's attempt to place constitutional amendments beyond judicial review (by adding clauses 4 and 5 to Article 368) was:",
+          "o": [
+            "Upheld in full by the Supreme Court",
+            "Struck down in Minerva Mills v. Union of India (1980)",
+            "Never challenged in court",
+            "Repealed by the 86th Amendment"
+          ],
+          "a": 1,
+          "e": "In <b>Minerva Mills v. Union of India (1980)</b>, the Supreme Court struck down clauses 4 and 5 added to <b>Article 368</b> by the 42nd Amendment, holding that judicial review is part of the basic structure."
+        },
+        {
+          "q": "Why is the Indian Constitution often described as 'neither too rigid nor too flexible'?",
+          "o": [
+            "Because it can only be amended by a national referendum",
+            "Because it provides different procedures of varying difficulty for different provisions",
+            "Because Article 368 is the sole method of amendment for all provisions",
+            "Because only the judiciary can amend it"
+          ],
+          "a": 1,
+          "e": "The Constitution provides <b>three different procedures</b> of varying stringency-simple majority, special majority, and special majority with state ratification-making it a blend of rigidity and flexibility."
+        },
+        {
+          "q": "Consider the following statements: 1. All amendments to the Seventh Schedule require ratification by states. 2. Amendments relating to the Union List alone can be made by simple majority. Which is correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Any amendment relating to <b>any of the lists in the Seventh Schedule</b> (Union, State, or Concurrent) falls under the proviso to Article 368(2) and requires <b>ratification by states</b>, not simple majority."
+        },
+        {
+          "q": "Which of the following changes was NOT made by the 44th Amendment Act, 1978?",
+          "o": [
+            "Deletion of the Right to Property as a Fundamental Right",
+            "Change of 'internal disturbance' to 'armed rebellion' for National Emergency",
+            "Addition of the words 'Socialist' and 'Secular' to the Preamble",
+            "Restoration of the five-year term for Lok Sabha and State Assemblies"
+          ],
+          "a": 2,
+          "e": "The words '<b>Socialist</b>' and '<b>Secular</b>' were added to the Preamble by the <b>42nd Amendment</b>, not the 44th Amendment, which largely reversed the 42nd Amendment's excesses."
+        },
+        {
+          "q": "The provision for extension of the term of the Lok Sabha from five to six years during an emergency, introduced by the 42nd Amendment, was:",
+          "o": [
+            "Retained by the 44th Amendment",
+            "Reversed by the 44th Amendment, restoring the five-year term",
+            "Never implemented",
+            "Made permanent by the 86th Amendment"
+          ],
+          "a": 1,
+          "e": "The <b>44th Amendment Act, 1978</b> restored the normal term of the Lok Sabha and State Legislative Assemblies to <b>five years</b>, reversing the 42nd Amendment's extension to six years."
+        },
+        {
+          "q": "Under the proviso to Article 368(2), which of the following is included among matters requiring state ratification?",
+          "o": [
+            "Representation of states in Parliament",
+            "Formation of Union Territories",
+            "Second Schedule allowances",
+            "Quorum in Parliament"
+          ],
+          "a": 0,
+          "e": "<b>Representation of states in Parliament</b> is among the entrenched provisions listed in the proviso to <b>Article 368(2)</b> requiring ratification by half the states."
+        },
+        {
+          "q": "Which of these statements about the amendment procedure is correct? 1. A Constitution Amendment Bill can be introduced in either House of Parliament. 2. There is no provision for a joint sitting of both Houses to resolve a deadlock over a Constitution Amendment Bill.",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "A Constitution Amendment Bill may be introduced in <b>either House</b>, and unlike ordinary bills, there is <b>no provision for a joint sitting</b> under Article 368 to resolve disagreements between the Houses."
+        },
+        {
+          "q": "The distribution of legislative powers between the Union and the States, if amended, requires:",
+          "o": [
+            "Simple majority only",
+            "Special majority of Parliament only",
+            "Special majority of Parliament plus ratification by half the states",
+            "Unanimous consent of all states"
+          ],
+          "a": 2,
+          "e": "Amendments affecting the <b>distribution of legislative powers</b> (Chapter I of Part XI) require <b>special majority plus ratification</b> by not less than half the state legislatures, as per the proviso to Article 368(2)."
+        },
+        {
+          "q": "Which of the following is an example of an amendment passed by simple majority rather than under Article 368?",
+          "o": [
+            "Admission or establishment of new states under Articles 2 and 3",
+            "Amendment of Fundamental Rights in Part III",
+            "Amendment altering the powers of the Supreme Court",
+            "Amendment to Article 54 on Presidential election"
+          ],
+          "a": 0,
+          "e": "Under <b>Articles 2 and 3</b>, Parliament can admit or establish new states by an ordinary law passed with <b>simple majority</b>, without following the Article 368 procedure."
+        },
+        {
+          "q": "The Indian Constitution's amending procedure has been described as combining features of which two types of constitutions?",
+          "o": [
+            "Federal and unitary constitutions",
+            "Written and unwritten constitutions",
+            "Rigid constitutions like the USA's and flexible constitutions like the UK's",
+            "Presidential and parliamentary constitutions"
+          ],
+          "a": 2,
+          "e": "India's amending procedure blends features of <b>rigid constitutions</b> (like the USA, needing special procedures) and <b>flexible constitutions</b> (like the UK's, amendable by ordinary process), making it a unique synthesis."
+        }
+      ]
+    }
+  },
+  {
+    "id": "basic_structure_doctrine",
+    "title": "Basic Structure Doctrine",
+    "desc": "Origin, evolution and key cases shaping it",
+    "questions": {
+      "basic": [
+        {
+          "q": "The Basic Structure Doctrine was propounded by the Supreme Court in which landmark case?",
+          "o": [
+            "Golaknath v. State of Punjab",
+            "Kesavananda Bharati v. State of Kerala",
+            "Minerva Mills v. Union of India",
+            "Shankari Prasad v. Union of India"
+          ],
+          "a": 1,
+          "e": "The <b>Kesavananda Bharati v. State of Kerala (1973)</b> case originated the Basic Structure Doctrine, holding that Parliament's amending power under Article 368 does not extend to altering the basic structure of the Constitution."
+        },
+        {
+          "q": "The Kesavananda Bharati case (1973) was decided by a Supreme Court bench of how many judges?",
+          "o": [
+            "9 judges",
+            "11 judges",
+            "13 judges",
+            "15 judges"
+          ],
+          "a": 2,
+          "e": "<b>Kesavananda Bharati</b> was heard by a <b>13-judge bench</b>, the largest ever constituted by the Supreme Court of India."
+        },
+        {
+          "q": "By what margin was the Kesavananda Bharati judgment (1973) delivered?",
+          "o": [
+            "6:5",
+            "9:4",
+            "7:6",
+            "8:5"
+          ],
+          "a": 2,
+          "e": "The Kesavananda Bharati verdict was delivered by a thin majority of <b>7:6</b>, making it one of the most closely contested judgments in Indian constitutional history."
+        },
+        {
+          "q": "The Kesavananda Bharati judgment (1973) overruled the Supreme Court's earlier decision in which case?",
+          "o": [
+            "Shankari Prasad case",
+            "Sajjan Singh case",
+            "Golaknath case",
+            "A.K. Gopalan case"
+          ],
+          "a": 2,
+          "e": "Kesavananda Bharati overruled the <b>Golaknath v. State of Punjab (1967)</b> ruling, which had held that Fundamental Rights could not be amended at all."
+        },
+        {
+          "q": "The Golaknath v. State of Punjab case was decided in which year?",
+          "o": [
+            "1951",
+            "1965",
+            "1967",
+            "1973"
+          ],
+          "a": 2,
+          "e": "The <b>Golaknath case</b> was decided in <b>1967</b>, holding that Parliament had no power to amend Fundamental Rights."
+        },
+        {
+          "q": "The Golaknath case (1967) was decided by what majority?",
+          "o": [
+            "6:5",
+            "7:6",
+            "5:4",
+            "8:3"
+          ],
+          "a": 0,
+          "e": "The Golaknath judgment was delivered by an <b>11-judge bench</b> with a majority of <b>6:5</b>, holding Fundamental Rights to be beyond the amending power of Parliament."
+        },
+        {
+          "q": "Which doctrine, borrowed from American constitutional law, was applied by the Supreme Court in the Golaknath case?",
+          "o": [
+            "Doctrine of pith and substance",
+            "Doctrine of prospective overruling",
+            "Doctrine of colourable legislation",
+            "Doctrine of severability"
+          ],
+          "a": 1,
+          "e": "In Golaknath, the Court applied the <b>doctrine of prospective overruling</b>, meaning the ruling would apply only to future amendments, leaving past constitutional amendments undisturbed."
+        },
+        {
+          "q": "Which Constitutional Amendment Act was enacted specifically to overcome the effect of the Golaknath judgment?",
+          "o": [
+            "24th Amendment Act, 1971",
+            "25th Amendment Act, 1971",
+            "39th Amendment Act, 1975",
+            "42nd Amendment Act, 1976"
+          ],
+          "a": 0,
+          "e": "The <b>24th Amendment Act, 1971</b> was enacted to nullify the effect of the Golaknath ruling by affirming Parliament's power to amend any part of the Constitution, including Fundamental Rights."
+        },
+        {
+          "q": "The 24th Amendment Act, 1971 made it obligatory for whom to give assent to a Constitutional Amendment Bill?",
+          "o": [
+            "The Prime Minister",
+            "The President",
+            "The Chief Justice of India",
+            "The Vice-President"
+          ],
+          "a": 1,
+          "e": "The <b>24th Amendment Act</b> made it obligatory for the <b>President</b> to give assent to any Constitutional Amendment Bill passed by Parliament, removing prior discretion in this regard."
+        },
+        {
+          "q": "In the Shankari Prasad case (1951), the Supreme Court held that Parliament's power under Article 368 includes the power to amend which part of the Constitution?",
+          "o": [
+            "Only the Preamble",
+            "Any part, including Fundamental Rights",
+            "Only DPSP",
+            "Only federal provisions"
+          ],
+          "a": 1,
+          "e": "In <b>Shankari Prasad v. Union of India (1951)</b>, the Supreme Court held that Parliament's power to amend under Article 368 includes the power to amend <b>Fundamental Rights</b> as well."
+        },
+        {
+          "q": "The Sajjan Singh case, which upheld the view taken in the Shankari Prasad case, was decided in which year?",
+          "o": [
+            "1955",
+            "1960",
+            "1965",
+            "1970"
+          ],
+          "a": 2,
+          "e": "The <b>Sajjan Singh case (1965)</b> reaffirmed the position taken in Shankari Prasad, that Parliament could amend Fundamental Rights under Article 368."
+        },
+        {
+          "q": "In which case did the Supreme Court apply the Basic Structure Doctrine to strike down a provision placing election disputes of the Prime Minister beyond judicial scrutiny?",
+          "o": [
+            "Minerva Mills case",
+            "Waman Rao case",
+            "Indira Nehru Gandhi v. Raj Narain",
+            "I.R. Coelho case"
+          ],
+          "a": 2,
+          "e": "In <b>Indira Nehru Gandhi v. Raj Narain (1975)</b>, the Supreme Court struck down a provision that sought to place the Prime Minister's election dispute outside judicial review, holding free and fair elections and judicial review to be part of the basic structure."
+        },
+        {
+          "q": "Which Constitutional Amendment inserted clause 4 into Article 329A, which was struck down in the Indira Gandhi election case?",
+          "o": [
+            "38th Amendment",
+            "39th Amendment",
+            "42nd Amendment",
+            "44th Amendment"
+          ],
+          "a": 1,
+          "e": "The <b>39th Amendment Act</b> inserted Article 329A, clause 4 of which sought to keep the Prime Minister's and Speaker's election disputes outside judicial review; this clause was struck down as violative of the basic structure."
+        },
+        {
+          "q": "The Minerva Mills v. Union of India case, in which unlimited amending power granted to Parliament was struck down, was decided in which year?",
+          "o": [
+            "1975",
+            "1980",
+            "1985",
+            "1990"
+          ],
+          "a": 1,
+          "e": "<b>Minerva Mills v. Union of India</b> was decided in <b>1980</b>, striking down provisions of the 42nd Amendment that gave Parliament unlimited amending power."
+        },
+        {
+          "q": "Which case held that the Basic Structure Doctrine applies to constitutional amendments enacted after 24 April 1973?",
+          "o": [
+            "Indira Nehru Gandhi case",
+            "Minerva Mills case",
+            "Waman Rao case",
+            "Golaknath case"
+          ],
+          "a": 2,
+          "e": "In the <b>Waman Rao case (1981)</b>, the Supreme Court held that the basic structure doctrine would apply prospectively to constitutional amendments made after <b>24 April 1973</b>, the date of the Kesavananda Bharati judgment."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following cases: 1. Golaknath v. State of Punjab 2. Kesavananda Bharati v. State of Kerala 3. Shankari Prasad v. Union of India 4. Indira Nehru Gandhi v. Raj Narain. What is the correct chronological order of these cases?",
+          "o": [
+            "3-1-2-4",
+            "1-3-2-4",
+            "3-1-4-2",
+            "1-2-3-4"
+          ],
+          "a": 0,
+          "e": "The correct chronological order is <b>Shankari Prasad (1951) -> Golaknath (1967) -> Kesavananda Bharati (1973) -> Indira Nehru Gandhi v. Raj Narain (1975)</b>, tracing the doctrine's evolution."
+        },
+        {
+          "q": "Consider the following statements regarding the Shankari Prasad and Golaknath cases: 1. Both cases dealt with the amendability of Fundamental Rights under Article 368. 2. Golaknath reversed the position taken earlier in Shankari Prasad and Sajjan Singh. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: Shankari Prasad, Sajjan Singh and Golaknath all concerned amendability of Fundamental Rights, and <b>Golaknath (1967)</b> reversed the earlier pro-amendment view of Shankari Prasad (1951) and Sajjan Singh (1965), holding Fundamental Rights unamendable."
+        },
+        {
+          "q": "With reference to the Minerva Mills case (1980), consider the following statements: 1. It struck down clauses (4) and (5) added to Article 368 by the 42nd Amendment. 2. It struck down the widened version of Article 31C introduced by the 42nd Amendment. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "In <b>Minerva Mills</b>, the Supreme Court struck down both the amendments to <b>Article 368 clauses (4) and (5)</b> (which gave Parliament unlimited amending power) and the amendment to <b>Article 31C</b> (which gave DPSPs absolute primacy over Articles 14 and 19)."
+        },
+        {
+          "q": "Consider the following statements about the 24th Amendment Act, 1971: 1. It was enacted in response to the Golaknath judgment. 2. It made presidential assent to constitutional amendment bills obligatory. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The <b>24th Amendment Act, 1971</b> was passed to overcome the Golaknath ruling and affirmed Parliament's power to amend Fundamental Rights; it also made it <b>obligatory for the President</b> to give assent to constitutional amendment bills."
+        },
+        {
+          "q": "With reference to the Kesavananda Bharati judgment (1973), consider the following statements: 1. It held that Parliament has power to amend any part of the Constitution, including Fundamental Rights. 2. It held that this amending power does not extend to altering the basic structure of the Constitution. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Kesavananda Bharati struck a middle path: it upheld Parliament's power to amend <b>any part, including Fundamental Rights</b> (overruling Golaknath's absolute bar), but held this power was subject to the limitation that the <b>basic structure</b> could not be altered."
+        },
+        {
+          "q": "The Indira Nehru Gandhi v. Raj Narain case is directly linked to a challenge against which constitutional provision?",
+          "o": [
+            "Article 356",
+            "Article 329A",
+            "Article 31C",
+            "Article 368(4)"
+          ],
+          "a": 1,
+          "e": "The case arose from a challenge to <b>Article 329A</b>, inserted by the 39th Amendment, clause 4 of which sought to immunize the Prime Minister's election dispute from judicial review."
+        },
+        {
+          "q": "Consider the following statements: 1. The 42nd Amendment Act, 1976 inserted clauses (4) and (5) into Article 368. 2. These clauses were struck down by the Supreme Court in the Minerva Mills case. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The <b>42nd Amendment Act, 1976</b> added clauses (4) and (5) to Article 368 to give Parliament unlimited constituent power beyond judicial review; these were struck down in <b>Minerva Mills (1980)</b> as destructive of the basic structure."
+        },
+        {
+          "q": "The I.R. Coelho case (2007) primarily dealt with judicial review of which category of laws?",
+          "o": [
+            "Laws under the Concurrent List",
+            "Laws placed in the Ninth Schedule after 24 April 1973",
+            "Money Bills",
+            "Ordinances promulgated by the President"
+          ],
+          "a": 1,
+          "e": "In <b>I.R. Coelho v. State of Tamil Nadu (2007)</b>, the Supreme Court held that laws placed in the <b>Ninth Schedule after 24 April 1973</b> are open to judicial review if they violate the basic structure or Fundamental Rights."
+        },
+        {
+          "q": "Consider the following statements regarding elements of the basic structure of the Constitution: 1. Judicial review has been held to be part of the basic structure. 2. Federal character of the Constitution has been held to be part of the basic structure. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Through various judgments, the Supreme Court has recognised <b>judicial review</b> and the <b>federal character</b> of the Constitution, among other features, as part of the basic structure."
+        },
+        {
+          "q": "The significance of 24 April 1973 in the context of the Waman Rao case lies in the fact that it is the date of which event?",
+          "o": [
+            "Enactment of the 24th Amendment",
+            "Pronouncement of the Kesavananda Bharati judgment",
+            "Enactment of the 42nd Amendment",
+            "Pronouncement of the Golaknath judgment"
+          ],
+          "a": 1,
+          "e": "24 April 1973 is the date on which the <b>Kesavananda Bharati judgment</b> was pronounced; the Waman Rao case used this date as the cut-off for prospective application of the basic structure doctrine."
+        },
+        {
+          "q": "Consider the following statements about the Minerva Mills case (1980): 1. It held that a total absence of judicial review would be destructive of the basic structure. 2. It emphasised the balance and harmony between Fundamental Rights and Directive Principles as part of the basic structure. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Minerva Mills held that <b>judicial review</b> is a basic feature, and that the <b>harmony and balance between Fundamental Rights and DPSP</b> is also part of the basic structure of the Constitution."
+        },
+        {
+          "q": "The term \"basic structure\" is generally traced to have first found judicial mention in which context, prior to Kesavananda Bharati?",
+          "o": [
+            "Justice Mudholkar's dissenting opinion in the Sajjan Singh case",
+            "The majority opinion in the Shankari Prasad case",
+            "The majority opinion in the Golaknath case",
+            "The 24th Amendment's Statement of Objects and Reasons"
+          ],
+          "a": 0,
+          "e": "Before Kesavananda Bharati, the idea of implied limitations on the amending power was hinted at in <b>Justice Mudholkar's dissenting opinion in the Sajjan Singh case (1965)</b>."
+        },
+        {
+          "q": "Consider the following statements regarding bench strength in landmark basic structure cases: 1. Golaknath was decided by an 11-judge bench. 2. Kesavananda Bharati was decided by a 13-judge bench. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Golaknath</b> was heard by an <b>11-judge bench</b> and <b>Kesavananda Bharati</b>, the largest bench ever constituted, by a <b>13-judge bench</b>."
+        },
+        {
+          "q": "In the Indira Nehru Gandhi v. Raj Narain case, the Supreme Court held that which of the following is/are part of the basic structure? 1. Free and fair elections 2. Judicial review. Select the correct answer using the code below.",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The Court held that both <b>free and fair elections</b> and <b>judicial review</b> constitute part of the basic structure, and hence Article 329A(4) which excluded judicial scrutiny of the PM's election was unconstitutional."
+        },
+        {
+          "q": "Consider the following statements about the features constituting the basic structure of the Constitution: 1. The list of basic features has been exhaustively and finally defined by the Supreme Court. 2. The Supreme Court has added to the list of basic features from case to case. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The Supreme Court has never provided an <b>exhaustive definition</b> of the basic structure; instead, the list of basic features has been <b>expanded and clarified case by case</b>, such as secularism, federalism, rule of law, and separation of powers."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "In Indira Nehru Gandhi v. Raj Narain (1975), the Supreme Court specifically struck down which clause of Article 329A?",
+          "o": [
+            "Clause (1)",
+            "Clause (2)",
+            "Clause (4)",
+            "Clause (5)"
+          ],
+          "a": 2,
+          "e": "The Court struck down <b>clause (4) of Article 329A</b>, which sought to validate the Prime Minister's election retrospectively and place it beyond judicial review, as violative of free and fair elections and judicial review, both part of the basic structure."
+        },
+        {
+          "q": "Which of the following most accurately describes what the Minerva Mills judgment (1980) actually struck down?",
+          "o": [
+            "The entire 42nd Amendment Act, 1976",
+            "Only clauses (4) and (5) inserted into Article 368, and the amendment to Article 31C, by the 42nd Amendment",
+            "Only the amendment to Article 31C, leaving Article 368 changes intact",
+            "The entire Ninth Schedule as inserted by the 42nd Amendment"
+          ],
+          "a": 1,
+          "e": "Minerva Mills did not strike down the entire 42nd Amendment; it struck down only the specific provisions that inserted <b>clauses (4) and (5) into Article 368</b> and the amendment widening <b>Article 31C</b>, as destructive of the basic structure."
+        },
+        {
+          "q": "What is the key distinction between the holdings of Golaknath (1967) and Kesavananda Bharati (1973) with respect to Fundamental Rights?",
+          "o": [
+            "Golaknath allowed Fundamental Rights to be amended freely, while Kesavananda Bharati barred it completely",
+            "Golaknath held Fundamental Rights were completely unamendable, while Kesavananda Bharati held they could be amended so long as the basic structure is not damaged",
+            "Both cases held Fundamental Rights were completely unamendable",
+            "Both cases held Fundamental Rights could be amended without any limitation"
+          ],
+          "a": 1,
+          "e": "Golaknath held that Fundamental Rights enjoy a <b>transcendental position</b> and cannot be abridged or amended at all, whereas Kesavananda Bharati overruled this rigidity, holding that Fundamental Rights <b>can be amended</b> as long as the amendment does not damage the basic structure."
+        },
+        {
+          "q": "Regarding vote margins, which of the following pairs is correctly matched?",
+          "o": [
+            "Golaknath - 7:6; Kesavananda Bharati - 6:5",
+            "Golaknath - 6:5; Kesavananda Bharati - 7:6",
+            "Golaknath - 6:5; Kesavananda Bharati - 8:5",
+            "Golaknath - 7:6; Kesavananda Bharati - 8:5"
+          ],
+          "a": 1,
+          "e": "<b>Golaknath</b> was decided by a majority of <b>6:5</b>, while <b>Kesavananda Bharati</b>, decided six years later with two additional judges on the bench, was decided by a majority of <b>7:6</b>."
+        },
+        {
+          "q": "Whose dissenting opinion in the Sajjan Singh case (1965) is regarded as an early judicial precursor to the idea of implied limitations on the amending power, later crystallised as the Basic Structure Doctrine?",
+          "o": [
+            "Justice H.R. Khanna",
+            "Justice Mudholkar",
+            "Justice Y.V. Chandrachud",
+            "Justice P.N. Bhagwati"
+          ],
+          "a": 1,
+          "e": "<b>Justice Mudholkar's</b> dissent in Sajjan Singh raised the question of whether the Constitution possesses certain fundamental features that even a constitutional amendment could not alter, foreshadowing the basic structure doctrine."
+        },
+        {
+          "q": "As per the ruling in I.R. Coelho v. State of Tamil Nadu (2007), what is the precise legal position on laws included in the Ninth Schedule?",
+          "o": [
+            "All laws in the Ninth Schedule, irrespective of date of insertion, are completely immune from judicial review",
+            "Laws added to the Ninth Schedule after 24 April 1973 are open to judicial review if they violate the basic structure or Fundamental Rights",
+            "Laws added to the Ninth Schedule before 24 April 1973 are open to challenge, but those added after are immune",
+            "The Ninth Schedule itself was declared unconstitutional"
+          ],
+          "a": 1,
+          "e": "The Coelho judgment clarified that laws inserted into the <b>Ninth Schedule after 24 April 1973</b> (the date of the Kesavananda Bharati verdict) can be tested against the basic structure and Fundamental Rights, even though Article 31B otherwise shields Ninth Schedule laws from being challenged as violative of Fundamental Rights."
+        },
+        {
+          "q": "Which amendment attempted to give Parliament unlimited constituent power exempt from judicial review, and was subsequently struck down for violating the basic structure?",
+          "o": [
+            "24th Amendment Act, 1971, amending Articles 13 and 368",
+            "25th Amendment Act, 1971, amending Article 31C",
+            "42nd Amendment Act, 1976, inserting clauses (4) and (5) in Article 368",
+            "44th Amendment Act, 1978, restoring the right to property as a legal right"
+          ],
+          "a": 2,
+          "e": "The <b>42nd Amendment Act, 1976</b> inserted clauses (4) and (5) into Article 368 declaring that no constitutional amendment could be questioned in any court and that Parliament's amending power was unlimited; this was struck down in <b>Minerva Mills (1980)</b>."
+        },
+        {
+          "q": "Which statement correctly captures the scope of the Minerva Mills verdict on the 42nd Amendment?",
+          "o": [
+            "The Court struck down the 42nd Amendment in its entirety as unconstitutional",
+            "The Court upheld the entire 42nd Amendment as a valid exercise of constituent power",
+            "The Court struck down only the specific offending provisions, leaving the rest of the 42nd Amendment intact",
+            "The Court referred the matter back to Parliament without a ruling"
+          ],
+          "a": 2,
+          "e": "The Supreme Court in Minerva Mills did not invalidate the whole 42nd Amendment; it invalidated only the <b>specific clauses</b> that conferred unlimited amending power and unlimited DPSP primacy over Fundamental Rights, as being destructive of the basic structure."
+        },
+        {
+          "q": "How did the original Article 31C, inserted by the 25th Amendment Act (1971), differ from the version introduced by the 42nd Amendment Act (1976), as relevant to the basic structure jurisprudence?",
+          "o": [
+            "The 1971 version protected laws giving effect to Article 39(b) and (c) from challenge under Articles 14 and 19, while the 1976 version extended this immunity to all Directive Principles",
+            "The 1971 version extended immunity to all Directive Principles, while the 1976 version restricted it to Article 39(b) and (c) alone",
+            "Both versions were identical in scope",
+            "The 1971 version was struck down by Kesavananda Bharati, while the 1976 version was upheld by Minerva Mills"
+          ],
+          "a": 0,
+          "e": "The original <b>Article 31C (25th Amendment, 1971)</b> shielded only laws implementing <b>Article 39(b) and (c)</b> from challenge under Articles 14 and 19, and this limited version was substantially upheld in Kesavananda Bharati; the <b>42nd Amendment</b> widened this immunity to cover laws implementing <b>all Directive Principles</b>, and this wider version was struck down in Minerva Mills."
+        },
+        {
+          "q": "The doctrine of prospective overruling, as applied in the Golaknath case, had what practical effect?",
+          "o": [
+            "It invalidated all past constitutional amendments retrospectively",
+            "It held the ruling would apply only to future amendments, leaving amendments already made (such as the 1st, 4th and 17th Amendments) undisturbed",
+            "It required Parliament to re-enact all prior amendments",
+            "It automatically extended to strike down the 24th Amendment before it was even enacted"
+          ],
+          "a": 1,
+          "e": "By applying <b>prospective overruling</b>, the Court in Golaknath ensured that its ruling barring amendment of Fundamental Rights would operate only <b>prospectively</b>, thereby not disturbing amendments already validly made in the past."
+        },
+        {
+          "q": "Kesavananda Bharati, the petitioner in the 1973 case, had approached the Supreme Court primarily challenging which state legislation?",
+          "o": [
+            "Kerala Land Reforms (Amendment) Act",
+            "Kerala Panchayati Raj Act",
+            "Kerala Education Act",
+            "Kerala Agrarian Relations Act, 1961 alone, unrelated to land reforms"
+          ],
+          "a": 0,
+          "e": "Kesavananda Bharati, head of the Edneer Mutt in Kerala, challenged the <b>Kerala Land Reforms (Amendment) Act</b> as violating his fundamental rights to manage religious property, which led the Court to examine the broader question of the extent of Parliament's amending power."
+        },
+        {
+          "q": "Which of the following features has NOT typically been cited by the Supreme Court as forming part of the basic structure?",
+          "o": [
+            "Independence of the judiciary",
+            "Secular character of the Constitution",
+            "Reservation percentage prescribed for a particular state",
+            "Federal character of the Constitution"
+          ],
+          "a": 2,
+          "e": "Features such as <b>independence of judiciary</b>, <b>secularism</b>, and <b>federal character</b> have been held to be part of the basic structure across various cases, whereas a state-specific reservation percentage is a policy matter, not a basic feature of the Constitution."
+        },
+        {
+          "q": "What is the key difference between the holdings of the Waman Rao case (1981) and the I.R. Coelho case (2007) regarding the Ninth Schedule?",
+          "o": [
+            "Waman Rao dealt with unamendability of Fundamental Rights generally, while Coelho dealt exclusively with federal disputes",
+            "Waman Rao fixed 24 April 1973 as the cut-off date for applying the basic structure doctrine to amendments/Ninth Schedule insertions, while Coelho applied and reaffirmed this principle specifically to test post-1973 Ninth Schedule laws against the basic structure",
+            "Waman Rao declared the Ninth Schedule itself unconstitutional, which Coelho later reversed",
+            "There is no material difference; both cases were decided identically on identical facts"
+          ],
+          "a": 1,
+          "e": "<b>Waman Rao</b> established that the basic structure doctrine applies prospectively from <b>24 April 1973</b>, while <b>Coelho</b> built upon this by holding that laws placed in the Ninth Schedule after that date must be tested for consistency with the basic structure and Fundamental Rights."
+        },
+        {
+          "q": "Chief Justice Y.V. Chandrachud's opinion in Minerva Mills famously described the Indian Constitution as founded on the bedrock of which principle?",
+          "o": [
+            "Absolute parliamentary sovereignty",
+            "Balance between Fundamental Rights and Directive Principles of State Policy",
+            "Unlimited judicial supremacy over the legislature",
+            "Strict separation between the Centre and the States"
+          ],
+          "a": 1,
+          "e": "Chief Justice Chandrachud held that the Indian Constitution is founded on the bedrock of the <b>balance between Fundamental Rights and Directive Principles</b>, and that giving absolute primacy to one over the other would disturb the harmony essential to the basic structure."
+        },
+        {
+          "q": "Which of the following correctly reflects the evolving and non-exhaustive nature of the Basic Structure Doctrine?",
+          "o": [
+            "The Supreme Court in Kesavananda Bharati provided a final, closed list of basic features that cannot be added to",
+            "Basic structure elements have been identified and expanded across multiple cases such as Indira Gandhi (free and fair elections, judicial review), Minerva Mills (harmony between FR and DPSP), and others, without an exhaustive definition",
+            "Only Fundamental Rights collectively constitute the basic structure, and no other constitutional feature qualifies",
+            "The doctrine was abandoned after Minerva Mills and has not been applied since 1980"
+          ],
+          "a": 1,
+          "e": "The Basic Structure Doctrine has never been exhaustively defined; courts have progressively identified features such as <b>free and fair elections and judicial review</b> (Indira Gandhi case) and <b>harmony between FR and DPSP</b> (Minerva Mills) as part of the basic structure, and the doctrine continues to be invoked and refined, including in later cases like I.R. Coelho (2007)."
+        }
+      ]
+    }
+  },
+  {
+    "id": "parliamentary_system",
+    "title": "Parliamentary System",
+    "desc": "Executive-legislature relations, Cabinet government, key Articles",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Articles of the Constitution provide for a parliamentary system of government at the Union level?",
+          "o": [
+            "Articles 74 and 75",
+            "Articles 76 and 77",
+            "Articles 163 and 164",
+            "Articles 52 and 53"
+          ],
+          "a": 0,
+          "e": "<b>Article 74</b> provides for a Council of Ministers to aid and advise the President, and <b>Article 75</b> deals with appointment, tenure and responsibility of ministers, together establishing the parliamentary system at the Union level."
+        },
+        {
+          "q": "Which Articles provide for the parliamentary system of government at the State level?",
+          "o": [
+            "Articles 74 and 75",
+            "Articles 163 and 164",
+            "Articles 168 and 169",
+            "Articles 213 and 214"
+          ],
+          "a": 1,
+          "e": "<b>Article 163</b> provides for a Council of Ministers to aid and advise the Governor, and <b>Article 164</b> deals with appointment and responsibility of state ministers, mirroring Articles 74 and 75 at the state level."
+        },
+        {
+          "q": "In India's parliamentary system, who is the 'nominal executive'?",
+          "o": [
+            "The Prime Minister",
+            "The President",
+            "The Speaker of Lok Sabha",
+            "The Cabinet Secretary"
+          ],
+          "a": 1,
+          "e": "The <b>President</b> is the constitutional/nominal head of state, while real executive power vests in the Council of Ministers headed by the Prime Minister."
+        },
+        {
+          "q": "Who constitutes the 'real executive' in India's parliamentary system?",
+          "o": [
+            "The President alone",
+            "The Supreme Court",
+            "The Council of Ministers headed by the Prime Minister",
+            "The Election Commission"
+          ],
+          "a": 2,
+          "e": "The <b>Council of Ministers</b>, headed by the <b>Prime Minister</b>, exercises actual executive power and decision-making authority, even though the President is the formal head of state."
+        },
+        {
+          "q": "The parliamentary system of government is also commonly known as the:",
+          "o": [
+            "Presidential model",
+            "Westminster model",
+            "Federal model",
+            "Directorial model"
+          ],
+          "a": 1,
+          "e": "The parliamentary system, based on the British pattern, is popularly called the <b>Westminster model</b>, also referred to as cabinet government or responsible government."
+        },
+        {
+          "q": "The Council of Ministers is collectively responsible to which body under Article 75(3)?",
+          "o": [
+            "The Rajya Sabha",
+            "The President",
+            "The Lok Sabha (House of the People)",
+            "The Supreme Court"
+          ],
+          "a": 2,
+          "e": "<b>Article 75(3)</b> states that the Council of Ministers shall be collectively responsible to the <b>Lok Sabha</b>, meaning it stays in office only as long as it enjoys the confidence of that House."
+        },
+        {
+          "q": "Under Article 75(5), a minister who is not a member of either House of Parliament ceases to be a minister after:",
+          "o": [
+            "One month",
+            "Three months",
+            "Six months",
+            "One year"
+          ],
+          "a": 2,
+          "e": "<b>Article 75(5)</b> provides that a minister who is not a member of either House for a continuous period of <b>six months</b> ceases to be a minister at the expiration of that period."
+        },
+        {
+          "q": "Which article requires the Council of Ministers to aid and advise the President in the exercise of his functions?",
+          "o": [
+            "Article 72",
+            "Article 74",
+            "Article 76",
+            "Article 79"
+          ],
+          "a": 1,
+          "e": "<b>Article 74</b> mandates a Council of Ministers, with the Prime Minister as head, to aid and advise the President, who shall act in accordance with such advice."
+        },
+        {
+          "q": "Who is the head of government in India?",
+          "o": [
+            "The President",
+            "The Vice-President",
+            "The Prime Minister",
+            "The Chief Justice of India"
+          ],
+          "a": 2,
+          "e": "While the President is the head of state, the <b>Prime Minister</b> heads the Council of Ministers and is the real head of government, directing the executive."
+        },
+        {
+          "q": "Which country is the classic example of a presidential system of government?",
+          "o": [
+            "United Kingdom",
+            "United States of America",
+            "Canada",
+            "Australia"
+          ],
+          "a": 1,
+          "e": "The <b>USA</b> follows a presidential system where the President is both head of state and head of government with a fixed tenure, independent of legislative confidence."
+        },
+        {
+          "q": "Which article of the Constitution imposes a duty on the Prime Minister to communicate to the President all decisions of the Council of Ministers?",
+          "o": [
+            "Article 74",
+            "Article 75",
+            "Article 78",
+            "Article 80"
+          ],
+          "a": 2,
+          "e": "<b>Article 78</b> makes it the duty of the Prime Minister to communicate to the President all decisions of the Council of Ministers relating to administration and legislative proposals."
+        },
+        {
+          "q": "In the parliamentary system, from where is the executive drawn?",
+          "o": [
+            "From the judiciary",
+            "From the legislature",
+            "From the bureaucracy",
+            "From the armed forces"
+          ],
+          "a": 1,
+          "e": "A defining feature of the parliamentary system is that ministers are drawn from and remain members of the <b>legislature</b>, unlike in the presidential system."
+        },
+        {
+          "q": "Who has the power to dissolve the Lok Sabha before completion of its term?",
+          "o": [
+            "The Prime Minister acting alone without any recommendation",
+            "The President, usually on the advice of the Council of Ministers",
+            "The Chief Justice of India",
+            "The Speaker of Lok Sabha"
+          ],
+          "a": 1,
+          "e": "The <b>President</b> can dissolve the Lok Sabha, ordinarily acting on the advice of the Council of Ministers, a feature typical of parliamentary systems that allows for fresh elections."
+        },
+        {
+          "q": "Which of these is a key feature of parliamentary government?",
+          "o": [
+            "Fixed tenure of executive irrespective of legislative confidence",
+            "Strict separation of powers between executive and legislature",
+            "Collective responsibility of the executive to the legislature",
+            "Single executive combining head of state and head of government"
+          ],
+          "a": 2,
+          "e": "<b>Collective responsibility</b> of the Council of Ministers to the legislature is a hallmark of the parliamentary/cabinet system, distinguishing it from the presidential model."
+        },
+        {
+          "q": "In the parliamentary system of government, the Prime Minister is:",
+          "o": [
+            "The leader of the majority party/coalition in the Lower House",
+            "Always a member of the Upper House only",
+            "Directly elected by the entire population",
+            "Appointed for a fixed non-removable term"
+          ],
+          "a": 0,
+          "e": "The Prime Minister is normally the <b>leader of the majority party or coalition</b> in the Lok Sabha, appointed by the President, and remains in office as long as this majority support continues."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements about the parliamentary system in India: 1. The executive is responsible to the legislature for its policies and acts. 2. Ministers must be members of the legislature to hold office beyond a limited period. 3. There is a strict separation of powers between the executive and the legislature. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct features of the parliamentary system; there is no strict separation of powers as in the presidential system, instead there is a fusion/overlap between executive and legislature."
+        },
+        {
+          "q": "With reference to the presidential system of government (as in the USA), consider the following statements: 1. The President is both head of state and head of government. 2. The President and secretaries are not responsible to the legislature. 3. The President has a fixed tenure that does not depend on legislative confidence. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three are true of the US presidential system: single executive combining both roles, no collective responsibility to Congress, and a fixed term regardless of legislative support."
+        },
+        {
+          "q": "Which of the following was a key reason for India's adoption of the parliamentary system rather than the presidential system?",
+          "o": [
+            "Greater familiarity with the parliamentary form due to experience under British rule",
+            "Desire for maximum stability of the executive over responsibility",
+            "Requirement of the United Nations Charter",
+            "Absence of any legislature under British rule"
+          ],
+          "a": 0,
+          "e": "The Constituent Assembly favoured the parliamentary system mainly because Indians were already <b>familiar</b> with it through the Government of India Acts under British rule, and preferred a more responsible executive."
+        },
+        {
+          "q": "In choosing between a more 'responsible' government and a more 'stable' government, the makers of the Indian Constitution:",
+          "o": [
+            "Preferred stability over responsibility, hence chose the presidential system",
+            "Preferred responsibility over stability, hence chose the parliamentary system",
+            "Rejected both and adopted a directorial system",
+            "Left the choice to be decided by each state separately"
+          ],
+          "a": 1,
+          "e": "The Constituent Assembly preferred a system where the executive is continuously <b>answerable</b> to the legislature, favouring responsibility over the rigid stability offered by a presidential system."
+        },
+        {
+          "q": "Which of the following is/are true regarding collective responsibility under Article 75(3)? 1. If the Lok Sabha passes a no-confidence motion, the entire Council of Ministers must resign. 2. This includes ministers who are members of the Rajya Sabha. 3. Individual ministers can save themselves by publicly dissenting from a Cabinet decision. Select the correct answer using the code below.",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Under collective responsibility, the whole Council resigns on a no-confidence vote, including Rajya Sabha members; ministers cannot escape by dissenting publicly since Cabinet decisions bind all ministers."
+        },
+        {
+          "q": "A key structural difference between the parliamentary and presidential systems is that in the presidential system:",
+          "o": [
+            "The executive is drawn from and remains part of the legislature",
+            "There is a fusion of executive and legislative organs",
+            "There is a stricter separation of powers between the organs of government",
+            "The head of state is a mere ceremonial figure"
+          ],
+          "a": 2,
+          "e": "The presidential system, as in the USA, is based on a stricter <b>separation of powers</b> among the executive, legislature and judiciary, unlike the parliamentary system's fusion of executive and legislature."
+        },
+        {
+          "q": "Which of the following are commonly cited advantages of the parliamentary system? 1. Harmony between the legislative and executive organs. 2. Guaranteed long-term stability of the government. 3. Responsible government due to continuous legislative oversight. Select the correct answer using the code below.",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Harmony between organs and responsible government are genuine advantages; however, the parliamentary system is often criticised for producing <b>instability</b> rather than guaranteeing it."
+        },
+        {
+          "q": "Which of the following is a recognised disadvantage of the parliamentary system?",
+          "o": [
+            "Excessive rigidity of the executive tenure",
+            "Possible governmental instability due to shifting legislative majorities",
+            "Complete absence of executive accountability",
+            "Total separation between legislature and executive causing deadlock"
+          ],
+          "a": 1,
+          "e": "Since the government survives only as long as it retains majority support, coalition breakdowns or loss of confidence can cause <b>instability</b>, a recognised drawback of the parliamentary system."
+        },
+        {
+          "q": "Which statement correctly distinguishes India's provision on ministerial responsibility from the US presidential system?",
+          "o": [
+            "In the US, secretaries are collectively responsible to Congress, unlike in India",
+            "In India, the Council of Ministers is collectively responsible to the Lok Sabha, whereas in the US no such collective responsibility to the legislature exists",
+            "Both systems provide for identical collective responsibility mechanisms",
+            "Neither system provides for any form of executive accountability"
+          ],
+          "a": 1,
+          "e": "India's Article 75(3) creates <b>collective responsibility</b> to the Lok Sabha; in the US presidential system, the President and secretaries are not responsible to Congress in this sense."
+        },
+        {
+          "q": "Consider the following statements regarding Article 74: 1. It provides for a Council of Ministers headed by the Prime Minister to aid and advise the President. 2. The President is bound to act in accordance with such advice, as it currently stands. 3. It applies to the states through a parallel provision, Article 165. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct; the state-level parallel to Article 74 is <b>Article 163</b>, not Article 165, so statement 3 is incorrect."
+        },
+        {
+          "q": "Why did the Constituent Assembly consider the parliamentary system suitable for the task of nation-building at the time of independence?",
+          "o": [
+            "It ensures the executive can never be questioned by the legislature",
+            "It reduces the possibility of conflict/deadlock between the executive and legislature by fusing the two",
+            "It requires no elections for long periods",
+            "It abolishes the need for a written constitution"
+          ],
+          "a": 1,
+          "e": "By fusing the executive with the legislature and making the government responsible to it, the parliamentary system was seen as reducing potential <b>legislative-executive conflict</b> at a delicate nation-building stage."
+        },
+        {
+          "q": "Which of the following statements about ministers who are not members of Parliament is/are correct? 1. A person can be appointed a minister without being a member of either House. 2. Such a person must become a member of either House within six months of appointment. 3. If they fail to do so, they automatically continue as minister without voting rights. Select the correct answer using the code below.",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "A non-member can be made a minister but under <b>Article 75(5)</b> must get elected/nominated to Parliament within six months, failing which they cease to be a minister altogether."
+        },
+        {
+          "q": "Which of the following best explains the concept of 'secrecy of proceedings' in the Cabinet system?",
+          "o": [
+            "Cabinet meetings and their proceedings are kept confidential from the public and Parliament",
+            "All Cabinet decisions must be published verbatim in the Gazette",
+            "Ministers are barred from ever discussing government policy",
+            "Cabinet meetings are open to media coverage by default"
+          ],
+          "a": 0,
+          "e": "Under the convention of <b>secrecy</b>, deliberations of the Council of Ministers/Cabinet are kept confidential, allowing free discussion before a collective public position is presented."
+        },
+        {
+          "q": "Which of the following statements comparing parliamentary and presidential systems is correct?",
+          "o": [
+            "In a presidential system, the legislature can remove the executive through a no-confidence motion",
+            "In a parliamentary system, the executive's continuance in office depends on legislative confidence",
+            "Both systems allow ministers to sit and vote in the legislature as of right",
+            "Both systems provide for a single individual to be head of state and head of government"
+          ],
+          "a": 1,
+          "e": "Under a parliamentary system, the executive (Council of Ministers) remains in office only as long as it commands the confidence of the legislature, unlike the fixed-tenure presidential executive."
+        },
+        {
+          "q": "In the Constituent Assembly debates, which consideration was cited as a reason for rejecting the presidential system for India despite its federal structure?",
+          "o": [
+            "The presidential system offers no accountability mechanism at all",
+            "The nation was more familiar with and had experience of the parliamentary form of government under colonial administration",
+            "The presidential system had never been tried anywhere in the world",
+            "The Constitution did not envisage any executive branch"
+          ],
+          "a": 1,
+          "e": "Despite adopting a federal structure, India chose the parliamentary system at the Union and state levels mainly due to prior <b>familiarity</b> with it and the preference for a more responsible executive."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Prior to the 42nd Amendment, the text of Article 74(1) regarding presidential action on ministerial advice was interpreted as:",
+          "o": [
+            "Making the advice of the Council of Ministers explicitly and unambiguously binding on the President",
+            "Leaving room for ambiguity, without an express provision making such advice binding",
+            "Giving the President absolute veto over all ministerial advice",
+            "Requiring a two-thirds parliamentary majority to validate presidential decisions"
+          ],
+          "a": 1,
+          "e": "Originally, Article 74(1) did not expressly state that the President was <b>bound</b> by ministerial advice; the <b>42nd Amendment (1976)</b> inserted words explicitly making such advice binding."
+        },
+        {
+          "q": "The 44th Amendment Act made which specific change to Article 74(1)?",
+          "o": [
+            "It removed the Council of Ministers altogether",
+            "It gave the President power to require the Council of Ministers to reconsider such advice once, and act according to the advice given after such reconsideration",
+            "It made the advice of the Council of Ministers non-binding on the President permanently",
+            "It transferred the power of aid and advice from the Council of Ministers to the Vice-President"
+          ],
+          "a": 1,
+          "e": "The <b>44th Amendment (1978)</b> added a proviso empowering the President to send ministerial advice back for <b>reconsideration once</b>; thereafter, the President must act according to the reconsidered advice."
+        },
+        {
+          "q": "Which of the following correctly captures the combined effect of the 42nd and 44th Amendments on Article 74?",
+          "o": [
+            "The advice of the Council of Ministers is binding on the President, subject to a one-time power of reconsideration",
+            "The advice of the Council of Ministers is purely discretionary and the President may reject it outright",
+            "Article 74 was deleted and replaced by Article 78 after these amendments",
+            "The President lost all powers of aid and advice reconsideration after 1978"
+          ],
+          "a": 0,
+          "e": "Together, the two amendments make ministerial advice <b>binding</b> on the President under Article 74(1), while allowing the President to seek <b>reconsideration once</b>, after which the advice must be followed."
+        },
+        {
+          "q": "Which of the following statements about individual versus collective ministerial responsibility in India is most accurate?",
+          "o": [
+            "Both individual and collective responsibility operate to the President under Article 74",
+            "Ministers hold office during the pleasure of the President (individual angle), while the Council as a whole is collectively responsible to the Lok Sabha under Article 75(3)",
+            "There is no concept of individual responsibility in the Indian Constitution",
+            "Collective responsibility applies only to the Prime Minister and no other minister"
+          ],
+          "a": 1,
+          "e": "Ministers individually hold office at the <b>pleasure of the President</b> (Article 75(2)), while collectively, the entire Council of Ministers is responsible to the <b>Lok Sabha</b> under Article 75(3), these are distinct dimensions of responsibility."
+        },
+        {
+          "q": "If the Lok Sabha passes a no-confidence motion against the government, which of the following must resign, including those who are members of the Rajya Sabha?",
+          "o": [
+            "Only the Prime Minister",
+            "Only ministers who are members of the Lok Sabha",
+            "The entire Council of Ministers, including ministers belonging to the Rajya Sabha",
+            "No one, since the Rajya Sabha cannot be dissolved"
+          ],
+          "a": 2,
+          "e": "Because responsibility is <b>collective</b> under Article 75(3) and runs to the Lok Sabha as a body, the whole Council of Ministers must resign on losing its confidence, regardless of individual ministers' House membership."
+        },
+        {
+          "q": "Which of the following is a valid distinction between the 'pleasure of the President' doctrine and 'collective responsibility'?",
+          "o": [
+            "They are the same concept applied to different articles",
+            "'Pleasure' under Article 75(2) relates to individual tenure at the President's discretion (exercised per ministerial/PM advice in practice), while collective responsibility under Article 75(3) concerns confidence of the Lok Sabha in the Council as a whole",
+            "'Pleasure of the President' overrides collective responsibility whenever a conflict arises",
+            "Collective responsibility applies to the President, and pleasure doctrine applies to the Lok Sabha"
+          ],
+          "a": 1,
+          "e": "The <b>pleasure doctrine</b> (Article 75(2)) is about formal tenure of individual ministers, exercised in practice on the Prime Minister's advice, whereas <b>collective responsibility</b> (Article 75(3)) is a substantive check by the Lok Sabha on the whole Council."
+        },
+        {
+          "q": "In the Constituent Assembly, Dr. B.R. Ambedkar contrasted the parliamentary system's 'responsibility' with the presidential system's 'stability' primarily by arguing that:",
+          "o": [
+            "Stability is worthless without daily/periodic accountability of the executive to the legislature",
+            "Stability and responsibility mean the same thing constitutionally",
+            "Presidential systems provide no fixed tenure at all",
+            "Parliamentary systems eliminate the need for elections"
+          ],
+          "a": 0,
+          "e": "Ambedkar argued that a government may be <b>stable</b> (fixed tenure, as in a presidential system) but not necessarily <b>responsible</b>; the Assembly preferred continuous legislative accountability over rigid stability."
+        },
+        {
+          "q": "Which of the following statements about ministers drawn from outside the legislature under Article 75(5) is correct?",
+          "o": [
+            "Such a person can never be appointed a minister under any circumstance",
+            "Such a person may be appointed minister but ceases to hold office if not elected/nominated to either House within six consecutive months",
+            "Such a person must resign within six days of appointment",
+            "Such a provision exists only for the Rajya Sabha and not the Lok Sabha"
+          ],
+          "a": 1,
+          "e": "<b>Article 75(5)</b> permits appointment of a non-member as minister, but that person automatically ceases to be a minister if they do not become a member of either House within <b>six consecutive months</b>."
+        },
+        {
+          "q": "Which of the following best explains why India, despite adopting a federal structure with a bicameral Parliament, chose the parliamentary rather than presidential form of executive?",
+          "o": [
+            "Federalism necessarily requires a presidential executive",
+            "The choice of federal structure and the choice of parliamentary/presidential executive form are independent decisions, and India combined federalism with a parliamentary executive due to prior familiarity and preference for responsibility",
+            "The Government of India Act, 1935 mandated a presidential system",
+            "Bicameralism is incompatible with a parliamentary executive"
+          ],
+          "a": 1,
+          "e": "Federal structure and executive form are separate constitutional choices; India combined a <b>federal</b> structure with a <b>parliamentary</b> executive, reflecting familiarity with British practice and a preference for responsible government."
+        },
+        {
+          "q": "Which of the following is NOT a feature distinguishing the presidential system from the parliamentary system?",
+          "o": [
+            "Fixed tenure of the executive independent of the legislature's confidence",
+            "Non-membership of the executive in the legislature",
+            "Absence of collective responsibility to the legislature",
+            "Existence of separate nominal and real executives"
+          ],
+          "a": 3,
+          "e": "The distinction between <b>nominal</b> and <b>real</b> executive is a feature of the parliamentary system (President/Governor vs Council of Ministers); the presidential system has a single executive combining both roles, so this is not a distinguishing presidential feature."
+        },
+        {
+          "q": "Which of the following statements about the term 'rule by amateurs', a criticism of the parliamentary system, is most accurate?",
+          "o": [
+            "It refers to ministers, being politicians rather than technical experts, sometimes lacking specialised knowledge of their portfolios",
+            "It refers to the President lacking legal qualifications",
+            "It refers to the absence of a civil service in India",
+            "It refers to judges being amateurs in constitutional interpretation"
+          ],
+          "a": 0,
+          "e": "Since ministers are chosen from among elected legislators rather than technical experts, critics argue the parliamentary system can result in <b>'rule by amateurs'</b> lacking specialised departmental expertise, unlike a presidential cabinet of chosen experts."
+        },
+        {
+          "q": "Which of the following correctly reflects the state-level analogue of Article 74's binding-advice mechanism (as amended)?",
+          "o": [
+            "Article 163 contains an identical express provision making the Governor's aid-and-advice from the Council of Ministers binding in the same manner as amended Article 74, subject to the Governor's discretionary powers",
+            "Article 163 makes advice of the state Council of Ministers non-binding on the Governor in all matters",
+            "There is no state-level equivalent to Article 74",
+            "Article 164 replaced Article 74 entirely for states"
+          ],
+          "a": 0,
+          "e": "<b>Article 163</b> parallels Article 74, providing that the Governor is aided and advised by the state Council of Ministers, whose advice generally binds the Governor except in matters where the Constitution grants the Governor discretionary powers."
+        },
+        {
+          "q": "Which of the following statements is correct regarding the collective responsibility of state governments under Article 164(2)?",
+          "o": [
+            "The state Council of Ministers is collectively responsible to the Legislative Council",
+            "The state Council of Ministers is collectively responsible to the Legislative Assembly",
+            "There is no collective responsibility at the state level",
+            "The state Council of Ministers is responsible to the Governor alone"
+          ],
+          "a": 1,
+          "e": "<b>Article 164(2)</b> provides that the Council of Ministers in a state is collectively responsible to the state <b>Legislative Assembly</b>, paralleling Article 75(3) at the Union level (Lok Sabha)."
+        },
+        {
+          "q": "A subtle but important distinction in the parliamentary model is that while the executive and legislature are fused in membership, this does NOT mean:",
+          "o": [
+            "Ministers must be members of the legislature",
+            "The judiciary is also fused with the executive and legislature",
+            "The executive is accountable to the legislature",
+            "The Council of Ministers is drawn from the majority party/coalition"
+          ],
+          "a": 1,
+          "e": "The fusion of powers in the parliamentary model applies specifically to the <b>executive and legislature</b>; the judiciary remains a separate, independent organ and is not fused with either."
+        },
+        {
+          "q": "Which of the following best captures why the 42nd Amendment's change to Article 74(1) was constitutionally significant?",
+          "o": [
+            "It converted India from a parliamentary to a presidential system",
+            "It removed all ambiguity by expressly subordinating the President's action to the binding advice of the Council of Ministers, reinforcing that the President is a nominal/constitutional head",
+            "It abolished the office of Prime Minister",
+            "It gave the President emergency powers not found elsewhere in the Constitution"
+          ],
+          "a": 1,
+          "e": "By expressly making ministerial advice binding, the <b>42nd Amendment</b> reinforced the President's status as a <b>nominal/constitutional</b> head acting on real executive authority vested in the Council of Ministers, consistent with parliamentary conventions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "federal_system",
+    "title": "Federal System",
+    "desc": "Union-State relations, federal and unitary features",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Article of the Indian Constitution declares that 'India, that is Bharat, shall be a Union of States'?",
+          "o": [
+            "Article 1",
+            "Article 3",
+            "Article 5",
+            "Article 368"
+          ],
+          "a": 0,
+          "e": "<b>Article 1</b> states that India, that is Bharat, shall be a 'Union of States', deliberately avoiding the term 'Federation' as chosen by Dr. B.R. Ambedkar."
+        },
+        {
+          "q": "The distribution of legislative powers between the Union and the States in India is contained in which part of the Constitution?",
+          "o": [
+            "Seventh Schedule",
+            "Fifth Schedule",
+            "Ninth Schedule",
+            "Second Schedule"
+          ],
+          "a": 0,
+          "e": "The <b>Seventh Schedule</b> divides legislative powers into the Union List, State List, and Concurrent List, a key federal feature of the Constitution."
+        },
+        {
+          "q": "Which Article of the Constitution lays down the procedure for amendment, requiring a special majority and, for certain provisions, ratification by states?",
+          "o": [
+            "Article 356",
+            "Article 368",
+            "Article 370",
+            "Article 32"
+          ],
+          "a": 1,
+          "e": "<b>Article 368</b> provides the amendment procedure, including special majority in Parliament and ratification by at least half the state legislatures for certain federal provisions, reflecting the rigidity of the Constitution."
+        },
+        {
+          "q": "The Rajya Sabha is regarded as a federal feature of the Indian Constitution because it represents which entity?",
+          "o": [
+            "Local bodies",
+            "The States",
+            "Political parties",
+            "The judiciary"
+          ],
+          "a": 1,
+          "e": "The <b>Rajya Sabha</b>, being the Council of States, represents the states in Parliament, making bicameralism a federal feature of the Constitution."
+        },
+        {
+          "q": "As originally enacted in 1950, how many subjects were listed in the Union List of the Seventh Schedule?",
+          "o": [
+            "47",
+            "66",
+            "97",
+            "100"
+          ],
+          "a": 2,
+          "e": "The <b>Union List</b> originally contained <b>97 subjects</b> over which Parliament has exclusive power to legislate."
+        },
+        {
+          "q": "As originally enacted in 1950, how many subjects were listed in the State List of the Seventh Schedule?",
+          "o": [
+            "66",
+            "97",
+            "47",
+            "52"
+          ],
+          "a": 0,
+          "e": "The <b>State List</b> originally contained <b>66 subjects</b> over which state legislatures have exclusive power to legislate."
+        },
+        {
+          "q": "As originally enacted in 1950, how many subjects were listed in the Concurrent List of the Seventh Schedule?",
+          "o": [
+            "66",
+            "97",
+            "47",
+            "12"
+          ],
+          "a": 2,
+          "e": "The <b>Concurrent List</b> originally contained <b>47 subjects</b> on which both Parliament and state legislatures can legislate, with Union law prevailing in case of conflict."
+        },
+        {
+          "q": "Which body is regarded as the guardian and final interpreter of the Indian Constitution?",
+          "o": [
+            "The Election Commission",
+            "The Supreme Court",
+            "The Attorney General",
+            "The Comptroller and Auditor General"
+          ],
+          "a": 1,
+          "e": "The <b>Supreme Court</b> acts as the guardian and interpreter of the Constitution, resolving disputes between the Union and States, an essential federal feature."
+        },
+        {
+          "q": "Under Article 155, the Governor of a State is appointed by whom?",
+          "o": [
+            "The Chief Minister of the State",
+            "The President of India",
+            "The Prime Minister",
+            "The Chief Justice of India"
+          ],
+          "a": 1,
+          "e": "<b>Article 155</b> provides that the Governor is appointed by the <b>President</b> and holds office during the President's pleasure, an important unitary feature of the Constitution."
+        },
+        {
+          "q": "Unlike the United States, which follows dual citizenship, India provides for which kind of citizenship?",
+          "o": [
+            "Dual citizenship",
+            "Single citizenship",
+            "State-based citizenship",
+            "No citizenship provision"
+          ],
+          "a": 1,
+          "e": "India provides for <b>single citizenship</b> for the entire country, unlike federations such as the USA that allow dual (state and national) citizenship, making this a unitary feature."
+        },
+        {
+          "q": "The IAS, IPS, and IFoS are examples of which feature that promotes uniformity between the Union and the States?",
+          "o": [
+            "State List services",
+            "All-India Services",
+            "Local self-government",
+            "Judicial services"
+          ],
+          "a": 1,
+          "e": "The <b>All-India Services</b> (IAS, IPS, IFoS) are common to the Union and the States, strengthening central control and considered a unitary feature of Indian federalism."
+        },
+        {
+          "q": "Which scholar famously described the Indian Constitution as 'quasi-federal'?",
+          "o": [
+            "Granville Austin",
+            "K.C. Wheare",
+            "Ivor Jennings",
+            "D.D. Basu"
+          ],
+          "a": 1,
+          "e": "<b>K.C. Wheare</b> described the Indian Constitution as 'quasi-federal', noting it is federal in form but unitary in spirit due to its strong centralizing features."
+        },
+        {
+          "q": "Which set of Articles deals with the emergency provisions that can convert India's federal structure into a unitary one?",
+          "o": [
+            "Articles 352, 356 and 360",
+            "Articles 20, 21 and 22",
+            "Articles 12, 13 and 14",
+            "Articles 245, 246 and 254"
+          ],
+          "a": 0,
+          "e": "<b>Articles 352 (National Emergency), 356 (President's Rule) and 360 (Financial Emergency)</b> allow the Centre to assume greater control, temporarily converting the federal structure into a unitary one."
+        },
+        {
+          "q": "Which Article empowers Parliament to form new states and alter the areas, boundaries, or names of existing states?",
+          "o": [
+            "Article 2",
+            "Article 3",
+            "Article 4",
+            "Article 1"
+          ],
+          "a": 1,
+          "e": "<b>Article 3</b> gives Parliament the power to form new states and alter boundaries, areas, or names of existing states by a simple majority law, without requiring the concerned state's consent."
+        },
+        {
+          "q": "Which of the following is a federal feature explicitly present in the Indian Constitution?",
+          "o": [
+            "Single citizenship",
+            "Written and rigid Constitution",
+            "Governor appointed by the President",
+            "Integrated all-India judicial services"
+          ],
+          "a": 1,
+          "e": "A <b>written and rigid Constitution</b>, with a special amendment procedure for key provisions, is a core federal feature that limits arbitrary changes by either Union or State governments."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements about the Indian federal system: 1. India has a dual polity comprising the Union at the Centre and the States at the periphery. 2. Both the Union and State governments derive their authority directly from the Constitution. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "India has a <b>dual polity</b> of Union and State governments, and both derive their authority from the <b>Constitution</b>, which distributes powers between them, both classic federal features."
+        },
+        {
+          "q": "Which of the following is considered a unitary, rather than federal, feature of the Indian Constitution?",
+          "o": [
+            "Division of powers through the Seventh Schedule",
+            "Integrated and single system of courts for Union and State laws",
+            "Written Constitution",
+            "Independent judiciary"
+          ],
+          "a": 1,
+          "e": "India has an <b>integrated judiciary</b> with a single hierarchy of courts enforcing both Union and State laws, unlike the USA's dual judicial system, making it a unitary feature."
+        },
+        {
+          "q": "The Comptroller and Auditor General (CAG) audits the accounts of both the Union and the State governments. This illustrates which characteristic of Indian federalism?",
+          "o": [
+            "Federal feature of division of powers",
+            "Unitary feature of integrated audit machinery",
+            "Judicial independence",
+            "Bicameral legislature"
+          ],
+          "a": 1,
+          "e": "The <b>CAG</b> provides a single, integrated audit machinery for both Union and State accounts, reflecting a centralizing, unitary tendency in the Constitution."
+        },
+        {
+          "q": "Consider the following statements: 1. The Election Commission of India conducts elections to both Parliament and State Legislatures. 2. Each State in India has its own separate election machinery independent of the Centre. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "India has a <b>single, unified Election Commission</b> conducting elections to Parliament and State Legislatures alike, a unitary feature since federations usually have separate state-level election bodies."
+        },
+        {
+          "q": "Under Article 249, the Rajya Sabha can empower Parliament to legislate on a matter in the State List. This requires which condition?",
+          "o": [
+            "A resolution supported by not less than two-thirds of members present and voting, in the national interest",
+            "Unanimous consent of all States",
+            "A Presidential Proclamation of Emergency",
+            "Approval of the Supreme Court"
+          ],
+          "a": 0,
+          "e": "<b>Article 249</b> allows the Rajya Sabha to pass a resolution by a <b>two-thirds majority</b> of members present and voting, declaring it necessary in the national interest for Parliament to legislate on a State List subject."
+        },
+        {
+          "q": "Which statement correctly describes the tenure of a State Governor under the Constitution?",
+          "o": [
+            "The Governor holds office during the pleasure of the President",
+            "The Governor is elected directly by the people of the State",
+            "The Governor's tenure is fixed and cannot be curtailed",
+            "The Governor is appointed by the State Legislature"
+          ],
+          "a": 0,
+          "e": "The Governor is appointed by and holds office during the <b>pleasure of the President</b> (Article 156), reflecting the Centre's control over state executives, a unitary feature."
+        },
+        {
+          "q": "Under Articles 200 and 201, a Governor may reserve a State Bill for consideration of the President. This provision illustrates which feature of Indian federalism?",
+          "o": [
+            "Federal feature of state autonomy",
+            "Unitary feature of central control over state legislation",
+            "Judicial review",
+            "Concurrent jurisdiction"
+          ],
+          "a": 1,
+          "e": "The power to reserve bills for the <b>President's consideration</b>, who may even withhold assent, allows Central oversight over State legislation, a unitary-centralizing feature."
+        },
+        {
+          "q": "Consider the following statements regarding the Concurrent List: 1. Both Parliament and State Legislatures can make laws on subjects in the Concurrent List. 2. In case of a conflict between a Union law and a State law on the same Concurrent List subject, the Union law generally prevails. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the <b>Concurrent List</b> permits legislation by both levels of government, and under <b>Article 254</b>, Union law generally prevails over State law in case of repugnancy."
+        },
+        {
+          "q": "The 'supremacy of the Constitution' as a federal feature in India means which of the following?",
+          "o": [
+            "Parliament can override the Constitution through ordinary legislation",
+            "All laws made by the Union and States must conform to the Constitution",
+            "Only the Supreme Court is bound by the Constitution",
+            "The Constitution can be amended by any State Legislature alone"
+          ],
+          "a": 1,
+          "e": "Supremacy of the Constitution means that <b>all laws</b> enacted by the Union and State legislatures must conform to the Constitution, which is the supreme law of the land, a key federal feature."
+        },
+        {
+          "q": "Which combination best explains why the Indian Constitution is regarded as being partly rigid and partly flexible?",
+          "o": [
+            "All provisions require ratification by half the States",
+            "Some provisions can be amended by simple majority, others need special majority with State ratification",
+            "No provision of the Constitution can ever be amended",
+            "Only the judiciary can amend the Constitution"
+          ],
+          "a": 1,
+          "e": "Certain provisions can be amended by a <b>simple majority</b>, others by a <b>special majority</b>, and federal provisions additionally require ratification by at least half the State legislatures, making the Constitution a blend of flexibility and rigidity."
+        },
+        {
+          "q": "Bicameralism in the Indian Parliament, with the Rajya Sabha representing the states, is regarded as a federal feature. Which statement about its representation is correct?",
+          "o": [
+            "All States have equal representation in the Rajya Sabha",
+            "Representation in the Rajya Sabha is based on the population of States",
+            "The Rajya Sabha has no role in law-making",
+            "Rajya Sabha members are nominated only by the Governors"
+          ],
+          "a": 1,
+          "e": "Unlike the US Senate where states have equal representation, seats in the <b>Rajya Sabha</b> are allocated based on the <b>population</b> of States, a feature unique to India's federal design."
+        },
+        {
+          "q": "Which of the following best describes the nature of the judiciary under the Indian Constitution?",
+          "o": [
+            "Dual judiciary with separate Union and State court systems",
+            "Single, integrated judiciary enforcing both Union and State laws",
+            "No judiciary at the State level",
+            "Judiciary controlled entirely by State legislatures"
+          ],
+          "a": 1,
+          "e": "India has a <b>single integrated judicial system</b> headed by the Supreme Court, which enforces both Union and State laws, unlike the dual judiciary of federations like the USA."
+        },
+        {
+          "q": "The Sarkaria Commission was constituted in 1983 primarily to examine which issue?",
+          "o": [
+            "Reorganization of States on linguistic lines",
+            "Centre-State relations",
+            "Electoral reforms",
+            "Judicial appointments"
+          ],
+          "a": 1,
+          "e": "The <b>Sarkaria Commission (1983)</b> was set up to examine and recommend changes in <b>Centre-State relations</b> within the framework of the Constitution."
+        },
+        {
+          "q": "Dr. B.R. Ambedkar explained the choice of the phrase 'Union of States' rather than 'Federation of States' in Article 1 mainly to convey which idea?",
+          "o": [
+            "That India's federation is a result of an agreement among States and States can secede",
+            "That the Indian federation is not the result of an agreement among States and no State has the right to secede",
+            "That India has no States at all",
+            "That States are more powerful than the Union"
+          ],
+          "a": 1,
+          "e": "Ambedkar clarified that the term 'Union' signifies that the Indian federation is not a result of an <b>agreement between States</b>, and no State has the right to <b>secede</b> from it, unlike some other federations."
+        },
+        {
+          "q": "Which of the following combinations correctly presents features that make the Indian Constitution 'quasi-federal'?",
+          "o": [
+            "Division of powers and independent judiciary alone, with no unitary features",
+            "A federal structure combined with strong unitary features like emergency provisions and single citizenship",
+            "Complete absence of any Union List or State List",
+            "States have unrestricted power to secede from the Union"
+          ],
+          "a": 1,
+          "e": "India's Constitution is 'quasi-federal' because it combines <b>federal structural features</b> (division of powers, written Constitution) with strong <b>unitary elements</b> (emergency provisions, single citizenship, appointed Governors), giving it a centralizing bias."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Which scholar described India as a 'federation with a strong centralizing tendency'?",
+          "o": [
+            "Granville Austin",
+            "Ivor Jennings",
+            "K. Santhanam",
+            "D.D. Basu"
+          ],
+          "a": 1,
+          "e": "<b>Ivor Jennings</b> described India as a federation with a strong centralizing tendency, distinct from K.C. Wheare's characterization of it as 'quasi-federal'."
+        },
+        {
+          "q": "Granville Austin used which term to most accurately characterize the actual functioning of Indian federalism, emphasizing collaboration between Union and States?",
+          "o": [
+            "Quasi-federalism",
+            "Cooperative federalism",
+            "Dual federalism",
+            "Competitive federalism"
+          ],
+          "a": 1,
+          "e": "<b>Granville Austin</b> described the Indian federal system as <b>'cooperative federalism'</b>, highlighting the spirit of collaboration between the Union and the States rather than rigid separation of powers."
+        },
+        {
+          "q": "D.D. Basu characterized the Indian Constitution as neither purely federal nor purely unitary, but as which of the following?",
+          "o": [
+            "A confederation of sovereign States",
+            "A combination of federal and unitary features suited to India's needs",
+            "A purely presidential system",
+            "A monarchy with federal trappings"
+          ],
+          "a": 1,
+          "e": "<b>D.D. Basu</b> held that the Indian Constitution is a <b>combination of both federal and unitary features</b>, designed to suit the peculiar needs of a large and diverse country."
+        },
+        {
+          "q": "The Punchhi Commission on Centre-State relations was constituted years after the Sarkaria Commission mainly to address which development?",
+          "o": [
+            "New and emerging issues in Centre-State relations that had arisen since the Sarkaria Commission's report",
+            "The abolition of the Rajya Sabha",
+            "The merger of Union and State Lists",
+            "The removal of the Governor's office"
+          ],
+          "a": 0,
+          "e": "The <b>Punchhi Commission</b> was set up to examine new dimensions and challenges in Centre-State relations that had emerged since the <b>Sarkaria Commission's</b> earlier recommendations."
+        },
+        {
+          "q": "Under Article 3, before Parliament passes a law to form a new State or alter boundaries, what role does the concerned State Legislature play?",
+          "o": [
+            "Its consent is mandatory and binding on Parliament",
+            "It must be consulted, but its views are not binding on Parliament",
+            "It can veto the Bill by a simple majority",
+            "It has no role whatsoever, not even to be informed"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 3</b>, the Bill must be referred by the President to the concerned State Legislature to ascertain its views within a specified period, but these views are <b>not binding</b> on Parliament, illustrating a strong unitary bias."
+        },
+        {
+          "q": "During a Proclamation of National Emergency under Article 352, which of the following changes occurs in Centre-State relations?",
+          "o": [
+            "States gain complete legislative independence from the Union",
+            "The federal structure effectively transforms into a unitary one, with Parliament empowered to legislate on State List subjects",
+            "The Rajya Sabha is dissolved",
+            "State Governors are removed from office automatically"
+          ],
+          "a": 1,
+          "e": "During a <b>National Emergency (Article 352)</b>, Parliament is empowered to legislate on subjects in the State List for the whole or part of India, effectively converting the federal system into a <b>unitary</b> one temporarily."
+        },
+        {
+          "q": "President's Rule under Article 356 in a State results in which of the following?",
+          "o": [
+            "The President assumes the functions of the State government and the State Legislature's powers are exercised by or under the authority of Parliament",
+            "The State Governor becomes independent of the Union",
+            "The State's High Court is abolished",
+            "The State List is merged permanently into the Union List"
+          ],
+          "a": 0,
+          "e": "Under <b>Article 356</b> (President's Rule), the President assumes the functions of the State Government, and the powers of the State Legislature are exercised by or under the authority of Parliament, temporarily converting the polity from federal to unitary."
+        },
+        {
+          "q": "A Proclamation of Financial Emergency under Article 360 primarily allows the Union to do which of the following?",
+          "o": [
+            "Give directions to States for reduction of salaries and financial propriety, and reserve Money Bills for Presidential consideration",
+            "Dissolve the Supreme Court",
+            "Abolish the Election Commission",
+            "Nationalize all private property without compensation"
+          ],
+          "a": 0,
+          "e": "Under <b>Article 360</b>, the Union can direct States to observe financial propriety, including reduction of salaries, and can require that Money Bills or other financial Bills be reserved for the President's consideration."
+        },
+        {
+          "q": "Which committee/individual is particularly associated with highlighting problems in Centre-State financial relations in India, distinct from the Sarkaria and Punchhi Commissions?",
+          "o": [
+            "K. Santhanam",
+            "K.C. Wheare",
+            "Ivor Jennings",
+            "B.N. Rau"
+          ],
+          "a": 0,
+          "e": "<b>K. Santhanam</b> is known for his work highlighting issues in <b>Centre-State financial relations</b> in India, contributing to the broader discourse on fiscal federalism alongside the Sarkaria and Punchhi Commissions."
+        },
+        {
+          "q": "The framers of the Constitution deliberately avoided the term 'Federation' in favour of 'Union' in Article 1 mainly for which reason?",
+          "o": [
+            "To emphasize that the Indian federation is a product of an agreement among States who can withdraw from it",
+            "To indicate that the federation is not the result of an agreement, and no State has the right to secede from it",
+            "Because India was originally a unitary state with no Constitution",
+            "Because 'Union' implies greater state autonomy than 'Federation'"
+          ],
+          "a": 1,
+          "e": "The word 'Union' was chosen to convey that the Indian Federation is not a result of an <b>agreement among the States</b> and, unlike some federations, no State has the right to <b>secede</b> from the Union."
+        },
+        {
+          "q": "Which of the following correctly matches the scholar with the term they used to characterize Indian federalism?",
+          "o": [
+            "K.C. Wheare - 'Cooperative federalism'; Granville Austin - 'Quasi-federal'",
+            "K.C. Wheare - 'Quasi-federal'; Granville Austin - 'Cooperative federalism'",
+            "Ivor Jennings - 'Cooperative federalism'; K.C. Wheare - 'Centralizing tendency'",
+            "Granville Austin - 'Dual federalism'; Ivor Jennings - 'Quasi-federal'"
+          ],
+          "a": 1,
+          "e": "<b>K.C. Wheare</b> termed India's Constitution 'quasi-federal', while <b>Granville Austin</b> described its actual functioning as 'cooperative federalism', emphasizing collaborative Centre-State relations."
+        },
+        {
+          "q": "Which of the following best explains why India does not follow dual judiciary despite having a federal distribution of powers?",
+          "o": [
+            "To ensure uniform interpretation of laws and avoid conflicting judgments across the country under one apex court",
+            "Because States are not allowed to have their own laws",
+            "Because the Constitution prohibits High Courts in the States",
+            "Because judicial appointments are made only by State Governments"
+          ],
+          "a": 0,
+          "e": "India adopted a <b>single integrated judiciary</b> with the Supreme Court at the apex to ensure uniform interpretation of laws and consistency, avoiding the complications of a dual judiciary as seen in the USA."
+        },
+        {
+          "q": "Under Article 249, once the Rajya Sabha passes a resolution authorizing Parliament to legislate on a State subject, how long does such a resolution remain in force?",
+          "o": [
+            "Permanently, until repealed by the State Legislature",
+            "For a maximum of one year at a time, though it can be renewed by successive resolutions",
+            "For exactly five years, coinciding with Lok Sabha's term",
+            "Indefinitely, with no need for renewal"
+          ],
+          "a": 1,
+          "e": "A resolution under <b>Article 249</b> remains in force for a maximum of <b>one year</b> at a time, though it may be renewed for further periods of one year each by passing similar resolutions."
+        },
+        {
+          "q": "The existence of All-India Services (such as IAS and IPS), common to the Union and States, is often cited as evidence of which underlying tendency in the Indian Constitution?",
+          "o": [
+            "A tendency toward complete State autonomy in administration",
+            "A centralizing tendency that dilutes strict federal separation of administrative personnel",
+            "Abolition of the State Public Service Commissions",
+            "Removal of the Union Public Service Commission's role"
+          ],
+          "a": 1,
+          "e": "The <b>All-India Services</b>, recruited and controlled partly by the Union but serving in the States, exemplify a <b>centralizing tendency</b>, since in a strict federation administrative personnel would typically be exclusive to each level of government."
+        },
+        {
+          "q": "Which of the following statements about the classification of Indian federalism is most accurate as per mainstream scholarly consensus?",
+          "o": [
+            "India is a strict federation identical in structure to the United States",
+            "India is best described as 'quasi-federal', combining federal form with a unitary spirit and strong centralizing tendencies",
+            "India is a purely unitary state with no distribution of powers",
+            "India is a confederation where States retain sovereignty and can secede"
+          ],
+          "a": 1,
+          "e": "Mainstream scholarship, following <b>K.C. Wheare</b> and others, describes India as <b>'quasi-federal'</b>, federal in structure and form, but with a unitary spirit and pronounced centralizing tendencies built into the Constitution."
+        }
+      ]
+    }
+  }
+]

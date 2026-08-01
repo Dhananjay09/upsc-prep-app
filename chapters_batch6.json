@@ -1,0 +1,3558 @@
+[
+  {
+    "id": "municipalities",
+    "title": "Municipalities",
+    "desc": "74th Amendment, Part IXA and urban local governance",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Constitutional Amendment Act gave constitutional status to urban local bodies (municipalities)?",
+          "o": [
+            "73rd Amendment Act, 1992",
+            "74th Amendment Act, 1992",
+            "42nd Amendment Act, 1976",
+            "61st Amendment Act, 1988"
+          ],
+          "a": 1,
+          "e": "The <b>74th Constitutional Amendment Act, 1992</b> added Part IXA and the Twelfth Schedule dealing with municipalities."
+        },
+        {
+          "q": "On which date did the 74th Constitutional Amendment Act, 1992 come into force?",
+          "o": [
+            "26 January 1993",
+            "24 April 1993",
+            "1 June 1993",
+            "15 August 1993"
+          ],
+          "a": 2,
+          "e": "The 74th Amendment came into force on <b>1 June 1993</b>, a few weeks after the 73rd Amendment (24 April 1993) relating to Panchayats."
+        },
+        {
+          "q": "Municipalities are dealt with under which Part of the Constitution?",
+          "o": [
+            "Part IX",
+            "Part IXA",
+            "Part XIV",
+            "Part XII"
+          ],
+          "a": 1,
+          "e": "The 74th Amendment inserted <b>Part IXA</b>, titled 'The Municipalities', into the Constitution."
+        },
+        {
+          "q": "Part IXA of the Constitution spans which range of Articles?",
+          "o": [
+            "243 to 243O",
+            "243A to 243O",
+            "243P to 243ZG",
+            "243ZH to 243ZT"
+          ],
+          "a": 2,
+          "e": "Part IXA covers <b>Articles 243P to 243ZG</b>, dealing with definitions, types of municipalities, their powers, finances and elections."
+        },
+        {
+          "q": "Which Schedule was added to the Constitution by the 74th Amendment Act?",
+          "o": [
+            "Eleventh Schedule",
+            "Twelfth Schedule",
+            "Tenth Schedule",
+            "Ninth Schedule"
+          ],
+          "a": 1,
+          "e": "The <b>Twelfth Schedule</b>, referred to in Article 243W, lists functional items that may be entrusted to municipalities."
+        },
+        {
+          "q": "How many functional items are listed in the Twelfth Schedule?",
+          "o": [
+            "29",
+            "18",
+            "12",
+            "22"
+          ],
+          "a": 1,
+          "e": "The Twelfth Schedule contains <b>18 items</b>, including urban planning, water supply, sanitation and slum improvement."
+        },
+        {
+          "q": "Which Article of the Constitution provides for the constitution of three types of municipalities?",
+          "o": [
+            "243Q",
+            "243R",
+            "243T",
+            "243P"
+          ],
+          "a": 0,
+          "e": "<b>Article 243Q</b> provides for constitution of Nagar Panchayats, Municipal Councils and Municipal Corporations."
+        },
+        {
+          "q": "A 'Nagar Panchayat' is constituted for which kind of area?",
+          "o": [
+            "A larger urban area",
+            "A smaller urban area",
+            "An area in transition from a rural to an urban area",
+            "A metropolitan area"
+          ],
+          "a": 2,
+          "e": "Under Article 243Q, a <b>Nagar Panchayat</b> is set up for an area in transition from rural to urban."
+        },
+        {
+          "q": "A 'Municipal Corporation' under Article 243Q is constituted for which kind of area?",
+          "o": [
+            "A larger urban area",
+            "A smaller urban area",
+            "A transitional area",
+            "A cantonment area"
+          ],
+          "a": 0,
+          "e": "Article 243Q provides for a <b>Municipal Corporation</b> for a larger urban area, based on population and other factors."
+        },
+        {
+          "q": "Which Article provides for the constitution of Wards Committees in municipalities?",
+          "o": [
+            "243S",
+            "243T",
+            "243U",
+            "243V"
+          ],
+          "a": 0,
+          "e": "<b>Article 243S</b> provides for Wards Committees consisting of one or more wards, in municipalities with a specified population."
+        },
+        {
+          "q": "Wards Committees under Article 243S are mandatory for municipalities with a population of what minimum size?",
+          "o": [
+            "1 lakh or more",
+            "3 lakh or more",
+            "5 lakh or more",
+            "10 lakh or more"
+          ],
+          "a": 1,
+          "e": "Article 243S requires Wards Committees to be constituted in municipalities having a population of <b>three lakh or more</b>."
+        },
+        {
+          "q": "Which Article provides for the constitution of a District Planning Committee?",
+          "o": [
+            "243ZD",
+            "243ZE",
+            "243ZC",
+            "243ZA"
+          ],
+          "a": 0,
+          "e": "<b>Article 243ZD</b> mandates a District Planning Committee to consolidate plans prepared by Panchayats and Municipalities in the district."
+        },
+        {
+          "q": "Which Article provides for a Metropolitan Planning Committee?",
+          "o": [
+            "243ZC",
+            "243ZD",
+            "243ZE",
+            "243ZF"
+          ],
+          "a": 2,
+          "e": "<b>Article 243ZE</b> provides for a Metropolitan Planning Committee for every metropolitan area."
+        },
+        {
+          "q": "A 'Metropolitan area' under the 74th Amendment refers to an area with what minimum population?",
+          "o": [
+            "5 lakh or more",
+            "10 lakh or more",
+            "15 lakh or more",
+            "20 lakh or more"
+          ],
+          "a": 1,
+          "e": "Article 243P(c) defines a metropolitan area as one with a population of <b>ten lakh or more</b>, comprising one or more districts."
+        },
+        {
+          "q": "Which Article deals with reservation of seats for Scheduled Castes, Scheduled Tribes and women in municipalities?",
+          "o": [
+            "243D",
+            "243T",
+            "243Y",
+            "243ZA"
+          ],
+          "a": 1,
+          "e": "<b>Article 243T</b> provides for reservation of seats for SCs, STs and women (not less than one-third) in municipalities."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements about the three types of municipalities under Article 243Q:\n1. A Municipal Council is constituted for a smaller urban area.\n2. A Nagar Panchayat is constituted for a larger urban area.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Only statement 1 is correct; a <b>Nagar Panchayat</b> is for a transitional (not larger urban) area, while a <b>Municipal Corporation</b> covers larger urban areas."
+        },
+        {
+          "q": "Consider the following statements regarding reservation under Article 243T:\n1. Not less than one-third of the total seats are reserved for women.\n2. Reservation for backward classes of citizens may be provided by the State Legislature.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Article 243T mandates <b>not less than one-third</b> reservation for women (including SC/ST women) and empowers state legislatures to provide reservation for <b>backward classes</b>, unlike the mandatory SC/ST reservation."
+        },
+        {
+          "q": "Which of the following bodies is exempted from the application of Part IXA of the Constitution?",
+          "o": [
+            "Municipal Corporations",
+            "Nagar Panchayats",
+            "Cantonment Boards",
+            "Municipal Councils"
+          ],
+          "a": 2,
+          "e": "Under the proviso to Article 243Q, industrial townships may be excluded, and <b>Cantonment Boards</b> constituted under the Cantonments Act are also outside the scope of Part IXA."
+        },
+        {
+          "q": "Which Article empowers the State Legislature to entrust powers of tax collection and fund constitution to municipalities?",
+          "o": [
+            "243W",
+            "243X",
+            "243Y",
+            "243Z"
+          ],
+          "a": 1,
+          "e": "<b>Article 243X</b> deals with power to impose taxes and constitution of funds by municipalities, distinct from 243W (functional devolution)."
+        },
+        {
+          "q": "Consider the following statements about the State Finance Commission under Article 243Y:\n1. It is constituted afresh separately for Panchayats and Municipalities.\n2. Its recommendations cover both Panchayats and Municipalities.\nWhich of the statements given above is correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The same State Finance Commission, constituted under Article 243-I, reviews the financial position of <b>both Panchayats and Municipalities</b> under Article 243Y."
+        },
+        {
+          "q": "Article 243ZF, dealing with continuance of existing laws relating to municipalities, provides that such laws continue until amended or repealed, or until the expiration of what period from commencement of the Act, whichever is earlier?",
+          "o": [
+            "Six months",
+            "One year",
+            "Two years",
+            "Five years"
+          ],
+          "a": 1,
+          "e": "Article 243ZF allowed existing municipal laws inconsistent with Part IXA to continue for a maximum of <b>one year</b> from commencement (i.e., till 1 June 1994) unless amended earlier."
+        },
+        {
+          "q": "Which Article makes Part IXA applicable to Union Territories?",
+          "o": [
+            "243ZA",
+            "243ZB",
+            "243ZC",
+            "243ZD"
+          ],
+          "a": 1,
+          "e": "<b>Article 243ZB</b> extends Part IXA to Union Territories, subject to exceptions and modifications the President may specify."
+        },
+        {
+          "q": "Which of the following functions is included in the Twelfth Schedule?",
+          "o": [
+            "Regulation of slaughter houses and tanneries",
+            "Administration of criminal justice",
+            "Recruitment to All India Services",
+            "Foreign trade policy"
+          ],
+          "a": 0,
+          "e": "The Twelfth Schedule includes <b>regulation of slaughter houses and tanneries</b> among its 18 functional items entrusted to municipalities."
+        },
+        {
+          "q": "Consider the following statements on the Metropolitan Planning Committee (MPC):\n1. It prepares a draft development plan for the metropolitan area as a whole.\n2. Its composition is entirely nominated by the Governor.\nWhich of the statements given above is correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Under Article 243ZE, the MPC prepares a draft development plan; not less than two-thirds of its members are <b>elected</b> by elected members of municipalities and panchayats in the metropolitan area, not nominated."
+        },
+        {
+          "q": "Which Article vests the superintendence, direction and control of preparation of electoral rolls and conduct of elections to municipalities in the State Election Commission?",
+          "o": [
+            "243K",
+            "243ZA",
+            "324",
+            "243ZG"
+          ],
+          "a": 1,
+          "e": "<b>Article 243ZA</b> vests the superintendence, direction and control of elections to municipalities in the State Election Commission, on lines similar to Article 243K for Panchayats."
+        },
+        {
+          "q": "Consider the following statements:\n1. The 73rd and 74th Amendment Acts were both enacted in 1992.\n2. Both Acts came into force on the same date.\nWhich of the statements given above is correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Both amendments were passed in <b>1992</b>, but the 73rd Amendment (Panchayats) came into force on 24 April 1993 while the 74th Amendment (Municipalities) came into force on <b>1 June 1993</b> — different dates."
+        },
+        {
+          "q": "What is the normal duration of a municipality once constituted, under Article 243U?",
+          "o": [
+            "3 years",
+            "5 years",
+            "6 years",
+            "No fixed term"
+          ],
+          "a": 1,
+          "e": "Article 243U provides that every municipality, unless dissolved earlier, continues for <b>five years</b> from its first meeting."
+        },
+        {
+          "q": "Consider the following statements regarding the District Planning Committee (DPC) under Article 243ZD:\n1. It consolidates plans prepared by Panchayats and Municipalities in the district.\n2. Not less than four-fifths of its members are elected by elected members of district-level Panchayats and Municipalities.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements correctly describe the DPC under <b>Article 243ZD</b>, which prepares a consolidated draft development plan for the district."
+        },
+        {
+          "q": "Which of the following is NOT among the 18 items listed in the Twelfth Schedule?",
+          "o": [
+            "Urban forestry, protection of environment",
+            "Urban poverty alleviation",
+            "National highway maintenance",
+            "Slum improvement and upgradation"
+          ],
+          "a": 2,
+          "e": "<b>National highway maintenance</b> is a Union subject and does not figure among the 18 functional items in the Twelfth Schedule assigned to municipalities."
+        },
+        {
+          "q": "Consider the following statements about Article 243Q:\n1. The Governor may specify an industrial township as exempt from constituting a municipality.\n2. This exemption applies where adequate municipal services are provided by an industrial establishment.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The proviso to <b>Article 243Q</b> allows the Governor, by public notification, to exempt an industrial township providing adequate municipal infrastructure from having a municipality."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "In Kishansingh Tomar v Municipal Corporation of the City of Ahmedabad (2006), the Supreme Court held that:",
+          "o": [
+            "Elections to municipalities must be completed before expiry of the five-year term",
+            "Municipal Corporations can be dissolved without fresh elections indefinitely",
+            "State Election Commissioners can be removed by the State Government",
+            "Municipal reservation for women is unconstitutional"
+          ],
+          "a": 0,
+          "e": "In <b>Kishansingh Tomar v Municipal Corporation of the City of Ahmedabad (2006)</b>, the Supreme Court held that the constitutional mandate under Articles 243U and 243ZA requires timely elections before the term of a municipality expires."
+        },
+        {
+          "q": "The 'Nagarpalika Bill' that preceded the 74th Constitutional Amendment failed to secure the required majority in which House in 1989?",
+          "o": [
+            "Lok Sabha",
+            "Rajya Sabha",
+            "Both Houses",
+            "State Legislative Councils"
+          ],
+          "a": 1,
+          "e": "The 65th Constitutional Amendment Bill, 1989 (Nagarpalika Bill), passed the Lok Sabha but failed to get the required two-thirds majority in the <b>Rajya Sabha</b>; it was later revived as the 74th Amendment in 1992."
+        },
+        {
+          "q": "In K. Krishna Murthy v Union of India (2010), the Supreme Court, while upholding reservation in local bodies, held that:",
+          "o": [
+            "Reservation for backward classes in local bodies requires prior empirical inquiry into backwardness",
+            "SC/ST reservation in municipalities is unconstitutional",
+            "Women's reservation cannot exceed 20 percent",
+            "Local body elections must be postponed until reservation is settled"
+          ],
+          "a": 0,
+          "e": "In <b>K. Krishna Murthy v Union of India (2010)</b>, a Constitution Bench upheld reservation under Articles 243D and 243T but held that reservation for backward classes requires a rigorous empirical inquiry and must not push total reservation beyond 50 percent."
+        },
+        {
+          "q": "The 'triple test' for providing political reservation to backward classes in local bodies (empirical inquiry, proportionality, and the 50% ceiling) was elaborated by the Supreme Court in which case?",
+          "o": [
+            "Indra Sawhney v Union of India",
+            "Vikas Kishanrao Gawali v State of Maharashtra (2021)",
+            "Kesavananda Bharati v State of Kerala",
+            "S.R. Bommai v Union of India"
+          ],
+          "a": 1,
+          "e": "In <b>Vikas Kishanrao Gawali v State of Maharashtra (2021)</b>, the Supreme Court reiterated the triple-test conditions before local bodies (panchayats/municipalities) can reserve seats for backward classes."
+        },
+        {
+          "q": "Which Article bars courts from interfering in electoral matters relating to municipalities, similar to Article 243-O for Panchayats?",
+          "o": [
+            "243ZF",
+            "243ZG",
+            "243ZA",
+            "329"
+          ],
+          "a": 1,
+          "e": "<b>Article 243ZG</b> bars interference by courts in matters relating to delimitation and allotment of seats, and provides that election disputes go only through an election petition."
+        },
+        {
+          "q": "Which Article of the Constitution excludes Part IXA's application from Scheduled Areas and tribal areas referred to in the Fifth and Sixth Schedules, unless Parliament extends it by law?",
+          "o": [
+            "243ZB",
+            "243ZC",
+            "243ZD",
+            "243ZA"
+          ],
+          "a": 1,
+          "e": "<b>Article 243ZC</b> excludes Scheduled Areas and tribal areas (Fifth and Sixth Schedule areas) from Part IXA, though Parliament may extend the Part with exceptions and modifications."
+        },
+        {
+          "q": "Article 243P(a) defines a 'Committee' under Part IXA to mean:",
+          "o": [
+            "The Metropolitan Planning Committee",
+            "The District Planning Committee",
+            "A Wards Committee constituted under Article 243S",
+            "The State Finance Commission"
+          ],
+          "a": 2,
+          "e": "Article 243P(a) defines 'Committee' to mean a <b>Wards Committee</b> constituted under Article 243S."
+        },
+        {
+          "q": "Which of the following correctly distinguishes the reservation scheme of Article 243T from Article 243D?",
+          "o": [
+            "243T applies to Panchayats and 243D to Municipalities",
+            "243T applies to Municipalities and 243D to Panchayats, but both follow a similar pattern of SC/ST and women's reservation",
+            "243D allows reservation only for women, not SC/ST",
+            "243T does not provide for women's reservation at all"
+          ],
+          "a": 1,
+          "e": "<b>Article 243D</b> governs reservation in Panchayats while <b>Article 243T</b> governs reservation in Municipalities; both follow a parallel scheme reserving seats for SC/ST in proportion to population and not less than one-third for women."
+        },
+        {
+          "q": "Under Article 243T(6), which of the following statements about reservation for backward classes of citizens is accurate?",
+          "o": [
+            "It is mandatory in every State",
+            "It is an enabling provision left to the discretion of the State Legislature",
+            "It applies only to Union Territories",
+            "It was struck down by the Supreme Court as unconstitutional"
+          ],
+          "a": 1,
+          "e": "Article 243T(6) is an <b>enabling provision</b> — the State Legislature 'may' provide reservation for backward classes, unlike the mandatory SC/ST reservation under 243T(1) and (2)."
+        },
+        {
+          "q": "Seats reserved for SCs, STs and women under Article 243T are required to be allotted, as far as practicable, by which method to different constituencies in a municipality?",
+          "o": [
+            "Permanent allotment",
+            "Rotation",
+            "Auction",
+            "Nomination by the Governor"
+          ],
+          "a": 1,
+          "e": "Article 243T(5) provides that reserved seats shall be allotted by <b>rotation</b> to different constituencies in a municipality, similar to the scheme for Panchayats."
+        },
+        {
+          "q": "Which constitutional provision empowers the Union Finance Commission to recommend measures needed to supplement the resources of municipalities, based on State Finance Commission recommendations?",
+          "o": [
+            "Article 280(3)",
+            "Article 243Y",
+            "Article 275",
+            "Article 282"
+          ],
+          "a": 0,
+          "e": "<b>Article 280(3)</b> requires the Union Finance Commission to recommend measures to augment the Consolidated Fund of a State to supplement resources of municipalities, based on State Finance Commission recommendations under Article 243Y."
+        },
+        {
+          "q": "The provisions of Part IXA relating to reservation of seats for Scheduled Tribes shall cease to have effect in which of the following?",
+          "o": [
+            "Uttar Pradesh",
+            "States where the STs have no representation in the State Legislative Assembly",
+            "Kerala",
+            "Delhi"
+          ],
+          "a": 1,
+          "e": "Article 243T(3)'s proviso clarifies that ST reservation shall not apply in a municipality of a State/UT where the Scheduled Tribes have no representation in the Legislative Assembly of that State or in the Legislature of that Union Territory."
+        },
+        {
+          "q": "Which of the following best explains why the 74th Amendment does not fully apply to hill areas of certain North-Eastern States having District Councils?",
+          "o": [
+            "Because Article 243ZC exempts Sixth Schedule tribal areas from Part IXA",
+            "Because those areas have no urban population",
+            "Because those States are outside Indian territory for constitutional purposes",
+            "Because Article 243Q specifically excludes the North-East"
+          ],
+          "a": 0,
+          "e": "<b>Article 243ZC</b> excludes Sixth Schedule tribal areas (which have their own District/Regional Councils) from the direct application of Part IXA."
+        },
+        {
+          "q": "Comparing the 73rd and 74th Amendments, which of the following is a key structural similarity?",
+          "o": [
+            "Both created a State Election Commission and a State Finance Commission mechanism applicable to their respective local bodies",
+            "Both apply exclusively to metropolitan cities",
+            "Both were passed under Article 368 without state ratification",
+            "Both abolished the Panchayat system"
+          ],
+          "a": 0,
+          "e": "Both amendments rely on a common institutional design — a <b>State Election Commission</b> (Articles 243K/243ZA) and a common <b>State Finance Commission</b> (Articles 243-I/243Y) — reflecting their parallel drafting."
+        },
+        {
+          "q": "Which of the following statements about Article 243ZF (continuance of existing laws) is correct?",
+          "o": [
+            "It automatically repealed all pre-1993 municipal laws immediately",
+            "It allowed existing municipal laws inconsistent with Part IXA to continue for up to one year or until amended, whichever is earlier",
+            "It applies only to laws made after 1993",
+            "It gave permanent immunity to pre-1993 municipal laws from amendment"
+          ],
+          "a": 1,
+          "e": "<b>Article 243ZF</b> is a transitional/sunset provision allowing pre-existing municipal laws inconsistent with Part IXA to continue for a maximum of one year from commencement or until amended/repealed by the competent legislature."
+        }
+      ]
+    }
+  },
+  {
+    "id": "election_commission",
+    "title": "Election Commission",
+    "desc": "Article 324, appointment, powers and landmark rulings",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Article of the Constitution vests the superintendence, direction and control of elections in the Election Commission?",
+          "o": [
+            "Article 320",
+            "Article 324",
+            "Article 356",
+            "Article 280"
+          ],
+          "a": 1,
+          "e": "<b>Article 324</b> vests the superintendence, direction and control of the preparation of electoral rolls and conduct of elections to Parliament, State Legislatures, and the offices of President and Vice-President in the Election Commission."
+        },
+        {
+          "q": "The Election Commission of India consists of the Chief Election Commissioner and:",
+          "o": [
+            "Exactly two other Election Commissioners always",
+            "Such number of other Election Commissioners as the President may from time to time fix",
+            "No other members",
+            "Representatives of all recognised political parties"
+          ],
+          "a": 1,
+          "e": "Article 324(2) provides that the Commission consists of the CEC and <b>such number of other Election Commissioners, if any, as the President may from time to time fix</b>."
+        },
+        {
+          "q": "On which date was the Election Commission of India established?",
+          "o": [
+            "26 January 1950",
+            "25 January 1950",
+            "15 August 1947",
+            "26 November 1949"
+          ],
+          "a": 1,
+          "e": "The Election Commission of India was established on <b>25 January 1950</b>, a day now observed as National Voters' Day."
+        },
+        {
+          "q": "What is the tenure of the Chief Election Commissioner and other Election Commissioners?",
+          "o": [
+            "5 years or till age 62, whichever is earlier",
+            "6 years or till age 65, whichever is earlier",
+            "6 years with no age limit",
+            "Life tenure"
+          ],
+          "a": 1,
+          "e": "The CEC and other ECs hold office for a term of <b>six years, or until they attain the age of 65 years, whichever is earlier</b>."
+        },
+        {
+          "q": "The Chief Election Commissioner can be removed from office in the same manner as:",
+          "o": [
+            "A Cabinet Minister",
+            "A Judge of the Supreme Court",
+            "A Governor",
+            "A member of the Public Service Commission"
+          ],
+          "a": 1,
+          "e": "Article 324(5) provides that the CEC shall not be removed from office except in like manner and on like grounds as a <b>Judge of the Supreme Court</b>."
+        },
+        {
+          "q": "Other Election Commissioners (besides the CEC) can be removed from office only on the recommendation of:",
+          "o": [
+            "The Prime Minister",
+            "The Chief Election Commissioner",
+            "The Chief Justice of India",
+            "The Leader of Opposition"
+          ],
+          "a": 1,
+          "e": "Under the proviso to Article 324(5), any other Election Commissioner can be removed only on the <b>recommendation of the Chief Election Commissioner</b>."
+        },
+        {
+          "q": "Which Act deals with the actual conduct of elections, administrative machinery and election offences?",
+          "o": [
+            "Representation of the People Act, 1950",
+            "Representation of the People Act, 1951",
+            "Government of India Act, 1935",
+            "Delimitation Act, 2002"
+          ],
+          "a": 1,
+          "e": "The <b>Representation of the People Act, 1951</b> deals with the conduct of elections, disqualifications, election offences and disputes."
+        },
+        {
+          "q": "The Representation of the People Act, 1950 primarily deals with:",
+          "o": [
+            "Registration of political parties",
+            "Allocation of seats and preparation of electoral rolls",
+            "Model Code of Conduct",
+            "Removal of the CEC"
+          ],
+          "a": 1,
+          "e": "The <b>Representation of the People Act, 1950</b> provides for allocation of seats, delimitation of constituencies, and preparation of electoral rolls."
+        },
+        {
+          "q": "Elections to Panchayats and Municipalities are conducted under the superintendence of:",
+          "o": [
+            "The Election Commission of India",
+            "The State Election Commission",
+            "The Delimitation Commission",
+            "The Home Ministry"
+          ],
+          "a": 1,
+          "e": "Local body elections are conducted by the <b>State Election Commission</b> under Articles 243K (Panchayats) and 243ZA (Municipalities), not the Election Commission of India."
+        },
+        {
+          "q": "Electronic Voting Machines (EVMs) derive their legal backing from which provision?",
+          "o": [
+            "Section 29A of the RPA, 1951",
+            "Section 61A of the RPA, 1951",
+            "Article 324 directly",
+            "Section 100 of the RPA, 1951"
+          ],
+          "a": 1,
+          "e": "<b>Section 61A of the Representation of the People Act, 1951</b> gives statutory backing for the use of EVMs in elections."
+        },
+        {
+          "q": "Is the Model Code of Conduct legally enforceable in a court of law?",
+          "o": [
+            "Yes, it is a statute",
+            "No, it is not legally enforceable and is based on consensus among political parties",
+            "Yes, but only during Lok Sabha elections",
+            "No, because it was struck down by the Supreme Court"
+          ],
+          "a": 1,
+          "e": "The <b>Model Code of Conduct</b> has no direct statutory backing; it is enforced through the moral authority of the Election Commission and consensus among political parties."
+        },
+        {
+          "q": "The Chief Election Commissioner and Other Election Commissioners Act was enacted in which year?",
+          "o": [
+            "1991",
+            "2003",
+            "2023",
+            "2019"
+          ],
+          "a": 2,
+          "e": "The <b>Chief Election Commissioner and Other Election Commissioners Act, 2023</b> was enacted, replacing the 1991 Act on conditions of service."
+        },
+        {
+          "q": "The 2023 Act on appointment of the CEC and ECs replaced which earlier legislation?",
+          "o": [
+            "Representation of the People Act, 1951",
+            "Election Commission (Conditions of Service of Election Commissioners and Transaction of Business) Act, 1991",
+            "Delimitation Act, 1952",
+            "Government of India Act, 1935"
+          ],
+          "a": 1,
+          "e": "The 2023 Act replaced the <b>Election Commission (Conditions of Service of Election Commissioners and Transaction of Business) Act, 1991</b>."
+        },
+        {
+          "q": "Delimitation of constituencies is carried out by which body?",
+          "o": [
+            "The Election Commission of India",
+            "The Delimitation Commission, a separate body under the Delimitation Act",
+            "The State Election Commission",
+            "The Law Commission of India"
+          ],
+          "a": 1,
+          "e": "Delimitation is undertaken by a <b>Delimitation Commission</b> constituted under the Delimitation Act, a body distinct from the Election Commission of India."
+        },
+        {
+          "q": "Which of the following elections does the Election Commission of India NOT conduct?",
+          "o": [
+            "Elections to the Lok Sabha",
+            "Elections to State Legislative Assemblies",
+            "Election of the President of India",
+            "Elections to Municipalities and Panchayats"
+          ],
+          "a": 3,
+          "e": "Elections to <b>Municipalities and Panchayats</b> are conducted by State Election Commissions, not the Election Commission of India, which handles Parliament, State Legislatures, and President/Vice-President elections."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the history of the Election Commission's composition:\n1. It was a single-member body from 1950 until October 1989.\n2. It became a multi-member body for the first time on 16 October 1989.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The Commission was a <b>single-member body</b> from 1950 to 15 October 1989; it became <b>multi-member</b> on 16 October 1989 when two additional Election Commissioners were appointed ahead of the 1989 general elections."
+        },
+        {
+          "q": "Consider the following statements:\n1. The two additional Election Commissioner posts created in 1989 were abolished in 1990, making the Commission single-member again.\n2. The Commission became permanently multi-member from 1993 onward.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the posts were abolished in January <b>1990</b>, and the Commission became permanently multi-member again from <b>1 October 1993</b>."
+        },
+        {
+          "q": "Consider the following statements about decision-making in the Election Commission:\n1. The Chief Election Commissioner has a veto over decisions of other Election Commissioners.\n2. Decisions of the Commission are taken by majority, as clarified by the Supreme Court.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The Supreme Court clarified that the CEC has no veto and is not superior in decision-making; decisions of the multi-member Commission are taken by <b>majority</b>."
+        },
+        {
+          "q": "As per the Chief Election Commissioner and Other Election Commissioners Act, 2023, the Selection Committee for appointing the CEC and ECs comprises the Prime Minister, the Leader of Opposition in the Lok Sabha, and:",
+          "o": [
+            "The Chief Justice of India",
+            "A Union Cabinet Minister nominated by the Prime Minister",
+            "The Speaker of the Lok Sabha",
+            "The Vice-President of India"
+          ],
+          "a": 1,
+          "e": "Under the 2023 Act, the Selection Committee comprises the PM (Chairperson), the Leader of Opposition in the Lok Sabha, and a <b>Union Cabinet Minister nominated by the Prime Minister</b>."
+        },
+        {
+          "q": "Consider the following statements on salary and service conditions of Election Commissioners under the 2023 Act:\n1. Their salary is equivalent to that of a Judge of the Supreme Court.\n2. Their conditions of service can be varied to their disadvantage after appointment.\nWhich of the statements given above is correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The salary of the CEC/ECs is equated with that of a <b>Supreme Court Judge</b>; Article 324(5) itself protects conditions of service from being varied to their disadvantage after appointment."
+        },
+        {
+          "q": "The VVPAT (Voter Verifiable Paper Audit Trail) system was introduced into Indian elections through:",
+          "o": [
+            "An amendment to the Constitution",
+            "An amendment to the Conduct of Election Rules, 1961",
+            "A Supreme Court order creating a new statute",
+            "The Delimitation Act"
+          ],
+          "a": 1,
+          "e": "VVPAT was introduced via an amendment to the <b>Conduct of Election Rules, 1961</b>, supplementing the EVM system already backed by Section 61A of the RPA, 1951."
+        },
+        {
+          "q": "The introduction of 'NOTA' (None of the Above) in EVMs followed a Supreme Court directive in which case?",
+          "o": [
+            "ADR v Union of India (2002)",
+            "PUCL v Union of India (2013)",
+            "Kuldip Nayar v Union of India (2006)",
+            "Indira Nehru Gandhi v Raj Narain (1975)"
+          ],
+          "a": 1,
+          "e": "In <b>People's Union for Civil Liberties (PUCL) v Union of India (2013)</b>, the Supreme Court directed the Election Commission to provide a NOTA option to voters."
+        },
+        {
+          "q": "Which Article of the Constitution prohibits discrimination in electoral rolls on grounds of religion, race, caste or sex?",
+          "o": [
+            "Article 324",
+            "Article 325",
+            "Article 326",
+            "Article 329"
+          ],
+          "a": 1,
+          "e": "<b>Article 325</b> provides that no person shall be ineligible for inclusion in an electoral roll, or claim to be included in a special roll, on grounds of religion, race, caste or sex."
+        },
+        {
+          "q": "Which Article provides for elections to the Lok Sabha and State Legislative Assemblies on the basis of adult suffrage?",
+          "o": [
+            "Article 325",
+            "Article 326",
+            "Article 327",
+            "Article 328"
+          ],
+          "a": 1,
+          "e": "<b>Article 326</b> provides for elections on the basis of adult suffrage, with the minimum voting age lowered from 21 to 18 years by the 61st Constitutional Amendment Act, 1988."
+        },
+        {
+          "q": "Which Article bars interference by courts in electoral matters, confining challenges to election petitions only?",
+          "o": [
+            "Article 324",
+            "Article 329",
+            "Article 356",
+            "Article 368"
+          ],
+          "a": 1,
+          "e": "<b>Article 329</b> bars courts from interfering in matters of delimitation or the validity of laws relating to such delimitation, and provides that elections can be questioned only through an election petition."
+        },
+        {
+          "q": "Registration of political parties, including allotment of symbols, is carried out by the Election Commission under which provision?",
+          "o": [
+            "Section 29A of the RPA, 1951",
+            "Section 61A of the RPA, 1951",
+            "Article 324 read with the Conduct of Election Rules only",
+            "Section 8 of the RPA, 1951"
+          ],
+          "a": 0,
+          "e": "<b>Section 29A of the Representation of the People Act, 1951</b> provides for registration of political parties with the Election Commission."
+        },
+        {
+          "q": "Consider the following statements:\n1. The Representation of the People Act, 1950 deals with delimitation and electoral rolls.\n2. The Representation of the People Act, 1951 deals with conduct of elections and election disputes.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements correctly describe the division of subject matter between the <b>1950 Act</b> (rolls, delimitation, seat allocation) and the <b>1951 Act</b> (conduct of elections, offences, disputes)."
+        },
+        {
+          "q": "Consider the following statements about the Election Commission of India:\n1. It is a permanent constitutional body.\n2. It performs only judicial functions.\nWhich of the statements given above is correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The ECI is a <b>permanent constitutional body</b> established under Article 324; it performs administrative, advisory and quasi-judicial functions, not merely judicial ones."
+        },
+        {
+          "q": "Which of the following is a correct comparison of removal procedures under Article 324(5)?",
+          "o": [
+            "Both the CEC and other ECs can only be removed like a Supreme Court Judge",
+            "The CEC can be removed only like a Supreme Court Judge, while other ECs are removed by the President on the CEC's recommendation",
+            "Other ECs can only be removed by Parliamentary impeachment",
+            "Neither the CEC nor other ECs can be removed under any circumstances"
+          ],
+          "a": 1,
+          "e": "Article 324(5) distinguishes the two: the <b>CEC</b> is removable only like a Supreme Court Judge (via Parliamentary address), while <b>other ECs</b> are removable by the President on the CEC's recommendation."
+        },
+        {
+          "q": "Consider the following statements on functions of the Election Commission:\n1. It conducts elections to the office of President and Vice-President.\n2. It conducts elections to Panchayats and Municipalities.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The ECI conducts elections to Parliament, State legislatures, and the offices of <b>President and Vice-President</b> under Article 324; local body elections are the State Election Commission's domain."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "In Mohinder Singh Gill v Chief Election Commissioner (1978), the Supreme Court characterised Article 324 as:",
+          "o": [
+            "A dead letter with no residual power",
+            "A reservoir of power enabling the Commission to act where the law is silent, to ensure free and fair elections",
+            "A provision limited strictly to counting of votes",
+            "Applicable only to Presidential elections"
+          ],
+          "a": 1,
+          "e": "In <b>Mohinder Singh Gill v Chief Election Commissioner (1978)</b>, Justice Krishna Iyer described Article 324 as a 'reservoir of power' allowing the Commission to act to ensure free and fair elections where enacted law makes no adequate provision."
+        },
+        {
+          "q": "In T.N. Seshan v Union of India (1995), the Supreme Court upheld:",
+          "o": [
+            "The single-member structure of the Commission as the only constitutionally valid form",
+            "The validity of the multi-member Commission and majority-based decision making among the CEC and ECs",
+            "The CEC's power to unilaterally overrule other Election Commissioners",
+            "Abolition of the office of Election Commissioners altogether"
+          ],
+          "a": 1,
+          "e": "In <b>T.N. Seshan v Union of India (1995)</b>, the Court upheld the 1993 restructuring into a multi-member Commission and held that the CEC does not have primacy over other ECs in decision-making, which is by majority."
+        },
+        {
+          "q": "In S.S. Dhanoa v Union of India (1991), the Supreme Court dealt with the constitutionality of:",
+          "o": [
+            "The abolition of the two additional Election Commissioner posts in 1990",
+            "The removal of the CEC by impeachment",
+            "The introduction of EVMs",
+            "The Delimitation Act, 1952"
+          ],
+          "a": 0,
+          "e": "In <b>S.S. Dhanoa v Union of India (1991)</b>, the Supreme Court considered the 1990 abolition of the two Election Commissioner posts created in 1989, and held that fixing the Commission's strength under Article 324(2) falls within executive discretion."
+        },
+        {
+          "q": "The Supreme Court's Constitution Bench ruling in Anoop Baranwal v Union of India (2023) held that, pending a law by Parliament, the CEC and ECs should be appointed by a committee comprising the Prime Minister, the Leader of Opposition, and:",
+          "o": [
+            "The Chief Justice of India",
+            "A Union Cabinet Minister",
+            "The Speaker of the Lok Sabha",
+            "The Attorney General"
+          ],
+          "a": 0,
+          "e": "In <b>Anoop Baranwal v Union of India (2023)</b>, a 5-judge Constitution Bench (opinion authored by Justice K.M. Joseph) held that, until Parliament legislates, appointments should be made by a committee of the PM, the Leader of Opposition, and the <b>Chief Justice of India</b>."
+        },
+        {
+          "q": "The CEC and Other ECs Act, 2023, enacted after Anoop Baranwal, differs from the Court's interim arrangement in that it substitutes which member of the selection committee?",
+          "o": [
+            "It replaces the Prime Minister with the Vice-President",
+            "It replaces the Chief Justice of India with a Union Cabinet Minister nominated by the Prime Minister",
+            "It removes the Leader of Opposition entirely",
+            "It adds the Chief Election Commissioner as a member of his own selection committee"
+          ],
+          "a": 1,
+          "e": "While <b>Anoop Baranwal</b> prescribed an interim committee of PM, LoP and CJI, the subsequent 2023 Act replaced the CJI with a <b>Union Cabinet Minister nominated by the Prime Minister</b>, a change that drew criticism for reducing judicial presence."
+        },
+        {
+          "q": "In Indira Nehru Gandhi v Raj Narain (1975), the Supreme Court held that which principle forms part of the basic structure of the Constitution?",
+          "o": [
+            "Free and fair elections as part of democracy",
+            "Reservation in local bodies",
+            "Judicial review of Money Bills",
+            "Delimitation freeze"
+          ],
+          "a": 0,
+          "e": "In <b>Indira Nehru Gandhi v Raj Narain (1975)</b>, the Court held that free and fair elections, integral to democracy, form part of the <b>basic structure</b> of the Constitution."
+        },
+        {
+          "q": "In Union of India v Association for Democratic Reforms (2002), the Supreme Court directed the Election Commission to ensure disclosure by candidates of:",
+          "o": [
+            "Their religion only",
+            "Criminal antecedents, assets/liabilities, and educational qualifications",
+            "Their caste certificate only",
+            "Party manifesto details"
+          ],
+          "a": 1,
+          "e": "In <b>ADR v Union of India (2002)</b>, the Supreme Court held that voters have a right to know under Article 19(1)(a), directing disclosure of candidates' <b>criminal antecedents, assets and liabilities, and educational qualifications</b>."
+        },
+        {
+          "q": "In Kuldip Nayar v Union of India (2006), the Supreme Court upheld amendments to the Representation of the People Act relating to Rajya Sabha elections concerning:",
+          "o": [
+            "Removal of the domicile requirement and introduction of open ballot voting",
+            "Direct election of Rajya Sabha members by the people",
+            "Abolition of the Rajya Sabha",
+            "Reservation of seats for women in the Rajya Sabha"
+          ],
+          "a": 0,
+          "e": "In <b>Kuldip Nayar v Union of India (2006)</b>, the Court upheld the removal of the 'domicile' requirement for Rajya Sabha candidates and the shift to an <b>open ballot</b> system, holding neither violated the Constitution."
+        },
+        {
+          "q": "Which of the following best describes the relationship between the Election Commission of India and the Delimitation Commission?",
+          "o": [
+            "They are the same body under different names",
+            "The Delimitation Commission is a separate body under the Delimitation Act, though the CEC or a nominated EC and State Election Commissioners sit on it as ex-officio members",
+            "The Delimitation Commission is a subordinate wing of the ECI with no independent existence",
+            "The Delimitation Commission is headed permanently by the CEC"
+          ],
+          "a": 1,
+          "e": "The <b>Delimitation Commission</b> is constituted separately under the Delimitation Act, typically chaired by a retired Supreme Court judge, with the CEC (or a nominated Election Commissioner) and State Election Commissioners as ex-officio members."
+        },
+        {
+          "q": "Electronic Voting Machines were first used experimentally in India in which year and location?",
+          "o": [
+            "1982, in a constituency in Kerala",
+            "1998, in Madhya Pradesh",
+            "2004, nationwide",
+            "1977, in Delhi"
+          ],
+          "a": 0,
+          "e": "EVMs were first used on an experimental basis in <b>1982</b>, in the Parur Assembly constituency of Kerala, before their nationwide rollout in general elections from 2004."
+        },
+        {
+          "q": "The Supreme Court order (2019, ahead of the general elections) that increased VVPAT slip verification from one EVM per constituency to five EVMs per assembly segment arose in a case filed by:",
+          "o": [
+            "N. Chandrababu Naidu and other opposition leaders",
+            "The Election Commission suo motu",
+            "The Attorney General of India",
+            "The Delimitation Commission"
+          ],
+          "a": 0,
+          "e": "Ahead of the 2019 general elections, the Supreme Court, acting on a petition by <b>N. Chandrababu Naidu and other opposition leaders</b>, directed VVPAT verification of five randomly selected EVMs per assembly segment instead of one."
+        },
+        {
+          "q": "Which of the following statements correctly reflects the protection given to Election Commissioners under the second proviso to Article 324(5)?",
+          "o": [
+            "Conditions of service of the CEC and ECs may be varied to their disadvantage after appointment if Parliament so decides by ordinary law",
+            "Conditions of service of the CEC shall not be varied to his disadvantage after appointment",
+            "Only the salary of the CEC is protected, not other service conditions",
+            "There is no such protection in the Constitution"
+          ],
+          "a": 1,
+          "e": "Article 324(5) itself provides that the conditions of service of the <b>Chief Election Commissioner</b> shall not be varied to his disadvantage after his appointment, insulating the office from executive pressure."
+        },
+        {
+          "q": "Which of the following is an accurate account of the timeline of the Commission becoming a permanent multi-member body?",
+          "o": [
+            "Multi-member from 1950; single-member only briefly in 1993",
+            "Single-member (1950-1989); multi-member (Oct 1989-Jan 1990); single-member again (1990-1993); multi-member from October 1993 onward",
+            "Multi-member throughout since 1950 without interruption",
+            "Single-member throughout with no change till date"
+          ],
+          "a": 1,
+          "e": "The correct sequence is: <b>single-member (1950–1989)</b>, briefly <b>multi-member (Oct 1989–Jan 1990)</b>, <b>single-member again (1990–1993)</b>, and <b>permanently multi-member from October 1993</b> onward."
+        },
+        {
+          "q": "Which of the following statements about the Election Commission's advisory jurisdiction under Article 103/192 is correct?",
+          "o": [
+            "The Commission gives binding recommendations to the President/Governor on disqualification of sitting members, which they act upon",
+            "The Commission has no role whatsoever in disqualification matters",
+            "Only the Supreme Court can decide disqualification of sitting legislators",
+            "The Commission decides disqualification cases finally without reference to the President or Governor"
+          ],
+          "a": 0,
+          "e": "Under Articles 103 and 192, questions on disqualification of a sitting MP/MLA are decided by the President/Governor <b>in accordance with the opinion of the Election Commission</b>, which functions in an advisory but effectively binding capacity."
+        },
+        {
+          "q": "Which statement best captures why the Election Commission of India is described as an 'independent' body, distinct from a mere department of the executive?",
+          "o": [
+            "Its members are elected directly by citizens",
+            "It is created directly by the Constitution (Article 324), and the CEC enjoys security of tenure comparable to a Supreme Court Judge, insulating it from executive control",
+            "It has no accountability to any authority",
+            "It is controlled by the Ministry of Law and Justice on a day-to-day basis"
+          ],
+          "a": 1,
+          "e": "The ECI's independence flows from its direct constitutional origin under <b>Article 324</b> and safeguards such as the CEC's security of tenure and protected service conditions, which shield it from executive interference."
+        }
+      ]
+    }
+  },
+  {
+    "id": "upsc_state_psc",
+    "title": "UPSC & State Public Service Commissions",
+    "desc": "Articles 315-323 on Public Service Commissions",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Part of the Constitution deals with 'Services under the Union and the States', including Public Service Commissions?",
+          "o": [
+            "Part XIII",
+            "Part XIV",
+            "Part XV",
+            "Part XVI"
+          ],
+          "a": 1,
+          "e": "<b>Part XIV</b> (Articles 308-323) deals with Services under the Union and the States, with Articles 315-323 specifically covering Public Service Commissions."
+        },
+        {
+          "q": "Which Article of the Constitution provides for a Public Service Commission for the Union and for each State?",
+          "o": [
+            "Article 312",
+            "Article 315",
+            "Article 324",
+            "Article 280"
+          ],
+          "a": 1,
+          "e": "<b>Article 315</b> provides for a Public Service Commission for the Union and a Public Service Commission for each State."
+        },
+        {
+          "q": "Who appoints the Chairman and members of the Union Public Service Commission (UPSC)?",
+          "o": [
+            "The Prime Minister",
+            "The Chief Justice of India",
+            "The President of India",
+            "The Parliament"
+          ],
+          "a": 2,
+          "e": "Under <b>Article 316</b>, the Chairman and members of the UPSC are appointed by the <b>President</b>."
+        },
+        {
+          "q": "Who appoints the Chairman and members of a State Public Service Commission (SPSC)?",
+          "o": [
+            "The President",
+            "The Governor",
+            "The Chief Minister",
+            "The State Legislature"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 316</b>, the Chairman and members of a State PSC are appointed by the <b>Governor</b> of the State."
+        },
+        {
+          "q": "What is the normal term of office of a member of the UPSC?",
+          "o": [
+            "Five years or age 60, whichever is earlier",
+            "Six years or age 65, whichever is earlier",
+            "Six years or age 62, whichever is earlier",
+            "Life tenure"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 316</b>, a member of the UPSC holds office for <b>six years or until attaining the age of 65</b>, whichever is earlier."
+        },
+        {
+          "q": "Up to what age can a member of a State Public Service Commission hold office?",
+          "o": [
+            "60 years",
+            "62 years",
+            "65 years",
+            "58 years"
+          ],
+          "a": 1,
+          "e": "Members of a State PSC hold office for six years or until they attain the age of <b>62 years</b>, whichever is earlier, under <b>Article 316</b>."
+        },
+        {
+          "q": "Under which Article of the Constitution can a member of a Public Service Commission be removed from office?",
+          "o": [
+            "Article 316",
+            "Article 317",
+            "Article 320",
+            "Article 124"
+          ],
+          "a": 1,
+          "e": "<b>Article 317</b> deals with the removal and suspension of a member of a Public Service Commission."
+        },
+        {
+          "q": "Who alone has the authority to remove a member of a State Public Service Commission from office?",
+          "o": [
+            "The Governor",
+            "The State Legislature",
+            "The President",
+            "The Chief Minister"
+          ],
+          "a": 2,
+          "e": "Under <b>Article 317</b>, only the <b>President</b> can remove a member of a State PSC, even though the Governor appoints them."
+        },
+        {
+          "q": "Which Article of the Constitution prohibits further employment of certain former members of Public Service Commissions?",
+          "o": [
+            "Article 317",
+            "Article 318",
+            "Article 319",
+            "Article 320"
+          ],
+          "a": 2,
+          "e": "<b>Article 319</b> lays down restrictions on further employment of the Chairman and members of PSCs after they cease to hold office."
+        },
+        {
+          "q": "Which Article lays down the functions of Public Service Commissions, such as conducting examinations for recruitment?",
+          "o": [
+            "Article 315",
+            "Article 320",
+            "Article 321",
+            "Article 322"
+          ],
+          "a": 1,
+          "e": "<b>Article 320</b> lays down the functions of Public Service Commissions, including conducting examinations and advising on recruitment matters."
+        },
+        {
+          "q": "Which Article gives Parliament or a State Legislature the power to extend the functions of a Public Service Commission?",
+          "o": [
+            "Article 319",
+            "Article 320",
+            "Article 321",
+            "Article 323"
+          ],
+          "a": 2,
+          "e": "<b>Article 321</b> empowers Parliament (for UPSC) or a State Legislature (for State PSC) to provide for the extension of the functions of a PSC."
+        },
+        {
+          "q": "Which Article provides that the expenses of the UPSC or a State PSC are charged on the Consolidated Fund?",
+          "o": [
+            "Article 320",
+            "Article 321",
+            "Article 322",
+            "Article 280"
+          ],
+          "a": 2,
+          "e": "<b>Article 322</b> states that the expenses of the Union or a State Public Service Commission are charged on the Consolidated Fund of India or of the State, respectively."
+        },
+        {
+          "q": "To whom does the UPSC submit its annual report under Article 323?",
+          "o": [
+            "The Prime Minister",
+            "The Parliament directly",
+            "The President",
+            "The Chief Justice of India"
+          ],
+          "a": 2,
+          "e": "Under <b>Article 323</b>, the UPSC presents its annual report to the <b>President</b>, who causes it to be laid before each House of Parliament along with a memorandum."
+        },
+        {
+          "q": "To whom does a State Public Service Commission submit its annual report?",
+          "o": [
+            "The Governor",
+            "The President",
+            "The Chief Minister",
+            "The Speaker of the Lok Sabha"
+          ],
+          "a": 0,
+          "e": "Under <b>Article 323</b>, a State PSC submits its annual report to the <b>Governor</b>, who causes it to be laid before the State Legislature."
+        },
+        {
+          "q": "A Joint State Public Service Commission (JSPSC) serving two or more States can be created by:",
+          "o": [
+            "A resolution of the State Legislatures alone",
+            "An executive order of the Governors concerned",
+            "An Act of Parliament on the request of the States concerned",
+            "A notification of the UPSC"
+          ],
+          "a": 2,
+          "e": "Under <b>Article 315</b>, Parliament may by law provide for a Joint State Public Service Commission (JSPSC) on the request of the State Legislatures concerned."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements about the term of office under Article 316:\n1. A member of the UPSC may resign by writing to the President.\n2. A member of a State PSC may resign by writing to the President.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Under <b>Article 316</b>, a member of the UPSC resigns by writing to the <b>President</b>, while a member of a State PSC resigns by writing to the <b>Governor</b>, not the President."
+        },
+        {
+          "q": "Consider the following statements regarding grounds for removal of a Public Service Commission member under Article 317:\n1. Insolvency is a ground for removal.\n2. Engaging in paid employment outside the duties of office during the term is a ground for removal.\n3. Infirmity of mind or body is a ground for removal.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "<b>Article 317</b> lists insolvency, engaging in paid employment outside duties, and infirmity of mind or body as grounds for removal, in addition to misbehaviour."
+        },
+        {
+          "q": "Consider the following statements:\n1. For removal on the ground of misbehaviour, the President must refer the matter to the Supreme Court.\n2. If the Supreme Court holds that the member ought to be removed, the President is bound to remove that member.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Under <b>Article 317(1)</b>, removal for misbehaviour requires a reference to the <b>Supreme Court</b>, and if the Court finds the member ought to be removed, the President is bound to act on that finding."
+        },
+        {
+          "q": "Consider the following statements about eligibility for further employment under Article 319:\n1. The Chairman of the UPSC is ineligible for further employment under the Government of India or any State Government.\n2. The Chairman of a State PSC is eligible for appointment as Chairman or member of the UPSC.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements reflect <b>Article 319</b>: the UPSC Chairman cannot take further government employment, but a State PSC Chairman may be appointed Chairman or member of the UPSC."
+        },
+        {
+          "q": "Consider the following statements regarding a member (other than the Chairman) of a State Public Service Commission:\n1. Such a member is eligible for appointment as Chairman of the UPSC.\n2. Such a member is eligible for appointment as Chairman of that or any other State PSC.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Under <b>Article 319(d)</b>, a member other than the Chairman of a State PSC is eligible for appointment as Chairman or member of the UPSC, or as Chairman of that or any other State PSC."
+        },
+        {
+          "q": "Consider the following statements about the reports of Public Service Commissions:\n1. The UPSC's report is laid before Parliament along with a memorandum explaining cases where its advice was not accepted.\n2. A State PSC's report is laid before the State Legislature by the Governor.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are correct under <b>Article 323</b>, which requires the report and an explanatory memorandum (on cases of non-acceptance of advice) to be placed before the legislature."
+        },
+        {
+          "q": "Consider the following statements about the composition of Public Service Commissions:\n1. The Constitution fixes the exact number of members of the UPSC at eleven.\n2. The strength and composition of the UPSC are left to the discretion of the President.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The Constitution does <b>not</b> fix the number of members of the UPSC; under <b>Article 316</b>, this is left to the discretion of the <b>President</b>."
+        },
+        {
+          "q": "Consider the following statements regarding suspension of a member of a Public Service Commission:\n1. A member can be suspended by the President pending a reference to the Supreme Court under Article 317.\n2. Suspension can be ordered even before the Supreme Court gives its report.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Under <b>Article 317(2)</b>, the President may suspend a member against whom a reference has been made to the Supreme Court, even before the Court's report is received."
+        },
+        {
+          "q": "Consider the following statements regarding consultation with Public Service Commissions under Article 320:\n1. The President or Governor may make regulations specifying matters in which it is not necessary to consult the Commission.\n2. Consultation with the PSC on such exempted matters is not mandatory.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Article 320(3)</b> proviso allows the President/Governor to make regulations exempting certain matters from the requirement of PSC consultation."
+        },
+        {
+          "q": "Consider the following statements about Article 316:\n1. Members are appointed for a term of six years or until they attain the prescribed age, whichever is earlier.\n2. The prescribed age is the same (65 years) for both UPSC and State PSC members.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct, but the prescribed age differs: <b>65 years</b> for UPSC/Joint Commission members and <b>62 years</b> for State PSC members."
+        },
+        {
+          "q": "Consider the following statements regarding Article 321:\n1. It allows Parliament to confer additional functions on the UPSC in relation to services of the Union.\n2. It allows a State Legislature to confer additional functions on the State PSC in relation to services of the State.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Article 321</b> allows Parliament and State Legislatures respectively to provide additional functions for the UPSC and State PSCs concerning their services."
+        },
+        {
+          "q": "Consider the following statements regarding the financing of Public Service Commissions:\n1. Expenses of the UPSC are charged on the Consolidated Fund of India.\n2. Expenses of a State PSC are charged on the Consolidated Fund of the State.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Under <b>Article 322</b>, expenses of the UPSC are charged on the Consolidated Fund of India, and those of a State PSC on the Consolidated Fund of the State concerned."
+        },
+        {
+          "q": "Consider the following statements:\n1. Parliament can, by law, provide that functions of a State PSC be exercisable by the UPSC.\n2. This provision is found in the proviso to Article 315.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The proviso to <b>Article 315</b> allows Parliament, on the request of a State, to provide that UPSC functions extend to that State's PSC functions as well."
+        },
+        {
+          "q": "Consider the following statements regarding removal on grounds other than misbehaviour under Article 317:\n1. Removal for insolvency or infirmity does not require a Supreme Court reference.\n2. The President can act on his own satisfaction for these grounds.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Only removal for <b>misbehaviour</b> mandatorily requires a Supreme Court reference under Article 317(1); for insolvency, infirmity, or outside paid employment, the President may act directly."
+        },
+        {
+          "q": "Consider the following statements about resignation and removal of PSC members:\n1. A member of the UPSC can be removed by the President only in the manner provided in Article 317.\n2. A member cannot be removed by any procedure other than that laid down in Article 317.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Article 317</b> is the exclusive constitutional procedure for removal of PSC members, ensuring independence of the institution from arbitrary executive action."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "In State of U.P. v. Manbodhan Lal Srivastava (1957), the Supreme Court held that:",
+          "o": [
+            "Consultation with the PSC under Article 320(3)(c) is mandatory and its breach voids the action",
+            "Non-consultation with the PSC under Article 320(3)(c) does not invalidate a disciplinary order nor give rise to a justiciable right",
+            "The PSC has binding authority over disciplinary decisions",
+            "Article 320 is not applicable to disciplinary proceedings at all"
+          ],
+          "a": 1,
+          "e": "In <b>State of U.P. v. Manbodhan Lal Srivastava (1957)</b>, the Supreme Court held that Article 320(3)(c) consultation is not obligatory, and failure to consult the PSC does not confer a justiciable right or invalidate the action."
+        },
+        {
+          "q": "In Ashok Kumar Yadav v. State of Haryana (1985), the Supreme Court laid down a principle concerning:",
+          "o": [
+            "The age limit of PSC members",
+            "Members of a PSC recusing themselves from interviews of candidates related to them, to avoid bias",
+            "The removal procedure under Article 317",
+            "The salary structure of PSC members"
+          ],
+          "a": 1,
+          "e": "In <b>Ashok Kumar Yadav v. State of Haryana (1985)</b>, the Supreme Court held that a PSC member related to a candidate must not participate in that candidate's interview/selection, applying the principle against bias in selection."
+        },
+        {
+          "q": "How does the Supreme Court's role under Article 317(1) differ from an advisory opinion sought under Article 143?",
+          "o": [
+            "There is no difference; both are purely advisory and never binding",
+            "Under Article 317(1), if the Court finds the member ought to be removed, the President is bound to remove; under Article 143, the opinion is advisory and not binding",
+            "Article 143 opinions are always binding, while Article 317(1) findings are advisory",
+            "Article 317(1) references are heard by a High Court, not the Supreme Court"
+          ],
+          "a": 1,
+          "e": "Unusually, the Supreme Court's finding under <b>Article 317(1)</b> is binding on the President for removal of a PSC member, unlike an <b>Article 143</b> advisory opinion which the government may choose not to follow."
+        },
+        {
+          "q": "Which of the following removal grounds under Article 317 do NOT require a reference to the Supreme Court before the President acts?",
+          "o": [
+            "Only misbehaviour",
+            "Insolvency, engagement in paid employment outside duties, and infirmity of mind or body",
+            "All grounds require an SC reference",
+            "Only infirmity of mind or body"
+          ],
+          "a": 1,
+          "e": "A Supreme Court reference is mandatory only for removal on the ground of <b>misbehaviour</b>; for insolvency, outside paid employment, or infirmity, the President may act on his own satisfaction."
+        },
+        {
+          "q": "Which statement correctly distinguishes a Joint State Public Service Commission (JSPSC) from a State entering an agreement for shared administrative services?",
+          "o": [
+            "A JSPSC requires no Parliamentary legislation, only a mutual state agreement",
+            "A JSPSC is created only by an Act of Parliament passed on the request of the State Legislatures concerned, unlike an informal administrative agreement",
+            "A JSPSC can be created only if all States of India agree",
+            "A JSPSC members are appointed by the Chief Ministers of participating States"
+          ],
+          "a": 1,
+          "e": "A <b>JSPSC</b> is a formal constitutional body created only via an <b>Act of Parliament</b> upon request of the concerned State Legislatures under Article 315, with members appointed by the President."
+        },
+        {
+          "q": "Can the Chairman of a State Public Service Commission be subsequently appointed as a member (not Chairman) of the UPSC?",
+          "o": [
+            "No, this is barred by Article 319",
+            "Yes, this is explicitly permitted under Article 319",
+            "Only with the Governor's prior approval",
+            "Only after a 5-year cooling-off period"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 319(b)</b>, the Chairman of a State PSC is eligible for appointment as Chairman <b>or member</b> of the UPSC, or as Chairman of another State PSC."
+        },
+        {
+          "q": "Which of the following best explains why the Constitution does not fix a specific number of members for the UPSC?",
+          "o": [
+            "It was an oversight by the Constituent Assembly",
+            "Article 316 deliberately leaves the strength and composition to the discretion of the President, for administrative flexibility",
+            "The number is fixed by the Finance Commission",
+            "The number was fixed permanently at 9 by the Government of India Act, 1935"
+          ],
+          "a": 1,
+          "e": "<b>Article 316</b> deliberately leaves the number of members to the <b>President's discretion</b>, allowing flexibility to adjust the Commission's size as administrative needs change."
+        },
+        {
+          "q": "Are the recommendations/advice of a Public Service Commission on recruitment and disciplinary matters legally binding on the Government?",
+          "o": [
+            "Yes, they are absolutely binding and cannot be departed from",
+            "No, they are advisory in nature, though non-acceptance must be explained via a memorandum placed before the legislature under Article 323",
+            "They are binding only for Group A services",
+            "They are binding only if approved by the Supreme Court"
+          ],
+          "a": 1,
+          "e": "PSC advice under <b>Article 320</b> is advisory; the government may depart from it, but must place reasons for non-acceptance in the memorandum accompanying the report under <b>Article 323</b>."
+        },
+        {
+          "q": "Which statement correctly reflects the historical origin of the UPSC?",
+          "o": [
+            "The UPSC was first established by the Constitution of India in 1950",
+            "A Public Service Commission was first established in 1926 (following the Lee Commission's recommendation), later continued as the Federal Public Service Commission under the Government of India Act, 1935, and became the UPSC under the Constitution",
+            "The UPSC originated from the Indian Councils Act, 1909",
+            "The UPSC was created by the 42nd Constitutional Amendment"
+          ],
+          "a": 1,
+          "e": "Following the <b>Lee Commission's</b> recommendation, a Public Service Commission was set up in <b>1926</b>; it became the Federal Public Service Commission under the <b>Government of India Act, 1935</b>, and continued as the UPSC under Article 315 of the Constitution."
+        },
+        {
+          "q": "Which of the following is a valid distinction between the UPSC/State PSC and the Election Commission of India?",
+          "o": [
+            "Both are governed by the same set of Articles (315-323)",
+            "The UPSC/State PSC are dealt with under Articles 315-323 (Part XIV), while the Election Commission is a distinct body under Article 324",
+            "The Election Commission is appointed by the Governor, like State PSCs",
+            "There is no distinction; they are the same constitutional body"
+          ],
+          "a": 1,
+          "e": "The UPSC and State PSCs fall under <b>Articles 315-323</b> in Part XIV, whereas the <b>Election Commission of India</b> is a separate constitutional body established under <b>Article 324</b> in Part XV."
+        },
+        {
+          "q": "If the President suspends a Public Service Commission member pending an Article 317(1) reference, and the Supreme Court later finds no misbehaviour, what is the constitutional consequence?",
+          "o": [
+            "The member remains removed regardless of the Supreme Court's finding",
+            "The suspension must be revoked and the member reinstated, as the President is bound by an adverse-to-removal finding as well",
+            "The matter is referred again to the High Court",
+            "The member is automatically retired"
+          ],
+          "a": 1,
+          "e": "Since the President's removal power under Article 317(1) is conditioned on the Supreme Court's finding, an SC finding against removal means the suspension should be revoked and the member reinstated."
+        },
+        {
+          "q": "Which of the following statements about Article 320(3) matters on which a Public Service Commission is normally consulted is correct?",
+          "o": [
+            "Only examinations for civil service appointments",
+            "Methods of recruitment, principles for promotions and transfers, and disciplinary matters affecting a person serving under the Government, among others",
+            "Only disputes relating to pension calculations",
+            "Only matters relating to All India Services"
+          ],
+          "a": 1,
+          "e": "<b>Article 320(3)</b> lists several matters for consultation, including recruitment methods, principles governing promotions/transfers, and disciplinary matters such as memorials or petitions."
+        },
+        {
+          "q": "Which of the following is an accurate statement on the number of members constituting a 'Public Service Commission' bench for disciplinary consultation?",
+          "o": [
+            "A minimum of three members must always be consulted as a bench",
+            "The Constitution does not prescribe any specific quorum or bench strength; this is left to Commission regulations",
+            "Only the Chairman alone can give valid consultation",
+            "A two-thirds majority of all members is constitutionally mandated for every consultation"
+          ],
+          "a": 1,
+          "e": "The Constitution does not prescribe a quorum or bench size for PSC consultations; procedural matters like this are governed by regulations framed under <b>Article 318</b>."
+        },
+        {
+          "q": "Which of the following correctly captures a subtle distinction under Article 319 between a UPSC Chairman and a UPSC member (other than Chairman)?",
+          "o": [
+            "Both are treated identically and are equally ineligible for any future government employment",
+            "A UPSC Chairman is ineligible for further government employment, while a UPSC member (other than Chairman) is eligible for appointment as Chairman of the UPSC or of a State PSC",
+            "A UPSC member is ineligible for any employment, but a UPSC Chairman is not restricted",
+            "Only State PSC members are ever restricted; UPSC office holders are never restricted"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 319</b>, the UPSC Chairman faces the strictest bar (no further government employment at all), while an ordinary UPSC member may still become Chairman of the UPSC or of a State PSC."
+        },
+        {
+          "q": "Which of the following statements about judicial review of executive action taken contrary to PSC advice is correct?",
+          "o": [
+            "Courts cannot examine such executive action at all, as PSC advice is purely internal",
+            "Courts can examine such executive action for compliance with Articles 14 and 16 (equality and equal opportunity in public employment), even though PSC advice itself is not binding",
+            "Only the President can review such action, not the courts",
+            "Such action is always struck down automatically for procedural impropriety"
+          ],
+          "a": 1,
+          "e": "While PSC advice under Article 320 is not binding, executive action in service matters remains subject to judicial review for violation of the fundamental rights under <b>Articles 14 and 16</b>."
+        }
+      ]
+    }
+  },
+  {
+    "id": "finance_commission",
+    "title": "Finance Commission",
+    "desc": "Article 280 and Centre-State fiscal devolution",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Article of the Constitution provides for the constitution of a Finance Commission?",
+          "o": [
+            "Article 275",
+            "Article 280",
+            "Article 282",
+            "Article 293"
+          ],
+          "a": 1,
+          "e": "<b>Article 280</b> provides for the constitution of a Finance Commission by the President."
+        },
+        {
+          "q": "At what interval must the President constitute a Finance Commission, at the minimum requirement?",
+          "o": [
+            "Every three years",
+            "Every five years, or earlier if necessary",
+            "Every ten years",
+            "Only once, permanently"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 280(1)</b>, the President constitutes a Finance Commission every <b>five years</b> or at such earlier time as he considers necessary."
+        },
+        {
+          "q": "Besides the Chairman, how many other members does the Finance Commission consist of?",
+          "o": [
+            "Two",
+            "Three",
+            "Four",
+            "Six"
+          ],
+          "a": 2,
+          "e": "The Finance Commission consists of a <b>Chairman and four other members</b> appointed by the President."
+        },
+        {
+          "q": "Who appoints the Chairman and members of the Finance Commission?",
+          "o": [
+            "The Prime Minister",
+            "The President",
+            "The Parliament by a resolution",
+            "The NITI Aayog"
+          ],
+          "a": 1,
+          "e": "The Chairman and members of the Finance Commission are appointed by the <b>President</b> under Article 280."
+        },
+        {
+          "q": "Which Act of Parliament prescribes the qualifications of the Chairman and members of the Finance Commission?",
+          "o": [
+            "The Representation of the People Act, 1951",
+            "The Finance Commission (Miscellaneous Provisions) Act, 1951",
+            "The Government of India Act, 1935",
+            "The Fiscal Responsibility and Budget Management Act, 2003"
+          ],
+          "a": 1,
+          "e": "The <b>Finance Commission (Miscellaneous Provisions) Act, 1951</b>, prescribes the qualifications for appointment as Chairman/members of the Finance Commission."
+        },
+        {
+          "q": "Which Article requires the President to lay the recommendations of the Finance Commission before Parliament?",
+          "o": [
+            "Article 279A",
+            "Article 280",
+            "Article 281",
+            "Article 283"
+          ],
+          "a": 2,
+          "e": "<b>Article 281</b> requires the President to lay the Finance Commission's recommendations, along with an explanatory memorandum, before each House of Parliament."
+        },
+        {
+          "q": "Grants-in-aid to States out of the Consolidated Fund of India, recommended by the Finance Commission, are provided for under which Article?",
+          "o": [
+            "Article 270",
+            "Article 275",
+            "Article 282",
+            "Article 293"
+          ],
+          "a": 1,
+          "e": "<b>Article 275</b> provides for statutory grants-in-aid to States from the Consolidated Fund of India, on the recommendation of the Finance Commission."
+        },
+        {
+          "q": "Who was the Chairman of the 14th Finance Commission?",
+          "o": [
+            "N.K. Singh",
+            "Vijay L. Kelkar",
+            "Y.V. Reddy",
+            "C. Rangarajan"
+          ],
+          "a": 2,
+          "e": "The 14th Finance Commission was chaired by <b>Y.V. Reddy</b>, a former RBI Governor."
+        },
+        {
+          "q": "What share of the divisible pool of central taxes did the 14th Finance Commission recommend for the states?",
+          "o": [
+            "32%",
+            "35%",
+            "42%",
+            "50%"
+          ],
+          "a": 2,
+          "e": "The 14th Finance Commission recommended increasing the states' share in the divisible pool of central taxes to <b>42%</b>, a historic increase."
+        },
+        {
+          "q": "Who chaired the 15th Finance Commission?",
+          "o": [
+            "Arvind Panagariya",
+            "N.K. Singh",
+            "Y.V. Reddy",
+            "Vijay L. Kelkar"
+          ],
+          "a": 1,
+          "e": "The 15th Finance Commission was chaired by <b>N.K. Singh</b>, covering the award period 2021-26."
+        },
+        {
+          "q": "Which census population data did the 15th Finance Commission use for its recommendations?",
+          "o": [
+            "1971 census",
+            "1991 census",
+            "2001 census",
+            "2011 census"
+          ],
+          "a": 3,
+          "e": "The 15th Finance Commission used the <b>2011 census</b> population data, departing from the earlier practice of using 1971 data."
+        },
+        {
+          "q": "What share of the divisible pool of central taxes did the 15th Finance Commission recommend for the states?",
+          "o": [
+            "42%",
+            "41%",
+            "39%",
+            "45%"
+          ],
+          "a": 1,
+          "e": "The 15th Finance Commission recommended <b>41%</b> for states, a 1 percentage point reduction from the 14th Commission's 42%, due to the reorganisation of Jammu & Kashmir into Union Territories."
+        },
+        {
+          "q": "Which constitutional body was established under Article 279A to deal with matters relating to the Goods and Services Tax?",
+          "o": [
+            "Finance Commission",
+            "NITI Aayog",
+            "GST Council",
+            "Inter-State Council"
+          ],
+          "a": 2,
+          "e": "The <b>GST Council</b>, established under <b>Article 279A</b> by the 101st Constitutional Amendment Act, 2016, decides on GST rates and related matters."
+        },
+        {
+          "q": "In which year was NITI Aayog established, replacing the Planning Commission?",
+          "o": [
+            "2010",
+            "2014",
+            "2015",
+            "2019"
+          ],
+          "a": 2,
+          "e": "<b>NITI Aayog</b> was established on 1 January <b>2015</b> by a Cabinet resolution, replacing the Planning Commission."
+        },
+        {
+          "q": "What is the nature of the recommendations made by the Finance Commission to the government?",
+          "o": [
+            "Legally binding on the Union Government",
+            "Advisory in nature, not binding, though conventionally accepted",
+            "Binding only on State Governments",
+            "Binding only after ratification by the Supreme Court"
+          ],
+          "a": 1,
+          "e": "The Finance Commission's recommendations are <b>advisory</b> in nature and not legally binding, though they are conventionally accepted by the government."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the functions of the Finance Commission under Article 280(3):\n1. It recommends the distribution of net proceeds of taxes between the Union and the States.\n2. It recommends principles governing grants-in-aid to States out of the Consolidated Fund of India.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are core functions listed in <b>Article 280(3)(a) and (b)</b> — tax distribution and grants-in-aid principles under Article 275."
+        },
+        {
+          "q": "Consider the following statements:\n1. The Finance Commission recommends measures to augment the Consolidated Fund of a State to supplement the resources of Panchayats.\n2. This function is based, inter alia, on recommendations of the State Finance Commission.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Article 280(3)(bb)/(c)</b> requires the Finance Commission to recommend measures to augment a State's Consolidated Fund for local bodies, considering State Finance Commission recommendations under Articles 243-I and 243-Y."
+        },
+        {
+          "q": "Consider the following statements comparing the Finance Commission and the GST Council:\n1. The Finance Commission is constituted under Article 280, while the GST Council is established under Article 279A.\n2. Both bodies deal exclusively with the same subject matter of GST rate fixation.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is wrong: the <b>GST Council</b> deals with GST rates, while the <b>Finance Commission</b> deals with broader tax devolution and grants, not GST rate fixation."
+        },
+        {
+          "q": "Consider the following statements about NITI Aayog and the Finance Commission:\n1. NITI Aayog has taken over the constitutional function of tax devolution from the Finance Commission.\n2. Tax devolution between the Union and the States remains a constitutional mandate of the Finance Commission alone.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "NITI Aayog is a policy think tank with no role in tax devolution; that constitutional function under <b>Article 280</b> remains solely with the <b>Finance Commission</b>."
+        },
+        {
+          "q": "Consider the following statements regarding the reduction of states' share from 42% (14th FC) to 41% (15th FC):\n1. It was due to the reorganisation of Jammu & Kashmir into Union Territories.\n2. The 1 percentage point was earmarked for the newly formed Union Territories.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Since J&K and Ladakh became Union Territories (not States), the 15th FC reduced the states' share by 1% to provide for these UTs from the divisible pool."
+        },
+        {
+          "q": "Consider the following statements about the qualifications of Finance Commission members prescribed by Parliament:\n1. One member should be, or be qualified to be, a High Court judge.\n2. Members may include persons with special knowledge of the finances and accounts of the government, or of economics.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The Finance Commission (Miscellaneous Provisions) Act, 1951 provides for members including a person qualified to be a High Court judge and persons with expertise in government finance or economics."
+        },
+        {
+          "q": "Consider the following statements regarding Article 275 and Article 282:\n1. Article 275 grants are made on the recommendation of the Finance Commission.\n2. Article 282 allows the Union or a State to make grants for any public purpose, even outside their legislative competence, independent of Finance Commission recommendation.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Article 275</b> grants are statutory and FC-recommended, whereas <b>Article 282</b> discretionary grants do not require Finance Commission recommendation."
+        },
+        {
+          "q": "Consider the following statements about the term and reappointment of Finance Commission members:\n1. The term of office of Finance Commission members is specified by the President in the order constituting the Commission.\n2. Members are eligible for reappointment.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The President's order constituting the Commission specifies the term of office, and outgoing members are eligible for <b>reappointment</b>."
+        },
+        {
+          "q": "Consider the following statements regarding the 13th Finance Commission:\n1. It was chaired by Vijay L. Kelkar.\n2. It recommended a states' share of 32% in the divisible pool of central taxes.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The 13th Finance Commission, chaired by <b>Vijay L. Kelkar</b>, recommended a states' share of <b>32%</b>, which the 14th Commission later raised to 42%."
+        },
+        {
+          "q": "Consider the following statements about the nature of the Finance Commission as a body:\n1. It functions as a quasi-judicial body.\n2. Its recommendations are enforceable by writ in the Supreme Court if not implemented.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The Finance Commission is a <b>quasi-judicial body</b>, but its recommendations are advisory, not enforceable by writ against the government."
+        },
+        {
+          "q": "Consider the following statements about Article 281 and Article 323:\n1. Article 281 requires the President to lay Finance Commission recommendations, with an explanatory memorandum, before Parliament.\n2. Article 323 requires a similar procedure for placing the UPSC's annual report before Parliament.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both provisions follow a similar pattern of laying reports before the legislature with an explanatory memorandum: <b>Article 281</b> for the Finance Commission and <b>Article 323</b> for the UPSC."
+        },
+        {
+          "q": "Consider the following statements about the GST Council's composition:\n1. It is chaired by the Union Finance Minister.\n2. It includes the Union Minister of State for Finance and Finance Ministers of all States.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Under <b>Article 279A</b>, the GST Council is chaired by the Union Finance Minister and includes the Union Minister of State for Finance and State Finance Ministers."
+        },
+        {
+          "q": "Consider the following statements about acceptance of Finance Commission recommendations:\n1. Parliament's approval is constitutionally required before the recommendations take effect.\n2. In practice, recommendations are implemented through executive action and budgetary allocation once accepted by the government.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "There is no constitutional requirement of Parliamentary approval; recommendations are implemented through <b>executive action</b> once accepted by the Union government."
+        },
+        {
+          "q": "Consider the following statements about horizontal and vertical devolution:\n1. Vertical devolution refers to the distribution of the divisible pool between the Union and the States.\n2. Horizontal devolution refers to the distribution of the States' share among individual States based on criteria like population, income distance, and area.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Vertical devolution</b> is the Union-States split, and <b>horizontal devolution</b> is the inter-state distribution based on criteria such as population, income distance, area, and forest cover."
+        },
+        {
+          "q": "Consider the following statements about the first Finance Commission:\n1. It was constituted in 1951.\n2. It was chaired by K.C. Neogy.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The First Finance Commission was constituted in <b>1951</b> and chaired by <b>K.C. Neogy</b>."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Which of the following best distinguishes the Finance Commission from NITI Aayog?",
+          "o": [
+            "The Finance Commission is an extra-constitutional advisory body, while NITI Aayog is a constitutional body",
+            "The Finance Commission is a constitutional body under Article 280 with a defined fiscal devolution mandate, while NITI Aayog is a non-constitutional executive body (Cabinet resolution) functioning as a policy think tank",
+            "Both are constitutional bodies with identical functions",
+            "NITI Aayog replaced the Finance Commission's function of tax devolution"
+          ],
+          "a": 1,
+          "e": "The <b>Finance Commission</b> is a constitutional body (Article 280) with a specific fiscal devolution mandate, whereas <b>NITI Aayog</b>, created by an executive/Cabinet resolution in 2015, is a policy think tank with no constitutional status and no role in tax devolution."
+        },
+        {
+          "q": "Article 280(3)(d) empowers the Finance Commission to examine 'any other matter referred to it by the President in the interest of sound finance'. This provision illustrates that:",
+          "o": [
+            "The Finance Commission's mandate is rigidly confined only to (a), (b), and (c)",
+            "The Finance Commission's mandate is flexible and can be expanded by presidential reference beyond the core listed functions",
+            "Only Parliament, not the President, can refer additional matters",
+            "This clause has never been used in practice"
+          ],
+          "a": 1,
+          "e": "<b>Article 280(3)(d)</b> gives the Finance Commission a residuary, flexible mandate, allowing the President to refer additional matters connected with sound public finance."
+        },
+        {
+          "q": "The 15th Finance Commission's use of 2011 census data for population-based criteria generated controversy because:",
+          "o": [
+            "It excluded southern states entirely from devolution",
+            "States that had performed better on population control (mostly southern states) feared losing relative share to states with higher population growth, prompting the Commission to introduce a 'demographic performance' criterion",
+            "It was the first time population was used as a criterion at all",
+            "It led to abolition of the income distance criterion"
+          ],
+          "a": 1,
+          "e": "To address concerns of southern states (which achieved better demographic control) about the shift to 2011 data, the 15th FC introduced a <b>'demographic performance'</b> criterion rewarding population control efforts."
+        },
+        {
+          "q": "Which of the following correctly distinguishes the Finance Commission (Article 280) from a commission constituted under Article 340 for backward classes?",
+          "o": [
+            "Both are the same body with dual functions",
+            "Article 280 deals with fiscal devolution between Union and States, while Article 340 provides for a commission to investigate conditions of socially and educationally backward classes — an entirely different subject and body",
+            "Article 340 commissions also recommend tax-sharing formulas",
+            "Article 280 was inserted by the same amendment as Article 340"
+          ],
+          "a": 1,
+          "e": "<b>Article 280</b> governs fiscal federalism through the Finance Commission, while <b>Article 340</b> is unrelated, providing for a commission on backward classes — a common distractor pairing in exams."
+        },
+        {
+          "q": "Who was appointed Chairman of the 16th Finance Commission, constituted in 2023?",
+          "o": [
+            "N.K. Singh",
+            "Y.V. Reddy",
+            "Arvind Panagariya",
+            "C. Rangarajan"
+          ],
+          "a": 2,
+          "e": "The 16th Finance Commission was constituted in <b>2023</b> under the chairmanship of <b>Arvind Panagariya</b>, a NITI Aayog economist."
+        },
+        {
+          "q": "Which of the following are criteria used by recent Finance Commissions for horizontal devolution among States?",
+          "o": [
+            "Population, income distance, area, forest cover, tax and fiscal effort, demographic performance",
+            "Only population and area",
+            "Only per-capita GST collection",
+            "Only literacy rate"
+          ],
+          "a": 0,
+          "e": "Recent Finance Commissions (14th and 15th) have used criteria such as <b>population, income distance, area, forest cover, tax effort, and demographic performance</b> for horizontal devolution."
+        },
+        {
+          "q": "Which of the following correctly explains why grants-in-aid under Article 275 are described as a statutory Union obligation, unlike tax devolution under Article 270?",
+          "o": [
+            "Article 275 grants are charged on the Consolidated Fund of India each year as recommended, forming a specific statutory grant, while tax devolution under Article 270 is a constitutionally mandated share of a divisible pool rather than a discretionary grant",
+            "There is no meaningful difference between the two provisions",
+            "Article 275 grants are optional and rarely paid",
+            "Article 270 grants require annual Parliamentary re-approval while Article 275 does not"
+          ],
+          "a": 0,
+          "e": "<b>Article 275</b> provides specific statutory grants-in-aid charged on the Consolidated Fund of India, distinct from <b>Article 270</b>'s constitutionally mandated sharing of the divisible pool of Union taxes."
+        },
+        {
+          "q": "The historical shift from sharing only specified individual taxes to a comprehensive 'divisible pool' of nearly all Union taxes was given effect by which constitutional amendment, based on which Finance Commission's recommendation?",
+          "o": [
+            "42nd Amendment Act, 1976, based on the 7th Finance Commission",
+            "80th Amendment Act, 2000, based on the 10th Finance Commission's 'Alternative Scheme of Devolution'",
+            "101st Amendment Act, 2016, based on the 14th Finance Commission",
+            "73rd Amendment Act, 1992, based on the 9th Finance Commission"
+          ],
+          "a": 1,
+          "e": "The <b>80th Constitutional Amendment Act, 2000</b> implemented the <b>10th Finance Commission's</b> 'Alternative Scheme of Devolution', pooling nearly all central taxes into a single divisible pool under Article 270."
+        },
+        {
+          "q": "A recurring grievance of States regarding the divisible pool relates to the Union's use of cess and surcharge. Which of the following is correct?",
+          "o": [
+            "Cess and surcharge collected by the Union are fully included in the divisible pool under Article 270 and shared with States",
+            "Cess and surcharge are excluded from the divisible pool under Article 270, reducing the effective share received by States even when the headline devolution percentage is high",
+            "Cess and surcharge can only be levied by States, not the Union",
+            "The Finance Commission abolished all cesses in 2000"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 270</b>, cesses and surcharges levied by the Union are excluded from the divisible pool, meaning States do not get a share of this revenue despite a high recommended devolution percentage."
+        },
+        {
+          "q": "If the Union Government departs from a Finance Commission recommendation, what is the constitutional consequence?",
+          "o": [
+            "The recommendation becomes automatically void",
+            "There is no direct legal consequence, as recommendations are advisory; however, the government's decision and reasons are placed before Parliament along with the report under Article 281",
+            "The Supreme Court automatically strikes down the Union Budget",
+            "The President can dissolve the Lok Sabha over the disagreement"
+          ],
+          "a": 1,
+          "e": "Since Finance Commission recommendations are advisory, there is no automatic legal consequence for departure, but the explanatory memorandum under <b>Article 281</b> places the decision before Parliament for scrutiny."
+        },
+        {
+          "q": "Which of the following best captures the difference between the erstwhile Planning Commission's role and the Finance Commission's constitutional role in resource transfers?",
+          "o": [
+            "Both performed identical constitutional functions of tax devolution",
+            "The Finance Commission's tax devolution/grants role is constitutionally mandated (Article 280), while the Planning Commission's plan-based discretionary transfers (like the Gadgil-Mukherjee formula) were extra-constitutional and administrative in nature",
+            "The Planning Commission's transfers were also governed by Article 280",
+            "The Finance Commission was abolished when the Planning Commission was created"
+          ],
+          "a": 1,
+          "e": "The <b>Finance Commission's</b> role flows directly from <b>Article 280</b>, while the now-defunct Planning Commission's plan transfers (e.g., the Gadgil-Mukherjee formula) were extra-constitutional, administrative arrangements, now replaced by NITI Aayog's advisory role."
+        },
+        {
+          "q": "Which statement correctly reflects judicial treatment of Finance Commission recommendations if challenged in court?",
+          "o": [
+            "Courts have held such recommendations create no legally enforceable right against the government, as they are advisory",
+            "Courts have held such recommendations are as binding as a constitutional amendment",
+            "The Supreme Court has original jurisdiction to modify Finance Commission awards",
+            "Such recommendations cannot be discussed in courts at all"
+          ],
+          "a": 0,
+          "e": "Being advisory recommendations under Article 280, they do not create a legally enforceable right against the government, though they carry strong constitutional and conventional weight."
+        },
+        {
+          "q": "How many Finance Commissions had been constituted by the time the 16th Finance Commission was set up in 2023?",
+          "o": [
+            "10",
+            "12",
+            "15 preceding Commissions, making the new one the 16th",
+            "20"
+          ],
+          "a": 2,
+          "e": "By 2023, <b>fifteen</b> Finance Commissions had already been constituted since 1951 (starting with K.C. Neogy's Commission), making the 2023 Commission the <b>16th</b>."
+        },
+        {
+          "q": "Which of the following correctly explains the 'sound finance' residuary function of the Finance Commission in relation to fiscal federalism?",
+          "o": [
+            "It confines the Commission strictly to a mechanical tax-sharing formula with no scope for broader fiscal advice",
+            "It allows the Finance Commission to be used flexibly by the President for emerging fiscal issues (e.g., disaster relief financing, fiscal consolidation roadmaps) beyond the core devolution functions",
+            "It transfers this function permanently to the GST Council",
+            "It applies only to Union Territories, not States"
+          ],
+          "a": 1,
+          "e": "The residuary clause in <b>Article 280(3)(d)</b> lets the President use the Finance Commission flexibly for evolving fiscal concerns, such as disaster relief funding mechanisms or fiscal consolidation roadmaps, beyond the core enumerated functions."
+        },
+        {
+          "q": "Which of the following is the most accurate statement distinguishing Article 269A (GST on inter-state trade) from the Finance Commission's Article 280(3)(a) function?",
+          "o": [
+            "Article 269A deals with apportionment of IGST between Union and States on inter-state supplies, administered per GST Council mechanisms, while Article 280(3)(a) is the Finance Commission's broader recommendation on sharing net proceeds of Union taxes generally",
+            "Article 269A and Article 280(3)(a) refer to the identical process",
+            "Article 269A was recommended by the 15th Finance Commission",
+            "Article 269A abolished the Finance Commission's role in tax devolution"
+          ],
+          "a": 0,
+          "e": "<b>Article 269A</b> specifically governs IGST apportionment on inter-state trade via GST Council-administered mechanisms, distinct from the Finance Commission's general constitutional mandate under <b>Article 280(3)(a)</b> for sharing the divisible pool of Union taxes."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cag_attorney_general",
+    "title": "CAG & Attorney General",
+    "desc": "Financial watchdog and top law officer of the Union",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Article of the Constitution provides for the appointment of the Comptroller and Auditor General (CAG) of India?",
+          "o": [
+            "Article 76",
+            "Article 148",
+            "Article 149",
+            "Article 165"
+          ],
+          "a": 1,
+          "e": "<b>Article 148</b> provides that the CAG shall be appointed by the President by warrant under his hand and seal."
+        },
+        {
+          "q": "The Comptroller and Auditor General of India is appointed by the",
+          "o": [
+            "Prime Minister",
+            "President",
+            "Chief Justice of India",
+            "Speaker of Lok Sabha"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 148</b>, the CAG is appointed by the <b>President</b> of India."
+        },
+        {
+          "q": "What is the term of office of the CAG of India?",
+          "o": [
+            "5 years or 62 years of age, whichever is earlier",
+            "6 years or 65 years of age, whichever is earlier",
+            "A fixed term of 6 years with no age limit",
+            "Till the age of 65 years only"
+          ],
+          "a": 1,
+          "e": "The CAG holds office for a term of <b>6 years or till the age of 65 years</b>, whichever is earlier, as prescribed by the CAG's (Duties, Powers and Conditions of Service) Act, 1971."
+        },
+        {
+          "q": "The salary of the CAG of India is equal to that of a",
+          "o": [
+            "Cabinet Secretary",
+            "Judge of the Supreme Court",
+            "Chief Election Commissioner",
+            "Speaker of the Lok Sabha"
+          ],
+          "a": 1,
+          "e": "The CAG receives a salary equal to that of a <b>Judge of the Supreme Court</b>."
+        },
+        {
+          "q": "The CAG of India can be removed from office in the same manner and on the same grounds as a",
+          "o": [
+            "High Court Judge",
+            "Judge of the Supreme Court",
+            "Election Commissioner",
+            "Union Minister"
+          ],
+          "a": 1,
+          "e": "The CAG can be removed by the President only on an address of Parliament for <b>proved misbehaviour or incapacity</b>, in the same manner as a <b>Supreme Court Judge</b>."
+        },
+        {
+          "q": "Which Article deals with the duties and powers of the CAG?",
+          "o": [
+            "Article 148",
+            "Article 149",
+            "Article 150",
+            "Article 151"
+          ],
+          "a": 1,
+          "e": "<b>Article 149</b> empowers Parliament to prescribe the duties and powers of the CAG by law."
+        },
+        {
+          "q": "The Act that prescribes the duties, powers, and conditions of service of the CAG was enacted in which year?",
+          "o": [
+            "1949",
+            "1971",
+            "1976",
+            "1991"
+          ],
+          "a": 1,
+          "e": "The <b>CAG's (Duties, Powers and Conditions of Service) Act</b> was enacted in <b>1971</b> under Article 149."
+        },
+        {
+          "q": "Under Article 150, the form of accounts of the Union and the States is prescribed by the President on the advice of the",
+          "o": [
+            "Finance Minister",
+            "CAG",
+            "Finance Commission",
+            "Union Cabinet"
+          ],
+          "a": 1,
+          "e": "<b>Article 150</b> states that accounts of the Union and States shall be kept in a form prescribed by the President on the advice of the <b>CAG</b>."
+        },
+        {
+          "q": "Under Article 151, the CAG's report relating to the accounts of the Union is submitted to the",
+          "o": [
+            "Prime Minister",
+            "President",
+            "Speaker of Lok Sabha",
+            "Finance Minister"
+          ],
+          "a": 1,
+          "e": "<b>Article 151</b> requires reports on Union accounts to be submitted to the <b>President</b>, who lays them before Parliament."
+        },
+        {
+          "q": "The CAG's report relating to the accounts of a State is submitted to the",
+          "o": [
+            "President",
+            "Governor",
+            "Chief Minister",
+            "State High Court"
+          ],
+          "a": 1,
+          "e": "As per <b>Article 151</b>, reports on State accounts are submitted to the <b>Governor</b>, who lays them before the State Legislature."
+        },
+        {
+          "q": "The CAG is the head of which of the following, and is also popularly described as the guardian of the public purse?",
+          "o": [
+            "Indian Revenue Service",
+            "Indian Audit and Accounts Department",
+            "Indian Administrative Service",
+            "Ministry of Finance"
+          ],
+          "a": 1,
+          "e": "The CAG is not a member but the <b>head</b> of the <b>Indian Audit and Accounts Department</b>, and is popularly described as the <b>guardian of the public purse</b>."
+        },
+        {
+          "q": "Which of the following is NOT audited by the CAG of India?",
+          "o": [
+            "Consolidated Fund of India",
+            "Contingency Fund of India",
+            "Public Account of India",
+            "Prime Minister's National Relief Fund"
+          ],
+          "a": 3,
+          "e": "The <b>Prime Minister's National Relief Fund</b> is not a government fund; it is held in trust and audited independently, not by the CAG."
+        },
+        {
+          "q": "Can the CAG of India be reappointed for a second term after completion of tenure?",
+          "o": [
+            "Yes, always",
+            "No",
+            "Yes, with Parliament's approval",
+            "Yes, with the President's approval"
+          ],
+          "a": 1,
+          "e": "The CAG is <b>not eligible for reappointment</b> for a second term, once the tenure is completed."
+        },
+        {
+          "q": "The Attorney General of India is appointed under which Article of the Constitution?",
+          "o": [
+            "Article 76",
+            "Article 124",
+            "Article 148",
+            "Article 165"
+          ],
+          "a": 0,
+          "e": "<b>Article 76</b> provides for the appointment of the <b>Attorney General of India</b> by the President."
+        },
+        {
+          "q": "To be appointed as Attorney General of India, a person must be qualified to be appointed as a",
+          "o": [
+            "Judge of a High Court",
+            "Judge of the Supreme Court",
+            "Chief Election Commissioner",
+            "Governor of a State"
+          ],
+          "a": 1,
+          "e": "Article 76 requires the Attorney General to possess the qualifications needed to be a <b>Judge of the Supreme Court</b>, as specified under Article 124(3)."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the CAG:\n1. The CAG is a member of the Indian Audit and Accounts Department.\n2. The CAG audits the Contingency Fund of India.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The CAG is not a <b>member</b> of the Department but its <b>head</b>; Statement 2 is correct as the CAG audits the <b>Contingency Fund of India</b>."
+        },
+        {
+          "q": "Consider the following statements:\n1. The CAG's report on Union accounts is submitted directly to Parliament.\n2. The CAG's report on Union accounts is submitted to the President, who lays it before Parliament.\nWhich is correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 151</b>, the report goes to the <b>President first</b>, who then causes it to be laid before Parliament."
+        },
+        {
+          "q": "Consider the following statements about the Attorney General of India:\n1. He has the right to speak in both Houses of Parliament.\n2. He has the right to vote in proceedings of Parliament.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The Attorney General may <b>speak and take part</b> in proceedings of Parliament but has <b>no right to vote</b>."
+        },
+        {
+          "q": "Consider the following statements regarding the tenure of the Attorney General of India:\n1. The Constitution prescribes a fixed tenure of 5 years for the Attorney General.\n2. He holds office during the pleasure of the President.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "No fixed tenure is prescribed; the Attorney General <b>holds office during the pleasure of the President</b> as per Article 76(4)."
+        },
+        {
+          "q": "Consider the following statements about the Attorney General of India:\n1. He is a full-time servant of the Government of India.\n2. He is not debarred from private legal practice, subject to certain restrictions.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The Attorney General is <b>not a full-time government servant</b> and may engage in private practice subject to conventions/restrictions, making Statement 2 correct."
+        },
+        {
+          "q": "Which of the following statements about the Solicitor General and Additional Solicitor General of India is correct?",
+          "o": [
+            "They are constitutional posts created under Article 76",
+            "They are statutory/administrative posts, subordinate to the Attorney General",
+            "They are appointed by Parliament",
+            "They enjoy the same constitutional status as the Attorney General"
+          ],
+          "a": 1,
+          "e": "The Solicitor General and Additional Solicitor General are <b>not constitutional posts</b>; they are created by law/executive order and are subordinate law officers."
+        },
+        {
+          "q": "Consider the following statements about the Advocate General of a State:\n1. He is appointed under Article 165.\n2. He must be qualified to be appointed a Judge of a High Court.\n3. He holds office during the pleasure of the Governor.\nHow many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct: <b>Article 165</b> governs appointment of the Advocate General, who must qualify to be a <b>High Court Judge</b> and holds office at the <b>Governor's pleasure</b>."
+        },
+        {
+          "q": "Consider the following statements:\n1. The Public Accounts Committee examines the reports of the CAG.\n2. The CAG acts as an agent of Parliament in scrutinising government expenditure.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Public Accounts Committee</b> uses CAG reports, and the CAG functions as an <b>agent of Parliament</b>, not the executive."
+        },
+        {
+          "q": "Consider the following statements about the CAG's audit function:\n1. The CAG conducts a post-audit of government expenditure.\n2. The CAG is part of the executive branch of government.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The CAG performs a <b>post-audit</b> function and is <b>not part of the executive</b>; it functions as an independent constitutional authority reporting to Parliament."
+        },
+        {
+          "q": "Consider the following statements:\n1. The CAG audits the accounts of government companies and corporations.\n2. Such audit function is entirely outside the scope of CAG's constitutional mandate.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The CAG does audit the accounts of <b>government companies and corporations</b>, so only Statement 1 is correct."
+        },
+        {
+          "q": "Match the Articles with their subject matter:\nA. Article 148 — 1. Duties and powers of CAG\nB. Article 149 — 2. Appointment of CAG\nC. Article 150 — 3. Form of accounts\nD. Article 151 — 4. Audit reports\nWhich of the following combinations is correct?",
+          "o": [
+            "A-2, B-1, C-3, D-4",
+            "A-1, B-2, C-4, D-3",
+            "A-2, B-3, C-1, D-4",
+            "A-4, B-1, C-2, D-3"
+          ],
+          "a": 0,
+          "e": "<b>Article 148</b>-appointment, <b>Article 149</b>-duties/powers, <b>Article 150</b>-form of accounts, <b>Article 151</b>-audit reports — this is the correct sequence."
+        },
+        {
+          "q": "Consider the following statements:\n1. The Attorney General of India is appointed by the President.\n2. The Advocate General of a State is appointed by the President on the advice of the Governor.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Only Statement 1 is correct; the Advocate General is appointed directly by the <b>Governor</b>, not the President, under Article 165."
+        },
+        {
+          "q": "Consider the following statements regarding removal of the CAG:\n1. The CAG can be removed by a simple majority resolution of both Houses.\n2. The CAG can be removed only on grounds of proved misbehaviour or incapacity, following the same procedure as for a Supreme Court Judge.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Removal of the CAG requires the special procedure applicable to Supreme Court Judges (special majority address to Parliament for <b>proved misbehaviour or incapacity</b>), not a simple majority."
+        },
+        {
+          "q": "Consider the following statements:\n1. CAG's reports on Public Sector Undertakings are examined by the Committee on Public Undertakings.\n2. CAG's reports are examined only by the Estimates Committee.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Only Statement 1 is correct — CAG reports on PSUs are examined by the <b>Committee on Public Undertakings (COPU)</b>, in addition to PAC for other reports."
+        },
+        {
+          "q": "Consider the following statements:\n1. The CAG takes an oath or affirmation before entering office, as per the Third Schedule.\n2. The Constitution explicitly prescribes an oath for the Attorney General similar to that of the CAG.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The CAG takes an oath under the <b>Third Schedule</b>; unlike judges and the CAG, no such oath is explicitly prescribed in the Constitution for the <b>Attorney General</b>."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Who was the first Attorney General of independent India?",
+          "o": [
+            "M.C. Setalvad",
+            "C.K. Daphtary",
+            "Niren De",
+            "Soli Sorabjee"
+          ],
+          "a": 0,
+          "e": "<b>M.C. Setalvad</b> served as the first Attorney General of India, from 1950 to 1963, the longest tenure to date."
+        },
+        {
+          "q": "Who was the first Comptroller and Auditor General of independent India?",
+          "o": [
+            "V. Narahari Rao",
+            "A.K. Chanda",
+            "T.N. Chaturvedi",
+            "Vinod Rai"
+          ],
+          "a": 0,
+          "e": "<b>V. Narahari Rao</b> was the first CAG of independent India."
+        },
+        {
+          "q": "Under Section 15 of the Contempt of Courts Act, 1971, whose consent is generally required before a private citizen can move a contempt petition (other than by the court on its own motion)?",
+          "o": [
+            "Chief Justice of India",
+            "Attorney General or Solicitor General",
+            "Law Minister",
+            "Speaker of Lok Sabha"
+          ],
+          "a": 1,
+          "e": "Under the Contempt of Courts Act, 1971, a private person must obtain the <b>consent of the Attorney General or Solicitor General</b> to move a contempt petition before the Supreme Court/High Court."
+        },
+        {
+          "q": "Which provision ensures that the salary and conditions of service of the CAG cannot be varied to his disadvantage after appointment?",
+          "o": [
+            "Article 148(1)",
+            "Article 148(3) proviso",
+            "Article 149",
+            "Article 151"
+          ],
+          "a": 1,
+          "e": "The proviso to <b>Article 148(3)</b> protects the CAG's salary and conditions of service (leave, pension, retirement age) from being altered to his disadvantage after appointment."
+        },
+        {
+          "q": "The Committee on Public Undertakings (COPU), which examines CAG reports on PSUs, was constituted in 1964 based on the recommendation of which committee?",
+          "o": [
+            "Balwant Rai Mehta Committee",
+            "Krishna Menon Committee",
+            "Santhanam Committee",
+            "Administrative Reforms Commission"
+          ],
+          "a": 1,
+          "e": "COPU was set up in <b>1964</b> on the recommendation of the <b>Krishna Menon Committee</b>."
+        },
+        {
+          "q": "Which of the following is a correct constitutional distinction regarding removal procedures?",
+          "o": [
+            "The CAG's removal, like that of the President, is termed 'impeachment'",
+            "The CAG is removed by the same procedure as a Supreme Court Judge, but this is technically called 'removal', not 'impeachment' (a term reserved for the President under Article 61)",
+            "The CAG can be removed only by the Prime Minister",
+            "The CAG's removal requires a judicial inquiry by the Supreme Court alone, without any parliamentary role"
+          ],
+          "a": 1,
+          "e": "Although popularly called 'impeachment', the Constitution uses the term <b>'removal'</b> for judges and the CAG; only the President's removal process under <b>Article 61</b> is formally termed impeachment."
+        },
+        {
+          "q": "The qualification required for appointment as Attorney General of India is drawn from which constitutional provision?",
+          "o": [
+            "Article 217(2)",
+            "Article 124(3)",
+            "Article 76(2)",
+            "Article 165(1)"
+          ],
+          "a": 1,
+          "e": "Article 76 requires the Attorney General to have the qualifications specified in <b>Article 124(3)</b> for appointment as a Supreme Court Judge."
+        },
+        {
+          "q": "The CAG's role in auditing government companies is primarily exercised through provisions of which legislation, in addition to the CAG's (DPC) Act, 1971?",
+          "o": [
+            "The Companies Act",
+            "The Representation of the People Act",
+            "The Right to Information Act",
+            "The Prevention of Corruption Act"
+          ],
+          "a": 0,
+          "e": "Under the <b>Companies Act</b>, the CAG appoints statutory auditors of government companies and may conduct a supplementary audit of their accounts."
+        },
+        {
+          "q": "What is the key distinction in the appointing authority between the Attorney General of India and the Advocate General of a State?",
+          "o": [
+            "Both are appointed by the President",
+            "The Attorney General is appointed by the President (Article 76); the Advocate General is appointed by the Governor (Article 165)",
+            "Both are appointed by the Governor of the concerned State",
+            "The Attorney General is appointed by Parliament while the Advocate General is appointed by the State Legislature"
+          ],
+          "a": 1,
+          "e": "The <b>Attorney General</b> is appointed by the <b>President</b> under Article 76, while the <b>Advocate General</b> is appointed by the <b>Governor</b> under Article 165 — a clear federal distinction."
+        },
+        {
+          "q": "The Solicitor General of India holds office under which arrangement?",
+          "o": [
+            "Article 76(4) directly",
+            "Law Officers (Terms and Conditions of Service) Rules, 1972, subordinate to the Attorney General",
+            "A separate constitutional provision parallel to Article 76",
+            "Election by Parliament"
+          ],
+          "a": 1,
+          "e": "The Solicitor General is not a constitutional functionary; the post is governed by the <b>Law Officers (Terms and Conditions of Service) Rules, 1972</b>, and is subordinate to the Attorney General."
+        },
+        {
+          "q": "Article 76(4) of the Constitution deals with which aspect of the Attorney General's office?",
+          "o": [
+            "Qualifications for appointment",
+            "Right of audience in courts",
+            "Holding office during the pleasure of the President and remuneration as determined by the President",
+            "Duty to advise the Government"
+          ],
+          "a": 2,
+          "e": "<b>Article 76(4)</b> provides that the Attorney General holds office during the <b>pleasure of the President</b> and receives remuneration as the President determines."
+        },
+        {
+          "q": "Under Article 76(3), the Attorney General of India enjoys which specific privilege?",
+          "o": [
+            "Right of audience in all courts in the territory of India",
+            "Right to preside over Rajya Sabha proceedings",
+            "Right to appoint High Court judges",
+            "Right to issue writs"
+          ],
+          "a": 0,
+          "e": "<b>Article 76(3)</b> grants the Attorney General a <b>right of audience in all courts</b> in the territory of India while performing his duties."
+        },
+        {
+          "q": "If the Attorney General is nominated as a member of a Parliamentary Committee, what is his status in its proceedings?",
+          "o": [
+            "He can vote but not speak",
+            "He can speak and participate but cannot vote",
+            "He has no role at all",
+            "He can vote only on financial matters"
+          ],
+          "a": 1,
+          "e": "Even as a nominated member of a Parliamentary committee, the Attorney General may <b>speak and participate</b> but is <b>not entitled to vote</b>, consistent with his role in the Houses of Parliament."
+        },
+        {
+          "q": "Which principle best explains why the CAG is described as functioning outside executive control?",
+          "o": [
+            "The CAG conducts a post-facto audit and reports to Parliament, acting as its agent to ensure executive financial accountability",
+            "The CAG frames the annual budget for the government",
+            "The CAG has the power to sanction expenditure before it is incurred",
+            "The CAG is directly elected by the people"
+          ],
+          "a": 0,
+          "e": "The CAG performs a <b>post-facto audit</b> function and reports to Parliament, functioning as its <b>agent</b> to enforce financial accountability of the executive, without being part of the executive itself."
+        },
+        {
+          "q": "Article 149 contains a 'historical continuity' clause. What does it provide until Parliament legislates on CAG's duties and powers?",
+          "o": [
+            "CAG shall have no powers at all",
+            "CAG's duties/powers shall be the same as those exercisable by the Auditor General of India immediately before the commencement of the Constitution",
+            "CAG shall exercise powers as decided by the President alone",
+            "CAG's powers shall mirror those of the UK Comptroller and Auditor General"
+          ],
+          "a": 1,
+          "e": "Article 149 provides that until Parliament prescribes otherwise by law, CAG's duties and powers remain the same as those of the <b>Auditor General of India</b> before the Constitution commenced, ensuring administrative continuity."
+        }
+      ]
+    }
+  },
+  {
+    "id": "niti_aayog",
+    "title": "NITI Aayog",
+    "desc": "India's policy think tank replacing the Planning Commission",
+    "questions": {
+      "basic": [
+        {
+          "q": "What does 'NITI' in NITI Aayog stand for?",
+          "o": [
+            "National Institution for Transforming India",
+            "National Institute for Territorial Integration",
+            "National Investment and Trade Initiative",
+            "National Infrastructure and Technology Institute"
+          ],
+          "a": 0,
+          "e": "NITI Aayog stands for the <b>National Institution for Transforming India</b>."
+        },
+        {
+          "q": "On which date was NITI Aayog established?",
+          "o": [
+            "26 January 2015",
+            "1 January 2015",
+            "15 August 2014",
+            "2 October 2014"
+          ],
+          "a": 1,
+          "e": "NITI Aayog was established on <b>1 January 2015</b>."
+        },
+        {
+          "q": "NITI Aayog was established through a",
+          "o": [
+            "Constitutional Amendment Act",
+            "Act of Parliament",
+            "Cabinet Resolution",
+            "Presidential Ordinance"
+          ],
+          "a": 2,
+          "e": "Like the Planning Commission before it, NITI Aayog was set up by a <b>Cabinet Resolution</b>, making it extra-constitutional and non-statutory."
+        },
+        {
+          "q": "NITI Aayog replaced which earlier body?",
+          "o": [
+            "Finance Commission",
+            "Planning Commission",
+            "National Development Council",
+            "Union Public Service Commission"
+          ],
+          "a": 1,
+          "e": "NITI Aayog replaced the <b>Planning Commission</b> as India's premier policy think tank."
+        },
+        {
+          "q": "The Planning Commission of India was originally set up in which year?",
+          "o": [
+            "1935",
+            "1947",
+            "1950",
+            "1965"
+          ],
+          "a": 2,
+          "e": "The Planning Commission was set up in <b>1950</b> by a Cabinet Resolution."
+        },
+        {
+          "q": "The Planning Commission, like NITI Aayog, was established through a",
+          "o": [
+            "Constitutional provision",
+            "Act of Parliament",
+            "Cabinet Resolution",
+            "Judicial order"
+          ],
+          "a": 2,
+          "e": "The Planning Commission was also a non-statutory body set up by a <b>Cabinet Resolution</b> in 1950."
+        },
+        {
+          "q": "Who is the ex-officio Chairperson of NITI Aayog?",
+          "o": [
+            "Finance Minister",
+            "Prime Minister",
+            "Cabinet Secretary",
+            "Vice-President"
+          ],
+          "a": 1,
+          "e": "The <b>Prime Minister</b> is the ex-officio Chairperson of NITI Aayog."
+        },
+        {
+          "q": "The Governing Council of NITI Aayog comprises",
+          "o": [
+            "Only Union Cabinet Ministers",
+            "Chief Ministers of all States and UTs with legislature, and Lt. Governors of other UTs",
+            "Only Members of Parliament",
+            "Only Secretaries to the Government of India"
+          ],
+          "a": 1,
+          "e": "The Governing Council includes the <b>Chief Ministers of all States and Union Territories with a legislature</b>, and <b>Lt. Governors of other UTs</b>."
+        },
+        {
+          "q": "The Vice-Chairperson of NITI Aayog is appointed by the",
+          "o": [
+            "President",
+            "Prime Minister",
+            "Finance Minister",
+            "Cabinet Secretary"
+          ],
+          "a": 1,
+          "e": "The Vice-Chairperson of NITI Aayog is appointed by the <b>Prime Minister</b>."
+        },
+        {
+          "q": "Who was the first Vice-Chairperson of NITI Aayog?",
+          "o": [
+            "Rajiv Kumar",
+            "Arvind Panagariya",
+            "Amitabh Kant",
+            "Bibek Debroy"
+          ],
+          "a": 1,
+          "e": "<b>Arvind Panagariya</b> served as the first Vice-Chairperson of NITI Aayog (2015-2017)."
+        },
+        {
+          "q": "The Chief Executive Officer (CEO) of NITI Aayog is appointed by the Prime Minister and holds a rank equivalent to",
+          "o": [
+            "Cabinet Minister",
+            "Secretary to the Government of India",
+            "Minister of State",
+            "Chief Justice of India"
+          ],
+          "a": 1,
+          "e": "The CEO of NITI Aayog is appointed by the PM and has a fixed tenure with the rank of <b>Secretary to the Government of India</b>."
+        },
+        {
+          "q": "What is the maximum number of part-time members that NITI Aayog can have?",
+          "o": [
+            "One",
+            "Two",
+            "Four",
+            "Six"
+          ],
+          "a": 1,
+          "e": "NITI Aayog can have a <b>maximum of two part-time members</b>, drawn from leading universities and research organisations."
+        },
+        {
+          "q": "What is the maximum number of ex-officio members nominated by the Prime Minister from the Council of Ministers in NITI Aayog?",
+          "o": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "a": 2,
+          "e": "NITI Aayog can have a <b>maximum of four ex-officio members</b> from the Union Council of Ministers, nominated by the Prime Minister."
+        },
+        {
+          "q": "The Atal Innovation Mission functions under which institution?",
+          "o": [
+            "Ministry of Finance",
+            "NITI Aayog",
+            "Department of Science and Technology",
+            "Ministry of Skill Development"
+          ],
+          "a": 1,
+          "e": "The <b>Atal Innovation Mission</b>, promoting innovation and entrepreneurship, is administered under <b>NITI Aayog</b>."
+        },
+        {
+          "q": "Which best describes the fundamental nature of NITI Aayog's function?",
+          "o": [
+            "An allocative body distributing funds to states",
+            "An advisory/recommendatory think tank with no power to allocate funds",
+            "A constitutional body with judicial powers",
+            "A statutory regulatory authority"
+          ],
+          "a": 1,
+          "e": "Unlike the Planning Commission, NITI Aayog is purely an <b>advisory and recommendatory body</b> without the power to allocate funds to ministries or states."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements:\n1. NITI Aayog has the power to allocate funds to states, similar to the Planning Commission.\n2. The power to allocate funds now largely rests with the Ministry of Finance.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 2 is correct; NITI Aayog, unlike the Planning Commission, has <b>no power to allocate funds</b>, which now rests with the <b>Ministry of Finance</b>."
+        },
+        {
+          "q": "Consider the following statements:\n1. The Planning Commission followed a top-down, one-size-fits-all approach to planning.\n2. NITI Aayog promotes a bottom-up approach, with village-level plans aggregated upward.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements correctly capture the shift from the Planning Commission's <b>top-down</b> model to NITI Aayog's <b>bottom-up planning</b> approach."
+        },
+        {
+          "q": "Consider the following statements:\n1. NITI Aayog is a statutory body created by an Act of Parliament.\n2. NITI Aayog, like the Planning Commission, is extra-constitutional and non-statutory.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 2 is correct; NITI Aayog is <b>non-statutory</b>, set up merely by a Cabinet Resolution, just as the Planning Commission was."
+        },
+        {
+          "q": "Consider the following statements about Regional Councils of NITI Aayog:\n1. They are formed to address specific regional issues.\n2. They are convened by the Prime Minister or his nominee.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Regional Councils address <b>specific regional issues</b> and are convened by the <b>Prime Minister or his nominee</b>."
+        },
+        {
+          "q": "Consider the following statements:\n1. Special invitees to NITI Aayog are experts nominated by the Prime Minister.\n2. Special invitees have full voting rights in the Governing Council.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Only Statement 1 is correct; special invitees are experts and specialists with <b>relevant domain knowledge nominated by the PM</b>, brought in for advisory input."
+        },
+        {
+          "q": "Consider the following statements:\n1. Team India Hub is one of the two hubs of NITI Aayog.\n2. Knowledge and Innovation Hub is the other hub.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are correct; NITI Aayog functions through the <b>Team India Hub</b> (state relations) and the <b>Knowledge and Innovation Hub</b> (think-tank activities)."
+        },
+        {
+          "q": "Consider the following statements:\n1. NITI Aayog promotes competitive and cooperative federalism.\n2. The Planning Commission followed a centralised, command-based planning model.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct and represent the key philosophical shift from the Planning Commission's centralised model to NITI Aayog's <b>cooperative and competitive federalism</b>."
+        },
+        {
+          "q": "Consider the following statements:\n1. 'Aayog' means 'Commission' in Hindi.\n2. NITI Aayog functions in exactly the same manner as the Planning Commission did.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Only Statement 1 is correct; despite the name, NITI Aayog is <b>fundamentally different</b> in character and function from the Planning Commission, being only advisory."
+        },
+        {
+          "q": "Consider the following statements on the composition of NITI Aayog:\n1. It can have a maximum of two part-time members.\n2. It can have a maximum of four ex-officio members from the Council of Ministers.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct as per NITI Aayog's prescribed composition."
+        },
+        {
+          "q": "Consider the following statements about the CEO of NITI Aayog:\n1. The CEO is appointed by the Prime Minister.\n2. The CEO has a fixed tenure and holds the rank of Secretary to the Government of India.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct regarding the appointment and status of the CEO of NITI Aayog."
+        },
+        {
+          "q": "Consider the following statement: 'By convention, the Vice-Chairperson of NITI Aayog enjoys a rank equivalent to a Cabinet Minister.' Is this statement correct?",
+          "o": [
+            "Yes, this convention continues from the Planning Commission era",
+            "No, the Vice-Chairperson has no specific rank",
+            "No, the Vice-Chairperson ranks below a Secretary",
+            "No, only the CEO has ministerial rank"
+          ],
+          "a": 0,
+          "e": "By convention (as with the Deputy Chairman of the erstwhile Planning Commission), the <b>Vice-Chairperson of NITI Aayog</b> is accorded the rank of a <b>Cabinet Minister</b>."
+        },
+        {
+          "q": "Consider the following statements about the Governing Council of NITI Aayog:\n1. It includes Chief Ministers of States and Union Territories with a legislature.\n2. It includes Lt. Governors of Union Territories without a legislature.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are correct — the Governing Council brings together <b>Chief Ministers</b> of States/UTs with legislature and <b>Lt. Governors</b> of other UTs."
+        },
+        {
+          "q": "Consider the following statements:\n1. NITI Aayog can impose its recommendations on state governments.\n2. NITI Aayog's role is limited to advice and recommendation, respecting state autonomy.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Only Statement 2 is correct; NITI Aayog has <b>no power to impose</b> decisions on states, consistent with its advisory character."
+        },
+        {
+          "q": "Consider the following statements:\n1. The Atal Innovation Mission functions under NITI Aayog.\n2. The Development Monitoring and Evaluation Office (DMEO) also functions under NITI Aayog.\nWhich is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct; both the <b>Atal Innovation Mission</b> and <b>DMEO</b> operate under NITI Aayog."
+        },
+        {
+          "q": "Who was the first Chief Executive Officer (CEO) of NITI Aayog?",
+          "o": [
+            "Amitabh Kant",
+            "Sindhushree Khullar",
+            "Rajiv Kumar",
+            "Parameswaran Iyer"
+          ],
+          "a": 1,
+          "e": "<b>Sindhushree Khullar</b> was appointed as the first CEO of NITI Aayog in 2015."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Instead of Five-Year Plans, NITI Aayog produces which set of planning documents?",
+          "o": [
+            "Annual Plans only",
+            "15-year Vision, 7-year Strategy, and 3-year Action Agenda",
+            "20-year Perspective Plans",
+            "Five-Year Rolling Plans"
+          ],
+          "a": 1,
+          "e": "NITI Aayog replaced Five-Year Plans with a <b>15-year vision, 7-year strategy, and 3-year action agenda</b> framework."
+        },
+        {
+          "q": "NITI Aayog's first Three-Year Action Agenda covered which period?",
+          "o": [
+            "2015-16 to 2017-18",
+            "2017-18 to 2019-20",
+            "2019-20 to 2021-22",
+            "2020-21 to 2022-23"
+          ],
+          "a": 1,
+          "e": "NITI Aayog released its first <b>Three-Year Action Agenda</b> covering <b>2017-18 to 2019-20</b>."
+        },
+        {
+          "q": "The Planning Commission's de facto power to allocate central assistance to states was largely exercised through which formula?",
+          "o": [
+            "Finance Commission formula",
+            "Gadgil-Mukherjee formula",
+            "Fiscal Responsibility formula",
+            "Rangarajan formula"
+          ],
+          "a": 1,
+          "e": "The Planning Commission used the <b>Gadgil-Mukherjee formula</b> to determine devolution of central assistance for state plans, a power NITI Aayog does not possess."
+        },
+        {
+          "q": "NITI Aayog's Aspirational Districts Programme, aimed at rapidly transforming underdeveloped districts, was launched in which year?",
+          "o": [
+            "2015",
+            "2016",
+            "2018",
+            "2020"
+          ],
+          "a": 2,
+          "e": "The <b>Aspirational Districts Programme</b> was launched by NITI Aayog in <b>January 2018</b>, focusing on health, education, agriculture, and infrastructure indicators."
+        },
+        {
+          "q": "The SDG India Index, tracking progress on Sustainable Development Goals across states, is published by which body?",
+          "o": [
+            "Ministry of Statistics and Programme Implementation",
+            "NITI Aayog",
+            "Finance Commission",
+            "Reserve Bank of India"
+          ],
+          "a": 1,
+          "e": "The <b>SDG India Index</b> is published by <b>NITI Aayog</b> to track state and UT progress on Sustainable Development Goals."
+        },
+        {
+          "q": "Which of the following correctly distinguishes NITI Aayog from the Finance Commission?",
+          "o": [
+            "Both are constitutional bodies with identical functions",
+            "The Finance Commission is a constitutional body under Article 280 dealing with statutory fiscal transfers, while NITI Aayog is a non-statutory advisory think tank with no allocative power",
+            "NITI Aayog decides tax devolution between Union and States",
+            "The Finance Commission is appointed by NITI Aayog"
+          ],
+          "a": 1,
+          "e": "The <b>Finance Commission</b> is a constitutional body under <b>Article 280</b> with a defined role in fiscal devolution, whereas <b>NITI Aayog</b> is a non-statutory think tank without allocative powers — a key distinction to avoid confusing the two."
+        },
+        {
+          "q": "By convention, which of the following ranks apply within NITI Aayog's leadership?",
+          "o": [
+            "Vice-Chairperson equivalent to Cabinet Minister; full-time Members equivalent to Ministers of State",
+            "Vice-Chairperson equivalent to Prime Minister",
+            "All members hold Cabinet rank",
+            "CEO holds Cabinet rank"
+          ],
+          "a": 0,
+          "e": "By convention, the <b>Vice-Chairperson</b> holds a rank equivalent to a <b>Cabinet Minister</b>, while <b>full-time Members</b> are accorded the rank of a <b>Minister of State</b>."
+        },
+        {
+          "q": "The 'Delta Ranking', which monitors monthly incremental progress of districts, is associated with which NITI Aayog initiative?",
+          "o": [
+            "SDG India Index",
+            "Aspirational Districts Programme",
+            "Atal Innovation Mission",
+            "Team India Hub"
+          ],
+          "a": 1,
+          "e": "The <b>Delta Ranking</b> is a monthly ranking of incremental progress published under the <b>Aspirational Districts Programme</b> of NITI Aayog."
+        },
+        {
+          "q": "The Development Monitoring and Evaluation Office (DMEO) under NITI Aayog largely absorbed the functions of which earlier body from the Planning Commission era?",
+          "o": [
+            "National Development Council",
+            "Programme Evaluation Organisation (PEO)",
+            "Central Statistics Office",
+            "Planning and Monitoring Cell"
+          ],
+          "a": 1,
+          "e": "DMEO was formed by merging functions of the erstwhile <b>Programme Evaluation Organisation (PEO)</b> and the Independent Evaluation Office, to monitor and evaluate government schemes."
+        },
+        {
+          "q": "How many Vice-Chairpersons can NITI Aayog have at a given time, and who appoints them?",
+          "o": [
+            "Two, appointed by the President",
+            "One, appointed by the Prime Minister",
+            "Three, appointed by the Governing Council",
+            "One, elected by the full-time members"
+          ],
+          "a": 1,
+          "e": "NITI Aayog has a <b>single Vice-Chairperson</b>, appointed by the <b>Prime Minister</b>."
+        },
+        {
+          "q": "Which statement best describes the tenure of the CEO of NITI Aayog?",
+          "o": [
+            "No fixed tenure, subject to routine transfer like other bureaucrats",
+            "A fixed tenure is granted by the Prime Minister upon appointment",
+            "The tenure is decided by the Governing Council each year",
+            "The CEO serves for a mandatory 10-year term"
+          ],
+          "a": 1,
+          "e": "Unlike routine bureaucratic postings, the CEO of NITI Aayog is given a <b>fixed tenure</b> upon appointment by the Prime Minister."
+        },
+        {
+          "q": "The National Development Council (NDC), which approved Five-Year Plans in the Planning Commission era, has largely been rendered redundant due to the emergence of which NITI Aayog body?",
+          "o": [
+            "The Regional Councils",
+            "The Governing Council",
+            "The Knowledge and Innovation Hub",
+            "The Team India Hub"
+          ],
+          "a": 1,
+          "e": "The <b>Governing Council</b> of NITI Aayog, comprising Chief Ministers and Lt. Governors chaired by the PM, has effectively taken over the coordinating role earlier played by the NDC."
+        },
+        {
+          "q": "Which Union Territories' Chief Ministers are represented directly in NITI Aayog's Governing Council (as opposed to representation via Lt. Governor)?",
+          "o": [
+            "Only UTs without a legislature",
+            "UTs that have a legislature, such as Delhi and Puducherry",
+            "All UTs equally without distinction",
+            "None; only States are represented"
+          ],
+          "a": 1,
+          "e": "UTs <b>with a legislature</b> (such as Delhi and Puducherry) are represented by their <b>Chief Ministers</b>, while other UTs are represented by their <b>Lt. Governors</b>."
+        },
+        {
+          "q": "The convention of granting Cabinet Minister rank to the Vice-Chairperson of NITI Aayog is a continuation of a practice associated with which post in the Planning Commission?",
+          "o": [
+            "Deputy Chairman of the Planning Commission",
+            "Finance Minister",
+            "Cabinet Secretary",
+            "Chief Economic Adviser"
+          ],
+          "a": 0,
+          "e": "The <b>Deputy Chairman of the Planning Commission</b> traditionally held the rank of a Cabinet Minister, a convention continued for the <b>Vice-Chairperson of NITI Aayog</b>."
+        },
+        {
+          "q": "Which of the following correctly reflects the end of the Five-Year Plan system in India?",
+          "o": [
+            "The 10th Five-Year Plan (2002-07) was the last one",
+            "The 12th Five-Year Plan (2012-17) was the last Five-Year Plan, discontinued with the formation of NITI Aayog",
+            "Five-Year Plans continue to be formulated by NITI Aayog",
+            "The 11th Five-Year Plan was extended indefinitely"
+          ],
+          "a": 1,
+          "e": "The <b>12th Five-Year Plan (2012-17)</b> was the last of its kind; with the formation of NITI Aayog in 2015, the Five-Year Plan system was discontinued in favour of vision/strategy/action-agenda documents."
+        }
+      ]
+    }
+  },
+  {
+    "id": "nhrc_cvc_cbi_lokpal",
+    "title": "NHRC, CVC, CBI, Lokpal & Lokayukta",
+    "desc": "Anti-corruption and human rights watchdog bodies",
+    "questions": {
+      "basic": [
+        {
+          "q": "Under which Act was the National Human Rights Commission (NHRC) established?",
+          "o": [
+            "Protection of Human Rights Act, 1993",
+            "Constitution of India, 1950",
+            "Human Rights Commission Act, 1978",
+            "National Commission Act, 1990"
+          ],
+          "a": 0,
+          "e": "The NHRC was established under the <b>Protection of Human Rights Act, 1993</b>, later amended in 2006 and 2019."
+        },
+        {
+          "q": "The NHRC is best described as a:",
+          "o": [
+            "Constitutional body",
+            "Statutory body",
+            "Quasi-judicial constitutional authority",
+            "Executive body created by Cabinet resolution"
+          ],
+          "a": 1,
+          "e": "NHRC is a <b>statutory body</b> created by an Act of Parliament, not a constitutional body."
+        },
+        {
+          "q": "The Central Vigilance Commission (CVC) was originally set up in 1964 on the recommendation of which committee?",
+          "o": [
+            "Santhanam Committee",
+            "Sarkaria Commission",
+            "Nanavati Committee",
+            "Kelkar Committee"
+          ],
+          "a": 0,
+          "e": "CVC was set up in 1964 by an executive resolution based on the recommendations of the <b>Santhanam Committee</b> on Prevention of Corruption."
+        },
+        {
+          "q": "The CVC was given statutory status through which legislation?",
+          "o": [
+            "Prevention of Corruption Act, 1988",
+            "Central Vigilance Commission Act, 2003",
+            "Lokpal and Lokayuktas Act, 2013",
+            "Right to Information Act, 2005"
+          ],
+          "a": 1,
+          "e": "The <b>Central Vigilance Commission Act, 2003</b> conferred statutory status on the CVC, which earlier functioned under an executive resolution of 1964."
+        },
+        {
+          "q": "The CBI derives its investigative powers from which Act?",
+          "o": [
+            "CBI Act, 1963",
+            "Delhi Special Police Establishment Act, 1946",
+            "Central Vigilance Commission Act, 2003",
+            "Indian Police Act, 1861"
+          ],
+          "a": 1,
+          "e": "The CBI is not a statutory body created by its own Act; it derives its powers from the colonial-era <b>Delhi Special Police Establishment Act, 1946</b>."
+        },
+        {
+          "q": "The CBI functions under the administrative control of which department?",
+          "o": [
+            "Ministry of Home Affairs",
+            "Department of Personnel & Training, Ministry of Personnel",
+            "Ministry of Law and Justice",
+            "Cabinet Secretariat directly"
+          ],
+          "a": 1,
+          "e": "CBI functions under the <b>Department of Personnel & Training (DoPT)</b>, Ministry of Personnel, Public Grievances and Pensions."
+        },
+        {
+          "q": "In which year was the Lokpal and Lokayuktas Act enacted?",
+          "o": [
+            "2011",
+            "2013",
+            "2014",
+            "2019"
+          ],
+          "a": 1,
+          "e": "The <b>Lokpal and Lokayuktas Act, 2013</b> was passed in the aftermath of the Anna Hazare movement and came into force in 2014."
+        },
+        {
+          "q": "Who was appointed as the first Chairperson of the Lokpal?",
+          "o": [
+            "Justice Pinaki Chandra Ghose",
+            "Justice Ranjan Gogoi",
+            "Justice K.G. Balakrishnan",
+            "Justice N.V. Ramana"
+          ],
+          "a": 0,
+          "e": "<b>Justice Pinaki Chandra Ghose</b>, a former Supreme Court judge, was appointed as India's first Lokpal Chairperson in March 2019."
+        },
+        {
+          "q": "As per the 2019 amendment, the term of office of the NHRC Chairperson/members is:",
+          "o": [
+            "5 years or age 65, whichever is earlier",
+            "3 years or age 70, whichever is earlier",
+            "6 years or age 65, whichever is earlier",
+            "Life tenure"
+          ],
+          "a": 1,
+          "e": "The 2019 amendment to the Protection of Human Rights Act reduced the term from five years to <b>3 years or age 70, whichever is earlier</b>."
+        },
+        {
+          "q": "The term of office of the Central Vigilance Commissioner is:",
+          "o": [
+            "3 years or age 62, whichever is earlier",
+            "4 years or age 65, whichever is earlier",
+            "5 years or age 60, whichever is earlier",
+            "6 years with no age limit"
+          ],
+          "a": 1,
+          "e": "Under the CVC Act, 2003, the Central Vigilance Commissioner holds office for <b>4 years or till age 65</b>, whichever is earlier."
+        },
+        {
+          "q": "What is the minimum fixed tenure prescribed for the Director, CBI?",
+          "o": [
+            "1 year",
+            "2 years",
+            "3 years",
+            "5 years"
+          ],
+          "a": 1,
+          "e": "The CVC Act, 2003 prescribes a minimum tenure of <b>2 years</b> for the Director, CBI, to insulate the post from arbitrary transfers."
+        },
+        {
+          "q": "Where is the headquarters of the NHRC located?",
+          "o": [
+            "Mumbai",
+            "Kolkata",
+            "New Delhi",
+            "Chennai"
+          ],
+          "a": 2,
+          "e": "The NHRC is headquartered in <b>New Delhi</b>."
+        },
+        {
+          "q": "The Central Vigilance Commission consists of a Central Vigilance Commissioner and:",
+          "o": [
+            "not more than 2 Vigilance Commissioners",
+            "exactly 4 Vigilance Commissioners",
+            "not more than 5 Vigilance Commissioners",
+            "no other members"
+          ],
+          "a": 0,
+          "e": "The CVC comprises the Central Vigilance Commissioner (Chairperson) and <b>not more than two Vigilance Commissioners</b>."
+        },
+        {
+          "q": "The Lokpal and Lokayuktas Act, 2013 mandates every state to establish which body?",
+          "o": [
+            "State Human Rights Commission",
+            "State Vigilance Commission",
+            "Lokayukta",
+            "State Information Commission"
+          ],
+          "a": 2,
+          "e": "The Act mandates every state to establish a <b>Lokayukta</b> within a stipulated period of the Act's commencement."
+        },
+        {
+          "q": "While inquiring into complaints, the NHRC has the powers of a:",
+          "o": [
+            "Civil court",
+            "Criminal court",
+            "High Court",
+            "Tribunal with no procedural powers"
+          ],
+          "a": 0,
+          "e": "The NHRC has all the powers of a <b>civil court</b> while inquiring into complaints, such as summoning witnesses and requisitioning documents."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the committee that recommends appointment of the NHRC Chairperson and Members:\n1. It is headed by the Prime Minister.\n2. It includes the Speaker of the Lok Sabha.\n3. It includes the Leaders of Opposition in both the Lok Sabha and Rajya Sabha.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3",
+            "1 only"
+          ],
+          "a": 2,
+          "e": "All three statements are correct — the committee is chaired by the <b>Prime Minister</b> and includes the Speaker of Lok Sabha, Union Home Minister, Leaders of Opposition in both Houses, and the Deputy Chairman of Rajya Sabha."
+        },
+        {
+          "q": "Consider the following statements about the Central Vigilance Commission (CVC):\n1. It is an investigating agency in its own right.\n2. It exercises superintendence over the Delhi Special Police Establishment (CBI) only in respect of offences under the Prevention of Corruption Act, 1988.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The CVC is <b>not an investigating agency</b> itself; it only advises and exercises superintendence over CBI's investigation of offences under the <b>Prevention of Corruption Act</b>."
+        },
+        {
+          "q": "Consider the following statements about the selection committee for the Director, CBI, as amended by the Lokpal and Lokayuktas Act, 2013:\n1. It is chaired by the Prime Minister.\n2. It includes the Leader of Opposition in the Lok Sabha.\n3. It includes the Chief Justice of India or a Supreme Court Judge nominated by him.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "After the 2013 amendment to the DSPE Act, the Director, CBI is selected by a committee of the <b>Prime Minister (Chairperson), Leader of Opposition in Lok Sabha, and the CJI or his nominee judge</b>."
+        },
+        {
+          "q": "Consider the following statements regarding CBI's investigative jurisdiction:\n1. CBI requires the consent of the concerned State Government to investigate a crime within that state, under Section 6 of the DSPE Act.\n2. The Supreme Court and High Courts can direct a CBI investigation without requiring state consent.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. <b>Section 6 of the DSPE Act, 1946</b> requires state consent for CBI to operate in a state, but constitutional courts can order a CBI probe in exercise of their writ jurisdiction without such consent."
+        },
+        {
+          "q": "Consider the following statements about restrictions on the NHRC's power to inquire into complaints:\n1. It cannot inquire into a matter after one year has elapsed from the date of the alleged act.\n2. It cannot inquire into a matter that is pending before a State Human Rights Commission.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both restrictions are laid down in the Protection of Human Rights Act — the <b>one-year limitation</b> and the bar on matters <b>pending before a State Human Rights Commission</b>."
+        },
+        {
+          "q": "Consider the following statements regarding the composition of the Lokpal:\n1. It consists of a Chairperson and a maximum of 8 members.\n2. At least 50% of the members are required to be judicial members.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The Lokpal consists of a <b>Chairperson and a maximum of eight members</b>, of whom fifty percent shall be judicial members."
+        },
+        {
+          "q": "Consider the following statements regarding the Lokpal's jurisdiction over the Prime Minister:\n1. The Prime Minister is completely excluded from the Lokpal's jurisdiction.\n2. Matters relating to international relations, security, public order and atomic energy are excluded from inquiry against the PM.\n3. Inquiry against the PM on other matters requires approval by at least two-thirds of the full bench of the Lokpal.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "The PM is <b>not completely excluded</b> — only certain sensitive matters are excluded, and any inquiry requires approval of the full bench by a <b>two-thirds majority</b>."
+        },
+        {
+          "q": "Consider the following statements comparing NHRC and CVC:\n1. Both are statutory bodies.\n2. The recommendations of the NHRC are essentially recommendatory in nature and not binding.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are statutory (not constitutional) bodies, and the NHRC's recommendations are <b>recommendatory</b> — it cannot enforce them or punish violators."
+        },
+        {
+          "q": "Consider the following statements about the eligibility for the Chairperson of the Lokpal:\n1. A former Chief Justice of India is eligible.\n2. A former Judge of the Supreme Court is eligible.\n3. An eminent person meeting specified criteria is eligible.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "The Lokpal Chairperson may be a former <b>Chief Justice of India, a former Judge of the Supreme Court, or an eminent person</b> fulfilling eligibility criteria specified in the Act."
+        },
+        {
+          "q": "Consider the following statements regarding the Lokpal selection committee:\n1. It includes the Speaker of the Lok Sabha.\n2. It includes an eminent jurist.\n3. It includes the Chief Justice of India or a Judge nominated by him.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "The Lokpal selection committee comprises the PM, Speaker of Lok Sabha, Leader of Opposition in Lok Sabha, the CJI (or his nominee), and an <b>eminent jurist</b>."
+        },
+        {
+          "q": "Consider the following statements about State Human Rights Commissions (SHRCs):\n1. They are established under the same Act as the NHRC.\n2. Their structure is left entirely to each state's discretion with no central legislative basis.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "SHRCs are constituted under the <b>Protection of Human Rights Act, 1993</b> itself — the same central Act that establishes the NHRC."
+        },
+        {
+          "q": "Consider the following statements about judicial members of the Lokpal:\n1. A judicial member must be a former Judge of the Supreme Court or a former Chief Justice of a High Court.\n2. Fifty percent of Lokpal members are required to be judicial members.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are correct — judicial members must have been a former <b>Supreme Court Judge or Chief Justice of a High Court</b>, and they must constitute 50% of the Lokpal's membership."
+        },
+        {
+          "q": "Consider the following statements regarding the Lokayukta at the state level:\n1. The 2013 Act itself prescribes a uniform composition for all State Lokayuktas.\n2. States are required to establish a Lokayukta through their own state legislation.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "The Act mandates establishment of a Lokayukta but does <b>not prescribe a uniform structure</b>; composition is determined by each state's own legislation."
+        },
+        {
+          "q": "Consider the following statements about the CVC's relationship with anti-corruption work:\n1. The CVC advises central government agencies in planning, executing and reviewing anti-corruption work.\n2. The CVC is free from the control of any executive authority.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements reflect the CVC's conception as the apex vigilance institution, <b>free of executive control</b>, that advises on anti-corruption measures."
+        },
+        {
+          "q": "Consider the following statements regarding NHRC membership:\n1. The Commission must include at least one woman member.\n2. Members are appointed by the Prime Minister directly, without reference to the President.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The NHRC must include <b>at least one woman member</b>; appointments are made by the <b>President</b> on the recommendation of the selection committee, not by the PM alone."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "In which landmark case did the Supreme Court lay down guidelines to insulate the CBI from external influence and recommend statutory status for the CVC?",
+          "o": [
+            "Vineet Narain v. Union of India (1997)",
+            "Kesavananda Bharati v. State of Kerala (1973)",
+            "S.R. Bommai v. Union of India (1994)",
+            "L. Chandra Kumar v. Union of India (1997)"
+          ],
+          "a": 0,
+          "e": "In <b>Vineet Narain v. Union of India (1997)</b> (the Jain Hawala case), the Supreme Court issued directions to insulate the CBI and directed that the CVC be given statutory status — leading to the CVC Act, 2003."
+        },
+        {
+          "q": "The Supreme Court's remark describing the CBI as a 'caged parrot speaking in its master's voice' was made in the context of which case?",
+          "o": [
+            "2G Spectrum case",
+            "Coal allocation (Coalgate) scam case",
+            "Bofors scandal case",
+            "Bhopal gas tragedy case"
+          ],
+          "a": 1,
+          "e": "The Supreme Court used the 'caged parrot' remark in 2013 while hearing petitions related to the <b>coal allocation (Coalgate) scam</b>, criticising government interference in CBI's functioning."
+        },
+        {
+          "q": "Which of the following changes was introduced by the 2019 amendment to the Protection of Human Rights Act, 1993?",
+          "o": [
+            "It made NHRC a constitutional body",
+            "It broadened Chairperson eligibility to include a former Judge of the Supreme Court, not just a former CJI",
+            "It abolished State Human Rights Commissions",
+            "It gave NHRC powers to directly punish violators of human rights"
+          ],
+          "a": 1,
+          "e": "The 2019 amendment <b>broadened eligibility for NHRC Chairperson</b> to include a former Judge of the Supreme Court, in addition to a former Chief Justice of India; NHRC remains a statutory, not constitutional, body."
+        },
+        {
+          "q": "Prior to the 2013 amendment of the DSPE Act by the Lokpal and Lokayuktas Act, which committee (under the CVC Act, 2003) recommended the appointment of the Director, CBI?",
+          "o": [
+            "Prime Minister, Leader of Opposition and Chief Justice of India",
+            "Central Vigilance Commissioner, Vigilance Commissioners, and Secretaries of Home and Personnel",
+            "President, Vice-President and Chief Justice of India",
+            "Union Home Minister, Union Law Minister and Cabinet Secretary"
+          ],
+          "a": 1,
+          "e": "Under the original CVC Act, 2003 scheme, the committee comprised the <b>Central Vigilance Commissioner, Vigilance Commissioners, and the Secretaries of the Home and Personnel Ministries</b>; this was changed by the 2013 amendment to include the PM, LoP, and CJI/nominee."
+        },
+        {
+          "q": "Why has several state governments' withdrawal of 'general consent' to the CBI under Section 6 of the DSPE Act, 1946 become significant in recent years?",
+          "o": [
+            "It means CBI can no longer function anywhere in India",
+            "It requires CBI to seek case-specific consent from that state government before investigating, except where courts have ordered the probe",
+            "It abolishes the CBI's jurisdiction permanently in that state",
+            "It transfers CBI's powers to the state CID automatically"
+          ],
+          "a": 1,
+          "e": "Withdrawal of general consent means CBI must obtain <b>case-specific consent</b> from the state government under Section 6 before registering or investigating a case there, unless a constitutional court has ordered the investigation."
+        },
+        {
+          "q": "How does the Lokpal's relationship with the CBI differ from that of the CVC?",
+          "o": [
+            "The Lokpal has no relationship with CBI at all",
+            "The Lokpal exercises superintendence and direction over the CBI only in matters referred to it, while CVC's superintendence is limited to Prevention of Corruption Act offences",
+            "The Lokpal directly appoints the Director, CBI",
+            "The CVC has complete administrative control over CBI, replacing DoPT"
+          ],
+          "a": 1,
+          "e": "The Lokpal has powers of <b>superintendence and direction over the CBI in matters referred to it</b> by the Lokpal, distinct from the CVC's narrower superintendence limited to Prevention of Corruption Act investigations."
+        },
+        {
+          "q": "Which statement correctly distinguishes the constitutional/statutory status of these bodies?",
+          "o": [
+            "NHRC, CVC and Lokpal are all constitutional bodies while CBI is statutory",
+            "NHRC, CVC and Lokpal are all statutory bodies, while CBI is neither constitutional nor created by a dedicated statute of its own",
+            "CBI is a constitutional body while the other three are statutory",
+            "All four bodies are constitutional bodies"
+          ],
+          "a": 1,
+          "e": "NHRC, CVC and the Lokpal are each created by dedicated statutes, whereas the <b>CBI has no dedicated founding statute</b> — it derives its powers from the pre-independence DSPE Act, 1946."
+        },
+        {
+          "q": "Which of the following best captures a key structural feature of Lokayuktas established under the Lokpal and Lokayuktas Act, 2013?",
+          "o": [
+            "All Lokayuktas have an identical composition prescribed by the central Act",
+            "The central Act mandates establishment of a Lokayukta but leaves composition/structure to be determined by state legislatures, resulting in wide variation across states",
+            "Lokayuktas are appointed directly by the Lokpal",
+            "Lokayuktas can only be headed by a sitting High Court judge in every state"
+          ],
+          "a": 1,
+          "e": "The Act only <b>mandates</b> that states establish a Lokayukta; the actual composition and structure is left to <b>state legislation</b>, so it varies considerably from state to state."
+        },
+        {
+          "q": "In terms of chronology, which of the following bodies traces its origins to the earliest year?",
+          "o": [
+            "National Human Rights Commission (1993)",
+            "Central Bureau of Investigation (constituted 1963 under a 1946 Act)",
+            "Lokpal (2013)",
+            "Central Vigilance Commission as a statutory body (2003)"
+          ],
+          "a": 1,
+          "e": "The CBI was constituted in 1963 by a Home Ministry resolution, drawing its legal power from the <b>Delhi Special Police Establishment Act, 1946</b> — predating the CVC (1964), NHRC (1993) and Lokpal (2013)."
+        },
+        {
+          "q": "What is the significance of the 'eminent jurist' member in the Lokpal selection committee, when compared with the NHRC and CVC appointment committees?",
+          "o": [
+            "All three committees include an eminent jurist",
+            "The eminent jurist is unique to the Lokpal selection committee; NHRC and CVC committees do not include such a member",
+            "The eminent jurist replaces the Chief Justice of India in the Lokpal committee",
+            "The eminent jurist has voting rights only in NHRC appointments"
+          ],
+          "a": 1,
+          "e": "The Lokpal selection committee uniquely includes an <b>eminent jurist</b> alongside the PM, Speaker of Lok Sabha, LoP, and CJI/nominee — a feature absent from the NHRC and CVC appointment committees."
+        },
+        {
+          "q": "Under the Protection of Human Rights Act, how can the Chairperson of the NHRC be removed from office on grounds of proved misbehaviour or incapacity?",
+          "o": [
+            "By a simple resolution of both Houses of Parliament",
+            "By the President, only after the Supreme Court, on reference, holds an inquiry and reports that the Chairperson ought to be removed",
+            "By the Prime Minister's direct order",
+            "By the selection committee that appointed the Chairperson"
+          ],
+          "a": 1,
+          "e": "Removal follows a judge-like process — the <b>President refers the matter to the Supreme Court</b>, and can order removal only after the Supreme Court's inquiry finds the charge proved."
+        },
+        {
+          "q": "Which of the following correctly explains why the CVC cannot be equated with an 'investigating agency'?",
+          "o": [
+            "The CVC directly investigates all corruption cases in central government departments",
+            "The CVC only oversees, advises, and exercises superintendence over investigating agencies like the CBI, but does not itself conduct investigations",
+            "The CVC has been merged with the CBI since 2003",
+            "The CVC investigates cases only in states, not at the Centre"
+          ],
+          "a": 1,
+          "e": "The CVC is designed as a <b>supervisory and advisory apex vigilance body</b>; it does not conduct investigations itself, relying instead on agencies like the CBI for that function."
+        },
+        {
+          "q": "The 2019 amendment to the Protection of Human Rights Act also made changes regarding NHRC's membership by:",
+          "o": [
+            "Making the Chief Election Commissioner an ex-officio member of NHRC",
+            "Including chairpersons of certain national commissions (such as those for women, SC, ST, and OBCs) as deemed members of NHRC",
+            "Removing the requirement of a woman member",
+            "Abolishing the post of NHRC members altogether"
+          ],
+          "a": 1,
+          "e": "The 2019 amendment added chairpersons of commissions such as the <b>National Commission for Women, SC, ST, and Backward Classes</b> as deemed members of the NHRC, broadening its composition."
+        },
+        {
+          "q": "Which of the following statements about the Lokpal's exclusion criteria concerning inquiry against the Prime Minister is correct?",
+          "o": [
+            "Any complaint against the PM can be inquired into by a single member of the Lokpal",
+            "A decision to inquire into an allegation against the PM requires consideration by the full Bench of the Lokpal and approval by at least two-thirds majority, and certain sensitive subjects are excluded altogether",
+            "The Lokpal has absolutely no jurisdiction over the Prime Minister under any circumstance",
+            "The President alone decides whether the PM can be investigated by the Lokpal"
+          ],
+          "a": 1,
+          "e": "Inquiry against the PM needs consideration by the <b>full Bench</b> and a <b>two-thirds majority</b> approval, with matters like international relations, security, public order and atomic energy kept outside Lokpal's purview."
+        },
+        {
+          "q": "What was the key recommendation of the Vineet Narain judgment (1997) that directly led to a major structural reform enacted only in 2003?",
+          "o": [
+            "Creation of the NHRC",
+            "Conferring statutory status on the CVC and granting it a supervisory role over the CBI's anti-corruption investigations",
+            "Establishment of the Lokpal",
+            "Abolition of the Delhi Special Police Establishment Act"
+          ],
+          "a": 1,
+          "e": "The Supreme Court's directions in <b>Vineet Narain v. Union of India</b> directly led to Parliament enacting the <b>CVC Act, 2003</b>, giving the CVC statutory status and supervisory authority over CBI's corruption investigations."
+        }
+      ]
+    }
+  }
+]

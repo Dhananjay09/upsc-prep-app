@@ -1,0 +1,1390 @@
+[
+{
+  "id": "historical_background",
+  "title": "Historical Background",
+  "desc": "British constitutional developments in India before 1950",
+  "questions": {
+    "basic": [
+      {
+        "q": "Who was appointed as the first Governor-General of Bengal under the Regulating Act of 1773?",
+        "o": ["Warren Hastings", "Lord Cornwallis", "Lord Wellesley", "Robert Clive"],
+        "a": 0,
+        "e": "The <b>Regulating Act of 1773</b> made the Governor of Bengal the 'Governor-General of Bengal,' and <b>Warren Hastings</b> became the first to hold this office."
+      },
+      {
+        "q": "In which year was the Supreme Court at Calcutta established?",
+        "o": ["1773", "1774", "1784", "1793"],
+        "a": 1,
+        "e": "The Supreme Court at Calcutta was established in <b>1774</b> through a separate Act/Charter, following the Regulating Act of 1773."
+      },
+      {
+        "q": "How many members did the Governor-General's Council consist of under the Regulating Act of 1773?",
+        "o": ["3", "4", "5", "6"],
+        "a": 1,
+        "e": "The <b>Regulating Act of 1773</b> provided for an Executive Council of <b>four members</b> to assist the Governor-General."
+      },
+      {
+        "q": "Pitt's India Act of 1784 established a system of double government through the Court of Directors and which new body?",
+        "o": ["Board of Control", "Council of India", "Privy Council", "Secretary of State's Council"],
+        "a": 0,
+        "e": "<b>Pitt's India Act, 1784</b> created a <b>Board of Control</b> to manage political affairs, while the Company's Court of Directors retained commercial affairs."
+      },
+      {
+        "q": "The Charter Act of 1813 ended the East India Company's trade monopoly in India except in the trade of which items?",
+        "o": ["Tea and trade with China", "Cotton and opium", "Salt and spices", "Textiles and indigo"],
+        "a": 0,
+        "e": "The <b>Charter Act of 1813</b> ended the Company's general trade monopoly but retained its monopoly over <b>tea trade and trade with China</b>."
+      },
+      {
+        "q": "Who became the first Governor-General of India under the Charter Act of 1833?",
+        "o": ["Warren Hastings", "Lord William Bentinck", "Lord Dalhousie", "Lord Canning"],
+        "a": 1,
+        "e": "The <b>Charter Act of 1833</b> converted the Governor-General of Bengal into the <b>Governor-General of India</b>, and Lord William Bentinck was the first to hold this position."
+      },
+      {
+        "q": "Which new post was added to the Governor-General's Council by the Charter Act of 1833?",
+        "o": ["Home Member", "Law Member", "Finance Member", "Military Member"],
+        "a": 1,
+        "e": "The <b>Charter Act of 1833</b> added a <b>Law Member</b> as a fourth member of the Governor-General's Council."
+      },
+      {
+        "q": "The Charter Act of 1853 created a separate Legislative Council with how many additional 'legislative councillors'?",
+        "o": ["4", "6", "8", "12"],
+        "a": 1,
+        "e": "The <b>Charter Act of 1853</b> separated legislative and executive functions by adding <b>six additional legislative councillors</b>, forming a body that functioned like a mini-parliament."
+      },
+      {
+        "q": "The Government of India Act of 1858 created which new office in Britain to oversee Indian affairs?",
+        "o": ["Board of Control", "Secretary of State for India", "Viceroy's Council", "Governor-General's Council"],
+        "a": 1,
+        "e": "Following the Revolt of 1857, the <b>Government of India Act, 1858</b> abolished the Board of Control and Court of Directors and created the office of <b>Secretary of State for India</b>."
+      },
+      {
+        "q": "Who was the first Viceroy of India, a title created by the Government of India Act of 1858?",
+        "o": ["Lord Canning", "Lord Curzon", "Lord Ripon", "Lord Dalhousie"],
+        "a": 0,
+        "e": "The <b>Government of India Act, 1858</b> gave the Governor-General the additional title of <b>Viceroy</b>, and Lord Canning became the first Viceroy of India."
+      },
+      {
+        "q": "Which system, later becoming the basis of the modern cabinet system, was introduced by the Indian Councils Act of 1861?",
+        "o": ["Dyarchy system", "Portfolio system", "Federal system", "Bicameral system"],
+        "a": 1,
+        "e": "The <b>Indian Councils Act of 1861</b> introduced the <b>portfolio system</b>, allowing Council members to be placed in charge of specific departments."
+      },
+      {
+        "q": "The Indian Councils Act of 1909 (Morley-Minto Reforms) introduced separate electorates for which community for the first time?",
+        "o": ["Sikhs", "Muslims", "Anglo-Indians", "Christians"],
+        "a": 1,
+        "e": "The <b>Indian Councils Act, 1909</b> introduced <b>separate electorates for Muslims</b>, earning Lord Minto the epithet 'Father of Communal Electorate.'"
+      },
+      {
+        "q": "Who became the first Indian to be appointed as a member of the Viceroy's Executive Council?",
+        "o": ["Satyendra Prasad Sinha", "Surendranath Banerjee", "Dadabhai Naoroji", "Motilal Nehru"],
+        "a": 0,
+        "e": "Under the <b>Indian Councils Act of 1909</b>, Satyendra Prasad Sinha was appointed <b>Law Member</b>, becoming the first Indian on the Viceroy's Executive Council."
+      },
+      {
+        "q": "The Government of India Act of 1919 introduced 'dyarchy' at which level of government?",
+        "o": ["Central government", "Provincial government", "District government", "Both centre and provinces"],
+        "a": 1,
+        "e": "The <b>Government of India Act, 1919</b> (Montagu-Chelmsford Reforms) introduced <b>dyarchy in the provinces</b>, dividing subjects into transferred and reserved categories."
+      },
+      {
+        "q": "In which year was the Federal Court of India established under the Government of India Act of 1935?",
+        "o": ["1935", "1937", "1939", "1947"],
+        "a": 1,
+        "e": "The <b>Federal Court</b>, a precursor to the Supreme Court, was established in <b>1937</b> under the Government of India Act, 1935."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements about the Regulating Act of 1773:\n1. It made the Governor of Bengal the 'Governor-General of Bengal.'\n2. It subordinated the Bombay and Madras Presidencies to Bengal in certain matters.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both statements are correct: the <b>Regulating Act of 1773</b> created the Governor-General of Bengal and subordinated Bombay and Madras to Bengal in certain matters."
+      },
+      {
+        "q": "Consider the following statements about Pitt's India Act, 1784:\n1. It established the Board of Control to manage political affairs.\n2. It was the first Act to refer to Company territories in India as 'British possessions in India.'\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "<b>Pitt's India Act, 1784</b> created the Board of Control and was the first Act to term Company territories as 'British possessions in India.'"
+      },
+      {
+        "q": "Consider the following statements about the Charter Act of 1793:\n1. It renewed the East India Company's charter for a period of 20 years.\n2. It introduced significant constitutional changes in the structure of governance in India.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "The <b>Charter Act of 1793</b> merely renewed the Company's charter for <b>20 years</b> without introducing any major constitutional changes."
+      },
+      {
+        "q": "Consider the following statements about the Charter Act of 1813:\n1. It ended the Company's trade monopoly in India completely, including the China trade.\n2. It retained the Company's monopoly over trade in tea and with China.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 1,
+        "e": "The <b>Charter Act of 1813</b> ended most of the trade monopoly but retained the Company's monopoly over <b>tea and China trade</b>; complete abolition came only in 1833."
+      },
+      {
+        "q": "Consider the following statements about the Charter Act of 1833:\n1. The Company ceased to be a commercial body and became a purely administrative body.\n2. It successfully introduced open competition for recruitment to the civil service.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "The <b>Charter Act of 1833</b> made the Company a purely administrative body, but its attempt at open competition for the civil service was <b>unsuccessful</b>."
+      },
+      {
+        "q": "Consider the following statements about the Charter Act of 1853:\n1. It introduced open competition for the covenanted civil service based on the Macaulay Committee's recommendations.\n2. It was the last of the Charter Acts and did not specify a fixed term for renewal.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "The <b>Charter Act of 1853</b> introduced open competition (Macaulay Committee, 1854) and was the <b>last Charter Act</b>, with no fixed renewal term."
+      },
+      {
+        "q": "Consider the following statements about the Government of India Act, 1858:\n1. It abolished the Board of Control and the Court of Directors.\n2. It provided for a 15-member Council of India to assist the Secretary of State in an advisory capacity.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "The <b>Government of India Act, 1858</b> abolished the Board of Control and Court of Directors and set up a <b>15-member Council of India</b> to assist the Secretary of State."
+      },
+      {
+        "q": "Consider the following statements about the Indian Councils Act, 1861:\n1. It restored legislative powers to the Bombay and Madras Presidencies, beginning the process of decentralization.\n2. Lord Canning nominated three Indians as non-official members of the legislative council.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "The <b>Indian Councils Act, 1861</b> restored legislative powers to Bombay and Madras and Lord Canning nominated <b>three Indians</b> as non-official members."
+      },
+      {
+        "q": "Consider the following statements about the Indian Councils Act, 1892:\n1. It increased the number of non-official members in the legislative councils and allowed them to discuss the budget.\n2. It used the word 'election' explicitly to describe the method of choosing non-official members.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "The <b>Indian Councils Act, 1892</b> expanded council functions and members, but the word '<b>election</b>' was deliberately not used in the Act."
+      },
+      {
+        "q": "Consider the following statements about the Indian Councils Act, 1909 (Morley-Minto Reforms):\n1. It allowed Indians to become members of the Viceroy's Executive Council for the first time.\n2. Satyendra Prasad Sinha became the first Indian member, holding the portfolio of Law Member.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "The <b>1909 Act</b> allowed Indians onto the Viceroy's Executive Council for the first time, and <b>Satyendra Prasad Sinha</b> became the first such member as Law Member."
+      },
+      {
+        "q": "Consider the following statements about the Government of India Act, 1919:\n1. It provided for a bicameral central legislature consisting of the Council of State and the Legislative Assembly.\n2. It extended separate electorates to Sikhs, Anglo-Indians, and Europeans in addition to Muslims.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "The <b>Government of India Act, 1919</b> created a <b>bicameral central legislature</b> for the first time and extended <b>separate electorates</b> to Sikhs, Anglo-Indians, and Europeans."
+      },
+      {
+        "q": "Consider the following statements about the Government of India Act, 1935:\n1. It introduced provincial autonomy by abolishing dyarchy in the provinces.\n2. It provided for the establishment of a Reserve Bank of India.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "The <b>Government of India Act, 1935</b> introduced <b>provincial autonomy</b> (abolishing dyarchy in provinces) and provided for the <b>Reserve Bank of India</b>."
+      },
+      {
+        "q": "Consider the following statements about the Indian Independence Act, 1947:\n1. It was based on the Mountbatten Plan of 3 June 1947.\n2. It ended the paramountcy of the British Crown over the Indian princely states.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "The <b>Indian Independence Act, 1947</b>, based on the <b>Mountbatten Plan</b>, ended British Crown <b>paramountcy</b> over the princely states."
+      },
+      {
+        "q": "Consider the following statements about the Cabinet Mission Plan of 1946:\n1. It accepted the demand for a full separate sovereign state of Pakistan.\n2. It proposed grouping British Indian provinces into Sections A, B, and C.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 1,
+        "e": "The <b>Cabinet Mission Plan, 1946</b> rejected full Pakistan and instead proposed grouping provinces into <b>Sections A, B, and C</b> within a loose federal union."
+      },
+      {
+        "q": "Consider the following statements regarding the original composition of the Constituent Assembly of India:\n1. It had a total of 389 members.\n2. Of these, 93 members represented the Indian princely states.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "The Constituent Assembly originally had <b>389 members</b>: 296 from British India's provinces and <b>93 from the princely states</b>."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "Which of the following statements about the Regulating Act of 1773 is NOT correct?",
+        "o": [
+          "It made the Governor of Bengal the Governor-General of Bengal",
+          "It established the Supreme Court at Calcutta as part of the same Act, without any need for separate legislation",
+          "It subordinated the Bombay and Madras Presidencies to Bengal in certain matters",
+          "It provided for a four-member Executive Council for the Governor-General"
+        ],
+        "a": 1,
+        "e": "The Supreme Court at Calcutta was established in <b>1774 via a separate Act/Charter</b>, not directly by the Regulating Act of 1773 itself."
+      },
+      {
+        "q": "Which of the following was a specific contribution of Pitt's India Act, 1784, distinguishing it from the Regulating Act of 1773?",
+        "o": [
+          "It established the Supreme Court at Calcutta",
+          "It created the Board of Control and for the first time termed Company territories as 'British possessions in India'",
+          "It made the Governor-General of Bengal the Governor-General of India",
+          "It introduced the portfolio system"
+        ],
+        "a": 1,
+        "e": "<b>Pitt's India Act, 1784</b> uniquely created the Board of Control and first used the term 'British possessions in India'; the other options belong to different Acts."
+      },
+      {
+        "q": "Arrange the following developments in the correct chronological sequence:\n1. Ended the Company's trade monopoly except tea and China trade\n2. Renewed the Company's charter for 20 years with no major changes\n3. Ended the Company's trade monopoly completely\n4. Was the last Charter Act, with no fixed renewal term",
+        "o": ["1-2-3-4", "2-1-3-4", "2-3-1-4", "1-3-2-4"],
+        "a": 1,
+        "e": "The correct order is Charter Act <b>1793</b> (renewal, no changes) &rarr; <b>1813</b> (partial monopoly end) &rarr; <b>1833</b> (complete monopoly end) &rarr; <b>1853</b> (last Charter Act)."
+      },
+      {
+        "q": "Consider the following statements regarding the Charter Act of 1813:\n1. It ended the Company's trade monopoly in India for most goods.\n2. It completely abolished all of the Company's trading privileges, including tea and China trade.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "The <b>Charter Act of 1813</b> ended the general trade monopoly, but tea and China trade privileges were abolished only later, by the <b>Charter Act of 1833</b>."
+      },
+      {
+        "q": "Why is the Charter Act of 1833's attempt at open competition for civil service recruitment considered 'unsuccessful'?",
+        "o": [
+          "It was never legislated at all",
+          "Though provided for in the Act, it could not be effectively implemented, and open competition for the civil service was actually introduced later by the Charter Act of 1853",
+          "It applied only to the Madras Presidency",
+          "It was replaced immediately by a nomination system in the same year"
+        ],
+        "a": 1,
+        "e": "The <b>1833 Act</b> provided for open competition, but it was not effectively implemented; genuine open competition for the covenanted civil service came only with the <b>1853 Act</b>."
+      },
+      {
+        "q": "Which of the following correctly distinguishes the Charter Act of 1853 from earlier Charter Acts?",
+        "o": [
+          "It was the first Charter Act with no fixed term for renewal of the Company's charter",
+          "It first allowed Indians to become members of the legislative council",
+          "It first introduced dyarchy in the provinces",
+          "It ended the Company's trade monopoly in India"
+        ],
+        "a": 0,
+        "e": "Unlike earlier Charter Acts renewed for fixed terms, the <b>Charter Act of 1853</b> was the last one and specified no fixed renewal term."
+      },
+      {
+        "q": "The Government of India Act of 1858 is best understood in which of the following ways?",
+        "o": [
+          "It transferred power from the Company to the Crown, without introducing any change to the legislative council's composition or functions",
+          "It transferred power from the Crown to the Company, while significantly expanding the legislative council",
+          "It introduced dyarchy while retaining Company rule in name",
+          "It abolished the post of Governor-General"
+        ],
+        "a": 0,
+        "e": "The <b>1858 Act</b> was primarily an administrative reorganization transferring power from Company to Crown; changes to the legislative council's composition came only with the <b>Indian Councils Act of 1861</b>."
+      },
+      {
+        "q": "Which of the following is a subtle but important distinction about the association of Indians with law-making under the Indian Councils Act of 1861?",
+        "o": [
+          "Indians were elected members of the legislative council for the first time",
+          "Indians were nominated as non-official members, not elected, marking the first association of Indians with the law-making process",
+          "Indians were given a separate electorate for the first time",
+          "Indians formed a majority in the legislative council"
+        ],
+        "a": 1,
+        "e": "Under the <b>1861 Act</b>, Lord Canning nominated Indians as <b>non-official members</b>; this was association, not election, which came only later."
+      },
+      {
+        "q": "Which of the following statements about elections to legislative councils under the Indian Councils Act of 1892 is most accurate?",
+        "o": [
+          "It introduced full direct elections based on adult franchise",
+          "It introduced a limited, indirect form of elections, though the word 'election' was deliberately not used in the Act",
+          "It introduced separate electorates for Muslims",
+          "It introduced elections only for Sikhs and Anglo-Indians"
+        ],
+        "a": 1,
+        "e": "The <b>1892 Act</b> allowed non-official members to be recommended by certain bodies, an indirect election-like mechanism, without ever using the word 'election.'"
+      },
+      {
+        "q": "Which of the following correctly captures a feature of the Morley-Minto Reforms of 1909 that is often confused with later reforms?",
+        "o": [
+          "It introduced separate electorates for Muslims and, in the same Act, for Sikhs and Anglo-Indians as well",
+          "It introduced separate electorates only for Muslims; separate electorates for Sikhs, Anglo-Indians, and Europeans were introduced later by the Government of India Act, 1919",
+          "It gave Indians a majority in the Viceroy's Executive Council",
+          "It introduced dyarchy in the provinces"
+        ],
+        "a": 1,
+        "e": "The <b>1909 Act</b> introduced separate electorates only for Muslims; extension to Sikhs, Anglo-Indians, and Europeans occurred only under the <b>1919 Act</b>."
+      },
+      {
+        "q": "Which of the following is an accurate but easily overlooked distinction of the Government of India Act, 1919?",
+        "o": [
+          "It introduced dyarchy at the centre while retaining unitary government in the provinces",
+          "It introduced dyarchy in the provinces (dividing subjects into transferred and reserved), while the centre continued without dyarchy",
+          "It abolished the office of Viceroy",
+          "It merged the Council of State and the Legislative Assembly into a single unicameral house"
+        ],
+        "a": 1,
+        "e": "Dyarchy under the <b>1919 Act</b> applied only to the <b>provinces</b>; dyarchy at the centre was proposed only later, by the 1935 Act, and even then never implemented."
+      },
+      {
+        "q": "Consider the following statements about the Government of India Act, 1935:\n1. Dyarchy was abolished in the provinces and provincial autonomy was introduced.\n2. Dyarchy was introduced at the centre, though it was never actually implemented.\n3. The proposed All-India Federation came into effect in 1937 along with the Federal Court.\nWhich of the statements given above are correct?",
+        "o": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+        "a": 0,
+        "e": "The <b>1935 Act</b> abolished provincial dyarchy and proposed (but never implemented) dyarchy at the centre; the <b>All-India Federation never came into being</b>, though the Federal Court was set up in 1937."
+      },
+      {
+        "q": "Which of the following correctly distinguishes the Indian Independence Act, 1947 from the Cabinet Mission Plan of 1946 regarding the question of Pakistan?",
+        "o": [
+          "Both rejected the creation of Pakistan",
+          "The Cabinet Mission Plan rejected a full separate Pakistan and proposed grouping of provinces instead, whereas the Indian Independence Act, 1947 actually created two independent dominions, India and Pakistan",
+          "The Indian Independence Act, 1947 proposed grouping of provinces into Sections A, B and C",
+          "The Cabinet Mission Plan created the dominion of Pakistan"
+        ],
+        "a": 1,
+        "e": "The <b>Cabinet Mission Plan (1946)</b> rejected full Pakistan, but the <b>Indian Independence Act (1947)</b>, based on the Mountbatten Plan, actually created the two dominions of India and Pakistan."
+      },
+      {
+        "q": "A common misconception about the framing of India's Constitution is corrected by which fact regarding the Cabinet Mission Plan, 1946?",
+        "o": [
+          "Constituent Assembly members were directly elected by the people through universal adult franchise",
+          "Constituent Assembly members were indirectly elected by the provincial legislative assemblies, at roughly one member per million population",
+          "Constituent Assembly members were all nominated by the Viceroy",
+          "Constituent Assembly members were selected only from princely states"
+        ],
+        "a": 1,
+        "e": "The <b>Cabinet Mission Plan</b> proposed indirect election of Constituent Assembly members by <b>provincial legislative assemblies</b>, not universal adult franchise, a fact often misunderstood."
+      },
+      {
+        "q": "Which of the following correctly explains the change in the Constituent Assembly's total membership after August 1947?",
+        "o": [
+          "It increased from 389 to over 400 due to new nominations",
+          "It decreased from 389 to about 299, mainly due to the Muslim League's withdrawal following Partition",
+          "It remained unchanged at 389 despite Partition",
+          "It decreased to 296 as all princely state representatives withdrew"
+        ],
+        "a": 1,
+        "e": "Following <b>Partition</b> and the <b>Muslim League's withdrawal</b>, the Constituent Assembly's membership fell from 389 to about <b>299</b>."
+      }
+    ]
+  }
+},
+{
+  "id": "making_of_constitution",
+  "title": "Making of the Constitution",
+  "desc": "Constituent Assembly formation, drafting process and key dates",
+  "questions": {
+    "basic": [
+      {
+        "q": "In which year did the Cabinet Mission Plan, under which the Constituent Assembly was formed, come to India?",
+        "o": ["1945", "1946", "1947", "1948"],
+        "a": 1,
+        "e": "The <b>Cabinet Mission Plan of 1946</b> provided the framework for the formation of the Constituent Assembly, whose members were indirectly elected by the provincial legislative assemblies."
+      },
+      {
+        "q": "On which date did the Constituent Assembly hold its first meeting?",
+        "o": ["26 January 1946", "9 December 1946", "15 August 1947", "26 November 1949"],
+        "a": 1,
+        "e": "The Constituent Assembly met for the first time on <b>9 December 1946</b>."
+      },
+      {
+        "q": "Who was elected as the temporary/provisional Chairman of the Constituent Assembly at its first sitting, being the oldest member present?",
+        "o": ["Dr. Rajendra Prasad", "Dr. Sachchidananda Sinha", "H.C. Mukherjee", "Dr. B.R. Ambedkar"],
+        "a": 1,
+        "e": "<b>Dr. Sachchidananda Sinha</b>, as the oldest member present, was elected the temporary chairman on 9 December 1946."
+      },
+      {
+        "q": "Who was elected the permanent President of the Constituent Assembly on 11 December 1946?",
+        "o": ["Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Dr. Rajendra Prasad", "Dr. B.R. Ambedkar"],
+        "a": 2,
+        "e": "<b>Dr. Rajendra Prasad</b> was elected permanent President of the Constituent Assembly on 11 December 1946."
+      },
+      {
+        "q": "Who served as the Vice-President of the Constituent Assembly?",
+        "o": ["H.C. Mukherjee", "N. Gopalaswami Ayyangar", "K.M. Munshi", "B.N. Rau"],
+        "a": 0,
+        "e": "<b>H.C. Mukherjee</b> served as the Vice-President of the Constituent Assembly under President Rajendra Prasad."
+      },
+      {
+        "q": "Who moved the Objectives Resolution in the Constituent Assembly?",
+        "o": ["Dr. Rajendra Prasad", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Vallabhbhai Patel"],
+        "a": 1,
+        "e": "The <b>Objectives Resolution</b> was moved by <b>Jawaharlal Nehru</b> on 13 December 1946."
+      },
+      {
+        "q": "On what date was the Objectives Resolution adopted by the Constituent Assembly?",
+        "o": ["13 December 1946", "22 January 1947", "26 January 1947", "29 August 1947"],
+        "a": 1,
+        "e": "The Objectives Resolution was moved on 13 December 1946 but adopted only on <b>22 January 1947</b>."
+      },
+      {
+        "q": "When was the Drafting Committee of the Constituent Assembly constituted?",
+        "o": ["9 December 1946", "22 January 1947", "29 August 1947", "26 November 1949"],
+        "a": 2,
+        "e": "The <b>Drafting Committee</b> was constituted on <b>29 August 1947</b> with seven members."
+      },
+      {
+        "q": "Who was the Chairman of the Drafting Committee?",
+        "o": ["Sir B.N. Rau", "Dr. B.R. Ambedkar", "K.M. Munshi", "N. Gopalaswami Ayyangar"],
+        "a": 1,
+        "e": "<b>Dr. B.R. Ambedkar</b> chaired the Drafting Committee, earning him the title 'Father of the Constitution'."
+      },
+      {
+        "q": "Who served as the Constitutional Advisor to the Constituent Assembly and prepared the original draft constitution?",
+        "o": ["Dr. B.R. Ambedkar", "Sir B.N. Rau", "Alladi Krishnaswami Ayyar", "T.T. Krishnamachari"],
+        "a": 1,
+        "e": "<b>Sir B.N. Rau</b>, the Constitutional Advisor, prepared the initial draft which was then examined by the Drafting Committee."
+      },
+      {
+        "q": "What was the original total strength of the Constituent Assembly as envisaged under the Cabinet Mission Plan?",
+        "o": ["299", "342", "389", "402"],
+        "a": 2,
+        "e": "The original strength was <b>389</b> members: 296 from British Indian provinces and 93 from princely states."
+      },
+      {
+        "q": "After the withdrawal of the Muslim League members following Partition, what was the reduced strength of the Constituent Assembly?",
+        "o": ["296", "299", "324", "389"],
+        "a": 1,
+        "e": "Following Partition and the Muslim League's withdrawal, the Assembly's strength was reduced to <b>299</b>."
+      },
+      {
+        "q": "On which date did the Constituent Assembly formally adopt the Constitution of India?",
+        "o": ["15 August 1947", "26 January 1950", "26 November 1949", "24 January 1950"],
+        "a": 2,
+        "e": "The Constitution was adopted on <b>26 November 1949</b>, now celebrated as Constitution Day (Samvidhan Diwas)."
+      },
+      {
+        "q": "On which date did most provisions of the Constitution of India come into force?",
+        "o": ["26 November 1949", "24 January 1950", "26 January 1950", "15 August 1950"],
+        "a": 2,
+        "e": "Most provisions commenced on <b>26 January 1950</b>, celebrated as Republic Day."
+      },
+      {
+        "q": "Approximately how long did the Constituent Assembly take to complete the drafting of the Constitution?",
+        "o": ["1 year and 6 months", "2 years, 11 months and 18 days", "3 years and 2 months", "6 months"],
+        "a": 1,
+        "e": "The Constituent Assembly took <b>2 years, 11 months and 18 days</b> to complete drafting the Constitution."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements regarding the Objectives Resolution:\n1. It was moved by Jawaharlal Nehru on 13 December 1946.\n2. It was adopted by the Constituent Assembly on 22 January 1947.\nWhich of the statements given above is/are correct?",
+        "o": ["Only 1", "Only 2", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both statements are correct; Nehru moved the <b>Objectives Resolution</b> on 13 December 1946 and it was adopted on 22 January 1947."
+      },
+      {
+        "q": "Consider the following statements about the Drafting Committee constituted on 29 August 1947:\n1. It originally had seven members.\n2. Dr. B.R. Ambedkar was its Chairman.\nWhich of the statements given above is/are correct?",
+        "o": ["Only 1", "Only 2", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "The <b>Drafting Committee</b> had seven original members with <b>Dr. B.R. Ambedkar</b> as Chairman."
+      },
+      {
+        "q": "With reference to the committees of the Constituent Assembly, consider the following pairs:\n1. Union Powers Committee : Jawaharlal Nehru\n2. Provincial Constitution Committee : Sardar Vallabhbhai Patel\n3. Steering Committee : Dr. B.R. Ambedkar\nHow many of the above pairs are correctly matched?",
+        "o": ["Only one pair", "Only two pairs", "All three pairs", "None of the pairs"],
+        "a": 1,
+        "e": "Pairs 1 and 2 are correct. The <b>Steering Committee</b> was chaired by <b>Dr. Rajendra Prasad</b>, not Ambedkar."
+      },
+      {
+        "q": "Consider the following statements regarding the Muslim League and the Constituent Assembly:\n1. The Muslim League boycotted the first session of the Constituent Assembly held on 9 December 1946.\n2. The Muslim League members withdrew from the Assembly altogether after Partition was decided.\nWhich of the statements given above is/are correct?",
+        "o": ["Only 1", "Only 2", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "The <b>Muslim League</b> boycotted the first session and later withdrew entirely once Partition was decided, reducing the Assembly's strength."
+      },
+      {
+        "q": "With reference to the original seven members of the Drafting Committee, consider the following statements:\n1. N. Madhava Rau was a member from the very beginning of the Committee.\n2. T.T. Krishnamachari joined the Committee as a replacement after the death of D.P. Khaitan.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 1,
+        "e": "<b>N. Madhava Rau</b> replaced B.L. Mitter (who resigned due to health) and was not an original member, whereas <b>T.T. Krishnamachari</b> replaced D.P. Khaitan after his death in 1948."
+      },
+      {
+        "q": "Consider the following statements about the composition of the Constituent Assembly:\n1. Members were elected directly by the people of India through universal adult franchise.\n2. Members were indirectly elected by the members of the provincial legislative assemblies.\nWhich of the statements given above is correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 1,
+        "e": "Members of the Constituent Assembly were <b>indirectly elected</b> by the provincial legislative assemblies, not by direct universal franchise."
+      },
+      {
+        "q": "Consider the following statements:\n1. Dr. B.R. Ambedkar was the Chairman of the Drafting Committee.\n2. Sir B.N. Rau prepared the original draft of the Constitution before the Drafting Committee took it up.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both statements are correct; <b>B.N. Rau</b> prepared the initial draft, which the <b>Drafting Committee</b> under Ambedkar then examined and revised."
+      },
+      {
+        "q": "Consider the following statements about the original composition of the Constituent Assembly under the Cabinet Mission Plan:\n1. 296 seats were allotted to British Indian provinces.\n2. 93 seats were allotted to the princely states.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both statements are correct, together making up the original strength of <b>389</b> members (296 + 93)."
+      },
+      {
+        "q": "Consider the following statements about the finalization of the Constitution:\n1. The Constitution was adopted by the Constituent Assembly on 26 November 1949.\n2. Members of the Constituent Assembly signed the final copy of the Constitution on 24 January 1950.\n3. The Constitution commenced on 26 January 1950.\nHow many of the statements given above are correct?",
+        "o": ["Only one", "Only two", "All three", "None"],
+        "a": 2,
+        "e": "All three statements are correct: <b>adoption</b> (26 Nov 1949), <b>signing</b> (24 Jan 1950), and <b>commencement</b> (26 Jan 1950) were distinct events."
+      },
+      {
+        "q": "Consider the following pairs of committees of the Constituent Assembly with their chairmen:\n1. Advisory Committee on Fundamental Rights, Minorities and Tribal & Excluded Areas — Sardar Vallabhbhai Patel\n2. States Committee — Jawaharlal Nehru\nWhich of the pairs given above is/are correctly matched?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both pairs are correctly matched; the <b>Advisory Committee</b> was chaired by Patel and the <b>States Committee</b> by Nehru."
+      },
+      {
+        "q": "Consider the following statements regarding Dr. Rajendra Prasad:\n1. He was elected the permanent President of the Constituent Assembly on 11 December 1946.\n2. He was also the Chairman of the Drafting Committee.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "Statement 1 is correct, but the <b>Drafting Committee</b> was chaired by Dr. B.R. Ambedkar, not Rajendra Prasad."
+      },
+      {
+        "q": "Consider the following statements about the Objectives Resolution:\n1. It laid down the fundamentals and philosophy of the constitutional structure.\n2. It later formed the basis of the Preamble to the Constitution.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both statements are correct; the <b>Objectives Resolution</b> shaped the Constitution's philosophy and became the basis of the <b>Preamble</b>."
+      },
+      {
+        "q": "With reference to the naming of days associated with the Constitution, consider the following statements:\n1. 26 November is celebrated as 'Constitution Day' or 'Samvidhan Diwas'.\n2. This observance has been officially followed since 2015.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both statements are correct; <b>26 November</b> has been observed as Constitution Day since <b>2015</b>."
+      },
+      {
+        "q": "Consider the following statements regarding the Union Constitution Committee and the Union Powers Committee:\n1. Both committees were chaired by Jawaharlal Nehru.\n2. Both committees dealt with entirely unrelated subjects having no connection with each other.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "Statement 1 is correct; both committees were chaired by <b>Nehru</b>, but they were closely related, both dealing with the structure and powers of the Union, so statement 2 is incorrect."
+      },
+      {
+        "q": "Consider the following statements about sources of the Indian Constitution:\n1. The Directive Principles of State Policy were borrowed from the Irish Constitution.\n2. The concept of the Concurrent List was borrowed from the Australian Constitution.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both are correct; <b>DPSP</b> came from the Irish Constitution and the <b>Concurrent List</b> from the Australian Constitution."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "The date 26 January was chosen for the commencement of the Constitution primarily to commemorate which earlier event?",
+        "o": ["The first meeting of the Constituent Assembly", "The adoption of the Objectives Resolution", "The declaration of 'Purna Swaraj' by the Indian National Congress in 1930", "The formation of the Drafting Committee"],
+        "a": 2,
+        "e": "26 January was deliberately chosen because the <b>Indian National Congress</b> had declared '<b>Purna Swaraj</b>' (complete independence) on 26 January 1930."
+      },
+      {
+        "q": "Which member of the original Drafting Committee resigned due to ill health and was replaced by N. Madhava Rau?",
+        "o": ["D.P. Khaitan", "B.L. Mitter", "Syed Mohammad Saadullah", "Alladi Krishnaswami Ayyar"],
+        "a": 1,
+        "e": "<b>B.L. Mitter</b> resigned due to health reasons and was replaced by <b>N. Madhava Rau</b>, distinct from D.P. Khaitan who died and was replaced by T.T. Krishnamachari."
+      },
+      {
+        "q": "Which single source is regarded as having contributed the largest number of provisions to the Indian Constitution, including the federal scheme, office of Governor, and emergency provisions?",
+        "o": ["Government of India Act, 1935", "British Constitution", "Irish Constitution", "US Constitution"],
+        "a": 0,
+        "e": "The <b>Government of India Act, 1935</b> is the single largest source, contributing the federal scheme, office of governor, judiciary, public service commissions and emergency provisions."
+      },
+      {
+        "q": "Which of the following borrowed features is correctly matched with its source constitution?",
+        "o": ["'Procedure established by law' — Constitution of Japan", "Judicial review — Irish Constitution", "Directive Principles — US Constitution", "Concurrent List — Canadian Constitution"],
+        "a": 0,
+        "e": "'<b>Procedure established by law</b>' was borrowed from the <b>Constitution of Japan</b>. Judicial review comes from the US, DPSP from Ireland, and the Concurrent List from Australia — making the other pairs incorrect."
+      },
+      {
+        "q": "The provision for suspension of Fundamental Rights during a National Emergency in the Indian Constitution draws inspiration from which constitution?",
+        "o": ["US Constitution", "Weimar Constitution of Germany", "Australian Constitution", "South African Constitution"],
+        "a": 1,
+        "e": "The emergency provisions, including suspension of Fundamental Rights, were influenced by the <b>Weimar Constitution of Germany</b>."
+      },
+      {
+        "q": "The method of election of the President of India was influenced by the constitution of which country?",
+        "o": ["Canada", "Australia", "Ireland", "South Africa"],
+        "a": 2,
+        "e": "The <b>Irish Constitution</b> influenced the method of election of the President of India, along with the DPSP and Rajya Sabha nominations."
+      },
+      {
+        "q": "The procedure for amendment of the Indian Constitution is said to have been borrowed from the constitution of which country?",
+        "o": ["United States", "South Africa", "Canada", "Australia"],
+        "a": 1,
+        "e": "India's constitutional <b>amendment procedure</b> is traceable to the <b>South African Constitution</b>."
+      },
+      {
+        "q": "The concept of 'advisory jurisdiction' of the Supreme Court of India is traceable to the constitutional practice of which country?",
+        "o": ["Canada", "Ireland", "Australia", "United Kingdom"],
+        "a": 0,
+        "e": "The <b>advisory jurisdiction</b> of the Supreme Court was borrowed from the <b>Canadian Constitution</b>."
+      },
+      {
+        "q": "Which of the following correctly distinguishes the role of Sir B.N. Rau from that of Dr. B.R. Ambedkar in the constitution-making process?",
+        "o": ["Rau chaired the Drafting Committee while Ambedkar was Constitutional Advisor", "Rau was the Constitutional Advisor who prepared the initial draft, while Ambedkar chaired the Drafting Committee that examined and revised it", "Both held identical positions simultaneously", "Rau chaired the Steering Committee while Ambedkar was Vice-President"],
+        "a": 1,
+        "e": "<b>B.N. Rau</b>, as Constitutional Advisor, prepared the preliminary draft; the <b>Drafting Committee</b> under Ambedkar's chairmanship then scrutinised and revised it clause by clause."
+      },
+      {
+        "q": "With reference to the Constituent Assembly, which of the following correctly explains the difference between Dr. Sachchidananda Sinha and Dr. Rajendra Prasad?",
+        "o": ["Sinha was the permanent President while Prasad was the provisional Chairman", "Sinha was elected provisional/temporary Chairman on 9 December 1946 as the oldest member present, while Prasad was elected permanent President on 11 December 1946", "Both were elected on the same day to the same post", "Sinha chaired the Drafting Committee while Prasad chaired the Union Powers Committee"],
+        "a": 1,
+        "e": "<b>Sinha</b> was only the temporary chairman for the first sitting, while <b>Rajendra Prasad</b> was subsequently elected the permanent President two days later."
+      },
+      {
+        "q": "Consider the numerical composition of the Constituent Assembly. Which of the following best explains the change in its strength from 389 to 299?",
+        "o": ["It was due to the merger of certain princely states before the Assembly's first sitting", "It was due to withdrawal of Muslim League members and adjustments following Partition", "It was due to resignation of nominated members over the Objectives Resolution", "It was due to expansion after accession of Jammu and Kashmir"],
+        "a": 1,
+        "e": "The reduction from 389 to 299 occurred mainly because <b>Muslim League members withdrew</b> and adjustments followed the <b>Partition</b> of India."
+      },
+      {
+        "q": "Which of the following statements about the Objectives Resolution is NOT correct?",
+        "o": ["It was moved by Jawaharlal Nehru on 13 December 1946", "It was adopted on 22 January 1947", "It was moved as a proposal to establish India as an absolute monarchy", "It later formed the basis of the Preamble"],
+        "a": 2,
+        "e": "The Objectives Resolution envisaged India as a sovereign, democratic republic guaranteeing justice, liberty and equality — it never proposed an <b>absolute monarchy</b>, making this statement incorrect."
+      },
+      {
+        "q": "Regarding the 'Union Powers Committee' and the 'Union Constitution Committee' of the Constituent Assembly, which statement is most accurate?",
+        "o": ["Both were separate committees but both were chaired by Jawaharlal Nehru", "They were the same committee under two different names with no chairman", "Union Powers Committee was chaired by Patel and Union Constitution Committee by Nehru", "Only one of these committees actually existed"],
+        "a": 0,
+        "e": "Both the <b>Union Powers Committee</b> and the <b>Union Constitution Committee</b> were distinct committees, each chaired by <b>Jawaharlal Nehru</b>."
+      },
+      {
+        "q": "Which of the following members did NOT originally serve on the seven-member Drafting Committee at the time of its constitution on 29 August 1947, despite later becoming closely associated with the drafting process?",
+        "o": ["T.T. Krishnamachari", "N. Gopalaswami Ayyangar", "K.M. Munshi", "Alladi Krishnaswami Ayyar"],
+        "a": 0,
+        "e": "<b>T.T. Krishnamachari</b> joined the Drafting Committee later, replacing D.P. Khaitan after his death in 1948, and was not among the original seven members."
+      },
+      {
+        "q": "The nomination of members to the Rajya Sabha and the procedure for election of Rajya Sabha members are said to be inspired respectively by which constitutions?",
+        "o": ["Irish Constitution and South African Constitution", "Canadian Constitution and Australian Constitution", "US Constitution and British Constitution", "Japanese Constitution and Weimar Constitution"],
+        "a": 0,
+        "e": "<b>Nomination of members</b> to the Rajya Sabha was borrowed from the <b>Irish Constitution</b>, while the <b>election procedure</b> for its members was borrowed from the <b>South African Constitution</b>."
+      }
+    ]
+  }
+},
+{
+  "id": "salient_features",
+  "title": "Salient Features of the Constitution",
+  "desc": "Core defining features of India's Constitution",
+  "questions": {
+    "basic": [
+      {"q": "Which of the following best describes the Indian Constitution when compared with other constitutions of the world?", "o": ["It is the shortest written constitution among sovereign countries", "It is the lengthiest and most detailed written constitution of any sovereign country", "It is an unwritten constitution like that of the UK", "It is a purely rigid constitution with no scope for amendment"], "a": 1, "e": "The Indian Constitution is widely regarded as the <b>lengthiest and most detailed written constitution</b> of any sovereign country in the world."},
+      {"q": "As originally adopted on 26 November 1949, how many Articles did the Constitution of India contain?", "o": ["395", "448", "470", "352"], "a": 0, "e": "The original Constitution (1949) contained <b>395 Articles</b>, though this has grown due to subsequent amendments."},
+      {"q": "The original Constitution of India, as adopted in 1949, was divided into how many Parts?", "o": ["22", "25", "20", "12"], "a": 0, "e": "The Constitution as originally adopted had <b>22 Parts</b>; it now has about 25 Parts due to amendments."},
+      {"q": "How many Schedules did the original Constitution of India (1949) contain?", "o": ["8", "12", "10", "9"], "a": 0, "e": "The original Constitution had <b>8 Schedules</b>; the number has since increased to about 12 through amendments."},
+      {"q": "Which Article of the Constitution lays down the procedure for its amendment?", "o": ["Article 356", "Article 368", "Article 370", "Article 32"], "a": 1, "e": "<b>Article 368</b> contains the procedure for amendment of the Constitution, reflecting its blend of rigidity and flexibility."},
+      {"q": "The parliamentary form of government at the Union level is provided for under which Articles of the Constitution?", "o": ["Articles 74 and 75", "Articles 52 and 53", "Articles 163 and 164", "Articles 79 and 80"], "a": 0, "e": "<b>Articles 74 and 75</b> establish the parliamentary executive at the Union level, with a Council of Ministers headed by the PM aiding the President."},
+      {"q": "Which Articles establish the parliamentary system of government at the State level?", "o": ["Articles 74 and 75", "Articles 163 and 164", "Articles 213 and 214", "Articles 352 and 356"], "a": 1, "e": "<b>Articles 163 and 164</b> provide for a Council of Ministers headed by the Chief Minister to aid and advise the Governor."},
+      {"q": "Scholars like K.C. Wheare describe the Indian federal system, marked by a strong centre, as:", "o": ["Confederal", "Quasi-federal", "Purely federal like the USA", "Unitary only, with no federal features"], "a": 1, "e": "K.C. Wheare called India's system <b>'quasi-federal'</b>, since it combines federal features with a strong unitary bias."},
+      {"q": "India has a single, integrated judicial system with which court at its apex?", "o": ["High Court", "Supreme Court", "Privy Council", "National Judicial Commission"], "a": 1, "e": "Unlike the dual court system of the USA, India has one <b>integrated judiciary</b> topped by the Supreme Court, enforcing both Union and State laws."},
+      {"q": "Fundamental Rights are enshrined in which Part of the Indian Constitution?", "o": ["Part II", "Part III", "Part IV", "Part IVA"], "a": 1, "e": "Fundamental Rights (Articles 12 to 35) are contained in <b>Part III</b>, inspired mainly by the US Bill of Rights."},
+      {"q": "The Directive Principles of State Policy are contained in which Part of the Constitution?", "o": ["Part III", "Part IV", "Part IVA", "Part V"], "a": 1, "e": "The DPSP (Articles 36 to 51) are in <b>Part IV</b>, borrowed from the Irish Constitution."},
+      {"q": "Fundamental Duties were added to the Indian Constitution by which Constitutional Amendment Act?", "o": ["42nd Amendment Act, 1976", "44th Amendment Act, 1978", "61st Amendment Act, 1988", "86th Amendment Act, 2002"], "a": 0, "e": "Fundamental Duties (Part IVA, Article 51A) were added by the <b>42nd Amendment Act, 1976</b>, on the recommendation of the Swaran Singh Committee."},
+      {"q": "Which model of citizenship does the Indian Constitution provide for?", "o": ["Dual citizenship of state and nation", "Single, uniform citizenship for the whole country", "No provision for citizenship", "Citizenship only by birth"], "a": 1, "e": "Despite being a federal polity, India follows <b>single/uniform citizenship</b>, unlike the USA's dual citizenship model."},
+      {"q": "Universal Adult Franchise in India is provided for under which Article?", "o": ["Article 324", "Article 326", "Article 329", "Article 368"], "a": 1, "e": "<b>Article 326</b> provides for elections to the Lok Sabha and State Assemblies to be on the basis of universal adult franchise."},
+      {"q": "The emergency provisions of the Indian Constitution were largely inspired by the constitution of which country?", "o": ["USA", "Ireland", "Weimar Germany", "Canada"], "a": 2, "e": "The emergency provisions (Articles 352-360) were inspired by the <b>Weimar Constitution of Germany</b>."}
+    ],
+    "intermediate": [
+      {"q": "Consider the following statements about amendment of the Constitution under Article 368:\n1. Provisions not specifically covered under Article 368, such as certain matters relating to creation of new states, can be amended by a simple majority of Parliament.\n2. Provisions like the election of the President require special majority of Parliament plus ratification by at least half the state legislatures.\nWhich of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "Both statements are correct and illustrate the <b>three methods of amendment</b> under Article 368, showing the blend of rigidity and flexibility."},
+      {"q": "Which of the following require ratification by at least half of the State Legislatures, in addition to a special majority of Parliament, for their amendment?\n1. Election of the President\n2. Representation of States in Parliament\n3. Article 368 itself\n4. Creation of a new State", "o": ["1, 2 and 3 only", "1, 2, 3 and 4", "2 and 4 only", "1 and 4 only"], "a": 0, "e": "Federal provisions such as the <b>election of the President, representation of states, and Article 368 itself</b> need state ratification; creation of new states needs only a simple majority."},
+      {"q": "Which of the following is correctly matched with respect to the federal-unitary blend of the Indian Constitution?", "o": ["Dual polity of Union and States - unitary feature", "Independent judiciary as adjudicator of disputes - unitary feature", "Emergency provisions enabling a unitary character - unitary bias", "Division of powers via Union, State and Concurrent Lists - unitary feature"], "a": 2, "e": "<b>Emergency provisions</b> allow the normally federal structure to function in a unitary manner, representing the Constitution's unitary bias."},
+      {"q": "Consider the following statements regarding the Directive Principles of State Policy:\n1. They are borrowed from the Irish Constitution.\n2. Though non-justiciable, Article 37 declares them fundamental in the governance of the country.\nWhich of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "The DPSP were indeed borrowed from <b>Ireland</b> and, per <b>Article 37</b>, are fundamental to governance despite being non-justiciable."},
+      {"q": "Consider the following statements about Fundamental Duties:\n1. Ten Fundamental Duties were originally added by the 42nd Amendment Act, 1976.\n2. An eleventh duty, on parents/guardians providing education opportunities to children aged 6-14, was added by the 86th Amendment Act, 2002.\nWhich of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "Originally <b>10 duties</b> were added in 1976; the <b>11th duty</b> on children's education was added later by the 86th Amendment Act, 2002."},
+      {"q": "The voting age for elections in India was reduced from 21 years to 18 years by which Constitutional Amendment Act?", "o": ["42nd Amendment Act", "44th Amendment Act", "61st Amendment Act, 1988", "73rd Amendment Act"], "a": 2, "e": "The <b>61st Amendment Act, 1988</b> reduced the voting age under Article 326 from 21 to 18 years."},
+      {"q": "Which of the following are independent constitutional bodies established by the Constitution to safeguard Indian democracy?\n1. Election Commission of India\n2. Comptroller and Auditor General\n3. Union and State Public Service Commissions\n4. NITI Aayog", "o": ["1, 2 and 3 only", "1, 2 and 4 only", "2, 3 and 4 only", "1, 2, 3 and 4"], "a": 0, "e": "The <b>Election Commission, CAG, and Public Service Commissions</b> are constitutional bodies; NITI Aayog is a non-constitutional executive body, not created by the Constitution."},
+      {"q": "Consider the following statements regarding the three types of emergencies under Part XVIII of the Constitution:\n1. National Emergency, President's Rule, and Financial Emergency are all provided for.\n2. During such emergencies, the normal federal structure can function in a unitary manner.\nWhich of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "Part XVIII (Articles 352-360) provides for all <b>three types of emergency</b>, during which the polity can operate in a <b>unitary</b> fashion."},
+      {"q": "Consider the following statements about the 73rd and 74th Constitutional Amendment Acts, 1992:\n1. They added Panchayats as rural local government under Part IX.\n2. They added Municipalities as urban local government under Part IXA.\nWhich of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "The <b>73rd Amendment</b> added Panchayats (Part IX) and the <b>74th Amendment</b> added Municipalities (Part IXA), creating a third tier of government."},
+      {"q": "The Fundamental Rights enshrined in Part III of the Indian Constitution are mainly inspired by the Bill of Rights of which country?", "o": ["United Kingdom", "United States of America", "Ireland", "erstwhile USSR"], "a": 1, "e": "Part III of the Constitution, containing the Fundamental Rights, draws its main inspiration from the <b>US Bill of Rights</b>."},
+      {"q": "According to the Preamble, India is described as a:", "o": ["Sovereign Socialist Secular Democratic Republic", "Sovereign Federal Secular Democratic Republic", "Sovereign Democratic Secular Socialist Union", "Sovereign Socialist Democratic Federal Republic"], "a": 0, "e": "The Preamble describes India as a <b>'Sovereign Socialist Secular Democratic Republic'</b>."},
+      {"q": "Consider the following statements about the current size of the Indian Constitution:\n1. It now has approximately 470 Articles.\n2. It now has approximately 25 Parts.\n3. It now has approximately 12 Schedules.\nWhich of the statements given above is/are correct?", "o": ["1 only", "1 and 2 only", "1, 2 and 3", "None of the above"], "a": 2, "e": "Due to amendments over time, the Constitution now has approximately <b>470 Articles, 25 Parts, and 12 Schedules</b> — approximate because articles have been added and repealed."},
+      {"q": "Consider the following statements distinguishing Fundamental Rights from Directive Principles:\n1. Fundamental Rights are justiciable, while Directive Principles are non-justiciable.\n2. Fundamental Rights can be enforced through courts under Article 32, while Directive Principles cannot be enforced but are fundamental in governance.\nWhich of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "Fundamental Rights are <b>enforceable via Article 32</b>, whereas DPSPs are <b>non-justiciable</b> yet fundamental to governance under Article 37."},
+      {"q": "The Fundamental Duties were added to the Constitution on the recommendation of which committee?", "o": ["Sarkaria Commission", "Swaran Singh Committee", "Balwant Rai Mehta Committee", "Punchhi Commission"], "a": 1, "e": "The <b>Swaran Singh Committee</b> recommended the inclusion of Fundamental Duties, later added by the 42nd Amendment Act, 1976."},
+      {"q": "Which of the following statements best captures the paradox of India's federal polity with respect to citizenship?", "o": ["India follows dual citizenship despite having a unitary government", "India follows single citizenship despite being a federal polity with Union and States", "India follows no citizenship system despite being federal", "India follows state-based citizenship due to its unitary bias"], "a": 1, "e": "Even though India has a <b>federal, dual polity</b> of Union and States, it follows only <b>single/uniform citizenship</b>, unlike the USA."}
+    ],
+    "advanced": [
+      {"q": "Under Article 368, which method of amendment applies to provisions of the Constitution not specifically listed in the proviso to Article 368, such as certain citizenship-related matters?", "o": ["Simple majority of Parliament, as in ordinary legislation", "Special majority of Parliament only", "Special majority of Parliament plus ratification by half the states", "Such provisions cannot be amended at all"], "a": 0, "e": "Provisions outside the proviso to Article 368 (e.g., some citizenship matters, creation of new states) can be amended by a <b>simple majority</b>, like ordinary law-making."},
+      {"q": "Which of the following precisely describes 'special majority' as required under Article 368 for most constitutional amendments?", "o": ["A simple majority of members present and voting", "A majority of the total membership of each House and a two-thirds majority of members present and voting", "Three-fourths of the total membership of each House", "A majority of total membership of each House only"], "a": 1, "e": "Special majority under Article 368 requires a <b>majority of the total membership of each House</b> AND a <b>two-thirds majority of members present and voting</b>."},
+      {"q": "The Kesavananda Bharati case (1973) is significant in the context of Article 368 because it:", "o": ["Declared Article 368 unconstitutional", "Held that Parliament cannot amend Fundamental Rights at all", "Established the 'basic structure' doctrine, limiting Parliament's amending power", "Abolished the requirement of state ratification for federal provisions"], "a": 2, "e": "The Kesavananda Bharati case established the <b>'basic structure' doctrine</b>, holding that Parliament's amending power under Article 368, though wide, cannot alter the Constitution's basic structure."},
+      {"q": "Unlike the United States, where separate federal and state court systems exist, the Indian judicial system is best described as:", "o": ["A dual court system similar to the USA", "An independent and integrated judiciary, with a single system of courts enforcing both Union and State laws", "A judiciary with no power of judicial review", "A judiciary entirely subordinate to the Union Executive"], "a": 1, "e": "India has an <b>independent and integrated judiciary</b> topped by the Supreme Court, with one hierarchy of courts enforcing both Union and State laws, unlike the USA's dual system."},
+      {"q": "Article 32, described by Dr. B.R. Ambedkar as the 'heart and soul' of the Constitution, primarily enables:", "o": ["Enforcement of Directive Principles of State Policy", "Enforcement of Fundamental Rights through constitutional remedies", "Amendment of the Constitution by simple majority", "Imposition of President's Rule in states"], "a": 1, "e": "<b>Article 32</b> guarantees the right to constitutional remedies, making the <b>Fundamental Rights justiciable</b> and enforceable directly by the Supreme Court."},
+      {"q": "Although Directive Principles of State Policy are non-justiciable, which Article declares them to be fundamental in the governance of the country?", "o": ["Article 32", "Article 37", "Article 51A", "Article 368"], "a": 1, "e": "<b>Article 37</b> states that the DPSP, while not enforceable by any court, are nevertheless fundamental in the governance of the country."},
+      {"q": "Which of the following correctly pairs a Part of the Constitution with the foreign source that primarily inspired it?", "o": ["Part III (Fundamental Rights) - USA; Part IV (DPSP) - Ireland; Part IVA (Fundamental Duties) - erstwhile USSR", "Part III (Fundamental Rights) - Ireland; Part IV (DPSP) - USA; Part IVA (Fundamental Duties) - UK", "Part III (Fundamental Rights) - USSR; Part IV (DPSP) - USA; Part IVA (Fundamental Duties) - Ireland", "Part III (Fundamental Rights) - UK; Part IV (DPSP) - USSR; Part IVA (Fundamental Duties) - Ireland"], "a": 0, "e": "Fundamental Rights were inspired by the <b>US Bill of Rights</b>, DPSP by the <b>Irish Constitution</b>, and Fundamental Duties by the <b>erstwhile USSR Constitution</b>."},
+      {"q": "The eleventh Fundamental Duty, added by the 86th Amendment Act, 2002, obligates whom to do what?", "o": ["The State to provide free legal aid to all citizens", "Parents or guardians to provide opportunities for education to their children aged 6 to 14 years", "Every citizen to vote compulsorily in elections", "Every citizen to pay income tax honestly"], "a": 1, "e": "The 11th Fundamental Duty requires <b>parents or guardians</b> to provide educational opportunities to children aged <b>6 to 14 years</b>, complementing Article 21A."},
+      {"q": "Which of the following is an accurate characterization of the tension in India's federal design?", "o": ["India has dual citizenship along with a unitary government", "India has single citizenship despite having a dual polity of Union and States, a feature associated with its unitary bias", "India has multiple citizenships corresponding to each state, reflecting strong federalism", "India abolished federalism entirely in favour of a unitary state"], "a": 1, "e": "Despite a <b>dual polity</b> (Union and States) and division of powers, India's <b>single citizenship</b> is one of several features giving the Constitution a unitary tilt."},
+      {"q": "During the operation of a National Emergency under Article 352, which of the following best describes the effect on the federal structure?", "o": ["States gain complete legislative independence from the Centre", "The normally federal structure can function in a unitary manner, with the Centre empowered over State subjects", "The Constitution is suspended entirely", "Fundamental Rights are enhanced and cannot be restricted"], "a": 1, "e": "During a National Emergency, the <b>federal structure functions in a unitary manner</b>, with Parliament empowered to legislate even on State List subjects."},
+      {"q": "K.C. Wheare's description of India as 'quasi-federal' and the popular characterization 'federal in form, unitary in spirit' both refer to which feature of the Constitution?", "o": ["The purely unitary nature of Indian government with no federal features", "The blend of federal structure with a strong unitary bias built into the Constitution", "The absence of any division of powers between Centre and States", "The complete independence of States from the Union in all matters"], "a": 1, "e": "Both phrases capture how India combines a <b>federal structure</b> (dual polity, division of powers) with features like a strong centre and emergency powers that give it a <b>unitary bias</b>."},
+      {"q": "Which of the following correctly matches the constitutional amendment, the tier of local government it introduced, and the Part of the Constitution under which it falls?", "o": ["73rd Amendment - Municipalities - Part IX; 74th Amendment - Panchayats - Part IXA", "73rd Amendment - Panchayats - Part IX; 74th Amendment - Municipalities - Part IXA", "73rd Amendment - Panchayats - Part IVA; 74th Amendment - Municipalities - Part V", "73rd Amendment - Municipalities - Part IVA; 74th Amendment - Panchayats - Part IX"], "a": 1, "e": "The <b>73rd Amendment</b> introduced Panchayats under <b>Part IX</b>, and the <b>74th Amendment</b> introduced Municipalities under <b>Part IXA</b>, forming the third tier of government."},
+      {"q": "The words 'Socialist' and 'Secular' were inserted into the Preamble of the Constitution by which amendment, the same amendment that also added Fundamental Duties?", "o": ["44th Amendment Act, 1978", "42nd Amendment Act, 1976", "86th Amendment Act, 2002", "61st Amendment Act, 1988"], "a": 1, "e": "The <b>42nd Amendment Act, 1976</b> inserted 'Socialist' and 'Secular' into the Preamble and simultaneously added the Fundamental Duties in Part IVA."},
+      {"q": "A key criticism of the emergency provisions, borrowed from the Weimar Constitution of Germany, is that they:", "o": ["Make the judiciary the sole custodian of emergency powers", "Enable the conversion of the normally federal structure into a unitary one, concentrating power at the Centre", "Abolish Fundamental Rights permanently once invoked", "Have never been invoked in India's constitutional history"], "a": 1, "e": "Critics note that emergency provisions, inspired by the <b>Weimar Constitution</b>, allow the Centre to override the federal balance and function in a <b>unitary</b> manner, which can be misused."},
+      {"q": "Which of the following best distinguishes the parliamentary system adopted by India from a presidential system?", "o": ["A directly elected President who is also the real executive head", "A nominal head of state and a real executive (Council of Ministers headed by the PM/CM) collectively responsible to the legislature", "Complete separation of powers between executive and legislature with no overlap", "Fixed tenure of the executive independent of legislative confidence"], "a": 1, "e": "India's parliamentary system, modeled on the Westminster system, features a <b>nominal head of state</b> (President/Governor) and a <b>real executive</b> collectively responsible to the legislature."}
+    ]
+  }
+},
+{
+  "id": "preamble",
+  "title": "Preamble",
+  "desc": "Preamble text, amendments, and key court rulings",
+  "questions": {
+    "basic": [
+      {
+        "q": "The Preamble to the Indian Constitution begins with which words?",
+        "o": ["IN THE NAME OF INDIA", "WE, THE PEOPLE OF INDIA", "WE, THE CITIZENS OF INDIA", "WE, THE SOVEREIGN PEOPLE"],
+        "a": 1,
+        "e": "The Preamble begins with the words <b>WE, THE PEOPLE OF INDIA</b>, indicating that the Constitution derives its authority from the people."
+      },
+      {
+        "q": "As per the Preamble, India is described as a:",
+        "o": ["Sovereign Socialist Democratic Republic", "Sovereign Democratic Secular Republic", "Sovereign Socialist Secular Democratic Republic", "Sovereign Secular Socialist Democratic State"],
+        "a": 2,
+        "e": "The Preamble describes India as a <b>SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC</b> after the 42nd Amendment Act, 1976."
+      },
+      {
+        "q": "According to the Preamble, the Constitution was adopted by the Constituent Assembly on:",
+        "o": ["26 January 1950", "15 August 1947", "9 December 1946", "26 November 1949"],
+        "a": 3,
+        "e": "The Preamble states this <b>twenty-sixth day of November, 1949</b> as the date of adoption of the Constitution, distinct from its commencement on 26 January 1950."
+      },
+      {
+        "q": "Which date is mentioned in the Preamble for adoption of the Constitution, and what is it not to be confused with?",
+        "o": ["26 January 1950; not to be confused with 26 November 1949 (commencement)", "15 August 1947; not to be confused with 26 January 1950", "26 November 1949; not to be confused with 26 January 1950 (commencement)", "9 December 1946; not to be confused with 26 November 1949"],
+        "a": 2,
+        "e": "The date twenty-sixth day of November, 1949 in the Preamble is the date of <b>adoption</b> by the Constituent Assembly, while the Constitution actually <b>commenced</b> on 26 January 1950."
+      },
+      {
+        "q": "Which Constitutional Amendment Act inserted the words Socialist and Secular into the Preamble?",
+        "o": ["24th Amendment Act, 1971", "44th Amendment Act, 1978", "42nd Amendment Act, 1976", "52nd Amendment Act, 1985"],
+        "a": 2,
+        "e": "The <b>42nd Constitutional Amendment Act, 1976</b>, enacted during the Emergency, inserted Socialist, Secular and Integrity into the Preamble."
+      },
+      {
+        "q": "As originally adopted in 1949, the Preamble described India as a:",
+        "o": ["Sovereign Socialist Republic", "Sovereign Secular Republic", "Sovereign Socialist Secular Republic", "Sovereign Democratic Republic"],
+        "a": 3,
+        "e": "The original 1949 Preamble described India merely as a <b>SOVEREIGN DEMOCRATIC REPUBLIC</b>, without the words Socialist and Secular."
+      },
+      {
+        "q": "The 42nd Amendment Act, 1976 was based on the recommendations of which committee?",
+        "o": ["Rajamannar Committee", "Swaran Singh Committee", "Sarkaria Commission", "Balwant Rai Mehta Committee"],
+        "a": 1,
+        "e": "The 42nd Amendment Act, 1976 was enacted based on the recommendations of the <b>Swaran Singh Committee</b>."
+      },
+      {
+        "q": "The 42nd Amendment Act, 1976 was enacted during the government headed by:",
+        "o": ["Morarji Desai", "Lal Bahadur Shastri", "Indira Gandhi", "Jawaharlal Nehru"],
+        "a": 2,
+        "e": "The 42nd Amendment Act, 1976 was enacted during the Emergency, under the government headed by <b>Indira Gandhi</b>."
+      },
+      {
+        "q": "Which word did the 42nd Amendment Act insert to change the phrase unity of the Nation to unity and integrity of the Nation in the Preamble?",
+        "o": ["Fraternity", "Solidarity", "Integrity", "Sovereignty"],
+        "a": 2,
+        "e": "The 42nd Amendment added the word <b>Integrity</b>, changing the phrase to unity and integrity of the Nation."
+      },
+      {
+        "q": "How many times has the Preamble to the Indian Constitution been amended so far?",
+        "o": ["Never", "Three times", "Once", "Twice"],
+        "a": 2,
+        "e": "The Preamble has been amended only <b>once</b> so far, by the 42nd Amendment Act, 1976."
+      },
+      {
+        "q": "As per the Preamble, JUSTICE is to be secured to all citizens in which spheres?",
+        "o": ["Social, political and religious", "Political, economic and religious", "Social, economic and political", "Social, economic and cultural"],
+        "a": 2,
+        "e": "The Preamble secures JUSTICE - <b>social, economic and political</b> - to all citizens."
+      },
+      {
+        "q": "As per the Preamble, LIBERTY is assured of:",
+        "o": ["Thought, action, belief and worship", "Thought, expression, belief, faith and worship", "Expression, movement, association and religion", "Thought, speech, religion and press"],
+        "a": 1,
+        "e": "The Preamble assures LIBERTY <b>of thought, expression, belief, faith and worship</b>."
+      },
+      {
+        "q": "As per the Preamble, EQUALITY is assured of:",
+        "o": ["Opportunity and of wealth", "Status, income and opportunity", "Status and of income", "Status and of opportunity"],
+        "a": 3,
+        "e": "The Preamble assures EQUALITY <b>of status and of opportunity</b>."
+      },
+      {
+        "q": "As per the Preamble, FRATERNITY is meant to assure:",
+        "o": ["Economic equality among citizens", "The dignity of the individual and the unity and integrity of the Nation", "Political liberty to all citizens", "Equal status to all religions"],
+        "a": 1,
+        "e": "FRATERNITY promotes among citizens the <b>dignity of the individual and the unity and integrity of the Nation</b>."
+      },
+      {
+        "q": "The Preamble ends with the Constituent Assembly declaring that it does hereby adopt, enact and give to ourselves:",
+        "o": ["THIS SUPREME LAW", "THIS DEMOCRATIC NATION", "THIS CONSTITUTION", "THIS SOVEREIGN REPUBLIC"],
+        "a": 2,
+        "e": "The Preamble concludes with the Constituent Assembly declaring that it does hereby adopt, enact and give to ourselves <b>this Constitution</b>."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements regarding the words added to the Preamble by the 42nd Amendment Act, 1976: 1. The word Socialist was added. 2. The word Secular was added. 3. The word Republic was added. Which of the statements given above is/are correct?",
+        "o": ["1 only", "1, 2 and 3", "1 and 2 only", "2 and 3 only"],
+        "a": 2,
+        "e": "The 42nd Amendment added <b>Socialist</b> and <b>Secular</b> (along with Integrity); the word Republic was already present in the original 1949 Preamble."
+      },
+      {
+        "q": "Consider the following statements about the Preamble: 1. The original 1949 Preamble described India as a Sovereign Democratic Republic. 2. The word Integrity was added by the 42nd Amendment Act, 1976. Which of the statements given above is/are correct?",
+        "o": ["2 only", "Neither 1 nor 2", "Both 1 and 2", "1 only"],
+        "a": 2,
+        "e": "Both statements are correct: the 1949 Preamble read Sovereign Democratic Republic, and <b>Integrity</b> was inserted by the 42nd Amendment, 1976."
+      },
+      {
+        "q": "Consider the following statements: 1. The Berubari Union case (1960) held that the Preamble is not a part of the Constitution. 2. The Kesavananda Bharati case (1973) held that the Preamble is a part of the Constitution. Which of the statements given above is/are correct?",
+        "o": ["1 only", "Both 1 and 2", "Neither 1 nor 2", "2 only"],
+        "a": 1,
+        "e": "In <b>Berubari Union (1960)</b>, the Supreme Court held the Preamble was not part of the Constitution; in <b>Kesavananda Bharati (1973)</b>, it overruled this view and held the Preamble is part of the Constitution."
+      },
+      {
+        "q": "Consider the following statements regarding the date mentioned in the Preamble: 1. This twenty-sixth day of November, 1949 refers to the date the Constitution was adopted by the Constituent Assembly. 2. The Constitution commenced (came into force) on the same date, 26 November 1949. Which of the statements given above is/are correct?",
+        "o": ["Neither 1 nor 2", "2 only", "1 only", "Both 1 and 2"],
+        "a": 2,
+        "e": "The Preamble's date refers to <b>adoption</b> (26 November 1949); the Constitution actually <b>commenced</b> on 26 January 1950, a different date."
+      },
+      {
+        "q": "Consider the following pairs of ideals in the Preamble and their content: 1. Justice - social, economic and political. 2. Liberty - of thought, expression, belief, faith and worship. 3. Equality - of status, opportunity and wealth. Which of the pairs given above is/are correctly matched?",
+        "o": ["1, 2 and 3", "2 and 3 only", "1 and 2 only", "1 only"],
+        "a": 2,
+        "e": "Justice and Liberty are correctly matched as per the Preamble; Equality is assured of <b>status and of opportunity</b> only, not wealth."
+      },
+      {
+        "q": "Consider the following statements about the LIC of India case (1995): 1. The Supreme Court held that the Preamble is an integral part of the Constitution. 2. The case reversed the position taken in the Kesavananda Bharati case. Which of the statements given above is/are correct?",
+        "o": ["Both 1 and 2", "1 only", "Neither 1 nor 2", "2 only"],
+        "a": 1,
+        "e": "In the <b>LIC of India case (1995)</b>, the Supreme Court reiterated (not reversed) that the Preamble is an integral part of the Constitution, consistent with Kesavananda Bharati."
+      },
+      {
+        "q": "With reference to the Preamble, consider the following statements: 1. The Preamble is enforceable in a court of law like the Fundamental Rights. 2. The source of the Constitution's authority, as per the Preamble, lies with the people of India. Which of the statements given above is/are correct?",
+        "o": ["Both 1 and 2", "2 only", "1 only", "Neither 1 nor 2"],
+        "a": 1,
+        "e": "The Preamble is <b>not directly enforceable</b> in court unlike Fundamental Rights, but it does affirm that the Constitution's authority derives from the people of India."
+      },
+      {
+        "q": "Consider the following statements regarding amendments to the Preamble: 1. The Preamble has been amended only once so far. 2. The 42nd Amendment Act, 1976 was the amendment that changed the Preamble. 3. The words added were Socialist, Secular and Integrity. Which of the statements given above is/are correct?",
+        "o": ["1 and 2 only", "1, 2 and 3", "1 only", "2 and 3 only"],
+        "a": 1,
+        "e": "All three statements are correct regarding the sole amendment to the Preamble made by the <b>42nd Amendment Act, 1976</b>."
+      },
+      {
+        "q": "Consider the following statements: 1. The Kesavananda Bharati case held that the Preamble can never be amended under Article 368. 2. The Kesavananda Bharati case held that the Preamble can be amended, provided the amendment does not alter its basic structure. Which of the statements given above is/are correct?",
+        "o": ["1 only", "Neither 1 nor 2", "2 only", "Both 1 and 2"],
+        "a": 2,
+        "e": "The Court held the Preamble <b>can be amended</b> under Article 368, but not so as to alter or destroy the basic structure or fundamental identity of the Constitution reflected in it."
+      },
+      {
+        "q": "Consider the following statements about the Berubari Union case (1960): 1. The Supreme Court held the Preamble to be a key to understanding the minds of the makers of the Constitution. 2. The Supreme Court held the Preamble to be enforceable in a court of law. Which of the statements given above is/are correct?",
+        "o": ["2 only", "Neither 1 nor 2", "1 only", "Both 1 and 2"],
+        "a": 2,
+        "e": "In Berubari, the Court called the Preamble a <b>key to the minds of the makers</b> of the Constitution but held it was not part of the Constitution and hence not enforceable."
+      },
+      {
+        "q": "Consider the following statements comparing the original (1949) and current Preamble: 1. The current Preamble contains the words Socialist and Secular, which were absent in 1949. 2. The current Preamble refers to unity and integrity of the Nation, whereas the 1949 Preamble referred only to unity of the Nation. Which of the statements given above is/are correct?",
+        "o": ["1 only", "Both 1 and 2", "2 only", "Neither 1 nor 2"],
+        "a": 1,
+        "e": "Both changes were introduced by the 42nd Amendment Act, 1976, which added Socialist, Secular and changed unity to <b>unity and integrity</b> of the Nation."
+      },
+      {
+        "q": "Consider the following statements: 1. The Preamble was enacted as a separate legal instrument before the Constituent Assembly adopted the rest of the Constitution. 2. The Preamble uses the phrase IN OUR CONSTITUENT ASSEMBLY to refer to the body that adopted the Constitution. Which of the statements given above is/are correct?",
+        "o": ["Neither 1 nor 2", "1 only", "2 only", "Both 1 and 2"],
+        "a": 2,
+        "e": "The Preamble is part of the same Constitution adopted together, not a separate instrument; it does state <b>IN OUR CONSTITUENT ASSEMBLY</b> this twenty-sixth day of November, 1949, do hereby adopt, enact and give to ourselves this Constitution."
+      },
+      {
+        "q": "Consider the following statements regarding the justiciability of the Preamble: 1. Since Kesavananda Bharati, the Preamble is part of the Constitution. 2. Being part of the Constitution automatically makes every term of the Preamble directly enforceable in a court like a Fundamental Right. Which of the statements given above is/are correct?",
+        "o": ["2 only", "Both 1 and 2", "1 only", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Although the Preamble is part of the Constitution, its terms are still considered <b>non-justiciable</b>; one cannot approach a court solely on the ground that the Preamble has been violated."
+      },
+      {
+        "q": "Consider the following statements about the words Sovereign, Socialist, Secular, Democratic and Republic in the Preamble: 1. All five words were part of the original 1949 Preamble. 2. Only Sovereign, Democratic and Republic were part of the original 1949 Preamble; Socialist and Secular were added later. Which of the statements given above is/are correct?",
+        "o": ["Both 1 and 2", "2 only", "Neither 1 nor 2", "1 only"],
+        "a": 1,
+        "e": "The 1949 Preamble had only Sovereign Democratic Republic; <b>Socialist</b> and <b>Secular</b> were inserted later by the 42nd Amendment Act, 1976."
+      },
+      {
+        "q": "Consider the following statements: 1. The Berubari Union case was decided in 1960. 2. The Kesavananda Bharati case was decided in 1973. 3. The LIC of India case referred to here was decided in 1995. Which of the statements given above is/are correct?",
+        "o": ["1 and 2 only", "2 and 3 only", "1, 2 and 3", "1 and 3 only"],
+        "a": 2,
+        "e": "All three landmark cases relating to the status of the Preamble were decided in the years stated: <b>1960, 1973 and 1995</b> respectively."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "In which case did the Supreme Court first hold that the Preamble is NOT a part of the Constitution?",
+        "o": ["Golaknath v. State of Punjab (1967)", "In re: The Berubari Union (1960)", "LIC of India v. Consumer Education and Research Centre (1995)", "Kesavananda Bharati v. State of Kerala (1973)"],
+        "a": 1,
+        "e": "In the <b>Berubari Union case (1960)</b>, the Supreme Court held that the Preamble is not part of the Constitution and hence not enforceable in court."
+      },
+      {
+        "q": "Which case overruled the Berubari view and held that the Preamble is a part of the Constitution?",
+        "o": ["Maneka Gandhi v. Union of India (1978)", "Golaknath v. State of Punjab (1967)", "Kesavananda Bharati v. State of Kerala (1973)", "Minerva Mills v. Union of India (1980)"],
+        "a": 2,
+        "e": "In <b>Kesavananda Bharati v. State of Kerala (1973)</b>, the Supreme Court rejected its earlier Berubari stance and held that the Preamble is part of the Constitution."
+      },
+      {
+        "q": "The doctrine that emerged from the Kesavananda Bharati case (1973), which also has a bearing on whether the Preamble itself can be amended, is known as the:",
+        "o": ["Doctrine of Eclipse", "Doctrine of Pith and Substance", "Basic Structure Doctrine", "Doctrine of Colourable Legislation"],
+        "a": 2,
+        "e": "Kesavananda Bharati propounded the <b>Basic Structure Doctrine</b>, holding that Parliament cannot amend the Constitution, including the Preamble, so as to destroy its basic structure."
+      },
+      {
+        "q": "As per the Kesavananda Bharati case, the Preamble:",
+        "o": ["Can be freely amended without any restriction", "Can be amended only by a Constituent Assembly, not Parliament", "Can be amended under Article 368, but not so as to alter its basic structure", "Can never be amended under any circumstances"],
+        "a": 2,
+        "e": "The Court held the Preamble can be amended under <b>Article 368</b>, provided the amendment does not alter or destroy the basic structure or fundamental identity reflected in it."
+      },
+      {
+        "q": "Which case reiterated that the Preamble is an integral part of the Constitution, following the position taken in Kesavananda Bharati?",
+        "o": ["Indra Sawhney v. Union of India (1992)", "Berubari Union case (1960)", "LIC of India v. Consumer Education and Research Centre (1995)", "S.R. Bommai v. Union of India (1994)"],
+        "a": 2,
+        "e": "In the <b>LIC of India case (1995)</b>, the Supreme Court reiterated that the Preamble is an integral part of the Constitution, following Kesavananda Bharati."
+      },
+      {
+        "q": "Which of the following correctly captures the reasoning of the Supreme Court in the Berubari Union case regarding the utility of the Preamble?",
+        "o": ["The Preamble has no interpretative value and should be ignored by courts", "The Preamble is a key to understanding the minds of the makers of the Constitution and useful where the language of an Article is ambiguous, though not enforceable itself", "The Preamble is a part of the Constitution and fully justiciable", "The Preamble is superior to all Fundamental Rights and directly enforceable"],
+        "a": 1,
+        "e": "Berubari held the Preamble is a <b>key to the minds of the makers</b> useful for interpreting ambiguous Articles, but that it is not part of the Constitution and not enforceable in itself."
+      },
+      {
+        "q": "Which of the following statements about the evolution of judicial opinion on the Preamble is correct?",
+        "o": ["The Court has consistently held since 1960 that the Preamble is not part of the Constitution", "The Court's position shifted from Berubari (1960), holding the Preamble was not part of the Constitution, to Kesavananda Bharati (1973), holding that it was, a stance later reaffirmed in LIC of India (1995)", "The Court has never addressed whether the Preamble is part of the Constitution", "The Court's position shifted from the Preamble being part of the Constitution (Berubari, 1960) to not being part of it (Kesavananda Bharati, 1973)"],
+        "a": 1,
+        "e": "The judicial trajectory moved from <b>Berubari (1960)</b> - not part - to <b>Kesavananda Bharati (1973)</b> - part - and was reaffirmed in <b>LIC of India (1995)</b>."
+      },
+      {
+        "q": "Despite being held to be a part of the Constitution since Kesavananda Bharati, why is the Preamble still considered distinct from provisions like Fundamental Rights?",
+        "o": ["It was never adopted by the Constituent Assembly", "It applies only to Union Territories", "Its terms are non-justiciable and cannot be directly enforced in a court of law on a standalone basis", "It has been repealed by a subsequent constitutional amendment"],
+        "a": 2,
+        "e": "Even as part of the Constitution, the Preamble remains <b>non-justiciable</b> - one cannot approach a court solely alleging violation of the Preamble, unlike Fundamental Rights."
+      },
+      {
+        "q": "In the Kesavananda Bharati case, the Court's view that the Preamble is amendable but not so as to alter its basic structure implies which of the following?",
+        "o": ["Only the President can amend the Preamble by executive order", "Values like Sovereign, Republic, or the unity/integrity of the Nation reflected in the Preamble cannot be removed or destroyed even by a constitutional amendment", "Parliament can delete any word from the Preamble through an ordinary law", "The Preamble is completely immune from amendment"],
+        "a": 1,
+        "e": "The ruling means core values reflected in the Preamble, forming part of the Constitution's basic structure, are <b>beyond the amending power</b> of Parliament under Article 368, even though the wording of the Preamble itself can technically be changed."
+      },
+      {
+        "q": "Which of the following is a correct distinction between the Berubari Union case and the Kesavananda Bharati case with respect to the Preamble?",
+        "o": ["Both cases affirmed the Preamble's status as part of the Constitution using the same reasoning", "Berubari affirmed the Preamble's status as part of the Constitution, while Kesavananda Bharati denied it", "Berubari denied the Preamble's status as part of the Constitution, while Kesavananda Bharati affirmed it and also linked it to the basic structure doctrine", "Both cases denied the Preamble's status as part of the Constitution"],
+        "a": 2,
+        "e": "<b>Berubari (1960)</b> denied the Preamble was part of the Constitution; <b>Kesavananda Bharati (1973)</b> affirmed it while also introducing the basic structure doctrine that constrains its amendment."
+      },
+      {
+        "q": "The only constitutional amendment made to the Preamble to date was upheld as constitutionally valid on the premise, established later in Kesavananda Bharati, that:",
+        "o": ["The Preamble was excluded from the scope of Article 368 in 1976", "Only the Constituent Assembly, and not Parliament, could amend the Preamble", "An amendment to the Preamble is valid so long as it does not destroy the basic structure of the Constitution", "The Preamble cannot be amended at all, making the 42nd Amendment's changes void"],
+        "a": 2,
+        "e": "Per Kesavananda Bharati, an amendment to the Preamble (such as the 42nd Amendment) is valid as long as it does not alter or destroy the <b>basic structure</b> or fundamental identity of the Constitution."
+      },
+      {
+        "q": "Which statement correctly reflects the Supreme Court's stance on whether the Preamble by itself is a source of substantive Fundamental Rights?",
+        "o": ["The Preamble was declared a Fundamental Right in Kesavananda Bharati", "The Preamble is not itself a source of substantive rights enforceable independently in court, though it aids interpretation", "The Preamble supersedes Part III (Fundamental Rights) of the Constitution", "The Preamble is the primary and sole source of all Fundamental Rights"],
+        "a": 1,
+        "e": "Courts have consistently held the Preamble is <b>not an independent source of enforceable rights</b>; it aids constitutional interpretation but does not confer justiciable rights on its own."
+      },
+      {
+        "q": "Consider the following with respect to landmark cases on the Preamble: 1. In re: The Berubari Union (1960) primarily dealt with a boundary/territorial dispute where the Preamble's status was discussed incidentally. 2. Kesavananda Bharati v. State of Kerala (1973) primarily dealt with the extent of Parliament's power to amend the Constitution. Which of the statements given above is/are correct?",
+        "o": ["2 only", "Both 1 and 2", "Neither 1 nor 2", "1 only"],
+        "a": 1,
+        "e": "Berubari arose from a territorial matter (transfer of the Berubari Union), while Kesavananda Bharati centrally dealt with the <b>scope of Parliament's amending power</b> under Article 368, in which the basic structure doctrine and Preamble's status were addressed."
+      },
+      {
+        "q": "Which of the following best explains why the LIC of India case (1995) is considered significant with regard to the Preamble, even though it did not overturn any prior precedent?",
+        "o": ["It held that the Preamble could no longer be amended after 1995", "It reversed Kesavananda Bharati and restored the Berubari position", "It reaffirmed and reinforced the settled position from Kesavananda Bharati that the Preamble is an integral part of the Constitution", "It was the first case to hold that the Preamble is enforceable exactly like Fundamental Rights"],
+        "a": 2,
+        "e": "The LIC of India case is significant because it <b>reiterated and reinforced</b> settled law from Kesavananda Bharati that the Preamble is an integral part of the Constitution, rather than introducing a new rule."
+      },
+      {
+        "q": "A tricky distinction tested in exams is that being part of the Constitution (as held since Kesavananda Bharati) does NOT automatically mean the Preamble is:",
+        "o": ["Reflective of the Constitution's underlying philosophy and values", "Amendable under Article 368 subject to the basic structure limitation", "Directly enforceable/justiciable in a court of law", "Available as an aid to interpreting ambiguous constitutional provisions"],
+        "a": 2,
+        "e": "Even though the Preamble is part of the Constitution, it is not <b>directly enforceable or justiciable</b>; it remains useful for interpretation and is amendable subject to the basic structure doctrine, but courts cannot grant remedies solely for its violation."
+      }
+    ]
+  }
+},
+{
+  "id": "union_and_territory",
+  "title": "Union and its Territory",
+  "desc": "Articles 1 to 4 and state reorganisation",
+  "questions": {
+    "basic": [
+      {
+        "q": "Which Article of the Constitution declares \"India, that is Bharat, shall be a Union of States\"?",
+        "o": ["Article 1", "Article 2", "Article 3", "Article 4"],
+        "a": 0,
+        "e": "<b>Article 1</b> opens the Constitution with the declaration that India shall be a Union of States, and also defines the territory of India."
+      },
+      {
+        "q": "As per Article 1, the territory of India comprises which of the following?",
+        "o": [
+          "The territories of the States, the Union Territories specified in the First Schedule, and such other territories as may be acquired",
+          "Only the territories of the States",
+          "Only the Union Territories",
+          "States and territories acquired by treaty only"
+        ],
+        "a": 0,
+        "e": "Article 1 defines India's territory broadly to include <b>States</b>, <b>Union Territories in the First Schedule</b>, and <b>territories that may be acquired</b> in future."
+      },
+      {
+        "q": "Which Article empowers Parliament to admit into the Union, or establish, new States?",
+        "o": ["Article 1", "Article 2", "Article 3", "Article 4"],
+        "a": 1,
+        "e": "<b>Article 2</b> allows Parliament to admit or establish new States on terms it thinks fit, covering territory not previously part of India."
+      },
+      {
+        "q": "Which Article empowers Parliament to form a new State by separation of territory, unite states, increase or diminish area, alter boundaries, or alter the name of an existing State?",
+        "o": ["Article 1", "Article 2", "Article 3", "Article 4"],
+        "a": 2,
+        "e": "<b>Article 3</b> gives Parliament wide powers of internal reorganisation of existing Indian States' area, boundaries, and names."
+      },
+      {
+        "q": "Which Article provides that a law made under Article 2 or Article 3 amending the First or Second Schedule shall not be deemed an amendment of the Constitution under Article 368?",
+        "o": ["Article 1", "Article 2", "Article 3", "Article 4"],
+        "a": 3,
+        "e": "<b>Article 4</b> exempts such laws from the Article 368 amendment procedure, allowing them to be passed as ordinary legislation."
+      },
+      {
+        "q": "A bill under Article 3 to form a new State can be introduced in Parliament only on the recommendation of whom?",
+        "o": ["The Chief Justice of India", "The Prime Minister", "The President", "The Speaker of Lok Sabha"],
+        "a": 2,
+        "e": "Article 3 bills require the prior recommendation of the <b>President</b> before introduction in Parliament."
+      },
+      {
+        "q": "Under Article 3, if a bill affects the area, boundaries, or name of a State, to whom must the President refer the bill for its views?",
+        "o": ["The Supreme Court", "The concerned State Legislature", "The Election Commission", "The Finance Commission"],
+        "a": 1,
+        "e": "The President must refer such a bill to the <b>concerned State Legislature</b> for expressing its views within a specified period."
+      },
+      {
+        "q": "On what date did the States Reorganisation Act, 1956 come into effect?",
+        "o": ["26 January 1956", "15 August 1956", "1 November 1956", "1 January 1956"],
+        "a": 2,
+        "e": "The <b>States Reorganisation Act, 1956</b> came into effect on <b>1 November 1956</b>."
+      },
+      {
+        "q": "In which year was the States Reorganisation Commission (Fazl Ali Commission) appointed?",
+        "o": ["1950", "1953", "1956", "1947"],
+        "a": 1,
+        "e": "The Fazl Ali Commission was appointed in <b>1953</b> to examine the reorganisation of state boundaries."
+      },
+      {
+        "q": "Who chaired the States Reorganisation Commission?",
+        "o": ["H.N. Kunzru", "K.M. Panikkar", "Potti Sriramulu", "Fazl Ali"],
+        "a": 3,
+        "e": "The Commission was chaired by <b>Fazl Ali</b>, with H.N. Kunzru and K.M. Panikkar as its other members."
+      },
+      {
+        "q": "Besides Fazl Ali, who were the other two members of the States Reorganisation Commission?",
+        "o": [
+          "Sardar Patel and Jawaharlal Nehru",
+          "B.R. Ambedkar and Rajendra Prasad",
+          "H.N. Kunzru and K.M. Panikkar",
+          "C. Rajagopalachari and K.M. Munshi"
+        ],
+        "a": 2,
+        "e": "The other two members of the Commission were <b>H.N. Kunzru</b> and <b>K.M. Panikkar</b>."
+      },
+      {
+        "q": "On what principal basis did the States Reorganisation Commission recommend the reorganisation of state boundaries?",
+        "o": ["Religious basis", "Linguistic basis", "Economic basis", "Administrative convenience alone"],
+        "a": 1,
+        "e": "The Commission recommended reorganisation of states broadly on a <b>linguistic basis</b>."
+      },
+      {
+        "q": "As a result of the States Reorganisation Act, 1956, how many States and Union Territories were created?",
+        "o": [
+          "17 States and 9 Union Territories",
+          "25 States and 7 Union Territories",
+          "9 States and 4 Union Territories",
+          "14 States and 6 Union Territories"
+        ],
+        "a": 3,
+        "e": "The Act created a structure of <b>14 States and 6 Union Territories</b>, replacing the earlier classification."
+      },
+      {
+        "q": "Which classification of states/territories, originally set out in the Constitution's First Schedule, was abolished by the States Reorganisation Act, 1956?",
+        "o": [
+          "The zonal council classification",
+          "The Part A, Part B, Part C and Part D classification",
+          "The presidency-based classification",
+          "The linguistic circle classification"
+        ],
+        "a": 1,
+        "e": "The earlier fourfold <b>Part A, Part B, Part C, and Part D</b> classification of states/territories was abolished by the 1956 Act."
+      },
+      {
+        "q": "Which was the first State created purely on a linguistic basis, in 1953?",
+        "o": ["Maharashtra", "Kerala", "Andhra State", "Punjab"],
+        "a": 2,
+        "e": "<b>Andhra State</b> was carved out of the Madras Presidency in 1953, following the death of Potti Sriramulu, predating the SRC report and 1956 Act."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements about Article 1 of the Constitution:\n1. It describes India as a \"Union of States\".\n2. It states that the territory of India shall consist only of the territories of the States listed in the First Schedule.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "Statement 1 is correct. Statement 2 is wrong because India's territory also includes <b>Union Territories</b> and <b>territories that may be acquired</b>, not just States."
+      },
+      {
+        "q": "Consider the following statements regarding Dr. B.R. Ambedkar's explanation for using \"Union of States\" instead of \"Federation of States\":\n1. The Indian federation is not the result of an agreement among the states.\n2. The states have the right to secede from the Union.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "Statement 1 is correct. Statement 2 is false - Ambedkar clarified the states have <b>no right to secede</b>, as the Union is indestructible."
+      },
+      {
+        "q": "Consider the following statements about Article 2 and Article 3:\n1. Article 2 deals with admission/establishment of territories not previously part of India.\n2. Article 3 deals with formation of new states out of already existing Indian territory.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both statements are correct: <b>Article 2</b> covers external addition of territory, while <b>Article 3</b> covers internal reorganisation of existing states."
+      },
+      {
+        "q": "Consider the following statements regarding the procedure for a bill under Article 3:\n1. The bill can be introduced in Parliament only on the recommendation of the President.\n2. The views of the state legislature, once given, are binding upon Parliament.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "Statement 1 is correct. Statement 2 is false because the state legislature's views are <b>not binding</b> on Parliament."
+      },
+      {
+        "q": "Consider the following statements about Article 4:\n1. Laws made under Article 2 or 3 that amend the First or Second Schedule are deemed constitutional amendments requiring a special majority under Article 368.\n2. Such laws can be passed through the ordinary legislative process.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 1,
+        "e": "Statement 2 is correct; Article 4 specifically exempts such laws from being treated as <b>Article 368 amendments</b>, so ordinary legislation suffices."
+      },
+      {
+        "q": "Consider the following statements about the States Reorganisation Commission:\n1. It was appointed in 1953.\n2. It recommended reorganisation of states primarily on linguistic lines.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both statements are correct: the Commission was appointed in <b>1953</b> and recommended reorganisation on a <b>linguistic basis</b>."
+      },
+      {
+        "q": "Consider the following statements about the States Reorganisation Act, 1956:\n1. It came into effect on 1 November 1956.\n2. It retained the earlier Part A, Part B, Part C, and Part D classification of states.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "Statement 1 is correct. Statement 2 is false - the Act <b>abolished</b> the fourfold classification and created 14 States and 6 UTs."
+      },
+      {
+        "q": "Consider the following statements about Maharashtra and Gujarat:\n1. They were created in 1960 by bifurcation of the Bombay state.\n2. This reorganisation was carried out under Article 3.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both statements are correct: <b>Maharashtra and Gujarat</b> were formed in <b>1960</b> from the Bombay state under Article 3."
+      },
+      {
+        "q": "Consider the following statements about Punjab and Haryana:\n1. They were created as separate states in 1966.\n2. Their creation, like other state reorganisations, was carried out under Article 2.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "Statement 1 is correct. Statement 2 is false - internal reorganisations such as this are carried out under <b>Article 3</b>, not Article 2."
+      },
+      {
+        "q": "Consider the following statements about Chhattisgarh, Uttarakhand and Jharkhand:\n1. All three were created in the year 2000.\n2. All three were carved out under Article 3 of the Constitution.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both statements are correct: all three states were formed in <b>2000</b> under <b>Article 3</b>."
+      },
+      {
+        "q": "Consider the following statements about Telangana:\n1. It was carved out of Andhra Pradesh in 2014.\n2. Its creation required Parliament to first seek an amendment of the Constitution under Article 368.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "Statement 1 is correct. Statement 2 is false - state formation is done under <b>Article 3</b> as ordinary legislation, not via <b>Article 368</b>."
+      },
+      {
+        "q": "Consider the following statements about the Jammu & Kashmir reorganisation:\n1. J&K was reorganised into two Union Territories - J&K and Ladakh - with effect from 31 October 2019.\n2. This reorganisation was carried out under Article 3.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 2,
+        "e": "Both statements are correct, as per the <b>Jammu and Kashmir Reorganisation Act, 2019</b>, enacted under Article 3 read with then-applicable Article 370 provisions."
+      },
+      {
+        "q": "Consider the following statements about Andhra State:\n1. It was formed in 1953 following the death of Potti Sriramulu after a hunger strike.\n2. It was formed after the States Reorganisation Commission submitted its report.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 0,
+        "e": "Statement 1 is correct. Statement 2 is false - Andhra State (1953) actually <b>predated</b> the SRC's report and the 1956 Act."
+      },
+      {
+        "q": "Consider the following statements about the majority required to pass a bill under Article 3:\n1. It requires a special majority as under Article 368.\n2. It requires only a simple majority.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 1,
+        "e": "Statement 2 is correct. An Article 3 bill requires only a <b>simple majority</b>, unlike constitutional amendments under Article 368."
+      },
+      {
+        "q": "Consider the following statements about state consent for reorganisation under Article 3:\n1. The consent of the concerned state is mandatory before Parliament passes the bill.\n2. Parliament may go ahead with the bill irrespective of the state legislature's views.\nWhich of the statements given above is/are correct?",
+        "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+        "a": 1,
+        "e": "Statement 2 is correct. State <b>consent is not required</b>; Parliament may proceed regardless of the state legislature's response."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "Which of the following best explains why the framers preferred \"Union of States\" over \"Federation of States\" in Article 1, as per Ambedkar's reasoning in the Constituent Assembly?",
+        "o": [
+          "India has only unitary features and no federal features at all",
+          "The states voluntarily joined the union through treaties, similar to the American model",
+          "The Indian Union is not the result of an agreement among states, and the states have no right to secede, making it indestructible",
+          "The term \"federation\" was reserved exclusively for Union Territories"
+        ],
+        "a": 2,
+        "e": "Ambedkar gave two reasons: the Indian federation is <b>not the result of an agreement</b> among states, and the states have <b>no right to secede</b>, making the Union indestructible."
+      },
+      {
+        "q": "India acquires a new foreign territory and Parliament wishes to admit it as a new State of the Union. Which Article of the Constitution would primarily apply?",
+        "o": ["Article 1", "Article 2", "Article 3", "Article 4"],
+        "a": 1,
+        "e": "<b>Article 2</b> governs the admission or establishment of new States from territory that was not previously part of India, unlike Article 3's internal reorganisation."
+      },
+      {
+        "q": "Parliament wants to alter the boundary between two existing Indian states. Which combination of provisions and procedure correctly applies?",
+        "o": [
+          "Article 2, bill needs Supreme Court's prior sanction, passed by special majority",
+          "Article 368, bill needs ratification by half the states",
+          "Article 4, bill needs two-thirds majority in both houses",
+          "Article 3 - bill needs the President's recommendation, mandatory (but non-binding) referral to the concerned State Legislature for its views, and passage by simple majority"
+        ],
+        "a": 3,
+        "e": "Boundary alteration between existing states falls under <b>Article 3</b>, requiring the President's recommendation, non-binding referral to the state legislature, and only a simple majority."
+      },
+      {
+        "q": "Which of the following statements correctly captures the significance of Article 4?",
+        "o": [
+          "It mandates that all laws under Article 2/3 must follow the Article 368 special majority procedure",
+          "It exempts laws under Article 2/3 that amend the First/Second Schedule from being treated as constitutional amendments under Article 368, allowing them to be passed as ordinary legislation",
+          "It gives states an absolute veto over any change to their boundaries",
+          "It applies only to Union Territories and not to States"
+        ],
+        "a": 1,
+        "e": "<b>Article 4</b> ensures such Schedule-amending laws are treated as <b>ordinary legislation</b>, not constitutional amendments under Article 368."
+      },
+      {
+        "q": "A student claims: \"Since the President must refer an Article 3 bill affecting a state's boundary to that state's legislature, the state legislature's disapproval can block the bill.\" Is this claim correct?",
+        "o": [
+          "Yes - the state legislature has an absolute veto",
+          "Yes, but only if two-thirds of state legislators disapprove",
+          "No - the consultation is only for eliciting the state legislature's views within a specified period and is not binding on Parliament",
+          "No - because no such consultation is required at all"
+        ],
+        "a": 2,
+        "e": "The claim is incorrect. The reference to the state legislature is only for its <b>views</b> within a set period; Parliament is <b>not bound</b> by those views."
+      },
+      {
+        "q": "Which of the following correctly identifies the distinguishing feature between Article 2 and Article 3?",
+        "o": [
+          "Article 2 requires a special constitutional amendment, while Article 3 does not require any parliamentary law at all",
+          "Article 2 applies to internal boundary changes, while Article 3 applies to admission of foreign territory",
+          "Both Articles are identical in scope and were retained for stylistic reasons only",
+          "Article 2 concerns admission/establishment of new states from territory outside the existing Union, while Article 3 concerns reorganisation within the existing territory of India"
+        ],
+        "a": 3,
+        "e": "<b>Article 2</b> is about external addition of territory not previously part of India, while <b>Article 3</b> is about internal reorganisation of existing Indian territory."
+      },
+      {
+        "q": "The Jammu and Kashmir Reorganisation Act, 2019, which converted the state into two Union Territories, was enacted under which constitutional provision, as per the given facts?",
+        "o": ["Article 2", "Article 368 alone", "Article 3 (read with then-applicable Article 370 provisions)", "Article 1"],
+        "a": 2,
+        "e": "The 2019 reorganisation of J&K into two UTs was carried out under <b>Article 3</b> read with the then-applicable <b>Article 370</b> provisions."
+      },
+      {
+        "q": "Which statement correctly reflects the sequence of events relating to linguistic reorganisation of states?",
+        "o": [
+          "The States Reorganisation Commission was appointed in 1953 specifically to create Andhra State",
+          "Andhra State was created in 1953, before the States Reorganisation Commission submitted its report that led to the 1956 Act",
+          "The 1956 Act preceded the creation of Andhra State by three years",
+          "Andhra State was created as a Union Territory under Article 2 in 1953"
+        ],
+        "a": 1,
+        "e": "<b>Andhra State</b> (1953) predated the SRC's report and the <b>1956 Act</b>, and was formed as a State (not a Union Territory) under Article 3."
+      },
+      {
+        "q": "Which of the following correctly explains why a bill under Article 3 does not require a special/two-thirds majority even though it changes the territorial composition of the Union?",
+        "o": [
+          "Because such bills are money bills and hence require only Lok Sabha's approval",
+          "Because the Constitution does not permit any alteration of state boundaries at all",
+          "Because Article 4 declares that such laws amending the First/Second Schedule are not deemed amendments of the Constitution for purposes of Article 368, hence the ordinary legislative process with simple majority suffices",
+          "Because such bills must always be passed by a two-thirds majority under Article 368 regardless of Article 4"
+        ],
+        "a": 2,
+        "e": "<b>Article 4</b> is the reason: such laws are excluded from the Article 368 amendment procedure and pass by <b>simple majority</b> as ordinary law."
+      },
+      {
+        "q": "Parliament proposes to unite two territories/parts of states to form a new State. Under the scheme described, which Article would primarily govern this action?",
+        "o": ["Article 2", "Article 3", "Article 1", "Article 368 exclusively"],
+        "a": 1,
+        "e": "Forming a new state by uniting territories or parts of existing states falls squarely within <b>Article 3</b>'s scope of internal reorganisation."
+      },
+      {
+        "q": "Which of the following pairs is INCORRECTLY matched, based on the given facts?",
+        "o": [
+          "Maharashtra and Gujarat - Article 3",
+          "Chhattisgarh - Article 3",
+          "Punjab and Haryana - Article 3",
+          "Telangana - Article 2"
+        ],
+        "a": 3,
+        "e": "This is incorrectly matched. <b>Telangana</b> (2014) was carved out of Andhra Pradesh under <b>Article 3</b>, not Article 2, since it involved existing Indian territory."
+      },
+      {
+        "q": "Which of the following best describes the \"indestructible Union\" doctrine as explained by Ambedkar with respect to Article 1?",
+        "o": [
+          "The Union can be dissolved by a simple majority resolution of any one state's legislature",
+          "The states forming the Union have no right to secede from it, making the Union indestructible",
+          "Each state retains a sovereign right of secession, similar to the pre-Civil War United States",
+          "The Union is indestructible only for Part A states and not for Part B or C states"
+        ],
+        "a": 1,
+        "e": "Ambedkar explained that the Union is indestructible precisely because <b>no state has the right to secede</b> from it."
+      },
+      {
+        "q": "A bill is introduced in Parliament to alter the name of a State. As per the given facts, which of the following is the correct procedural requirement?",
+        "o": [
+          "It requires ratification by at least half of the State Legislatures under Article 368",
+          "It requires a referendum in the concerned state",
+          "It requires prior recommendation of the President and reference of the bill to the concerned State Legislature for its views within a specified period",
+          "It requires the unanimous consent of all state legislatures in India"
+        ],
+        "a": 2,
+        "e": "Altering a state's name under <b>Article 3</b> requires the <b>President's prior recommendation</b> and referral to the concerned state legislature for its (non-binding) views."
+      },
+      {
+        "q": "Which of the following correctly contrasts the American federation with the Indian Union, as explained by Ambedkar?",
+        "o": [
+          "Both the American federation and the Indian Union resulted from agreements among pre-existing sovereign states",
+          "The American federation resulted from an agreement among independent states, whereas the Indian Union did not result from any such agreement among states",
+          "Neither the American federation nor the Indian Union resulted from any agreement",
+          "The Indian Union resulted from an agreement, unlike the American federation"
+        ],
+        "a": 1,
+        "e": "Ambedkar contrasted the two: the <b>American federation</b> arose from an agreement among states, while the <b>Indian federation</b> did not arise from any such agreement."
+      },
+      {
+        "q": "Which of the following statements about the First Schedule of the Constitution is correct in light of Articles 1 and 4?",
+        "o": [
+          "The First Schedule can only be amended through the Article 368 special majority procedure",
+          "The First Schedule deals exclusively with the emoluments of the President and Governors",
+          "The First Schedule specifies the States and the Union Territories, and its amendment consequent to laws under Article 2 or 3 is not treated as a constitutional amendment under Article 368",
+          "The First Schedule was abolished by the States Reorganisation Act, 1956"
+        ],
+        "a": 2,
+        "e": "The <b>First Schedule</b> lists States and UTs; under <b>Article 4</b>, its amendment via Article 2/3 laws is not deemed an Article 368 amendment."
+      }
+    ]
+  }
+},
+{
+  "id": "citizenship",
+  "title": "Citizenship",
+  "desc": "Articles 5-11, Citizenship Act, CAA & OCI rules",
+  "questions": {
+    "basic": [
+      {"q": "Which Part of the Constitution of India deals with citizenship?", "o": ["Part I", "Part II", "Part III", "Part IV"], "a": 1, "e": "<b>Part II</b> of the Constitution (Articles 5 to 11) deals with citizenship."},
+      {"q": "Citizenship is dealt with in which Articles of the Constitution?", "o": ["Articles 1-4", "Articles 5-11", "Articles 12-18", "Articles 19-22"], "a": 1, "e": "<b>Articles 5 to 11</b> in Part II deal with citizenship as it stood at the commencement of the Constitution."},
+      {"q": "Which Article of the Constitution provided for citizenship at the commencement of the Constitution based on domicile in India?", "o": ["Article 5", "Article 6", "Article 7", "Article 8"], "a": 0, "e": "<b>Article 5</b> provided citizenship at commencement based on domicile combined with birth in India, parentage, or five years' ordinary residence."},
+      {"q": "Which Article deals with the rights of citizenship of certain persons who migrated to India from Pakistan?", "o": ["Article 5", "Article 6", "Article 7", "Article 8"], "a": 1, "e": "<b>Article 6</b> dealt with citizenship rights of persons who migrated to India from Pakistan at/around the time of partition."},
+      {"q": "Which Article deals with the rights of citizenship of certain migrants to Pakistan who later returned to India?", "o": ["Article 6", "Article 7", "Article 8", "Article 9"], "a": 1, "e": "<b>Article 7</b> covered persons who migrated to Pakistan after 1 March 1947 but returned to India under a resettlement permit."},
+      {"q": "Which Article deals with the rights of citizenship of persons of Indian origin residing outside India?", "o": ["Article 7", "Article 8", "Article 9", "Article 10"], "a": 1, "e": "<b>Article 8</b> covered persons of Indian origin residing outside India, registered as citizens by India's diplomatic missions abroad."},
+      {"q": "Which Article provides that a person who voluntarily acquires citizenship of a foreign state ceases to be an Indian citizen?", "o": ["Article 8", "Article 9", "Article 10", "Article 11"], "a": 1, "e": "<b>Article 9</b> reflects India's single citizenship principle - no automatic dual citizenship."},
+      {"q": "Which Article provides for the continuance of the rights of citizenship of existing citizens, subject to any law made by Parliament?", "o": ["Article 9", "Article 10", "Article 11", "Article 5"], "a": 1, "e": "<b>Article 10</b> continues the citizenship rights of persons already citizens, subject to parliamentary law."},
+      {"q": "Which Article empowers Parliament to make provisions regarding acquisition and termination of citizenship?", "o": ["Article 9", "Article 10", "Article 11", "Article 12"], "a": 2, "e": "<b>Article 11</b> empowers Parliament to legislate on acquisition, termination, and all other matters relating to citizenship; it is the basis of the Citizenship Act, 1955."},
+      {"q": "In which year was the Citizenship Act enacted?", "o": ["1950", "1955", "1960", "1965"], "a": 1, "e": "The <b>Citizenship Act, 1955</b> was enacted under the power given to Parliament by Article 11."},
+      {"q": "How many modes of acquiring Indian citizenship are provided under the Citizenship Act, 1955?", "o": ["Three", "Four", "Five", "Six"], "a": 2, "e": "The Act provides <b>five modes</b>: birth, descent, registration, naturalisation, and incorporation of territory."},
+      {"q": "How many ways of losing Indian citizenship are provided under the Citizenship Act, 1955?", "o": ["Two", "Three", "Four", "Five"], "a": 1, "e": "The Act provides <b>three ways</b> of losing citizenship: renunciation, termination, and deprivation."},
+      {"q": "Which amendment to the Citizenship Act introduced the concept of \"Overseas Citizen of India\" (OCI)?", "o": ["Citizenship (Amendment) Act, 1986", "Citizenship (Amendment) Act, 2003", "Citizenship (Amendment) Act, 2019", "Citizenship Act, 1955 (original)"], "a": 1, "e": "The <b>Citizenship (Amendment) Act, 2003</b> introduced the OCI concept and legal basis for the NRC; the scheme was operationalised in 2005."},
+      {"q": "In which year was the Citizenship (Amendment) Act, commonly known as CAA, enacted?", "o": ["2015", "2019", "2003", "1986"], "a": 1, "e": "The <b>CAA, 2019</b> provides an expedited naturalisation path for specified minorities from three neighbouring countries."},
+      {"q": "In which year was the Persons of Indian Origin (PIO) card scheme started?", "o": ["1999", "2003", "2005", "2015"], "a": 0, "e": "The <b>PIO card scheme started in 1999</b> and was later merged with the OCI scheme in 2015."}
+    ],
+    "intermediate": [
+      {"q": "Consider the following statements regarding Part II of the Constitution: 1. It deals with citizenship as it stood at the commencement of the Constitution. 2. It also comprehensively deals with subsequent acquisition and loss of citizenship after 1950. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 0, "e": "Part II deals only with citizenship <b>at the commencement</b> of the Constitution; subsequent matters were left to Parliament under <b>Article 11</b>."},
+      {"q": "Consider the following statements: 1. Article 6 dealt with persons who migrated to India from Pakistan. 2. Article 7 dealt with persons who migrated to Pakistan but subsequently returned to India under a permit for resettlement. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "<b>Article 6</b> covered migrants from Pakistan to India, while <b>Article 7</b> covered migrants to Pakistan who later returned to India."},
+      {"q": "Consider the following statements regarding the Citizenship (Amendment) Act, 1986: 1. Before this amendment, anyone born in India was automatically a citizen regardless of parents' nationality. 2. After the amendment, a person born in India on or after 1 July 1987 is a citizen by birth only if at least one parent was an Indian citizen at the time of birth. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "The <b>1986 amendment</b> tightened the birth criterion, requiring at least one Indian citizen parent for those born on or after 1 July 1987."},
+      {"q": "Consider the following statements regarding the Citizenship (Amendment) Act, 2003: 1. A person born in India on or after 3 December 2004 is a citizen by birth only if both parents are Indian citizens, or one parent is an Indian citizen and the other is not an illegal migrant. 2. It provided the legal basis for a National Register of Citizens (NRC). Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "The <b>2003 amendment</b> further tightened birth-based citizenship criteria and provided the legal basis for the NRC."},
+      {"q": "Consider the following statements regarding Overseas Citizen of India (OCI): 1. OCI status is equivalent to dual citizenship. 2. OCI cardholders do not enjoy voting rights in India. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 1, "e": "OCI is <b>not equivalent to dual citizenship</b>; OCI cardholders lack voting rights, unlike full Indian citizens."},
+      {"q": "Consider the following statements regarding a Non-Resident Indian (NRI): 1. NRI is a citizenship category recognised under the Citizenship Act, 1955. 2. NRI is a residential status under laws like the Income Tax Act and FEMA. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 1, "e": "<b>NRI is not a citizenship category</b>; it is a residential status, and an NRI remains a full Indian citizen."},
+      {"q": "Consider the following statements regarding PIO and OCI: 1. The PIO card scheme started in 1999, before the OCI scheme. 2. The PIO scheme was merged with the OCI scheme in 2015. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "The <b>PIO scheme (1999)</b> was merged with the <b>OCI scheme in 2015</b>, creating a single unified category."},
+      {"q": "Consider the following statements regarding citizenship in India: 1. India follows the principle of single citizenship, unlike the USA's dual (state and national) citizenship. 2. There exists a separate state citizenship for residents of each state in India. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 0, "e": "India has <b>single citizenship</b>; there is no separate state citizenship despite the federal structure."},
+      {"q": "Consider the following statements regarding the Citizenship (Amendment) Act, 2019: 1. It covers Hindu, Sikh, Buddhist, Jain, Parsi, and Christian migrants. 2. It covers migrants from Afghanistan, Pakistan, and Bangladesh who entered India on or before 31 December 2014. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "CAA 2019 covers <b>six communities</b> from <b>three countries</b>, with an entry cutoff of 31 December 2014."},
+      {"q": "Consider the following statements regarding loss of Indian citizenship under the Citizenship Act, 1955: 1. Citizenship can be lost by renunciation. 2. Citizenship can be lost by termination or deprivation. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "The Act provides three ways of losing citizenship: <b>renunciation, termination, and deprivation</b>."},
+      {"q": "Consider the following statements regarding Article 5 of the Constitution: 1. It required domicile in India combined with birth in India, OR either parent born in India, OR five years' ordinary residence before commencement. 2. It applied only to persons born after the commencement of the Constitution. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 0, "e": "Article 5 dealt with citizenship <b>at the commencement</b> of the Constitution, not persons born afterward."},
+      {"q": "Consider the following statements regarding modes of acquiring citizenship under the Citizenship Act, 1955: 1. Registration and naturalisation are both recognised modes. 2. Incorporation of territory is also a recognised mode of acquiring citizenship. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 2, "e": "The five modes are birth, descent, registration, naturalisation, and <b>incorporation of territory</b>."},
+      {"q": "Consider the following statements regarding the National Register of Citizens (NRC): 1. The legal basis for the NRC was introduced through the Citizenship (Amendment) Act, 2003. 2. The NRC concept is directly mentioned in Article 11 of the Constitution. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 0, "e": "The <b>2003 amendment</b> to the Citizenship Act provided the legal basis for the NRC; Article 11 only empowers Parliament generally on citizenship matters."},
+      {"q": "Consider the following statements regarding OCI eligibility: 1. Citizens of Pakistan and Bangladesh are excluded from OCI eligibility even if of Indian origin. 2. OCI cardholders can purchase agricultural land in India like full citizens. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 0, "e": "Persons of Indian origin who are citizens of <b>Pakistan or Bangladesh</b> are excluded from OCI, and OCI holders generally <b>cannot purchase agricultural land</b>."},
+      {"q": "Consider the following statements comparing Article 8 and the OCI scheme: 1. Article 8 dealt with persons of Indian origin residing outside India being registered as citizens by Indian diplomatic missions. 2. The OCI scheme grants full Indian citizenship to persons of Indian origin residing abroad. Which of the statements given above is/are correct?", "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"], "a": 0, "e": "Article 8 allowed registration as citizens through diplomatic missions; OCI, in contrast, is <b>not full citizenship</b> but a distinct status for foreign citizens of Indian origin."}
+    ],
+    "advanced": [
+      {"q": "Which of the following best explains why Article 7 reduced the citizenship eligibility of certain persons compared to Article 6, even though both dealt with partition-era migration?", "o": ["Article 7 applied to persons who had migrated to Pakistan and later returned to India under a resettlement permit, unlike Article 6 migrants who moved directly to India from Pakistan", "Article 7 applied only to government officials", "Article 7 required a minimum residence of ten years in India", "Article 7 applied only to persons born after 1950"], "a": 0, "e": "<b>Article 7</b> covered persons who first migrated to Pakistan after 1 March 1947 and then returned to India under a resettlement permit - a category treated more restrictively than the direct migrants covered under <b>Article 6</b>."},
+      {"q": "A person born in India on 15 August 1988 would be governed by which citizenship-by-birth criterion?", "o": ["Automatic citizenship regardless of parents' nationality", "Citizenship by birth only if at least one parent was an Indian citizen at the time of birth (per the 1986 amendment)", "Citizenship by birth only if both parents were Indian citizens", "No citizenship by birth under any circumstances"], "a": 1, "e": "Persons born on or after <b>1 July 1987</b> require at least one Indian citizen parent, per the <b>Citizenship (Amendment) Act, 1986</b>."},
+      {"q": "A person born in India on 10 December 2004 would be governed by which citizenship-by-birth criterion?", "o": ["Automatic citizenship regardless of parents' nationality", "Citizenship only if at least one parent was Indian, regardless of the other parent's status", "Citizenship only if both parents are Indian citizens, or one parent is Indian and the other is not an illegal migrant", "Citizenship denied altogether since the person was born after independence"], "a": 2, "e": "For those born on or after <b>3 December 2004</b>, the 2003 amendment requires both parents to be Indian citizens, or one parent Indian and the other not an illegal migrant."},
+      {"q": "Under the Citizenship (Amendment) Act, 2019, which of the following categories of areas are excluded from the Act's applicability?", "o": ["Areas covered under the Fifth Schedule only", "Specified tribal areas and areas under the Inner Line Permit regime", "Coastal areas under the Coastal Regulation Zone", "Union Territories without legislatures"], "a": 1, "e": "CAA 2019 excludes certain <b>tribal areas</b> and areas under the <b>Inner Line Permit</b> regime from its applicability."},
+      {"q": "Which of the following positions is an OCI cardholder constitutionally barred from holding, being a foreign citizen?", "o": ["Employee of a private company in India", "President of India", "Member of a non-governmental organisation", "Shareholder in an Indian company"], "a": 1, "e": "OCI cardholders, not being Indian citizens, cannot hold constitutional posts such as <b>President, Vice-President, or Judge of the Supreme Court/High Courts</b>."},
+      {"q": "Which of the following restrictions applies to OCI cardholders but not to Non-Resident Indians (NRIs)?", "o": ["Restriction on purchasing agricultural land in India", "Requirement to file income tax returns in India", "Restriction on holding a savings bank account in India", "Requirement to renounce all foreign assets"], "a": 0, "e": "OCI cardholders, being foreign citizens, generally <b>cannot purchase agricultural land</b>; NRIs, being Indian citizens, face no such restriction on citizenship grounds."},
+      {"q": "Which of the following statements correctly distinguishes NRI from OCI?", "o": ["An NRI is a foreign citizen while an OCI is an Indian citizen", "An NRI remains a full Indian citizen with voting rights (subject to registration), while an OCI cardholder is a foreign citizen without voting rights", "Both NRI and OCI are foreign citizens with no rights in India", "Both NRI and OCI enjoy full voting rights in India"], "a": 1, "e": "An <b>NRI</b> is an Indian citizen residing abroad (a residential status), whereas an <b>OCI</b> is a foreign citizen without voting rights."},
+      {"q": "Persons of Indian origin who are citizens of which two countries are NOT eligible for OCI status?", "o": ["Nepal and Bhutan", "Pakistan and Bangladesh", "Sri Lanka and Myanmar", "Afghanistan and Bangladesh"], "a": 1, "e": "Persons of Indian origin who are citizens of <b>Pakistan and Bangladesh</b> are excluded from OCI eligibility."},
+      {"q": "Which of the following is a correct observation about the Citizenship (Amendment) Act, 2019?", "o": ["It includes Muslims among the eligible communities from the three specified countries", "It covers migrants from Nepal, Bhutan, Myanmar, and Sri Lanka in addition to the three specified countries", "It does not include Muslims among the eligible communities and does not cover migrants from Nepal, Bhutan, Myanmar, or Sri Lanka", "It applies uniformly to all religious communities from all neighbouring countries"], "a": 2, "e": "CAA 2019 covers six specific communities from Afghanistan, Pakistan, and Bangladesh only, <b>excluding Muslims</b> and migrants from other neighbouring countries like Nepal, Bhutan, Myanmar, or Sri Lanka."},
+      {"q": "The principle underlying Article 9 of the Constitution is best described as which of the following?", "o": ["Automatic dual citizenship for Indians acquiring foreign citizenship", "Loss of Indian citizenship upon voluntary acquisition of foreign citizenship, reflecting the single citizenship principle", "Retention of Indian citizenship regardless of foreign citizenship acquired", "Loss of citizenship only upon government notification"], "a": 1, "e": "Article 9 reflects India's <b>single citizenship</b> principle - voluntary acquisition of foreign citizenship automatically terminates Indian citizenship."},
+      {"q": "Which of the following correctly describes the relationship between the PIO card scheme and the OCI scheme?", "o": ["The PIO scheme (1999) was merged with the OCI scheme in 2015, creating a single unified category", "The OCI scheme (2005) was merged into the PIO scheme in 2015", "The two schemes have always operated as a single unified category since 1999", "The PIO scheme was abolished in 2003 without replacement"], "a": 0, "e": "The <b>PIO card scheme, started in 1999</b>, was merged into the OCI scheme in <b>2015</b>."},
+      {"q": "Article 10 of the Constitution continues the citizenship rights of existing citizens subject to which of the following?", "o": ["No conditions whatsoever", "Provisions of any law that Parliament may make", "Approval by the President in each case", "Ratification by state legislatures"], "a": 1, "e": "Article 10 continues citizenship rights <b>\"subject to the provisions of any law that may be made by Parliament\"</b>, i.e., subject to Article 11 legislation."},
+      {"q": "Why does Part II of the Constitution (Articles 5-11) not comprehensively address post-1950 acquisition and loss of citizenship?", "o": ["Because the framers considered citizenship a purely judicial matter", "Because Article 11 specifically empowered Parliament to legislate on all other matters relating to citizenship", "Because citizenship laws were left to individual states", "Because the Constitution prohibited any further citizenship legislation"], "a": 1, "e": "<b>Article 11</b> empowers Parliament to make provisions on acquisition, termination, and all other matters of citizenship, which is why Part II addresses only citizenship at the Constitution's commencement."},
+      {"q": "Under the CAA, 2019, what is the reduced period of residency in India required for eligible persons to acquire citizenship by naturalisation, compared to the standard requirement?", "o": ["5 years instead of the standard 11 years", "3 years instead of the standard 11 years", "5 years instead of the standard 8 years", "11 years instead of the standard 5 years"], "a": 0, "e": "CAA 2019 reduces the residency requirement for eligible persons to <b>5 years</b>, compared to the standard <b>11 years</b> required for naturalisation."},
+      {"q": "Which of the following persons would be eligible for citizenship under Article 8 of the Constitution?", "o": ["A person born in India after 1950 to foreign parents", "A person of Indian origin residing outside India whose parents or grandparents were born in undivided India, and who is registered as a citizen by an Indian diplomatic mission", "A person who migrated to Pakistan and returned to India under a resettlement permit", "A foreign citizen who voluntarily acquires Indian citizenship through naturalisation"], "a": 1, "e": "Article 8 covered persons of <b>Indian origin residing outside India</b> (parents/grandparents born in undivided India), registered as citizens by India's diplomatic missions."}
+    ]
+  }
+}
+]

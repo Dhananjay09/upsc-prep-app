@@ -1,0 +1,1526 @@
+[
+  {
+    "id": "cabinet_committees",
+    "title": "Cabinet Committees",
+    "desc": "Extra-constitutional bodies that streamline Cabinet decision-making",
+    "questions": {
+      "basic": [
+        {
+          "q": "Cabinet Committees are set up by the:",
+          "o": [
+            "Constitution of India directly",
+            "Prime Minister, under the Rules of Business",
+            "Parliament through an Act",
+            "President on the advice of the Chief Justice"
+          ],
+          "a": 1,
+          "e": "Cabinet Committees are <b>extra-constitutional</b> — they find no mention in the Constitution and are constituted by the <b>Prime Minister</b> as per requirements of the time, under the Government of India (Transaction of Business) Rules, 1961 framed under <b>Article 77(3)</b>."
+        },
+        {
+          "q": "Which Article empowers the President to make rules for the more convenient transaction of Government business, under which Cabinet Committees derive indirect legal backing?",
+          "o": [
+            "Article 74",
+            "Article 75",
+            "Article 77(3)",
+            "Article 78"
+          ],
+          "a": 2,
+          "e": "<b>Article 77(3)</b> allows the President to make rules for allocation and transaction of government business, which form the basis of the Government of India (Transaction of Business) Rules, 1961."
+        },
+        {
+          "q": "The Cabinet Secretariat functions under the direct charge of the:",
+          "o": [
+            "Home Minister",
+            "Prime Minister",
+            "Cabinet Secretary alone",
+            "President"
+          ],
+          "a": 1,
+          "e": "The <b>Cabinet Secretariat</b> operates under the direct charge of the <b>Prime Minister</b>, with the Cabinet Secretary as its administrative head."
+        },
+        {
+          "q": "Who is the administrative head of the Cabinet Secretariat?",
+          "o": [
+            "Principal Secretary to the PM",
+            "Cabinet Secretary",
+            "Home Secretary",
+            "Attorney General"
+          ],
+          "a": 1,
+          "e": "The <b>Cabinet Secretary</b> is the senior-most civil servant in India and heads the Cabinet Secretariat, which assists the Cabinet and its committees."
+        },
+        {
+          "q": "The Appointments Committee of the Cabinet (ACC) is chaired by the:",
+          "o": [
+            "Home Minister",
+            "Prime Minister",
+            "Cabinet Secretary",
+            "Vice-President"
+          ],
+          "a": 1,
+          "e": "The <b>Appointments Committee of the Cabinet (ACC)</b>, which decides on top-level bureaucratic and important appointments, is chaired by the <b>Prime Minister</b>."
+        },
+        {
+          "q": "Which Cabinet Committee primarily deals with matters of internal and external security, including defence expenditure?",
+          "o": [
+            "Cabinet Committee on Economic Affairs",
+            "Cabinet Committee on Security (CCS)",
+            "Cabinet Committee on Parliamentary Affairs",
+            "Appointments Committee of the Cabinet"
+          ],
+          "a": 1,
+          "e": "The <b>Cabinet Committee on Security (CCS)</b>, chaired by the Prime Minister, deals with issues of law and order and internal/external security, including defence-related expenditure."
+        },
+        {
+          "q": "The Cabinet Committee on Economic Affairs (CCEA) is generally concerned with:",
+          "o": [
+            "Judicial appointments",
+            "Direction of the economy and economic policy matters",
+            "Allocation of parliamentary business",
+            "Disciplinary action against MPs"
+          ],
+          "a": 1,
+          "e": "The <b>CCEA</b> reviews economic trends and issues affecting economic policy, and directs and coordinates government policy on economic matters."
+        },
+        {
+          "q": "Cabinet Committees can be classified into:",
+          "o": [
+            "Only standing committees",
+            "Only ad hoc committees",
+            "Standing committees and ad hoc committees",
+            "Only statutory committees"
+          ],
+          "a": 2,
+          "e": "Cabinet Committees are of two types: <b>standing committees</b>, which are permanent in nature, and <b>ad hoc committees</b>, which are temporary and set up to deal with special problems."
+        },
+        {
+          "q": "Which of the following best describes the composition of Cabinet Committees?",
+          "o": [
+            "Only Cabinet Ministers can be members",
+            "Membership is limited to three to eight ministers, with ministers of state also included in some cases",
+            "All members of the Council of Ministers must be included",
+            "Only the Prime Minister and the Home Minister"
+          ],
+          "a": 1,
+          "e": "Cabinet Committees usually consist of <b>3 to 8 ministers</b>, and ministers who are not part of a particular committee may still attend meetings if invited."
+        },
+        {
+          "q": "Who decides the number, composition, and functions of Cabinet Committees?",
+          "o": [
+            "The Parliament through legislation",
+            "The Prime Minister as per requirements of the time",
+            "The President in consultation with the Chief Justice",
+            "The Cabinet Secretary"
+          ],
+          "a": 1,
+          "e": "There is no fixed number or list of Cabinet Committees in the Constitution — the <b>Prime Minister</b> sets them up according to the exigencies of the time."
+        },
+        {
+          "q": "The main purpose of Cabinet Committees is to:",
+          "o": [
+            "Replace the Council of Ministers",
+            "Reduce the burden on the Cabinet by sorting out policy issues in advance",
+            "Exercise judicial review over legislation",
+            "Directly draft Money Bills"
+          ],
+          "a": 1,
+          "e": "Cabinet Committees are devised to <b>reduce the enormous burden</b> on the Cabinet by settling issues and formulating proposals for Cabinet consideration."
+        },
+        {
+          "q": "Which of the following is an example of a Cabinet Committee historically constituted for parliamentary business coordination?",
+          "o": [
+            "Cabinet Committee on Parliamentary Affairs",
+            "Cabinet Committee on Judicial Affairs",
+            "Cabinet Committee on Foreign Trade only",
+            "National Development Council"
+          ],
+          "a": 0,
+          "e": "The <b>Cabinet Committee on Parliamentary Affairs</b> monitors the progress of government business in Parliament and related matters."
+        },
+        {
+          "q": "Decisions of Cabinet Committees are:",
+          "o": [
+            "Subject to ratification by the full Cabinet in every case without exception",
+            "Deemed to be decisions of the Cabinet itself, subject to the right of any minister to bring the matter to the Cabinet",
+            "Never binding on ministries",
+            "Only recommendatory and require Presidential assent"
+          ],
+          "a": 1,
+          "e": "As per the Rules of Business, decisions of Cabinet Committees are treated as <b>decisions of the Cabinet</b>, though any minister may seek to have a matter considered by the full Cabinet."
+        },
+        {
+          "q": "Which rules, framed under Article 77(3), primarily govern the working of the Cabinet Secretariat and Cabinet Committees?",
+          "o": [
+            "Government of India (Transaction of Business) Rules, 1961",
+            "All India Services Act, 1951",
+            "Representation of the People Act, 1951",
+            "Government of India Act, 1935"
+          ],
+          "a": 0,
+          "e": "The <b>Government of India (Transaction of Business) Rules, 1961</b>, along with the Allocation of Business Rules, 1961, govern how government business including Cabinet Committee functioning is conducted."
+        },
+        {
+          "q": "The Cabinet Secretariat is primarily responsible for:",
+          "o": [
+            "Enacting laws",
+            "Secretarial assistance to the Cabinet and its Committees, and coordination among ministries",
+            "Appointing state Governors",
+            "Conducting general elections"
+          ],
+          "a": 1,
+          "e": "The Cabinet Secretariat provides <b>secretarial assistance</b> to the Cabinet and Cabinet Committees and ensures coordination and communication between ministries and departments."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements about Cabinet Committees:\n1. They are mentioned in the Constitution under Article 74.\n2. Ministers who are not members of a Cabinet Committee can attend its meetings if invited.\n3. Their number and composition are fixed and cannot be changed by different governments.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Cabinet Committees are <b>not mentioned in the Constitution</b> (extra-constitutional), and their number/composition is <b>not fixed</b> — it varies from government to government. Only statement 2 is correct: non-member ministers may attend if invited."
+        },
+        {
+          "q": "Consider the following statements:\n1. The Appointments Committee of the Cabinet (ACC) decides on appointments to top posts in the All India Services and Central Civil Services.\n2. The ACC is chaired by the Home Minister.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The <b>ACC</b> does decide on senior appointments, but it is chaired by the <b>Prime Minister</b>, not the Home Minister, making statement 2 incorrect."
+        },
+        {
+          "q": "Consider the following pairs:\nCommittee — Key Area of Concern\n1. Cabinet Committee on Security — Defence and internal/external security\n2. Cabinet Committee on Economic Affairs — Direction of economic policy\n3. Cabinet Committee on Parliamentary Affairs — Judicial appointments\nWhich of the pairs given above is/are correctly matched?",
+          "o": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Pairs 1 and 2 are correct. The <b>Cabinet Committee on Parliamentary Affairs</b> deals with monitoring government business in Parliament, not judicial appointments, so pair 3 is incorrect."
+        },
+        {
+          "q": "With reference to the Cabinet Secretariat, consider the following statements:\n1. It works directly under the Prime Minister.\n2. It has three wings: Civil, Military, and Intelligence.\n3. The Cabinet Secretary is ex officio Chairman of the Civil Services Board.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct: the Cabinet Secretariat works under the PM, has Civil, Military and Intelligence wings, and the <b>Cabinet Secretary</b> also chairs the <b>Civil Services Board</b>."
+        },
+        {
+          "q": "Which of the following statements about the distinction between standing and ad hoc Cabinet Committees is correct?",
+          "o": [
+            "Standing committees are temporary; ad hoc committees are permanent",
+            "Standing committees are permanent in nature; ad hoc committees are temporary and formed for specific issues",
+            "Both types are permanent and differ only in the number of members",
+            "There is no such distinction; all Cabinet Committees are identical in nature"
+          ],
+          "a": 1,
+          "e": "<b>Standing Committees</b> are of a permanent nature, while <b>ad hoc committees</b> are constituted temporarily to deal with special problems and are dissolved once their task is over."
+        },
+        {
+          "q": "Consider the following statements regarding Cabinet Committee decisions:\n1. A decision of a Cabinet Committee is deemed to be a decision of the Cabinet.\n2. Any Cabinet Minister can seek to have a matter decided by a Cabinet Committee reconsidered by the full Cabinet.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Cabinet Committee decisions are treated as <b>Cabinet decisions</b>, but any minister retains the right to have the matter placed before the full Cabinet."
+        },
+        {
+          "q": "Which of the following is NOT typically true of Cabinet Committees?",
+          "o": [
+            "They can include ministers of state as members",
+            "They help in reducing the workload of the Cabinet",
+            "They are constitutional bodies created directly under Article 74",
+            "Their composition varies depending on the government in power"
+          ],
+          "a": 2,
+          "e": "Cabinet Committees are <b>extra-constitutional</b>, not constitutional bodies under Article 74, which deals with the Council of Ministers to aid and advise the President."
+        },
+        {
+          "q": "Consider the following statements:\n1. The Cabinet Secretariat assists in decision-making by ensuring that Cabinet Committees are provided with adequate information.\n2. The Cabinet Secretariat also assists in the smooth transfer of power during the transition from one government to another.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are functions of the Cabinet Secretariat — it services the Cabinet and its committees with data, and ensures continuity and smooth transition between successive governments."
+        },
+        {
+          "q": "Which of the following statements correctly explains why Cabinet Committees are considered a 'device of the Cabinet system'?",
+          "o": [
+            "They are created by a constitutional amendment and cannot be dissolved",
+            "They evolved as a practice/convention to divide Cabinet's work and ensure quicker decision-making without diluting collective responsibility",
+            "They replace the collective responsibility of the Council of Ministers to Parliament",
+            "They are directly elected bodies within Parliament"
+          ],
+          "a": 1,
+          "e": "Cabinet Committees are a <b>convention-based mechanism</b> to speed up decision-making by dividing the volume of Cabinet business, while final accountability still rests with the Cabinet collectively."
+        },
+        {
+          "q": "Consider the following statements about the Appointments Committee of the Cabinet (ACC):\n1. It considers appointments to top posts in banks and financial institutions.\n2. It is one of the most important Cabinet Committees due to its role in senior civil service postings.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The <b>ACC</b> considers appointments to senior posts in the central government, public sector undertakings, and financial institutions/banks, and is a key committee for top-level postings."
+        },
+        {
+          "q": "Which of the following statements is correct regarding non-Cabinet Ministers of State and Cabinet Committees?",
+          "o": [
+            "They can never be members of any Cabinet Committee",
+            "They can be inducted as members of a Cabinet Committee depending on the subject matter",
+            "They automatically become members of all Cabinet Committees",
+            "Only the Deputy Prime Minister can represent them"
+          ],
+          "a": 1,
+          "e": "Depending on the nature of the committee's work, <b>Ministers of State</b> handling independent charge of relevant departments may be included as members."
+        },
+        {
+          "q": "Consider the following statements:\n1. Cabinet Committees can only be constituted with the prior approval of Parliament.\n2. The Prime Minister can reconstitute or dissolve a Cabinet Committee at will.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Since Cabinet Committees are extra-constitutional and derive from the Rules of Business, the <b>Prime Minister</b> has full discretion to reconstitute or dissolve them without needing parliamentary approval."
+        },
+        {
+          "q": "Which of the following best distinguishes the Cabinet Committee on Security (CCS) in terms of significance?",
+          "o": [
+            "It is the least significant Cabinet Committee",
+            "It is often regarded as the most powerful Cabinet Committee due to its role in defence and security decisions",
+            "It only deals with cultural affairs",
+            "It has no role in defence procurement decisions"
+          ],
+          "a": 1,
+          "e": "The <b>CCS</b> is widely regarded as one of the most powerful Cabinet Committees since it handles crucial decisions on national security, defence expenditure, and law and order matters."
+        },
+        {
+          "q": "Consider the following statements regarding the legal status of Cabinet Committees:\n1. They derive indirect sanction from the Rules framed under Article 77(3) of the Constitution.\n2. They are explicitly listed as constitutional bodies in the Seventh Schedule.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Cabinet Committees derive only <b>indirect sanction</b> from the Transaction of Business Rules framed under Article 77(3); they are not listed in the Seventh Schedule or anywhere else in the Constitution."
+        },
+        {
+          "q": "Which of the following is the most accurate reason for the practice of constituting Cabinet Committees for specific policy domains?",
+          "o": [
+            "To bypass the Council of Ministers entirely",
+            "To allow specialised and focused deliberation on complex policy areas before matters reach the full Cabinet",
+            "To transfer legislative powers from Parliament to the executive",
+            "To remove the requirement of collective responsibility"
+          ],
+          "a": 1,
+          "e": "Cabinet Committees enable <b>specialised, focused deliberation</b> on complex matters (security, economic affairs, etc.), improving efficiency while the principle of collective responsibility to Parliament remains intact."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Which of the following statements about the constitutional status of Cabinet Committees is most accurate?",
+          "o": [
+            "They are expressly provided for under Article 74(1) along with the Council of Ministers",
+            "They are a product of conventions and administrative rules, similar in nature to other extra-constitutional bodies like the Planning Commission/NITI Aayog",
+            "They were created by a constitutional amendment in 1976",
+            "They derive their authority from a Supreme Court judgment interpreting Article 78"
+          ],
+          "a": 1,
+          "e": "Like the erstwhile Planning Commission and current NITI Aayog, Cabinet Committees are <b>extra-constitutional</b> bodies born out of practice and Rules of Business, not out of any specific constitutional provision or amendment."
+        },
+        {
+          "q": "The Government of India (Transaction of Business) Rules and the Government of India (Allocation of Business) Rules, which underpin the working of Cabinet Committees, were framed in which year under Article 77(3)?",
+          "o": [
+            "1935",
+            "1950",
+            "1961",
+            "1976"
+          ],
+          "a": 2,
+          "e": "Both sets of rules — Transaction of Business Rules and Allocation of Business Rules — were framed in <b>1961</b> under the authority of Article 77(3), and continue to govern the functioning of the government machinery, including Cabinet Committees."
+        },
+        {
+          "q": "Which of the following best explains why the doctrine of collective responsibility (Article 75(3)) is not diluted despite decision-making being delegated to Cabinet Committees?",
+          "o": [
+            "Because Cabinet Committee decisions require ratification by the President before implementation",
+            "Because a decision by a Cabinet Committee is constitutionally deemed to be a decision of the Cabinet itself, keeping the whole Council of Ministers collectively accountable to the Lok Sabha",
+            "Because Cabinet Committees are answerable only to the Rajya Sabha",
+            "Because Article 75(3) does not apply to decisions taken by committees"
+          ],
+          "a": 1,
+          "e": "Since Cabinet Committee decisions are treated as <b>decisions of the Cabinet</b> under the Rules of Business, the collective responsibility of the Council of Ministers to the <b>Lok Sabha</b> under Article 75(3) remains unaffected."
+        },
+        {
+          "q": "In the context of executive decision-making bodies in India, how do Cabinet Committees differ fundamentally from Parliamentary Standing Committees?",
+          "o": [
+            "Cabinet Committees are composed of MPs from opposition parties, while Standing Committees are composed only of ministers",
+            "Cabinet Committees are executive bodies aiding the Council of Ministers and are extra-constitutional, while Parliamentary Standing Committees are legislative bodies functioning under rules of procedure of the Houses and scrutinise the executive",
+            "Both are identical bodies with overlapping membership and functions",
+            "Cabinet Committees report to the Rajya Sabha while Standing Committees report to the Lok Sabha only"
+          ],
+          "a": 1,
+          "e": "Cabinet Committees are part of the <b>executive</b> machinery to aid Cabinet decision-making, whereas Parliamentary Standing Committees are <b>legislative oversight bodies</b> that scrutinise the executive's functioning, financial proposals and bills."
+        },
+        {
+          "q": "Which of the following statements about the historical evolution of Cabinet Committees in India is correct?",
+          "o": [
+            "They were first introduced by the 42nd Constitutional Amendment",
+            "The practice draws from the British Cabinet system and has been adapted through administrative conventions rather than statutory enactment in India",
+            "They were first recommended by the Sarkaria Commission and made mandatory thereafter",
+            "The Constituent Assembly explicitly debated and inserted provisions for Cabinet Committees"
+          ],
+          "a": 1,
+          "e": "India's Cabinet Committee system is modelled on the <b>British Cabinet Committee practice</b> and has evolved through administrative convention and Rules of Business rather than through any specific statute or constitutional amendment."
+        },
+        {
+          "q": "Why can the Prime Minister unilaterally alter the composition of Cabinet Committees without a formal Cabinet resolution?",
+          "o": [
+            "Because Article 78 grants the PM exclusive power over all committees",
+            "Because as head of government and chairman of most key committees, the PM exercises the discretionary authority derived from the Rules of Business framed under Article 77(3), without needing separate legislative sanction",
+            "Because the President delegates this specific power to the PM annually",
+            "Because the Supreme Court held in a landmark ruling that only the PM can alter such committees"
+          ],
+          "a": 1,
+          "e": "As the Rules of Business are executive rules framed under <b>Article 77(3)</b>, and the PM heads the government (and chairs most key Cabinet Committees like ACC, CCS, CCEA), the PM has effective discretion to reconstitute committees as required."
+        },
+        {
+          "q": "Which of the following is an accurate statement about the functional relationship between the Cabinet Secretariat and NITI Aayog/erstwhile Planning Commission in relation to Cabinet Committees?",
+          "o": [
+            "NITI Aayog directly chairs all Cabinet Committees",
+            "The Cabinet Secretariat provides administrative and secretarial support to Cabinet Committees, while bodies like NITI Aayog serve as policy think-tanks whose recommendations may be examined by relevant Cabinet Committees such as the CCEA",
+            "The Cabinet Secretariat has been abolished and its functions transferred entirely to NITI Aayog",
+            "There is no institutional relationship between the two"
+          ],
+          "a": 1,
+          "e": "The <b>Cabinet Secretariat</b> supports Cabinet Committees administratively, while <b>NITI Aayog</b> functions as a policy think-tank; its economic recommendations often feed into deliberations of committees like the CCEA, but it does not chair or replace Cabinet Committees."
+        },
+        {
+          "q": "Which statement correctly reflects the significance of the Appointments Committee of the Cabinet (ACC) vis-à-vis the doctrine of separation of powers?",
+          "o": [
+            "The ACC's appointment powers over civil servants exemplify executive control over the bureaucracy, subject to service rules and judicial review for arbitrariness under Article 14",
+            "The ACC appoints judges of the Supreme Court and High Courts",
+            "ACC decisions are immune from judicial review under all circumstances",
+            "The ACC is headed by the Chief Justice of India to maintain separation of powers"
+          ],
+          "a": 0,
+          "e": "The ACC's decisions on civil service appointments/postings represent <b>executive control over the bureaucracy</b>; such decisions, while largely discretionary, are not absolutely immune and can be tested against arbitrariness under <b>Article 14</b> in appropriate cases. It has no role in judicial appointments (which involve the collegium system)."
+        },
+        {
+          "q": "In terms of Cabinet Committee practice, which of the following correctly identifies a key functional difference between 'standing' and 'ad hoc' committees with an illustrative example?",
+          "o": [
+            "Standing committees like the CCEA and CCS are permanent bodies dealing with recurring subjects, whereas ad hoc committees are formed temporarily, for example to examine a specific crisis or one-time issue, and are wound up once the task is complete",
+            "Ad hoc committees are permanent while standing committees are temporary",
+            "Both types have identical tenures fixed at five years",
+            "Standing committees can only be chaired by the Home Minister"
+          ],
+          "a": 0,
+          "e": "<b>Standing committees</b> (e.g., CCEA, CCS, CCPA) handle continuing subject areas, while <b>ad hoc committees</b> are constituted for specific, often one-time issues and dissolved after completing their task."
+        },
+        {
+          "q": "Which of the following best captures the constitutional/administrative rationale behind excluding Cabinet Committees from direct constitutional mention, unlike the Union Public Service Commission or the Election Commission?",
+          "o": [
+            "The framers considered Cabinet Committees a matter of executive convenience and internal business allocation, not requiring rigid constitutional entrenchment, unlike independent constitutional authorities that needed guaranteed autonomy and permanence",
+            "The framers overlooked Cabinet Committees due to time constraints in the Constituent Assembly",
+            "Cabinet Committees were originally in the Constitution but removed by the 44th Amendment",
+            "Cabinet Committees are temporary wartime bodies not meant to survive beyond Emergency"
+          ],
+          "a": 0,
+          "e": "Bodies like the UPSC and Election Commission require constitutional entrenchment to guarantee <b>independence and permanence</b>, whereas Cabinet Committees are purely internal executive arrangements for efficient transaction of government business, better left flexible under Rules of Business."
+        },
+        {
+          "q": "Which of the following statements is true regarding judicial review of decisions taken by Cabinet Committees such as the CCS?",
+          "o": [
+            "Courts have held that all national security decisions of the CCS are completely non-justiciable under all circumstances",
+            "Courts generally exercise restraint in matters of policy, defence, and national security, but this does not amount to a blanket immunity from judicial review, especially where fundamental rights or clear illegality are involved",
+            "The CCS is subject to appeal directly to the United Nations Security Council",
+            "Every CCS decision must be tabled before Parliament for ratification before implementation"
+          ],
+          "a": 1,
+          "e": "Indian courts have consistently shown <b>judicial restraint</b> in matters of defence, foreign policy, and national security policy (treated as largely within executive domain), but this restraint is not an absolute bar — decisions violating fundamental rights or manifest illegality can still be judicially examined."
+        },
+        {
+          "q": "Which of the following statements correctly describes the relationship between the Cabinet Committee on Economic Affairs (CCEA) and the Union Budget process?",
+          "o": [
+            "The CCEA replaces the Finance Ministry in preparing the Budget",
+            "The CCEA reviews and directs economic policy matters and may consider proposals with significant financial implications, but the Budget itself is prepared by the Finance Ministry and presented under Article 112 requirements",
+            "The CCEA has no connection whatsoever with financial matters",
+            "The CCEA's approval is constitutionally mandatory before the Finance Bill can be introduced in Lok Sabha"
+          ],
+          "a": 1,
+          "e": "The <b>CCEA</b> deliberates on major economic policy issues and proposals with financial implications, but the constitutional process of Budget preparation and presentation (Annual Financial Statement under <b>Article 112</b>) remains with the Finance Ministry and the Council of Ministers as a whole."
+        },
+        {
+          "q": "Which of the following is the most precise reason Cabinet Committees are described as instruments that promote 'itemised' or 'segmented' Cabinet government?",
+          "o": [
+            "They allow different specialised groups of ministers to handle specific policy domains in depth, before the full Cabinet ratifies or is informed, thereby breaking down the Cabinet's collective workload into manageable segments",
+            "They eliminate the need for a full Cabinet altogether",
+            "They function as parallel legislatures",
+            "They replace the President's role in governance"
+          ],
+          "a": 0,
+          "e": "By segmenting subject areas among smaller specialised groups of ministers, Cabinet Committees allow <b>focused, in-depth handling</b> of policy areas, easing the overall decision-making burden on the full Cabinet."
+        },
+        {
+          "q": "Which of the following statements about the interplay between the Cabinet Secretary and Cabinet Committees is most accurate?",
+          "o": [
+            "The Cabinet Secretary is a voting member of every Cabinet Committee",
+            "The Cabinet Secretary, as head of the Cabinet Secretariat, provides secretarial and coordination support to Cabinet Committees and ensures follow-up action on their decisions, without being a minister or a constitutional functionary himself",
+            "The Cabinet Secretary can override Cabinet Committee decisions",
+            "The Cabinet Secretary is directly elected by the Lok Sabha to this post"
+          ],
+          "a": 1,
+          "e": "The <b>Cabinet Secretary</b>, a career civil servant (not a minister), heads the Cabinet Secretariat and provides administrative/secretarial backing to Cabinet Committees, ensuring inter-ministerial coordination and follow-up, but does not have decision-making authority over committee outcomes."
+        },
+        {
+          "q": "Which statement best explains why the number and nomenclature of Cabinet Committees has varied significantly across different governments since independence?",
+          "o": [
+            "Because a constitutional amendment is required each time and different amendments were passed",
+            "Because Cabinet Committees are entirely discretionary instruments under the Rules of Business, allowing each Prime Minister to reorganise them to reflect the policy priorities and administrative style of that government",
+            "Because the Supreme Court mandates periodic reconstitution every five years",
+            "Because the Election Commission notifies new committees after each general election"
+          ],
+          "a": 1,
+          "e": "Since Cabinet Committees rest on the <b>discretionary power</b> of the Prime Minister under the Rules of Business (no constitutional rigidity), successive governments have freely restructured them (merging, renaming, or creating new ones) to suit their own priorities."
+        }
+      ]
+    }
+  },
+  {
+    "id": "parliament",
+    "title": "Parliament (Lok Sabha & Rajya Sabha)",
+    "desc": "Composition, procedures and powers of the Union legislature",
+    "questions": {
+      "basic": [
+        {
+          "q": "The Parliament of India consists of the President and which two Houses?",
+          "o": [
+            "Lok Sabha and Vidhan Sabha",
+            "Lok Sabha and Rajya Sabha",
+            "Rajya Sabha and Vidhan Parishad",
+            "Lower House and Upper House only, excluding the President"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 79</b>, Parliament consists of the <b>President, the Council of States (Rajya Sabha) and the House of the People (Lok Sabha)</b>."
+        },
+        {
+          "q": "The maximum strength of the Lok Sabha as envisaged by the Constitution (post 42nd/84th/91st amendments framework) is:",
+          "o": [
+            "545",
+            "552",
+            "550",
+            "500"
+          ],
+          "a": 2,
+          "e": "As per Article 81, the Lok Sabha's maximum strength is <b>550</b> — up to 530 members from States and up to 20 from Union Territories (the two nominated Anglo-Indian seats stood abolished by the 104th Amendment Act, 2019)."
+        },
+        {
+          "q": "The maximum strength of the Rajya Sabha as provided in the Fourth Schedule is:",
+          "o": [
+            "238 elected + 12 nominated = 250",
+            "245 elected + 10 nominated = 255",
+            "200 elected + 10 nominated = 210",
+            "150 elected + 5 nominated = 155"
+          ],
+          "a": 0,
+          "e": "The Rajya Sabha can have a maximum of <b>250 members</b> — 238 representing States and UTs, and <b>12 nominated</b> by the President under <b>Article 80</b> for their special knowledge in art, literature, science and social service."
+        },
+        {
+          "q": "Which Article deals with the qualification for membership of Parliament?",
+          "o": [
+            "Article 84",
+            "Article 102",
+            "Article 79",
+            "Article 100"
+          ],
+          "a": 0,
+          "e": "<b>Article 84</b> lays down the qualifications for membership of Parliament, including citizenship, minimum age (25 for Lok Sabha, 30 for Rajya Sabha), and other conditions prescribed by Parliament."
+        },
+        {
+          "q": "Which Article deals with disqualifications for membership of Parliament?",
+          "o": [
+            "Article 101",
+            "Article 102",
+            "Article 103",
+            "Article 104"
+          ],
+          "a": 1,
+          "e": "<b>Article 102</b> specifies grounds of disqualification such as holding an office of profit, unsoundness of mind, undischarged insolvency, not being a citizen, and disqualification under the Tenth Schedule."
+        },
+        {
+          "q": "The anti-defection provisions are contained in which Schedule of the Constitution?",
+          "o": [
+            "Eighth Schedule",
+            "Ninth Schedule",
+            "Tenth Schedule",
+            "Eleventh Schedule"
+          ],
+          "a": 2,
+          "e": "The <b>Tenth Schedule</b>, inserted by the 52nd Constitutional Amendment Act, 1985, deals with disqualification of members on grounds of defection."
+        },
+        {
+          "q": "Who decides on questions of disqualification of a member of Parliament under the Tenth Schedule?",
+          "o": [
+            "The President",
+            "The Election Commission",
+            "The Chairman/Speaker of the House concerned",
+            "The Supreme Court in the first instance"
+          ],
+          "a": 2,
+          "e": "Under the Tenth Schedule, questions on disqualification on grounds of defection are decided by the <b>Chairman (Rajya Sabha) or Speaker (Lok Sabha)</b> of the House concerned."
+        },
+        {
+          "q": "The Speaker of the Lok Sabha is elected under which Article?",
+          "o": [
+            "Article 93",
+            "Article 89",
+            "Article 90",
+            "Article 97"
+          ],
+          "a": 0,
+          "e": "<b>Article 93</b> provides that the Lok Sabha shall choose two members to be the Speaker and Deputy Speaker as soon as may be."
+        },
+        {
+          "q": "Who is the ex officio Chairman of the Rajya Sabha?",
+          "o": [
+            "The Prime Minister",
+            "The Vice-President of India",
+            "The Deputy Chairman",
+            "The Speaker of Lok Sabha"
+          ],
+          "a": 1,
+          "e": "As per <b>Article 89</b>, the <b>Vice-President of India</b> is the ex officio Chairman of the Rajya Sabha."
+        },
+        {
+          "q": "Which Article empowers the President to summon and prorogue the Houses of Parliament and dissolve the Lok Sabha?",
+          "o": [
+            "Article 83",
+            "Article 85",
+            "Article 87",
+            "Article 88"
+          ],
+          "a": 1,
+          "e": "<b>Article 85</b> gives the President power to summon each House, prorogue the Houses, and dissolve the Lok Sabha."
+        },
+        {
+          "q": "The maximum permissible gap between two sessions of Parliament is:",
+          "o": [
+            "Three months",
+            "Six months",
+            "Nine months",
+            "One year"
+          ],
+          "a": 1,
+          "e": "As per <b>Article 85(1)</b>, the gap between two sessions of Parliament cannot exceed <b>six months</b>, i.e. Parliament must meet at least twice a year."
+        },
+        {
+          "q": "A Money Bill is defined under which Article of the Constitution?",
+          "o": [
+            "Article 109",
+            "Article 110",
+            "Article 112",
+            "Article 117"
+          ],
+          "a": 1,
+          "e": "<b>Article 110</b> defines what constitutes a Money Bill, dealing with matters such as taxation, borrowing, and the Consolidated Fund/Contingency Fund of India."
+        },
+        {
+          "q": "A Money Bill can be introduced only in which House of Parliament?",
+          "o": [
+            "Rajya Sabha",
+            "Lok Sabha",
+            "Either House, at the discretion of the Speaker",
+            "Joint sitting only"
+          ],
+          "a": 1,
+          "e": "As per <b>Article 109</b>, a Money Bill can be introduced only in the <b>Lok Sabha</b>, and only on the recommendation of the President."
+        },
+        {
+          "q": "Which Article provides for a joint sitting of both Houses of Parliament in case of a deadlock over an ordinary bill?",
+          "o": [
+            "Article 108",
+            "Article 111",
+            "Article 122",
+            "Article 105"
+          ],
+          "a": 0,
+          "e": "<b>Article 108</b> provides for a joint sitting of both Houses to resolve a deadlock over a non-Money Bill, presided over by the Speaker of the Lok Sabha."
+        },
+        {
+          "q": "'Zero Hour' in Indian parliamentary practice refers to:",
+          "o": [
+            "The first hour of a sitting reserved for Question Hour",
+            "An informal period, starting around noon, when members can raise urgent matters without prior notice",
+            "The last hour of the Budget session",
+            "A period fixed under the Rules of Procedure for Money Bills only"
+          ],
+          "a": 1,
+          "e": "<b>Zero Hour</b> is an Indian parliamentary innovation (not mentioned in the Rules of Procedure) starting immediately after Question Hour, usually around 12 noon, when members raise matters of urgent public importance without advance notice."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding sessions of Parliament:\n1. Summoning is the process by which the President calls upon members to meet.\n2. Prorogation ends a session but does not dissolve the House.\n3. Dissolution brings the entire life of a Lok Sabha to an end, unlike prorogation which only ends a session.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct: <b>summoning</b> calls the House into session, <b>prorogation</b> ends a session (pending bills/business lapse only for certain matters), and <b>dissolution</b> ends the very life of the Lok Sabha, unlike the Rajya Sabha which is a permanent body."
+        },
+        {
+          "q": "Consider the following statements about a No-Confidence Motion:\n1. It can be moved only against the Council of Ministers as a whole, not against an individual minister.\n2. It can be moved in either the Lok Sabha or the Rajya Sabha.\n3. It requires the support of at least 50 members to be admitted for discussion.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "A no-confidence motion is moved against the Council of Ministers as a whole and needs support of <b>50 members</b> to be admitted, but it can be moved <b>only in the Lok Sabha</b>, since the Council of Ministers is collectively responsible to that House under Article 75(3) — so statement 2 is incorrect."
+        },
+        {
+          "q": "Consider the following statements distinguishing Question Hour and Zero Hour:\n1. Question Hour is mentioned in the Rules of Procedure, while Zero Hour is not.\n2. Question Hour is the first hour of a sitting; Zero Hour follows immediately after.\n3. Zero Hour was inaugurated in the Indian Parliament in the early 1960s.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three are correct — <b>Question Hour</b> is governed by Rules of Procedure and is the first hour, whereas <b>Zero Hour</b> (an Indian innovation from the 1960s) is an informal device that follows it and is not found in the Rules."
+        },
+        {
+          "q": "Consider the following statements about a Financial Bill:\n1. A Financial Bill under Article 117(1) contains matters listed in Article 110 along with other provisions and can only be introduced in the Lok Sabha.\n2. A Financial Bill under Article 117(3) does not contain Money Bill matters but involves expenditure from the Consolidated Fund of India, and can be introduced in either House.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are correctly stated. <b>Article 117(1)</b> Financial Bills contain Money Bill provisions plus other matters and are introduced only in Lok Sabha with the President's prior recommendation; <b>Article 117(3)</b> Bills merely involve expenditure and can be introduced in <b>either House</b> without such a prior recommendation (though passage requires the President's recommendation)."
+        },
+        {
+          "q": "Consider the following statements about the office of Speaker of the Lok Sabha:\n1. The Speaker vacates office if he ceases to be a member of the House.\n2. The Speaker can be removed by a resolution passed by a majority of all the then members of the Lok Sabha, after 14 days' notice.\n3. The Speaker continues to preside over the Lok Sabha even after its dissolution until a new Speaker is elected.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All are correct under <b>Article 94</b>: the Speaker vacates office on ceasing to be an MP, can be removed by an effective majority resolution after 14 days' notice, but does not vacate office upon dissolution of the Lok Sabha and continues till a new Speaker is chosen by the newly-constituted House."
+        },
+        {
+          "q": "Consider the following statements on the Tenth Schedule (anti-defection law):\n1. A member is disqualified if he voluntarily gives up membership of the political party that set him up as a candidate.\n2. A nominated member is disqualified if he joins a political party after six months from taking his seat.\n3. Disqualification does not apply if there is a merger of the original political party with another, provided at least two-thirds of members of the legislature party agree.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All are correct. Under the <b>Tenth Schedule</b>, giving up party membership voluntarily invites disqualification; a nominated member joining a party after <b>six months</b> is disqualified; and the merger exception requires agreement of <b>two-thirds</b> of the legislature party's members."
+        },
+        {
+          "q": "Consider the following statements about the Rajya Sabha's special powers:\n1. Rajya Sabha can authorise Parliament to make a law on a State List subject in the national interest under Article 249, by a resolution passed with a two-thirds majority.\n2. Rajya Sabha can authorise creation of new All-India Services under Article 312 by a similar resolution.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are exclusive special powers of the Rajya Sabha: <b>Article 249</b> (empowering Parliament to legislate on State List matters in national interest) and <b>Article 312</b> (creation of new All-India Services), each requiring a resolution by not less than two-thirds of members present and voting."
+        },
+        {
+          "q": "Consider the following statements regarding an Adjournment Motion:\n1. It is meant to draw the attention of the House to a definite matter of urgent public importance.\n2. It can be moved in both Lok Sabha and Rajya Sabha with equal frequency.\n3. Its adoption amounts to a censure of the government.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "An <b>adjournment motion</b> is meant to highlight an urgent matter and involves an element of censuring the government; however, it can be moved <b>only in the Lok Sabha</b>, not in the Rajya Sabha, so statement 2 is incorrect."
+        },
+        {
+          "q": "Consider the following statements about disqualification of members under Article 102:\n1. A person is disqualified if he holds any office of profit under the Government of India or a State Government.\n2. Parliament may by law provide that a minister does not incur disqualification despite holding an office of profit.\n3. A person is disqualified if he is of unsound mind and stands so declared by a competent court.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All are accurate reflections of <b>Article 102</b> and related exemptions — office of profit disqualification, Parliament's power to exempt certain offices (e.g., ministers) by law, and disqualification for unsoundness of mind as declared by a competent court."
+        },
+        {
+          "q": "Consider the following statements comparing Lok Sabha and Rajya Sabha:\n1. Rajya Sabha is a permanent body not subject to dissolution.\n2. One-third of Rajya Sabha members retire every two years.\n3. A person must be at least 25 years old to be a member of the Rajya Sabha.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Rajya Sabha is permanent with one-third members retiring every two years. Statement 3 is wrong: the minimum age for Rajya Sabha membership is <b>30 years</b>, not 25 (25 is for Lok Sabha)."
+        },
+        {
+          "q": "Consider the following statements regarding a 'Calling Attention' motion:\n1. It is an Indian parliamentary device, not borrowed directly from British practice.\n2. It allows a member to call the attention of a minister to a matter of urgent public importance and seek an authoritative statement.\n3. It is mentioned explicitly in the Constitution under Article 118.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "The <b>Calling Attention</b> motion is an Indian innovation used to seek a ministerial statement on an urgent matter; it is governed by the <b>Rules of Procedure</b>, not directly mentioned in the Constitution, so statement 3 is incorrect."
+        },
+        {
+          "q": "Consider the following statements on the Deputy Speaker of the Lok Sabha:\n1. The Deputy Speaker is elected by the Lok Sabha from amongst its members.\n2. The Deputy Speaker submits his resignation to the President.\n3. When the Deputy Speaker presides over the House, he has the same powers as the Speaker.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "The Deputy Speaker is elected by the House and enjoys the same powers as the Speaker while presiding, but resigns by writing to the <b>Speaker</b>, not the President — making statement 2 incorrect."
+        },
+        {
+          "q": "Consider the following statements about the presiding officer of a joint sitting under Article 108:\n1. The joint sitting is presided over by the Speaker of the Lok Sabha.\n2. In the absence of the Speaker, the Deputy Speaker presides, and in his absence, the Deputy Chairman of the Rajya Sabha.\n3. A joint sitting cannot be summoned for a Constitution Amendment Bill.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three are correct. The <b>Speaker</b> presides over a joint sitting, with the <b>Deputy Speaker</b> and then the <b>Deputy Chairman of Rajya Sabha</b> presiding in his absence; a joint sitting is not available for a <b>Constitution Amendment Bill</b>, since Article 368 requires it to be passed separately by each House with a special majority, nor for Money Bills."
+        },
+        {
+          "q": "Consider the following statements regarding privileges of Parliament:\n1. Parliamentary privileges are enjoyed by members individually and by each House collectively.\n2. No court can question anything said or any vote given by a member in Parliament or its committees under Article 105(2).\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. <b>Article 105</b> confers privileges on members individually and Houses collectively, and clause (2) grants immunity from court proceedings for anything said or any vote given in Parliament or its committees."
+        },
+        {
+          "q": "Consider the following statements about the quorum of Parliament:\n1. The quorum to constitute a meeting of either House is one-tenth of the total number of members of that House.\n2. If there is no quorum, it is the duty of the presiding officer either to adjourn the House or to suspend the meeting until there is a quorum.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct under <b>Article 100(3)</b> — quorum is <b>one-tenth</b> of the total membership of the House, and the presiding officer must adjourn or suspend the sitting till quorum is restored if it is not met."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "In Kihoto Hollohan v. Zachillhu (1992), the Supreme Court upheld the constitutional validity of the Tenth Schedule but struck down which part of it?",
+          "o": [
+            "The provision disqualifying members for voluntarily giving up party membership",
+            "Paragraph 7, which sought to bar judicial review of the Speaker/Chairman's decision on disqualification",
+            "The provision relating to nominated members",
+            "The entire Tenth Schedule was struck down"
+          ],
+          "a": 1,
+          "e": "In <b>Kihoto Hollohan v. Zachillhu (1992)</b>, the Supreme Court upheld the Tenth Schedule's validity but struck down <b>paragraph 7</b>, which barred judicial review of the Speaker's/Chairman's decision, holding that such exclusion required ratification under the proviso to Article 368(2) as it affected the powers of the Supreme Court and High Courts under Articles 136, 226 and 227."
+        },
+        {
+          "q": "In Kihoto Hollohan v. Zachillhu (1992), the Supreme Court characterised the Speaker/Chairman's role in deciding defection disqualification cases as that of a:",
+          "o": [
+            "Purely administrative authority whose decision is unreviewable",
+            "Tribunal exercising quasi-judicial functions, whose order is subject to judicial review on limited grounds like mala fides, perversity, and violation of natural justice",
+            "Constitutional authority equivalent to the President",
+            "Body exercising purely legislative functions"
+          ],
+          "a": 1,
+          "e": "The Court held that the Speaker/Chairman acts as a <b>quasi-judicial tribunal</b> under the Tenth Schedule, and although judicial review at an interlocutory stage is limited, the final order is subject to review on grounds such as <b>mala fides, perversity, and violation of natural justice</b>."
+        },
+        {
+          "q": "In the case of Raja Ram Pal v. Hon'ble Speaker, Lok Sabha (2007) — the 'cash-for-query' expulsion case — the Supreme Court held that:",
+          "o": [
+            "Parliament's power to expel a member is not subject to judicial review under any circumstances",
+            "The power of Parliament to expel a member exists under Article 105(3), but the exercise of such power is subject to judicial review on limited grounds relating to jurisdictional error, illegality, and violation of constitutional mandate or fundamental rights",
+            "Only the President has the power to expel a member of Parliament",
+            "Expulsion of a member requires a constitutional amendment"
+          ],
+          "a": 1,
+          "e": "In <b>Raja Ram Pal v. Hon'ble Speaker, Lok Sabha (2007)</b>, the Supreme Court affirmed Parliament's power to expel a member under its privileges (Article 105) but held that such an exercise is <b>subject to judicial review</b> on limited grounds like violation of constitutional provisions or fundamental rights, rejecting the argument of complete immunity."
+        },
+        {
+          "q": "Which of the following correctly captures the ratio in the Speaker's certification of a Bill as a Money Bill, as examined by the Supreme Court in K.S. Puttaswamy (Aadhaar) v. Union of India (2018-19) with respect to the Aadhaar Act, 2016?",
+          "o": [
+            "The Court held the Speaker's certification under Article 110(3) is final and completely beyond judicial review in all respects",
+            "The majority held that the Speaker's decision certifying a bill as a Money Bill is subject to judicial review to examine whether the bill genuinely fits the definition under Article 110, though the majority in that case upheld the Aadhaar Act's certification as a Money Bill",
+            "The Court struck down Article 110 as unconstitutional",
+            "The Court held that only the Rajya Sabha Chairman can certify Money Bills"
+          ],
+          "a": 1,
+          "e": "In the <b>Aadhaar case (2018)</b>, the majority held that the Speaker's certification under <b>Article 110(3)</b> is not immune from judicial review, since 'final' does not mean unreviewable, though on facts the majority upheld the certification of the Aadhaar Act as a Money Bill (a view later doubted by a subsequent bench in Rojer Mathew, though not formally overruled at that time)."
+        },
+        {
+          "q": "In Rojer Mathew v. South Indian Bank Ltd. (2019), a Constitution Bench of the Supreme Court, referring the correctness of the Aadhaar Money Bill ruling to a larger bench, primarily raised concerns about:",
+          "o": [
+            "The composition of the Rajya Sabha",
+            "Whether the wide interpretation of 'Money Bill' under Article 110, bypassing Rajya Sabha scrutiny, undermines bicameralism",
+            "The tenure of the Speaker",
+            "The procedure for electing the Vice-President"
+          ],
+          "a": 1,
+          "e": "In <b>Rojer Mathew (2019)</b>, the Court expressed reservations about the expansive reading of <b>Article 110</b> in the Aadhaar judgment, noting concerns that certifying bills with substantial non-Money Bill provisions as Money Bills could <b>undermine the bicameral character</b> of Parliament by bypassing Rajya Sabha's role, and referred the issue to a larger bench."
+        },
+        {
+          "q": "Which of the following best explains the constitutional significance of Article 122 in relation to judicial scrutiny of parliamentary proceedings?",
+          "o": [
+            "Article 122 completely bars courts from ever examining any parliamentary matter, including violation of fundamental rights",
+            "Article 122 bars courts from inquiring into the validity of proceedings in Parliament on the ground of alleged procedural irregularity, but does not oust judicial review for substantive illegality or unconstitutionality",
+            "Article 122 applies only to State Legislatures, not Parliament",
+            "Article 122 was struck down in Kihoto Hollohan"
+          ],
+          "a": 1,
+          "e": "<b>Article 122</b> protects Parliament's internal proceedings from being challenged merely on grounds of <b>procedural irregularity</b>, but courts have held (e.g., in Raja Ram Pal) that this does not shield proceedings from scrutiny where there is substantive illegality, unconstitutionality, or violation of fundamental rights."
+        },
+        {
+          "q": "Which of the following statements about the 91st Constitutional Amendment Act, 2003, and its impact on Parliament/anti-defection law is correct?",
+          "o": [
+            "It abolished the Tenth Schedule entirely",
+            "It omitted the 'exception for splits' (which earlier protected a group of MPs/MLAs constituting one-third of a party that split, from disqualification) and also capped the size of the Council of Ministers",
+            "It increased Lok Sabha's maximum strength to 552",
+            "It introduced the concept of Zero Hour into the Rules of Procedure"
+          ],
+          "a": 1,
+          "e": "The <b>91st Amendment Act, 2003</b> deleted the 'split' exception (Paragraph 3) from the Tenth Schedule — meaning defections by a group are no longer protected merely on the ground of a one-third split — and also inserted Article 75(1A)/164(1A) capping the size of the Council of Ministers at 15% of House strength."
+        },
+        {
+          "q": "Which of the following best distinguishes the 'guillotine' procedure used during the Budget session from an ordinary vote on a Demand for Grant?",
+          "o": [
+            "Guillotine refers to a formal division/voting procedure required for every single Demand for Grant",
+            "Guillotine is the process by which the Speaker, at the end of the allotted time for the discussion of Demands for Grants, puts all the outstanding (undiscussed) demands to vote without further debate",
+            "Guillotine applies only to Money Bills in the Rajya Sabha",
+            "Guillotine is a device used only for Appropriation Bills, never for Demands for Grants"
+          ],
+          "a": 1,
+          "e": "The <b>guillotine</b> is applied when the time allotted for discussing Demands for Grants during the Budget session expires — the Speaker then puts all remaining, undiscussed demands to vote together, without further debate, ensuring the Budget process is completed on schedule."
+        },
+        {
+          "q": "Which of the following best reflects the position on whether a member under suspension from the House can still be counted for determining a 'defection' under the Tenth Schedule?",
+          "o": [
+            "Suspension automatically ends membership of the House and the Tenth Schedule ceases to apply",
+            "A suspended member continues to be a member of the House for constitutional purposes, and the Tenth Schedule's disqualification provisions can still apply based on conduct amounting to defection",
+            "The Tenth Schedule applies only to members who attend all sittings",
+            "Suspension converts a member into an independent member automatically"
+          ],
+          "a": 1,
+          "e": "Suspension is a disciplinary measure restricting participation in proceedings, but the member <b>continues to be a member</b> of the House; hence, the Tenth Schedule's disqualification grounds remain applicable based on the member's conduct even during suspension."
+        },
+        {
+          "q": "Which of the following correctly explains the significance of the phrase 'aid and advice' read with Articles 74/75 in relation to the President's power to summon and prorogue Parliament under Article 85?",
+          "o": [
+            "The President exercises this power purely at personal discretion, unconnected to ministerial advice",
+            "Although Article 85 vests the power in the President, in practice it is exercised on the aid and advice of the Council of Ministers headed by the Prime Minister, consistent with the parliamentary system under Article 74",
+            "The Article 85 power can only be exercised on the advice of the Speaker of Lok Sabha",
+            "The President must obtain the Chief Justice's concurrence before summoning Parliament"
+          ],
+          "a": 1,
+          "e": "Consistent with India's parliamentary form of government under <b>Article 74</b>, the President summons/prorogues Parliament under <b>Article 85</b> on the <b>aid and advice</b> of the Council of Ministers, not as an independent personal discretion."
+        },
+        {
+          "q": "Which of the following is the most accurate statement regarding the constitutional consequence of a Lok Sabha's dissolution on pending bills?",
+          "o": [
+            "A bill pending in the Lok Sabha, or a bill passed by the Lok Sabha but pending in the Rajya Sabha, lapses on dissolution; but a bill pending in the Rajya Sabha which has not been passed by the Lok Sabha does not lapse",
+            "All bills lapse on dissolution of the Lok Sabha, including those pending only in the Rajya Sabha",
+            "No bill ever lapses on dissolution of the Lok Sabha",
+            "Only Money Bills lapse on dissolution"
+          ],
+          "a": 0,
+          "e": "As per settled constitutional practice, a bill pending in the <b>Lok Sabha</b> lapses on its dissolution, as does a bill passed by the Lok Sabha but pending in the Rajya Sabha; however, a bill pending in the <b>Rajya Sabha</b> that has not yet been passed by the Lok Sabha does <b>not lapse</b>, since the Rajya Sabha is a continuing/permanent chamber."
+        },
+        {
+          "q": "Which of the following best describes the doctrine applied by courts regarding the scope of 'freedom of speech in Parliament' under Article 105(1) vis-à-vis a member's acceptance of a bribe to ask a question (as considered in the cash-for-query matters)?",
+          "o": [
+            "The immunity under Article 105(2) extends to protect a member even from prosecution for the underlying act of bribery itself, since it relates to something said in the House",
+            "The Supreme Court in the Narasimha Rao case (1998) initially held bribery-linked immunity applied to the vote/speech, but this position was substantially reconsidered and narrowed by a seven-judge bench in Sita Soren v. Union of India (2024), holding that privilege under Articles 105/194 does not protect legislators from prosecution for bribery in connection with a vote or speech",
+            "The immunity under Article 105(2) has never been examined by the Supreme Court",
+            "Bribery cases involving MPs fall outside the jurisdiction of ordinary criminal courts altogether"
+          ],
+          "a": 1,
+          "e": "In <b>P.V. Narasimha Rao v. State (1998)</b>, a majority had held that parliamentary privilege under Article 105(2) could shield an MP who accepted a bribe to vote/speak in a particular manner. This was <b>overruled by a seven-judge Constitution Bench in Sita Soren v. Union of India (2024)</b>, which held that such privilege does not extend to protect legislators from prosecution for bribery, as bribery is not essential to the legislative function of speech or vote."
+        },
+        {
+          "q": "Which of the following statements correctly reflects the position on Money Bill certification and the role of the Rajya Sabha, as debated after the Aadhaar Act, 2016 controversy?",
+          "o": [
+            "The Rajya Sabha has full power to amend a Money Bill like any ordinary bill",
+            "The Rajya Sabha can only make recommendations on a Money Bill, which the Lok Sabha may accept or reject; the controversy arose because critics argued the Aadhaar Act contained substantial non-Money-Bill provisions yet was certified as a Money Bill, limiting the Rajya Sabha's role",
+            "The Rajya Sabha has no role whatsoever in respect of Money Bills, not even to discuss them",
+            "Money Bills must be passed by both Houses with equal voting weight"
+          ],
+          "a": 1,
+          "e": "Under <b>Article 109</b>, the Rajya Sabha may only recommend amendments to a Money Bill within 14 days, which the Lok Sabha may accept or reject; the Aadhaar Act controversy centred on whether certifying a bill with substantial non-Money-Bill provisions as a Money Bill improperly curtailed the <b>Rajya Sabha's legislative role</b>."
+        },
+        {
+          "q": "Which of the following best explains why a Constitution Amendment Bill under Article 368 cannot practically be resolved through a joint sitting mechanism under Article 108?",
+          "o": [
+            "Article 108 expressly excludes Constitution Amendment Bills, and further, Article 368 requires such bills to be passed separately by each House by a special majority, a requirement a joint sitting (which counts members jointly with simple majority) could undermine",
+            "Joint sittings are reserved exclusively for Money Bills",
+            "There is no such restriction; joint sittings are regularly used for constitutional amendments",
+            "The President has never summoned a joint sitting for any purpose"
+          ],
+          "a": 0,
+          "e": "<b>Article 108</b> itself excludes Constitution Amendment Bills (and Money Bills) from the joint sitting mechanism; moreover, <b>Article 368</b> mandates passage by each House separately with a special majority, which is incompatible with a joint sitting's simple-majority, combined-member voting process."
+        },
+        {
+          "q": "Which of the following best captures the distinction the Supreme Court has drawn between 'parliamentary privilege' and 'fundamental rights' in cases such as Raja Ram Pal and subsequent jurisprudence?",
+          "o": [
+            "Parliamentary privileges always override fundamental rights without exception",
+            "Fundamental rights always override parliamentary privileges, rendering privileges legally meaningless",
+            "Parliamentary privileges and fundamental rights must be harmoniously construed; privileges are not a license for unconstitutional action, and actions of the House are subject to judicial review where they violate constitutional limitations, though courts exercise restraint regarding internal procedural matters",
+            "Only the Rajya Sabha enjoys privileges under the Constitution; the Lok Sabha does not"
+          ],
+          "a": 2,
+          "e": "Courts have adopted a <b>harmonious construction</b> approach — parliamentary privileges under Article 105 are important for the independent functioning of the House, but they do not grant immunity from judicial review for actions violating constitutional mandates or fundamental rights, while courts remain deferential on purely internal procedural questions covered by Article 122."
+        }
+      ]
+    }
+  },
+  {
+    "id": "parliamentary_committees",
+    "title": "Parliamentary Committees",
+    "desc": "Financial, standing and ad hoc committees that scrutinise the executive",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which of the following is NOT one of the three main financial committees of Parliament?",
+          "o": [
+            "Public Accounts Committee",
+            "Estimates Committee",
+            "Committee on Public Undertakings",
+            "Business Advisory Committee"
+          ],
+          "a": 3,
+          "e": "The three financial committees are the <b>Public Accounts Committee (PAC), Estimates Committee, and Committee on Public Undertakings (COPU)</b>. The Business Advisory Committee is a procedural committee, not a financial one."
+        },
+        {
+          "q": "The Public Accounts Committee (PAC) examines the accounts of the government with reference to the report of the:",
+          "o": [
+            "Finance Commission",
+            "Comptroller and Auditor General (CAG)",
+            "Election Commission",
+            "Law Commission"
+          ],
+          "a": 1,
+          "e": "The <b>PAC</b> scrutinises the appropriation accounts and other financial statements of the government primarily on the basis of reports submitted by the <b>Comptroller and Auditor General (CAG)</b>."
+        },
+        {
+          "q": "The Chairman of the Public Accounts Committee is traditionally appointed from among members of the:",
+          "o": [
+            "Ruling party only",
+            "Opposition",
+            "Rajya Sabha only",
+            "Union Cabinet"
+          ],
+          "a": 1,
+          "e": "By convention, the Chairman of the <b>PAC</b> is from the <b>opposition</b>, appointed by the Speaker of the Lok Sabha, to ensure impartial scrutiny of government spending."
+        },
+        {
+          "q": "How many members does the Public Accounts Committee have, and from which Houses are they drawn?",
+          "o": [
+            "22 members — 15 from Lok Sabha and 7 from Rajya Sabha",
+            "30 members — 20 from Lok Sabha and 10 from Rajya Sabha",
+            "25 members, all from Lok Sabha",
+            "15 members, all from Rajya Sabha"
+          ],
+          "a": 0,
+          "e": "The PAC has <b>22 members</b> — 15 elected by the Lok Sabha and 7 elected by the Rajya Sabha, all elected annually by proportional representation using single transferable vote."
+        },
+        {
+          "q": "The Estimates Committee is concerned with:",
+          "o": [
+            "Examining the audited accounts of the government",
+            "Examining the estimates included in the Budget to suggest economies in public expenditure",
+            "Examining the working of public sector undertakings only",
+            "Approving the President's Budget speech"
+          ],
+          "a": 1,
+          "e": "The <b>Estimates Committee</b> examines Budget estimates and suggests 'alternative policies' for bringing about efficiency and economy in administration, often called a 'continuous economy committee'."
+        },
+        {
+          "q": "The Estimates Committee has members from which House(s) of Parliament?",
+          "o": [
+            "Only from the Lok Sabha",
+            "Only from the Rajya Sabha",
+            "From both Houses equally",
+            "From Lok Sabha, Rajya Sabha, and nominated members"
+          ],
+          "a": 0,
+          "e": "Unlike the PAC, the <b>Estimates Committee</b> consists entirely of <b>30 members from the Lok Sabha</b>; the Rajya Sabha has no representation on it."
+        },
+        {
+          "q": "The Committee on Public Undertakings (COPU) examines the reports of the CAG relating to:",
+          "o": [
+            "State government finances",
+            "Public sector undertakings",
+            "The Election Commission's expenditure",
+            "Judicial appointments"
+          ],
+          "a": 1,
+          "e": "The <b>Committee on Public Undertakings</b> examines the reports and accounts of <b>public sector undertakings</b> and CAG reports thereon, and scrutinises whether they are being managed efficiently."
+        },
+        {
+          "q": "The Committee on Public Undertakings was constituted in which year, initially on the recommendation of the Krishna Menon Committee?",
+          "o": [
+            "1950",
+            "1964",
+            "1976",
+            "1985"
+          ],
+          "a": 1,
+          "e": "The <b>Committee on Public Undertakings</b> was set up in <b>1964</b> on the recommendation of the Krishna Menon Committee (1959), as the third financial committee, in addition to the PAC and Estimates Committee."
+        },
+        {
+          "q": "Departmentally Related Standing Committees (DRSCs) were introduced in Parliament in which year?",
+          "o": [
+            "1983",
+            "1993",
+            "2003",
+            "1971"
+          ],
+          "a": 1,
+          "e": "The system of <b>Departmentally Related Standing Committees</b> was introduced in <b>1993</b>, expanding parliamentary scrutiny of government departments and ministries."
+        },
+        {
+          "q": "How many Departmentally Related Standing Committees are there currently in the Indian Parliament?",
+          "o": [
+            "17",
+            "20",
+            "24",
+            "30"
+          ],
+          "a": 2,
+          "e": "There are currently <b>24 Departmentally Related Standing Committees</b>, each covering one or more ministries/departments, with members drawn from both Houses."
+        },
+        {
+          "q": "Which committee examines whether the government has spent money in accordance with the Appropriation Act passed by Parliament?",
+          "o": [
+            "Business Advisory Committee",
+            "Committee on Privileges",
+            "Public Accounts Committee",
+            "Rules Committee"
+          ],
+          "a": 2,
+          "e": "The <b>Public Accounts Committee</b> checks whether money shown in the accounts as spent was legally available and applied for the purpose(s) for which it was granted, i.e., in accordance with the Appropriation Act."
+        },
+        {
+          "q": "The Business Advisory Committee is primarily concerned with:",
+          "o": [
+            "Recommending time allocation for discussion of government legislative and other business",
+            "Auditing government accounts",
+            "Examining privileges of members",
+            "Reviewing subordinate legislation"
+          ],
+          "a": 0,
+          "e": "The <b>Business Advisory Committee</b> regulates the time-table of the House — allocating time for discussion of bills and other business brought forward by the government."
+        },
+        {
+          "q": "Which committee examines cases involving breach of privilege of the House or its members?",
+          "o": [
+            "Committee on Privileges",
+            "Estimates Committee",
+            "Public Accounts Committee",
+            "Committee on Public Undertakings"
+          ],
+          "a": 0,
+          "e": "The <b>Committee on Privileges</b> examines any question of privilege referred to it and determines whether a breach of privilege has occurred, recommending appropriate action."
+        },
+        {
+          "q": "Standing Committees of Parliament, as distinguished from Ad Hoc Committees, are:",
+          "o": [
+            "Constituted every year or periodically and work on a continuous basis",
+            "Dissolved after completing the task assigned to them",
+            "Formed only for a single Bill and cease to exist thereafter",
+            "Never mentioned in the Rules of Procedure"
+          ],
+          "a": 0,
+          "e": "<b>Standing Committees</b> are permanent (constituted every year or periodically) and work on a continuous basis, unlike <b>Ad Hoc Committees</b> (like Select/Joint Committees on a Bill), which are dissolved once their task is completed."
+        },
+        {
+          "q": "Select Committees and Joint Committees on a Bill are examples of:",
+          "o": [
+            "Standing Committees",
+            "Ad Hoc Committees",
+            "Financial Committees",
+            "Constitutional Committees"
+          ],
+          "a": 1,
+          "e": "Select and Joint Committees appointed to consider a specific Bill are <b>Ad Hoc Committees</b> — they cease to exist once they submit their report on that particular bill."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the Public Accounts Committee (PAC):\n1. A Minister cannot be elected as a member of the PAC.\n2. The Chairman of the PAC is appointed by the Speaker of the Lok Sabha.\n3. The PAC has the power to sanction expenditure on behalf of Parliament.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — a Minister is not eligible for election to the PAC, and the Speaker appoints its Chairman. Statement 3 is incorrect: the PAC only <b>scrutinises</b> expenditure already sanctioned by Parliament; it has no power to sanction expenditure itself."
+        },
+        {
+          "q": "Consider the following statements about the differences between the Estimates Committee and the Public Accounts Committee:\n1. The Estimates Committee examines the Budget before expenditure is incurred, while the PAC examines expenditure after it has been incurred.\n2. The Estimates Committee has members from the Rajya Sabha, while the PAC does not.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly captures a key distinction — Estimates Committee does 'pre-expenditure' economy scrutiny, whereas PAC does 'post-expenditure' audit-based scrutiny. Statement 2 is reversed: it is the <b>PAC</b> that has Rajya Sabha members, while the <b>Estimates Committee</b> is Lok Sabha-only."
+        },
+        {
+          "q": "Consider the following statements about the Committee on Public Undertakings (COPU):\n1. It examines whether the affairs of public undertakings are being managed in accordance with sound business principles.\n2. It examines matters of major government policy which fall within the sphere of responsibility of the Minister concerned.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly reflects COPU's role. Statement 2 is incorrect — COPU is specifically <b>excluded</b> from examining matters of major government policy, which are considered to fall outside its scope and are left to Parliament to discuss directly."
+        },
+        {
+          "q": "Consider the following statements on Departmentally Related Standing Committees (DRSCs):\n1. Each DRSC has members drawn from both the Lok Sabha and Rajya Sabha.\n2. Ministers are eligible to be nominated to a DRSC.\n3. DRSCs examine Demands for Grants of the ministries/departments assigned to them.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect — like other parliamentary committees, a <b>Minister is not eligible</b> to be nominated as a member of a DRSC."
+        },
+        {
+          "q": "Consider the following statements about the origin of the three financial committees:\n1. The Public Accounts Committee was first set up in 1921 under the Government of India Act, 1919.\n2. The Estimates Committee, in its present form, was constituted in 1950 on the recommendation of John Mathai, the then Finance Minister.\n3. The Committee on Public Undertakings was set up on the recommendation of the Krishna Menon Committee.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three are historically accurate: <b>PAC (1921)</b> traces its origin to the Government of India Act, 1919; the <b>Estimates Committee</b> was reconstituted in 1950 on the suggestion of Finance Minister <b>John Mathai</b>; and <b>COPU (1964)</b> followed the Krishna Menon Committee's recommendation."
+        },
+        {
+          "q": "Consider the following statements regarding the scope of the Public Accounts Committee's functioning:\n1. It satisfies itself that money shown in the accounts was disbursed legally and applied to the purpose to which it was appropriated.\n2. It examines the accounts of autonomous and semi-autonomous bodies, the audit of which is conducted by the CAG.\n3. It has no concern with cases of waste, extravagance or nugatory expenditure.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 correctly reflect the PAC's functions. Statement 3 is incorrect — the PAC is specifically concerned with cases involving <b>waste, extravagance, and nugatory expenditure</b> even where the expenditure is technically within the sanctioned grant."
+        },
+        {
+          "q": "Consider the following statements about the composition and tenure of Parliamentary Committees:\n1. Members of Standing Committees such as PAC, Estimates Committee, and COPU are elected/nominated annually.\n2. A member continues on the same standing committee for the full five-year term of the Lok Sabha without re-election.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — these committees are reconstituted (members elected/nominated) <b>every year</b>. Statement 2 is incorrect, as membership is not fixed for the full Lok Sabha term but renewed annually."
+        },
+        {
+          "q": "Consider the following statements comparing Standing Committees and Ad Hoc Committees of Parliament:\n1. The Railway Convention Committee is an example of a Standing Committee.\n2. A Joint Committee to inquire into a specific financial irregularity (e.g., stock market scam) is an example of an Ad Hoc Committee.\n3. Ad Hoc Committees cease to exist on completion of the task assigned to them and submission of their report.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three are correct examples/features: the <b>Railway Convention Committee</b> is a standing body; special inquiry committees (like on the Harshad Mehta/JPC-type scams) are <b>ad hoc</b>, ceasing to exist after their report is submitted."
+        },
+        {
+          "q": "Consider the following statements regarding the Business Advisory Committee (BAC):\n1. It exists in both the Lok Sabha and the Rajya Sabha.\n2. In the Lok Sabha, the Speaker is its ex officio Chairman.\n3. The BAC allocates time for discussion of Bills but has no say over non-legislative business.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is wrong — the BAC allocates time for both <b>legislative and other (non-legislative) business</b> brought forward by the government, not legislative business alone."
+        },
+        {
+          "q": "Consider the following statements about the Committee on Government Assurances:\n1. It examines assurances, promises, and undertakings given by Ministers on the floor of the House.\n2. It ensures that such assurances are implemented within a reasonable time.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements accurately describe the <b>Committee on Government Assurances</b>, which tracks and reports on the implementation of assurances given by ministers to the House."
+        },
+        {
+          "q": "Consider the following statements on the relationship between DRSCs and the three financial committees:\n1. DRSCs examine Demands for Grants before they are discussed and voted upon by the House.\n2. Once a DRSC has examined the Demands for Grants of a ministry, the House no longer separately votes on those Demands.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — DRSCs scrutinise Demands for Grants and submit reports before the House takes them up. Statement 2 is incorrect, as the House still <b>separately discusses and votes</b> on the Demands for Grants despite DRSC scrutiny."
+        },
+        {
+          "q": "Consider the following statements about the Rules Committee of the Lok Sabha:\n1. It considers matters of procedure and conduct of business in the House and recommends amendments to the Rules of Procedure.\n2. The Speaker is its ex officio Chairman.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are correct — the <b>Rules Committee</b> recommends changes to the Rules of Procedure and Conduct of Business, and the <b>Speaker</b> is its ex officio chairman in the Lok Sabha."
+        },
+        {
+          "q": "Consider the following statements regarding proportional representation used for electing members to committees like the PAC:\n1. Members are elected using the single transferable vote system.\n2. This method ensures representation of various parties/groups roughly in proportion to their strength in the House.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — members of committees such as the PAC are elected by <b>proportional representation through the single transferable vote</b>, ensuring roughly proportional party representation."
+        },
+        {
+          "q": "Consider the following statements about the Committee on Subordinate Legislation:\n1. It scrutinises whether powers to make regulations, rules, and bye-laws conferred by the Constitution or delegated by Parliament are being properly exercised by the executive.\n2. It exists in both Houses of Parliament.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are correct — the <b>Committee on Subordinate Legislation</b> examines delegated legislation (rules, regulations, bye-laws framed under statutory authority) to ensure it stays within the scope of the parent Act, and functions in both the Lok Sabha and Rajya Sabha."
+        },
+        {
+          "q": "Consider the following statements about the Local Legislatures Committee/Standing Committees' reporting mechanism:\n1. Reports of Parliamentary Committees are generally recommendatory and not binding on the government.\n2. The government is expected to submit an Action Taken Report on the recommendations of committees like the PAC.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are correct — parliamentary committee reports are <b>recommendatory</b> in nature, but by convention the government submits an <b>Action Taken Report/Note</b> responding to committee recommendations, which committees may further review."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Which of the following best describes why the Committee on Public Undertakings (COPU) is explicitly barred from examining matters of 'major government policy' relating to a public sector undertaking?",
+          "o": [
+            "Because such matters are considered appropriate for direct debate and decision by the House/Government rather than detailed committee-level scrutiny, preserving the line between administrative efficiency review and policy-making which remains an executive/legislative floor function",
+            "Because the Constitution expressly prohibits COPU from discussing any public undertaking matter",
+            "Because COPU has no members from the Lok Sabha",
+            "Because the CAG does not audit public sector undertakings"
+          ],
+          "a": 0,
+          "e": "COPU's mandate is largely confined to examining the <b>efficiency of management</b> and adherence to sound business/commercial principles by public undertakings, while matters of major government <b>policy</b> are deliberately kept outside its scope, as such issues are better addressed through direct parliamentary debate rather than committee-level financial scrutiny."
+        },
+        {
+          "q": "Which of the following best explains why the Chairman of the Public Accounts Committee is conventionally drawn from the Opposition, even though this is not a strict constitutional or statutory requirement?",
+          "o": [
+            "It is mandated by Article 148 of the Constitution",
+            "It reflects a long-standing parliamentary convention (followed since 1967) intended to strengthen the credibility and independence of financial scrutiny of the executive by the legislature",
+            "It is required under the CAG's Duties, Powers and Conditions of Service Act, 1971",
+            "It was introduced by the 42nd Constitutional Amendment"
+          ],
+          "a": 1,
+          "e": "There is no constitutional or statutory mandate for this — it is a <b>convention followed since 1967</b>, intended to enhance the PAC's independence and credibility in scrutinising government expenditure, since the government (ruling party) is itself the subject of the Committee's examination."
+        },
+        {
+          "q": "Which of the following correctly captures the significance of the 1993 restructuring that created the Departmentally Related Standing Committee (DRSC) system?",
+          "o": [
+            "It replaced the CAG's audit function entirely",
+            "It replaced ad hoc committees on Bills with a permanent structure covering every ministry, enabling continuous and comprehensive scrutiny of Demands for Grants, Bills, and policies across the entire government rather than issue-based examination alone",
+            "It abolished the Public Accounts Committee",
+            "It transferred all financial committee functions to the Rajya Sabha"
+          ],
+          "a": 1,
+          "e": "Before 1993, scrutiny was largely confined to ad hoc Select/Joint Committees on specific Bills and the three financial committees. The <b>DRSC system (1993)</b> extended systematic, department-wise scrutiny — covering Bills, Budgets (Demands for Grants), and policies — across the entire government machinery on a continuing basis."
+        },
+        {
+          "q": "Which of the following best explains the functional overlap and distinction between the Estimates Committee and DRSCs regarding examination of Budget estimates?",
+          "o": [
+            "The Estimates Committee examines selected estimates in depth to suggest economy and alternative policies, while DRSCs primarily examine the Demands for Grants of their allocated ministries as part of the annual budgetary process, allowing both mechanisms to coexist without one substituting the other",
+            "The Estimates Committee was abolished when DRSCs were created",
+            "DRSCs have replaced the Estimates Committee for all purposes",
+            "The Estimates Committee only examines Rajya Sabha's demands, unlike DRSCs"
+          ],
+          "a": 0,
+          "e": "Although there is some overlap, both bodies continue to coexist: the <b>Estimates Committee</b> undertakes selective, in-depth 'continuous economy' examination of estimates, whereas <b>DRSCs</b> examine Demands for Grants of specific ministries as part of the routine budgetary cycle, providing more comprehensive ministry-wise coverage."
+        },
+        {
+          "q": "Which of the following statements about the binding nature of Parliamentary Committee recommendations, including PAC reports, is most accurate in Indian constitutional practice?",
+          "o": [
+            "Committee reports are legally binding directives enforceable by courts against the executive",
+            "Committee reports are recommendatory; however, they carry significant moral and political weight, and the government is conventionally expected to respond via an Action Taken Report, with persistent non-implementation being open to further parliamentary scrutiny and censure",
+            "Committee reports automatically become law upon submission to the Speaker",
+            "Committee reports bind only the Rajya Sabha and not the Lok Sabha"
+          ],
+          "a": 1,
+          "e": "Parliamentary committee reports, including those of the PAC, are <b>not legally binding</b> — they are recommendatory. However, government must place an Action Taken Report, and consistent non-compliance can attract political and parliamentary censure, giving the process practical, if not legal, force."
+        },
+        {
+          "q": "In terms of institutional design, which of the following best explains why a Minister is barred from being a member of committees like the PAC, Estimates Committee, or DRSCs?",
+          "o": [
+            "Because Ministers are constitutionally barred from being members of Parliament",
+            "Because these committees are meant to scrutinise the executive's financial and administrative conduct, and a Minister's membership would create an inherent conflict of interest, undermining the committee's independent oversight function",
+            "Because Ministers lack the required qualifications under Article 84",
+            "Because only nominated members can serve as Ministers"
+          ],
+          "a": 1,
+          "e": "Since these committees exist to hold the <b>executive accountable</b> for its financial and administrative decisions, allowing a sitting Minister to be a member would create an obvious <b>conflict of interest</b>, compromising the committee's independence and oversight credibility."
+        },
+        {
+          "q": "Which of the following best explains the historical link between the Public Accounts Committee and the office of the Comptroller and Auditor General (CAG)?",
+          "o": [
+            "The CAG is a member of the PAC and votes on its recommendations",
+            "The CAG's audit reports form the principal basis for the PAC's examination, and the CAG (or a nominee) traditionally acts as a 'friend, philosopher and guide' to the Committee, without being a member",
+            "The PAC appoints the CAG under Article 148",
+            "The CAG's reports are examined only by the Rajya Sabha, not the PAC"
+          ],
+          "a": 1,
+          "e": "The <b>CAG</b>'s audit reports under Article 151 are placed before Parliament and referred to the PAC, which examines them closely; the CAG's office assists the Committee in this scrutiny (often described as acting as a guide to the PAC) without being a formal voting member."
+        },
+        {
+          "q": "Which of the following is the most precise reason why Ad Hoc Committees such as Select/Joint Committees on Bills are considered structurally different from Standing Committees like DRSCs, beyond mere duration?",
+          "o": [
+            "Ad hoc committees are formed for a specific legislative or inquiry purpose defined by the terms of reference at the time of constitution, and automatically cease to exist upon fulfilling that mandate, whereas Standing Committees have a continuing, general mandate renewed periodically regardless of any single task",
+            "Ad hoc committees have more members than Standing Committees in every instance",
+            "Standing Committees can only be formed after a Bill is passed",
+            "Ad hoc committees are constitutionally mandated while Standing Committees are not"
+          ],
+          "a": 0,
+          "e": "The defining structural distinction is the <b>scope of mandate</b> — ad hoc committees are created with narrowly defined terms of reference (e.g., a specific Bill or inquiry) and dissolve automatically on completion, while standing committees have an <b>open-ended, continuing mandate</b> renewed periodically (usually annually)."
+        },
+        {
+          "q": "Which of the following best captures the rationale behind excluding the Rajya Sabha from membership of the Estimates Committee, unlike the PAC and COPU which include Rajya Sabha members?",
+          "o": [
+            "Because the Rajya Sabha has no role in financial matters, being constitutionally barred from discussing the Budget",
+            "Because the Estimates Committee's function relates closely to Demands for Grants, which under Article 113 are voted upon only by the Lok Sabha, making Lok Sabha-only membership a practical/administrative choice rather than a rigid constitutional mandate",
+            "Because the Rajya Sabha members lack the required financial expertise",
+            "Because the Estimates Committee was abolished and later revived only for the Lok Sabha"
+          ],
+          "a": 1,
+          "e": "Since <b>Demands for Grants</b> under <b>Article 113</b> are voted upon exclusively by the Lok Sabha (the Rajya Sabha only discusses the Budget without voting on grants), the Estimates Committee — closely tied to grant-related economy review — has traditionally been constituted with <b>Lok Sabha members only</b>, a practice rather than an explicit constitutional bar on Rajya Sabha involvement in financial committees generally (as seen with PAC/COPU, which do include Rajya Sabha members)."
+        },
+        {
+          "q": "Which of the following best explains the constitutional basis (or absence thereof) for Parliamentary Committees such as the PAC, Estimates Committee, and DRSCs?",
+          "o": [
+            "They are directly established under Articles 105 to 122 of the Constitution by name",
+            "They are not directly named in the Constitution; they derive their existence from the Rules of Procedure and Conduct of Business framed by each House under Article 118, which permits each House to make rules for regulating its own procedure",
+            "They were created by a specific constitutional amendment listing each committee",
+            "They exist only due to a Supreme Court direction"
+          ],
+          "a": 1,
+          "e": "Parliamentary Committees are not separately named in the constitutional text; they derive their existence from the <b>Rules of Procedure and Conduct of Business</b> of each House, framed under <b>Article 118</b>, which empowers each House to regulate its own procedure, including constitution of committees."
+        },
+        {
+          "q": "Which of the following statements best reflects a nuanced understanding of the effectiveness of DRSCs in enhancing legislative scrutiny, as often discussed in the context of declining time spent by Parliament on detailed floor debate of bills?",
+          "o": [
+            "DRSCs have completely replaced the need for floor debate on any Bill",
+            "DRSCs strengthen scrutiny by allowing detailed, non-partisan, in-camera examination of Bills and Demands for Grants away from the adversarial floor of the House, though referral of Bills to them is not mandatory in every case, which can dilute their intended role if bills are passed without such scrutiny",
+            "DRSCs are advisory bodies whose reports are legally binding on the government",
+            "DRSCs can amend a Bill directly without reference back to the House"
+          ],
+          "a": 1,
+          "e": "DRSCs enable more <b>detailed, less adversarial, in-camera scrutiny</b> of Bills and Demands for Grants; however, since referring a Bill to a DRSC is <b>not mandatory</b>, several bills have been passed in recent years without such scrutiny, a point of criticism regarding the erosion of legislative scrutiny quality."
+        },
+        {
+          "q": "Which of the following best explains the distinction between the roles of the Business Advisory Committee (BAC) and the Rules Committee in the Lok Sabha?",
+          "o": [
+            "The BAC allocates time for business already on the agenda, while the Rules Committee frames/amends the procedural rules that govern how business is conducted, making them complementary but functionally distinct",
+            "Both committees perform an identical function of scrutinising public expenditure",
+            "The Rules Committee decides which Bills are Money Bills",
+            "The BAC frames the Rules of Procedure while the Rules Committee only allocates time"
+          ],
+          "a": 0,
+          "e": "The <b>Business Advisory Committee</b> is concerned with the practical <b>scheduling/time allocation</b> of business, whereas the <b>Rules Committee</b> deals with the substantive <b>procedural rules</b> under which the House conducts all its business — a scheduling function versus a rule-making function."
+        },
+        {
+          "q": "Which of the following best explains why the CAG's audit reports and the PAC's examination are together regarded as a crucial check on the executive's financial accountability under India's parliamentary system?",
+          "o": [
+            "Because the CAG can strike down illegal government expenditure on its own authority",
+            "Because the CAG (an independent constitutional authority under Article 148) provides an external, professional audit, and the PAC (a body of the legislature) translates those findings into political accountability through Parliament, together forming a two-stage check on the executive's use of public funds sanctioned via the Appropriation Act",
+            "Because the PAC's decisions are appealable to the Supreme Court under Article 32",
+            "Because the CAG appoints members of the PAC directly"
+          ],
+          "a": 1,
+          "e": "The <b>CAG</b>, an independent constitutional authority under <b>Article 148</b>, audits government expenditure and reports to Parliament; the <b>PAC</b> then examines these reports to enforce political and legislative accountability, together forming a robust two-stage mechanism ensuring public money is spent as authorised by the Appropriation Act."
+        },
+        {
+          "q": "Which of the following best captures a key criticism regarding the composition and continuity of Standing Committees like the PAC, Estimates Committee, and DRSCs, given their one-year tenure?",
+          "o": [
+            "The annual reconstitution can disrupt continuity of expertise and follow-up on ongoing examinations, though it also allows wider rotation of members and prevents excessive concentration of committee power in a small group over a full term",
+            "Annual reconstitution has no effect on committee functioning since members never change",
+            "These committees have a fixed five-year, non-renewable tenure identical to the Lok Sabha's term",
+            "Annual tenure was introduced only after the 2019 general election"
+          ],
+          "a": 0,
+          "e": "The <b>one-year tenure</b> and annual reconstitution of committees like PAC, Estimates Committee, and DRSCs is often flagged as a concern for continuity of subject expertise and follow-through on long, complex examinations, though it does allow broader member rotation and guards against long-term entrenchment of committee leadership."
+        },
+        {
+          "q": "Which of the following best explains why a report of a Parliamentary Committee, though not law, can nonetheless carry significant weight in subsequent judicial or executive action?",
+          "o": [
+            "Because committee reports are automatically deemed statutes under Article 245",
+            "Because committee reports, being the product of detailed, cross-party legislative scrutiny, often shape public discourse, trigger executive follow-up (Action Taken Reports), and may sometimes be referred to by courts as persuasive material reflecting legislative intent or factual findings, even though they lack the force of law",
+            "Because the President is bound to implement every committee recommendation under Article 74",
+            "Because failure to implement a committee report is a ground for a no-confidence motion under Article 75(3) automatically"
+          ],
+          "a": 1,
+          "e": "While not legally binding, committee reports — being outcomes of detailed, often <b>cross-party scrutiny</b> — carry persuasive and political weight; they can shape policy debate, compel an Action Taken Report from the government, and are occasionally cited as background/persuasive material, without themselves acquiring the force of law."
+        }
+      ]
+    }
+  }
+]

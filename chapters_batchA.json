@@ -1,0 +1,1526 @@
+[
+  {
+    "id": "centre_state_relations",
+    "title": "Centre-State Relations",
+    "desc": "Legislative, administrative and financial ties between Centre and States",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Part of the Constitution deals with relations between the Union and the States?",
+          "o": [
+            "Part IX",
+            "Part X",
+            "Part XI",
+            "Part XII"
+          ],
+          "a": 2,
+          "e": "<b>Part XI</b> (Articles 245 to 263) of the Constitution deals with relations between the Union and the States, covering legislative, administrative and financial relations."
+        },
+        {
+          "q": "Legislative relations between the Centre and the States are dealt with under which Articles?",
+          "o": [
+            "Articles 214-231",
+            "Articles 245-255",
+            "Articles 256-263",
+            "Articles 268-293"
+          ],
+          "a": 1,
+          "e": "<b>Articles 245 to 255</b> in Part XI deal with the legislative relations between the Union and the States, including distribution of legislative subjects."
+        },
+        {
+          "q": "The Seventh Schedule of the Constitution contains how many Lists?",
+          "o": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "a": 1,
+          "e": "The Seventh Schedule contains <b>three Lists</b> — the Union List, the State List and the Concurrent List — distributing subjects for legislation between Parliament and State Legislatures."
+        },
+        {
+          "q": "Residuary powers of legislation (on matters not enumerated in any of the three Lists) are vested in?",
+          "o": [
+            "State Legislatures",
+            "Parliament",
+            "President",
+            "Governor"
+          ],
+          "a": 1,
+          "e": "<b>Article 248</b> vests residuary powers of legislation exclusively in Parliament, a feature that leans towards a stronger Centre compared to some other federations."
+        },
+        {
+          "q": "Under Article 249, Parliament can legislate on a State List matter in the national interest if the Rajya Sabha passes a resolution by what majority?",
+          "o": [
+            "Simple majority",
+            "Absolute majority",
+            "Two-thirds majority of members present and voting",
+            "Two-thirds of total membership"
+          ],
+          "a": 2,
+          "e": "<b>Article 249</b> allows Parliament to legislate on a State List subject if the Rajya Sabha passes a resolution supported by not less than <b>two-thirds of members present and voting</b>, declaring it necessary in the national interest."
+        },
+        {
+          "q": "Which Article empowers Parliament to legislate for two or more States by their consent?",
+          "o": [
+            "Article 250",
+            "Article 252",
+            "Article 253",
+            "Article 254"
+          ],
+          "a": 1,
+          "e": "<b>Article 252</b> empowers Parliament to legislate on a State subject for two or more consenting states, and any other state may later adopt such a law by passing a resolution."
+        },
+        {
+          "q": "Which Article deals with inconsistency between a law made by Parliament and a law made by a State Legislature on a Concurrent List subject?",
+          "o": [
+            "Article 251",
+            "Article 252",
+            "Article 254",
+            "Article 255"
+          ],
+          "a": 2,
+          "e": "<b>Article 254</b> provides that in case of repugnancy between Union and State laws on a Concurrent subject, the Union law prevails, except when the State law has received the President's assent under Article 254(2)."
+        },
+        {
+          "q": "Administrative relations between the Union and the States are covered under which range of Articles?",
+          "o": [
+            "Articles 245-255",
+            "Articles 256-263",
+            "Articles 268-293",
+            "Articles 300-300A"
+          ],
+          "a": 1,
+          "e": "<b>Articles 256 to 263</b> in Part XI deal with the administrative relations between the Union and the States."
+        },
+        {
+          "q": "All-India Services are provided for under which Article?",
+          "o": [
+            "Article 309",
+            "Article 311",
+            "Article 312",
+            "Article 315"
+          ],
+          "a": 2,
+          "e": "<b>Article 312</b> empowers Parliament to create new All-India Services common to the Union and the States, on the basis of a Rajya Sabha resolution."
+        },
+        {
+          "q": "Financial relations between the Union and the States are dealt with under which Articles?",
+          "o": [
+            "Articles 245-255",
+            "Articles 256-263",
+            "Articles 264-267",
+            "Articles 268-293"
+          ],
+          "a": 3,
+          "e": "<b>Articles 268 to 293</b> deal with the financial relations between the Union and the States, including distribution of tax revenues and grants-in-aid."
+        },
+        {
+          "q": "The Finance Commission is constituted by the President under which Article?",
+          "o": [
+            "Article 275",
+            "Article 280",
+            "Article 282",
+            "Article 293"
+          ],
+          "a": 1,
+          "e": "<b>Article 280</b> provides for the constitution of a Finance Commission every five years to recommend distribution of tax proceeds between the Union and the States."
+        },
+        {
+          "q": "The GST Council was constituted under which newly inserted Article?",
+          "o": [
+            "Article 269A",
+            "Article 279A",
+            "Article 246A",
+            "Article 368A"
+          ],
+          "a": 1,
+          "e": "<b>Article 279A</b>, inserted by the 101st Constitutional Amendment Act, 2016, provides for the constitution of the GST Council by the President."
+        },
+        {
+          "q": "The Sarkaria Commission on Centre-State relations was headed by?",
+          "o": [
+            "Justice M.M. Punchhi",
+            "Justice R.S. Sarkaria",
+            "Justice P.V. Rajamannar",
+            "Justice Rajinder Sachar"
+          ],
+          "a": 1,
+          "e": "The <b>Sarkaria Commission</b> (1983) was chaired by Justice R.S. Sarkaria and submitted its report in 1988 with recommendations to improve Centre-State relations."
+        },
+        {
+          "q": "The Punchhi Commission on Centre-State relations was set up in which year?",
+          "o": [
+            "1983",
+            "2000",
+            "2007",
+            "2010"
+          ],
+          "a": 2,
+          "e": "The <b>Punchhi Commission</b>, headed by Justice Madan Mohan Punchhi, was constituted in <b>2007</b> and submitted its report in 2010."
+        },
+        {
+          "q": "Article 245 of the Constitution deals with?",
+          "o": [
+            "Distribution of revenues",
+            "Extent of laws made by Parliament and State Legislatures",
+            "Residuary powers",
+            "Inter-State Council"
+          ],
+          "a": 1,
+          "e": "<b>Article 245</b> deals with the territorial extent of laws made by Parliament (for the whole or part of India) and by State Legislatures (for the whole or part of the State)."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the Seventh Schedule: 1. The Union List originally had 97 subjects. 2. The State List originally had 66 subjects. 3. The Concurrent List originally had 52 subjects. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "The Union List originally contained <b>97 subjects</b> and the State List <b>66 subjects</b>; however, the Concurrent List originally had <b>47 subjects</b> (now 52, after the 42nd Amendment added 5 subjects), so statement 3 is incorrect."
+        },
+        {
+          "q": "Consider the following statements about Article 249: 1. Parliament can legislate on a State List matter if the Rajya Sabha passes a resolution. 2. Such a resolution remains in force for a maximum of one year at a time. 3. It can be renewed any number of times by a similar resolution. Which of the statements are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "Under <b>Article 249</b>, a Rajya Sabha resolution authorising Parliament to legislate on a State subject remains valid for <b>one year</b> and can be renewed any number of times through similar resolutions, so all three statements are correct."
+        },
+        {
+          "q": "With reference to Article 254, consider the following statements: 1. In case of repugnancy between a Union law and a State law on a Concurrent List matter, the Union law always prevails without exception. 2. A State law can prevail over a Union law on the same Concurrent subject if it has received the President's assent. 3. Even after receiving the President's assent, Parliament can still override the State law by subsequent legislation. Which of the statements are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect because a State law reserved for and receiving the <b>President's assent</b> can prevail in that State under Article 254(2); however, Parliament can still override such a State law later by fresh legislation, making statements 2 and 3 correct."
+        },
+        {
+          "q": "Which of the following subjects were shifted from the State List to the Concurrent List by the 42nd Amendment Act, 1976?",
+          "o": [
+            "Education, forests, weights and measures, and administration of justice",
+            "Agriculture, land revenue, public health and police",
+            "Currency, foreign trade and banking",
+            "Elections, All-India Services and defence"
+          ],
+          "a": 0,
+          "e": "The <b>42nd Amendment Act, 1976</b> transferred five subjects — <b>education, forests, weights and measures, protection of wild animals and birds, and administration of justice</b> — from the State List to the Concurrent List."
+        },
+        {
+          "q": "Consider the following statements regarding financial relations between the Union and the States: 1. Article 268 provides for duties levied by the Union but collected and appropriated by the States. 2. Article 269 provides for taxes levied and collected by the Union but assigned to the States. 3. Article 275 provides for statutory grants-in-aid to certain states. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct: <b>Article 268</b> covers duties collected and appropriated by states, <b>Article 269</b> covers taxes collected by the Union but assigned to states, and <b>Article 275</b> provides statutory grants-in-aid to specified states."
+        },
+        {
+          "q": "Which of the following statements regarding the GST Council is/are correct? 1. It is chaired by the Union Finance Minister. 2. It was constituted under Article 279A of the Constitution. 3. Decisions in the Council require a three-fourths majority of weighted votes cast. Choose the correct answer:",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "The <b>GST Council</b>, constituted under <b>Article 279A</b> (101st Amendment, 2016), is chaired by the Union Finance Minister and takes decisions by a <b>three-fourths majority</b> of the weighted votes of members present and voting."
+        },
+        {
+          "q": "Consider the following statements about the Finance Commission: 1. It is a constitutional body under Article 280. 2. It is constituted by the President every five years or earlier if necessary. 3. Its recommendations are binding on the Union Government. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct, but the <b>Finance Commission's recommendations are only advisory/recommendatory</b> in nature and not binding on the Government, making statement 3 incorrect."
+        },
+        {
+          "q": "With reference to the Sarkaria Commission's recommendations, consider the following: 1. It recommended that Article 356 be used very sparingly, in extreme cases, as a last resort. 2. It recommended abolition of the office of Governor. 3. It recommended setting up of an Inter-State Council. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "The <b>Sarkaria Commission</b> recommended sparing use of <b>Article 356</b> and creation of a permanent <b>Inter-State Council</b> (established in 1990), but it did not recommend abolishing the office of Governor."
+        },
+        {
+          "q": "Which of the following is/are among the recommendations of the Punchhi Commission? 1. A specific law to regulate the situations for imposing President's Rule. 2. A fixed tenure for the Governor. 3. Localised Emergency provisions allowing the Centre to tackle law and order in a specific area without imposing state-wide President's Rule. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "The <b>Punchhi Commission</b> recommended a fixed five-year tenure for Governors, suggested localised emergency provisions instead of state-wide President's Rule, and favoured clearer guidelines/law for invoking Article 356."
+        },
+        {
+          "q": "Consider the following statements: 1. Under Article 258, the President may entrust to a State certain executive functions of the Union. 2. Under Article 258A, a State Governor may entrust to the Union certain executive functions of the State. 3. Article 258A was inserted by the 7th Constitutional Amendment Act, 1956. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct. <b>Article 258</b> allows the Union to confer executive functions on states, while <b>Article 258A</b> (inserted by the 7th Amendment, 1956) allows a state to entrust its executive functions to the Union with its consent."
+        },
+        {
+          "q": "Consider the following statements about Article 256: 1. It states that the executive power of every State shall be exercised so as to ensure compliance with laws made by Parliament. 2. It also empowers the Union to give directions to a State for this purpose. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Article 256</b> obliges States to exercise executive power to ensure compliance with Union laws and empowers the Union to issue necessary directions to states for this purpose."
+        },
+        {
+          "q": "Consider the following statements regarding taxes under the Constitution (post 101st Amendment): 1. Integrated GST (IGST) on inter-state supply of goods and services is dealt with under Article 269A. 2. Article 246A gives concurrent power to Parliament and State Legislatures to make laws on GST. 3. Alcohol for human consumption is kept outside the ambit of GST. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct — <b>Article 269A</b> deals with inter-state GST, <b>Article 246A</b> gives concurrent GST legislative power (with Parliament having exclusive power over inter-state trade), and <b>alcohol for human consumption</b> remains outside GST."
+        },
+        {
+          "q": "Consider the following statements regarding Article 252: 1. Parliament can legislate on a State subject if two or more States consent by passing resolutions. 2. Such a law can be amended or repealed only by Parliament, not by the consenting states. 3. Other states may later adopt this law by passing a similar resolution. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements about <b>Article 252</b> are correct — once states consent, the resultant law falls outside the state legislature's amending power, though other states can adopt the law later."
+        },
+        {
+          "q": "With reference to Article 355, consider the following statements: 1. It imposes a duty on the Union to protect States against external aggression and internal disturbance. 2. It is often cited as the source of the Union's power to issue directions to states and, in extreme cases, invoke Article 356. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "<b>Article 355</b> casts a duty on the Union to protect states from external aggression and internal disturbance and to ensure governance in accordance with the Constitution, and it is often invoked as the basis for Union intervention including President's Rule under Article 356."
+        },
+        {
+          "q": "Consider the following statements about Article 263 (Inter-State Council): 1. It is a recommendatory body. 2. It can be established by the President if it appears that public interest would be served. 3. This provision falls under the 'Administrative Relations' part of Centre-State relations. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "The <b>Inter-State Council</b> under Article 263 is a recommendatory body that the President may establish if satisfied that it would serve public interest; it falls within the administrative relations provisions of Part XI."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "In S.R. Bommai v. Union of India (1994), the Supreme Court laid down guidelines primarily regarding which Article?",
+          "o": [
+            "Article 352",
+            "Article 356",
+            "Article 360",
+            "Article 368"
+          ],
+          "a": 1,
+          "e": "In <b>S.R. Bommai v. Union of India (1994)</b>, the Supreme Court held that the President's power under <b>Article 356</b> is subject to judicial review and that the floor of the Assembly is the proper forum to test the majority of a government."
+        },
+        {
+          "q": "Which case established the 'basic structure' doctrine, later invoked to review misuse of Article 356 on the ground that federalism is a basic feature?",
+          "o": [
+            "Kesavananda Bharati v. State of Kerala (1973)",
+            "State of Rajasthan v. Union of India (1977)",
+            "Rameshwar Prasad v. Union of India (2006)",
+            "Golaknath v. State of Punjab (1967)"
+          ],
+          "a": 0,
+          "e": "The basic structure doctrine, evolved in <b>Kesavananda Bharati v. State of Kerala (1973)</b>, underlies the judicial review of Article 356 proclamations since federalism is regarded as a basic feature of the Constitution."
+        },
+        {
+          "q": "In State of West Bengal v. Union of India (1963), the Supreme Court held that:",
+          "o": [
+            "States are sovereign entities like the Union",
+            "India is not a true federation and the States are not sovereign",
+            "President's rule cannot be reviewed by courts",
+            "Residuary powers vest with the States"
+          ],
+          "a": 1,
+          "e": "In <b>State of West Bengal v. Union of India (1963)</b>, the Supreme Court held that the Indian Constitution does not envisage a federation of fully sovereign states, since sovereignty vests in the Union and Parliament can even legislate to acquire state property."
+        },
+        {
+          "q": "Which constitutional amendment inserted Article 279A, establishing the GST Council?",
+          "o": [
+            "42nd Amendment Act, 1976",
+            "73rd Amendment Act, 1992",
+            "101st Amendment Act, 2016",
+            "103rd Amendment Act, 2019"
+          ],
+          "a": 2,
+          "e": "The <b>101st Constitutional Amendment Act, 2016</b>, which introduced the Goods and Services Tax regime, inserted <b>Article 279A</b> providing for the GST Council."
+        },
+        {
+          "q": "Consider the following statements about the Seventh Schedule after various amendments: 1. The Union List has grown from its original 97 subjects. 2. Entry 92C (service tax), inserted in the Union List by the 88th Amendment, was later omitted after the 101st Amendment. 3. The Concurrent List now has fewer subjects than at the commencement of the Constitution. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the Union List has grown to around 100 subjects and <b>Entry 92C</b> was omitted by the 101st Amendment; however, the Concurrent List has grown from <b>47 to 52</b> subjects, not shrunk, so statement 3 is incorrect."
+        },
+        {
+          "q": "The doctrine of 'Pith and Substance' is used by courts to:",
+          "o": [
+            "Determine the true nature and character of a legislation for deciding under which legislative list it falls",
+            "Determine whether the basic structure of the Constitution is violated",
+            "Decide disputes relating to inter-state rivers",
+            "Test the validity of a proclamation of emergency"
+          ],
+          "a": 0,
+          "e": "The <b>'pith and substance'</b> doctrine is applied to ascertain the true nature and subject matter of an enactment when it appears to overlap between the Union, State and Concurrent Lists, so that its dominant purpose determines its validity under the appropriate list."
+        },
+        {
+          "q": "In the context of Centre-State legislative relations, the doctrine of 'repugnancy' is primarily associated with which Article?",
+          "o": [
+            "Article 246",
+            "Article 251",
+            "Article 254",
+            "Article 255"
+          ],
+          "a": 2,
+          "e": "<b>Article 254</b> embodies the doctrine of repugnancy, dealing with conflicts between a Union law and a State law on a Concurrent List subject, generally giving primacy to the Union law."
+        },
+        {
+          "q": "Which of the following statements about the 44th Amendment Act, 1978 is correct?",
+          "o": [
+            "It removed judicial review of a proclamation under Article 356",
+            "It replaced 'internal disturbance' with 'armed rebellion' as a ground for National Emergency under Article 352",
+            "It abolished the Governor's discretionary powers entirely",
+            "It transferred residuary powers to the States"
+          ],
+          "a": 1,
+          "e": "The <b>44th Amendment Act, 1978</b> replaced the ground 'internal disturbance' with '<b>armed rebellion</b>' for declaring a National Emergency under Article 352, making it harder to misuse the provision, as had allegedly happened in 1975."
+        },
+        {
+          "q": "Which of the following was NOT a recommendation of the Sarkaria Commission?",
+          "o": [
+            "Article 356 should be used sparingly, in extreme cases, as a measure of last resort",
+            "A new all-India judicial service should be created",
+            "The Governor should be an eminent person from outside the state and not too closely connected with local state politics",
+            "The Concurrent List should be abolished and residuary power shifted to States"
+          ],
+          "a": 3,
+          "e": "The <b>Sarkaria Commission</b> did not recommend abolishing the Concurrent List or shifting residuary powers to States; it favoured retaining the existing distribution while recommending better consultation mechanisms such as the Inter-State Council."
+        },
+        {
+          "q": "In which recent case (2023) did the Supreme Court hold that a Governor cannot indefinitely withhold assent to State bills under Article 200?",
+          "o": [
+            "State of Tamil Nadu v. Governor of Tamil Nadu",
+            "State of Punjab v. Principal Secretary to the Governor of Punjab",
+            "State of Kerala v. Union of India",
+            "State of Chhattisgarh v. Union of India"
+          ],
+          "a": 1,
+          "e": "In <b>State of Punjab v. Principal Secretary to the Governor of Punjab (2023)</b>, the Supreme Court held that a Governor cannot indefinitely withhold assent to bills passed by the state legislature and must act within a reasonable time."
+        },
+        {
+          "q": "In Deep Chand v. State of Uttar Pradesh (1959), the Supreme Court examined which of the following?",
+          "o": [
+            "Repugnancy between Union and State laws under Article 254",
+            "Validity of an Article 356 proclamation",
+            "Doctrine of pith and substance in taxation matters",
+            "Scope of residuary powers under Article 248"
+          ],
+          "a": 0,
+          "e": "In <b>Deep Chand v. State of Uttar Pradesh (1959)</b>, the Supreme Court examined the doctrine of <b>repugnancy under Article 254</b>, holding that where a state law directly conflicts with a Union law on the same Concurrent List matter, the state law is void to the extent of the repugnancy."
+        },
+        {
+          "q": "Which of the following best explains why India, despite having a federal structure, is often described as having a 'unitary bias'?",
+          "o": [
+            "Single citizenship, integrated judiciary, residuary powers with the Centre, and emergency provisions enabling a unitary form of governance",
+            "Existence of separate constitutions for states",
+            "Absence of a Concurrent List",
+            "Complete legislative and financial autonomy of States"
+          ],
+          "a": 0,
+          "e": "Features like <b>single citizenship, an integrated judiciary, Centre-vested residuary powers</b>, and emergency provisions that can convert the polity into a unitary one are cited by scholars like K.C. Wheare to describe India as 'quasi-federal.'"
+        },
+        {
+          "q": "Which article empowers the Union (or a State) to make 'discretionary grants' for a public purpose even if it is not one on which Parliament or the State Legislature can otherwise legislate?",
+          "o": [
+            "Article 280",
+            "Article 282",
+            "Article 293",
+            "Article 275(1)"
+          ],
+          "a": 1,
+          "e": "<b>Article 282</b> empowers the Union (and States) to make grants for any public purpose, even if it is not one on which Parliament or the State Legislature can legislate, enabling discretionary grants historically routed through bodies like the erstwhile Planning Commission."
+        },
+        {
+          "q": "Consider the following statements about Article 253: 1. It empowers Parliament to make laws implementing international treaties, agreements or conventions. 2. Such laws can be made even on matters falling in the State List. 3. This power was used to enact environmental laws following international conferences. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct; <b>Article 253</b> gives Parliament overriding power to legislate on any subject, including State List matters, to implement international obligations — for example, environmental laws enacted following the Stockholm Conference (1972)."
+        },
+        {
+          "q": "Which of the following statements about the Rajamannar Committee (1969, Tamil Nadu) is correct?",
+          "o": [
+            "It recommended abolition of the Rajya Sabha",
+            "It recommended restructuring Centre-State relations with maximum autonomy to States and a relatively limited role for the Centre",
+            "It recommended a uniform All-India Judicial Service",
+            "It was constituted by the Union Government"
+          ],
+          "a": 1,
+          "e": "The <b>Rajamannar Committee</b>, constituted by the Tamil Nadu government in 1969, recommended a substantial restructuring of Centre-State relations, favouring greater state autonomy and a relatively limited role for the Union."
+        }
+      ]
+    }
+  },
+  {
+    "id": "inter_state_relations",
+    "title": "Inter-State Relations",
+    "desc": "Water disputes, Inter-State Council, Zonal Councils and free trade",
+    "questions": {
+      "basic": [
+        {
+          "q": "Article 262 of the Constitution deals with?",
+          "o": [
+            "Inter-State Council",
+            "Adjudication of disputes relating to waters of inter-state rivers",
+            "Freedom of trade and commerce",
+            "Full faith and credit clause"
+          ],
+          "a": 1,
+          "e": "<b>Article 262</b> empowers Parliament to provide by law for the adjudication of disputes relating to waters of inter-state rivers or river valleys."
+        },
+        {
+          "q": "Which Act empowers the Union Government to set up a tribunal for adjudication of an inter-state water dispute?",
+          "o": [
+            "River Boards Act, 1956",
+            "Inter-State River Water Disputes Act, 1956",
+            "Inter-State Council Order, 1990",
+            "States Reorganisation Act, 1956"
+          ],
+          "a": 1,
+          "e": "The <b>Inter-State River Water Disputes Act, 1956</b>, enacted under Article 262, provides the mechanism for the Union Government to set up a tribunal when a dispute over inter-state river waters arises."
+        },
+        {
+          "q": "Under Article 262(2), Parliament may provide that no court, including the Supreme Court, shall exercise jurisdiction in respect of?",
+          "o": [
+            "Any dispute between two or more states",
+            "Any dispute relating to inter-state river water mentioned in a law under 262(1)",
+            "Any dispute relating to Zonal Councils",
+            "Any dispute relating to freedom of trade under Article 301"
+          ],
+          "a": 1,
+          "e": "<b>Article 262(2)</b> allows Parliament to provide that neither the Supreme Court nor any other court shall exercise jurisdiction in respect of an inter-state river water dispute referred to in Article 262(1)."
+        },
+        {
+          "q": "The Inter-State Council is provided for under which Article?",
+          "o": [
+            "Article 261",
+            "Article 262",
+            "Article 263",
+            "Article 280"
+          ],
+          "a": 2,
+          "e": "<b>Article 263</b> empowers the President to establish an Inter-State Council if it appears that public interests would be served by its establishment."
+        },
+        {
+          "q": "The Inter-State Council was actually established in which year, on the recommendation of the Sarkaria Commission?",
+          "o": [
+            "1983",
+            "1988",
+            "1990",
+            "2007"
+          ],
+          "a": 2,
+          "e": "The <b>Inter-State Council</b> was established in <b>1990</b> through a Presidential Order, acting on a key recommendation of the Sarkaria Commission (1988 report)."
+        },
+        {
+          "q": "Who is the ex-officio Chairman of the Inter-State Council?",
+          "o": [
+            "President of India",
+            "Vice-President of India",
+            "Prime Minister",
+            "Union Home Minister"
+          ],
+          "a": 2,
+          "e": "The <b>Prime Minister</b> of India is the ex-officio Chairman of the Inter-State Council, whose other members include Chief Ministers of all states and certain Union Cabinet Ministers."
+        },
+        {
+          "q": "Zonal Councils were created under which Act?",
+          "o": [
+            "Government of India Act, 1935",
+            "States Reorganisation Act, 1956",
+            "Inter-State Council Order, 1990",
+            "North Eastern Council Act, 1971"
+          ],
+          "a": 1,
+          "e": "<b>Zonal Councils</b> are statutory (not constitutional) bodies set up under the <b>States Reorganisation Act, 1956</b>."
+        },
+        {
+          "q": "How many Zonal Councils exist in India?",
+          "o": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+          ],
+          "a": 2,
+          "e": "There are <b>five Zonal Councils</b> — Northern, Central, Eastern, Western, and Southern — each covering a group of neighbouring states."
+        },
+        {
+          "q": "Who acts as the common Chairman of each of the five Zonal Councils?",
+          "o": [
+            "Prime Minister",
+            "Union Home Minister",
+            "Vice-President",
+            "NITI Aayog CEO"
+          ],
+          "a": 1,
+          "e": "The <b>Union Home Minister</b> is the common Chairman of each of the five Zonal Councils, while the Chief Ministers of member states act as Vice-Chairman by rotation."
+        },
+        {
+          "q": "The North Eastern Council was established under which Act?",
+          "o": [
+            "States Reorganisation Act, 1956",
+            "North Eastern Council Act, 1971",
+            "Inter-State Council Order, 1990",
+            "North-Eastern Areas (Reorganisation) Act, 1971"
+          ],
+          "a": 1,
+          "e": "The <b>North Eastern Council</b> was established under the <b>North Eastern Council Act, 1971</b>, as a separate body distinct from the five Zonal Councils."
+        },
+        {
+          "q": "The 'full faith and credit' clause, requiring public acts, records and judicial proceedings of the Union and every State to be recognised throughout India, is contained in which Article?",
+          "o": [
+            "Article 261",
+            "Article 262",
+            "Article 300",
+            "Article 300A"
+          ],
+          "a": 0,
+          "e": "<b>Article 261</b> provides that full faith and credit shall be given throughout the territory of India to public acts, records and judicial proceedings of the Union and every state."
+        },
+        {
+          "q": "Freedom of trade, commerce and intercourse throughout the territory of India is guaranteed under which Article?",
+          "o": [
+            "Article 19",
+            "Article 301",
+            "Article 304",
+            "Article 19(1)(g)"
+          ],
+          "a": 1,
+          "e": "<b>Article 301</b> guarantees that trade, commerce and intercourse throughout the territory of India shall be free, subject to the other provisions of Part XIII."
+        },
+        {
+          "q": "Under which Article can Parliament impose restrictions on the freedom of trade, commerce or intercourse in the public interest?",
+          "o": [
+            "Article 301",
+            "Article 302",
+            "Article 303",
+            "Article 305"
+          ],
+          "a": 1,
+          "e": "<b>Article 302</b> empowers Parliament to impose such restrictions on freedom of trade, commerce or intercourse as may be required in the public interest."
+        },
+        {
+          "q": "Article 303 of the Constitution primarily deals with?",
+          "o": [
+            "Power of states to impose entry tax",
+            "Restrictions on legislative power of the Union and States regarding trade and commerce to prevent discrimination",
+            "Adjudication of inter-state disputes",
+            "Establishment of the Inter-State Council"
+          ],
+          "a": 1,
+          "e": "<b>Article 303</b> restricts both Parliament and State Legislatures from making any law giving preference to one state over another or discriminating between states in matters of trade and commerce, except where Parliament declares an exception due to scarcity."
+        },
+        {
+          "q": "Article 307 provides for?",
+          "o": [
+            "Setting up an authority to carry out the purposes of Articles 301-304",
+            "Establishment of the Inter-State Council",
+            "Adjudication of water disputes",
+            "Full faith and credit clause"
+          ],
+          "a": 0,
+          "e": "<b>Article 307</b> empowers Parliament to appoint, by law, an authority to carry out the purposes of Articles 301 to 304, though such an authority has not actually been created so far."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements about Article 262: 1. It applies to disputes relating to waters of any inter-state river or river valley. 2. Parliament has enacted the Inter-State River Water Disputes Act, 1956 under this Article. 3. Awards of tribunals set up under this Act are subject to a routine right of appeal before the Supreme Court. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct; statement 3 is incorrect because Parliament, under <b>Article 262(2)</b>, can bar the Supreme Court's jurisdiction over such disputes, making tribunal awards generally final rather than subject to a routine appeal."
+        },
+        {
+          "q": "Consider the following statements regarding the River Boards Act, 1956: 1. It provides for the establishment of River Boards for regulation and development of inter-state river valleys. 2. Such boards are established by the Union Government in consultation with concerned State Governments. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>River Boards Act, 1956</b>, enacted under Entry 56 of the Union List, provides for River Boards for the regulation and development of inter-state rivers and river valleys, set up by the Union Government in consultation with state governments."
+        },
+        {
+          "q": "With reference to the Inter-State Council, consider the following statements: 1. It is established under Article 263. 2. Its members include the Prime Minister, Chief Ministers of all States, Chief Ministers/Administrators of Union Territories, and Union Cabinet Ministers nominated by the PM. 3. A Standing Committee of the Council has been constituted for continuous consultation. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct — <b>Article 263</b> gives constitutional backing for the President to establish such a body, its wide-ranging membership includes the PM, state CMs and UT representatives, and a <b>Standing Committee</b> was constituted in 1996 for ongoing consultations."
+        },
+        {
+          "q": "Consider the following statements about Zonal Councils: 1. They are advisory, not executive, bodies. 2. Each Zonal Council covers a group of neighbouring states and Union Territories. 3. They are constitutional bodies established directly under Article 263. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Zonal Councils are advisory bodies covering groups of neighbouring states/UTs — but statement 3 is incorrect since Zonal Councils are <b>statutory bodies</b> set up under the States Reorganisation Act, 1956, not constitutional bodies under Article 263."
+        },
+        {
+          "q": "Which one of the following is NOT a member state of the Northern Zonal Council?",
+          "o": [
+            "Punjab",
+            "Haryana",
+            "Rajasthan",
+            "Maharashtra"
+          ],
+          "a": 3,
+          "e": "<b>Maharashtra</b> is part of the Western Zonal Council, not the Northern Zonal Council, which comprises Punjab, Haryana, Himachal Pradesh, Rajasthan, Delhi, Chandigarh, Jammu & Kashmir and Ladakh."
+        },
+        {
+          "q": "Consider the following statements about Article 301: 1. The freedom guaranteed under this Article applies only to inter-state trade, not intra-state trade. 2. This freedom is subject to other provisions of Part XIII of the Constitution. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 2 is correct; statement 1 is incorrect because <b>Article 301</b> guarantees freedom of trade, commerce and intercourse throughout the territory of India, covering both inter-state and intra-state trade, subject to other provisions of Part XIII."
+        },
+        {
+          "q": "Consider the following statements regarding restrictions on trade and commerce among states: 1. Under Article 304(a), a state can impose a tax on goods imported from other states, provided similar goods manufactured within the state are subject to a similar tax. 2. Under Article 304(b), a State Legislature can impose reasonable restrictions on freedom of trade in public interest, but a bill for this purpose requires prior sanction of the President. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements correctly describe <b>Article 304</b> — clause (a) prevents discriminatory taxation against goods from other states, while clause (b) allows reasonable restrictions in public interest with the President's previous sanction."
+        },
+        {
+          "q": "Consider the following statements about Article 303: 1. It generally prohibits Parliament and State Legislatures from giving preference to one state over another. 2. Parliament may make an exception to this rule to deal with a situation of scarcity of goods in any part of India. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Article 303(1)</b> prohibits discriminatory preference, but <b>Article 303(2)</b> allows Parliament to make an exception in case of scarcity arising in any part of India."
+        },
+        {
+          "q": "Consider the following statements about the 'full faith and credit' clause under Article 261: 1. It requires that final judgments/orders of civil courts in any part of India be capable of execution anywhere in India without fresh proceedings on merits. 2. It applies to the public acts and records of the Union and every State. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements correctly reflect <b>Article 261</b> — final judgments of civil courts are enforceable across India without re-litigation on merits, and public acts and records of the Union and States must be given full faith and credit throughout India."
+        },
+        {
+          "q": "Consider the following statements regarding the Inter-State Council: 1. It was established following a recommendation of the Sarkaria Commission. 2. It can inquire into and advise upon disputes between states. 3. It can discuss subjects of common interest among some or all states, or between the Union and states. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct — the <b>Inter-State Council</b>, set up per the Sarkaria Commission's recommendation, is empowered to inquire into and advise on inter-state disputes and to deliberate on subjects of common interest between states and the Union."
+        },
+        {
+          "q": "Consider the following statements: 1. Article 262 disputes can be excluded from the original jurisdiction of the Supreme Court otherwise available under Article 131. 2. This exclusion applies only if Parliament makes a law to that effect. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Article 262(2)</b> permits Parliament to exclude the jurisdiction of the Supreme Court and other courts (otherwise available under Article 131) over specified inter-state river water disputes, but this exclusion operates only through such a parliamentary law."
+        },
+        {
+          "q": "Consider the following statements about the constitution of Inter-State River Water Disputes Tribunals: 1. A tribunal is constituted by the Central Government when a state government makes a request and normal negotiations fail. 2. The decision of the tribunal is generally final and binding, and not open to routine appeal in the Supreme Court. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct under the framework of the <b>Inter-State River Water Disputes Act, 1956</b>; the Central Government constitutes a tribunal when a request is made and negotiation fails, and tribunal awards are ordinarily final."
+        },
+        {
+          "q": "Consider the following statements about the Zonal Councils: 1. The Chief Secretaries of member states act as advisers to the Council. 2. The Zonal Councils discuss matters of common interest such as economic and social planning, border disputes, and linguistic minorities. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Chief Secretaries and another officer/adviser nominated by each member state assist the <b>Zonal Councils</b>, which discuss issues like economic and social planning, border disputes, and problems of linguistic minorities."
+        },
+        {
+          "q": "Consider the following statements: 1. The doctrine of 'compensatory taxation' holds that a tax which is merely a recompense for services/facilities provided does not violate Article 301. 2. This doctrine was evolved in the Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan case. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — in <b>Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan (1962)</b>, the Supreme Court held that regulatory and compensatory taxes, which merely facilitate trade by providing services, do not amount to a restriction under Article 301."
+        },
+        {
+          "q": "Consider the following statements about Article 305: 1. It saves existing laws and laws providing for state monopolies from the operation of Articles 301 and 303. 2. It allows continuation of monopoly rights of the State or a corporation owned/controlled by the State in a business, trade or industry. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Article 305</b> saves certain existing laws and permits State monopolies (in favour of the State or a state-owned/controlled corporation) from the rigours of the freedom of trade provisions."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "In Atiabari Tea Co. Ltd. v. State of Assam (1961), the Supreme Court held that:",
+          "o": [
+            "Taxes can never amount to a restriction on the freedom of trade under Article 301",
+            "Taxes that directly and immediately restrict the free flow of trade violate Article 301 unless saved by other provisions",
+            "Article 301 applies only to inter-state trade, not intra-state trade",
+            "Article 262 bars judicial review of tax laws"
+          ],
+          "a": 1,
+          "e": "In <b>Atiabari Tea Co. Ltd. v. State of Assam (1961)</b>, the Supreme Court held that taxes which directly and immediately restrict the free movement or flow of trade fall within the scope of Article 301, unless saved by other constitutional provisions like Article 304."
+        },
+        {
+          "q": "In Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan (1962), the Supreme Court refined the Atiabari ruling by introducing which doctrine?",
+          "o": [
+            "Doctrine of pith and substance",
+            "Doctrine of compensatory/regulatory taxation",
+            "Doctrine of eclipse",
+            "Doctrine of colourable legislation"
+          ],
+          "a": 1,
+          "e": "In <b>Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan (1962)</b>, a seven-judge bench held that regulatory and compensatory taxes, which facilitate rather than hinder trade, do not violate Article 301, refining the broad rule laid down in Atiabari Tea Co."
+        },
+        {
+          "q": "The nine-judge Constitution Bench in Jindal Stainless Ltd. v. State of Haryana (2016) primarily reconsidered which doctrine in the context of Article 304?",
+          "o": [
+            "Doctrine of basic structure",
+            "Doctrine of compensatory taxation and the validity of entry taxes",
+            "Doctrine of severability",
+            "Doctrine of pleasure"
+          ],
+          "a": 1,
+          "e": "In <b>Jindal Stainless Ltd. v. State of Haryana (2016)</b>, a nine-judge bench held that entry tax on goods entering a state does not automatically violate Article 301 merely because it is not 'compensatory,' effectively discarding the earlier strict compensatory tax test and focusing on discrimination under Article 304(a)."
+        },
+        {
+          "q": "Which of the following statements about Article 262(2) is correct?",
+          "o": [
+            "It gives exclusive jurisdiction over inter-state river disputes to the High Courts",
+            "It allows Parliament to exclude the jurisdiction of the Supreme Court and all other courts over specified inter-state river water disputes",
+            "It mandates compulsory arbitration by the United Nations",
+            "It applies only to disputes involving Union Territories"
+          ],
+          "a": 1,
+          "e": "<b>Article 262(2)</b> is a rare instance where the Constitution allows Parliament to expressly exclude the jurisdiction of the Supreme Court (which would otherwise have original jurisdiction under Article 131) over inter-state water disputes."
+        },
+        {
+          "q": "Despite Parliament's power under Article 262(2) to bar court jurisdiction over inter-state water disputes, the Supreme Court has, in practice, entertained challenges to Tribunal awards using which provision?",
+          "o": [
+            "Article 131",
+            "Article 136 (Special Leave Petition)",
+            "Article 32",
+            "Article 226"
+          ],
+          "a": 1,
+          "e": "Although Article 262(2) can oust ordinary jurisdiction over water dispute matters, the Supreme Court has held that this does not bar its special leave jurisdiction under <b>Article 136</b>, and it has entertained SLPs against tribunal awards, such as in the Cauvery water dispute."
+        },
+        {
+          "q": "Consider the following statements about the Standing Committee of the Inter-State Council: 1. It was constituted in 1996 to process matters for the consideration of the Council. 2. It is chaired by the Union Home Minister. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Standing Committee</b> of the Inter-State Council was constituted in 1996 for continuous consultation and processing of matters, and it is chaired by the Union Home Minister."
+        },
+        {
+          "q": "Which of the following correctly describes the Chairman/Vice-Chairman arrangement of the Zonal Councils?",
+          "o": [
+            "The Union Home Minister is the common Chairman of all Zonal Councils; Chief Ministers of member states act as Vice-Chairman by rotation",
+            "The Prime Minister is the Chairman of all Zonal Councils; Governors act as Vice-Chairmen",
+            "The President is the Chairman; the Union Home Minister is the Vice-Chairman",
+            "The NITI Aayog Vice-Chairman chairs all Zonal Councils"
+          ],
+          "a": 0,
+          "e": "The <b>Union Home Minister</b> is the common Chairman for each of the five Zonal Councils, while the Chief Ministers of the member states of each zone act as its Vice-Chairman by annual rotation."
+        },
+        {
+          "q": "Which of the following statements regarding the historical origin of Zonal Councils is correct?",
+          "o": [
+            "They were conceived to foster cooperative habits and offset the fissiparous tendencies arising from linguistic reorganisation of states",
+            "They were created by the Sarkaria Commission in 1988",
+            "They are a continuation of the pre-independence Chamber of Princes",
+            "They were established as courts under Article 131"
+          ],
+          "a": 0,
+          "e": "<b>Zonal Councils</b> were conceived to foster cooperative habits and offset the fissiparous tendencies of linguistic reorganisation of states, and were subsequently established through the States Reorganisation Act, 1956."
+        },
+        {
+          "q": "Consider the following statements about Article 263 vis-a-vis Article 131: 1. Article 263 is intended to inquire into and advise on disputes, while Article 131 confers original jurisdiction on the Supreme Court to adjudicate disputes between the Union and states or among states. 2. Recommendations of a body under Article 263 are legally binding on the parties, similar to a Supreme Court decree under Article 131. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct; statement 2 is incorrect because a body set up under <b>Article 263</b>, such as the Inter-State Council, has only <b>advisory/recommendatory</b> powers, unlike the Supreme Court's binding adjudicatory powers under Article 131."
+        },
+        {
+          "q": "Which of the following is NOT correct regarding Articles 301-307 (freedom of trade, commerce and intercourse)?",
+          "o": [
+            "Article 301 freedom is available against both legislative and executive action",
+            "Article 302 permits only Parliament, not State Legislatures, to impose restrictions in public interest",
+            "Article 303 permits unrestricted discriminatory legislation in favour of any state",
+            "Article 304 allows states to impose non-discriminatory taxes on goods from other states"
+          ],
+          "a": 2,
+          "e": "<b>Article 303</b> explicitly prohibits both Parliament and State Legislatures from giving preference to one state over another or discriminating between states, except when Parliament declares an exception due to scarcity — hence the statement that it permits unrestricted discrimination is incorrect."
+        },
+        {
+          "q": "Which body, apart from the Sarkaria and Punchhi Commissions, made recommendations to strengthen the Inter-State Council and Centre-State coordination mechanisms?",
+          "o": [
+            "Second Administrative Reforms Commission (2nd ARC)",
+            "Rajamannar Committee",
+            "Balwant Rai Mehta Committee",
+            "Ashok Mehta Committee"
+          ],
+          "a": 0,
+          "e": "The <b>Second Administrative Reforms Commission (2nd ARC)</b>, in its report on 'Centre-State Relations,' also made recommendations to strengthen the functioning of the Inter-State Council and improve Centre-State coordination."
+        },
+        {
+          "q": "With reference to Article 304(b), consider the following statements: 1. A bill for imposing reasonable restrictions on trade in public interest requires the previous sanction of the President before introduction in the State Legislature. 2. Courts can still examine whether the restriction is 'reasonable' and in the 'public interest,' irrespective of the President's sanction. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — while a State Legislature bill under <b>Article 304(b)</b> needs the President's prior sanction, courts retain the power of judicial review to assess whether the restriction is genuinely 'reasonable' and in the 'public interest.'"
+        },
+        {
+          "q": "Which of the following best distinguishes 'freedom of trade and commerce' under Article 301 from the fundamental right under Article 19(1)(g)?",
+          "o": [
+            "Article 301 protects the free flow of trade as part of the economic unity of India and is available to citizens and non-citizens engaged in trade, whereas Article 19(1)(g) is a Fundamental Right available to citizens only",
+            "Article 301 applies only to citizens",
+            "Article 19(1)(g) is not subject to any reasonable restrictions",
+            "Article 301 is a Directive Principle while Article 19(1)(g) is a Fundamental Right"
+          ],
+          "a": 0,
+          "e": "<b>Article 301</b> guarantees a broader freedom of trade, commerce and intercourse as part of the constitutional scheme for economic unity, available to citizens and non-citizens alike, whereas <b>Article 19(1)(g)</b>, a Fundamental Right, protects only citizens' right to practise any profession, trade or business."
+        },
+        {
+          "q": "In which of the following cases did the Supreme Court hold that regulatory measures, including reasonable traffic regulations and compensatory taxes/fees for maintaining roads, do not amount to a restriction on freedom of trade under Article 301?",
+          "o": [
+            "Atiabari Tea Co. Ltd. v. State of Assam",
+            "Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan",
+            "State of Madras v. V.G. Row",
+            "Indira Gandhi v. Raj Narain"
+          ],
+          "a": 1,
+          "e": "In <b>Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan (1962)</b>, the Supreme Court clarified that regulatory measures, including reasonable traffic regulation and compensatory taxes/fees for maintaining roads, do not constitute a restriction on the freedom guaranteed under Article 301."
+        },
+        {
+          "q": "Consider the following statements: 1. Article 262 covers disputes relating to the use, distribution or control of waters of any inter-state river or river valley. 2. The Cauvery, Krishna, Godavari, Narmada, and Ravi-Beas disputes have all been referred to tribunals constituted under the Inter-State River Water Disputes Act, 1956. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Article 262</b> covers disputes over the use, distribution or control of inter-state river/valley waters, and prominent tribunals for the Cauvery, Krishna, Godavari, Narmada and Ravi-Beas disputes have all been constituted under the <b>Inter-State River Water Disputes Act, 1956</b>."
+        }
+      ]
+    }
+  },
+  {
+    "id": "emergency_provisions",
+    "title": "Emergency Provisions",
+    "desc": "National, State and Financial Emergency under Articles 352-360",
+    "questions": {
+      "basic": [
+        {
+          "q": "How many types of emergency are provided for in the Indian Constitution?",
+          "o": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "a": 1,
+          "e": "The Constitution provides for <b>three types of emergency</b> — National Emergency (Article 352), President's Rule/State Emergency (Article 356), and Financial Emergency (Article 360)."
+        },
+        {
+          "q": "Emergency provisions in the Indian Constitution are contained in which Part?",
+          "o": [
+            "Part XVI",
+            "Part XVII",
+            "Part XVIII",
+            "Part XIX"
+          ],
+          "a": 2,
+          "e": "<b>Part XVIII</b> (Articles 352 to 360) of the Constitution contains the Emergency Provisions."
+        },
+        {
+          "q": "National Emergency under Article 352 can be declared on which of the following grounds?",
+          "o": [
+            "War, external aggression, or armed rebellion",
+            "Failure of constitutional machinery in a state",
+            "Threat to financial stability of India",
+            "Breakdown of law and order in any district"
+          ],
+          "a": 0,
+          "e": "<b>Article 352</b> allows the President to declare a National Emergency if the security of India or any part is threatened by <b>war, external aggression, or armed rebellion</b>."
+        },
+        {
+          "q": "The term 'armed rebellion' replaced which earlier term in Article 352, through the 44th Amendment Act, 1978?",
+          "o": [
+            "Internal disturbance",
+            "Civil unrest",
+            "Public disorder",
+            "National calamity"
+          ],
+          "a": 0,
+          "e": "The <b>44th Amendment Act, 1978</b> replaced the term '<b>internal disturbance</b>' with 'armed rebellion' in Article 352 to prevent misuse of the National Emergency provision, following the 1975 emergency."
+        },
+        {
+          "q": "How many times has a National Emergency under Article 352 been declared in India so far?",
+          "o": [
+            "Once",
+            "Twice",
+            "Three times",
+            "Four times"
+          ],
+          "a": 2,
+          "e": "A National Emergency has been declared <b>three times</b> — in 1962 (Chinese aggression), 1971 (Pakistan war), and 1975 (internal disturbance)."
+        },
+        {
+          "q": "A proclamation of National Emergency must be approved by both Houses of Parliament within how many months, as per the 44th Amendment?",
+          "o": [
+            "One month",
+            "Two months",
+            "Three months",
+            "Six months"
+          ],
+          "a": 0,
+          "e": "As per the <b>44th Amendment Act, 1978</b>, a proclamation of National Emergency must be approved by both Houses of Parliament within <b>one month</b> (reduced from the original two months)."
+        },
+        {
+          "q": "A National Emergency, once approved by Parliament, continues for how long before requiring renewal?",
+          "o": [
+            "Three months",
+            "Six months",
+            "One year",
+            "Two years"
+          ],
+          "a": 1,
+          "e": "Once approved, a National Emergency continues for <b>six months</b> at a time and can be extended indefinitely with parliamentary approval every six months."
+        },
+        {
+          "q": "President's Rule in a State is imposed under which Article?",
+          "o": [
+            "Article 352",
+            "Article 356",
+            "Article 360",
+            "Article 365"
+          ],
+          "a": 1,
+          "e": "<b>Article 356</b> provides for the imposition of President's Rule in a state on the failure of constitutional machinery there."
+        },
+        {
+          "q": "A proclamation under Article 356 must be approved by Parliament within how many months?",
+          "o": [
+            "One month",
+            "Two months",
+            "Six months",
+            "One year"
+          ],
+          "a": 1,
+          "e": "A proclamation under <b>Article 356</b> must be approved by both Houses of Parliament within <b>two months</b> of its issue."
+        },
+        {
+          "q": "What is the maximum period for which President's Rule can normally continue in a state?",
+          "o": [
+            "One year",
+            "Two years",
+            "Three years",
+            "No maximum limit"
+          ],
+          "a": 2,
+          "e": "President's Rule can normally be extended for a maximum period of <b>three years</b>, subject to conditions introduced by the 44th Amendment for extensions beyond one year."
+        },
+        {
+          "q": "Financial Emergency is provided for under which Article?",
+          "o": [
+            "Article 352",
+            "Article 356",
+            "Article 360",
+            "Article 365"
+          ],
+          "a": 2,
+          "e": "<b>Article 360</b> provides for the declaration of a Financial Emergency if the President is satisfied that the financial stability or credit of India or any part of its territory is threatened."
+        },
+        {
+          "q": "How many times has a Financial Emergency under Article 360 been declared in India so far?",
+          "o": [
+            "Never",
+            "Once",
+            "Twice",
+            "Three times"
+          ],
+          "a": 0,
+          "e": "A <b>Financial Emergency</b> under Article 360 has <b>never</b> been declared in India so far."
+        },
+        {
+          "q": "Which Article provides for automatic suspension of Fundamental Rights under Article 19 during a National Emergency declared on grounds of war or external aggression?",
+          "o": [
+            "Article 356",
+            "Article 358",
+            "Article 359",
+            "Article 360"
+          ],
+          "a": 1,
+          "e": "<b>Article 358</b> provides that the freedoms under Article 19 are automatically suspended during a National Emergency declared on the ground of war or external aggression (not armed rebellion, after the 44th Amendment)."
+        },
+        {
+          "q": "Under Article 359, the right to move courts for enforcement of which two Fundamental Rights cannot be suspended even during a National Emergency?",
+          "o": [
+            "Articles 14 and 19",
+            "Articles 20 and 21",
+            "Articles 21 and 22",
+            "Articles 32 and 226"
+          ],
+          "a": 1,
+          "e": "The 44th Amendment inserted a proviso to Article 359 stating that the right to move courts for enforcement of Fundamental Rights under <b>Articles 20 and 21</b> cannot be suspended even during a National Emergency."
+        },
+        {
+          "q": "Which landmark case laid down guidelines on the exercise of power under Article 356 and made it subject to judicial review?",
+          "o": [
+            "Kesavananda Bharati case",
+            "S.R. Bommai case",
+            "Minerva Mills case",
+            "Golaknath case"
+          ],
+          "a": 1,
+          "e": "In <b>S.R. Bommai v. Union of India (1994)</b>, the Supreme Court held that the President's proclamation under Article 356 is subject to judicial review and laid down detailed guidelines to check its misuse."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements about the National Emergency of 1975: 1. It was declared on the ground of 'internal disturbance.' 2. It was proclaimed while the emergency of 1971 (declared on grounds of external aggression) was still in operation. 3. It led to the 44th Amendment Act which introduced significant safeguards against misuse of Article 352. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct — the 1975 Emergency was declared citing '<b>internal disturbance</b>' while the 1971 emergency was technically still continuing, and the excesses of this period led to the <b>44th Amendment Act, 1978</b>, which introduced key safeguards."
+        },
+        {
+          "q": "Consider the following statements regarding safeguards added by the 44th Amendment to Article 352: 1. The President can proclaim emergency only on the written recommendation of the Union Cabinet. 2. The proclamation must be approved by Parliament through a special majority. 3. One-tenth of Lok Sabha members can requisition a special sitting to consider a resolution disapproving the emergency. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements correctly describe safeguards introduced by the <b>44th Amendment</b>: written Cabinet recommendation, special majority for parliamentary approval, and the provision allowing one-tenth of Lok Sabha members to demand a special sitting to disapprove continuance of the emergency."
+        },
+        {
+          "q": "Consider the following statements about the special majority required to approve a National Emergency proclamation: 1. It requires a majority of the total membership of the House. 2. It also requires a majority of not less than two-thirds of members present and voting. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — approval of a National Emergency proclamation under Article 352 requires a <b>special majority</b>: a majority of the total membership of each House and a majority of not less than two-thirds of members present and voting."
+        },
+        {
+          "q": "Consider the following statements comparing Article 352 and Article 356: 1. Approval of a National Emergency proclamation requires special majority in Parliament, while approval of a President's Rule proclamation requires only simple majority. 2. A National Emergency can be imposed on the whole of India or a part of it, whereas President's Rule applies to a whole state or part of a state. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Article 352</b> requires special majority approval while <b>Article 356</b> requires only simple majority, and both provisions can apply to the whole or a part of the territory concerned."
+        },
+        {
+          "q": "Consider the following statements about the effects of a National Emergency: 1. The Centre can give directions to the states on any matter. 2. Parliament can legislate on any subject in the State List. 3. The term of the Lok Sabha can be extended by one year at a time during the emergency, subject to a maximum of six months after the emergency ceases to operate. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements correctly describe effects of a National Emergency — the Centre gains power to direct states on any matter, Parliament can legislate on State List subjects, and the Lok Sabha's term can be extended by up to <b>one year at a time</b> (not beyond six months after the emergency ends)."
+        },
+        {
+          "q": "Consider the following statements regarding the difference between Articles 358 and 359: 1. Article 358 suspends Fundamental Rights under Article 19 automatically upon proclamation of an emergency on grounds of war/external aggression. 2. Article 359 requires a separate Presidential order to suspend the enforcement of other Fundamental Rights (except Articles 20 and 21) during a National Emergency. 3. Article 358 applies to a National Emergency declared on any of the three grounds — war, external aggression or armed rebellion. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct; statement 3 is incorrect because after the 44th Amendment, <b>Article 358</b> applies only when the emergency is declared on grounds of war or external aggression, not armed rebellion."
+        },
+        {
+          "q": "Consider the following regarding extension of President's Rule beyond one year in a state: 1. It requires that a National Emergency be in operation in the whole of India or in the whole or part of the state. 2. It requires the Election Commission to certify that holding general elections to the state legislative assembly is difficult due to prevailing conditions. Which of the following is correct regarding these conditions?",
+          "o": [
+            "Only one of the two conditions is required and must always be the first one",
+            "Both conditions must be satisfied simultaneously",
+            "Either of the two conditions is sufficient for extension beyond one year",
+            "Neither condition is required; extension is automatic"
+          ],
+          "a": 2,
+          "e": "Under safeguards introduced by the 44th Amendment, extension of President's Rule beyond one year requires that <b>either</b> a National Emergency be in operation, <b>or</b> the Election Commission certify difficulty in holding state elections — either condition being sufficient."
+        },
+        {
+          "q": "Consider the following statements about the effects of President's Rule: 1. The President can assume to himself all or any of the functions of the state government. 2. The President can declare that the powers of the state legislature shall be exercised by Parliament. 3. The President can suspend, in whole or part, the constitutional provisions relating to the High Court of the state. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 correctly describe effects under Article 356, but statement 3 is incorrect — Article 356 explicitly provides that the President <b>cannot</b> assume any of the powers vested in a state High Court or suspend constitutional provisions relating to it."
+        },
+        {
+          "q": "Consider the following statements about Financial Emergency under Article 360: 1. It can be declared if the President is satisfied that the financial stability or credit of India or any part of it is threatened. 2. A proclamation of Financial Emergency, once approved by Parliament, must be re-approved every six months, like a National Emergency. 3. During a Financial Emergency, salaries of judges of the Supreme Court and High Courts can be reduced. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct, but statement 2 is incorrect — unlike a National Emergency, a <b>Financial Emergency</b> proclamation, once approved by Parliament, continues indefinitely until revoked, with no requirement of periodic re-approval."
+        },
+        {
+          "q": "Consider the following statements: 1. A resolution approving the continuation of National Emergency must be passed by each House of Parliament separately. 2. If the Lok Sabha is dissolved during the period allowed for approving a proclamation without approving it, the emergency lapses immediately. 3. The proclamation survives if the Rajya Sabha has approved it, and the newly constituted Lok Sabha approves within 30 days of its first sitting. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct; statement 2 is incorrect because if the Lok Sabha is dissolved without approving the proclamation, it does not lapse immediately — it survives if approved by the <b>Rajya Sabha</b> and later approved by the newly constituted Lok Sabha within <b>30 days</b> of its first sitting."
+        },
+        {
+          "q": "Consider the following statements comparing the three types of emergency: 1. National Emergency, President's Rule and Financial Emergency proclamations must all be laid before Parliament for approval within a specified period. 2. All three emergencies can be revoked by a subsequent Presidential proclamation. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — all three types of emergency proclamations require Parliamentary approval within a specified period (one month for National Emergency, two months for the other two) and can be revoked by a subsequent proclamation."
+        },
+        {
+          "q": "Consider the following statements regarding grounds for imposing President's Rule: 1. It can be imposed if a state government fails to comply with directions given by the Union under Article 365. 2. It requires a report from the Governor of the state, and cannot be imposed otherwise. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct, since <b>Article 365</b> deems failure to comply with Union directions as a situation where constitutional machinery has failed, justifying President's Rule; statement 2 is incorrect because Article 356 allows the President to act 'on receipt of a report from the Governor of a state, <b>or otherwise</b>,' meaning a Governor's report is not mandatory."
+        },
+        {
+          "q": "Consider the following statements about judicial review of emergency proclamations after the 44th Amendment and the Bommai judgment: 1. Courts can examine whether there was any material justifying the proclamation. 2. Courts can go into the sufficiency or adequacy of the material relied upon by the President. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — following <b>S.R. Bommai</b>, courts can examine whether relevant material existed to justify a proclamation and can strike it down if it is mala fide or based on wholly irrelevant grounds; statement 2 is incorrect because courts generally do not examine the sufficiency or adequacy of the material, only its relevance and existence."
+        },
+        {
+          "q": "Which of the following statements about the term 'President's Rule' is correct?",
+          "o": [
+            "It is explicitly used in the text of Article 356",
+            "It is a popular/informal term for the situation arising from a proclamation under Article 356",
+            "It refers only to imposition of a Financial Emergency in a state",
+            "It refers to rule by the Governor without any Presidential proclamation"
+          ],
+          "a": 1,
+          "e": "'<b>President's Rule</b>' is a popular, informal term used to describe the situation arising from a proclamation under Article 356; the Constitution itself does not use this exact phrase."
+        },
+        {
+          "q": "Consider the following statements: 1. During a National Emergency, the distribution of revenues between the Union and States can be modified by order of the President. 2. This modification must be placed before Parliament and remains valid only till the end of the financial year in which the emergency ceases. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — under <b>Article 354</b>, the President can modify constitutional provisions on distribution of revenues between the Union and states during a National Emergency, and such modification must be laid before Parliament and remains in force only until the end of the financial year in which the emergency ends."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "In S.R. Bommai v. Union of India (1994), a nine-judge bench of the Supreme Court held that:",
+          "o": [
+            "Article 356 proclamations are wholly non-justiciable political questions",
+            "The floor of the Legislative Assembly, not the Governor's subjective satisfaction, is the appropriate forum to test whether a government has lost majority",
+            "The President can dissolve a state assembly at will without any judicial scrutiny",
+            "Secularism is not a part of the basic structure of the Constitution"
+          ],
+          "a": 1,
+          "e": "In <b>S.R. Bommai v. Union of India (1994)</b>, the Supreme Court held that a floor test in the Assembly, not the subjective assessment of the Governor, is the constitutionally proper way to determine whether a government enjoys majority support, and that misuse of Article 356 is subject to judicial review."
+        },
+        {
+          "q": "In the S.R. Bommai case, the Supreme Court also held which of the following regarding secularism?",
+          "o": [
+            "Secularism has no constitutional status in India",
+            "Secularism is a part of the basic structure of the Constitution, and a state government's anti-secular actions can justify action under Article 356",
+            "Secularism applies only to the Union Government, not state governments",
+            "The Constitution mandates a specific state religion"
+          ],
+          "a": 1,
+          "e": "The Supreme Court in <b>S.R. Bommai</b> held that secularism is a part of the <b>basic structure</b> of the Constitution, and that a state government acting against secular principles could validly invite action under Article 356."
+        },
+        {
+          "q": "In Rameshwar Prasad v. Union of India (2006), the Supreme Court examined the constitutional validity of which action?",
+          "o": [
+            "Imposition of Financial Emergency in Bihar",
+            "Dissolution of the Bihar Legislative Assembly in 2005 on the Governor's recommendation, before it had even held its first sitting",
+            "Suspension of Fundamental Rights during the 1975 Emergency",
+            "Removal of a Chief Minister without a floor test in Karnataka"
+          ],
+          "a": 1,
+          "e": "In <b>Rameshwar Prasad v. Union of India (2006)</b>, the Supreme Court held the dissolution of the Bihar Legislative Assembly in 2005 (on the Governor's recommendation, to prevent a coalition from staking claim to government) to be unconstitutional and mala fide, though it did not restore the dissolved assembly since fresh elections had already been held."
+        },
+        {
+          "q": "Which case, prior to S.R. Bommai, first examined the question of justiciability of a proclamation under Article 356?",
+          "o": [
+            "Golaknath v. State of Punjab",
+            "State of Rajasthan v. Union of India (1977)",
+            "Minerva Mills v. Union of India",
+            "Indira Gandhi v. Raj Narain"
+          ],
+          "a": 1,
+          "e": "In <b>State of Rajasthan v. Union of India (1977)</b>, the Supreme Court examined the issue of justiciability of Article 356 proclamations, largely treating the President's satisfaction as a political question, a position substantially revised later in <b>S.R. Bommai (1994)</b>."
+        },
+        {
+          "q": "With reference to the 38th Amendment Act, 1975, which of the following is correct?",
+          "o": [
+            "It made the President's satisfaction under Articles 352, 356 and 360 final and conclusive, not questionable in any court",
+            "This provision was later deleted by the 44th Amendment Act, 1978, restoring the scope for judicial review",
+            "Both of the above",
+            "Neither of the above"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>38th Amendment (1975)</b> had made the President's satisfaction under the emergency provisions non-justiciable, but this was reversed by the <b>44th Amendment Act, 1978</b>, restoring the scope for judicial review."
+        },
+        {
+          "q": "With reference to the history of the maximum duration of President's Rule under Article 356, consider the following statements: 1. The original Constitution capped the total duration of a single proclamation at one year. 2. The 42nd Amendment Act, 1976 extended this maximum duration to five years. 3. The 44th Amendment Act, 1978 reduced the maximum duration back to three years and introduced additional conditions for extension beyond one year. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct — the original one-year cap on President's Rule was extended to five years by the <b>42nd Amendment (1976)</b>, and the <b>44th Amendment (1978)</b> restored the three-year ceiling while adding conditions (an operative national emergency, or an Election Commission certification of election difficulty) for extension beyond one year."
+        },
+        {
+          "q": "Consider the following statements about the 'one-tenth Lok Sabha members' provision to disapprove continuation of an Emergency: 1. It was inserted by the 44th Amendment Act, 1978. 2. Notice in writing must be given to the Speaker (if Parliament is in session) or the President (if Parliament is not in session). 3. The special sitting must be held within fourteen days of receipt of notice. Which are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct — this safeguard, inserted by the <b>44th Amendment</b>, requires notice to the Speaker or President as applicable, and mandates that the special sitting to consider disapproval be convened within <b>fourteen days</b>."
+        },
+        {
+          "q": "Which of the following statements about the effect of a National Emergency proclamation on Article 19 rights is most accurate, post-44th Amendment?",
+          "o": [
+            "Article 19 rights remain suspended for the entire duration of any National Emergency, irrespective of the ground",
+            "Article 19 rights are suspended only when the Emergency is proclaimed on the ground of war or external aggression, not armed rebellion",
+            "Article 19 rights can never be suspended under any circumstances",
+            "Article 19 rights are suspended only in states under President's Rule"
+          ],
+          "a": 1,
+          "e": "After the 44th Amendment restricted the scope of <b>Article 358</b>, the automatic suspension of Article 19 rights applies only when the National Emergency is declared on the ground of war or external aggression, not when declared on the ground of armed rebellion."
+        },
+        {
+          "q": "Which of the following statements correctly reflects a key distinction between Articles 358 and 359 regarding suspension of Fundamental Rights?",
+          "o": [
+            "Article 358 automatically suspends specific rights (Article 19) for the whole country during a qualifying emergency, while Article 359 only suspends the enforcement (right to move court) of specified rights, through a separate Presidential order",
+            "Article 358 requires a separate Presidential Order while Article 359 operates automatically",
+            "Article 359 permanently extinguishes Fundamental Rights",
+            "Article 358 applies to Directive Principles, not Fundamental Rights"
+          ],
+          "a": 0,
+          "e": "<b>Article 358</b> automatically suspends the freedoms under Article 19 for the whole country during a qualifying emergency, while <b>Article 359</b> only suspends the enforcement/right to move courts for specified Fundamental Rights, through a separate Presidential order, which can be limited to specific parts of the country and a specific period."
+        },
+        {
+          "q": "In which case did the Supreme Court controversially hold, before the 44th Amendment, that the right to move courts for enforcement of Article 21 could remain suspended during the Emergency — a ruling later effectively reversed?",
+          "o": [
+            "ADM Jabalpur v. Shivkant Shukla (1976)",
+            "Maneka Gandhi v. Union of India (1978)",
+            "Kesavananda Bharati v. State of Kerala (1973)",
+            "Minerva Mills v. Union of India (1980)"
+          ],
+          "a": 0,
+          "e": "In <b>ADM Jabalpur v. Shivkant Shukla (1976)</b> (the 'Habeas Corpus case'), the majority held that the right to move courts for enforcement of Article 21 could remain suspended during the Emergency; this position was effectively reversed by the 44th Amendment (proviso to Article 359) and later disapproved by the Supreme Court in <b>K.S. Puttaswamy v. Union of India (2017)</b>."
+        },
+        {
+          "q": "Consider the following statements about the imposition of President's Rule based on the Bommai guidelines: 1. The Governor's report must be based on objective material and is subject to judicial scrutiny. 2. Dismissal of a state government solely because it lost majority support in an election to the Lok Sabha (not the state assembly) would be an example of misuse struck down by courts. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements reflect established post-Bommai jurisprudence — the Governor's satisfaction/report must be based on relevant, objective material subject to judicial review, and using unrelated grounds, like a state party's poor performance in Lok Sabha elections, to dismiss a state government is not a valid basis for invoking Article 356."
+        },
+        {
+          "q": "With reference to Financial Emergency (Article 360), consider the following statements: 1. During its operation, the President can direct that all Money Bills/Financial Bills passed by state legislatures be reserved for his consideration. 2. It can lead to reduction in salaries and allowances of persons serving the Union and the states, including judges of the Supreme Court and High Courts. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — during a <b>Financial Emergency</b>, the President can direct reservation of Money/Financial Bills from states for his consideration and can order a reduction in salaries and allowances of persons serving the Union and states, including judges of constitutional courts."
+        },
+        {
+          "q": "Which of the following is true regarding the term of the Lok Sabha and Emergency provisions?",
+          "o": [
+            "Parliament can extend the normal five-year term of the Lok Sabha by one year at a time during the operation of a National Emergency, but not beyond six months after the emergency ceases",
+            "The term of the Lok Sabha can never be extended under any circumstances",
+            "A National Emergency automatically dissolves the Lok Sabha",
+            "State Assemblies' terms can never be extended, only the Lok Sabha's term can be extended"
+          ],
+          "a": 0,
+          "e": "Under a proviso to <b>Article 83(2)</b>, during the operation of a National Emergency, Parliament may extend the term of the Lok Sabha by law for one year at a time, but any such extension cannot continue beyond six months after the emergency has ceased to operate."
+        },
+        {
+          "q": "Which of the following statements about the 1975 Emergency and subsequent constitutional developments is correct?",
+          "o": [
+            "The 42nd Amendment Act, 1976, enacted during the Emergency, made several changes strengthening the Centre and curtailing judicial review, some of which were later reversed by the 44th Amendment",
+            "The 1975 Emergency led directly to the framing of the original Constitution's emergency provisions",
+            "The Emergency of 1975 was declared on the ground of war with Pakistan",
+            "The 44th Amendment was enacted during the Emergency itself"
+          ],
+          "a": 0,
+          "e": "The <b>42nd Amendment Act, 1976</b>, passed during the Emergency, made sweeping changes including curtailing judicial review and strengthening central power; many of these changes were subsequently diluted or reversed by the <b>44th Amendment Act, 1978</b>, enacted after the Emergency ended."
+        },
+        {
+          "q": "Consider the following statements about 'Governor's Rule' as historically used in Jammu & Kashmir (as it then was): 1. It was a distinct mechanism under the erstwhile separate state constitutional arrangement, invoked before President's Rule under Article 356 could apply there. 2. Article 356 is the standard uniform provision applicable for imposing central rule on failure of constitutional machinery in other states. Which are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are broadly correct — 'Governor's Rule' was historically a distinct mechanism under Jammu & Kashmir's earlier separate constitutional arrangement, invoked before Article 356 President's Rule could be applied there, whereas Article 356 is the standard provision applicable across other states."
+        }
+      ]
+    }
+  }
+]
