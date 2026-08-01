@@ -1,0 +1,2430 @@
+[
+  {
+    "id": "eco_trade_fdi",
+    "title": "Foreign Trade Policy, FDI & FPI",
+    "desc": "Trade policy, SEZs, FDI/FPI and capital convertibility",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which government body is primarily responsible for implementing and monitoring India's Foreign Trade Policy?",
+          "o": [
+            "Reserve Bank of India",
+            "Directorate General of Foreign Trade (DGFT)",
+            "Securities and Exchange Board of India",
+            "NITI Aayog"
+          ],
+          "a": 1,
+          "e": "The <b>Directorate General of Foreign Trade (DGFT)</b>, under the Ministry of Commerce and Industry, implements and administers India's Foreign Trade Policy."
+        },
+        {
+          "q": "A key departure of the Foreign Trade Policy (FTP) 2023 from earlier Exim Policies is that it:",
+          "o": [
+            "Fixes a five-year validity period",
+            "Has no terminal date and is dynamic, updated as needed",
+            "Is administered by the Ministry of Finance",
+            "Applies only to Special Economic Zones"
+          ],
+          "a": 1,
+          "e": "Unlike earlier five-year Exim Policies, <b>FTP 2023</b> has no terminal date, allowing continuous, need-based revisions instead of periodic overhauls."
+        },
+        {
+          "q": "In which year was the Export-Import Bank of India (EXIM Bank) established?",
+          "o": [
+            "1975",
+            "1982",
+            "1991",
+            "2005"
+          ],
+          "a": 1,
+          "e": "<b>EXIM Bank</b> was established in <b>1982</b> under the Export-Import Bank of India Act, 1981."
+        },
+        {
+          "q": "The Export-Import Bank of India was set up under which legislation?",
+          "o": [
+            "Export-Import Bank of India Act, 1981",
+            "SEZ Act, 2005",
+            "Foreign Exchange Management Act, 1999",
+            "Banking Regulation Act, 1949"
+          ],
+          "a": 0,
+          "e": "EXIM Bank was constituted under the <b>Export-Import Bank of India Act, 1981</b>, and commenced operations in 1982."
+        },
+        {
+          "q": "EXIM Bank of India is best described as:",
+          "o": [
+            "A private merchant bank",
+            "A wholly government-owned apex export finance institution",
+            "A joint venture between RBI and SBI",
+            "A subsidiary of the World Bank"
+          ],
+          "a": 1,
+          "e": "EXIM Bank is a <b>wholly government-owned</b> apex financial institution set up to finance, facilitate and promote India's foreign trade."
+        },
+        {
+          "q": "The Special Economic Zones (SEZ) Act was enacted in:",
+          "o": [
+            "2000",
+            "2003",
+            "2005",
+            "2008"
+          ],
+          "a": 2,
+          "e": "The <b>SEZ Act, 2005</b> provided the legal framework for setting up Special Economic Zones in India."
+        },
+        {
+          "q": "The SEZ Rules, which operationalised the SEZ Act, came into effect in:",
+          "o": [
+            "2004",
+            "2006",
+            "2010",
+            "2014"
+          ],
+          "a": 1,
+          "e": "The <b>SEZ Rules, 2006</b> came into force to operationalise the provisions of the SEZ Act, 2005."
+        },
+        {
+          "q": "Asia's first Export Processing Zone (EPZ), established in 1965, was located at:",
+          "o": [
+            "Kandla",
+            "Noida",
+            "Cochin",
+            "Vishakhapatnam"
+          ],
+          "a": 0,
+          "e": "<b>Kandla</b> in Gujarat became Asia's first Export Processing Zone in 1965; it was later converted into a Special Economic Zone."
+        },
+        {
+          "q": "For the purpose of trade operations, duties and tariffs, a Special Economic Zone is treated as:",
+          "o": [
+            "An integral part of the domestic tariff area",
+            "A foreign territory",
+            "A union territory",
+            "A rural development zone"
+          ],
+          "a": 1,
+          "e": "SEZs are deemed to be <b>foreign territory</b> for the purposes of trade operations, duties and tariffs, distinguishing them from the Domestic Tariff Area (DTA)."
+        },
+        {
+          "q": "Foreign Direct Investment (FDI) is characterised by:",
+          "o": [
+            "Short-term investment in listed securities",
+            "Investment made to acquire a lasting interest and management control in an enterprise",
+            "Purely speculative currency trading",
+            "Loans given by foreign governments only"
+          ],
+          "a": 1,
+          "e": "<b>FDI</b> reflects the objective of an investor to obtain a lasting interest and effective management control (conventionally 10% or more equity) in an enterprise in another economy."
+        },
+        {
+          "q": "Foreign Portfolio Investment (FPI) refers to:",
+          "o": [
+            "Investment in stocks and bonds without seeking control or management influence",
+            "Direct acquisition of a manufacturing plant abroad",
+            "Government-to-government grants",
+            "Long-term joint venture equity"
+          ],
+          "a": 0,
+          "e": "<b>FPI</b> involves investment in financial assets like equities and bonds purely for returns, without any intention of control, making it more volatile ('hot money')."
+        },
+        {
+          "q": "Foreign Portfolio Investors in India are regulated by:",
+          "o": [
+            "Reserve Bank of India",
+            "Securities and Exchange Board of India (SEBI)",
+            "Ministry of Commerce",
+            "DGFT"
+          ],
+          "a": 1,
+          "e": "<b>SEBI</b> regulates FPIs in India under the SEBI (Foreign Portfolio Investors) Regulations."
+        },
+        {
+          "q": "The SEBI (Foreign Portfolio Investors) Regulations, which merged categories like FII, sub-accounts and QFI, were notified in:",
+          "o": [
+            "2014",
+            "2016",
+            "2019",
+            "2021"
+          ],
+          "a": 2,
+          "e": "The <b>SEBI FPI Regulations, 2019</b> consolidated and replaced the earlier FII, sub-account and Qualified Foreign Investor (QFI) categories into a unified FPI framework."
+        },
+        {
+          "q": "The Foreign Investment Promotion Board (FIPB), which earlier processed government-route FDI approvals, was abolished in:",
+          "o": [
+            "May 2014",
+            "May 2017",
+            "May 2019",
+            "May 2020"
+          ],
+          "a": 1,
+          "e": "The <b>FIPB was abolished in May 2017</b>, with its approval functions transferred to the concerned administrative ministries/departments, facilitated by DPIIT."
+        },
+        {
+          "q": "Which body now facilitates processing of government-route FDI proposals after the abolition of FIPB?",
+          "o": [
+            "Department for Promotion of Industry and Internal Trade (DPIIT)",
+            "Reserve Bank of India",
+            "Ministry of External Affairs",
+            "NITI Aayog"
+          ],
+          "a": 0,
+          "e": "<b>DPIIT</b> (under the Ministry of Commerce and Industry) now facilitates government-route FDI proposals, which are approved by the concerned administrative ministry/department."
+        },
+        {
+          "q": "Under the 'automatic route' of FDI, a foreign investor:",
+          "o": [
+            "Requires prior approval of the RBI or the government",
+            "Only needs to make post-facto filings, without prior approval",
+            "Cannot invest at all",
+            "Must route funds only through EXIM Bank"
+          ],
+          "a": 1,
+          "e": "Under the <b>automatic route</b>, no prior approval from the government or RBI is needed; the investor is only required to make post-investment filings/reporting."
+        },
+        {
+          "q": "India's current account became fully convertible under IMF Article VIII in:",
+          "o": [
+            "1991",
+            "1994",
+            "1997",
+            "2006"
+          ],
+          "a": 1,
+          "e": "India accepted the obligations of <b>IMF Article VIII</b> and made its current account fully convertible in <b>1994</b>."
+        },
+        {
+          "q": "In the context of SEZ units, 'NFE' refers to:",
+          "o": [
+            "Net Foreign Exchange earner requirement",
+            "National Foreign Enterprise registration",
+            "Non-Foreign Equity clause",
+            "Net Fiscal Expenditure"
+          ],
+          "a": 0,
+          "e": "SEZ units are required to be positive <b>Net Foreign Exchange (NFE)</b> earners, i.e., cumulative foreign exchange earnings must exceed cumulative foreign exchange outflow over a specified period."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "The Tarapore Committee of 1997 was constituted to examine:",
+          "o": [
+            "Banking sector NPAs",
+            "A roadmap towards full Capital Account Convertibility",
+            "Reform of the SEZ regime",
+            "Merger of FII and FDI categories"
+          ],
+          "a": 1,
+          "e": "The first <b>Tarapore Committee (1997)</b> examined the feasibility and roadmap for full <b>Capital Account Convertibility</b> in India."
+        },
+        {
+          "q": "A second committee under S.S. Tarapore revisited the issue of Capital Account Convertibility in:",
+          "o": [
+            "2000",
+            "2003",
+            "2006",
+            "2010"
+          ],
+          "a": 2,
+          "e": "A <b>second Tarapore Committee (2006)</b> was set up to review progress and suggest a further roadmap towards fuller capital account convertibility."
+        },
+        {
+          "q": "Under the 'government route' of FDI, investment proposals require:",
+          "o": [
+            "No approval of any kind",
+            "Prior approval of the concerned administrative ministry/department",
+            "Approval only from a foreign government",
+            "Approval from the World Trade Organization"
+          ],
+          "a": 1,
+          "e": "Under the <b>government route</b>, the proposal must be approved by the concerned administrative ministry or department, with DPIIT facilitating the process."
+        },
+        {
+          "q": "The Export Promotion Capital Goods (EPCG) Scheme primarily allows:",
+          "o": [
+            "Duty-free import of capital goods for producing quality export goods, subject to export obligation",
+            "Tax-free export of raw cotton",
+            "Interest-free loans to foreign portfolio investors",
+            "Exemption of SEZ units from the NFE requirement"
+          ],
+          "a": 0,
+          "e": "The <b>EPCG Scheme</b> permits import of capital goods at zero/concessional duty for producing export goods, subject to fulfilling a specified export obligation."
+        },
+        {
+          "q": "The Advance Authorisation Scheme under the Foreign Trade Policy allows:",
+          "o": [
+            "Duty-free import of inputs physically incorporated in export products",
+            "Cash subsidy on all exports",
+            "Automatic FDI approval for exporters",
+            "Exemption from SEBI regulations"
+          ],
+          "a": 0,
+          "e": "The <b>Advance Authorisation Scheme</b> permits duty-free import of inputs that are physically incorporated (after making normal allowance for wastage) in a product meant for export."
+        },
+        {
+          "q": "'Deemed exports' under the Foreign Trade Policy refer to:",
+          "o": [
+            "Transactions in which goods do not leave the country but payment is received in foreign exchange or Indian rupees",
+            "Only exports to SEZs by sea route",
+            "Exports made exclusively by EXIM Bank",
+            "Imports certified as re-exports"
+          ],
+          "a": 0,
+          "e": "<b>Deemed exports</b> are transactions where goods supplied do not leave India, but are treated as exports since payment is received in Indian rupees or free foreign exchange, e.g., supplies to EOUs/SEZs."
+        },
+        {
+          "q": "The Board of Trade functions primarily as:",
+          "o": [
+            "An advisory body providing periodic inputs on foreign trade policy formulation",
+            "A judicial tribunal for trade disputes",
+            "A wing of the World Bank",
+            "A regulator of foreign portfolio investors"
+          ],
+          "a": 0,
+          "e": "The <b>Board of Trade</b> is an advisory body that advises the government on policy measures for increasing exports and reviewing the foreign trade policy."
+        },
+        {
+          "q": "The Directorate General of Trade Remedies (DGTR) is primarily concerned with:",
+          "o": [
+            "Investigating anti-dumping, countervailing and safeguard trade remedy measures",
+            "Approving FDI proposals under the government route",
+            "Issuing Importer Exporter Codes",
+            "Regulating foreign portfolio investors"
+          ],
+          "a": 0,
+          "e": "<b>DGTR</b> is the agency responsible for administering trade remedy measures such as anti-dumping duties, countervailing duties and safeguard measures."
+        },
+        {
+          "q": "FDI is prohibited in which of the following sectors?",
+          "o": [
+            "Lottery business, including government/private lottery and gambling and betting",
+            "Manufacturing of automobiles",
+            "Civil aviation",
+            "E-commerce marketplace model"
+          ],
+          "a": 0,
+          "e": "FDI is completely prohibited in sectors such as <b>lottery business, gambling and betting</b>, chit funds, atomic energy, and real estate business (with limited exceptions)."
+        },
+        {
+          "q": "India's acceptance of IMF Article VIII obligations relates specifically to:",
+          "o": [
+            "Full convertibility of the capital account",
+            "Full convertibility of the current account",
+            "A ban on foreign portfolio investment",
+            "Fixed exchange rate maintenance"
+          ],
+          "a": 1,
+          "e": "IMF <b>Article VIII</b> obligations relate to avoiding restrictions on <b>current account</b> transactions; India accepted these obligations in 1994."
+        },
+        {
+          "q": "The concept of 'sectoral caps' in India's FDI policy refers to:",
+          "o": [
+            "The maximum percentage of foreign equity permitted in a particular sector",
+            "The minimum lock-in period for FPI investment",
+            "The ceiling on the number of SEZs permitted per state",
+            "The upper limit on EXIM Bank's annual lending"
+          ],
+          "a": 0,
+          "e": "<b>Sectoral caps</b> denote the maximum level of foreign equity/investment permitted in a given sector under India's FDI policy; caps vary across sectors."
+        },
+        {
+          "q": "A sector where FDI is permitted 'up to a certain limit under the automatic route and beyond that under the government route' illustrates that:",
+          "o": [
+            "Sectoral caps can have route-based sub-limits combining both entry routes",
+            "Automatic and government routes are always mutually exclusive for any sector",
+            "All sectors follow only the automatic route",
+            "Government route always implies a total prohibition"
+          ],
+          "a": 0,
+          "e": "Some sectors permit FDI up to a specified limit via the <b>automatic route</b>, with any investment beyond that threshold requiring <b>government route</b> approval, showing the two routes can coexist for a single sector."
+        },
+        {
+          "q": "Consider the following statements: 1. FDI is generally considered more stable than FPI. 2. FPI involves acquiring management control over an enterprise. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct: <b>FDI</b> is considered more stable long-term capital. Statement 2 is incorrect: <b>FPI</b> does not involve management control; that is a feature of FDI."
+        },
+        {
+          "q": "Consider the following statements regarding Special Economic Zones: 1. Kandla was Asia's first Export Processing Zone, established in 1965. 2. Units in SEZs are required to be positive Net Foreign Exchange (NFE) earners. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>Kandla</b> (1965) was Asia's first EPZ, later converted to an SEZ, and SEZ units must meet the <b>NFE</b> positivity requirement."
+        },
+        {
+          "q": "Consider the following statements: 1. The Foreign Investment Promotion Board (FIPB) was abolished in 2017. 2. After its abolition, all FDI proposals now require approval of the concerned administrative ministry. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct (FIPB abolished in <b>May 2017</b>). Statement 2 is incorrect: only <b>government-route</b> proposals need ministry approval; automatic-route investments need no prior approval."
+        },
+        {
+          "q": "Consider the following statements: 1. India's current account has been fully convertible since 1994. 2. India's capital account is fully convertible. 3. The Tarapore Committee examined the roadmap for capital account convertibility. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct; statement 2 is incorrect since India's <b>capital account</b> is only <b>partially convertible</b>, not fully convertible."
+        },
+        {
+          "q": "Consider the following statements: 1. SEBI FPI Regulations, 2019 merged the erstwhile FII, sub-account and QFI categories. 2. FPI investment is regarded as relatively volatile compared to FDI. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the <b>2019 SEBI FPI Regulations</b> unified earlier categories, and FPI flows are commonly termed 'hot money' due to their volatility."
+        },
+        {
+          "q": "Consider the following statements: 1. The Advance Authorisation Scheme allows duty-free import of inputs used in export production. 2. The EPCG Scheme allows duty-free import of capital goods for export production. 3. Deemed exports require goods to physically leave Indian territory. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 correctly describe the <b>Advance Authorisation</b> and <b>EPCG</b> schemes. Statement 3 is incorrect: in <b>deemed exports</b>, goods do not leave India."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "The shift from periodic five-year Exim Policies to the FTP 2023 framework primarily reflects:",
+          "o": [
+            "A move towards continuous, dynamic policymaking rather than fixed-term policy cycles",
+            "Complete withdrawal of the government from trade policy",
+            "Transfer of trade policy powers to the WTO",
+            "Abolition of the DGFT"
+          ],
+          "a": 0,
+          "e": "<b>FTP 2023</b> marks a shift from fixed five-year Exim Policies to a dynamic, continuously updated policy framework without a terminal date."
+        },
+        {
+          "q": "Regarding FDI in chit funds, which statement best reflects the policy position?",
+          "o": [
+            "FDI in chit funds is completely and unconditionally prohibited for all investors",
+            "FDI in the chit fund sector is prohibited, though investment by NRIs on a non-repatriation basis is permitted",
+            "Chit funds are fully open to 100% FDI under the automatic route",
+            "Chit funds require RBI's prior clearance under the government route only"
+          ],
+          "a": 1,
+          "e": "FDI is prohibited in the chit fund business in general, though <b>investment by NRIs on a non-repatriation basis</b> is permitted, unlike a blanket prohibition."
+        },
+        {
+          "q": "Regarding FDI in 'real estate business', which of the following is an accepted exception under India's FDI policy?",
+          "o": [
+            "Development of townships, housing, built-up infrastructure and construction-development projects",
+            "Trading in land parcels for speculative resale",
+            "Real estate brokerage services for individual plots",
+            "Financing of unregistered real estate agents"
+          ],
+          "a": 0,
+          "e": "While FDI in 'real estate business' per se is prohibited, <b>development of townships, housing and construction-development projects</b> is excluded from this prohibition and permitted."
+        },
+        {
+          "q": "Trading in Transferable Development Rights (TDRs) under India's FDI policy is:",
+          "o": [
+            "Permitted freely under the automatic route",
+            "Prohibited",
+            "Permitted only for NRIs",
+            "Permitted only up to a 26% cap"
+          ],
+          "a": 1,
+          "e": "<b>Trading in Transferable Development Rights (TDRs)</b> is among the activities/sectors where FDI is prohibited."
+        },
+        {
+          "q": "Which of the following sectors is on India's list of activities where FDI is prohibited?",
+          "o": [
+            "Atomic Energy and Nidhi company",
+            "Renewable energy generation",
+            "Food processing industries",
+            "IT and software services"
+          ],
+          "a": 0,
+          "e": "FDI is prohibited in sectors such as <b>Atomic Energy</b> and <b>Nidhi companies</b>, along with lottery, gambling, chit funds, real estate business, and TDR trading."
+        },
+        {
+          "q": "Which of the following trade remedy measures fall under the mandate of the Directorate General of Trade Remedies (DGTR)?",
+          "o": [
+            "Only anti-dumping duties",
+            "Anti-dumping duties, countervailing duties and safeguard measures",
+            "Only tariff-rate quotas on agricultural imports",
+            "Only SEZ unit customs clearances"
+          ],
+          "a": 1,
+          "e": "<b>DGTR</b> administers all three major trade remedy instruments: <b>anti-dumping duties, countervailing duties, and safeguard measures</b>, consolidating functions earlier spread across separate directorates."
+        },
+        {
+          "q": "In India's Balance of Payments, which of the following would be classified under the capital account (capital and financial account)?",
+          "o": [
+            "Foreign Direct Investment and Foreign Portfolio Investment inflows",
+            "Merchandise export earnings",
+            "Software services exports",
+            "Remittances from Indian workers abroad (current transfers)"
+          ],
+          "a": 0,
+          "e": "<b>FDI and FPI</b> inflows are recorded under the capital/financial account of the Balance of Payments, whereas trade in goods, services and remittances fall under the current account."
+        },
+        {
+          "q": "Prior to May 2017, government-route FDI proposals were approved by the:",
+          "o": [
+            "Foreign Investment Promotion Board (FIPB)",
+            "Department for Promotion of Industry and Internal Trade (DPIIT)",
+            "Securities and Exchange Board of India",
+            "Reserve Bank of India's Capital Account Division"
+          ],
+          "a": 0,
+          "e": "Before its abolition in <b>May 2017</b>, the <b>FIPB</b> was the single-window body that processed and recommended approval of government-route FDI proposals; this function later shifted to concerned ministries, facilitated by DPIIT."
+        },
+        {
+          "q": "An exporter importing machinery duty-free under the EPCG Scheme is subsequently required to:",
+          "o": [
+            "Fulfil a specified export obligation within a prescribed period",
+            "Immediately re-export the same machinery",
+            "Convert the machinery into an SEZ asset",
+            "Surrender the machinery to DGFT after one year"
+          ],
+          "a": 0,
+          "e": "Under <b>EPCG</b>, duty-free/concessional import of capital goods is conditional upon fulfilling a specified <b>export obligation</b> within a prescribed time frame, failing which duties plus interest become payable."
+        },
+        {
+          "q": "The conventional equity threshold used by the IMF/OECD to distinguish FDI from FPI is investment of:",
+          "o": [
+            "Around 10 percent or more of equity/voting power",
+            "Exactly 51 percent of equity",
+            "Any investment below 1 percent",
+            "A fixed absolute amount regardless of equity share"
+          ],
+          "a": 0,
+          "e": "Per <b>IMF/OECD convention</b>, an equity stake of around <b>10% or more</b>, indicating an intent to exert management influence, distinguishes FDI from portfolio investment (FPI)."
+        },
+        {
+          "q": "Consider the following statements: 1. FDI in lottery business is prohibited under India's FDI policy. 2. FDI in atomic energy is permitted up to 100% under the automatic route. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct: <b>lottery business</b> is a prohibited sector. Statement 2 is incorrect: <b>atomic energy</b> is itself among the sectors where FDI is prohibited."
+        },
+        {
+          "q": "Consider the following statements: 1. SEZ units are permitted duty-free import of goods for authorised operations. 2. SEZs are treated as part of the Domestic Tariff Area for customs purposes. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct: SEZ units get <b>duty-free imports</b> for authorised operations. Statement 2 is incorrect: SEZs are treated as <b>foreign territory</b>, not part of the Domestic Tariff Area, for trade and duty purposes."
+        },
+        {
+          "q": "Consider the following statements: 1. The first Tarapore Committee submitted its report in 1997. 2. A second Tarapore Committee examined capital account convertibility again in 2006. 3. India's capital account has since become fully convertible on the recommendations of these committees. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct regarding the two Tarapore Committees. Statement 3 is incorrect: India's <b>capital account remains only partially convertible</b>; full convertibility has not been implemented."
+        },
+        {
+          "q": "Consider the following statements: 1. Under the automatic route, an investor must obtain RBI approval before bringing in FDI. 2. Under the government route, DPIIT itself grants final approval to all FDI proposals. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 3,
+          "e": "Both statements are incorrect: the <b>automatic route</b> requires no prior RBI/government approval (only post-facto filing), and under the <b>government route</b>, approval is granted by the concerned administrative ministry/department, with DPIIT only facilitating the process."
+        },
+        {
+          "q": "Consider the following statements: 1. FDI is generally recorded as relatively stable, long-term capital in the Balance of Payments. 2. FPI is often referred to as 'hot money' due to its volatility. 3. FPI investment necessarily confers management control over the invested enterprise. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 correctly describe FDI and FPI characteristics. Statement 3 is incorrect: <b>FPI</b>, by definition, does not confer management control, that being a defining feature of FDI."
+        },
+        {
+          "q": "Consider the following statements: 1. Kandla was converted from an Export Processing Zone into a Special Economic Zone. 2. The SEZ Act, 2005 was operationalised through the SEZ Rules notified in 2006. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>Kandla</b>, originally an EPZ (1965), was later converted into an SEZ, and the SEZ Act, 2005 was operationalised via the <b>SEZ Rules, 2006</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Trading in Transferable Development Rights is a prohibited activity for FDI. 2. Manufacturing of cigarettes and tobacco products is a prohibited sector for FDI. 3. Development of townships and housing projects is entirely barred from receiving FDI. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect: development of <b>townships and housing</b> is an accepted exception, not barred, even though 'real estate business' generally is prohibited."
+        },
+        {
+          "q": "Consider the following statements: 1. India's current account convertibility under IMF Article VIII was achieved in 1994. 2. Full capital account convertibility in India was also achieved in the same year, 1994. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is incorrect: India's <b>capital account</b> remains only <b>partially convertible</b> even today; only the current account achieved full convertibility in 1994."
+        }
+      ]
+    }
+  },
+  {
+    "id": "eco_poverty_unemployment",
+    "title": "Poverty and Unemployment",
+    "desc": "Poverty line committees, unemployment types, MGNREGA and MPI",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which committee introduced India's first official poverty line methodology based on calorie intake norms?",
+          "o": [
+            "Lakdawala Committee",
+            "Alagh Committee",
+            "Tendulkar Committee",
+            "Rangarajan Committee"
+          ],
+          "a": 1,
+          "e": "The <b>Alagh Committee (1979)</b> devised India's first official poverty line methodology based on calorie norms."
+        },
+        {
+          "q": "As per the Alagh Committee methodology, what was the calorie intake norm prescribed for rural areas?",
+          "o": [
+            "2100 kcal per day",
+            "2400 kcal per day",
+            "2500 kcal per day",
+            "1800 kcal per day"
+          ],
+          "a": 1,
+          "e": "The <b>Alagh Committee</b> prescribed <b>2400 kcal</b> per capita per day for rural areas and 2100 kcal for urban areas."
+        },
+        {
+          "q": "As per the Alagh Committee methodology, what was the calorie intake norm prescribed for urban areas?",
+          "o": [
+            "2100 kcal per day",
+            "2400 kcal per day",
+            "2300 kcal per day",
+            "2000 kcal per day"
+          ],
+          "a": 0,
+          "e": "The <b>Alagh Committee</b> fixed <b>2100 kcal</b> per capita per day as the urban calorie norm, lower than the rural norm of 2400 kcal."
+        },
+        {
+          "q": "In which year did the Lakdawala Committee submit its report on poverty estimation?",
+          "o": [
+            "1979",
+            "1993",
+            "2009",
+            "2014"
+          ],
+          "a": 1,
+          "e": "The <b>Lakdawala Committee</b> submitted its report in <b>1993</b>, introducing state-specific poverty lines."
+        },
+        {
+          "q": "The Lakdawala Committee recommended using the Consumer Price Index for Industrial Workers (CPI-IW) to update the poverty line for which segment?",
+          "o": [
+            "Rural areas",
+            "Urban areas",
+            "Both rural and urban equally",
+            "Only the agricultural labour segment"
+          ],
+          "a": 1,
+          "e": "The <b>Lakdawala Committee</b> used <b>CPI-IW</b> for urban areas and <b>CPI-AL</b> (Agricultural Labour) for rural areas to update poverty lines."
+        },
+        {
+          "q": "Who chaired the committee that submitted its report on poverty estimation in 2009 under the Planning Commission?",
+          "o": [
+            "C. Rangarajan",
+            "Suresh Tendulkar",
+            "Y.K. Alagh",
+            "D.T. Lakdawala"
+          ],
+          "a": 1,
+          "e": "The 2009 poverty estimation committee was chaired by <b>Suresh Tendulkar</b>, hence known as the <b>Tendulkar Committee</b>."
+        },
+        {
+          "q": "The Tendulkar Committee moved away from a poverty line based purely on which criterion?",
+          "o": [
+            "Household income",
+            "Calorie intake",
+            "Land ownership",
+            "Literacy rate"
+          ],
+          "a": 1,
+          "e": "The <b>Tendulkar Committee</b> shifted away from a pure <b>calorie-intake</b> norm to a broader consumption basket including health and education expenditure."
+        },
+        {
+          "q": "In which year was the Rangarajan Committee on poverty estimation constituted?",
+          "o": [
+            "2009",
+            "2010",
+            "2012",
+            "2014"
+          ],
+          "a": 2,
+          "e": "The <b>Rangarajan Committee</b> was constituted in <b>2012</b> to review the Tendulkar methodology, and it submitted its report in 2014."
+        },
+        {
+          "q": "Who chaired the committee that submitted its poverty estimation report in 2014?",
+          "o": [
+            "Suresh Tendulkar",
+            "C. Rangarajan",
+            "Y.K. Alagh",
+            "D.T. Lakdawala"
+          ],
+          "a": 1,
+          "e": "The 2014 poverty report was submitted by the committee chaired by <b>C. Rangarajan</b>."
+        },
+        {
+          "q": "In which year was the National Rural Employment Guarantee Act (NREGA) enacted?",
+          "o": [
+            "2004",
+            "2005",
+            "2006",
+            "2009"
+          ],
+          "a": 1,
+          "e": "<b>NREGA</b> was enacted in <b>2005</b> and later renamed MGNREGA in 2009."
+        },
+        {
+          "q": "MGNREGA was known by which name prior to its 2009 renaming?",
+          "o": [
+            "Jawahar Rozgar Yojana",
+            "NREGA",
+            "Sampoorna Grameen Rozgar Yojana",
+            "Employment Assurance Scheme"
+          ],
+          "a": 1,
+          "e": "MGNREGA was originally called <b>NREGA</b> before being renamed after Mahatma Gandhi in 2009."
+        },
+        {
+          "q": "MGNREGA provides a legal guarantee of how many days of wage employment per rural household in a financial year?",
+          "o": [
+            "50 days",
+            "75 days",
+            "100 days",
+            "150 days"
+          ],
+          "a": 2,
+          "e": "MGNREGA guarantees <b>100 days</b> of wage employment per year to rural households whose adult members volunteer for unskilled manual work."
+        },
+        {
+          "q": "MGNREGA mandates a minimum participation share for women of at least:",
+          "o": [
+            "One-fourth",
+            "One-third",
+            "One-half",
+            "Two-thirds"
+          ],
+          "a": 1,
+          "e": "MGNREGA mandates that at least <b>one-third</b> of the beneficiaries/participants must be women."
+        },
+        {
+          "q": "MGNREGA is implemented under which central ministry?",
+          "o": [
+            "Ministry of Labour and Employment",
+            "Ministry of Rural Development",
+            "Ministry of Panchayati Raj",
+            "Ministry of Skill Development"
+          ],
+          "a": 1,
+          "e": "MGNREGA is implemented by the <b>Ministry of Rural Development</b>."
+        },
+        {
+          "q": "The global Multidimensional Poverty Index (MPI) was first launched in which year?",
+          "o": [
+            "2005",
+            "2010",
+            "2014",
+            "2021"
+          ],
+          "a": 1,
+          "e": "The global <b>MPI</b> was launched in <b>2010</b> by UNDP and OPHI, replacing the earlier Human Poverty Index."
+        },
+        {
+          "q": "The global Multidimensional Poverty Index (MPI) was jointly developed by UNDP and which institution?",
+          "o": [
+            "World Bank",
+            "Oxford Poverty and Human Development Initiative (OPHI)",
+            "International Labour Organisation",
+            "NITI Aayog"
+          ],
+          "a": 1,
+          "e": "The global MPI was developed jointly by <b>UNDP</b> and the <b>Oxford Poverty and Human Development Initiative (OPHI)</b>."
+        },
+        {
+          "q": "India's National Multidimensional Poverty Index is released by which institution?",
+          "o": [
+            "Ministry of Statistics and Programme Implementation",
+            "NITI Aayog",
+            "Reserve Bank of India",
+            "Planning Commission"
+          ],
+          "a": 1,
+          "e": "India's National MPI is released by <b>NITI Aayog</b>, with its first edition in 2021, using NFHS data."
+        },
+        {
+          "q": "Which type of unemployment is typically found in Indian agriculture, where more workers are engaged than actually needed and the marginal productivity of extra workers is close to zero?",
+          "o": [
+            "Frictional unemployment",
+            "Structural unemployment",
+            "Disguised unemployment",
+            "Cyclical unemployment"
+          ],
+          "a": 2,
+          "e": "<b>Disguised unemployment</b> occurs when more people are employed than required, so removing some workers does not reduce output, common in Indian agriculture."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which of the following best distinguishes the Tendulkar Committee's methodology from that of the Lakdawala Committee?",
+          "o": [
+            "Tendulkar used only rural poverty lines",
+            "Tendulkar moved to a broader consumption basket including health and education instead of pure calorie norms",
+            "Tendulkar abolished state-specific poverty lines entirely",
+            "Tendulkar used only CPI-AL for both rural and urban areas"
+          ],
+          "a": 1,
+          "e": "The <b>Tendulkar Committee</b> shifted from calorie-based norms to a broader consumption basket that included health and education expenditure, unlike the Lakdawala approach."
+        },
+        {
+          "q": "What does 'MRP' stand for in the context of the Tendulkar Committee's poverty estimation methodology?",
+          "o": [
+            "Minimum Rural Price",
+            "Mixed Reference Period",
+            "Maximum Retail Price",
+            "Monthly Rural Poverty"
+          ],
+          "a": 1,
+          "e": "The Tendulkar Committee used the <b>Mixed Reference Period (MRP)</b> for estimating consumption expenditure."
+        },
+        {
+          "q": "Frictional unemployment is best described as:",
+          "o": [
+            "Unemployment caused by an economic recession",
+            "Short-term unemployment arising when people are between jobs or searching for better jobs",
+            "Unemployment due to a mismatch of skills with job requirements",
+            "Unemployment confined to a particular agricultural season"
+          ],
+          "a": 1,
+          "e": "<b>Frictional unemployment</b> is transitional and short-term, arising when workers are searching for or switching jobs."
+        },
+        {
+          "q": "Structural unemployment primarily arises due to:",
+          "o": [
+            "Temporary economic slowdown",
+            "Seasonal fluctuations in agricultural work",
+            "A mismatch between the skills of the workforce and the requirements of available jobs",
+            "Workers voluntarily searching for better pay"
+          ],
+          "a": 2,
+          "e": "<b>Structural unemployment</b> results from a mismatch between workers' skills and the demands of a changing economic structure."
+        },
+        {
+          "q": "Which of the following sectors is most associated with seasonal unemployment in India?",
+          "o": [
+            "Information technology",
+            "Agriculture",
+            "Banking",
+            "Civil services"
+          ],
+          "a": 1,
+          "e": "<b>Seasonal unemployment</b> is common in <b>agriculture</b>, where workers remain unemployed during off-seasons."
+        },
+        {
+          "q": "Cyclical unemployment is caused primarily by:",
+          "o": [
+            "Mismatches in worker skills",
+            "Fluctuations of the business cycle leading to demand-deficient conditions",
+            "Workers transitioning between jobs",
+            "Excess labour in agriculture"
+          ],
+          "a": 1,
+          "e": "<b>Cyclical unemployment</b> arises from downturns in the business cycle, where deficient aggregate demand reduces employment."
+        },
+        {
+          "q": "The term 'educated unemployment' refers to:",
+          "o": [
+            "Unemployment among illiterate rural workers",
+            "Unemployment among literate and educated youth",
+            "Unemployment caused by automation",
+            "Unemployment during the agricultural off-season"
+          ],
+          "a": 1,
+          "e": "<b>Educated unemployment</b> denotes joblessness among educated/literate youth, a distinct concern in India's labour market."
+        },
+        {
+          "q": "Under MGNREGA, an unemployment allowance becomes payable if work is not provided within how many days of application?",
+          "o": [
+            "7 days",
+            "15 days",
+            "30 days",
+            "45 days"
+          ],
+          "a": 1,
+          "e": "MGNREGA provides for an <b>unemployment allowance</b> if work is not provided within <b>15 days</b> of the application."
+        },
+        {
+          "q": "Which two organisations jointly assess and publish the global Multidimensional Poverty Index?",
+          "o": [
+            "World Bank and IMF",
+            "UNDP and OPHI",
+            "ILO and WHO",
+            "NITI Aayog and RBI"
+          ],
+          "a": 1,
+          "e": "The global MPI is jointly published by <b>UNDP</b> and the <b>OPHI</b> at Oxford University."
+        },
+        {
+          "q": "The National Rural Livelihood Mission is also popularly known as:",
+          "o": [
+            "Aajeevika",
+            "Antyodaya Yojana",
+            "Sampoorna Grameen Rozgar Yojana",
+            "Jawahar Rozgar Yojana"
+          ],
+          "a": 0,
+          "e": "The <b>National Rural Livelihood Mission</b> is popularly known as <b>Aajeevika</b>."
+        },
+        {
+          "q": "The Jawahar Rozgar Yojana was:",
+          "o": [
+            "A poverty line estimation committee",
+            "An earlier rural employment generation scheme",
+            "A methodology for calculating the Multidimensional Poverty Index",
+            "A banking sector reform programme"
+          ],
+          "a": 1,
+          "e": "<b>Jawahar Rozgar Yojana</b> was an earlier rural employment generation scheme, prior to schemes like MGNREGA."
+        },
+        {
+          "q": "The 'head-count ratio' as a poverty measure refers to:",
+          "o": [
+            "Average income of the poorest decile",
+            "Proportion of the population living below the poverty line",
+            "Total number of BPL ration cards issued",
+            "Difference between rural and urban poverty lines"
+          ],
+          "a": 1,
+          "e": "The <b>head-count ratio</b> is the proportion (or percentage) of the population whose consumption/income falls below the poverty line."
+        },
+        {
+          "q": "Consider the following statements regarding the Lakdawala Committee: 1. It introduced state-specific poverty lines. 2. It recommended a uniform poverty line basket for both rural and urban areas. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The <b>Lakdawala Committee</b> introduced <b>state-specific poverty lines</b> (statement 1 correct); a uniform poverty line basket for rural and urban areas was recommended later by the <b>Tendulkar Committee</b>, not Lakdawala (statement 2 incorrect)."
+        },
+        {
+          "q": "Consider the following statements regarding the Tendulkar Committee: 1. It used the Mixed Reference Period for consumption estimation. 2. It retained a pure calorie-intake norm as the sole basis of the poverty line. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The Tendulkar Committee used the <b>Mixed Reference Period</b> (statement 1 correct) but moved away from a pure calorie-based norm to a broader consumption basket (statement 2 incorrect)."
+        },
+        {
+          "q": "Consider the following statements regarding the Rangarajan Committee: 1. It was constituted in 2012. 2. It estimated lower poverty ratios than the Tendulkar Committee. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The <b>Rangarajan Committee</b> was constituted in <b>2012</b> (statement 1 correct) and submitted its report in 2014, but it estimated <b>higher</b>, not lower, poverty ratios than the Tendulkar Committee (statement 2 incorrect)."
+        },
+        {
+          "q": "Consider the following statements about types of unemployment: 1. Disguised unemployment is prevalent in Indian agriculture. 2. Frictional unemployment is caused primarily by downturns in the business cycle. 3. Structural unemployment arises from a mismatch between workforce skills and job requirements. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct; statement 2 is incorrect since business-cycle downturns cause <b>cyclical unemployment</b>, not frictional unemployment."
+        },
+        {
+          "q": "Consider the following statements about MGNREGA: 1. It was enacted in 2005, originally as NREGA. 2. It guarantees 100 days of employment specifically to urban households. 3. It mandates at least one-third participation by women. Which of the above statements are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct; statement 2 is incorrect because MGNREGA's guarantee applies to <b>rural</b> households, not urban ones."
+        },
+        {
+          "q": "Consider the following statements: 1. The global MPI uses three dimensions—health, education, and standard of living. 2. India's National MPI uses NSSO consumption expenditure survey data as its primary data source. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The global MPI indeed covers <b>health, education, and standard of living</b> (statement 1 correct); India's National MPI uses <b>NFHS</b> data, not the NSSO consumption survey (statement 2 incorrect)."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Which committee's poverty line methodology was based on normative levels of adequate nourishment along with non-food essential expenditures such as clothing, rent, conveyance, education, and health?",
+          "o": [
+            "Alagh Committee",
+            "Lakdawala Committee",
+            "Tendulkar Committee",
+            "Rangarajan Committee"
+          ],
+          "a": 3,
+          "e": "The <b>Rangarajan Committee</b> (2014) proposed a methodology based on normative nourishment levels plus essential non-food expenditures like clothing, rent, conveyance, education, and health."
+        },
+        {
+          "q": "After the Rangarajan Committee submitted its report in 2014, what has been the status of official poverty line adoption by the Government of India?",
+          "o": [
+            "The Rangarajan methodology was formally adopted for BPL classification",
+            "No poverty line methodology has been formally adopted for official BPL purposes since Rangarajan",
+            "The Tendulkar methodology was reintroduced and formally adopted permanently",
+            "A new committee replaced Rangarajan's report in 2016"
+          ],
+          "a": 1,
+          "e": "The government has <b>not formally adopted</b> any poverty line methodology for official BPL classification purposes since the Rangarajan Committee's 2014 report."
+        },
+        {
+          "q": "Unlike the Alagh Committee, the Tendulkar Committee based its poverty line basket primarily on:",
+          "o": [
+            "Land holding size",
+            "A broader consumption expenditure basket including health and education, not calories alone",
+            "Household electricity consumption",
+            "Only urban calorie norms applied nationally"
+          ],
+          "a": 1,
+          "e": "The <b>Tendulkar Committee</b> broadened the poverty line basket beyond calories to include consumption on health and education."
+        },
+        {
+          "q": "Which committee first introduced state-specific (disaggregated) poverty lines in India's official poverty estimation?",
+          "o": [
+            "Alagh Committee",
+            "Lakdawala Committee",
+            "Tendulkar Committee",
+            "Rangarajan Committee"
+          ],
+          "a": 1,
+          "e": "The <b>Lakdawala Committee</b> (1993) was the first to disaggregate poverty lines at the state level."
+        },
+        {
+          "q": "What is the correct chronological order of India's poverty estimation committees?",
+          "o": [
+            "Lakdawala, Alagh, Tendulkar, Rangarajan",
+            "Alagh, Lakdawala, Tendulkar, Rangarajan",
+            "Alagh, Tendulkar, Lakdawala, Rangarajan",
+            "Rangarajan, Tendulkar, Lakdawala, Alagh"
+          ],
+          "a": 1,
+          "e": "The correct chronological sequence is <b>Alagh (1979) to Lakdawala (1993) to Tendulkar (2009) to Rangarajan (2014)</b>."
+        },
+        {
+          "q": "A software professional who has voluntarily left a job and is spending a few weeks searching for a better-paying position best exemplifies which type of unemployment?",
+          "o": [
+            "Structural unemployment",
+            "Frictional unemployment",
+            "Cyclical unemployment",
+            "Disguised unemployment"
+          ],
+          "a": 1,
+          "e": "This scenario of short-term job search between employments is a classic case of <b>frictional unemployment</b>."
+        },
+        {
+          "q": "On a farm where a task requiring only 3 workers is performed by 5 workers, with the additional 2 workers contributing near-zero marginal output, this situation is termed:",
+          "o": [
+            "Frictional unemployment",
+            "Cyclical unemployment",
+            "Disguised unemployment",
+            "Structural unemployment"
+          ],
+          "a": 2,
+          "e": "This is a textbook case of <b>disguised unemployment</b>, common in Indian agriculture, where excess workers add negligible output."
+        },
+        {
+          "q": "Which type of unemployment is expected to rise sharply during an economic recession marked by falling aggregate demand?",
+          "o": [
+            "Frictional unemployment",
+            "Seasonal unemployment",
+            "Cyclical unemployment",
+            "Structural unemployment"
+          ],
+          "a": 2,
+          "e": "<b>Cyclical unemployment</b> is directly linked to the business cycle and rises during recessions due to demand deficiency."
+        },
+        {
+          "q": "How does India's National MPI released by NITI Aayog differ from the global MPI framework in terms of data source?",
+          "o": [
+            "It uses the Census of India exclusively",
+            "It uses National Family Health Survey (NFHS) data adapted with India-specific indicators",
+            "It uses only World Bank poverty estimates",
+            "It uses MGNREGA administrative records"
+          ],
+          "a": 1,
+          "e": "India's National MPI, released by <b>NITI Aayog</b>, adapts the global framework using <b>NFHS</b> data with India-specific indicators."
+        },
+        {
+          "q": "The Human Poverty Index (HPI), which was replaced by the Multidimensional Poverty Index in 2010, was earlier published by:",
+          "o": [
+            "World Bank",
+            "UNDP",
+            "OPHI independently",
+            "NITI Aayog"
+          ],
+          "a": 1,
+          "e": "The <b>Human Poverty Index</b>, published by <b>UNDP</b>, was replaced by the global MPI (developed jointly with OPHI) in 2010."
+        },
+        {
+          "q": "Consider the following statements: 1. The Alagh Committee's poverty line was based solely on calorie intake norms. 2. The Lakdawala Committee retained the calorie-anchored poverty lines but updated them over time using CPI-IW and CPI-AL with state-specific disaggregation. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>Alagh</b> used pure calorie norms, while <b>Lakdawala</b> retained the calorie-based lines but updated them using <b>CPI-IW/CPI-AL</b> and introduced state-level disaggregation."
+        },
+        {
+          "q": "Consider the following statements about the Tendulkar Committee: 1. It recommended a uniform poverty line basket (PLB) for both rural and urban areas. 2. It completely discarded any reference to a consumption basket and relied only on health and education expenditure. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "The Tendulkar Committee recommended a <b>uniform poverty line basket</b> for rural and urban areas (statement 1 correct), but it broadened rather than discarded the consumption basket, retaining food along with health and education expenditure (statement 2 incorrect)."
+        },
+        {
+          "q": "Consider the following statements about the Rangarajan Committee: 1. It was constituted in 2012 and submitted its report in 2014. 2. It concluded that the Tendulkar Committee had overestimated poverty in India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct; however, the <b>Rangarajan Committee</b> estimated <b>higher</b> poverty ratios than Tendulkar, implying Tendulkar had underestimated, not overestimated, poverty (statement 2 incorrect)."
+        },
+        {
+          "q": "Consider the following statements regarding poverty estimation committees: 1. The Alagh Committee (1979) was the first to set official calorie-based poverty norms. 2. The Lakdawala Committee (1993) introduced the use of the Mixed Reference Period. 3. The Tendulkar Committee (2009) recommended a uniform poverty line basket for rural and urban areas. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct; statement 2 is incorrect since the <b>Mixed Reference Period</b> was introduced by the <b>Tendulkar Committee</b>, not Lakdawala."
+        },
+        {
+          "q": "Consider the following statements about MGNREGA: 1. It provides a legal guarantee of employment only to households classified as Below Poverty Line (BPL). 2. It is a demand-driven scheme. 3. An unemployment allowance is payable if work is not provided within 15 days of application. Which of the above statements are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statements 2 and 3 are correct; statement 1 is incorrect because MGNREGA guarantees employment to <b>any rural household</b> whose adult members volunteer for unskilled manual work, not restricted to BPL households."
+        },
+        {
+          "q": "Consider the following statements about types of unemployment: 1. Seasonal unemployment is essentially the same concept as disguised unemployment. 2. Structural unemployment can arise from changes in the economic structure, such as automation displacing certain job skills. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 2 correctly describes <b>structural unemployment</b>; statement 1 is incorrect as <b>seasonal unemployment</b> (joblessness during off-seasons) is conceptually distinct from <b>disguised unemployment</b> (excess workers with near-zero marginal productivity)."
+        },
+        {
+          "q": "Consider the following statements on the Multidimensional Poverty Index: 1. The global MPI uses three dimensions—health, education, and standard of living. 2. The global MPI was developed jointly by UNDP and OPHI. 3. India's National MPI's first edition used Census 2011 data as its primary source. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct; statement 3 is incorrect since India's National MPI, released by NITI Aayog, is based on <b>National Family Health Survey (NFHS)</b> data, not the Census."
+        },
+        {
+          "q": "Consider the following statements: 1. The Rangarajan Committee proposed a separate methodology from the Tendulkar Committee based on normative nourishment levels and non-food essentials. 2. The Rangarajan Committee's estimated poverty ratio was lower than that estimated by the Tendulkar Committee. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct; statement 2 is incorrect because the <b>Rangarajan Committee</b> estimated a <b>higher</b>, not lower, poverty ratio compared to the Tendulkar Committee."
+        }
+      ]
+    }
+  },
+  {
+    "id": "eco_human_development",
+    "title": "Human Development and Social Sector",
+    "desc": "HDI, HDR, related indices and SDGs",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which economist is credited with pioneering the concept of the Human Development Index (HDI), working alongside Indian economist Amartya Sen?",
+          "o": [
+            "Amartya Sen himself",
+            "Mahbub ul Haq",
+            "Jean Dreze",
+            "Raghuram Rajan"
+          ],
+          "a": 1,
+          "e": "<b>Mahbub ul Haq</b>, a Pakistani economist, pioneered the HDI concept along with <b>Amartya Sen</b> in the late 1980s, drawing on Sen's capability approach."
+        },
+        {
+          "q": "The first Human Development Report (HDR) was published by UNDP in which year?",
+          "o": [
+            "1985",
+            "1990",
+            "1995",
+            "2000"
+          ],
+          "a": 1,
+          "e": "The first <b>Human Development Report</b> was published by the <b>UNDP</b> in <b>1990</b>."
+        },
+        {
+          "q": "The Human Development Report is published annually by which organisation?",
+          "o": [
+            "World Bank",
+            "International Monetary Fund",
+            "United Nations Development Programme (UNDP)",
+            "World Economic Forum"
+          ],
+          "a": 2,
+          "e": "The HDR is published annually by the <b>United Nations Development Programme (UNDP)</b>, usually with a special thematic focus each year."
+        },
+        {
+          "q": "In the Human Development Index, the dimension of 'a long and healthy life' is measured using which indicator?",
+          "o": [
+            "Infant mortality rate",
+            "Life expectancy at birth",
+            "Total fertility rate",
+            "Public health expenditure"
+          ],
+          "a": 1,
+          "e": "The health dimension of HDI is captured through <b>life expectancy at birth</b>."
+        },
+        {
+          "q": "Which indicator is used to measure the 'decent standard of living' dimension of the HDI?",
+          "o": [
+            "Per capita income at market exchange rates",
+            "Gross Domestic Product (GDP) per capita",
+            "Gross National Income (GNI) per capita at Purchasing Power Parity (PPP)",
+            "Human Poverty Index"
+          ],
+          "a": 2,
+          "e": "The standard-of-living dimension is measured by <b>Gross National Income (GNI) per capita at PPP</b>, which allows cross-country comparability."
+        },
+        {
+          "q": "The 'knowledge' dimension of the HDI is constructed using which two indicators?",
+          "o": [
+            "Literacy rate and school enrolment ratio",
+            "Expected years of schooling and mean years of schooling",
+            "Public expenditure on education and literacy rate",
+            "Primary and secondary enrolment ratios"
+          ],
+          "a": 1,
+          "e": "The education dimension combines <b>expected years of schooling</b> (for children entering school) and <b>mean years of schooling</b> (for adults aged 25 and above)."
+        },
+        {
+          "q": "Since which Human Development Report has the HDI been calculated using the geometric mean of the three dimensional indices?",
+          "o": [
+            "The 2000 Human Development Report",
+            "The 2005 Human Development Report",
+            "The 2010 Human Development Report",
+            "The 2015 Human Development Report"
+          ],
+          "a": 2,
+          "e": "From the <b>2010 Human Development Report</b> onward, HDI has been computed as the <b>geometric mean</b> of the health, education and income indices, replacing the earlier arithmetic mean."
+        },
+        {
+          "q": "Based on HDI value, countries are classified into how many categories of human development?",
+          "o": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+          ],
+          "a": 1,
+          "e": "Countries are grouped into <b>four</b> categories: very high, high, medium, and low human development."
+        },
+        {
+          "q": "What does IHDI, an index reported alongside HDI in the Human Development Report, stand for?",
+          "o": [
+            "International Human Development Index",
+            "Inequality-adjusted Human Development Index",
+            "Income-adjusted Human Development Index",
+            "Integrated Human Development Index"
+          ],
+          "a": 1,
+          "e": "<b>IHDI</b> stands for <b>Inequality-adjusted Human Development Index</b>, which discounts the HDI value for inequality in the distribution of each dimension across the population."
+        },
+        {
+          "q": "The Gender Development Index (GDI) is defined as:",
+          "o": [
+            "The average of male and female literacy rates",
+            "The ratio of female HDI to male HDI",
+            "A composite index of women's political representation",
+            "The gender gap in labour force participation rate"
+          ],
+          "a": 1,
+          "e": "The <b>GDI</b> is the <b>ratio of the female HDI to the male HDI</b>, capturing gender gaps in the same three basic dimensions used in HDI."
+        },
+        {
+          "q": "The Gender Inequality Index (GII) measures inequality between men and women across which three dimensions?",
+          "o": [
+            "Income, education, and health",
+            "Reproductive health, empowerment, and labour market participation",
+            "Political representation, income, and literacy",
+            "Education, employment, and property ownership"
+          ],
+          "a": 1,
+          "e": "The <b>GII</b> captures gender-based inequality in <b>reproductive health, empowerment, and labour market participation</b>."
+        },
+        {
+          "q": "For the Gender Inequality Index (GII), which of the following is true?",
+          "o": [
+            "A higher GII value indicates lower gender inequality",
+            "A lower GII value indicates lower gender inequality",
+            "GII has no defined direction of interpretation",
+            "A GII value of 1 indicates perfect equality"
+          ],
+          "a": 1,
+          "e": "Unlike HDI, for <b>GII</b> a <b>lower value indicates lower inequality</b>, i.e., better gender equality outcomes."
+        },
+        {
+          "q": "The Multidimensional Poverty Index (MPI), published alongside the HDR, covers deprivations in which three dimensions?",
+          "o": [
+            "Income, employment, and shelter",
+            "Health, education, and living standards",
+            "Nutrition, sanitation, and literacy",
+            "Health, income, and social security"
+          ],
+          "a": 1,
+          "e": "The <b>MPI</b> captures overlapping deprivations in <b>health, education, and living standards</b> at the household level."
+        },
+        {
+          "q": "The Multidimensional Poverty Index (MPI) featured in the Human Development Report was jointly developed by UNDP with which institution?",
+          "o": [
+            "World Bank",
+            "Oxford Poverty and Human Development Initiative (OPHI)",
+            "International Labour Organisation",
+            "London School of Economics"
+          ],
+          "a": 1,
+          "e": "The MPI was jointly developed by UNDP with the <b>Oxford Poverty and Human Development Initiative (OPHI)</b>."
+        },
+        {
+          "q": "The Sustainable Development Goals (SDGs) were adopted by UN Member States in September 2015 at which forum?",
+          "o": [
+            "UN Security Council",
+            "UN General Assembly",
+            "UN Economic and Social Council",
+            "World Summit on Social Development"
+          ],
+          "a": 1,
+          "e": "The SDGs were adopted by all UN Member States at the <b>UN General Assembly</b> in September 2015."
+        },
+        {
+          "q": "How many goals and targets do the Sustainable Development Goals (SDGs) comprise?",
+          "o": [
+            "8 goals and 21 targets",
+            "17 goals and 169 targets",
+            "10 goals and 100 targets",
+            "20 goals and 200 targets"
+          ],
+          "a": 1,
+          "e": "The SDGs comprise <b>17 Goals and 169 targets</b>, forming the core of the 2030 Agenda for Sustainable Development."
+        },
+        {
+          "q": "The Millennium Development Goals (MDGs), which preceded the SDGs, were in effect during which period and comprised how many goals?",
+          "o": [
+            "1990-2000 with 10 goals",
+            "2000-2015 with 8 goals",
+            "2005-2020 with 12 goals",
+            "1995-2010 with 6 goals"
+          ],
+          "a": 1,
+          "e": "The <b>MDGs</b> ran from <b>2000 to 2015</b> and comprised <b>8 goals</b>, largely focused on developing countries."
+        },
+        {
+          "q": "In India, which institution is the nodal agency for coordinating implementation of the Sustainable Development Goals (SDGs)?",
+          "o": [
+            "Ministry of Finance",
+            "Reserve Bank of India",
+            "NITI Aayog",
+            "Ministry of Statistics and Programme Implementation"
+          ],
+          "a": 2,
+          "e": "<b>NITI Aayog</b> is the nodal agency for SDG coordination in India and publishes the <b>SDG India Index</b> to track progress of states and UTs."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which of the following is a key difference between the SDGs and the MDGs?",
+          "o": [
+            "MDGs had more goals than SDGs",
+            "SDGs apply universally to both developed and developing countries, while MDGs were largely focused on developing countries",
+            "MDGs were adopted by UNDP while SDGs were adopted by the UN General Assembly",
+            "SDGs have fewer targets than MDGs"
+          ],
+          "a": 1,
+          "e": "A defining shift from MDGs to SDGs is universality: <b>SDGs apply to all countries</b>, whereas <b>MDGs</b> were largely framed around developing-country concerns."
+        },
+        {
+          "q": "Why did the Human Development Report shift from an arithmetic mean to a geometric mean in calculating HDI from 2010 onward?",
+          "o": [
+            "To simplify the calculation for smaller economies",
+            "To penalize imbalance/inequality between the three dimensions, since poor performance in one cannot be fully offset by good performance in another",
+            "To align HDI calculation with GDP growth accounting",
+            "To remove the education dimension from the index"
+          ],
+          "a": 1,
+          "e": "The <b>geometric mean</b> penalizes imbalance across dimensions -- a low score in one dimension cannot be fully compensated by a high score in another, unlike the arithmetic mean used earlier."
+        },
+        {
+          "q": "How does the Gender Development Index (GDI) differ from the Gender Inequality Index (GII)?",
+          "o": [
+            "GDI and GII measure identical concepts and are interchangeable",
+            "GDI compares female and male HDI values across the same three HDI dimensions, while GII is a separate composite index covering reproductive health, empowerment, and labour market participation",
+            "GII is published by the World Bank while GDI is published by UNDP",
+            "GDI is calculated only for developed countries"
+          ],
+          "a": 1,
+          "e": "<b>GDI</b> is the ratio of female-to-male HDI across the standard HDI dimensions, whereas <b>GII</b> is a distinct composite index built around reproductive health, empowerment, and labour market participation."
+        },
+        {
+          "q": "A major criticism of the Human Development Index (HDI) is that it:",
+          "o": [
+            "Does not include an education dimension at all",
+            "Does not directly capture inequality, poverty, human security, or empowerment",
+            "Only measures GDP growth",
+            "Cannot be calculated for developing countries"
+          ],
+          "a": 1,
+          "e": "HDI is criticized for being a summary measure that does <b>not directly capture inequality, poverty, human security or empowerment</b> -- separate indices like IHDI, MPI and GII were developed to address such gaps."
+        },
+        {
+          "q": "What is the key purpose of publishing the Inequality-adjusted HDI (IHDI) alongside the standard HDI?",
+          "o": [
+            "To rank countries solely on income levels",
+            "To show the loss in human development due to unequal distribution of health, education, and income within a country",
+            "To replace GNI per capita with GDP per capita",
+            "To measure gender-specific development gaps"
+          ],
+          "a": 1,
+          "e": "The <b>IHDI</b> adjusts the HDI downward to reflect the loss in potential human development caused by <b>inequality in distribution</b> of the three dimensions across the population."
+        },
+        {
+          "q": "Amartya Sen's 'capability approach', which influenced the conceptualisation of the HDI, primarily emphasizes:",
+          "o": [
+            "Maximizing GNP growth as the sole indicator of development",
+            "Expanding people's real freedoms and capabilities to lead the kind of life they value, rather than focusing only on income",
+            "Measuring development purely through consumption expenditure",
+            "Prioritizing industrial output over agricultural output"
+          ],
+          "a": 1,
+          "e": "The <b>capability approach</b> shifts the focus of development from mere income/GNP growth to expanding people's <b>freedoms and capabilities</b> to achieve valuable functionings."
+        },
+        {
+          "q": "What is the primary function of the SDG India Index, published by NITI Aayog?",
+          "o": [
+            "To rank Indian states/UTs based on GDP growth",
+            "To measure and monitor the progress of Indian states and Union Territories on the Sustainable Development Goals",
+            "To assess India's global HDI rank",
+            "To calculate India's Gender Inequality Index"
+          ],
+          "a": 1,
+          "e": "The <b>SDG India Index</b>, published by <b>NITI Aayog</b>, tracks the progress of <b>states and Union Territories</b> on SDG indicators."
+        },
+        {
+          "q": "Who served as the lead author associated with the first Human Development Report in 1990?",
+          "o": [
+            "Amartya Sen",
+            "Mahbub ul Haq",
+            "Jagdish Bhagwati",
+            "Joseph Stiglitz"
+          ],
+          "a": 1,
+          "e": "<b>Mahbub ul Haq</b> was the driving force and lead author behind the first HDR in 1990, though the underlying capability framework drew on Amartya Sen's work."
+        },
+        {
+          "q": "'Expected years of schooling' and 'mean years of schooling', both used in HDI, differ in that:",
+          "o": [
+            "Both measure the same thing for adults only",
+            "Expected years of schooling projects schooling for a child entering the school system, while mean years of schooling reflects the actual average schooling completed by adults aged 25 and above",
+            "Mean years of schooling is a forward-looking projection while expected years of schooling is historical",
+            "Expected years of schooling applies only to girls"
+          ],
+          "a": 1,
+          "e": "<b>Expected years of schooling</b> is a forward-looking projection for children currently entering school, while <b>mean years of schooling</b> reflects the actual average years completed by adults aged 25+."
+        },
+        {
+          "q": "Which statement best distinguishes the philosophical basis of human development thinking from earlier welfare economics approaches?",
+          "o": [
+            "Human development thinking equates development with rising per-capita GNP alone",
+            "Human development thinking, drawing on the capability approach, views development as expanding people's real freedoms/capabilities, going beyond income-centric measures",
+            "Welfare economics rejects the use of any economic indicators",
+            "There is no conceptual difference between the two approaches"
+          ],
+          "a": 1,
+          "e": "Traditional welfare economics often equated development with rising <b>income/GNP</b>; the <b>capability approach</b> reframed development as expanding real freedoms, influencing the HDI's multidimensional design."
+        },
+        {
+          "q": "The Multidimensional Poverty Index (MPI) differs from conventional income-based poverty measures in that MPI:",
+          "o": [
+            "Relies solely on income thresholds like the poverty line",
+            "Captures overlapping deprivations across health, education, and living standards experienced simultaneously by a household",
+            "Is calculated only for urban populations",
+            "Excludes education-related indicators"
+          ],
+          "a": 1,
+          "e": "Unlike income-based poverty lines, <b>MPI</b> identifies the poor based on <b>overlapping deprivations</b> across health, education, and living standards simultaneously."
+        },
+        {
+          "q": "Which of the following about the Human Development Report's special annual theme is correct?",
+          "o": [
+            "Every HDR since 1990 has carried the same fixed theme",
+            "Each year's HDR usually carries a distinct special theme relevant to contemporary human development concerns",
+            "HDR themes are decided by the World Bank",
+            "HDR has never had thematic focuses"
+          ],
+          "a": 1,
+          "e": "Each year's <b>Human Development Report</b> typically carries a distinct <b>special theme</b> reflecting contemporary development concerns, alongside the routine HDI rankings."
+        },
+        {
+          "q": "Consider the following statements: 1. The Human Development Index incorporates income inequality directly as one of its three dimensions. 2. The health dimension of HDI is measured using life expectancy at birth. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect -- HDI's three dimensions are health, education and income levels, not inequality directly (that is captured separately by IHDI). Statement 2 is correct -- <b>life expectancy at birth</b> measures the health dimension."
+        },
+        {
+          "q": "Consider the following statements: 1. The Millennium Development Goals comprised 17 goals. 2. The Sustainable Development Goals were adopted by the UN General Assembly in 2015. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect -- the <b>MDGs</b> had 8 goals, not 17 (17 is the number of SDGs). Statement 2 is correct -- the <b>SDGs</b> were adopted at the UN General Assembly in <b>2015</b>."
+        },
+        {
+          "q": "Consider the following statements regarding indices published in the Human Development Report: 1. The Gender Inequality Index (GII) covers reproductive health, empowerment, and labour market participation. 2. The Multidimensional Poverty Index (MPI) was developed jointly with OPHI. 3. A higher GII value indicates lower gender inequality. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect -- for <b>GII</b>, a <b>lower</b> value indicates lower inequality, not a higher one."
+        },
+        {
+          "q": "Consider the following statements: 1. HDI classifies countries into four categories of human development. 2. The 'decent standard of living' dimension of HDI is measured using GDP per capita at market exchange rates. 3. HDI has been calculated using the geometric mean of dimensional indices since the 2010 Human Development Report. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect -- the standard-of-living dimension uses <b>GNI per capita at PPP</b>, not GDP per capita at market exchange rates."
+        },
+        {
+          "q": "Consider the following statements: 1. The Inequality-adjusted HDI (IHDI) can never be higher than the standard HDI value for a country with any inequality. 2. The IHDI and HDI would be identical only in a hypothetical case of perfect equality. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct -- the <b>IHDI</b> is always less than or equal to HDI, with equality holding <b>only when there is no inequality</b> in the distribution of dimensions."
+        },
+        {
+          "q": "Consider the following statements regarding NITI Aayog's role in India's SDG framework: 1. NITI Aayog is the nodal agency coordinating SDG implementation in India. 2. NITI Aayog publishes the SDG India Index to track progress of states and UTs. 3. NITI Aayog also publishes the global Human Development Report. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect -- the global <b>Human Development Report</b> is published by <b>UNDP</b>, not NITI Aayog."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Why does the HDI use GNI per capita at Purchasing Power Parity (PPP) rather than nominal GDP per capita at market exchange rates for its income dimension?",
+          "o": [
+            "PPP adjusts for differences in price levels/cost of living across countries, giving a more comparable measure of real standard of living",
+            "Nominal GDP double-counts remittances received by a country",
+            "PPP-based figures are always lower than market exchange rate figures for every country",
+            "GNI at PPP excludes agricultural income from the calculation"
+          ],
+          "a": 0,
+          "e": "<b>GNI per capita at PPP</b> adjusts for differing price levels and cost of living across countries, enabling a more meaningful cross-country comparison of real purchasing power/standard of living than nominal GDP at market exchange rates."
+        },
+        {
+          "q": "Which of the following best distinguishes the 'capability approach' from a narrow 'human capital' approach to development?",
+          "o": [
+            "The capability approach treats people as the ends of development (expanding freedoms to achieve valued functionings), while human capital approaches often treat people primarily as a means to economic growth/production",
+            "The capability approach focuses only on physical capital accumulation",
+            "The human capital approach is broader and includes political freedoms while the capability approach does not",
+            "There is no meaningful conceptual distinction between the two"
+          ],
+          "a": 0,
+          "e": "The <b>capability approach</b> views human beings as the <b>ends</b> of development, valuing expanded freedoms, whereas a narrower <b>human capital</b> lens often treats people as inputs (means) to raise productivity and growth."
+        },
+        {
+          "q": "Which of the following is NOT one of the three basic dimensions used to construct the HDI?",
+          "o": [
+            "A long and healthy life",
+            "Knowledge/education",
+            "A decent standard of living",
+            "Income/asset inequality"
+          ],
+          "a": 3,
+          "e": "HDI's three dimensions are health, education and standard of living; <b>inequality</b> is not a direct HDI dimension -- it is addressed separately through the IHDI."
+        },
+        {
+          "q": "Which document forms the core framework within which the SDGs were adopted?",
+          "o": [
+            "The Rio Declaration on Environment and Development",
+            "The 2030 Agenda for Sustainable Development",
+            "The Kyoto Protocol",
+            "The Millennium Declaration"
+          ],
+          "a": 1,
+          "e": "The SDGs form the core of the <b>'2030 Agenda for Sustainable Development'</b>, adopted alongside the goals in September 2015."
+        },
+        {
+          "q": "In terms of interpretation direction, which pairing is correct?",
+          "o": [
+            "For both HDI and GII, a higher value always indicates a better outcome",
+            "For HDI, a higher value indicates better human development, whereas for GII, a lower value indicates lower (better) gender inequality",
+            "For HDI, a lower value indicates better human development, whereas for GII, a higher value indicates better gender equality",
+            "Neither HDI nor GII has a defined direction of interpretation"
+          ],
+          "a": 1,
+          "e": "HDI is a positively-oriented index (higher is better), while <b>GII</b> is inversely oriented -- a <b>lower</b> GII value signals lower/better gender inequality outcomes."
+        },
+        {
+          "q": "How does the Multidimensional Poverty Index (MPI) complement the information provided by the HDI?",
+          "o": [
+            "MPI duplicates HDI exactly at the household level",
+            "MPI captures the intensity and overlap of deprivations experienced by individual households across health, education and living standards, information the aggregate/national-level HDI does not reveal",
+            "MPI replaces HDI as UNDP's primary human development measure",
+            "MPI is calculated using only income data, unlike HDI"
+          ],
+          "a": 1,
+          "e": "While HDI is a national aggregate, <b>MPI</b> identifies overlapping, simultaneous deprivations experienced by individual <b>households</b>, offering granularity that HDI does not capture."
+        },
+        {
+          "q": "Which of the following statements about the historical evolution of the HDI methodology is correct?",
+          "o": [
+            "HDI has used the geometric mean since its inception in 1990",
+            "HDI initially used an arithmetic mean of the three dimensional indices, and switched to a geometric mean from the 2010 Human Development Report onward",
+            "HDI has never changed its method of aggregating dimensional indices",
+            "HDI switched from geometric mean to arithmetic mean in 2010"
+          ],
+          "a": 1,
+          "e": "HDI originally aggregated its three indices using an <b>arithmetic mean</b>; this changed to a <b>geometric mean</b> starting with the <b>2010 HDR</b>."
+        },
+        {
+          "q": "The universality of the SDGs, as opposed to the MDGs, implies which of the following?",
+          "o": [
+            "SDGs apply only to least-developed countries",
+            "SDGs set targets and goals applicable to developed and developing countries alike, unlike MDGs which were framed largely with developing countries in mind",
+            "SDGs exclude environmental goals, unlike MDGs",
+            "SDGs are legally binding treaties, unlike MDGs"
+          ],
+          "a": 1,
+          "e": "The SDGs mark a shift to <b>universality</b> -- applicable to all UN member states -- whereas the MDGs largely targeted developing-country outcomes such as poverty and child mortality."
+        },
+        {
+          "q": "Which of the following correctly relates GDI to HDI?",
+          "o": [
+            "GDI is a completely independent index unrelated to HDI's dimensions",
+            "GDI uses the same three basic dimensions as HDI but is calculated separately for females and males, then expressed as a ratio",
+            "GDI is calculated only using the income dimension of HDI",
+            "GDI is a synonym for GII and both are computed identically"
+          ],
+          "a": 1,
+          "e": "<b>GDI</b> disaggregates the same three HDI dimensions by sex, computing separate female and male HDI values, and expresses <b>GDI as their ratio</b>."
+        },
+        {
+          "q": "Why is the HDI often described as a 'summary' measure of human development rather than a comprehensive one?",
+          "o": [
+            "Because it is calculated only once every ten years",
+            "Because it condenses multidimensional aspects of development into a single composite number using only three dimensions, thereby omitting other important aspects like inequality, security and empowerment",
+            "Because it only applies to G20 countries",
+            "Because it excludes the education dimension entirely"
+          ],
+          "a": 1,
+          "e": "HDI is a <b>summary/composite measure</b> based on just three dimensions; it deliberately simplifies development into a single number, leaving out inequality, human security, empowerment, etc., which other indices seek to address."
+        },
+        {
+          "q": "Consider the following statements: 1. The Multidimensional Poverty Index (MPI) featured in the HDR is based purely on monetary income thresholds. 2. The MPI is published jointly with the Oxford Poverty and Human Development Initiative (OPHI). Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect -- MPI is based on <b>overlapping non-monetary deprivations</b> (health, education, living standards), not just income. Statement 2 is correct -- MPI is a joint product of UNDP and <b>OPHI</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The geometric mean used in HDI since 2010 allows very poor performance in one dimension to be fully compensated by very high performance in another dimension. 2. The geometric mean reduces the degree of substitutability between the dimensional indices compared to the arithmetic mean. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect -- that describes the effect of the earlier <b>arithmetic mean</b>, not the geometric mean. Statement 2 is correct -- the <b>geometric mean</b> reduces substitutability and penalizes imbalance across dimensions."
+        },
+        {
+          "q": "Consider the following statements: 1. The HDI was first introduced in the 1990 Human Development Report. 2. Since 2010, HDI has been the arithmetic mean of the health, education and income indices. 3. The concept of HDI was influenced by Amartya Sen's capability approach. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect -- since 2010 HDI uses the <b>geometric mean</b>, not the arithmetic mean."
+        },
+        {
+          "q": "Consider the following statements: 1. The Gender Development Index (GDI) is expressed as the ratio of female HDI to male HDI. 2. The Gender Inequality Index (GII) is expressed as the ratio of female HDI to male HDI. 3. The GII ranges in value from 0 to 1, with 0 indicating equality between men and women. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect -- that description applies to <b>GDI</b>, not GII; <b>GII</b> is a separate composite index of reproductive health, empowerment and labour market participation, not a simple HDI ratio."
+        },
+        {
+          "q": "Consider the following statements: 1. The MDGs were in effect from 2000 to 2015 and comprised 8 goals. 2. The SDGs, comprising 17 goals, were adopted to succeed the MDGs. 3. The SDGs are legally binding treaties ratified by national legislatures. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect -- the SDGs are a set of <b>globally agreed goals/targets under the 2030 Agenda</b>, not a legally binding treaty requiring ratification."
+        },
+        {
+          "q": "Consider the following statements: 1. HDI classifies countries into 'very high', 'high', 'medium' and 'low' human development categories. 2. The Human Development Report has been published biennially (once every two years) since 1990. 3. The MPI assesses deprivations at the household level across health, education and living standards. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect -- the HDR has been published <b>annually</b>, not biennially, since 1990 (with only rare exceptions)."
+        },
+        {
+          "q": "Consider the following statements: 1. Mahbub ul Haq was an Indian economist who pioneered the HDI along with Pakistani economist Amartya Sen. 2. The capability approach underlying HDI's conceptualisation shifted the development discourse away from a narrow focus on GNP growth. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 reverses the nationalities -- <b>Mahbub ul Haq was Pakistani</b> and <b>Amartya Sen is Indian</b>, not the other way around. Statement 2 is correct -- the capability approach reoriented development thinking beyond GNP growth."
+        },
+        {
+          "q": "Consider the following statements regarding the SDGs in the Indian context: 1. NITI Aayog coordinates SDG implementation and monitoring in India. 2. The SDG India Index measures progress of Indian states and Union Territories on SDG-related indicators. 3. India's SDG framework replaced the need for any human development indices at the sub-national level. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect and overstated -- the SDG framework does not eliminate the relevance of other human development indices at sub-national levels."
+        }
+      ]
+    }
+  },
+  {
+    "id": "eco_inclusive_growth",
+    "title": "Inclusive Growth and Financial Inclusion",
+    "desc": "Inclusive growth, PMJDY, MUDRA, DBT and JAM trinity",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which Five Year Plan explicitly adopted 'faster and more inclusive growth' as its central theme?",
+          "o": [
+            "9th Five Year Plan",
+            "10th Five Year Plan",
+            "11th Five Year Plan",
+            "12th Five Year Plan"
+          ],
+          "a": 2,
+          "e": "The <b>11th Five Year Plan (2007-12)</b> was titled 'Towards Faster and More Inclusive Growth', making it the central theme of that plan."
+        },
+        {
+          "q": "The concept of inclusive growth primarily emphasizes which of the following?",
+          "o": [
+            "Maximizing GDP growth rate alone",
+            "Broad-based growth that reduces poverty and inequality across sectors and regions",
+            "Growth concentrated in urban industrial hubs",
+            "Growth measured only through stock market performance"
+          ],
+          "a": 1,
+          "e": "<b>Inclusive growth</b> is broad-based across sectors, includes a large share of the labour force, and reduces poverty, inequality and regional disparities, rather than being judged by GDP growth alone."
+        },
+        {
+          "q": "Which RBI committee defined financial inclusion as ensuring access to financial services and timely, adequate credit to vulnerable groups at an affordable cost?",
+          "o": [
+            "Nachiket Mor Committee",
+            "Rangarajan Committee",
+            "Narasimham Committee",
+            "Raghuram Rajan Committee"
+          ],
+          "a": 1,
+          "e": "The <b>Rangarajan Committee on Financial Inclusion (2008)</b> gave this widely cited definition of financial inclusion."
+        },
+        {
+          "q": "The Nachiket Mor Committee (2013-14) was constituted to examine which subject?",
+          "o": [
+            "Banking sector NPAs",
+            "Comprehensive financial services for small businesses and low-income households",
+            "Fiscal deficit reduction",
+            "Foreign exchange reserve management"
+          ],
+          "a": 1,
+          "e": "The <b>Nachiket Mor Committee</b> was the 'Committee on Comprehensive Financial Services for Small Businesses and Low-Income Households', set up by the RBI in 2013-14."
+        },
+        {
+          "q": "The Nachiket Mor Committee's recommendations led to RBI guidelines in 2014 for licensing of which two new categories of banks?",
+          "o": [
+            "Payments Banks and Small Finance Banks",
+            "Regional Rural Banks and Cooperative Banks",
+            "Universal Banks and Development Banks",
+            "Investment Banks and Merchant Banks"
+          ],
+          "a": 0,
+          "e": "Following the Nachiket Mor Committee's recommendation for differentiated bank licenses, the RBI issued 2014 guidelines for licensing <b>Payments Banks</b> and <b>Small Finance Banks</b>."
+        },
+        {
+          "q": "On what date was the Pradhan Mantri Jan Dhan Yojana (PMJDY) launched?",
+          "o": [
+            "15 August 2014",
+            "28 August 2014",
+            "1 January 2015",
+            "2 October 2014"
+          ],
+          "a": 1,
+          "e": "<b>PMJDY</b> was launched on <b>28 August 2014</b> as the National Mission for Financial Inclusion."
+        },
+        {
+          "q": "PMJDY is officially described as the National Mission for which of the following?",
+          "o": [
+            "Financial Inclusion",
+            "Digital Literacy",
+            "Rural Employment",
+            "Skill Development"
+          ],
+          "a": 0,
+          "e": "PMJDY was launched as the <b>National Mission for Financial Inclusion</b>."
+        },
+        {
+          "q": "Which of the following is a key feature of a PMJDY basic savings bank deposit account?",
+          "o": [
+            "Minimum balance of Rs 5,000 is mandatory",
+            "Zero-balance account with a RuPay debit card carrying accident insurance cover",
+            "Only available to salaried government employees",
+            "Restricted to accounts opened before 2014"
+          ],
+          "a": 1,
+          "e": "PMJDY accounts can be opened with <b>zero balance</b> and come with a <b>RuPay debit card</b> that has an inbuilt accident insurance cover."
+        },
+        {
+          "q": "PMJDY entered the Guinness World Records for which achievement?",
+          "o": [
+            "Highest number of bank accounts opened in a single week",
+            "Largest mobile banking network",
+            "Fastest loan disbursal system",
+            "Largest microfinance institution"
+          ],
+          "a": 0,
+          "e": "As part of the financial inclusion campaign, PMJDY set a <b>Guinness World Record for the highest number of bank accounts opened in a single week</b>."
+        },
+        {
+          "q": "What does MUDRA stand for in the context of Pradhan Mantri MUDRA Yojana?",
+          "o": [
+            "Micro Units Development and Refinance Agency",
+            "Ministry of Urban Development and Rural Assistance",
+            "Microfinance Unit for Development and Rural Advancement",
+            "Micro Union for Development and Regional Assistance"
+          ],
+          "a": 0,
+          "e": "<b>MUDRA</b> stands for <b>Micro Units Development and Refinance Agency</b>."
+        },
+        {
+          "q": "In which month and year was the Pradhan Mantri MUDRA Yojana (PMMY) launched?",
+          "o": [
+            "January 2014",
+            "April 2015",
+            "August 2016",
+            "October 2017"
+          ],
+          "a": 1,
+          "e": "PMMY was launched in <b>April 2015</b>."
+        },
+        {
+          "q": "Under MUDRA, what is the maximum loan amount covered under the 'Shishu' category?",
+          "o": [
+            "Up to Rs 50,000",
+            "Up to Rs 5 lakh",
+            "Up to Rs 10 lakh",
+            "Up to Rs 1 lakh"
+          ],
+          "a": 0,
+          "e": "The <b>'Shishu'</b> category covers loans <b>up to Rs 50,000</b>."
+        },
+        {
+          "q": "Under MUDRA, the 'Tarun' loan category covers loans in which range?",
+          "o": [
+            "Up to Rs 50,000",
+            "Above Rs 50,000 and up to Rs 5 lakh",
+            "Above Rs 5 lakh and up to Rs 10 lakh",
+            "Above Rs 10 lakh and up to Rs 20 lakh"
+          ],
+          "a": 2,
+          "e": "The <b>'Tarun'</b> category covers loans <b>above Rs 5 lakh and up to Rs 10 lakh</b>, the highest MUDRA slab."
+        },
+        {
+          "q": "What is the maximum loan amount available to a beneficiary under the MUDRA scheme?",
+          "o": [
+            "Rs 2 lakh",
+            "Rs 5 lakh",
+            "Rs 10 lakh",
+            "Rs 25 lakh"
+          ],
+          "a": 2,
+          "e": "MUDRA provides collateral-free loans of <b>up to Rs 10 lakh</b> to non-corporate, non-farm small/micro enterprises."
+        },
+        {
+          "q": "Direct Benefit Transfer (DBT) was launched in India on which date?",
+          "o": [
+            "1 January 2013",
+            "28 August 2014",
+            "1 April 2015",
+            "26 January 2016"
+          ],
+          "a": 0,
+          "e": "<b>DBT</b> was launched on <b>1 January 2013</b> to reform government delivery systems."
+        },
+        {
+          "q": "The primary objective of the Direct Benefit Transfer (DBT) scheme is to:",
+          "o": [
+            "Increase import duties on subsidised goods",
+            "Transfer subsidies and benefits directly into beneficiaries' bank accounts to reduce leakages and delays",
+            "Replace all bank branches with mobile banking units",
+            "Provide collateral-free loans to micro enterprises"
+          ],
+          "a": 1,
+          "e": "DBT aims to <b>transfer subsidies/benefits directly into beneficiaries' bank accounts</b>, reducing leakages, delays and duplication in welfare delivery."
+        },
+        {
+          "q": "The 'JAM Trinity' popularized in the Economic Survey 2014-15 refers to which combination?",
+          "o": [
+            "Jan Dhan, Aadhaar, Mobile",
+            "Judiciary, Administration, Media",
+            "Jan Dhan, Agriculture, MGNREGA",
+            "Jan Dhan, Aadhaar, MUDRA"
+          ],
+          "a": 0,
+          "e": "The <b>JAM Trinity</b> stands for <b>Jan Dhan (bank accounts), Aadhaar (unique identity), and Mobile (connectivity)</b>."
+        },
+        {
+          "q": "Aadhaar, the unique identity number issued by UIDAI, consists of how many digits?",
+          "o": [
+            "10 digits",
+            "11 digits",
+            "12 digits",
+            "16 digits"
+          ],
+          "a": 2,
+          "e": "Aadhaar is a <b>12-digit</b> unique identity number issued by the <b>UIDAI</b>."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements: 1. Inclusive growth is measured solely by the rate of GDP growth. 2. Inclusive growth seeks to reduce rural-urban and regional disparities. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect since inclusive growth is not judged by GDP growth alone; statement 2 is correct as inclusive growth addresses <b>regional and rural-urban disparities</b>."
+        },
+        {
+          "q": "Which of the following correctly distinguishes the Rangarajan Committee from the Nachiket Mor Committee?",
+          "o": [
+            "Rangarajan Committee recommended differentiated bank licenses; Nachiket Mor Committee defined financial inclusion",
+            "Rangarajan Committee (2008) defined financial inclusion; Nachiket Mor Committee (2013-14) recommended structural reforms including differentiated bank licenses",
+            "Both committees were set up in the same year with identical mandates",
+            "Neither committee was constituted by the RBI"
+          ],
+          "a": 1,
+          "e": "The <b>Rangarajan Committee (2008)</b> provided the definition of financial inclusion, while the <b>Nachiket Mor Committee (2013-14)</b> recommended structural reforms such as differentiated bank licenses."
+        },
+        {
+          "q": "Consider the following statements regarding MUDRA loan categories: 1. 'Shishu' covers loans up to Rs 50,000. 2. 'Kishor' covers loans above Rs 50,000 and up to Rs 5 lakh. 3. 'Tarun' covers loans above Rs 10 lakh and up to Rs 20 lakh. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct; statement 3 is incorrect because <b>'Tarun'</b> covers loans above Rs 5 lakh and <b>up to Rs 10 lakh</b>, not Rs 20 lakh."
+        },
+        {
+          "q": "Which of the following best explains why the JAM Trinity is considered central to India's financial inclusion strategy?",
+          "o": [
+            "It combines bank accounts, unique identity, and mobile connectivity to enable direct transfer of benefits and plug leakages",
+            "It refers to three separate insurance schemes for the poor",
+            "It is a committee formed to review MUDRA loan defaults",
+            "It denotes three types of Payments Banks licensed by RBI"
+          ],
+          "a": 0,
+          "e": "The <b>JAM Trinity (Jan Dhan, Aadhaar, Mobile)</b> enables direct benefit transfer, reduces leakages in subsidy delivery, and furthers financial inclusion."
+        },
+        {
+          "q": "Consider the following statements: 1. PMJDY accounts can be opened with zero balance. 2. PMJDY provides an overdraft facility for eligible account holders. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: PMJDY allows <b>zero-balance accounts</b> and provides an <b>overdraft facility</b> for eligible account holders."
+        },
+        {
+          "q": "Which of the following is an accurate distinction between MUDRA loans and PMJDY overdraft facility?",
+          "o": [
+            "MUDRA loans are collateral-free loans up to Rs 10 lakh for non-farm micro enterprises, while PMJDY overdraft is a smaller facility linked to a basic savings account",
+            "MUDRA loans require collateral while PMJDY overdraft does not",
+            "Both are identical schemes launched on the same date",
+            "MUDRA loans are only for agricultural purposes"
+          ],
+          "a": 0,
+          "e": "<b>MUDRA</b> provides collateral-free loans up to Rs 10 lakh for non-corporate, non-farm micro enterprises, whereas the <b>PMJDY overdraft</b> is a smaller credit facility tied to a basic savings account."
+        },
+        {
+          "q": "Consider the following statements: 1. DBT relies on the JAM trinity architecture. 2. PAHAL is a DBT scheme for LPG subsidy transfer. 3. DBT was launched after the Aadhaar Act, 2016 came into force. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect because <b>DBT was launched on 1 January 2013</b>, before the Aadhaar Act, 2016 was enacted."
+        },
+        {
+          "q": "Under MUDRA, loans are extended to beneficiaries mainly through which channel?",
+          "o": [
+            "Only through cooperative societies",
+            "Directly by MUDRA to all end-borrowers",
+            "Banks, NBFCs, and MFIs, with MUDRA refinancing/supporting these last-mile financiers",
+            "Only through Payments Banks"
+          ],
+          "a": 2,
+          "e": "MUDRA loans are extended by <b>banks, NBFCs, and MFIs</b>, with MUDRA largely refinancing and supporting these last-mile financiers rather than always lending directly."
+        },
+        {
+          "q": "Which of the following statements about UIDAI is correct?",
+          "o": [
+            "UIDAI was set up in 2009 and issues the 12-digit Aadhaar number",
+            "UIDAI was established under the Aadhaar Act, 2016 for the first time",
+            "UIDAI is a committee under the Ministry of Finance that studies financial inclusion",
+            "UIDAI issues RuPay debit cards to PMJDY account holders"
+          ],
+          "a": 0,
+          "e": "<b>UIDAI</b> was set up in <b>2009</b> and is responsible for issuing the 12-digit Aadhaar number; statutory backing came later via the 2016 Act."
+        },
+        {
+          "q": "Consider the following statements: 1. The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act was enacted in 2016. 2. This Act gave statutory backing to Aadhaar. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct; the <b>2016 Act</b> provided statutory backing to Aadhaar for targeted delivery of subsidies and benefits."
+        },
+        {
+          "q": "Which of the following is NOT a feature associated with PMJDY?",
+          "o": [
+            "Zero-balance savings account",
+            "RuPay debit card with accident insurance cover",
+            "Collateral-free loans up to Rs 10 lakh for micro enterprises",
+            "Overdraft facility for eligible account holders"
+          ],
+          "a": 2,
+          "e": "Collateral-free loans up to Rs 10 lakh for micro enterprises are a feature of <b>MUDRA</b>, not PMJDY."
+        },
+        {
+          "q": "Which of the following correctly reflects the chronology of these initiatives?",
+          "o": [
+            "DBT (2013) preceded PMJDY (2014), which preceded MUDRA (2015)",
+            "MUDRA (2015) preceded PMJDY (2014), which preceded DBT (2013)",
+            "PMJDY (2014) preceded DBT (2013), which preceded MUDRA (2015)",
+            "All three were launched in the same year"
+          ],
+          "a": 0,
+          "e": "The correct chronology is <b>DBT (1 January 2013) then PMJDY (28 August 2014) then MUDRA (April 2015)</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. PAHAL (DBTL) is used for transferring LPG subsidy directly to beneficiaries. 2. PAHAL once held a Guinness World Record for the largest cash transfer/subsidy benefit programme. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct; <b>PAHAL</b> is a major DBT scheme for LPG subsidy and once held a <b>Guinness World Record</b> for the largest such programme."
+        },
+        {
+          "q": "The differentiated banking licenses recommended following the Nachiket Mor Committee report resulted in the creation of which two categories?",
+          "o": [
+            "Rural Banks and Urban Cooperative Banks",
+            "Payments Banks and Small Finance Banks",
+            "Development Banks and Investment Banks",
+            "Public Sector Banks and Private Sector Banks"
+          ],
+          "a": 1,
+          "e": "The Nachiket Mor Committee's recommendations led to RBI's 2014 guidelines creating <b>Payments Banks</b> and <b>Small Finance Banks</b>."
+        },
+        {
+          "q": "Which of the following best describes the relationship between financial inclusion and inclusive growth?",
+          "o": [
+            "They are unrelated concepts with no overlap",
+            "Financial inclusion, by extending affordable credit and financial services to weaker sections, serves as a means towards achieving inclusive growth",
+            "Inclusive growth is a subset of financial inclusion",
+            "Financial inclusion refers only to GDP growth targets"
+          ],
+          "a": 1,
+          "e": "Financial inclusion extends access to affordable financial services to weaker sections, thereby supporting the broader goal of <b>inclusive growth</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. MUDRA loans are available only to registered corporate entities. 2. MUDRA loans are collateral-free. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect since MUDRA targets <b>non-corporate, non-farm</b> small/micro enterprises; statement 2 is correct as MUDRA loans are <b>collateral-free</b>."
+        },
+        {
+          "q": "Why is the DBT scheme considered dependent on the JAM trinity architecture?",
+          "o": [
+            "Because DBT requires beneficiaries to have a Jan Dhan account, an Aadhaar-linked identity, and a mobile number to receive transfers efficiently",
+            "Because DBT was launched by the JAM committee in 2013",
+            "Because JAM refers to three types of MUDRA loans",
+            "Because DBT only covers mobile phone subsidies"
+          ],
+          "a": 0,
+          "e": "DBT relies on the <b>JAM trinity</b> — bank accounts, Aadhaar-based identity verification, and mobile connectivity — to transfer benefits directly and reduce leakages."
+        },
+        {
+          "q": "Which of the following statements correctly compares the objectives of PMJDY and DBT?",
+          "o": [
+            "PMJDY aims to provide universal access to basic banking services, while DBT aims to transfer subsidies directly into existing bank accounts to cut leakages",
+            "PMJDY and DBT are identical schemes with the same launch date",
+            "DBT provides RuPay cards while PMJDY transfers LPG subsidies",
+            "PMJDY was launched to reduce fiscal deficit while DBT promotes banking access"
+          ],
+          "a": 0,
+          "e": "<b>PMJDY</b> focuses on providing access to basic banking services, while <b>DBT</b> uses such accounts to transfer subsidies directly, reducing leakages and delays."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The 11th Five Year Plan was the first to use GDP growth rate as its sole indicator of success. 2. The 11th Five Year Plan's title reflected a shift towards addressing distributional concerns alongside growth. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect as inclusive growth explicitly moved away from judging success by GDP growth alone; statement 2 is correct, reflecting the plan's focus on <b>faster and more inclusive growth</b>."
+        },
+        {
+          "q": "Consider the following statements regarding the evolution of financial inclusion policy in India: 1. The Rangarajan Committee (2008) preceded the Nachiket Mor Committee (2013-14). 2. The Nachiket Mor Committee's recommendations directly led to the 2014 RBI guidelines on Payments Banks and Small Finance Banks licensing. 3. The Rangarajan Committee recommended the creation of differentiated bank licenses. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect since the <b>differentiated bank license</b> recommendation came from the <b>Nachiket Mor Committee</b>, not Rangarajan."
+        },
+        {
+          "q": "A borrower seeking a collateral-free loan of Rs 7 lakh for a non-farm micro enterprise would fall under which MUDRA category, and which institutions would typically extend this loan?",
+          "o": [
+            "'Kishor' category, extended directly only by MUDRA itself",
+            "'Tarun' category, extended by banks/NBFCs/MFIs with MUDRA refinancing support",
+            "'Shishu' category, extended only by Payments Banks",
+            "'Tarun' category, extended only by Small Finance Banks exclusively"
+          ],
+          "a": 1,
+          "e": "A loan of Rs 7 lakh falls in the <b>'Tarun'</b> slab (above Rs 5 lakh up to Rs 10 lakh) and would be extended by banks/NBFCs/MFIs, with <b>MUDRA refinancing</b> these last-mile financiers."
+        },
+        {
+          "q": "Consider the following statements: 1. Aadhaar was introduced before UIDAI was established. 2. UIDAI was set up in 2009. 3. Statutory backing for Aadhaar came through a 2016 Act, several years after UIDAI's establishment. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect since <b>UIDAI (2009)</b> was established to issue Aadhaar, not the reverse; statements 2 and 3 are correct, showing statutory backing came later in <b>2016</b>."
+        },
+        {
+          "q": "Which of the following best explains why PMJDY, MUDRA, and DBT are together seen as complementary pillars of India's financial inclusion strategy rather than overlapping schemes?",
+          "o": [
+            "PMJDY provides the banking access, MUDRA provides small-ticket credit, and DBT ensures subsidy delivery through the accounts opened, addressing distinct but interlinked gaps",
+            "All three schemes provide identical zero-balance accounts",
+            "MUDRA and DBT are actually the same scheme renamed in 2015",
+            "PMJDY replaced both MUDRA and DBT after 2014"
+          ],
+          "a": 0,
+          "e": "<b>PMJDY</b> builds banking access, <b>MUDRA</b> supplies credit to micro enterprises, and <b>DBT</b> uses the banking infrastructure to deliver subsidies — together forming complementary, not overlapping, pillars."
+        },
+        {
+          "q": "Consider the following statements: 1. The JAM trinity concept was introduced in the Economic Survey 2014-15. 2. JAM enables both plugging of subsidy leakages and furthering financial inclusion. 3. JAM refers exclusively to a technical protocol for mobile banking transactions with no link to Aadhaar. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect since JAM explicitly links <b>Jan Dhan, Aadhaar, and Mobile</b>, not merely a mobile banking protocol."
+        },
+        {
+          "q": "Why might a policy analyst argue that MUDRA's structure of three loan slabs (Shishu, Kishor, Tarun) reflects a lifecycle approach to enterprise financing?",
+          "o": [
+            "Because the slabs are randomly assigned without any rationale",
+            "Because the slabs correspond to the increasing funding needs of a micro unit as it grows from a nascent to a more established stage",
+            "Because each slab corresponds to a different sector such as agriculture, industry, and services",
+            "Because each slab is reserved for a specific gender category of borrowers"
+          ],
+          "a": 1,
+          "e": "The three MUDRA categories are structured to reflect the <b>stage of growth/funding needs</b> of a micro unit, from a nascent enterprise (Shishu) to a more mature one (Tarun)."
+        },
+        {
+          "q": "Consider the following statements: 1. DBT was launched to reduce leakages, delays, and duplication in welfare delivery. 2. DBT completely eliminated the need for Aadhaar-based identification. 3. PAHAL, a DBT scheme for LPG subsidy, once held a Guinness World Record. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect because DBT relies heavily on <b>Aadhaar-based identification</b> as part of the JAM trinity, not the elimination of it."
+        },
+        {
+          "q": "Which of the following statements accurately distinguishes the roles of the Rangarajan Committee and the Nachiket Mor Committee in shaping India's financial inclusion framework?",
+          "o": [
+            "Rangarajan Committee laid the conceptual/definitional foundation, while Nachiket Mor Committee proposed structural/institutional reforms to operationalize inclusion",
+            "Both committees were tasked with implementing PMJDY",
+            "Nachiket Mor Committee preceded and was superseded entirely by Rangarajan Committee's findings",
+            "Rangarajan Committee recommended Payments Banks while Nachiket Mor Committee only defined financial inclusion"
+          ],
+          "a": 0,
+          "e": "The <b>Rangarajan Committee</b> (2008) provided the conceptual definition, whereas the <b>Nachiket Mor Committee</b> (2013-14) proposed concrete structural reforms like differentiated bank licenses."
+        },
+        {
+          "q": "Consider the following statements: 1. A PMJDY account holder automatically becomes eligible for a MUDRA loan upon account opening. 2. PMJDY's overdraft facility and MUDRA loans are governed by different eligibility norms and purposes. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect as MUDRA loans require separate eligibility linked to enterprise financing needs, not automatic entitlement from a PMJDY account; statement 2 is correct as the two facilities serve <b>different purposes and eligibility norms</b>."
+        },
+        {
+          "q": "In what sense does the JAM trinity represent a shift in the philosophy of welfare delivery in India, as compared to earlier subsidy regimes?",
+          "o": [
+            "It shifted from indirect, leaky subsidy channels (e.g., price subsidies) towards direct, targeted transfers verified through bank accounts, identity, and mobile connectivity",
+            "It abolished all forms of government subsidy entirely",
+            "It replaced cash transfers with only in-kind distribution of goods",
+            "It was designed exclusively for corporate tax reforms"
+          ],
+          "a": 0,
+          "e": "The JAM trinity enabled a shift from <b>indirect, leakage-prone subsidy delivery</b> to <b>direct, targeted, and verifiable transfers</b> using bank accounts, Aadhaar, and mobile connectivity."
+        },
+        {
+          "q": "Consider the following statements: 1. MUDRA directly disburses all loans to end-borrowers without intermediaries. 2. MUDRA's primary role includes refinancing and supporting last-mile financiers such as banks, NBFCs, and MFIs. 3. MUDRA loans are exclusively meant for corporate enterprises with formal registration. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 0,
+          "e": "Only statement 2 is correct. Statement 1 is incorrect since MUDRA works through intermediaries rather than always lending directly; statement 3 is incorrect since MUDRA targets <b>non-corporate, non-farm</b> enterprises."
+        },
+        {
+          "q": "Which of the following best captures a nuanced distinction between 'inclusive growth' and 'financial inclusion' as policy concepts?",
+          "o": [
+            "Inclusive growth is a broader developmental goal encompassing equitable growth across sectors and regions, while financial inclusion is one specific instrument/means to help achieve that broader goal",
+            "The two terms are entirely synonymous and interchangeable in policy documents",
+            "Financial inclusion is a broader goal, of which inclusive growth is one narrow instrument",
+            "Inclusive growth applies only to rural areas, while financial inclusion applies only to urban areas"
+          ],
+          "a": 0,
+          "e": "<b>Inclusive growth</b> is the overarching developmental objective, whereas <b>financial inclusion</b> is one of several instruments/means used to help achieve broad-based, equitable growth."
+        },
+        {
+          "q": "Consider the following statements: 1. The Aadhaar Act, 2016 was enacted before PMJDY was launched. 2. Aadhaar-based verification is a component of the JAM trinity used to reduce duplication in benefit delivery. 3. UIDAI was established after the Aadhaar Act, 2016 came into force. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 0,
+          "e": "Only statement 2 is correct. Statement 1 is incorrect since PMJDY (2014) preceded the Aadhaar Act (2016); statement 3 is incorrect since <b>UIDAI was set up in 2009</b>, well before the 2016 Act."
+        },
+        {
+          "q": "A student notes that MUDRA, PMJDY, and DBT were all in operation by mid-2015. Which of the following correctly orders their launch relative to one another?",
+          "o": [
+            "DBT (Jan 2013) then PMJDY (Aug 2014) then MUDRA (Apr 2015)",
+            "PMJDY (Aug 2014) then DBT (Jan 2013) then MUDRA (Apr 2015)",
+            "MUDRA (Apr 2015) then DBT (Jan 2013) then PMJDY (Aug 2014)",
+            "All three were launched simultaneously in 2014"
+          ],
+          "a": 0,
+          "e": "The correct sequence is <b>DBT (1 January 2013)</b>, followed by <b>PMJDY (28 August 2014)</b>, followed by <b>MUDRA (April 2015)</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Differentiated bank licenses were envisaged partly to serve financial inclusion goals for underserved segments. 2. Payments Banks emerging from this framework are permitted to accept deposits but have restrictions compared to universal banks. 3. Small Finance Banks were envisaged to focus on lending to underserved sections like small farmers and micro enterprises. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements correctly describe the rationale behind <b>differentiated bank licenses</b> introduced following the Nachiket Mor Committee's recommendations."
+        },
+        {
+          "q": "Why is it inaccurate to describe MUDRA loans as a form of direct benefit transfer (DBT)?",
+          "o": [
+            "Because MUDRA loans are credit extended through financial institutions for enterprise creation, repayable with interest, unlike DBT which transfers subsidies/benefits directly without a repayment obligation",
+            "Because MUDRA loans are also non-repayable government grants like DBT",
+            "Because DBT and MUDRA are both administered by UIDAI",
+            "Because MUDRA loans are only available to government employees, unlike DBT"
+          ],
+          "a": 0,
+          "e": "<b>MUDRA loans</b> are credit facilities requiring repayment, extended through financial institutions, which is fundamentally different from <b>DBT</b>, which is a non-repayable transfer of subsidies/benefits."
+        },
+        {
+          "q": "Consider the following statements: 1. Inclusive growth as a policy goal predates the launch of PMJDY, MUDRA, and DBT. 2. Financial inclusion initiatives like PMJDY, MUDRA, and DBT can be viewed as instruments to operationalize the broader goal of inclusive growth articulated in the 11th Plan. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the <b>11th Plan (2007-12)</b> articulated inclusive growth before these later schemes (2013-15), which then served as instruments to operationalize that goal."
+        }
+      ]
+    }
+  }
+]
