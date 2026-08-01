@@ -82,6 +82,15 @@
   .progress-fill{height:100%; background:var(--accent); transition:width .25s;}
   .q-chapter-tag{display:inline-block; font-size:0.68rem; font-weight:700; color:var(--accent); background:var(--accent-light); padding:3px 9px; border-radius:999px; margin-bottom:8px;}
   .q-text{font-size:1.05rem; font-weight:600; line-height:1.5; margin-bottom:16px;}
+  .q-text .q-intro{margin-bottom:10px;}
+  .q-text .q-statements{margin:2px 0 12px; display:flex; flex-direction:column; gap:7px;}
+  .q-text .q-stmt{font-weight:500; padding-left:2px;}
+  .q-text .q-stmt b{font-weight:700; color:var(--accent); margin-right:4px;}
+  .q-text .q-closing{margin-top:4px;}
+  .rq .q-intro{margin-bottom:6px;}
+  .rq .q-statements{margin:2px 0 8px; display:flex; flex-direction:column; gap:5px;}
+  .rq .q-stmt{font-weight:500;}
+  .rq .q-stmt b{color:var(--accent); margin-right:4px;}
   .options{display:flex; flex-direction:column; gap:10px;}
   .opt{
     display:flex; align-items:flex-start; gap:10px; padding:13px 14px; border-radius:10px;
@@ -319,6 +328,70 @@ function renderLevelSelect({mode, chapterId}){
   showScreen('level');
 }
 
+/* ==================== QUESTION TEXT FORMATTING ==================== */
+function escapeHtml(str){
+  const d = document.createElement('div');
+  d.textContent = str;
+  return d.innerHTML;
+}
+
+/* Detects UPSC-style "Consider the following statements: 1. ... 2. ... Which of the statements given
+   above is/are correct?" questions and reformats them with the intro, each numbered statement, and the
+   closing question each on their own line. Falls back to plain escaped text for regular questions. */
+function formatQuestionHTML(raw){
+  const tailRe = /\s*(Which of (?:the )?(?:above |following )?statements?[^?]*\?|How many of (?:the )?(?:above|following) statements?[^?]*\?|Which one of (?:the )?(?:above|following) statements?[^?]*\?)\s*$/i;
+  const tailMatch = raw.match(tailRe);
+  let body = raw;
+  let tail = '';
+  if(tailMatch){
+    tail = tailMatch[1].trim();
+    body = raw.slice(0, tailMatch.index).trim();
+  }
+
+  const firstStmtMatch = body.match(/(?:^|\s)1\.\s+/);
+  if(!firstStmtMatch) return escapeHtml(raw);
+
+  const intro = body.slice(0, firstStmtMatch.index).trim();
+  const stmtBlock = body.slice(firstStmtMatch.index).trim();
+
+  const stmts = [];
+  const re = /(\d+)\.\s+([\s\S]*?)(?=(?:\s\d+\.\s+)|$)/g;
+  let m;
+  while((m = re.exec(stmtBlock)) !== null){
+    const text = m[2].trim();
+    if(text) stmts.push({n:m[1], text});
+  }
+  if(stmts.length < 2) return escapeHtml(raw);
+
+  /* If the primary tail-detector above missed it (e.g. "Which is/are correct?" or other
+     phrasing not in the known list), the trailing question ends up glued onto the last
+     statement's text. Pull it back out as its own closing line. */
+  if(!tail){
+    const last = stmts[stmts.length-1];
+    const qMatch = last.text.match(/\s*([A-Z][^.?!]{0,120}\?)\s*$/);
+    if(qMatch && qMatch[1].length < last.text.length){
+      tail = qMatch[1].trim();
+      last.text = last.text.slice(0, qMatch.index).trim();
+    } else {
+      const instrMatch = last.text.match(/\s*((?:Select|Choose) the correct (?:answer|option)s?[^.?]*[.?]?)\s*$/i);
+      if(instrMatch && instrMatch[1].length < last.text.length){
+        tail = instrMatch[1].trim();
+        last.text = last.text.slice(0, instrMatch.index).trim();
+      }
+    }
+  }
+
+  let html = '';
+  if(intro) html += `<div class="q-intro">${escapeHtml(intro)}</div>`;
+  html += '<div class="q-statements">';
+  stmts.forEach(s=>{
+    html += `<div class="q-stmt"><b>${s.n}.</b>${escapeHtml(s.text)}</div>`;
+  });
+  html += '</div>';
+  if(tail) html += `<div class="q-closing">${escapeHtml(tail)}</div>`;
+  return html;
+}
+
 /* ==================== QUIZ LOGIC ==================== */
 function shuffle(arr){
   const a = arr.slice();
@@ -363,7 +436,7 @@ function renderQuestion(){
     tag.classList.add('hidden');
   }
 
-  document.getElementById('q-text').textContent = q.q;
+  document.getElementById('q-text').innerHTML = formatQuestionHTML(q.q);
   const optsEl = document.getElementById('options');
   optsEl.innerHTML = '';
   const letters = ['A','B','C','D'];
@@ -437,7 +510,7 @@ function showResult(){
     const div = document.createElement('div');
     div.className = 'review-item';
     div.innerHTML = `
-      <div class="rq">${i+1}. ${a.q}${a.chapterTitle && state.mode==='subject' ? ` <span style="color:var(--accent); font-weight:600;">(${a.chapterTitle})</span>` : ''}</div>
+      <div class="rq"><span>${i+1}.</span> ${formatQuestionHTML(a.q)}${a.chapterTitle && state.mode==='subject' ? ` <span style="color:var(--accent); font-weight:600;">(${a.chapterTitle})</span>` : ''}</div>
       <div class="ra">Your answer: <b>${letters[a.chosenIdx]}. ${a.options[a.chosenIdx]}</b> — <span class="${a.correct?'tag-ok':'tag-bad'}">${a.correct?'Correct':'Wrong'}</span></div>
       ${!a.correct ? `<div class="ra">Correct answer: <b>${letters[a.correctIdx]}. ${a.options[a.correctIdx]}</b></div>` : ''}
       <div class="ra" style="color:var(--muted); margin-top:6px;">${a.explain}</div>
