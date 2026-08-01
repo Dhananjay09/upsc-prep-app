@@ -23,6 +23,12 @@
   .breadcrumb{font-size:0.8rem; color:var(--accent); margin-bottom:10px; letter-spacing:0.3px; display:flex; align-items:center; gap:6px; cursor:pointer; flex-wrap:wrap;}
   .breadcrumb span.sep{color:var(--muted); cursor:default;}
   .breadcrumb span.crumb:hover{text-decoration:underline;}
+  .back-btn{
+    display:inline-flex; align-items:center; gap:6px; background:transparent; border:1.5px solid var(--border);
+    color:var(--ink); font-size:0.85rem; font-weight:600; padding:8px 14px; border-radius:9px; cursor:pointer;
+    margin-bottom:14px;
+  }
+  .back-btn:hover{border-color:var(--accent); color:var(--accent);}
   .sec-title{font-size:0.78rem; font-weight:700; text-transform:uppercase; letter-spacing:0.5px; color:var(--muted); margin:20px 0 10px;}
   .sec-title:first-child{margin-top:0;}
 
@@ -139,6 +145,7 @@
 
   <!-- CHAPTER LIST (per subject) -->
   <div class="card hidden" id="chapter-screen">
+    <button class="back-btn" id="chapter-back-btn">← Back</button>
     <div class="breadcrumb" id="chapter-breadcrumb"></div>
     <div class="sec-title">Chapters</div>
     <div class="chapter-list" id="chapter-list"></div>
@@ -151,6 +158,7 @@
 
   <!-- LEVEL SELECT (per chapter or subject-test) -->
   <div class="card hidden" id="level-screen">
+    <button class="back-btn" id="level-back-btn">← Back</button>
     <div class="breadcrumb" id="level-breadcrumb"></div>
     <div class="sec-title" id="level-title">Choose difficulty</div>
     <div class="level-grid" id="level-grid"></div>
@@ -158,6 +166,7 @@
 
   <!-- QUIZ SCREEN -->
   <div class="card hidden" id="quiz-screen">
+    <button class="back-btn" id="quiz-back-btn">← Back</button>
     <div class="top-row">
       <span id="level-label"></span>
       <span id="q-counter"></span>
@@ -168,7 +177,6 @@
     <div class="options" id="options"></div>
     <div class="explain" id="explain"></div>
     <div class="actions">
-      <button class="ghost" id="quit-btn">Exit</button>
       <button class="primary" id="next-btn" disabled>Next</button>
     </div>
   </div>
@@ -401,12 +409,15 @@ document.getElementById('next-btn').onclick = ()=>{
   }
 };
 
-document.getElementById('quit-btn').onclick = ()=>{
-  if(confirm('Exit this test? Your progress will be lost.')){
+document.getElementById('quiz-back-btn').onclick = ()=>{
+  if(confirm('Go back? Your progress on this test will be lost.')){
     if(state.mode === 'subject') renderChapterList(state.subjectKey);
     else renderLevelSelect({mode:'chapter', chapterId:state.chapterId});
   }
 };
+
+document.getElementById('chapter-back-btn').onclick = ()=> renderSubjects();
+document.getElementById('level-back-btn').onclick = ()=> renderChapterList(state.subjectKey);
 
 function showResult(){
   showScreen('result');
