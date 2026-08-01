@@ -396,8 +396,25 @@ function updateAuthBar(){
 
 async function loadCurrentProfile(){
   if(!currentUser){ currentProfile = null; return; }
-  const { data, error } = await sb.from('profiles').select('*').eq('id', currentUser.id).maybeSingle();
-  if(!error && data) currentProfile = data;
+  let { data, error } = await sb.from('profiles').select('*').eq('id', currentUser.id).maybeSingle();
+
+  /* First time we see this user with a real authenticated session (e.g. right after signup with
+     email confirmation off, or the first login after confirming email) -- create their profile row
+     now. This only works here, not at signup time, because a valid session (auth.uid()) is required
+     for the row-level security policy on inserts to pass. */
+  if(!error && !data){
+    let desired = (currentUser.user_metadata && currentUser.user_metadata.username) || (currentUser.email ? currentUser.email.split('@')[0] : 'user');
+    let created = null, createErr = null;
+    for(let attempt=0; attempt<3 && !created; attempt++){
+      const tryName = attempt===0 ? desired : `${desired}${Math.floor(1000+Math.random()*9000)}`;
+      const res = await sb.from('profiles').insert({ id: currentUser.id, username: tryName }).select().maybeSingle();
+      if(!res.error){ created = res.data; } else { createErr = res.error; }
+    }
+    if(created) data = created;
+    else console.error('Could not create profile row:', createErr && createErr.message);
+  }
+
+  if(data) currentProfile = data;
   updateAuthBar();
 }
 
@@ -436,21 +453,15 @@ async function doSignup(){
 
   const btn = document.getElementById('signup-submit-btn');
   btn.disabled = true; btn.textContent = 'Creating account...';
-  const { data, error } = await sb.auth.signUp({ email, password });
+  /* Store the chosen display name in the auth user's own metadata (not our profiles table) --
+     this survives even before email confirmation, since it's part of the Supabase Auth user
+     record itself, not something guarded by our profiles RLS policy. */
+  const { data, error } = await sb.auth.signUp({ email, password, options: { data: { username } } });
+  btn.disabled = false; btn.textContent = 'Create account';
   if(error){
     showAuthMsg(error.message, 'error');
-    btn.disabled = false; btn.textContent = 'Create account';
     return;
   }
-  if(data.user){
-    const { error: profileErr } = await sb.from('profiles').insert({ id: data.user.id, username });
-    if(profileErr){
-      showAuthMsg('Account created, but that display name is taken or invalid: ' + profileErr.message, 'error');
-      btn.disabled = false; btn.textContent = 'Create account';
-      return;
-    }
-  }
-  btn.disabled = false; btn.textContent = 'Create account';
 
   if(data.session){
     currentUser = data.user;
