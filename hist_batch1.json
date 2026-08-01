@@ -1,0 +1,2430 @@
+[
+  {
+    "id": "hist_indus_valley",
+    "title": "Indus Valley Civilization",
+    "desc": "Harappan sites, artefacts, script, economy and decline",
+    "questions": {
+      "basic": [
+        {
+          "q": "On the bank of which river is the Harappan site of Harappa located?",
+          "o": [
+            "Indus",
+            "Ravi",
+            "Ghaggar",
+            "Bhogavo"
+          ],
+          "a": 1,
+          "e": "<b>Harappa</b> is situated on the bank of the river <b>Ravi</b> in Punjab, now in Pakistan."
+        },
+        {
+          "q": "What does the name \"Mohenjo-daro\" literally mean?",
+          "o": [
+            "City of Gold",
+            "Mound of the Dead",
+            "Land of Rivers",
+            "Abode of Gods"
+          ],
+          "a": 1,
+          "e": "<b>Mohenjo-daro</b> literally translates to <b>\"Mound of the Dead\"</b> in Sindhi."
+        },
+        {
+          "q": "Who first excavated Mohenjo-daro in 1922?",
+          "o": [
+            "Daya Ram Sahni",
+            "R.D. Banerji",
+            "John Marshall",
+            "Y.D. Sharma"
+          ],
+          "a": 1,
+          "e": "<b>R.D. Banerji</b> conducted the first excavations at Mohenjo-daro in 1922, though overall excavations were later directed by John Marshall."
+        },
+        {
+          "q": "Who excavated Harappa in 1921?",
+          "o": [
+            "R.D. Banerji",
+            "John Marshall",
+            "Daya Ram Sahni",
+            "R.S. Bisht"
+          ],
+          "a": 2,
+          "e": "<b>Daya Ram Sahni</b> excavated <b>Harappa</b> in 1921, a year before Mohenjo-daro was excavated."
+        },
+        {
+          "q": "The famous \"Great Bath\", a large watertight tank, is found at which Harappan site?",
+          "o": [
+            "Harappa",
+            "Mohenjo-daro",
+            "Lothal",
+            "Dholavira"
+          ],
+          "a": 1,
+          "e": "The <b>Great Bath</b>, waterproofed with bitumen and gypsum mortar, is located at <b>Mohenjo-daro</b>."
+        },
+        {
+          "q": "Which Harappan site is known for a unique three-part division into citadel, middle town and lower town, along with a stadium-like ground?",
+          "o": [
+            "Kalibangan",
+            "Banawali",
+            "Dholavira",
+            "Rakhigarhi"
+          ],
+          "a": 2,
+          "e": "<b>Dholavira</b> in Gujarat had this distinctive three-fold layout, unlike the usual two-fold citadel-lower town pattern of most Harappan sites."
+        },
+        {
+          "q": "Which Harappan site is famous for its tidal dockyard?",
+          "o": [
+            "Kalibangan",
+            "Lothal",
+            "Chanhudaro",
+            "Surkotada"
+          ],
+          "a": 1,
+          "e": "<b>Lothal</b>, on the Bhogavo river in Gujarat, is renowned for its tidal dockyard indicating maritime trade."
+        },
+        {
+          "q": "At which site has evidence of a ploughed agricultural field with furrows been found?",
+          "o": [
+            "Lothal",
+            "Rakhigarhi",
+            "Kalibangan",
+            "Ropar"
+          ],
+          "a": 2,
+          "e": "<b>Kalibangan</b> in Rajasthan has yielded evidence of a ploughed field, along with fire altars."
+        },
+        {
+          "q": "Rakhigarhi, one of the largest known Harappan sites, is located in which present-day Indian state?",
+          "o": [
+            "Rajasthan",
+            "Gujarat",
+            "Haryana",
+            "Punjab"
+          ],
+          "a": 2,
+          "e": "<b>Rakhigarhi</b> is located in <b>Haryana</b>, on the Ghaggar plain."
+        },
+        {
+          "q": "The Harappan site of Banawali in Haryana is notable for which town-planning feature?",
+          "o": [
+            "Absence of a citadel",
+            "A radial street pattern",
+            "A tidal dockyard",
+            "An underground granary"
+          ],
+          "a": 1,
+          "e": "<b>Banawali</b> showed a <b>radial street pattern</b> in parts of the settlement, unlike the strict grid pattern seen elsewhere."
+        },
+        {
+          "q": "Reported (though debated) evidence of horse bone remains has been found at which Harappan site?",
+          "o": [
+            "Surkotada",
+            "Chanhudaro",
+            "Ropar",
+            "Lothal"
+          ],
+          "a": 0,
+          "e": "<b>Surkotada</b> in Gujarat has yielded reported horse bone remains, a finding that remains debated among scholars."
+        },
+        {
+          "q": "Which Harappan site is notable as the only major one without a citadel, and functioned as a craft and bead-making centre?",
+          "o": [
+            "Kalibangan",
+            "Chanhudaro",
+            "Banawali",
+            "Dholavira"
+          ],
+          "a": 1,
+          "e": "<b>Chanhudaro</b> in Sindh lacked a citadel and is known for bead-making and seal manufacturing, along with an inkpot find."
+        },
+        {
+          "q": "Which site, excavated in 1953 by Y.D. Sharma, was among the first Harappan sites excavated after Indian independence?",
+          "o": [
+            "Kalibangan",
+            "Ropar (Rupnagar)",
+            "Rakhigarhi",
+            "Banawali"
+          ],
+          "a": 1,
+          "e": "<b>Ropar (Rupnagar)</b> on the Sutlej river was excavated by <b>Y.D. Sharma</b> in 1953, soon after independence."
+        },
+        {
+          "q": "The Indus script is predominantly written in which distinctive style?",
+          "o": [
+            "Left to right only",
+            "Right to left only",
+            "Boustrophedon (alternating direction)",
+            "Vertical columns only"
+          ],
+          "a": 2,
+          "e": "The undeciphered Indus script was commonly written in <b>boustrophedon</b> style, running right to left with direction alternating on successive lines."
+        },
+        {
+          "q": "The Pashupati seal, depicting a three-faced horned figure surrounded by animals, was found at which site?",
+          "o": [
+            "Harappa",
+            "Mohenjo-daro",
+            "Lothal",
+            "Kalibangan"
+          ],
+          "a": 1,
+          "e": "The <b>Pashupati seal</b>, interpreted by John Marshall as a proto-Shiva figure, was discovered at <b>Mohenjo-daro</b>."
+        },
+        {
+          "q": "The bronze \"Dancing Girl\" statue was discovered at which site?",
+          "o": [
+            "Harappa",
+            "Mohenjo-daro",
+            "Dholavira",
+            "Chanhudaro"
+          ],
+          "a": 1,
+          "e": "The famous bronze <b>Dancing Girl</b>, made using the lost-wax technique, was found at <b>Mohenjo-daro</b>."
+        },
+        {
+          "q": "The \"Priest-King\" sculpture of the Indus Valley Civilization is made of which material?",
+          "o": [
+            "Bronze",
+            "Terracotta",
+            "Steatite",
+            "Gold"
+          ],
+          "a": 2,
+          "e": "The <b>Priest-King</b> sculpture, found at Mohenjo-daro, is carved from <b>steatite</b>."
+        },
+        {
+          "q": "Harappan weights used in trade were typically cubical, made of which material, and followed a binary system?",
+          "o": [
+            "Sandstone",
+            "Chert",
+            "Terracotta",
+            "Copper"
+          ],
+          "a": 1,
+          "e": "Harappan weights were cubical, made of <b>chert</b>, and followed a binary progression (1, 2, 4, 8, 16...)."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Who held the position of Director-General of the Archaeological Survey of India while overseeing the overall excavations at Mohenjo-daro?",
+          "o": [
+            "Daya Ram Sahni",
+            "R.D. Banerji",
+            "John Marshall",
+            "R.S. Bisht"
+          ],
+          "a": 2,
+          "e": "<b>John Marshall</b>, as Director-General of the ASI, directed the overall excavations at Mohenjo-daro, even though R.D. Banerji conducted the initial dig."
+        },
+        {
+          "q": "Mesopotamian cuneiform texts refer to a trading region, generally identified with the Indus Valley Civilization, by which name?",
+          "o": [
+            "Dilmun",
+            "Meluhha",
+            "Magan",
+            "Sumer"
+          ],
+          "a": 1,
+          "e": "Mesopotamian texts refer to the Indus region as <b>\"Meluhha\"</b>, reflecting trade contacts via the Persian Gulf."
+        },
+        {
+          "q": "The Greek term \"sindon\" for cotton cloth is believed to derive from which region, reflecting early Harappan cultivation of cotton?",
+          "o": [
+            "Sindh",
+            "Saurashtra",
+            "Punjab",
+            "Gujarat"
+          ],
+          "a": 0,
+          "e": "The Greeks called Indian cotton cloth \"sindon\", a term derived from <b>Sindh</b>, where the Harappans were among the earliest cultivators of cotton."
+        },
+        {
+          "q": "Fire altars, suggestive of possible ritual practices, have been found at which pair of Harappan sites?",
+          "o": [
+            "Kalibangan and Lothal",
+            "Harappa and Mohenjo-daro",
+            "Dholavira and Rakhigarhi",
+            "Chanhudaro and Ropar"
+          ],
+          "a": 0,
+          "e": "<b>Fire altars</b> have been discovered at both <b>Kalibangan</b> and <b>Lothal</b>, hinting at ritual fire practices."
+        },
+        {
+          "q": "Coffin or sarcophagus burial evidence, unusual among Harappan sites, has been found at which site?",
+          "o": [
+            "Mohenjo-daro",
+            "Harappa",
+            "Dholavira",
+            "Lothal"
+          ],
+          "a": 1,
+          "e": "Evidence of <b>coffin/sarcophagus burial</b> has been found at <b>Harappa</b>, distinct from the more common extended burial practice."
+        },
+        {
+          "q": "Dholavira's sophisticated water harvesting and reservoir system was primarily an adaptation to which environmental condition?",
+          "o": [
+            "Frequent flooding",
+            "Arid, water-scarce conditions of the Kutch region",
+            "Heavy monsoon excess",
+            "Coastal erosion"
+          ],
+          "a": 1,
+          "e": "Located on Khadir island in <b>Kutch</b>, Dholavira developed elaborate reservoirs to cope with <b>arid, water-scarce conditions</b>."
+        },
+        {
+          "q": "At Ropar (Rupnagar), archaeologists found unusual burial evidence involving which combination?",
+          "o": [
+            "A dog buried alongside a human",
+            "Multiple horses buried together",
+            "A cart buried with a child",
+            "A boat buried with a merchant"
+          ],
+          "a": 0,
+          "e": "<b>Ropar</b> yielded the unusual find of a <b>dog buried with a human</b>."
+        },
+        {
+          "q": "What is the most common motif depicted on Harappan seals?",
+          "o": [
+            "Bull with two horns",
+            "Unicorn",
+            "Elephant",
+            "Tiger"
+          ],
+          "a": 1,
+          "e": "The <b>unicorn</b> is the most frequently occurring motif on Harappan seals, most of which were made of steatite."
+        },
+        {
+          "q": "Harappan seals were predominantly manufactured from which material?",
+          "o": [
+            "Terracotta",
+            "Ivory",
+            "Steatite",
+            "Copper"
+          ],
+          "a": 2,
+          "e": "Most Harappan seals were carved from <b>steatite</b>, a soft stone, often bearing animal motifs and script."
+        },
+        {
+          "q": "In the absence of coined money, how did the Harappans most likely conduct trade transactions?",
+          "o": [
+            "Barter system",
+            "Gold coins",
+            "Cowrie shell currency exclusively",
+            "Paper receipts"
+          ],
+          "a": 0,
+          "e": "There is no evidence of coined money in the Harappan economy; trade was most likely conducted through a <b>barter system</b>."
+        },
+        {
+          "q": "Given the absence of iron tools and the presence of copper and bronze artefacts, the Harappan civilization is classified under which technological age?",
+          "o": [
+            "Iron Age",
+            "Bronze Age",
+            "Stone Age",
+            "Vedic Age"
+          ],
+          "a": 1,
+          "e": "With no evidence of iron use, the Harappan civilization is classified as a <b>Bronze Age</b> (Chalcolithic-Bronze) civilization."
+        },
+        {
+          "q": "Consider the following statements: 1. Harappa is located on the bank of the river Ravi. 2. Lothal is located on the Bhogavo river, near the Sabarmati. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>Harappa</b> lies on the <b>Ravi</b>, while <b>Lothal</b> lies on the <b>Bhogavo</b>, near the Sabarmati in Gujarat."
+        },
+        {
+          "q": "Consider the following statements regarding Harappan chronology: 1. The Early Harappan phase is generally dated to about 3300-2600 BCE. 2. The Mature (Urban) Harappan phase is commonly placed at c. 2600-1900 BCE, though some textbooks cite c. 2500-1750 BCE. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements reflect accepted chronological conventions: the <b>Early Harappan</b> phase (c. 3300-2600 BCE) preceded the <b>Mature/Urban Harappan</b> phase, variously dated c. 2600-1900 BCE or c. 2500-1750 BCE."
+        },
+        {
+          "q": "Consider the following statements: 1. Kalibangan is situated on the banks of the (now dried-up) Ghaggar river. 2. The lower town at Kalibangan had a well-planned drainage system comparable to that of Mohenjo-daro. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct, as <b>Kalibangan</b> lies on the Ghaggar. Statement 2 is incorrect, since Kalibangan's lower town actually <b>lacked</b> the well-planned drainage seen at Mohenjo-daro."
+        },
+        {
+          "q": "Consider the following statements on Harappan economy: 1. The Harappans possessed an established system of coined money for trade transactions. 2. Harappan trade with Mesopotamia was carried out via a Persian Gulf route, including contact with Bahrain (Dilmun). Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect, as there is <b>no evidence of coined money</b>; trade relied on barter. Statement 2 is correct, as Harappan trade with Mesopotamia moved via the <b>Persian Gulf</b>, including Bahrain (Dilmun)."
+        },
+        {
+          "q": "Consider the following statements on Harappan religious life: 1. Terracotta figurines found at various sites suggest the worship of a Mother Goddess. 2. Archaeologists have discovered large monumental temples dedicated to specific deities at Mohenjo-daro and Harappa. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct, as terracotta figurines point to <b>Mother Goddess</b> worship. Statement 2 is incorrect, since <b>no monumental temples</b> have been conclusively identified at Harappan sites."
+        },
+        {
+          "q": "Consider the following statements on the decline of the Indus Valley Civilization: 1. The theory attributing the decline solely to an 'Aryan invasion' is now largely discredited by most scholars. 2. Climatic change and the drying up of the Ghaggar-Hakra river system are among the more widely accepted explanations for the decline. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the <b>Aryan invasion theory</b> is largely rejected today, while <b>climatic change</b> and the drying of the <b>Ghaggar-Hakra</b> system are more widely accepted explanations."
+        },
+        {
+          "q": "Consider the following statements regarding Chanhudaro: 1. It is the only major Harappan site without a fortified citadel. 2. It served primarily as a centre for bead-making and seal manufacturing. 3. Evidence of an inkpot has been found at the site. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements about <b>Chanhudaro</b> are correct: it lacked a citadel, specialized in <b>bead-making and seal manufacturing</b>, and yielded an <b>inkpot</b>."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "The \"Great Bath\" at Mohenjo-daro was rendered watertight through the use of which materials?",
+          "o": [
+            "Cement and iron rods",
+            "Bitumen and gypsum mortar",
+            "Limestone and marble",
+            "Clay and straw"
+          ],
+          "a": 1,
+          "e": "The Great Bath was waterproofed using <b>bitumen and gypsum mortar</b>, and was surrounded by galleries and rooms."
+        },
+        {
+          "q": "Which casting technique was employed to create the intricately detailed bronze \"Dancing Girl\" statue?",
+          "o": [
+            "Cire perdue (lost-wax casting)",
+            "Repoussé",
+            "Cold hammering",
+            "Sand casting with iron moulds"
+          ],
+          "a": 0,
+          "e": "The <b>Dancing Girl</b> was crafted using the <b>lost-wax (cire perdue)</b> technique, characteristic of Harappan bronze work."
+        },
+        {
+          "q": "Which of the following best explains why the Indus script has resisted decipherment despite over a century of scholarly effort?",
+          "o": [
+            "It has very few surviving inscriptions and lacks a bilingual text akin to the Rosetta Stone",
+            "It is identical to Sanskrit and has already been fully read",
+            "It was purely decorative with no linguistic content",
+            "It used only numerical symbols"
+          ],
+          "a": 0,
+          "e": "Decipherment is hindered because Indus inscriptions are typically very short and there is <b>no bilingual text</b> comparable to the Rosetta Stone to anchor a reading."
+        },
+        {
+          "q": "Which site's specialization in bead-making and seal manufacturing, despite lacking a fortified citadel, suggests that administrative centrality was not the sole marker of a Harappan settlement's economic importance?",
+          "o": [
+            "Dholavira",
+            "Chanhudaro",
+            "Rakhigarhi",
+            "Banawali"
+          ],
+          "a": 1,
+          "e": "<b>Chanhudaro</b> thrived as a craft-production centre without any citadel, indicating that economic significance did not always require fortified administrative structures."
+        },
+        {
+          "q": "The presence of a tidal dockyard alongside bead-making workshops at Lothal is most suggestive of which aspect of Harappan economic life?",
+          "o": [
+            "Purely subsistence agriculture with no external trade",
+            "Organized maritime trade combined with craft specialization",
+            "Exclusive reliance on overland caravan trade",
+            "A purely ceremonial/religious function"
+          ],
+          "a": 1,
+          "e": "The combination of a <b>dockyard</b> and bead workshops at Lothal points to <b>organized maritime trade</b> integrated with craft production."
+        },
+        {
+          "q": "Why is the \"Priest-King\" sculpture significant for inferring Harappan social organization, despite no inscriptional confirmation of kingship?",
+          "o": [
+            "It is the only gold artefact ever found at a Harappan site",
+            "Its dignified pose and attire have led scholars to speculate about a class of elite or priestly authority",
+            "It was found buried with weapons indicating a warrior elite",
+            "It bears an inscription naming a specific ruler"
+          ],
+          "a": 1,
+          "e": "The <b>Priest-King</b> sculpture's composed pose and ornamented attire have led scholars to infer a possible <b>elite or priestly class</b>, though no text confirms actual kingship."
+        },
+        {
+          "q": "The discovery of standardized burnt-brick ratios across widely separated Harappan sites like Harappa, Mohenjo-daro and Dholavira most strongly suggests which inference?",
+          "o": [
+            "A high degree of standardization or shared technical/administrative norms across the region",
+            "Independent development with no inter-site contact whatsoever",
+            "Use of iron reinforcement in construction",
+            "Exclusive use of sun-dried, unburnt bricks"
+          ],
+          "a": 0,
+          "e": "The consistent <b>brick ratio</b> across far-flung sites suggests a shared technical standard, hinting at some form of <b>regional coordination or administrative uniformity</b>."
+        },
+        {
+          "q": "Which of the following best explains why the 'Aryan invasion theory' for the decline of the Indus Valley Civilization has been largely set aside by most contemporary scholars?",
+          "o": [
+            "New archaeological evidence conclusively proved a mass invasion occurred",
+            "Lack of definitive evidence for a sudden violent invasion, coupled with support for gradual environmental/climatic explanations",
+            "All Harappan sites show clear weapon-based destruction layers",
+            "Later Vedic texts precisely confirm the date of the invasion"
+          ],
+          "a": 1,
+          "e": "Scholars have largely moved away from the invasion theory due to the <b>absence of clear violent-destruction evidence</b>, favouring gradual <b>climatic and river-course changes</b> instead."
+        },
+        {
+          "q": "Given that fire altars have been found at both Kalibangan and Lothal, what do historians most cautiously infer from this evidence?",
+          "o": [
+            "Conclusive proof that Vedic yajna rituals identical to later Vedic religion were practised",
+            "A possible ritual/religious significance of fire, though its exact nature remains uncertain",
+            "Definitive proof of iron-smelting facilities",
+            "Evidence that cremation was the sole burial practice"
+          ],
+          "a": 1,
+          "e": "Historians treat the <b>fire altars</b> cautiously, inferring only a <b>possible ritual significance</b>, since their precise religious meaning cannot be conclusively established."
+        },
+        {
+          "q": "The presence of an inkpot at Chanhudaro, together with the undeciphered script on Harappan seals and tablets, most tentatively suggests which inference about Harappan society?",
+          "o": [
+            "The existence of some form of writing/recording practice, though its full nature and content remain unknown",
+            "Definitive proof of a fully phonetic alphabet",
+            "That writing was restricted only to royal decrees",
+            "That the script was borrowed wholesale from Mesopotamian cuneiform"
+          ],
+          "a": 0,
+          "e": "The inkpot and script evidence together suggest a <b>writing or recording practice</b> existed, though its precise linguistic content remains undeciphered."
+        },
+        {
+          "q": "Consider the following statements: 1. At most Harappan sites, the fortified citadel was typically located on the western side of the settlement, with the lower town to the east. 2. Dholavira's layout included a distinct middle town in addition to a citadel and lower town, a feature not commonly seen at most other Harappan sites. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the typical layout placed the <b>citadel to the west</b> and lower town to the east, while <b>Dholavira</b> uniquely added a middle town to this arrangement."
+        },
+        {
+          "q": "Consider the following statements on the Indus script: 1. It comprises roughly 400-450 signs and remains undeciphered to date. 2. It was invariably written from left to right in a single, fixed direction. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct regarding the sign count and undeciphered status. Statement 2 is incorrect, as the script was often written in <b>boustrophedon</b> style, alternating direction across lines rather than a single fixed direction."
+        },
+        {
+          "q": "Consider the following statements on Harappan weights: 1. Harappan weights followed a binary system of multiples (1, 2, 4, 8, 16 and so on) and were typically cubical in shape. 2. These weights were primarily made of gold to signify their standard value in trade. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct, describing the <b>binary, cubical</b> weight system. Statement 2 is incorrect, as the weights were made of <b>chert</b>, not gold."
+        },
+        {
+          "q": "Consider the following statements on Harappan religion: 1. No monumental temple or large funerary structure has been conclusively identified at Harappan sites, unlike contemporary Mesopotamia or Egypt. 2. Evidence suggestive of phallic/yonic (linga-yoni) worship has been found at some Harappan sites. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: Harappan sites lack conclusively identified <b>monumental temples</b>, while some finds are suggestive of <b>linga-yoni</b> worship."
+        },
+        {
+          "q": "Consider the following statements on the decline of the Indus Valley Civilization: 1. Tectonic shifts altering river courses have been suggested as a contributing factor. 2. The decline of overseas trade with Mesopotamia is considered by some scholars as a contributing factor. 3. A single definitive cause for the decline is universally agreed upon by historians. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct, as <b>tectonic shifts</b> and <b>decline of Mesopotamian trade</b> are both cited factors; statement 3 is incorrect since <b>no single cause</b> is universally agreed upon."
+        },
+        {
+          "q": "Consider the following statements on Surkotada: 1. The site has yielded reported remains of horse bones, though this finding remains debated among scholars. 2. This evidence is universally accepted by all archaeologists as conclusive proof of horse domestication in the Harappan civilization. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct, as the <b>Surkotada</b> horse-bone find is genuine but debated. Statement 2 is incorrect, since the finding is <b>not universally accepted</b> as conclusive proof."
+        },
+        {
+          "q": "Consider the following statements comparing Rakhigarhi with other Harappan sites: 1. Rakhigarhi is located in present-day Haryana, on the Ghaggar plain. 2. Recent excavations suggest that Rakhigarhi is among the largest known Harappan sites in terms of overall extent. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>Rakhigarhi</b> lies in Haryana on the Ghaggar plain and is regarded, per recent excavations, as one of the <b>largest known Harappan sites</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Chanhudaro is the only major Harappan site without a fortified citadel. 2. Kalibangan's lower town lacked the well-planned drainage system found at Mohenjo-daro. 3. Banawali exhibited a purely grid-based street pattern with no radial elements whatsoever. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct regarding <b>Chanhudaro's</b> lack of a citadel and <b>Kalibangan's</b> inferior drainage. Statement 3 is incorrect, as <b>Banawali</b> actually showed a <b>radial</b> street pattern in parts, not a purely grid layout."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_vedic_religious_movements",
+    "title": "Vedic Age & Religious Movements",
+    "desc": "Vedic society, polity, Mahajanapadas, Buddhism and Jainism",
+    "questions": {
+      "basic": [
+        {
+          "q": "Which of the four Vedas is regarded as the oldest, consisting mainly of a collection of hymns organized into ten mandalas?",
+          "o": [
+            "Rig Veda",
+            "Sama Veda",
+            "Yajur Veda",
+            "Atharva Veda"
+          ],
+          "a": 0,
+          "e": "The <b>Rig Veda</b> is the oldest of the four Vedas, comprising 10 mandalas and about 1028 hymns."
+        },
+        {
+          "q": "Which Veda, consisting of chants and melodies, is regarded as the source of Indian classical music?",
+          "o": [
+            "Yajur Veda",
+            "Sama Veda",
+            "Atharva Veda",
+            "Rig Veda"
+          ],
+          "a": 1,
+          "e": "The <b>Sama Veda</b> consists of chants and melodies and is regarded as the origin of Indian classical music."
+        },
+        {
+          "q": "The Yajur Veda, composed in both prose and verse, primarily deals with which of the following?",
+          "o": [
+            "Hymns of praise to deities",
+            "Sacrificial formulas and ritual procedure",
+            "Spells and charms of folk tradition",
+            "Philosophical speculation on atman and brahman"
+          ],
+          "a": 1,
+          "e": "The <b>Yajur Veda</b> contains sacrificial formulas and ritual procedures, composed in both prose and verse."
+        },
+        {
+          "q": "Which of the four Vedas is considered the latest and deals with spells, charms, magic and medicine reflecting folk traditions?",
+          "o": [
+            "Rig Veda",
+            "Sama Veda",
+            "Yajur Veda",
+            "Atharva Veda"
+          ],
+          "a": 3,
+          "e": "The <b>Atharva Veda</b>, the latest of the four Vedas, deals with magic, medicine, spells and charms of folk tradition."
+        },
+        {
+          "q": "How many Vedangas (limbs of the Vedas) are traditionally recognized as aids to the study of the Vedas?",
+          "o": [
+            "Four",
+            "Five",
+            "Six",
+            "Eight"
+          ],
+          "a": 2,
+          "e": "There are <b>six Vedangas</b>: Shiksha, Kalpa, Vyakarana, Nirukta, Chhandas and Jyotisha."
+        },
+        {
+          "q": "The Upanishads, placed at the end of Vedic literature and hence also called 'Vedanta', are primarily concerned with which concepts?",
+          "o": [
+            "Sacrificial rituals and mantras",
+            "Atman and Brahman",
+            "Rules of grammar and phonetics",
+            "Rules of governance for kings"
+          ],
+          "a": 1,
+          "e": "The <b>Upanishads</b> are philosophical texts concerned with the concepts of atman (soul) and brahman (ultimate reality)."
+        },
+        {
+          "q": "The Purusha Sukta, which describes the origin of the four varnas from the body of a cosmic being, occurs in which text?",
+          "o": [
+            "Atharva Veda",
+            "Sama Veda",
+            "Rig Veda (Mandala 10)",
+            "Yajur Veda"
+          ],
+          "a": 2,
+          "e": "The <b>Purusha Sukta</b> is found in Mandala 10 of the Rig Veda and is considered a later addition to the text."
+        },
+        {
+          "q": "The Gayatri Mantra, dedicated to the solar deity Savitri, appears in which Mandala of the Rig Veda?",
+          "o": [
+            "Mandala 1",
+            "Mandala 3",
+            "Mandala 7",
+            "Mandala 10"
+          ],
+          "a": 1,
+          "e": "The <b>Gayatri Mantra</b>, dedicated to Savitri, is found in Mandala 3 of the Rig Veda."
+        },
+        {
+          "q": "In the Early Vedic period, which two tribal assemblies functioned alongside the Rajan (chief)?",
+          "o": [
+            "Sabha and Samiti",
+            "Sangha and Gana",
+            "Paura and Janapada",
+            "Mantriparishad and Sabha"
+          ],
+          "a": 0,
+          "e": "The <b>Sabha and Samiti</b> were tribal assemblies that functioned alongside the Rajan in Early Vedic polity."
+        },
+        {
+          "q": "Which of the following was a major royal sacrifice performed by Later Vedic kings to assert their sovereignty and kingship?",
+          "o": [
+            "Upanayana",
+            "Rajasuya",
+            "Vratyastoma",
+            "Sarpasatra"
+          ],
+          "a": 1,
+          "e": "The <b>Rajasuya</b> sacrifice, along with the Ashvamedha and Vajapeya, was performed by Later Vedic kings to assert kingship."
+        },
+        {
+          "q": "The list of the sixteen Mahajanapadas (Solasa Mahajanapada) is found in which Buddhist text?",
+          "o": [
+            "Anguttara Nikaya",
+            "Digha Nikaya",
+            "Vinaya Pitaka",
+            "Milindapanho"
+          ],
+          "a": 0,
+          "e": "The <b>Anguttara Nikaya</b>, a Buddhist text, lists the sixteen Mahajanapadas that flourished around the 6th century BCE."
+        },
+        {
+          "q": "Vaishali served as the capital of which republican Mahajanapada confederacy?",
+          "o": [
+            "Malla",
+            "Vajji",
+            "Kuru",
+            "Panchala"
+          ],
+          "a": 1,
+          "e": "<b>Vaishali</b> was the capital of the Vajji confederacy, one of the most well-known republican Mahajanapadas."
+        },
+        {
+          "q": "The capital of Magadha was later shifted from Rajagriha (Girivraja) to which city?",
+          "o": [
+            "Kaushambi",
+            "Ujjaini",
+            "Pataliputra",
+            "Taxila"
+          ],
+          "a": 2,
+          "e": "Magadha's capital was eventually shifted from Rajagriha (Girivraja) to <b>Pataliputra</b>."
+        },
+        {
+          "q": "Gautama Buddha was born at Lumbini as a member of which clan?",
+          "o": [
+            "Licchavi",
+            "Shakya",
+            "Jnatrika",
+            "Koliya"
+          ],
+          "a": 1,
+          "e": "Buddha was born at Lumbini into the <b>Shakya</b> clan; his father Suddhodana was the chief of Kapilavastu."
+        },
+        {
+          "q": "At which place did Gautama Buddha attain Mahaparinirvana (death) at the age of 80?",
+          "o": [
+            "Bodh Gaya",
+            "Sarnath",
+            "Kushinagar",
+            "Rajagriha"
+          ],
+          "a": 2,
+          "e": "Buddha passed away at <b>Kushinagar</b> at the age of 80."
+        },
+        {
+          "q": "Buddha's first sermon, known as the Dhammachakra Pravartana, was delivered at which place?",
+          "o": [
+            "Bodh Gaya",
+            "Sarnath",
+            "Vaishali",
+            "Kapilavastu"
+          ],
+          "a": 1,
+          "e": "Buddha delivered his first sermon at <b>Sarnath</b>, setting in motion the 'Wheel of Dharma'."
+        },
+        {
+          "q": "Mahavira, the 24th Tirthankara, was born at Kundagrama near Vaishali into which clan?",
+          "o": [
+            "Shakya",
+            "Licchavi",
+            "Jnatrika",
+            "Malla"
+          ],
+          "a": 2,
+          "e": "Mahavira was born into the <b>Jnatrika</b> clan; his father Siddhartha was its chief and his mother was Trishala."
+        },
+        {
+          "q": "Parshvanatha, the 23rd Tirthankara who preceded Mahavira, preached a code of four vows known as?",
+          "o": [
+            "Panchamahavrata",
+            "Chaturyama",
+            "Ashtangika Marga",
+            "Triratna"
+          ],
+          "a": 1,
+          "e": "Parshvanatha preached four vows, the <b>Chaturyama</b> — non-violence, truth, non-stealing and non-possession."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which of the following best characterizes the economic change from the Early Vedic to the Later Vedic period?",
+          "o": [
+            "A shift from settled agriculture to nomadic pastoralism",
+            "A shift from a predominantly pastoral economy to an increasingly settled agricultural economy",
+            "The introduction of maritime trade as the dominant economic activity",
+            "The complete disappearance of cattle rearing"
+          ],
+          "a": 1,
+          "e": "The <b>Later Vedic</b> economy became increasingly settled and agricultural, with use of iron tools, compared to the more pastoral Early Vedic economy."
+        },
+        {
+          "q": "Consider the following statements: 1. In the Early Vedic period, social divisions were relatively fluid and largely based on occupation rather than birth. 2. The Purusha Sukta, which provides the earliest clear textual basis for the fourfold varna origin, is found in the Atharva Veda. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — Early Vedic society was relatively fluid and occupation-based. Statement 2 is incorrect — the <b>Purusha Sukta</b> occurs in Mandala 10 of the Rig Veda, not the Atharva Veda."
+        },
+        {
+          "q": "Which of the following represents a genuine point of contrast between Buddhism and Jainism?",
+          "o": [
+            "Buddhism accepts a creator God while Jainism denies it",
+            "Jainism advocates the Middle Path while Buddhism emphasizes extreme asceticism",
+            "Buddhism propounds the Eightfold Path while Jainism emphasizes the Triratna (Three Jewels) for liberation",
+            "Both consider the Vedas the ultimate source of religious authority"
+          ],
+          "a": 2,
+          "e": "Buddhism's path to liberation centres on the <b>Eightfold Path</b>, while Jainism emphasises the <b>Triratna</b> — right faith, right knowledge and right conduct. Both reject Vedic authority, so option 4 is wrong."
+        },
+        {
+          "q": "Consider the following statements regarding the Buddhist Councils: 1. The First Buddhist Council was held at Rajagriha under the patronage of Ajatashatru. 2. The Second Buddhist Council at Vaishali dealt with disputes over monastic discipline. 3. The Third Buddhist Council at Pataliputra was presided over by Mahakassapa. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect — the Third Council at Pataliputra was presided over by <b>Moggaliputta Tissa</b>; Mahakassapa had presided over the First Council."
+        },
+        {
+          "q": "Consider the following statements: 1. The Digambara-Shvetambara split in Jainism is traditionally linked to a famine in Magadha during which Bhadrabahu migrated south. 2. The First Jain Council was held at Pataliputra under the leadership of Sthulabhadra. 3. Jain texts were finally written down at the Second Jain Council held at Vallabhi under Devardhi Kshamashramana. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct: the famine-driven migration of <b>Bhadrabahu</b>, the First Council under <b>Sthulabhadra</b> at Pataliputra, and the Second Council at <b>Vallabhi</b> where texts were finally codified in writing."
+        },
+        {
+          "q": "Consider the following pairs of Mahajanapadas and their capitals: 1. Vatsa – Kaushambi. 2. Avanti – Ujjaini. 3. Gandhara – Taxila. Which of the pairs given above is/are correctly matched?",
+          "o": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three pairs are correctly matched: <b>Kaushambi</b> was the capital of Vatsa, <b>Ujjaini</b> of Avanti, and <b>Taxila</b> of Gandhara."
+        },
+        {
+          "q": "Which of the following represents the correct chronological sequence of dynasties that ruled Magadha before the rise of the Mauryas?",
+          "o": [
+            "Nanda – Haryanka – Shishunaga",
+            "Shishunaga – Haryanka – Nanda",
+            "Haryanka – Shishunaga – Nanda",
+            "Haryanka – Nanda – Shishunaga"
+          ],
+          "a": 2,
+          "e": "The <b>Haryanka</b> dynasty (Bimbisara, Ajatashatru) was followed by the <b>Shishunaga</b> dynasty, and then the <b>Nanda</b> dynasty (Mahapadma Nanda)."
+        },
+        {
+          "q": "Consider the following statements regarding Buddhist philosophy: 1. The Four Noble Truths include the statement that suffering (dukkha) has a cause, namely desire or craving. 2. The Eightfold Path is described as the 'Middle Path' between extreme asceticism and indulgence. 3. The Eightfold Path forms part of the Tripitaka specifically known as the Abhidhamma Pitaka. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect — the <b>Eightfold Path</b> is a core teaching found among the Buddha's discourses, not specifically classified under the Abhidhamma Pitaka."
+        },
+        {
+          "q": "The Ajivika sect, founded by Makkhali Gosala, is best associated with which philosophical doctrine?",
+          "o": [
+            "Anekantavada — reality is many-sided",
+            "Niyati — strict determinism denying free will",
+            "Syadvada — conditional predication of truth",
+            "Madhyama Pratipada — the middle path"
+          ],
+          "a": 1,
+          "e": "The Ajivikas, founded by <b>Makkhali Gosala</b>, propounded strict determinism or fatalism (Niyati), holding that all events are predestined."
+        },
+        {
+          "q": "Consider the following statements: 1. The Sabha and Samiti of the Early Vedic period continued to hold significant political power without any decline throughout the Later Vedic period. 2. Elaborate royal sacrifices such as the Rajasuya and Ashvamedha in the Later Vedic period reflected the growing power and territorial ambition of kings. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 2 is correct. Statement 1 is incorrect — the importance of the <b>Sabha and Samiti</b> declined in the Later Vedic period as kingship grew more powerful and hereditary."
+        },
+        {
+          "q": "The Jataka tales, a well-known body of Buddhist literature, are primarily concerned with which of the following?",
+          "o": [
+            "Rules of monastic discipline for Buddhist monks",
+            "Stories of the Buddha's previous births",
+            "Philosophical debates found in the Abhidhamma",
+            "Sacrificial hymns of the Later Vedic period"
+          ],
+          "a": 1,
+          "e": "The <b>Jataka tales</b> narrate stories of the Buddha's previous births, illustrating moral and ethical themes."
+        },
+        {
+          "q": "Which of the following statements about the Digambara sect of Jainism is correct?",
+          "o": [
+            "They wear white robes and hold that women can attain moksha directly",
+            "They remain unclothed ('sky-clad') and hold that women cannot attain moksha directly in that birth",
+            "They accept the authority of the Vedas as final",
+            "They were founded by Sthulabhadra"
+          ],
+          "a": 1,
+          "e": "The <b>Digambara</b> ('sky-clad') sect holds monks should remain unclothed and maintains that women cannot attain moksha directly in the same birth."
+        },
+        {
+          "q": "Consider the following statements: 1. The Rig Veda consists of ten mandalas and contains both the Purusha Sukta and the Gayatri Mantra. 2. The Atharva Veda is generally regarded as chronologically earlier than the Rig Veda. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is incorrect — the <b>Atharva Veda</b> is considered the latest of the four Vedas, not earlier than the Rig Veda."
+        },
+        {
+          "q": "The doctrine of 'Triratna' (Three Jewels) — comprising right faith, right knowledge and right conduct — as the path to liberation is associated with which tradition?",
+          "o": [
+            "Buddhism",
+            "Jainism",
+            "Ajivika sect",
+            "Vedic Brahmanism"
+          ],
+          "a": 1,
+          "e": "The <b>Triratna</b> (Three Jewels) of right faith, right knowledge and right conduct is a central Jain doctrine for attaining liberation."
+        },
+        {
+          "q": "Consider the following statements: 1. Gautama Buddha attained enlightenment at Bodh Gaya, while Mahavira attained kaivalya (omniscience) at Jrimbhikagrama. 2. Both Gautama Buddha and Mahavira renounced worldly life at the age of 29. 3. Both Gautama Buddha and Mahavira died at Kushinagar. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 0,
+          "e": "Only statement 1 is correct. Statement 2 is wrong — Buddha renounced at 29 but Mahavira is traditionally held to have renounced at 30. Statement 3 is wrong — Mahavira died at <b>Pavapuri</b>, not Kushinagar."
+        },
+        {
+          "q": "Which of the following Mahajanapadas was governed not as a monarchy but as a republican confederacy (Gana-Sangha)?",
+          "o": [
+            "Kosala",
+            "Magadha",
+            "Vajji",
+            "Avanti"
+          ],
+          "a": 2,
+          "e": "<b>Vajji</b>, with its capital at Vaishali, was a well-known republican (Gana-Sangha) confederacy, unlike the monarchies of Kosala, Magadha and Avanti."
+        },
+        {
+          "q": "Consider the following statements: 1. The six Vedangas include Jyotisha and Chhandas and aid in the correct recitation and understanding of the Vedas. 2. The Upanishads are placed at the beginning of Vedic literature and are therefore called 'Purva Mimamsa'. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is incorrect — the <b>Upanishads</b> are placed at the end of Vedic literature and are hence called 'Vedanta', not 'Purva Mimamsa'."
+        },
+        {
+          "q": "Which of the following best describes the position of the Shudra varna over the course of the Vedic period?",
+          "o": [
+            "It existed as a distinct fourth varna from the very start of the Early Vedic period with rigid hereditary restrictions",
+            "It emerged gradually and became more clearly defined and hereditary by the Later Vedic period",
+            "It was the highest-ranked varna in the Early Vedic period",
+            "It disappeared entirely by the Later Vedic period"
+          ],
+          "a": 1,
+          "e": "The <b>Shudra</b> category, along with the broader varna framework, became more rigid and hereditary over the course of the Later Vedic period."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The Rig Veda, being the oldest Veda, provides the earliest evidence of a rigid, hereditary caste system with strict restrictions on inter-dining and marriage. 2. The elaborate rituals and sacrifices of the Later Vedic period are chiefly known through the Brahmana texts attached to the Vedas. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 2 is correct. Statement 1 is incorrect — rigid, hereditary caste restrictions developed gradually, becoming more marked only in the <b>Later Vedic</b> period, not in the earliest Rig Vedic hymns."
+        },
+        {
+          "q": "Consider the following statements regarding the Buddhist Councils: 1. The Second Buddhist Council at Vaishali was held under the patronage of King Kalasoka. 2. The Third Buddhist Council at Pataliputra, held under Ashoka, completed the compilation of the Tripitaka with the Abhidhamma Pitaka. 3. The Fourth Buddhist Council, associated with the Hinayana-Mahayana schism, was held in Kashmir under the patronage of Kanishka. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct: the Second Council under <b>Kalasoka</b>, the Third Council under <b>Ashoka</b> completing the Tripitaka, and the Fourth Council under <b>Kanishka</b> linked to the Hinayana-Mahayana split."
+        },
+        {
+          "q": "Consider the following statements: 1. During a severe famine in Magadha, Bhadrabahu led a section of Jain monks to South India while Sthulabhadra remained in Magadha. 2. Those who remained in Magadha under Sthulabhadra later came to be identified with the Shvetambara tradition. 3. The First Jain Council, held at Pataliputra, compiled the twelve Angas under the leadership of Bhadrabahu. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect — the First Jain Council at Pataliputra, which compiled the twelve Angas, was led by <b>Sthulabhadra</b>, not Bhadrabahu."
+        },
+        {
+          "q": "In Jain philosophy, the doctrine holding that reality is many-sided and can be validly perceived from multiple points of view, such that no single view represents the complete truth, is known as?",
+          "o": [
+            "Syadvada",
+            "Anekantavada",
+            "Triratna",
+            "Niyati"
+          ],
+          "a": 1,
+          "e": "<b>Anekantavada</b> is the Jain doctrine that reality is multi-faceted; it is closely related to Syadvada, the theory of conditional predication of statements about that reality."
+        },
+        {
+          "q": "Consider the following statements: 1. Vajji and Malla were examples of Gana-Sangha (republican) polities among the Mahajanapadas. 2. Magadha's rise to imperial prominence began under the Haryanka dynasty rulers Bimbisara and Ajatashatru. 3. The sixteen Mahajanapadas find mention exclusively in Brahmanical texts such as the Manusmriti. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect — the sixteen Mahajanapadas are listed in the Buddhist text <b>Anguttara Nikaya</b>, not exclusively in Brahmanical texts."
+        },
+        {
+          "q": "Which of the following statements correctly describes the Rig Veda?",
+          "o": [
+            "It is organized into 18 parvans and deals mainly with rules of sacrifice",
+            "It comprises ten mandalas with approximately 1028 hymns and is the oldest of the four Vedas",
+            "It is composed entirely in prose and expounds the doctrine of Anekantavada",
+            "It was compiled at the Third Buddhist Council held under Ashoka"
+          ],
+          "a": 1,
+          "e": "The <b>Rig Veda</b> comprises ten mandalas with roughly 1028 hymns and is the oldest of the four Vedas; the other options describe unrelated texts and councils."
+        },
+        {
+          "q": "Consider the following events associated with the life of Gautama Buddha along with the traditional age at which they are said to have occurred: 1. Great Renunciation (Mahabhinishkramana) — age 29. 2. Enlightenment at Bodh Gaya — age 35. 3. Mahaparinirvana at Kushinagar — age 72. Which of the above are correctly matched?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Events 1 and 2 are correctly matched. Event 3 is incorrect — Buddha attained Mahaparinirvana at <b>Kushinagar at age 80</b>; age 72 corresponds to Mahavira's death at Pavapuri."
+        },
+        {
+          "q": "Consider the following statements: 1. Mahavira added Brahmacharya (celibacy) as the fifth vow to the four vows earlier preached by Parshvanatha, thereby completing the Panchamahavrata. 2. The concept of the Eightfold Path as the 'Middle Path' was formulated by Mahavira to counter the extreme asceticism of the Ajivikas. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — Mahavira added <b>Brahmacharya</b> to Parshvanatha's four vows. Statement 2 is incorrect — the Eightfold Path / Middle Path is a core Buddhist teaching of Gautama Buddha, not Mahavira."
+        },
+        {
+          "q": "Which of the following correctly pairs a religious council with the compilation associated with it?",
+          "o": [
+            "First Buddhist Council at Rajagriha — compilation of the Sutta Pitaka and Vinaya Pitaka",
+            "First Jain Council at Vallabhi — compilation of the Abhidhamma Pitaka",
+            "Third Buddhist Council at Vaishali — compilation of the twelve Angas",
+            "Second Jain Council at Rajagriha — final writing down of Jain texts"
+          ],
+          "a": 0,
+          "e": "The <b>First Buddhist Council</b> at Rajagriha compiled the Sutta Pitaka and Vinaya Pitaka. The other options mismatch councils, locations and texts across the Buddhist and Jain traditions."
+        },
+        {
+          "q": "Consider the following statements regarding social stratification in the Vedic period: 1. Occupational mobility across varnas was significantly greater in the Early Vedic period compared to the Later Vedic period. 2. The concept of untouchability as a rigid, institutionalized practice is explicitly and elaborately detailed across the Rig Veda's ten mandalas. 3. Later Vedic texts show an increasing emphasis on the hereditary nature of varna status. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect — an elaborately institutionalized practice of untouchability is not a feature explicitly detailed across the <b>Rig Veda</b>; such rigidity developed much later."
+        },
+        {
+          "q": "The Ajivika sect associated with Makkhali Gosala received patronage from early Mauryan rulers, as evidenced among other things by inscriptions found in which caves?",
+          "o": [
+            "Barabar caves",
+            "Ajanta caves",
+            "Udayagiri-Khandagiri caves",
+            "Ellora caves"
+          ],
+          "a": 0,
+          "e": "Inscriptions in the <b>Barabar caves</b>, associated with Ashoka, attest to Mauryan patronage extended to the Ajivika sect."
+        },
+        {
+          "q": "Consider the following statements: 1. Kaushambi was the capital of the Vatsa Mahajanapada. 2. Ujjaini was the capital of the Avanti Mahajanapada. 3. Taxila was the capital of the Kamboja Mahajanapada. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect — <b>Taxila</b> was the capital of the Gandhara Mahajanapada, not Kamboja."
+        },
+        {
+          "q": "Which of the following correctly distinguishes the content of the Yajur Veda from that of the Atharva Veda?",
+          "o": [
+            "The Yajur Veda deals with spells and folk magic while the Atharva Veda deals with sacrificial formulas",
+            "The Yajur Veda contains sacrificial formulas and ritual procedure while the Atharva Veda contains spells, charms and folk traditions",
+            "Both deal exclusively with philosophical concepts of atman and brahman",
+            "The Yajur Veda is the latest of the four Vedas while the Atharva Veda is the oldest"
+          ],
+          "a": 1,
+          "e": "The <b>Yajur Veda</b> is concerned with sacrificial formulas and ritual, while the <b>Atharva Veda</b>, the latest of the four Vedas, deals with spells, charms and folk traditions."
+        },
+        {
+          "q": "Consider the following statements: 1. The doctrine of the Four Noble Truths was expounded by the Buddha in his first sermon at Sarnath. 2. The Fourth Buddhist Council, convened under the patronage of Kanishka, is associated with the formal split between the Hinayana and Mahayana traditions. 3. The Third Buddhist Council under Ashoka was presided over by Mahakassapa. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect — the Third Council was presided over by <b>Moggaliputta Tissa</b>; Mahakassapa had presided over the First Council at Rajagriha."
+        },
+        {
+          "q": "The transition from the Early Vedic (Rig Vedic) to the Later Vedic period is conventionally dated to around which century BCE?",
+          "o": [
+            "1500 BCE",
+            "1000 BCE",
+            "600 BCE",
+            "326 BCE"
+          ],
+          "a": 1,
+          "e": "The Early Vedic period spans roughly 1500-1000 BCE and the Later Vedic period roughly <b>1000</b>-600 BCE, placing the transition around 1000 BCE."
+        },
+        {
+          "q": "Consider the following statements: 1. Mahapadma Nanda belonged to the Nanda dynasty, which succeeded the Shishunaga dynasty in Magadha. 2. Bimbisara and Ajatashatru, associated with the early expansion of Magadhan power, belonged to the Shishunaga dynasty. 3. The Nanda dynasty was eventually succeeded by the Mauryan dynasty in Magadha. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect — <b>Bimbisara and Ajatashatru</b> belonged to the Haryanka dynasty, which preceded the Shishunaga dynasty."
+        },
+        {
+          "q": "The fact that the Purusha Sukta's description of varna origin is generally regarded by historians as a later addition to the Rig Veda is significant chiefly because it suggests that?",
+          "o": [
+            "It reflects the earliest composed hymns and accurately depicts Early Vedic society from the start",
+            "Rigid varna ideology developed subsequent to the composition of the earliest Rig Vedic hymns",
+            "The varna system did not exist even in the Later Vedic period",
+            "It was composed during the time of the Buddha to justify the political structure of the Mahajanapadas"
+          ],
+          "a": 1,
+          "e": "Since the <b>Purusha Sukta</b> is considered a later addition to the Rig Veda, its elaboration of varna origin suggests that a rigidified varna ideology emerged only after the composition of the earliest hymns."
+        },
+        {
+          "q": "Consider the following statements: 1. The Tripitaka, comprising the Sutta, Vinaya and Abhidhamma Pitakas, constitutes the core canonical literature of Buddhism. 2. The twelve Angas compiled at the First Jain Council under Sthulabhadra have been preserved in full since that council, with no tradition disputing the loss of any original text. 3. The Vedangas, though aids to Vedic study, are not themselves considered part of the Vedas. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect — Jain tradition (notably the Digambara view) holds that the original text of one of the Angas was eventually lost, so its complete, undisputed preservation cannot be asserted."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_mauryan_empire",
+    "title": "Mauryan Empire",
+    "desc": "Rise, administration, and decline of India's first empire",
+    "questions": {
+      "basic": [
+        {
+          "q": "Who founded the Mauryan Empire around 322-321 BCE by overthrowing the last Nanda ruler, Dhana Nanda?",
+          "o": [
+            "Bindusara",
+            "Chandragupta Maurya",
+            "Ashoka",
+            "Pushyamitra Shunga"
+          ],
+          "a": 1,
+          "e": "<b>Chandragupta Maurya</b> founded the Mauryan Empire around 322-321 BCE by overthrowing <b>Dhana Nanda</b>, the last Nanda ruler, with the guidance of Chanakya."
+        },
+        {
+          "q": "Chanakya, the chief architect of Chandragupta Maurya's rise to power, is also known by which other names?",
+          "o": [
+            "Kautilya and Vishnugupta",
+            "Bhadrabahu and Upagupta",
+            "Megasthenes and Deimachus",
+            "Moggaliputta Tissa and Mahinda"
+          ],
+          "a": 0,
+          "e": "Chanakya is also known as <b>Kautilya</b> and <b>Vishnugupta</b>, and is traditionally credited with authoring the Arthashastra."
+        },
+        {
+          "q": "Chandragupta Maurya's conflict with Seleucus I Nicator around 305 BCE ended with a treaty under which Chandragupta received territories in exchange for how many war elephants?",
+          "o": [
+            "100 war elephants",
+            "500 war elephants",
+            "1,000 war elephants",
+            "200 war elephants"
+          ],
+          "a": 1,
+          "e": "Chandragupta ceded <b>500 war elephants</b> to Seleucus I Nicator in exchange for territories including Arachosia, Gedrosia, Paropamisadae, and Aria."
+        },
+        {
+          "q": "Megasthenes, the Greek ambassador at the Mauryan court of Chandragupta, authored which work describing Indian society?",
+          "o": [
+            "Arthashastra",
+            "Indica",
+            "Mudrarakshasa",
+            "Milindapanho"
+          ],
+          "a": 1,
+          "e": "Megasthenes wrote '<b>Indica</b>', an account of Mauryan India based on his observations as Seleucus's ambassador at Pataliputra."
+        },
+        {
+          "q": "According to Jain tradition, how did Chandragupta Maurya spend his final years after abdicating the throne?",
+          "o": [
+            "He ruled as a hermit-king from Pataliputra",
+            "He became a Jain monk under Bhadrabahu and died at Shravanabelagola by sallekhana",
+            "He converted to Buddhism and retired to Sarnath",
+            "He was exiled to Taxila by his son Bindusara"
+          ],
+          "a": 1,
+          "e": "Jain tradition holds that Chandragupta became a monk under <b>Bhadrabahu</b>, migrated to <b>Shravanabelagola</b>, and died by the practice of <b>sallekhana</b> (ritual fasting)."
+        },
+        {
+          "q": "The Arthashastra, a treatise on statecraft, economics, and military strategy, is traditionally attributed to whom?",
+          "o": [
+            "Megasthenes",
+            "Chanakya",
+            "Ashoka",
+            "Panini"
+          ],
+          "a": 1,
+          "e": "The <b>Arthashastra</b> is traditionally attributed to <b>Chanakya</b> (Kautilya), Chandragupta Maurya's chief minister."
+        },
+        {
+          "q": "Which of the following is NOT one of the seven classes into which Megasthenes divided Mauryan society in his Indica?",
+          "o": [
+            "Philosophers",
+            "Councillors",
+            "Priests exempt from taxation",
+            "Herdsmen"
+          ],
+          "a": 2,
+          "e": "Megasthenes described seven classes -- philosophers, farmers, soldiers, herdsmen, artisans, magistrates, and <b>councillors</b> -- with no separate class of tax-exempt priests mentioned."
+        },
+        {
+          "q": "According to Megasthenes, the city administration of Pataliputra was managed by how many committees and members?",
+          "o": [
+            "Six committees of five members each",
+            "Four committees of ten members each",
+            "Eight committees of three members each",
+            "Two committees of fifteen members each"
+          ],
+          "a": 0,
+          "e": "Megasthenes described Pataliputra's municipal administration as run by <b>six committees of five members each</b>, totalling thirty members, each handling different civic functions."
+        },
+        {
+          "q": "Bindusara, the son of Chandragupta Maurya, was referred to in Greek sources by which title?",
+          "o": [
+            "Devanampiya",
+            "Amitrochates",
+            "Piyadasi",
+            "Chakravartin"
+          ],
+          "a": 1,
+          "e": "Greek sources referred to Bindusara as '<b>Amitrochates</b>', derived from the Sanskrit 'Amitraghata', meaning 'slayer of enemies'."
+        },
+        {
+          "q": "Which Seleucid ambassador is recorded as having served at the court of Bindusara?",
+          "o": [
+            "Megasthenes",
+            "Deimachus",
+            "Antiochus",
+            "Seleucus"
+          ],
+          "a": 1,
+          "e": "<b>Deimachus</b> served as the Seleucid ambassador at Bindusara's court, succeeding Megasthenes who had been ambassador under Chandragupta."
+        },
+        {
+          "q": "According to the Greek writer Athenaeus, Bindusara requested which items from the Seleucid king Antiochus I?",
+          "o": [
+            "Sweet wine, a sophist, and figs",
+            "War elephants and gold coins",
+            "Silk, spices, and horses",
+            "Manuscripts and astronomical instruments"
+          ],
+          "a": 0,
+          "e": "Athenaeus records that Bindusara requested <b>sweet wine, a sophist (philosopher), and figs</b> from Antiochus I, though the philosopher request was reportedly declined."
+        },
+        {
+          "q": "The Kalinga War, which caused Ashoka deep remorse and led him to embrace Dhamma, was fought in which year?",
+          "o": [
+            "273 BCE",
+            "261 BCE",
+            "232 BCE",
+            "305 BCE"
+          ],
+          "a": 1,
+          "e": "The <b>Kalinga War</b> took place in <b>261 BCE</b>, and its bloodshed is described in Ashoka's Rock Edict XIII."
+        },
+        {
+          "q": "Which Rock Edict of Ashoka describes the horrors and bloodshed of the Kalinga War?",
+          "o": [
+            "Rock Edict I",
+            "Rock Edict XIII",
+            "Rock Edict IV",
+            "Rock Edict VII"
+          ],
+          "a": 1,
+          "e": "<b>Rock Edict XIII</b> describes the devastation of the Kalinga War and Ashoka's resulting remorse."
+        },
+        {
+          "q": "Ashoka referred to himself in his inscriptions by which titles?",
+          "o": [
+            "Chakravartin and Samrat",
+            "Devanampiya and Piyadasi",
+            "Maharajadhiraja and Prithvipati",
+            "Dharmaraja and Bodhisattva"
+          ],
+          "a": 1,
+          "e": "Ashoka used the titles '<b>Devanampiya</b>' (Beloved of the Gods) and '<b>Piyadasi</b>' (of gracious mien) in his inscriptions."
+        },
+        {
+          "q": "Ashoka's edicts were inscribed mainly in which script and language?",
+          "o": [
+            "Brahmi script, Prakrit language",
+            "Devanagari script, Sanskrit language",
+            "Kharosthi script, Pali language",
+            "Greek script, Prakrit language"
+          ],
+          "a": 0,
+          "e": "Most Ashokan edicts were inscribed in <b>Brahmi</b> script in the <b>Prakrit</b> language, while Kharosthi was used in the northwest."
+        },
+        {
+          "q": "The Kandahar bilingual edict of Ashoka, found in present-day Afghanistan, was inscribed in which two languages?",
+          "o": [
+            "Greek and Aramaic",
+            "Sanskrit and Pali",
+            "Brahmi and Kharosthi",
+            "Prakrit and Persian"
+          ],
+          "a": 0,
+          "e": "The Kandahar edict was inscribed in <b>Greek and Aramaic</b>, reflecting the region's population and its historical ties to the Hellenistic world."
+        },
+        {
+          "q": "The Sarnath Lion Capital of Ashoka, featuring four lions standing back to back, was adopted as independent India's National Emblem in which year?",
+          "o": [
+            "1947",
+            "1950",
+            "1935",
+            "1962"
+          ],
+          "a": 1,
+          "e": "The <b>Sarnath Lion Capital</b> was adopted as India's National Emblem in <b>1950</b>, the year the Constitution came into force."
+        },
+        {
+          "q": "Who first deciphered Ashokan Brahmi inscriptions in 1837, identifying the title 'Piyadasi' with Ashoka?",
+          "o": [
+            "Alexander Cunningham",
+            "James Prinsep",
+            "Mortimer Wheeler",
+            "William Jones"
+          ],
+          "a": 1,
+          "e": "<b>James Prinsep</b> deciphered the Brahmi script in 1837 and identified the title 'Piyadasi' used in the edicts with Emperor Ashoka."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which foreign ambassador represented the Seleucid Empire at the Mauryan court during Chandragupta Maurya's reign, as opposed to Deimachus who served under Bindusara?",
+          "o": [
+            "Megasthenes",
+            "Antiochus I",
+            "Moggaliputta Tissa",
+            "Seleucus I Nicator"
+          ],
+          "a": 0,
+          "e": "<b>Megasthenes</b> was the Seleucid ambassador at Chandragupta's court, while <b>Deimachus</b> served later under Bindusara."
+        },
+        {
+          "q": "Consider the following statements regarding the Arthashastra: 1. It describes the Saptanga theory of the seven constituent elements of a state. 2. It describes the Mandala theory of foreign policy based on concentric circles of allied and enemy states. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the Arthashastra elaborates the <b>Saptanga theory</b> (seven limbs of the state) and the <b>Mandala theory</b> (concentric circles of friendly and hostile states) of foreign policy."
+        },
+        {
+          "q": "Consider the following statements regarding Megasthenes' Indica: 1. It divides Mauryan society into seven classes. 2. It describes Pataliputra's administration as run by six committees of five members each. 3. It records that Ashoka fought the Kalinga War. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct descriptions from Megasthenes' <b>Indica</b>. Statement 3 is incorrect -- Megasthenes wrote during <b>Chandragupta's</b> reign, decades before Ashoka's Kalinga War, so his account could not record it."
+        },
+        {
+          "q": "Which of the following was NOT among the four provincial capitals traditionally associated with Mauryan viceroys (Kumaras)?",
+          "o": [
+            "Taxila",
+            "Ujjain",
+            "Suvarnagiri",
+            "Pataliputra"
+          ],
+          "a": 3,
+          "e": "<b>Pataliputra</b> was the imperial capital itself, not a provincial capital; Taxila, Ujjain, Tosali, and Suvarnagiri were provincial centres governed by royal princes (Kumaras) as viceroys."
+        },
+        {
+          "q": "Consider the following statements about Ashoka's Dhamma: 1. It emphasized tolerance, non-violence, and respect for elders. 2. It was formally established as a new religion distinct from existing faiths. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct -- Dhamma was a code of ethical conduct. Statement 2 is incorrect, as <b>Dhamma</b> was not a new religion but a set of moral principles Ashoka promoted."
+        },
+        {
+          "q": "The Mauryan administrative system, as described in the Arthashastra, employed numerous officials known as Adhyakshas. These officials were best described as:",
+          "o": [
+            "Superintendents overseeing specific departments such as weights and measures or agriculture",
+            "Provincial viceroys drawn exclusively from the royal family",
+            "Village-level tax collectors reporting to Kumaras",
+            "Buddhist monks appointed to oversee monastic discipline"
+          ],
+          "a": 0,
+          "e": "<b>Adhyakshas</b> were superintendents in charge of specific departments like weights and measures, agriculture, and other economic activities, as detailed in the Arthashastra."
+        },
+        {
+          "q": "Consider the following statements about Mauryan administration and military organization: 1. Greek accounts, transmitted via Pliny, describe a very large standing Mauryan army. 2. The Arthashastra describes an extensive espionage network. 3. Provincial viceroys (Kumaras) were always chosen from outside the royal family to prevent nepotism. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect, as <b>Kumaras</b> (royal princes) themselves served as provincial viceroys, not outsiders."
+        },
+        {
+          "q": "The separate Kalinga Edicts found at Dhauli and Jaugada in Odisha are notable because they:",
+          "o": [
+            "Provide the most graphic description of the Kalinga War's bloodshed",
+            "Omit direct reference to the horrors of the Kalinga War and instead address local officials on governance",
+            "Were inscribed only in the Greek language",
+            "Record Ashoka's abdication of the throne"
+          ],
+          "a": 1,
+          "e": "Unlike Rock Edict XIII, the separate Kalinga Edicts at <b>Dhauli and Jaugada</b> omit direct reference to war's horrors, focusing instead on instructions to local officials regarding governance and justice."
+        },
+        {
+          "q": "Consider the following statements: 1. Ashoka's son Mahinda and daughter Sanghamitra were sent on Buddhist missions to Sri Lanka. 2. The Third Buddhist Council held at Pataliputra was presided over by Moggaliputta Tissa. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>Mahinda</b> and <b>Sanghamitra</b> carried Buddhism to Sri Lanka, and the <b>Third Buddhist Council</b> at Pataliputra was presided over by <b>Moggaliputta Tissa</b>."
+        },
+        {
+          "q": "The Rummindei (Lumbini) pillar inscription of Ashoka is significant primarily because it:",
+          "o": [
+            "Records Ashoka's victory over Kalinga",
+            "Marks the Buddha's birthplace and records a tax exemption granted to the village",
+            "Announces the Third Buddhist Council",
+            "Contains the bilingual Greek-Aramaic text"
+          ],
+          "a": 1,
+          "e": "The <b>Rummindei pillar</b> inscription marks Lumbini as the <b>Buddha's birthplace</b> and records a tax exemption granted to the village."
+        },
+        {
+          "q": "Consider the following statements regarding the decline of the Mauryan Empire: 1. Weak successors after Ashoka contributed to the empire's fragmentation. 2. Financial strain from maintaining a large bureaucracy and army is cited as a possible cause. 3. Historians unanimously agree that a 'Brahmanical reaction' was the single proven cause of decline. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are recognized as contributing factors. Statement 3 is incorrect, as the '<b>Brahmanical reaction</b>' is only one debated theory among historians, with no single cause universally agreed upon."
+        },
+        {
+          "q": "The last Mauryan ruler, Brihadratha, was assassinated by his own commander-in-chief, who then founded a new dynasty. Who was this commander-in-chief?",
+          "o": [
+            "Pushyamitra Shunga",
+            "Kharavela",
+            "Menander",
+            "Chandragupta II"
+          ],
+          "a": 0,
+          "e": "<b>Pushyamitra Shunga</b>, Brihadratha's commander-in-chief, assassinated him around 185-187 BCE and founded the <b>Shunga dynasty</b>."
+        },
+        {
+          "q": "Consider the following statements comparing Chandragupta Maurya and Ashoka: 1. Both are traditionally associated with renouncing the throne in favour of a religious life in their later years. 2. Chandragupta's renunciation is linked to Jainism, while Ashoka's religious patronage is linked to Buddhism. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: Chandragupta, per Jain tradition, became a Jain monk, while <b>Ashoka</b> embraced and propagated <b>Buddhist</b> Dhamma after the Kalinga War."
+        },
+        {
+          "q": "The Ashoka Chakra, which appears on the National Flag of India and is derived from the Sarnath pillar, has how many spokes?",
+          "o": [
+            "16 spokes",
+            "24 spokes",
+            "32 spokes",
+            "12 spokes"
+          ],
+          "a": 1,
+          "e": "The <b>Ashoka Chakra</b> on the National Flag has <b>24 spokes</b> and is drawn from the Dharma Chakra depicted on the Sarnath Lion Capital."
+        },
+        {
+          "q": "Consider the following statements about the scripts used in Ashokan edicts: 1. Brahmi script in the Prakrit language was used for most edicts across the empire. 2. Kharosthi script was used in the northwestern regions. 3. The Kandahar edict was inscribed only in Sanskrit and Pali. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect, as the <b>Kandahar</b> bilingual edict was inscribed in <b>Greek and Aramaic</b>, not Sanskrit and Pali."
+        },
+        {
+          "q": "In the treaty following the conflict between Chandragupta Maurya and Seleucus I Nicator, which regions did Seleucus cede to the Mauryan Empire?",
+          "o": [
+            "Arachosia, Gedrosia, Paropamisadae, and Aria",
+            "Bactria, Sogdiana, and Margiana",
+            "Punjab, Sindh, and Gujarat",
+            "Persia and Mesopotamia"
+          ],
+          "a": 0,
+          "e": "Seleucus ceded <b>Arachosia, Gedrosia, Paropamisadae, and Aria</b> -- roughly parts of modern Afghanistan -- to Chandragupta in exchange for 500 war elephants."
+        },
+        {
+          "q": "Consider the following statements about Megasthenes' account of Pataliputra: 1. The city's administration was run by thirty officials divided into six committees. 2. Each of the six committees consisted of five members handling distinct municipal functions. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct and describe the same system: six committees of five members each, totalling <b>thirty officials</b>, managed different aspects of <b>Pataliputra's</b> civic administration."
+        },
+        {
+          "q": "Besides the cession of territory in exchange for elephants, which additional element is traditionally associated with the treaty between Chandragupta Maurya and Seleucus I Nicator?",
+          "o": [
+            "A marriage alliance between the two dynasties",
+            "A permanent ban on future wars between the empires",
+            "The founding of a joint trading colony at Taxila",
+            "An exchange of ambassadors' family members as hostages"
+          ],
+          "a": 0,
+          "e": "Tradition also holds that a <b>marriage alliance</b> was part of the settlement between Chandragupta Maurya and Seleucus I Nicator, alongside the territorial cession and elephant exchange."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The treaty between Chandragupta Maurya and Seleucus I Nicator involved the cession of territories in exchange for war elephants. 2. Megasthenes was sent by Seleucus as ambassador to Bindusara's court. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is incorrect -- <b>Megasthenes</b> was ambassador at <b>Chandragupta's</b> court; it was <b>Deimachus</b> who later served at Bindusara's court."
+        },
+        {
+          "q": "Consider the following statements about the Arthashastra: 1. It expounds the Saptanga theory of the state. 2. It expounds the Mandala theory of inter-state relations. 3. It was composed by Megasthenes during his stay at the Mauryan court. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect, as the <b>Arthashastra</b> is attributed to <b>Chanakya (Kautilya)</b>, not Megasthenes, who instead authored the Indica."
+        },
+        {
+          "q": "The description of Pataliputra's municipal administration through six committees of five members each is drawn primarily from which type of source?",
+          "o": [
+            "Ashoka's Rock Edicts",
+            "Megasthenes' Indica, a Greek ambassadorial account",
+            "The Arthashastra's chapter on foreign policy",
+            "The Kalinga separate edicts at Dhauli and Jaugada"
+          ],
+          "a": 1,
+          "e": "This detailed description of Pataliputra's civic administration comes from <b>Megasthenes' Indica</b>, an external Greek account, rather than from Ashokan epigraphy or the Arthashastra."
+        },
+        {
+          "q": "Consider the following statements regarding Megasthenes' account of Mauryan society: 1. Philosophers formed one of the seven classes he described. 2. Traders formed a class separate and distinct from artisans in his sevenfold division. 3. Councillors and magistrates were counted as two separate classes among the seven. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct -- philosophers, councillors, and magistrates each formed distinct classes. Statement 2 is incorrect, as Megasthenes' sevenfold division (philosophers, farmers, soldiers, herdsmen, artisans, magistrates, councillors) did not list <b>traders</b> as a separate class."
+        },
+        {
+          "q": "Consider the following statements: 1. The Kalinga War and its bloodshed are described in Ashoka's Rock Edict XIII. 2. The separate Kalinga Edicts at Dhauli and Jaugada directly narrate the horrors of the war to justify Ashoka's remorse. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is incorrect -- the separate <b>Kalinga Edicts</b> at Dhauli and Jaugada notably omit direct reference to the war's horrors, instead instructing local officials on governance and justice."
+        },
+        {
+          "q": "In Chanakya's Mandala theory of foreign policy, a neighbouring state was generally treated as a natural enemy, while a state adjoining that neighbour was treated as:",
+          "o": [
+            "A natural ally, since 'the enemy of my enemy is my friend'",
+            "An automatic enemy as well, regardless of geography",
+            "A neutral power to be ignored in foreign policy",
+            "A vassal state owing tribute"
+          ],
+          "a": 0,
+          "e": "Under the <b>Mandala theory</b>, immediate neighbours were viewed as natural rivals, while states beyond them were treated as potential natural allies, following the logic that the enemy of one's enemy is a friend."
+        },
+        {
+          "q": "Consider the following statements: 1. Mahinda, Ashoka's son, was sent on a Buddhist mission to Sri Lanka. 2. Sanghamitra, Ashoka's daughter, was also associated with the mission to Sri Lanka. 3. The Third Buddhist Council at Pataliputra was presided over by Upagupta. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect, as the <b>Third Buddhist Council</b> was presided over by <b>Moggaliputta Tissa</b>, not Upagupta."
+        },
+        {
+          "q": "Unlike the separate Kalinga Edicts which address administrative governance, the Rummindei pillar inscription is distinctive in Ashokan epigraphy because it:",
+          "o": [
+            "Commemorates a pilgrimage site (the Buddha's birthplace) and grants a local tax concession",
+            "Declares war reparations to the people of Kalinga",
+            "Records the philosophical content of the Mandala theory",
+            "Is the only edict written in the Kharosthi script"
+          ],
+          "a": 0,
+          "e": "The <b>Rummindei</b> pillar inscription is unusual in commemorating the Buddha's birthplace at Lumbini and granting the village a tax exemption, unlike edicts focused on governance or ethics."
+        },
+        {
+          "q": "Consider the following statements about the classification of Ashokan inscriptions: 1. Major Rock Edicts, Minor Rock Edicts, and Pillar Edicts are among the recognized categories of Ashoka's inscriptions. 2. The separate Kalinga Edicts at Dhauli and Jaugada belong to the category of Pillar Edicts. 3. The Kandahar inscription is a bilingual rock edict found in present-day Afghanistan. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect -- the separate Kalinga Edicts at <b>Dhauli</b> and <b>Jaugada</b> are Rock Edicts addressed to local officials, not Pillar Edicts."
+        },
+        {
+          "q": "James Prinsep's decipherment of Brahmi inscriptions in 1837 was significant primarily because it led to the identification of which title with Ashoka?",
+          "o": [
+            "Devanampiya",
+            "Piyadasi",
+            "Chakravartin",
+            "Samrat"
+          ],
+          "a": 1,
+          "e": "Prinsep's 1837 decipherment identified the title '<b>Piyadasi</b>' used throughout the edicts as referring to Ashoka, unlocking Mauryan epigraphic history."
+        },
+        {
+          "q": "Consider the following statements: 1. The Sarnath Lion Capital was adopted as India's National Emblem in 1950. 2. The Ashoka Chakra depicted on the National Flag, with 24 spokes, is derived from the same Sarnath pillar. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the <b>Sarnath Lion Capital</b> became the National Emblem in 1950, and its Dharma Chakra inspired the 24-spoked <b>Ashoka Chakra</b> on the National Flag."
+        },
+        {
+          "q": "Consider the following statements on theories of Mauryan decline: 1. Some historians attribute the decline partly to provincial revolts against central authority. 2. The 'Brahmanical reaction' theory is one of several proposed explanations, not a universally accepted single cause. 3. All historians agree that Ashoka's pacifist policies alone caused the empire's military collapse. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct -- provincial revolts and the debated '<b>Brahmanical reaction</b>' theory are both cited among possible causes. Statement 3 is incorrect, as there is no historical consensus attributing decline solely to Ashoka's pacifism."
+        },
+        {
+          "q": "The description of a very large standing Mauryan army is chiefly attested through which type of source?",
+          "o": [
+            "Ashoka's Major Rock Edicts",
+            "Greek accounts transmitted via the Roman writer Pliny",
+            "The Rummindei pillar inscription",
+            "The Kandahar bilingual edict"
+          ],
+          "a": 1,
+          "e": "Accounts of the Mauryan standing army's vast size are transmitted through <b>Greek sources via Pliny</b>, rather than through Ashokan inscriptions, which focus on Dhamma and governance."
+        },
+        {
+          "q": "Consider the following statements about the fall of the Mauryan Empire: 1. Brihadratha, the last Mauryan ruler, was assassinated by Pushyamitra Shunga. 2. Pushyamitra Shunga was a foreign general who invaded the Mauryan Empire from outside. 3. The assassination is dated to around 185-187 BCE. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect -- <b>Pushyamitra Shunga</b> was Brihadratha's own commander-in-chief, not a foreign invader, and founded the Shunga dynasty after the assassination."
+        },
+        {
+          "q": "Ashoka became emperor around 268 BCE after a succession struggle, while the Kalinga War occurred in 261 BCE. This chronology best supports which inference?",
+          "o": [
+            "Ashoka fought the Kalinga War immediately upon accession, within a year of becoming emperor",
+            "Roughly seven years elapsed between Ashoka's accession and the Kalinga War",
+            "The Kalinga War preceded Ashoka's formal accession to the throne",
+            "Ashoka's accession and the Kalinga War occurred in the same year"
+          ],
+          "a": 1,
+          "e": "With accession around <b>268 BCE</b> and the Kalinga War in <b>261 BCE</b>, roughly seven years separated the two events, indicating the war took place well into Ashoka's reign, not immediately upon accession."
+        },
+        {
+          "q": "Consider the following statements about Mauryan provincial and departmental administration: 1. Kumaras, as royal princes, served as viceroys governing major provinces. 2. Adhyakshas were superintendents overseeing specific departments such as weights and measures or agriculture. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>Kumaras</b> governed provinces as royal viceroys, while <b>Adhyakshas</b> were department-level superintendents overseeing specialized functions like weights, measures, and agriculture."
+        },
+        {
+          "q": "Consider the following statements about Bindusara's reign: 1. Bindusara further extended Mauryan control southward beyond his father's conquests. 2. The title 'Amitrochates' used for Bindusara in Greek sources derives from the Sanskrit 'Amitraghata'. 3. Bindusara personally led the Kalinga War during his reign. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect, as the <b>Kalinga War</b> was fought by <b>Ashoka</b>, Bindusara's son, not by Bindusara himself."
+        },
+        {
+          "q": "The Ashokan title 'Devanampiya', distinct in meaning from 'Piyadasi', translates to:",
+          "o": [
+            "Of gracious mien",
+            "Beloved of the Gods",
+            "Slayer of enemies",
+            "Conqueror of Kalinga"
+          ],
+          "a": 1,
+          "e": "'<b>Devanampiya</b>' translates to 'Beloved of the Gods', while '<b>Piyadasi</b>' means 'of gracious mien' -- both titles used by Ashoka in his inscriptions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_gupta_empire",
+    "title": "Gupta Empire & Post-Gupta Period",
+    "desc": "Gupta golden age, decline, and Harsha's era",
+    "questions": {
+      "basic": [
+        {
+          "q": "Who was the founder-figure of the Gupta dynasty, credited with the title 'Maharaja'?",
+          "o": [
+            "Chandragupta I",
+            "Sri Gupta",
+            "Samudragupta",
+            "Ghatotkacha"
+          ],
+          "a": 1,
+          "e": "<b>Sri Gupta</b> was the early founder-figure of the dynasty who held the modest title 'Maharaja'; he was succeeded by <b>Ghatotkacha</b> and then Chandragupta I."
+        },
+        {
+          "q": "Which Gupta ruler first assumed the title 'Maharajadhiraja' and is credited with starting the Gupta Era?",
+          "o": [
+            "Sri Gupta",
+            "Ghatotkacha",
+            "Chandragupta I",
+            "Samudragupta"
+          ],
+          "a": 2,
+          "e": "<b>Chandragupta I</b> (c. 319-335 CE) was the first Gupta ruler to take the imperial title 'Maharajadhiraja' and is credited with starting the <b>Gupta Era</b>, dated from 319-320 CE."
+        },
+        {
+          "q": "Chandragupta I strengthened his political position through a marriage alliance with which princess?",
+          "o": [
+            "Kumaradevi of the Lichchhavis",
+            "Dhruvadevi of the Nagas",
+            "Prabhavati of the Vakatakas",
+            "Kumaradevi of the Mauryas"
+          ],
+          "a": 0,
+          "e": "Chandragupta I married <b>Kumaradevi</b>, a princess of the <b>Lichchhavi</b> clan, an alliance that helped consolidate his political standing."
+        },
+        {
+          "q": "The title 'Napoleon of India' was given to which Gupta ruler by historian V.A. Smith?",
+          "o": [
+            "Chandragupta I",
+            "Samudragupta",
+            "Chandragupta II",
+            "Skandagupta"
+          ],
+          "a": 1,
+          "e": "Historian V.A. Smith called <b>Samudragupta</b> the 'Napoleon of India' owing to his extensive military conquests recorded in the Allahabad Prashasti."
+        },
+        {
+          "q": "The Allahabad Prashasti, recording Samudragupta's achievements, was composed by his court poet:",
+          "o": [
+            "Harishena",
+            "Banabhatta",
+            "Kalidasa",
+            "Ravikirti"
+          ],
+          "a": 0,
+          "e": "The <b>Allahabad Prashasti</b> (Prayaga Prashasti) was composed by <b>Harishena</b>, a court poet and minister of Samudragupta."
+        },
+        {
+          "q": "On which structure is the Allahabad Prashasti (Prayaga Prashasti) inscribed?",
+          "o": [
+            "A stone slab at Nalanda",
+            "An Ashokan pillar, originally at Kaushambi",
+            "The Iron Pillar at Mehrauli",
+            "A copper-plate land grant"
+          ],
+          "a": 1,
+          "e": "The Prashasti is inscribed on an <b>Ashokan pillar</b> originally located at Kaushambi, now standing at Allahabad (Prayagraj)."
+        },
+        {
+          "q": "Which sacrifice did Samudragupta perform to mark his imperial sovereignty?",
+          "o": [
+            "Rajasuya",
+            "Vajapeya",
+            "Ashvamedha",
+            "Agnishtoma"
+          ],
+          "a": 2,
+          "e": "Samudragupta performed the <b>Ashvamedha</b> (horse) sacrifice, a traditional marker of paramount sovereignty, and issued commemorative coins for it."
+        },
+        {
+          "q": "Chandragupta II is popularly known by which title, also found on some of his coins?",
+          "o": [
+            "Vikramaditya",
+            "Devaputra",
+            "Dharmaditya",
+            "Parama Bhagavata"
+          ],
+          "a": 0,
+          "e": "Chandragupta II is traditionally known as <b>Vikramaditya</b>, a title associated with his court's cultural brilliance."
+        },
+        {
+          "q": "Chandragupta II gained access to western sea ports after defeating which ruler/dynasty?",
+          "o": [
+            "Vakatakas",
+            "Western Kshatrapas (Rudrasimha III)",
+            "Chalukyas",
+            "Hunas"
+          ],
+          "a": 1,
+          "e": "Chandragupta II defeated the last <b>Western Kshatrapa</b> ruler <b>Rudrasimha III</b>, annexing Malwa, Gujarat and Saurashtra and gaining access to western ports."
+        },
+        {
+          "q": "Which Chinese Buddhist pilgrim visited India during Chandragupta II's reign and compiled his account as the 'Record of Buddhist Kingdoms'?",
+          "o": [
+            "Xuanzang",
+            "Fa-Hien",
+            "I-tsing",
+            "Megasthenes"
+          ],
+          "a": 1,
+          "e": "<b>Fa-Hien</b> (Faxian) visited India c. 399-414 CE during Chandragupta II's reign and recorded his travels in the 'Record of Buddhist Kingdoms'."
+        },
+        {
+          "q": "The Iron Pillar inscription at Mehrauli refers to a king named 'Chandra', generally identified with:",
+          "o": [
+            "Chandragupta Maurya",
+            "Chandragupta II",
+            "Chandra Varman",
+            "Chandragupta I"
+          ],
+          "a": 1,
+          "e": "Many historians identify the king named 'Chandra' in the <b>Mehrauli Iron Pillar</b> inscription with <b>Chandragupta II</b>."
+        },
+        {
+          "q": "In Gupta administration, the governor of a province ('Bhukti') was called:",
+          "o": [
+            "Vishayapati",
+            "Uparika",
+            "Gramika",
+            "Amatya"
+          ],
+          "a": 1,
+          "e": "Provinces called <b>Bhuktis</b> were governed by an official titled <b>Uparika</b>, while districts (Vishayas) were headed by a Vishayapati."
+        },
+        {
+          "q": "The Gupta gold coins were known as:",
+          "o": [
+            "Karshapana",
+            "Dinara",
+            "Nishka",
+            "Pana"
+          ],
+          "a": 1,
+          "e": "Gupta gold coins were called <b>Dinaras</b>, reflecting the empire's flourishing trade and monetary economy."
+        },
+        {
+          "q": "Who authored the 'Aryabhatiya' (499 CE), which gave a scientific explanation of eclipses?",
+          "o": [
+            "Varahamihira",
+            "Brahmagupta",
+            "Aryabhata",
+            "Bhaskara I"
+          ],
+          "a": 2,
+          "e": "<b>Aryabhata</b> wrote the '<b>Aryabhatiya</b>' in 499 CE, explaining eclipses scientifically and describing the Earth's rotation on its axis."
+        },
+        {
+          "q": "Which of the following is a lyrical poem by Kalidasa describing a cloud's journey as a messenger?",
+          "o": [
+            "Meghaduta",
+            "Abhijnanashakuntalam",
+            "Raghuvamsha",
+            "Malavikagnimitram"
+          ],
+          "a": 0,
+          "e": "'<b>Meghaduta</b>' ('The Cloud Messenger') is Kalidasa's celebrated lyric poem about a cloud carrying a message of love."
+        },
+        {
+          "q": "Nalanda, the great center of Buddhist learning, is traditionally said to have been founded/patronized starting under which Gupta ruler?",
+          "o": [
+            "Chandragupta II",
+            "Kumaragupta I",
+            "Skandagupta",
+            "Samudragupta"
+          ],
+          "a": 1,
+          "e": "<b>Nalanda</b> is traditionally associated with patronage beginning under <b>Kumaragupta I</b> in the 5th century CE."
+        },
+        {
+          "q": "Harshavardhana belonged to which dynasty?",
+          "o": [
+            "Maukhari",
+            "Pushyabhuti (Vardhana)",
+            "Maitraka",
+            "Gupta"
+          ],
+          "a": 1,
+          "e": "Harshavardhana (c. 606-647 CE) belonged to the <b>Pushyabhuti (Vardhana)</b> dynasty, ruling from Thanesar and later Kannauj."
+        },
+        {
+          "q": "Harshavardhana's biography, the 'Harshacharita', was written by:",
+          "o": [
+            "Kalidasa",
+            "Banabhatta",
+            "Harishena",
+            "Ravikirti"
+          ],
+          "a": 1,
+          "e": "<b>Banabhatta</b>, Harsha's court poet, wrote the '<b>Harshacharita</b>' in ornate Sanskrit prose."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding Samudragupta's policy as described in the Allahabad Prashasti: 1. He followed a policy of 'Dharmavijaya' toward the twelve kings of Dakshinapatha, reinstating them after defeat. 2. He directly annexed the kingdoms of Aryavarta in the north into the Gupta empire. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are correct: the Prashasti describes <b>Dharmavijaya</b> (conquest followed by reinstatement) toward twelve <b>Dakshinapatha</b> kings, while <b>Aryavarta</b> kingdoms in the north were uprooted and directly annexed."
+        },
+        {
+          "q": "Consider the following statements about Chandragupta II: 1. He defeated the Western Kshatrapa ruler Rudrasimha III and annexed Malwa, Gujarat and Saurashtra. 2. The Chinese pilgrim Xuanzang visited India and recorded his observations during his reign. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is incorrect: <b>Xuanzang</b> visited India during <b>Harshavardhana's</b> reign, not Chandragupta II's; it was <b>Fa-Hien</b> who visited during Chandragupta II's rule."
+        },
+        {
+          "q": "Consider the following statements regarding Gupta administration: 1. Provinces were called 'Bhuktis' governed by an official titled 'Uparika'. 2. Districts were called 'Vishayas' governed by a 'Vishayapati'. 3. Land grants to Brahmanas and officials in lieu of cash salaries reflect feudal tendencies in the Gupta polity. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct and together describe the layered, semi-feudal character of <b>Gupta administration</b>: Bhukti-Uparika, Vishaya-Vishayapati, and land grants (Agraharas) in lieu of cash pay."
+        },
+        {
+          "q": "Consider the following statements about Aryabhata: 1. He wrote the 'Aryabhatiya' in 499 CE. 2. He described the rotation of the Earth on its own axis. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the '<b>Aryabhatiya</b>' (499 CE) gives a value for pi, explains eclipses scientifically, and describes the <b>Earth's rotation</b> on its axis."
+        },
+        {
+          "q": "Consider the following statements: 1. The Hunas first invaded during the reign of Kumaragupta I and continued into the reign of his successor Skandagupta. 2. Skandagupta completely failed to repel the Huna invasions, leading to the immediate collapse of the Gupta empire. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is incorrect: <b>Skandagupta</b> did manage to repel the <b>Huna</b> invasions, though at great financial and military cost that weakened, but did not immediately collapse, the empire."
+        },
+        {
+          "q": "Consider the following statements: 1. Harsha was defeated by Pulakeshin II of the Chalukyas when he tried to expand south of the Narmada. 2. This defeat is recorded in the Aihole inscription composed by the poet Ravikirti. 3. Harsha succeeded his father Prabhakaravardhana directly on the throne of Thanesar. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect: Harsha succeeded his elder brother <b>Rajyavardhana</b> (who was killed by Shashanka of Gauda), not his father directly."
+        },
+        {
+          "q": "All of the following are associated with the reign of Chandragupta II EXCEPT:",
+          "o": [
+            "Fa-Hien's visit to India",
+            "Defeat of the Western Kshatrapas",
+            "The Iron Pillar inscription at Mehrauli",
+            "Composition of the Harshacharita by Banabhatta"
+          ],
+          "a": 3,
+          "e": "The '<b>Harshacharita</b>' was composed by Banabhatta during Harshavardhana's reign, centuries after Chandragupta II, whose reign is instead marked by Fa-Hien's visit and the Kshatrapa conquest."
+        },
+        {
+          "q": "Which of the following pairs of Gupta-era officials and their jurisdiction is correctly matched?",
+          "o": [
+            "Uparika - Vishaya",
+            "Vishayapati - Bhukti",
+            "Gramika - Village",
+            "Amatya - Grama"
+          ],
+          "a": 2,
+          "e": "The <b>Gramika</b> headed the village, the smallest administrative unit, while Uparika governed the Bhukti (province) and Vishayapati the Vishaya (district) — the reverse pairings in the other options are incorrect."
+        },
+        {
+          "q": "The trade guilds that played an important role in Gupta economic life were known as:",
+          "o": [
+            "Shrenis",
+            "Nigamas",
+            "Pugas",
+            "Sarthavahas"
+          ],
+          "a": 0,
+          "e": "<b>Shrenis</b> were the organized trade and craft guilds that regulated commerce and production during the Gupta period."
+        },
+        {
+          "q": "Which Gupta-era/late Gupta-era astronomer authored the 'Panchasiddhantika' and 'Brihat Samhita'?",
+          "o": [
+            "Aryabhata",
+            "Varahamihira",
+            "Brahmagupta",
+            "Bhaskara I"
+          ],
+          "a": 1,
+          "e": "<b>Varahamihira</b>, generally dated to the 6th century CE, wrote the '<b>Panchasiddhantika</b>' and '<b>Brihat Samhita</b>'."
+        },
+        {
+          "q": "The Huna chief who captured parts of north-western India in the early 6th century CE and was the father of Mihirakula was:",
+          "o": [
+            "Toramana",
+            "Yashodharman",
+            "Rudrasimha III",
+            "Shashanka"
+          ],
+          "a": 0,
+          "e": "<b>Toramana</b>, the Huna chief, seized parts of north-western India and was succeeded by his son <b>Mihirakula</b>."
+        },
+        {
+          "q": "Yashodharman of Malwa's victory over the Huna ruler Mihirakula around 528 CE is recorded in the:",
+          "o": [
+            "Aihole inscription",
+            "Mandsor inscription",
+            "Allahabad Prashasti",
+            "Mehrauli Iron Pillar inscription"
+          ],
+          "a": 1,
+          "e": "The <b>Mandsor inscription</b> records <b>Yashodharman's</b> defeat of Mihirakula around 528 CE, by which time central Gupta authority had already substantially declined."
+        },
+        {
+          "q": "Which of the following correctly distinguishes the two Chinese pilgrims associated with the Gupta and post-Gupta periods?",
+          "o": [
+            "Fa-Hien visited during Harsha's reign; Xuanzang visited during Chandragupta II's reign",
+            "Fa-Hien visited during Chandragupta II's reign; Xuanzang visited during Harsha's reign",
+            "Both visited only during Chandragupta II's reign",
+            "Both visited only during Harsha's reign"
+          ],
+          "a": 1,
+          "e": "<b>Fa-Hien</b> visited during <b>Chandragupta II's</b> reign, while <b>Xuanzang</b> visited during <b>Harsha's</b> reign, roughly two centuries later."
+        },
+        {
+          "q": "Rajyavardhana, the elder brother of Harshavardhana, was killed by:",
+          "o": [
+            "Pulakeshin II",
+            "Shashanka, ruler of Gauda",
+            "Mihirakula",
+            "Yashodharman"
+          ],
+          "a": 1,
+          "e": "<b>Rajyavardhana</b> was killed by <b>Shashanka</b>, the ruler of Gauda (Bengal), leading Harsha to succeed to the throne."
+        },
+        {
+          "q": "Which of the following Sanskrit plays is NOT attributed to Harshavardhana's authorship?",
+          "o": [
+            "Ratnavali",
+            "Priyadarshika",
+            "Nagananda",
+            "Mudrarakshasa"
+          ],
+          "a": 3,
+          "e": "'<b>Mudrarakshasa</b>' was written by Vishakhadatta, not Harsha, who is instead credited with 'Ratnavali', 'Priyadarshika' and 'Nagananda'."
+        },
+        {
+          "q": "The correct chronological order of accession of the following Gupta rulers is:",
+          "o": [
+            "Chandragupta I - Samudragupta - Chandragupta II - Kumaragupta I",
+            "Samudragupta - Chandragupta I - Kumaragupta I - Chandragupta II",
+            "Chandragupta II - Samudragupta - Chandragupta I - Kumaragupta I",
+            "Kumaragupta I - Chandragupta II - Samudragupta - Chandragupta I"
+          ],
+          "a": 0,
+          "e": "The correct order is <b>Chandragupta I</b>, followed by his son <b>Samudragupta</b>, then <b>Chandragupta II</b>, and then <b>Kumaragupta I</b>."
+        },
+        {
+          "q": "Coins depicting a Gupta ruler playing the veena, reflecting royal patronage of music, are associated with:",
+          "o": [
+            "Chandragupta I",
+            "Samudragupta",
+            "Chandragupta II",
+            "Skandagupta"
+          ],
+          "a": 1,
+          "e": "<b>Samudragupta's</b> lyricist-type coins depict him playing the <b>veena</b>, reflecting his patronage of the arts alongside his military reputation."
+        },
+        {
+          "q": "Xuanzang, in his account 'Si-Yu-Ki', described attending Harsha's quinquennial charity assembly held at:",
+          "o": [
+            "Kannauj",
+            "Thanesar",
+            "Prayag",
+            "Pataliputra"
+          ],
+          "a": 2,
+          "e": "Xuanzang described attending the royal assembly at Kannauj as well as the <b>quinquennial charity assembly</b> held at <b>Prayag</b>, both recorded in his '<b>Si-Yu-Ki</b>'."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The title 'Parama Bhagavata' associated with Samudragupta indicates his devotion to Vishnu. 2. The Allahabad Prashasti describes Samudragupta's policy toward Aryavarta kings as one of reinstatement after defeat, similar to his Dakshinapatha policy. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct: '<b>Parama Bhagavata</b>' reflects Samudragupta's devotion to Vishnu. Statement 2 is incorrect, as Aryavarta kingdoms were annexed outright, unlike the Dharmavijaya (reinstatement) shown toward Dakshinapatha."
+        },
+        {
+          "q": "Consider the following statements regarding the 'Navaratnas' tradition associated with Chandragupta II's court: 1. Kalidasa is traditionally listed among the Navaratnas. 2. The historicity of this specific association of the Navaratnas with Chandragupta II's court is questioned by some historians. 3. The term 'Navaratna' is explicitly used in the Allahabad Prashasti to describe Samudragupta's court. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct; the Navaratna tradition names Kalidasa among nine gems, though its historicity is debated. Statement 3 is incorrect, as the <b>Allahabad Prashasti</b> concerns <b>Samudragupta's</b> conquests, not any Navaratna list, which is a later tradition tied to Chandragupta II."
+        },
+        {
+          "q": "Consider the following statements: 1. Fa-Hien's travel account focuses on Buddhist institutions and does not mention Chandragupta II by name. 2. Fa-Hien's travel account is compiled under the title 'Si-Yu-Ki'. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — Fa-Hien's narrative centers on Buddhist sites and practices without naming the reigning king. Statement 2 is incorrect: 'Si-Yu-Ki' is <b>Xuanzang's</b> work; Fa-Hien's account is titled the '<b>Record of Buddhist Kingdoms</b>'."
+        },
+        {
+          "q": "Consider the following statements on early feudal tendencies under the Guptas: 1. Land grants (Agraharas) to Brahmanas exempted grantees from certain taxes and administrative interference. 2. Officials were increasingly paid through land grants instead of cash salaries. 3. The practice of land grants first began under the Guptas with no precedent in earlier Indian history. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct descriptions of Gupta feudal tendencies. Statement 3 is incorrect, since <b>land grants</b> to religious beneficiaries had precedents even before the Gupta period; the Guptas expanded and intensified the practice rather than originating it."
+        },
+        {
+          "q": "Consider the following statements: 1. Skandagupta successfully repelled the Huna invasions during his reign. 2. The financial and military strain of resisting the Hunas is cited by historians as a major factor in the empire's subsequent decline. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>Skandagupta</b> repelled the Huna onslaught, but the heavy cost of these campaigns drained Gupta finances and contributed to the empire's later weakening."
+        },
+        {
+          "q": "Consider the following statements: 1. Mihirakula was the son of the Huna chief Toramana. 2. Later sources describe Mihirakula as a persecutor of Buddhism and a worshipper of Shiva. 3. Mihirakula was decisively defeated by Skandagupta, as recorded in the Allahabad Prashasti. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect: <b>Mihirakula</b> was defeated by <b>Yashodharman</b> of Malwa as recorded in the Mandsor inscription, well after Skandagupta's reign and unconnected to the Allahabad Prashasti, which concerns Samudragupta."
+        },
+        {
+          "q": "Consider the following statements: 1. Harsha's defeat by Pulakeshin II checked further Gupta expansion south of the Narmada. 2. This event is recorded in an inscription composed by the court poet Ravikirti at Aihole. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 2 is correct — the <b>Aihole inscription</b> by <b>Ravikirti</b> records Pulakeshin II's victory over Harsha. Statement 1 is incorrect in framing, since Harsha ruled the post-Gupta <b>Pushyabhuti</b> dynasty, not the Gupta empire, which had already declined by his time."
+        },
+        {
+          "q": "Consider the following statements: 1. Xuanzang's account 'Si-Yu-Ki' describes an assembly held by Harsha at Kannauj. 2. Xuanzang also described a quinquennial charity assembly held at Prayag. 3. Xuanzang's account is the primary source for Samudragupta's Dakshinapatha campaign. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct accounts from Xuanzang's travels. Statement 3 is incorrect: the primary source for <b>Samudragupta's Dakshinapatha</b> campaign is the <b>Allahabad Prashasti</b> composed by Harishena, not Xuanzang, who lived nearly two centuries later."
+        },
+        {
+          "q": "Which of the following best explains why historians treat the Gupta administrative system as showing 'early feudal tendencies' rather than being fully feudal?",
+          "o": [
+            "There was a complete absence of central monarchy",
+            "Land grants and administrative decentralization coexisted with a still-functioning central hierarchy of Bhukti-Vishaya-Grama",
+            "Monarchy was totally replaced by land-holding lords",
+            "The posts of Vishayapati and Uparika were abolished"
+          ],
+          "a": 1,
+          "e": "The Gupta system retained a functioning central administrative hierarchy (<b>Bhukti-Vishaya-Grama</b>) even as land grants and decentralizing tendencies grew, distinguishing it from a fully feudal order."
+        },
+        {
+          "q": "The identification of the Mehrauli Iron Pillar's king 'Chandra' with Chandragupta II rests primarily on:",
+          "o": [
+            "A direct statement of regnal years matching Chandragupta II's reign",
+            "Paleographic evidence and correspondence with the extent of conquests described",
+            "An explicit reference naming him as Samudragupta's son",
+            "Mention of the Huna invasions in the inscription"
+          ],
+          "a": 1,
+          "e": "The identification with <b>Chandragupta II</b> rests on <b>paleographic dating</b> and the correspondence between the conquests described and known Gupta history, rather than any explicit self-identification in the inscription."
+        },
+        {
+          "q": "A student argues that Varahamihira must have been a courtier of Chandragupta II because he is popularly listed among the 'Navaratnas'. Which of the following best evaluates this claim?",
+          "o": [
+            "The claim is correct since Varahamihira's works explicitly mention Chandragupta II",
+            "The claim is chronologically inconsistent, since Varahamihira is generally dated to the 6th century CE, after Chandragupta II's reign",
+            "The claim is confirmed by the Allahabad Prashasti",
+            "The claim is unverifiable as Varahamihira's dates are entirely unknown"
+          ],
+          "a": 1,
+          "e": "<b>Varahamihira</b> is generally dated to the 6th century CE, decades after Chandragupta II's reign (c. 375-415 CE), making the popular courtier claim chronologically inconsistent."
+        },
+        {
+          "q": "Which of the following is the most accurate characterization of Samudragupta's coinage evidence?",
+          "o": [
+            "Coins depict him exclusively as a Buddhist monk",
+            "Some coin types depict him playing the veena, alongside archer and tiger-slayer type coins reflecting his martial image",
+            "Coins record his defeat of Pulakeshin II",
+            "Coins bear inscriptions exclusively in Greek"
+          ],
+          "a": 1,
+          "e": "Samudragupta's coinage includes <b>veena-player</b> type coins reflecting artistic patronage as well as archer and tiger-slayer types reflecting his military prowess."
+        },
+        {
+          "q": "In the context of Gupta polity, the emergence of the practice of granting land to officials 'in lieu of cash salaries' is significant because it:",
+          "o": [
+            "Strengthened central cash-based bureaucracy",
+            "Indicates a weakening of central control over resources and a step toward administrative decentralization",
+            "Was reversed immediately by Skandagupta",
+            "Applied only to military commanders, never civil officials"
+          ],
+          "a": 1,
+          "e": "Paying officials through <b>land grants</b> rather than cash reduced direct central control over resources, a key indicator of growing <b>decentralization</b> in the later Gupta period."
+        },
+        {
+          "q": "Which statement best captures the difference between Samudragupta's approach to the kings of Aryavarta versus those of Dakshinapatha, as per the Allahabad Prashasti?",
+          "o": [
+            "Aryavarta kings were reinstated after defeat; Dakshinapatha kings were annexed",
+            "Aryavarta kingdoms were uprooted and annexed; Dakshinapatha kings were defeated but reinstated (Dharmavijaya)",
+            "Both regions were treated identically through Dharmavijaya",
+            "Both regions were annexed without exception"
+          ],
+          "a": 1,
+          "e": "The <b>Allahabad Prashasti</b> shows that <b>Aryavarta</b> kingdoms in the north were directly annexed, while <b>Dakshinapatha</b> kings in the south were defeated and then reinstated under a policy of Dharmavijaya."
+        },
+        {
+          "q": "The end of the Gupta empire is best described as:",
+          "o": [
+            "A sudden collapse following a single decisive battle",
+            "A gradual decline due to Huna invasions, weak successors, loss of revenue-rich western provinces, and rising feudal fragmentation",
+            "Immediate annexation by Harshavardhana's Pushyabhuti dynasty",
+            "Conquest by Pulakeshin II's Chalukyas"
+          ],
+          "a": 1,
+          "e": "The Gupta empire declined gradually through a combination of <b>Huna invasions</b>, weak later rulers, loss of western revenue-rich provinces, and increasing <b>feudal fragmentation</b>, not through any single conquest."
+        },
+        {
+          "q": "Why is the absence of a strong immediate successor state after Harsha's death considered significant by historians?",
+          "o": [
+            "It shows Harsha's empire was administratively identical to the Mauryan empire",
+            "It reflects the personal, loosely-integrated nature of Harsha's authority, which fragmented quickly without a hereditary heir",
+            "It proves Harsha never actually controlled Kannauj",
+            "It shows the Guptas continued to rule after Harsha"
+          ],
+          "a": 1,
+          "e": "Harsha's empire depended heavily on his personal authority and loosely-bound alliances; having <b>no heir</b>, it fragmented rapidly after his death instead of passing intact to a successor state."
+        },
+        {
+          "q": "Which of the following correctly pairs a Gupta-period work with its primary subject?",
+          "o": [
+            "Harshacharita - biography of Samudragupta",
+            "Aryabhatiya - astronomy and mathematics",
+            "Mudrarakshasa - biography of Harsha",
+            "Meghaduta - a treatise on eclipses"
+          ],
+          "a": 1,
+          "e": "The '<b>Aryabhatiya</b>' is a foundational work of <b>astronomy and mathematics</b>; the other pairings are incorrect, as Harshacharita concerns Harsha (not Samudragupta) and Meghaduta is a lyric poem, not an astronomical treatise."
+        },
+        {
+          "q": "A key piece of evidence used to argue that Kalidasa belonged to the Gupta period (though not conclusively proven) is:",
+          "o": [
+            "A direct mention of Kalidasa's name in the Allahabad Prashasti",
+            "Stylistic and thematic parallels between his works and Gupta-era court culture, though no contemporary Gupta inscription names him",
+            "An explicit dedication to Chandragupta II in the Abhijnanashakuntalam",
+            "His mention in Xuanzang's Si-Yu-Ki"
+          ],
+          "a": 1,
+          "e": "Kalidasa's Gupta-period dating rests on inferred <b>stylistic and cultural parallels</b> with the era, since no contemporary Gupta inscription or record explicitly names him, making the association traditional rather than conclusively documented."
+        }
+      ]
+    }
+  }
+]

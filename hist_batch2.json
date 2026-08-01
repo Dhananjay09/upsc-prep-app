@@ -1,0 +1,1013 @@
+[
+  {
+    "id": "hist_delhi_sultanate",
+    "title": "Delhi Sultanate",
+    "desc": "Five dynasties, key rulers, reforms, and southern kingdoms",
+    "questions": {
+      "basic": [
+        {
+          "q": "In which year did Qutb-ud-din Aibak establish the Delhi Sultanate?",
+          "o": ["1191", "1206", "1210", "1236"],
+          "a": 1,
+          "e": "Qutb-ud-din Aibak, a former slave-general of Muhammad Ghori, founded the <b>Delhi Sultanate</b> in <b>1206</b> after Ghori's death."
+        },
+        {
+          "q": "Which Delhi Sultan is credited with introducing the silver tanka and copper jital as standardized coinage?",
+          "o": ["Qutb-ud-din Aibak", "Iltutmish", "Balban", "Alauddin Khilji"],
+          "a": 1,
+          "e": "<b>Iltutmish</b> organized the Sultanate's monetary system by introducing the silver <b>tanka</b> and copper <b>jital</b>."
+        },
+        {
+          "q": "Razia Sultan, the only woman to rule the Delhi Sultanate, reigned during which period?",
+          "o": ["1210-1213", "1236-1240", "1246-1266", "1290-1296"],
+          "a": 1,
+          "e": "<b>Razia Sultan</b> ruled from <b>1236 to 1240</b> before being overthrown and killed."
+        },
+        {
+          "q": "Which Sultan is associated with the 'Blood and Iron' policy to restore royal authority over rebellious nobles?",
+          "o": ["Iltutmish", "Razia Sultan", "Balban", "Firoz Shah Tughlaq"],
+          "a": 2,
+          "e": "<b>Balban</b> pursued a policy of 'blood and iron' to crush rebellious nobles and strengthen the crown's authority."
+        },
+        {
+          "q": "Alauddin Khilji ruled the Delhi Sultanate during which period?",
+          "o": ["1266-1287", "1290-1296", "1296-1316", "1320-1325"],
+          "a": 2,
+          "e": "<b>Alauddin Khilji</b> reigned from <b>1296 to 1316</b>, the longest and most powerful reign of the Khilji dynasty."
+        },
+        {
+          "q": "What was the 'Sarai Adl', established under Alauddin Khilji's market control system?",
+          "o": ["A regulated market for costly cloth and imported goods", "A royal treasury", "A military cantonment", "A religious endowment"],
+          "a": 0,
+          "e": "The <b>Sarai Adl</b> was a special regulated market set up by <b>Alauddin Khilji</b> for the sale of fine cloth and other costly items at fixed prices."
+        },
+        {
+          "q": "Muhammad bin Tughlaq shifted the capital of the Delhi Sultanate from Delhi to which city?",
+          "o": ["Lahore", "Daulatabad", "Agra", "Multan"],
+          "a": 1,
+          "e": "Around <b>1327</b>, <b>Muhammad bin Tughlaq</b> shifted his capital from Delhi to <b>Daulatabad</b> (Devagiri) in the Deccan."
+        },
+        {
+          "q": "The token currency introduced by Muhammad bin Tughlaq around 1330 was made of which metal(s)?",
+          "o": ["Gold", "Silver", "Copper/bronze", "Iron"],
+          "a": 2,
+          "e": "Muhammad bin Tughlaq introduced <b>copper and bronze token coins</b> meant to circulate at the value of silver tankas."
+        },
+        {
+          "q": "Ibn Battuta, the famous traveller who visited the Delhi Sultanate under Muhammad bin Tughlaq, came from which region?",
+          "o": ["Persia", "Morocco", "China", "Venice"],
+          "a": 1,
+          "e": "<b>Ibn Battuta</b> was a Moroccan traveller and scholar who spent several years in India."
+        },
+        {
+          "q": "What position was Ibn Battuta appointed to by Muhammad bin Tughlaq?",
+          "o": ["Wazir", "Qazi of Delhi", "Governor of Bengal", "Amir-i-Akhur"],
+          "a": 1,
+          "e": "Ibn Battuta was appointed <b>Qazi (judge) of Delhi</b> owing to his knowledge of Islamic law."
+        },
+        {
+          "q": "Sher Shah Suri ruled North India during which period?",
+          "o": ["1526-1530", "1540-1545", "1556-1560", "1600-1605"],
+          "a": 1,
+          "e": "<b>Sher Shah Suri</b> ruled from <b>1540 to 1545</b> after defeating Humayun."
+        },
+        {
+          "q": "What was the name of the silver currency introduced by Sher Shah Suri, which influenced the modern Indian rupee?",
+          "o": ["Tanka", "Dinar", "Rupiya", "Mohur"],
+          "a": 2,
+          "e": "Sher Shah Suri introduced the silver <b>Rupiya</b>, the ancestor of the modern Indian rupee."
+        },
+        {
+          "q": "Which long highway connecting Bengal to the Indus region is Sher Shah Suri credited with developing?",
+          "o": ["Rajpath", "Grand Trunk Road", "Silk Route", "Uttarapatha"],
+          "a": 1,
+          "e": "Sher Shah Suri developed and improved the <b>Grand Trunk Road</b> (Sadak-e-Azam), lined with sarais and trees."
+        },
+        {
+          "q": "The Vijayanagara Empire was founded in 1336 by which two brothers?",
+          "o": ["Krishnadeva Raya and Achyuta Raya", "Harihara and Bukka", "Rama Raya and Tirumala", "Deva Raya and Vijaya Raya"],
+          "a": 1,
+          "e": "<b>Harihara I and Bukka I</b> founded the <b>Vijayanagara Empire</b> in 1336 on the banks of the Tungabhadra river."
+        },
+        {
+          "q": "The Bahmani Kingdom was founded in 1347 by whom?",
+          "o": ["Alauddin Hasan Bahman Shah", "Muhammad Shah I", "Firoz Shah Bahmani", "Ahmad Shah Wali"],
+          "a": 0,
+          "e": "<b>Alauddin Hasan Bahman Shah</b> (Hasan Gangu) founded the <b>Bahmani Kingdom</b> in the Deccan in 1347."
+        },
+        {
+          "q": "In what chronological order did the five dynasties of the Delhi Sultanate rule?",
+          "o": ["Khilji-Slave-Tughlaq-Lodi-Sayyid", "Slave-Khilji-Tughlaq-Sayyid-Lodi", "Slave-Tughlaq-Khilji-Sayyid-Lodi", "Tughlaq-Slave-Khilji-Lodi-Sayyid"],
+          "a": 1,
+          "e": "The correct sequence is <b>Slave (Mamluk) - Khilji - Tughlaq - Sayyid - Lodi</b>, spanning 1206 to 1526."
+        },
+        {
+          "q": "Which was the first Afghan dynasty to rule over the Delhi Sultanate?",
+          "o": ["Sayyid dynasty", "Lodi dynasty", "Khilji dynasty", "Tughlaq dynasty"],
+          "a": 1,
+          "e": "The <b>Lodi dynasty</b>, founded by Bahlul Lodi, was the first Afghan dynasty to rule Delhi."
+        },
+        {
+          "q": "The construction of the Qutub Minar was started by Qutb-ud-din Aibak and completed by whom?",
+          "o": ["Balban", "Iltutmish", "Razia Sultan", "Alauddin Khilji"],
+          "a": 1,
+          "e": "<b>Iltutmish</b> completed the construction of the <b>Qutub Minar</b>, which Aibak had begun."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which of the following Sultan-reform pairs is incorrectly matched? A) Alauddin Khilji - market price control system B) Muhammad bin Tughlaq - token currency C) Balban - introduction of the iqta system D) Sher Shah Suri - Rupiya currency",
+          "o": ["A", "B", "C", "D"],
+          "a": 2,
+          "e": "The <b>iqta system</b> of land assignments was organized under <b>Iltutmish</b>, not Balban, who is known instead for his 'blood and iron' policy and crushing the nobility."
+        },
+        {
+          "q": "The Turkish nobles' opposition to Razia Sultan's rule was primarily provoked by her:",
+          "o": ["Refusal to pay tribute to the Mongols", "Promotion of the Abyssinian noble Malik Yaqut and adoption of male attire", "Alliance with the Rajputs", "Abolition of the iqta system"],
+          "a": 1,
+          "e": "Razia Sultan's elevation of the Abyssinian <b>Malik Yaqut</b> and her discarding of conventional female attire angered the Turkish nobility, leading to rebellion."
+        },
+        {
+          "q": "The 'Chihalgani' (Turkan-i-Chahalgani), a group of forty powerful Turkish nobles, was eventually crushed by which Sultan?",
+          "o": ["Iltutmish", "Razia Sultan", "Balban", "Alauddin Khilji"],
+          "a": 2,
+          "e": "Though organized under <b>Iltutmish</b>, the <b>Chihalgani</b> nobility was ruthlessly suppressed by <b>Balban</b> to consolidate royal power."
+        },
+        {
+          "q": "The market department that regulated grain prices under Alauddin Khilji's reforms was supervised by an officer known as:",
+          "o": ["Shahna-i-Mandi", "Diwan-i-Wizarat", "Amir-i-Dad", "Naib-i-Mulk"],
+          "a": 0,
+          "e": "The <b>Shahna-i-Mandi</b> was the officer-in-charge who supervised and enforced fixed grain prices under <b>Alauddin Khilji</b>."
+        },
+        {
+          "q": "The 'Dagh' (branding of horses) and 'Huliya' (descriptive roll of soldiers) systems introduced by Alauddin Khilji were primarily aimed at:",
+          "o": ["Preventing desertion and fraud in the maintenance of a large standing army", "Promoting horse breeding in India", "Collecting additional land revenue", "Regulating trade with Central Asia"],
+          "a": 0,
+          "e": "These systems allowed verification of soldiers and horses, preventing officers from drawing pay for fictitious or substandard troops in Alauddin Khilji's large <b>standing army</b>."
+        },
+        {
+          "q": "Sher Shah Suri's land revenue system was primarily based on:",
+          "o": ["Permanent settlement with zamindars", "Measurement of cultivated land and crop-wise rate assessment", "A fixed tribute from provincial governors", "Auctioning of revenue collection rights"],
+          "a": 1,
+          "e": "Sher Shah Suri's revenue system rested on the <b>measurement (zabti)</b> of land and assessment of produce, with the state's share fixed at roughly one-third."
+        },
+        {
+          "q": "Which new fortified city did Alauddin Khilji construct near Delhi, partly to garrison troops against Mongol invasions?",
+          "o": ["Tughlaqabad", "Siri", "Firozabad", "Jahanpanah"],
+          "a": 1,
+          "e": "Alauddin Khilji built the fortified city of <b>Siri</b>, one of the 'cities' of Delhi, partly as a base against Mongol raids."
+        },
+        {
+          "q": "Which Tughlaq ruler is known for extensive canal-building and founding new towns like Hisar and Fatehabad?",
+          "o": ["Ghiyasuddin Tughlaq", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Nasiruddin Tughlaq"],
+          "a": 2,
+          "e": "<b>Firoz Shah Tughlaq</b> is remembered for his network of irrigation canals and for founding towns such as Hisar and Fatehabad."
+        },
+        {
+          "q": "Sher Shah Suri's currency and revenue reforms are often considered a model later refined by which Mughal emperor's administration?",
+          "o": ["Babur", "Humayun", "Akbar", "Jahangir"],
+          "a": 2,
+          "e": "<b>Akbar's</b> revenue and currency administration, under minister Todar Mal, built upon foundations laid by <b>Sher Shah Suri</b>."
+        },
+        {
+          "q": "The Bahmani Kingdom and the Vijayanagara Empire were frequently in conflict over control of which fertile region?",
+          "o": ["The Raichur Doab", "The Malwa plateau", "The Gangetic Doab", "The Konkan coast"],
+          "a": 0,
+          "e": "Both kingdoms repeatedly fought for control over the <b>Raichur Doab</b>, lying between the Krishna and Tungabhadra rivers."
+        },
+        {
+          "q": "Which Sultan is best known for reintroducing elaborate Persian-style court ceremonies such as 'sijda' (prostration) and 'paibos' (kissing the sovereign's feet)?",
+          "o": ["Iltutmish", "Balban", "Alauddin Khilji", "Firoz Shah Tughlaq"],
+          "a": 1,
+          "e": "<b>Balban</b> introduced elaborate Persian-style court rituals like sijda and paibos to emphasize the divine authority of kingship."
+        },
+        {
+          "q": "Consider the following statements regarding Alauddin Khilji's market reforms: 1. He fixed the prices of essential commodities such as foodgrains, cloth and horses. 2. The Sarai Adl market was primarily meant for the sale of horses and slaves. 3. A separate officer called the Shahna-i-Mandi supervised the grain market. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 2,
+          "e": "Statement 2 is incorrect as the <b>Sarai Adl</b> was reserved for costly cloth and imported goods, not horses or slaves, which were sold in separate markets; statements 1 and 3 are correct since Alauddin Khilji fixed prices of essentials and posted the <b>Shahna-i-Mandi</b> over the grain market."
+        },
+        {
+          "q": "Consider the following statements about Muhammad bin Tughlaq's token currency experiment: 1. The token coins were made of copper and brass and declared equal in value to the silver tanka. 2. The scheme failed largely because the state failed to prevent large-scale private counterfeit minting of the new coins. 3. The introduction of token currency was primarily intended to finance the transfer of the capital to Daulatabad. Which of the statements given above is/are correct?",
+          "o": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct — the copper/brass tokens were pegged to the silver tanka's value and the scheme collapsed due to unchecked forgery; statement 3 is incorrect since the token currency was a separate experiment from the earlier transfer of the capital to Daulatabad, not intended to fund it."
+        },
+        {
+          "q": "Consider the following statements about Sher Shah Suri's administration: 1. He standardized the silver currency called the Rupiya. 2. His land revenue system was an isolated measure that had no influence on any later administrative practice. 3. He established a network of sarais (rest houses) along highways including the Grand Trunk Road. How many of the above statements are correct?",
+          "o": ["Only one", "Only two", "All three", "None"],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect because Sher Shah's measurement-based land revenue system directly influenced and was later refined by <b>Akbar's</b> minister <b>Todar Mal</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The Vijayanagara Empire was founded in 1336 by Harihara and Bukka. 2. The Bahmani Kingdom was founded earlier than the Vijayanagara Empire, in 1347. 3. The Battle of Talikota (1565) was fought between Vijayanagara and a combined force of Deccan Sultanates. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+          "a": 1,
+          "e": "The <b>Vijayanagara Empire</b> (1336) was founded a decade before the <b>Bahmani Kingdom</b> (1347), so statement 2's claim that Bahmani was founded 'earlier' is incorrect; statements 1 and 3 are factually correct."
+        },
+        {
+          "q": "Consider the following statements about the later Delhi Sultanate: 1. The Sayyid dynasty was founded by Khizr Khan, who had governed Delhi as a deputy after Timur's invasion. 2. The last Sayyid ruler voluntarily surrendered the throne of Delhi to Bahlul Lodi. 3. Sikandar Lodi founded Agra and shifted the Sultanate's activities there. How many of the above statements are correct?",
+          "o": ["Only one", "Only two", "All three", "None"],
+          "a": 2,
+          "e": "All three statements are historically accurate — <b>Khizr Khan</b> founded the Sayyid dynasty, the last Sayyid ruler ceded the throne peacefully to <b>Bahlul Lodi</b>, and <b>Sikandar Lodi</b> later founded/shifted activities to <b>Agra</b>."
+        },
+        {
+          "q": "Consider the following statements regarding Iltutmish: 1. He introduced the silver tanka and copper jital. 2. He received a formal letter of investiture (manshur) from the Abbasid Caliph, lending legitimacy to his rule. 3. He nominated his son, Rukn-ud-din Firuz, as his successor over his daughter Razia. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statement 3 is incorrect — Iltutmish, believing his sons incapable, nominated his daughter <b>Razia</b> as heir; statements 1 and 2 are correct, referring to his currency reforms and the legitimacy granted by the Abbasid Caliph's <b>manshur</b> in 1229."
+        },
+        {
+          "q": "Consider the following statements: 1. Ibn Battuta visited India during the reign of Muhammad bin Tughlaq. 2. Ibn Battuta was appointed Qazi of Delhi due to his expertise in Islamic law. 3. Ibn Battuta's travel account, the 'Rihla', contains no information about Indian economy or society. Which of the statements given above is/are correct?",
+          "o": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+          "a": 1,
+          "e": "Statement 3 is false; Ibn Battuta's <b>Rihla</b> is in fact a valuable source of information on the economy, administration and society of 14th-century India. Statements 1 and 2 are accurate."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "The failure of Muhammad bin Tughlaq's transfer of the capital to Daulatabad is best explained, according to contemporary chroniclers, by which of the following as the primary criticism?",
+          "o": ["Daulatabad lacked adequate water supply", "The scheme involved forcibly relocating Delhi's population over a long, difficult journey, causing severe hardship and depopulation of Delhi", "Daulatabad was too close to Mongol invasion routes", "The local Deccan population rebelled against Tughlaq rule immediately"],
+          "a": 1,
+          "e": "Contemporary chroniclers like <b>Barani</b> record that the forced, large-scale relocation of Delhi's population to Daulatabad caused immense suffering, making it the most criticized aspect of the scheme."
+        },
+        {
+          "q": "Which of the following best explains why Alauddin Khilji's market control regulations are considered administratively remarkable for their time?",
+          "o": ["They were enforced only in Delhi's temple markets", "They combined price-fixing with an intelligence network of informers (munhiyans) and strict punishments to prevent evasion", "They were based purely on religious injunctions", "They applied only to foreign traders"],
+          "a": 1,
+          "e": "Alauddin Khilji backed his price controls with a network of spies/informers (<b>munhiyans</b>) and harsh penalties, making the system administratively rigorous across commodities from grain to horses."
+        },
+        {
+          "q": "A key structural feature of the 'iqta' system used under the Delhi Sultans, which later influenced the Mughal 'jagirdari' arrangement, was that:",
+          "o": ["Iqtas were hereditary and permanent, unlike jagirs", "Iqta holders (muqtis) were revenue assignees liable to transfer and military service, a principle later adapted into the jagir system", "Iqtas applied only to religious grants, unlike jagirs", "There is no meaningful difference between the two systems"],
+          "a": 1,
+          "e": "The <b>iqta</b> system assigned revenue rights (not ownership) to nobles in exchange for military service, with transferability being key — a principle that influenced the later Mughal <b>jagirdari</b> arrangement."
+        },
+        {
+          "q": "Sher Shah Suri's currency reform, which fixed the silver Rupiya at a standard weight, is significant primarily because:",
+          "o": ["It was the first coin ever minted in India", "It replaced the fluctuating, debased currency of the late Sultanate period with a stable standard that endured well into later administrations", "It eliminated the use of gold coins entirely", "It was rejected outright by Akbar's administration"],
+          "a": 1,
+          "e": "The <b>Rupiya's</b> standardized weight and purity gave it lasting credibility, and its basic form continued to be used, with modifications, through the Mughal period."
+        },
+        {
+          "q": "The decline of the Vijayanagara Empire after the Battle of Talikota (1565) is best attributed to:",
+          "o": ["A sudden Mongol invasion from the north", "The temporary alliance of rival Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) against Vijayanagara, followed by the sack of its capital", "Direct annexation by the Mughal empire", "A naval blockade by the Portuguese"],
+          "a": 1,
+          "e": "At <b>Talikota</b>, the usually feuding Deccan Sultanates temporarily united against Vijayanagara, decisively defeating it and sacking its capital, Hampi."
+        },
+        {
+          "q": "Which of the following correctly identifies a key feature of Razia Sultan's accession, unusual for the Slave dynasty?",
+          "o": ["She was supported by the citizens of Delhi against initial noble resistance, after being nominated by Iltutmish on grounds of merit over his sons", "She seized power through military conquest of a rival kingdom", "She was appointed directly by the Abbasid Caliph", "She ruled jointly with her father until his death"],
+          "a": 0,
+          "e": "Iltutmish nominated Razia over his sons based on merit, and though nobles initially resisted, the citizens of <b>Delhi</b> supported her accession, a departure from strict hereditary succession."
+        },
+        {
+          "q": "Historians consider Muhammad bin Tughlaq's reign a study in bold but poorly executed experiments. Which of the following was NOT one of his documented administrative measures?",
+          "o": ["Transfer of the capital to Daulatabad", "Introduction of token currency", "Enhanced taxation in the Doab region during a famine", "Permanent partition of the Sultanate into five independent Deccan Sultanates"],
+          "a": 3,
+          "e": "The break-up into <b>five Deccan Sultanates</b> (Bijapur, Golconda, Ahmadnagar, Bidar, Berar) occurred after the disintegration of the <b>Bahmani Kingdom</b> in the early 16th century, long after Muhammad bin Tughlaq's reign."
+        },
+        {
+          "q": "In assessing Sher Shah Suri's brief but impactful reign (1540-1545), which of the following is the most accurate characterization?",
+          "o": ["He was primarily a military conqueror with no lasting administrative legacy", "His innovations in currency, land revenue and communication were significant enough to serve as a model later built upon during Akbar's reign", "He abolished all forms of land revenue collection", "He ruled only over Bengal and never controlled Delhi"],
+          "a": 1,
+          "e": "Despite his short reign, Sher Shah Suri's reforms in currency (<b>Rupiya</b>), land revenue assessment, and infrastructure (<b>Grand Trunk Road</b>, sarais) provided a template later refined under <b>Akbar's</b> administration."
+        },
+        {
+          "q": "Consider the following statements: 1. Qutb-ud-din Aibak had already been manumitted (freed) by Muhammad Ghori before rising to become Sultan of Delhi. 2. Aibak's rule never received the formal legitimizing recognition of the Abbasid Caliph, unlike Iltutmish's later reign. 3. Aibak died after falling from his horse during a game of chaugan (polo) in Lahore. Which of the statements given above is/are correct?",
+          "o": ["1 only", "3 only", "2 and 3 only", "1, 2 and 3"],
+          "a": 3,
+          "e": "All three statements are correct: Aibak had been freed before becoming Sultan, formal Abbasid recognition came only later under <b>Iltutmish</b> (1229), and Aibak died in <b>1210</b> from a fall while playing chaugan."
+        },
+        {
+          "q": "Consider the following statements about the 'dagh' and 'huliya' systems under Alauddin Khilji: 1. The dagh system involved branding of army horses to prevent substitution of poor-quality animals during inspection. 2. The huliya system maintained descriptive rolls of soldiers to prevent impersonation or drawing of multiple salaries. 3. Similar branding and muster-roll practices were never revived by any later dynasty ruling India. Which of the statements given above is/are correct?",
+          "o": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+          "a": 1,
+          "e": "Statements 1 and 2 correctly describe Alauddin Khilji's military control measures; statement 3 is incorrect since similar branding/muster practices (<b>dagh-o-mahalli</b>) were later revived and refined under the Mughals, notably Akbar."
+        },
+        {
+          "q": "Consider the following statements regarding the Deccan campaigns under Alauddin Khilji: 1. His general Malik Kafur led expeditions against the Kakatiyas of Warangal, the Hoysalas of Dwarasamudra, and the Pandyas of Madurai. 2. These campaigns were aimed primarily at direct territorial annexation rather than the extraction of tribute and wealth. 3. Malik Kafur's Deccan campaigns took place after Muhammad bin Tughlaq's transfer of the capital to Daulatabad. Which of the statements given above is/are correct?",
+          "o": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statement 2 is incorrect as Alauddin Khilji's Deccan campaigns aimed chiefly at extracting <b>tribute and plunder</b>, leaving local dynasties in place; statement 3 is incorrect as Malik Kafur's campaigns (up to 1311) preceded the Daulatabad transfer (c. 1327) by over a decade. Only statement 1 is correct."
+        },
+        {
+          "q": "Consider the following statements about the Sayyid and Lodi dynasties: 1. The Sayyid dynasty ruled with limited authority over a much-shrunken Sultanate compared to earlier dynasties. 2. Bahlul Lodi consolidated power partly through conflicts with and control over the Sharqi rulers of Jaunpur. 3. Ibrahim Lodi's autocratic style of rule alienated Afghan nobles, some of whom invited Babur to invade India. How many of the above statements are correct?",
+          "o": ["Only one", "Only two", "All three", "None"],
+          "a": 2,
+          "e": "All three statements are historically accurate: the <b>Sayyid dynasty</b> ruled over a diminished Sultanate, <b>Bahlul Lodi</b> subdued the Sharqi rulers of Jaunpur, and <b>Ibrahim Lodi's</b> harsh treatment of nobles led to invitations for <b>Babur's</b> invasion, ending the Sultanate in 1526."
+        },
+        {
+          "q": "Consider the following statements comparing revenue systems: 1. Sher Shah Suri's land revenue assessment fixed the state's share at roughly one-third of the produce. 2. Under his system, cultivators were issued a 'patta' (title deed) and required to execute a 'qabuliyat' (deed of agreement). 3. Sher Shah Suri's revenue reforms applied uniformly across the entire Vijayanagara and Bahmani territories as well. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statement 3 is incorrect since Sher Shah Suri's authority never extended to the independent southern kingdoms of <b>Vijayanagara</b> and the <b>Bahmani Sultanate</b>; statements 1 and 2 correctly describe his North Indian revenue administration."
+        },
+        {
+          "q": "Consider the following statements about the market reforms of Alauddin Khilji: 1. A primary motivation was to maintain a large standing army without excessive strain on the treasury by keeping soldiers' salaries low relative to fixed, affordable prices. 2. The reforms were implemented uniformly across the entire subcontinent, including the Deccan and southern kingdoms. 3. Price control measures were linked partly to agrarian control and produce collection in the Delhi region. Which of the statements given above is/are correct?",
+          "o": ["1 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+          "a": 1,
+          "e": "Statement 2 is incorrect as the market reforms were centred on Delhi and its vicinity, not extended across the whole subcontinent including the independent Deccan and southern kingdoms; statements 1 and 3 correctly reflect the fiscal-military logic and agrarian basis of the reforms."
+        },
+        {
+          "q": "Consider the following statements: 1. Ibn Battuta's 'Rihla' describes his appointment as Qazi of Delhi and his later mission as an envoy sent by Muhammad bin Tughlaq to the Yuan court in China. 2. Ibn Battuta's sea voyage to China was completed without incident, delivering all the Sultan's gifts intact. 3. Ibn Battuta eventually returned to his homeland and dictated his travel account, which remains a key primary source for Tughlaq-era history. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+          "a": 1,
+          "e": "Statement 2 is incorrect — Ibn Battuta's ship carrying the Sultan's gifts was wrecked off the Malabar coast, and he lost his belongings; statements 1 and 3 correctly describe his roles as Qazi and envoy, and his later dictation of the <b>Rihla</b>."
+        },
+        {
+          "q": "Consider the following statements regarding the political landscape of the Deccan and South India in the 14th-16th centuries: 1. The Vijayanagara Empire and the Bahmani Kingdom emerged as rival regional powers following the decline of Delhi Sultanate control in the Deccan after Muhammad bin Tughlaq's reign. 2. The Bahmani Kingdom eventually fragmented into five successor Sultanates before the mid-16th century. 3. The Vijayanagara rulers never engaged in any conflict with the Bahmani Sultanate, maintaining peaceful relations throughout. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statement 3 is false; the <b>Vijayanagara</b> and <b>Bahmani</b> kingdoms fought repeated wars, especially over the <b>Raichur Doab</b>; statements 1 and 2 accurately describe their emergence and the Bahmani Kingdom's eventual break-up into five successor states."
+        },
+        {
+          "q": "Consider the following statements about Balban's administration: 1. He organized an efficient espionage system with spies (barids) posted in provinces to keep him informed of the nobility's activities. 2. He strengthened the military department (Diwan-i-Arz) to maintain a strong standing army against Mongol incursions and internal rebellions. 3. He abolished the iqta system entirely, replacing it with direct salaried appointments for all nobles. Which of the statements given above is/are correct?",
+          "o": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+          "a": 1,
+          "e": "Statement 3 is incorrect; Balban revised and reclaimed misused <b>iqta</b> assignments but did not abolish the system, which continued under later Sultans; statements 1 and 2 correctly describe his spy network and military strengthening."
+        },
+        {
+          "q": "Consider the following statements: 1. The token currency experiment and the Daulatabad transfer are often cited together as evidence of Muhammad bin Tughlaq's visionary but impractical approach to governance. 2. Ziauddin Barani, a contemporary chronicler, is one of the key sources documenting Muhammad bin Tughlaq's controversial policies. 3. Modern historians unanimously agree that all of Muhammad bin Tughlaq's policies were complete failures with no rational administrative justification. Which of the statements given above is/are correct?",
+          "o": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+          "a": 1,
+          "e": "Statement 3 is incorrect and overstated; many modern historians view Muhammad bin Tughlaq's measures, such as the capital transfer, as having rational strategic goals despite poor execution. Statements 1 and 2 are accurate, with <b>Ziauddin Barani</b> being a principal contemporary source."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_mughal_empire",
+    "title": "Mughal Empire",
+    "desc": "Mughal rulers, administration, culture and decline",
+    "questions": {
+      "basic": [
+        {
+          "q": "In which year did the First Battle of Panipat take place, in which Babur defeated Ibrahim Lodi?",
+          "o": ["1526", "1527", "1530", "1539"],
+          "a": 0,
+          "e": "The <b>First Battle of Panipat</b> was fought in <b>1526</b>, where Babur's forces defeated Ibrahim Lodi, the last Lodi Sultan of Delhi, establishing Mughal rule in India."
+        },
+        {
+          "q": "The Battle of Khanwa (1527), in which Babur defeated a Rajput confederacy, was fought against which ruler?",
+          "o": ["Rana Sanga of Mewar", "Rana Pratap of Mewar", "Raja Man Singh of Amber", "Rana Kumbha of Mewar"],
+          "a": 0,
+          "e": "In 1527, Babur defeated <b>Rana Sanga</b> of Mewar and his allied Rajput confederacy at the <b>Battle of Khanwa</b>, consolidating Mughal power in northern India."
+        },
+        {
+          "q": "Babur's memoir, the Baburnama, was originally written in which language?",
+          "o": ["Chaghatai Turkish", "Persian", "Arabic", "Urdu"],
+          "a": 0,
+          "e": "The <b>Baburnama</b> was written by Babur in <b>Chaghatai Turkish</b>, his mother tongue; it was later translated into Persian during Akbar's reign."
+        },
+        {
+          "q": "At which battle did Sher Shah Suri decisively defeat Humayun in 1539, forcing him to flee?",
+          "o": ["Battle of Chausa", "Battle of Kannauj", "Battle of Panipat", "Battle of Khanwa"],
+          "a": 0,
+          "e": "Sher Shah Suri defeated Humayun at the <b>Battle of Chausa in 1539</b>; Humayun narrowly escaped by swimming across the Ganga."
+        },
+        {
+          "q": "In which year did Humayun recapture the throne of Delhi after his period of exile?",
+          "o": ["1555", "1540", "1556", "1550"],
+          "a": 0,
+          "e": "Humayun regained the Mughal throne in <b>1555</b>, defeating the Sur successors, but he died shortly after in 1556."
+        },
+        {
+          "q": "Humayun's death in 1556 was caused by which incident?",
+          "o": ["A fall from the stairs of his library", "Poisoning by a courtier", "A wound sustained in battle", "A fall from his horse"],
+          "a": 0,
+          "e": "Humayun died in <b>1556</b> after accidentally falling down the stairs of his library at Din-Panah in Delhi."
+        },
+        {
+          "q": "Akbar's reign as Mughal emperor extended over which period?",
+          "o": ["1556-1605", "1526-1530", "1605-1627", "1628-1658"],
+          "a": 0,
+          "e": "Akbar ruled from <b>1556 to 1605</b>, succeeding his father Humayun at the age of thirteen under the regency of Bairam Khan."
+        },
+        {
+          "q": "The Second Battle of Panipat (1556), won by Akbar's forces, was fought against whom?",
+          "o": ["Hemu", "Sher Shah Suri", "Rana Sanga", "Ibrahim Lodi"],
+          "a": 0,
+          "e": "In 1556, Akbar's regent <b>Bairam Khan</b> led Mughal forces to victory over <b>Hemu</b>, a general who had proclaimed himself king, at the Second Battle of Panipat."
+        },
+        {
+          "q": "The Battle of Haldighati (1576) was fought between Akbar's forces and which ruler?",
+          "o": ["Maharana Pratap of Mewar", "Rana Sanga of Mewar", "Raja Bharmal of Amber", "Rao Chandrasen of Marwar"],
+          "a": 0,
+          "e": "The <b>Battle of Haldighati</b> in 1576 was fought between Mughal forces led by <b>Raja Man Singh</b> and <b>Maharana Pratap</b> of Mewar, who refused to submit to Akbar."
+        },
+        {
+          "q": "Akbar introduced the eclectic religious order known as Din-i-Ilahi in which year?",
+          "o": ["1582", "1556", "1605", "1600"],
+          "a": 0,
+          "e": "Akbar promulgated <b>Din-i-Ilahi</b> in <b>1582</b>, an eclectic faith drawing on multiple religions, though it attracted very few followers."
+        },
+        {
+          "q": "In the Mansabdari system, the term 'zat' referred to what?",
+          "o": ["The personal rank and salary of the officeholder", "The number of cavalry he maintained", "The size of his jagir", "His caste status"],
+          "a": 0,
+          "e": "Under the <b>Mansabdari system</b>, <b>zat</b> indicated an officer's personal rank, status and salary, while 'sawar' indicated the number of cavalrymen he was required to maintain."
+        },
+        {
+          "q": "The Dahsala (ten-year) revenue system, based on average produce and prices, was devised under Akbar by whom?",
+          "o": ["Raja Todar Mal", "Abul Fazl", "Birbal", "Raja Man Singh"],
+          "a": 0,
+          "e": "<b>Raja Todar Mal</b>, Akbar's revenue minister, devised the <b>Dahsala system</b>, which fixed land revenue based on the average yield and prices of the preceding ten years."
+        },
+        {
+          "q": "Jahangir's own memoirs, describing his reign and observations, are known as?",
+          "o": ["Tuzuk-i-Jahangiri", "Akbarnama", "Baburnama", "Ain-i-Akbari"],
+          "a": 0,
+          "e": "Jahangir wrote his autobiography, the <b>Tuzuk-i-Jahangiri</b>, in Persian, recording events of his reign and his personal observations on nature and administration."
+        },
+        {
+          "q": "Nur Jahan, who wielded great influence in the Mughal court, married Emperor Jahangir in which year?",
+          "o": ["1611", "1605", "1620", "1627"],
+          "a": 0,
+          "e": "Nur Jahan (born Mehr-un-Nissa) married Jahangir in <b>1611</b> and subsequently became one of the most powerful figures in the Mughal court."
+        },
+        {
+          "q": "The Taj Mahal at Agra was built by Shah Jahan in memory of whom?",
+          "o": ["Mumtaz Mahal", "Nur Jahan", "Jahanara Begum", "Roshanara Begum"],
+          "a": 0,
+          "e": "Shah Jahan built the <b>Taj Mahal</b> as a mausoleum for his wife <b>Mumtaz Mahal</b>, who died in 1631; it was largely completed around 1653."
+        },
+        {
+          "q": "The famous jewel-encrusted Peacock Throne, later carried away by Nadir Shah, was commissioned by which emperor?",
+          "o": ["Shah Jahan", "Akbar", "Jahangir", "Aurangzeb"],
+          "a": 0,
+          "e": "The <b>Peacock Throne</b> was commissioned by <b>Shah Jahan</b> and was one of the most opulent symbols of Mughal wealth until it was taken by Nadir Shah in 1739."
+        },
+        {
+          "q": "Aurangzeb reimposed the jizya tax on non-Muslim subjects, which had been abolished by Akbar, in which year?",
+          "o": ["1679", "1658", "1707", "1669"],
+          "a": 0,
+          "e": "Aurangzeb reimposed the <b>jizya</b> in <b>1679</b>, reversing Akbar's earlier abolition of the tax in 1564, as part of his more orthodox religious policy."
+        },
+        {
+          "q": "Nadir Shah's invasion of Delhi, during which he defeated Muhammad Shah and plundered the city, took place in which year?",
+          "o": ["1739", "1707", "1719", "1748"],
+          "a": 0,
+          "e": "In <b>1739</b>, the Persian ruler <b>Nadir Shah</b> defeated Mughal emperor Muhammad Shah at the Battle of Karnal, sacked Delhi, and carried away the Peacock Throne and the Koh-i-Noor diamond."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which Mughal emperor abolished the pilgrimage tax and the jizya on non-Muslims as part of a policy of religious tolerance?",
+          "o": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+          "a": 0,
+          "e": "<b>Akbar</b> abolished the pilgrimage tax (1563) and the <b>jizya</b> (1564) on non-Muslims, reflecting his policy of religious tolerance and inclusion of Hindu subjects."
+        },
+        {
+          "q": "Sher Shah Suri's administrative reforms, later adopted and refined by Akbar, included which of the following?",
+          "o": ["A silver currency (rupiya) and an extensive road network including the Grand Trunk Road", "The Mansabdari system of ranked officials", "The Dahsala system of revenue assessment", "The policy of Din-i-Ilahi"],
+          "a": 0,
+          "e": "<b>Sher Shah Suri</b> introduced a standardized silver <b>rupiya</b> and built roads including the <b>Grand Trunk Road</b>; his revenue and currency reforms influenced later Mughal administration under Akbar."
+        },
+        {
+          "q": "Jahangir's 'chain of justice' refers to what?",
+          "o": ["A chain hung outside his palace that aggrieved subjects could pull to seek direct redress from the emperor", "A ceremonial chain worn during coronation", "A chain of forts built for defense", "A chain of succession established for Mughal princes"],
+          "a": 0,
+          "e": "Jahangir installed a golden <b>chain of justice</b> connecting bells outside his palace at Agra to his private chambers, allowing subjects to directly petition the emperor for justice."
+        },
+        {
+          "q": "The Jama Masjid in Delhi and the Red Fort, among the grandest Mughal architectural monuments, were built under which emperor?",
+          "o": ["Shah Jahan", "Akbar", "Aurangzeb", "Jahangir"],
+          "a": 0,
+          "e": "<b>Shah Jahan</b> commissioned both the <b>Jama Masjid</b> and the <b>Red Fort</b> in his new capital of Shahjahanabad (Delhi), reflecting the zenith of Mughal architecture."
+        },
+        {
+          "q": "Aurangzeb's prolonged military campaigns in the Deccan were primarily directed against which powers?",
+          "o": ["The Marathas, Bijapur and Golconda", "The Rajputs and the Sikhs", "The Portuguese and the Marathas", "The Afghans and the Persians"],
+          "a": 0,
+          "e": "Aurangzeb spent decades in the Deccan fighting the <b>Marathas</b> and annexing the sultanates of <b>Bijapur (1686)</b> and <b>Golconda (1687)</b>, draining the Mughal treasury."
+        },
+        {
+          "q": "Abul Fazl, the celebrated court chronicler of Akbar, was killed in 1602 at the instigation of whom?",
+          "o": ["Prince Salim (later Jahangir)", "Prince Khusrau", "Man Singh", "Raja Todar Mal"],
+          "a": 0,
+          "e": "Abul Fazl was assassinated in 1602 by <b>Bir Singh Bundela</b> at the instigation of Prince <b>Salim</b>, who later became Emperor Jahangir and feared Abul Fazl's influence over Akbar."
+        },
+        {
+          "q": "Abd-ul-Qadir Badauni's chronicle Muntakhab-ut-Tawarikh is notable for which of the following?",
+          "o": ["Its critical view of Akbar's religious policies, unlike the official court histories", "Its praise of Akbar's Din-i-Ilahi as a unifying faith", "Being commissioned by Akbar as an official history", "Being written originally in Sanskrit"],
+          "a": 0,
+          "e": "Unlike Abul Fazl's official <b>Akbarnama</b>, <b>Badauni's Muntakhab-ut-Tawarikh</b> was a private, often critical account that condemned Akbar's religious innovations as deviations from orthodox Islam."
+        },
+        {
+          "q": "Which of the following was NOT among the major factors contributing to the decline of the Mughal Empire in the 18th century?",
+          "o": ["Strengthening of the mansabdari and jagirdari systems", "Weak and incompetent later Mughal rulers", "Prolonged and costly Deccan wars under Aurangzeb", "Invasions by Nadir Shah and Ahmad Shah Abdali"],
+          "a": 0,
+          "e": "The Mughal decline was driven by the <b>weakening</b>, not strengthening, of the mansabdari and jagirdari systems, along with weak rulers, costly Deccan wars, and foreign invasions."
+        },
+        {
+          "q": "How did Akbar's Zabt/Dahsala revenue system differ fundamentally from Sher Shah Suri's earlier system?",
+          "o": ["Akbar's system used average produce and prices over a ten-year period across measured land, refining Sher Shah's approach", "Akbar's system relied solely on crop-sharing rather than cash assessment", "Akbar abolished land measurement altogether", "Akbar's system applied only to jagir lands, not khalisa lands"],
+          "a": 0,
+          "e": "Todar Mal's <b>Dahsala system</b> built upon Sher Shah's revenue methods by using <b>ten years' average</b> of produce and prices across carefully measured land to fix cash assessments."
+        },
+        {
+          "q": "Raja Bharmal of Amber is significant in Mughal history for which reason?",
+          "o": ["He was the first prominent Rajput ruler to enter a marriage alliance with Akbar", "He led the Rajput resistance at the Battle of Haldighati", "He served as Akbar's finance minister", "He was executed for rebelling against Akbar"],
+          "a": 0,
+          "e": "<b>Raja Bharmal of Amber</b> gave his daughter in marriage to Akbar in 1562, initiating a long tradition of Mughal-Rajput marriage alliances that strengthened Akbar's rule."
+        },
+        {
+          "q": "In the Mansabdari system, a mansabdar holding a rank of 'sawar' higher than his 'zat' was generally considered to hold what kind of status?",
+          "o": ["A higher and more prestigious military assignment", "A punishment posting", "An honorary title without real duties", "A religious appointment"],
+          "a": 0,
+          "e": "When the <b>sawar</b> rank exceeded the <b>zat</b> rank, it typically signified a mansabdar entrusted with a larger military command and greater prestige."
+        },
+        {
+          "q": "The Ain-i-Akbari, the third volume of Abul Fazl's Akbarnama, is chiefly valued by historians for which content?",
+          "o": ["Detailed administrative and statistical information on Akbar's empire", "A poetic account of Akbar's military campaigns", "A theological treatise on Din-i-Ilahi", "A travelogue of Abul Fazl's journeys to Persia"],
+          "a": 0,
+          "e": "The <b>Ain-i-Akbari</b> provides invaluable statistical and administrative details on Akbar's empire, including revenue, army organization, and regional gazetteers."
+        },
+        {
+          "q": "Consider the following statements regarding Babur: 1. Babur was the founder of the Mughal dynasty in India. 2. Babur's memoirs, the Baburnama, were originally composed in Persian. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 0,
+          "e": "Statement 1 is correct as <b>Babur</b> founded Mughal rule in India after 1526. Statement 2 is incorrect, as the <b>Baburnama</b> was originally written in Chaghatai Turkish, not Persian."
+        },
+        {
+          "q": "Consider the following statements regarding Humayun: 1. Humayun was defeated by Sher Shah Suri at the Battle of Chausa in 1539. 2. Humayun regained the Mughal throne in 1555. 3. Humayun died in 1556 after falling from the stairs of his library. How many of the above statements are correct?",
+          "o": ["Only one", "Only two", "All three", "None"],
+          "a": 2,
+          "e": "All three statements are factually correct: Humayun lost to <b>Sher Shah Suri</b> at Chausa (1539), regained his throne in <b>1555</b>, and died in <b>1556</b> from a fall in his library."
+        },
+        {
+          "q": "Consider the following statements regarding Akbar's land revenue administration: 1. The Zabt system involved measurement of cultivated land and fixing revenue in cash. 2. The Dahsala system was based on the average produce and prices of the preceding ten years. 3. Todar Mal's revenue system was applied only in the province of Bengal. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statements 1 and 2 correctly describe the <b>Zabt</b> and <b>Dahsala</b> systems. Statement 3 is incorrect, as <b>Todar Mal's</b> revenue settlement was applied across much of the empire, not restricted to Bengal alone."
+        },
+        {
+          "q": "Consider the following statements regarding Din-i-Ilahi: 1. Din-i-Ilahi combined ethical elements drawn from multiple religions. 2. Din-i-Ilahi gained a large following throughout Akbar's empire. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 0,
+          "e": "Statement 1 is correct, as <b>Din-i-Ilahi</b> drew eclectically from Hinduism, Islam, Zoroastrianism, and other faiths. Statement 2 is incorrect, since it attracted only a handful of followers, such as <b>Birbal</b>, and never became a mass religion."
+        },
+        {
+          "q": "Consider the following statements regarding Jahangir: 1. Jahangir composed his own memoirs, the Tuzuk-i-Jahangiri. 2. Nur Jahan wielded considerable political influence during Jahangir's reign. 3. Jahangir installed a chain of justice outside his palace for aggrieved subjects. How many of the above statements are correct?",
+          "o": ["Only one", "Only two", "All three", "None"],
+          "a": 2,
+          "e": "All three statements are correct: Jahangir personally wrote the <b>Tuzuk-i-Jahangiri</b>, his wife <b>Nur Jahan</b> exercised great political power, and he set up a <b>chain of justice</b> for public grievances."
+        },
+        {
+          "q": "Consider the following statements regarding Shah Jahan's reign: 1. The Taj Mahal was built in memory of Mumtaz Mahal. 2. The Peacock Throne was commissioned during Shah Jahan's reign. 3. The Jama Masjid in Delhi was built under Aurangzeb. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct, as both the <b>Taj Mahal</b> and the <b>Peacock Throne</b> date to <b>Shah Jahan's</b> reign. Statement 3 is incorrect, as the <b>Jama Masjid</b> was built by Shah Jahan himself, not Aurangzeb."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Which of the following Mughal-era texts is regarded as the most authoritative source for the detailed administrative and revenue statistics of Akbar's empire?",
+          "o": ["Ain-i-Akbari", "Tuzuk-i-Jahangiri", "Muntakhab-ut-Tawarikh", "Baburnama"],
+          "a": 0,
+          "e": "The <b>Ain-i-Akbari</b>, compiled by Abul Fazl, remains the most detailed contemporary source for the administrative structure, revenue system, and statistics of Akbar's empire."
+        },
+        {
+          "q": "Unlike Abul Fazl's Akbarnama, which was an official court chronicle, Badauni's Muntakhab-ut-Tawarikh is significant to historians chiefly because it:",
+          "o": ["Offers a critical, orthodox Islamic perspective that questioned Akbar's religious experiments", "Was commissioned by Akbar to record his achievements", "Focuses exclusively on Mughal military campaigns", "Was written in Sanskrit for a wider Hindu readership"],
+          "a": 0,
+          "e": "<b>Badauni</b>, a conservative theologian, wrote his chronicle privately and critically, offering a counter-narrative to Abul Fazl's laudatory <b>Akbarnama</b>, particularly condemning Akbar's religious eclecticism."
+        },
+        {
+          "q": "A mansabdar's 'sawar' rank being conditional (mashrut) rather than absolute implied that:",
+          "o": ["He was required to maintain the stipulated number of troopers only temporarily or under specific conditions", "He held no cavalry obligation at all", "His zat rank was reduced permanently", "He was exempted from all military duty"],
+          "a": 0,
+          "e": "A <b>mashrut (conditional)</b> sawar rank meant the mansabdar had to maintain the specified troopers only for a particular campaign or period, unlike an absolute rank that was more permanent."
+        },
+        {
+          "q": "Raja Bharmal of Amber's alliance with Akbar is often cited as the beginning of a broader Mughal-Rajput policy; which Rajput house notably refused to submit and continued resistance under Akbar?",
+          "o": ["The Sisodias of Mewar under Maharana Pratap", "The Kachwahas of Amber", "The Rathores of Marwar under Raja Udai Singh", "The Hadas of Bundi"],
+          "a": 0,
+          "e": "While most Rajput houses, including Amber and Marwar, accepted Mughal suzerainty, the <b>Sisodias of Mewar</b> under <b>Maharana Pratap</b> refused to submit, continuing resistance even after the Battle of Haldighati."
+        },
+        {
+          "q": "The Battle of Haldighati (1576) is best characterized by historians as:",
+          "o": ["A tactical Mughal victory that nevertheless failed to fully subdue Mewar's resistance", "A decisive Mughal defeat that ended Akbar's Rajput campaigns", "A complete annexation of Mewar into the Mughal empire", "A negotiated peace without any fighting"],
+          "a": 0,
+          "e": "Although Mughal forces under Man Singh won tactically at <b>Haldighati</b>, Maharana Pratap escaped and continued guerrilla resistance, so Mewar was never fully subjugated during Akbar's reign."
+        },
+        {
+          "q": "Aurangzeb's reimposition of jizya in 1679 is best understood in the context of:",
+          "o": ["A broader shift toward orthodox Islamic policies reversing several of Akbar's tolerant measures", "A revenue-neutral administrative reorganization with no religious significance", "A policy inherited unchanged from Shah Jahan", "A temporary wartime tax abolished within a year"],
+          "a": 0,
+          "e": "Aurangzeb's reimposition of the <b>jizya</b> reflected his orthodox religious orientation, reversing Akbar's 1564 abolition and marking a significant departure from the policy of religious accommodation."
+        },
+        {
+          "q": "Which sequence correctly places the following Deccan events under Aurangzeb in chronological order: Bijapur annexation, Golconda annexation, death of Aurangzeb?",
+          "o": ["Bijapur (1686) - Golconda (1687) - Death of Aurangzeb (1707)", "Golconda (1687) - Bijapur (1686) - Death of Aurangzeb (1707)", "Death of Aurangzeb (1707) - Bijapur (1686) - Golconda (1687)", "Bijapur (1686) - Death of Aurangzeb (1707) - Golconda (1687)"],
+          "a": 0,
+          "e": "Aurangzeb annexed <b>Bijapur in 1686</b>, followed by <b>Golconda in 1687</b>, and continued campaigning in the Deccan until his death in <b>1707</b>."
+        },
+        {
+          "q": "Nadir Shah's invasion of India in 1739 was facilitated partly by which factor?",
+          "o": ["Internal Mughal court factionalism and an invitation extended by disaffected nobles such as Sa'adat Khan", "A formal alliance treaty between Persia and the Mughal empire", "A prior Mughal invasion of Persian territory", "The absence of any Mughal army at Karnal"],
+          "a": 0,
+          "e": "Weakened central authority, court factionalism, and the reported invitation of Persia by disaffected nobles like <b>Sa'adat Khan</b> contributed to Nadir Shah's successful invasion and victory at <b>Karnal</b> in 1739."
+        },
+        {
+          "q": "The primary long-term consequence of Aurangzeb's prolonged Deccan campaigns for the Mughal Empire was:",
+          "o": ["Severe drain on the imperial treasury and overextension of resources, weakening central control", "Permanent and stable annexation of the entire Deccan with no further unrest", "Strengthening of the mansabdari system due to increased military efficiency", "Immediate consolidation of Maratha power under direct Mughal administration"],
+          "a": 0,
+          "e": "Aurangzeb's decades-long <b>Deccan campaigns</b> drained the treasury and overstretched Mughal military and administrative resources, contributing significantly to the empire's subsequent decline."
+        },
+        {
+          "q": "Which of the following correctly distinguishes Sher Shah Suri's interlude (1540-1555) from the Mughal period proper?",
+          "o": ["Sher Shah founded the Sur dynasty after defeating Humayun, temporarily displacing Mughal rule before Humayun's restoration", "Sher Shah was a Mughal mansabdar who never held independent sovereignty", "Sher Shah's rule lasted until the reign of Akbar", "Sher Shah was defeated by Babur, not Humayun"],
+          "a": 0,
+          "e": "<b>Sher Shah Suri</b> defeated Humayun and established the independent <b>Sur dynasty</b> (1540-1555), temporarily interrupting Mughal rule until Humayun's restoration in 1555."
+        },
+        {
+          "q": "Consider the following statements regarding Akbar's Rajput policy: 1. Akbar married the daughter of Raja Bharmal of Amber. 2. Raja Man Singh of Amber commanded Mughal forces at the Battle of Haldighati. 3. Maharana Pratap of Mewar formally accepted Mughal suzerainty during Akbar's reign. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct: Akbar married Raja Bharmal's daughter, and <b>Raja Man Singh</b> led Mughal forces at Haldighati. Statement 3 is incorrect, as <b>Maharana Pratap</b> never submitted to Mughal authority."
+        },
+        {
+          "q": "Consider the following statements regarding the Mansabdari system: 1. The zat rank indicated the personal status and salary of a mansabdar. 2. The sawar rank indicated the number of cavalrymen a mansabdar was required to maintain. 3. All mansabs were strictly hereditary and automatically passed to a mansabdar's sons. How many of the above statements are correct?",
+          "o": ["Only one", "Only two", "All three", "None"],
+          "a": 1,
+          "e": "Statements 1 and 2 correctly describe the <b>zat</b> and <b>sawar</b> ranks. Statement 3 is incorrect, as mansabs were <b>non-hereditary</b> in principle and granted at the emperor's discretion, though in practice some influence persisted."
+        },
+        {
+          "q": "Consider the following statements regarding Abul Fazl: 1. Abul Fazl authored both the Akbarnama and the Ain-i-Akbari. 2. Abul Fazl was assassinated by Bir Singh Bundela at the instigation of Prince Salim. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 2,
+          "e": "Both statements are correct. Abul Fazl wrote the <b>Akbarnama</b> (with its third volume, the Ain-i-Akbari) and was murdered in 1602 by <b>Bir Singh Bundela</b> at Prince Salim's instigation."
+        },
+        {
+          "q": "Consider the following statements regarding Aurangzeb: 1. Aurangzeb reimposed jizya on non-Muslims in 1679. 2. Aurangzeb annexed the Deccan sultanates of Bijapur and Golconda in the 1680s. 3. Aurangzeb was immediately succeeded as emperor by Dara Shikoh. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect, as <b>Dara Shikoh</b> was executed by Aurangzeb in 1659 during the war of succession and never became emperor; Aurangzeb was succeeded by his own son, Bahadur Shah I, in 1707."
+        },
+        {
+          "q": "Consider the following statements regarding the decline of the Mughal Empire: 1. Nadir Shah invaded Delhi in 1739 and defeated Muhammad Shah at the Battle of Karnal. 2. Nadir Shah carried away the Peacock Throne and the Koh-i-Noor diamond from Delhi. 3. The weakening of the mansabdari and jagirdari systems contributed to the decline of central Mughal authority. How many of the above statements are correct?",
+          "o": ["Only one", "Only two", "All three", "None"],
+          "a": 2,
+          "e": "All three statements are correct: Nadir Shah's <b>1739 invasion</b> and victory at <b>Karnal</b>, his plunder of the <b>Peacock Throne</b> and <b>Koh-i-Noor</b>, and the erosion of the mansabdari/jagirdari systems together mark key aspects of Mughal decline."
+        },
+        {
+          "q": "Consider the following statements regarding Sher Shah Suri: 1. Sher Shah Suri defeated Humayun at both the Battle of Chausa and the Battle of Kannauj. 2. Sher Shah Suri's currency and road-building reforms influenced later Mughal administration. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 2,
+          "e": "Both statements are correct. Sher Shah defeated Humayun at <b>Chausa (1539)</b> and <b>Kannauj (1540)</b>, and his administrative reforms, including the silver rupiya and road networks, shaped subsequent Mughal governance."
+        },
+        {
+          "q": "Consider the following statements regarding contemporary Mughal chronicles: 1. The Ain-i-Akbari contains detailed statistical information on Akbar's empire. 2. Badauni's Muntakhab-ut-Tawarikh was openly critical of Akbar's religious policies. 3. The Tuzuk-i-Jahangiri was written by Abul Fazl on behalf of Emperor Jahangir. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect, as the <b>Tuzuk-i-Jahangiri</b> was Jahangir's own autobiographical memoir, not a work by Abul Fazl, who had died in 1602 before Jahangir's accession."
+        },
+        {
+          "q": "Consider the following statements regarding Babur's conquests: 1. Babur defeated Ibrahim Lodi at the First Battle of Panipat in 1526 using artillery and Tulughma tactics. 2. Babur defeated a Rajput confederacy led by Rana Sanga at the Battle of Khanwa in 1527. 3. Babur's memoir, the Baburnama, was originally composed in Chaghatai Turkish. How many of the above statements are correct?",
+          "o": ["Only one", "Only two", "All three", "None"],
+          "a": 2,
+          "e": "All three statements are correct: Babur's victories at <b>Panipat (1526)</b> and <b>Khanwa (1527)</b> established Mughal power, and he recorded his life in the <b>Baburnama</b>, written in Chaghatai Turkish."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_bhakti_sufi_movements",
+    "title": "Bhakti and Sufi Movements",
+    "desc": "Bhakti saints and Sufi silsilas in medieval India",
+    "questions": {
+      "basic": [
+        {
+          "q": "Kabir is traditionally regarded as a disciple of which Bhakti saint?",
+          "o": ["Ramananda", "Ramanuja", "Vallabhacharya", "Chaitanya Mahaprabhu"],
+          "a": 0,
+          "e": "Kabir is traditionally considered a disciple of <b>Ramananda</b>, the Vaishnavite saint of Varanasi who taught in the vernacular and accepted disciples across castes."
+        },
+        {
+          "q": "In which period did Guru Nanak, the founder of Sikhism, live?",
+          "o": ["1469-1539", "1398-1448", "1556-1605", "1206-1236"],
+          "a": 0,
+          "e": "<b>Guru Nanak</b> lived from <b>1469 to 1539</b> and founded Sikhism, preaching belief in one formless God."
+        },
+        {
+          "q": "Guru Nanak was born at which of the following places?",
+          "o": ["Talwandi (Nankana Sahib)", "Amritsar", "Lahore", "Multan"],
+          "a": 0,
+          "e": "Guru Nanak was born at <b>Talwandi</b>, later renamed <b>Nankana Sahib</b> in his honour."
+        },
+        {
+          "q": "Chaitanya Mahaprabhu, the prominent exponent of Krishna bhakti, is closely associated with which region?",
+          "o": ["Bengal", "Gujarat", "Maharashtra", "Rajasthan"],
+          "a": 0,
+          "e": "<b>Chaitanya Mahaprabhu</b> (1486-1534) propagated Krishna bhakti and congregational singing in <b>Bengal</b>, particularly at Nadia."
+        },
+        {
+          "q": "The congregational devotional singing popularized by Chaitanya Mahaprabhu is known as?",
+          "o": ["Sankirtan", "Sama", "Zikr", "Aarti"],
+          "a": 0,
+          "e": "<b>Sankirtan</b>, the congregational chanting of Krishna's name, was central to Chaitanya's method of devotion."
+        },
+        {
+          "q": "Meera Bai, the celebrated Bhakti poet-saint, composed her devotional songs in praise of which deity?",
+          "o": ["Krishna", "Shiva", "Surya", "Durga"],
+          "a": 0,
+          "e": "<b>Meera Bai</b>, a Rajasthani princess, devoted her poetry entirely to <b>Krishna</b> bhakti."
+        },
+        {
+          "q": "Ramananda, whose disciples reportedly included Kabir and Ravidas, propagated Vaishnavite bhakti mainly from which city?",
+          "o": ["Varanasi", "Ayodhya", "Mathura", "Puri"],
+          "a": 0,
+          "e": "<b>Ramananda</b> preached Vaishnavite bhakti in the vernacular from <b>Varanasi</b>, welcoming disciples across caste lines."
+        },
+        {
+          "q": "Tulsidas composed his famous work Ramcharitmanas in which language?",
+          "o": ["Awadhi", "Braj", "Maithili", "Sanskrit"],
+          "a": 0,
+          "e": "<b>Tulsidas</b> wrote the <b>Ramcharitmanas</b>, an account of Rama's life, in the vernacular <b>Awadhi</b> language."
+        },
+        {
+          "q": "The Alvars, Vaishnavite saint-poets of early South Indian bhakti, composed their hymns in which language?",
+          "o": ["Tamil", "Telugu", "Kannada", "Sanskrit"],
+          "a": 0,
+          "e": "The <b>Alvars</b> composed devotional hymns to Vishnu in <b>Tamil</b>, compiled later as the Naalayira Divya Prabandham."
+        },
+        {
+          "q": "The hymns of the Nayanars, Shaivite bhakti saints of the Tamil region, are compiled chiefly in which work?",
+          "o": ["Tevaram", "Bijak", "Sur Sagar", "Ramcharitmanas"],
+          "a": 0,
+          "e": "The devotional hymns of the <b>Nayanars</b>, dedicated to Shiva, are compiled in the <b>Tevaram</b>."
+        },
+        {
+          "q": "Khwaja Moinuddin Chishti, who founded the Chishti Sufi order in India, established his khanqah and is buried at?",
+          "o": ["Ajmer", "Delhi", "Multan", "Pandua"],
+          "a": 0,
+          "e": "Khwaja <b>Moinuddin Chishti</b> settled at <b>Ajmer</b>, where his dargah remains a major pilgrimage site."
+        },
+        {
+          "q": "Nizamuddin Auliya, a leading Chishti Sufi saint known for sama gatherings, lived mainly in which city?",
+          "o": ["Delhi", "Ajmer", "Lahore", "Sirhind"],
+          "a": 0,
+          "e": "<b>Nizamuddin Auliya</b> lived in <b>Delhi</b> and was a contemporary of several Delhi Sultans and the poet Amir Khusrau."
+        },
+        {
+          "q": "The Suhrawardi Sufi order was particularly influential in which region of India?",
+          "o": ["Punjab and Multan", "Bengal", "Deccan", "Kashmir"],
+          "a": 0,
+          "e": "The <b>Suhrawardi</b> order, associated with Bahauddin Zakariya, was prominent in <b>Punjab and Multan</b>."
+        },
+        {
+          "q": "Abdul Qadir Jilani, regarded as the founder of the Qadiriya Sufi order, lived in which city?",
+          "o": ["Baghdad", "Bukhara", "Cairo", "Damascus"],
+          "a": 0,
+          "e": "<b>Abdul Qadir Jilani</b> founded the Qadiriya order in <b>Baghdad</b>; the order was introduced into India later."
+        },
+        {
+          "q": "Which Sufi order, associated with Khwaja Baqi Billah and Sheikh Ahmad Sirhindi, emphasized strict adherence to Sharia?",
+          "o": ["Naqshbandi", "Chishti", "Qadiriya", "Suhrawardi"],
+          "a": 0,
+          "e": "The <b>Naqshbandi</b> order emphasized orthodoxy and Sharia compliance, opposing liberal syncretic practices."
+        },
+        {
+          "q": "A Sufi hospice serving as a centre for spiritual training and lodging is known as a?",
+          "o": ["Khanqah", "Sama", "Zikr", "Ijma"],
+          "a": 0,
+          "e": "A <b>khanqah</b> was a Sufi hospice where the pir trained murids and offered lodging to travelers."
+        },
+        {
+          "q": "The spiritual assembly involving music and dance, widely practiced in the Chishti order, is called?",
+          "o": ["Sama", "Khanqah", "Fatwa", "Wahdat-al-wujud"],
+          "a": 0,
+          "e": "<b>Sama</b> refers to the spiritual music and dance sessions used by Chishti Sufis to attain ecstatic union with the divine."
+        },
+        {
+          "q": "Kabir's verses, which blend Hindu and Muslim ideas and reject idol worship, are compiled in which work?",
+          "o": ["Bijak", "Sur Sagar", "Padavali", "Ramcharitmanas"],
+          "a": 0,
+          "e": "Kabir's teachings are compiled in the <b>Bijak</b>, and some of his verses are also included in the Guru Granth Sahib."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding Guru Nanak: 1. Guru Nanak preached belief in one formless God (Nirankar). 2. The Guru Granth Sahib was compiled by Guru Nanak himself during his lifetime. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 0,
+          "e": "Guru Nanak preached faith in a <b>formless, one God</b>. However, the <b>Guru Granth Sahib</b> was compiled later by the fifth Guru, <b>Guru Arjan</b>, in 1604, not by Guru Nanak."
+        },
+        {
+          "q": "Consider the following statements about Ramananda: 1. Ramananda taught in vernacular Hindi rather than Sanskrit. 2. Ramananda restricted his disciples to the Brahmin caste alone. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 0,
+          "e": "Ramananda preached in the <b>vernacular</b> and accepted disciples across castes, including Kabir (a weaver) and Ravidas (a cobbler), so statement 2 is incorrect."
+        },
+        {
+          "q": "Consider the following statements: 1. The Alvars were Vaishnavite saints devoted to Vishnu. 2. The Nayanars were Shaivite saints devoted to Shiva. 3. Both the Alvar and Nayanar traditions originated after the establishment of the Delhi Sultanate. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "The <b>Alvars</b> (Vishnu) and <b>Nayanars</b> (Shiva) were early South Indian bhakti saints active roughly from the 5th to 10th centuries CE, well <b>before</b> the Delhi Sultanate was established in 1206."
+        },
+        {
+          "q": "Consider the following statements: 1. The Chishti order laid emphasis on simple living and avoided close ties with political power. 2. The Suhrawardi order maintained close relations with the state and its saints often accepted political and administrative roles. 3. The Qadiriya Sufi order was founded in India by Abdul Qadir Jilani. How many of the above statements are correct?",
+          "o": ["Only one", "Only two", "All three", "None"],
+          "a": 1,
+          "e": "Statements 1 and 2 correctly describe the contrasting attitudes of the <b>Chishti</b> and <b>Suhrawardi</b> orders toward state power. Statement 3 is incorrect since <b>Abdul Qadir Jilani</b> founded the Qadiriya order in <b>Baghdad</b>, not India; the order reached India only later."
+        },
+        {
+          "q": "Consider the following statements: 1. The doctrine of wahdat-al-wujud, meaning 'unity of being', is associated with the Sufi thinker Ibn Arabi. 2. This doctrine held that God and creation are entirely separate and unrelated to one another. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 0,
+          "e": "<b>Wahdat-al-wujud</b>, attributed to <b>Ibn Arabi</b>, asserts that all existence is a single unified manifestation of the divine, the opposite of the separateness claimed in statement 2."
+        },
+        {
+          "q": "Consider the following statements: 1. The Naqshbandi order actively promoted sama (musical and dance assembly) as a central form of worship. 2. The Chishti order was comparatively more liberal in accepting sama, a practice considered un-Islamic by the Naqshbandis. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 1,
+          "e": "The <b>Naqshbandi</b> order actually opposed <b>sama</b> as un-Islamic, while the <b>Chishti</b> order embraced it as a means of spiritual ecstasy, making statement 2 correct and statement 1 incorrect."
+        },
+        {
+          "q": "Consider the following statements: 1. Both Kabir and Guru Nanak rejected caste distinctions and emphasized devotion to one formless God. 2. Both Kabir and Guru Nanak encouraged elaborate idol worship and temple rituals as the true path to God. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 0,
+          "e": "Both <b>Kabir</b> and <b>Guru Nanak</b> preached <b>nirguna</b> devotion to a formless God and rejected caste and ritualism, making statement 2 false."
+        },
+        {
+          "q": "Consider the following statements: 1. Nirguna bhakti conceives of the divine as formless and without attributes. 2. Saguna bhakti worships a personal deity with attributes and form, such as Rama or Krishna. 3. Kabir and Guru Nanak are generally classified as saguna bhakti saints. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statements 1 and 2 correctly define <b>nirguna</b> and <b>saguna</b> bhakti. Statement 3 is incorrect as <b>Kabir</b> and <b>Guru Nanak</b> are classified as <b>nirguna</b> bhakti saints, not saguna."
+        },
+        {
+          "q": "Which Sufi silsila traces its Indian spiritual lineage through Baba Farid (Fariduddin Ganjshakar) to Nizamuddin Auliya in Delhi?",
+          "o": ["Chishti", "Suhrawardi", "Qadiriya", "Naqshbandi"],
+          "a": 0,
+          "e": "The <b>Chishti</b> silsila's Indian lineage passed from Moinuddin Chishti through Baba Farid to <b>Nizamuddin Auliya</b> in Delhi."
+        },
+        {
+          "q": "The Sufi relationship of spiritual guide and disciple, known as 'pir-murid', is structurally comparable to which relationship in the Bhakti tradition?",
+          "o": ["Guru-shishya", "Raja-praja", "Zamindar-ryot", "Priest-parishioner"],
+          "a": 0,
+          "e": "The <b>pir-murid</b> bond of spiritual guidance in Sufism parallels the <b>guru-shishya</b> relationship central to Bhakti practice."
+        },
+        {
+          "q": "The celebrated poet and musician Amir Khusrau was a disciple of which Sufi saint?",
+          "o": ["Nizamuddin Auliya", "Moinuddin Chishti", "Bahauddin Zakariya", "Sheikh Ahmad Sirhindi"],
+          "a": 0,
+          "e": "<b>Amir Khusrau</b> was a devoted disciple of the Chishti saint <b>Nizamuddin Auliya</b> in Delhi."
+        },
+        {
+          "q": "Verses of which Bhakti saint, though he founded no separate religion, came to be included within the Sikh scripture Guru Granth Sahib?",
+          "o": ["Kabir", "Tulsidas", "Chaitanya Mahaprabhu", "Ramananda"],
+          "a": 0,
+          "e": "Several verses of <b>Kabir</b> were incorporated into the <b>Guru Granth Sahib</b> alongside the compositions of the Sikh Gurus and other saints."
+        },
+        {
+          "q": "The Bhakti saints' widespread use of vernacular languages instead of Sanskrit primarily served which purpose?",
+          "o": ["Making religious teachings directly accessible to common people across caste lines", "Preserving Sanskrit scriptures more accurately", "Strengthening Brahmanical control over religious knowledge", "Facilitating exclusive royal patronage of literature"],
+          "a": 0,
+          "e": "Using <b>vernacular languages</b> allowed Bhakti saints to reach ordinary people, bypassing Sanskrit-based Brahmanical exclusivity."
+        },
+        {
+          "q": "Which Sufi order is particularly noted for its reaction against the religious eclecticism associated with Akbar's later religious policies?",
+          "o": ["Naqshbandi", "Chishti", "Qadiriya", "Suhrawardi"],
+          "a": 0,
+          "e": "The <b>Naqshbandi</b> order, through figures like Sheikh Ahmad Sirhindi, reacted against the syncretic tendencies of Akbar's era."
+        },
+        {
+          "q": "Sheikh Ahmad Sirhindi, known for opposing religious syncretism in Mughal India, is also referred to by which title?",
+          "o": ["Mujaddid-i-Alf-i-Sani", "Ghaus-ul-Azam", "Qutb-ul-Aqtab", "Sultan-ul-Mashaikh"],
+          "a": 0,
+          "e": "Sheikh Ahmad Sirhindi is known as <b>Mujaddid-i-Alf-i-Sani</b> ('Reviver of the Second Millennium') for his efforts to restore orthodox Islamic practice."
+        },
+        {
+          "q": "Which Bhakti saint, a Rajasthani princess devoted to Krishna, is traditionally said to have faced persecution from her royal in-laws for her religious devotion?",
+          "o": ["Meera Bai", "Andal", "Lal Ded", "Akka Mahadevi"],
+          "a": 0,
+          "e": "<b>Meera Bai</b>, married into the Mewar royal family, is traditionally believed to have faced opposition for her single-minded devotion to Krishna."
+        },
+        {
+          "q": "The socio-religious impact of the Bhakti and Sufi movements is most accurately described as?",
+          "o": ["A challenge to caste rigidity and ritualistic orthodoxy within both Hindu and Muslim religious establishments", "A complete abolition of caste distinctions in medieval Indian society", "An exclusive reform confined to the Brahmin priestly class", "A movement limited only to elite royal courts"],
+          "a": 0,
+          "e": "Bhakti and Sufi saints challenged <b>caste rigidity</b> and <b>ritualism</b>, though they did not achieve the complete abolition of caste in society."
+        },
+        {
+          "q": "Which of the following best distinguishes the Alvar-Nayanar bhakti tradition of South India from the later Bhakti movement of the Sultanate-Mughal period in North India?",
+          "o": ["The Alvar-Nayanar tradition emerged earlier, from about the 5th-6th century CE, largely prior to significant Islamic influence in the region", "The Alvar-Nayanar tradition was founded by Kabir and later spread southward", "The Alvar-Nayanar tradition rejected all forms of temple worship", "The Alvar-Nayanar tradition was primarily a Sufi movement"],
+          "a": 0,
+          "e": "The <b>Alvars</b> and <b>Nayanars</b> represent an early phase of bhakti in <b>South India</b>, predating the North Indian Bhakti movement that developed under Sultanate and Mughal-era influences."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. Kabir's philosophy rejected both Hindu idol worship and Islamic ritualism, advocating a formless, nirguna concept of God. 2. Kabir was formally initiated as a Sufi pir and founded a distinct Sufi silsila in India. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 0,
+          "e": "Kabir's <b>nirguna</b> philosophy rejected ritualism in both religions, but he was <b>not</b> a Sufi pir nor founder of any Sufi silsila; he remained an independent poet-saint."
+        },
+        {
+          "q": "Consider the following statements: 1. Guru Nanak undertook extensive journeys, known as Udasis, to spread his teachings. 2. Guru Nanak's compositions were compiled into the Adi Granth by Guru Arjan in 1604. 3. Guru Nanak established the institution of langar, a community kitchen emphasizing social equality. How many of the above statements are correct?",
+          "o": ["Only one", "Only two", "All three", "None"],
+          "a": 2,
+          "e": "All three statements are correct: Guru Nanak undertook <b>Udasis</b> (missionary journeys), his hymns were later compiled by <b>Guru Arjan</b> into the Adi Granth in 1604, and he instituted <b>langar</b> to promote equality."
+        },
+        {
+          "q": "Consider the following statements: 1. The Chishti order generally accepted futuh (unsolicited donations) but avoided close association with ruling Sultans. 2. The Suhrawardi order, unlike the Chishtis, readily accepted state patronage and held high administrative positions. 3. The Naqshbandi order actively organized sama sessions to secure political patronage. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statements 1 and 2 correctly contrast Chishti aloofness from politics with Suhrawardi acceptance of state office. Statement 3 is wrong because the <b>Naqshbandi</b> order actually opposed <b>sama</b> as un-Islamic."
+        },
+        {
+          "q": "Consider the following statements: 1. Wahdat-al-wujud, propounded by Ibn Arabi, holds that all existence is a manifestation of a single divine reality. 2. Sheikh Ahmad Sirhindi fully endorsed wahdat-al-wujud and rejected any distinction between God and creation. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 0,
+          "e": "While <b>wahdat-al-wujud</b> is correctly attributed to Ibn Arabi, <b>Sheikh Ahmad Sirhindi</b> actually critiqued it and propounded <b>wahdat-al-shuhud</b>, maintaining a distinction between Creator and creation."
+        },
+        {
+          "q": "Consider the following statements: 1. Chaitanya Mahaprabhu's followers regarded him as a combined incarnation of Radha and Krishna. 2. Chaitanya Mahaprabhu rejected sankirtan (congregational singing) as an invalid form of devotion. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 0,
+          "e": "Followers viewed <b>Chaitanya</b> as an incarnation of Radha-Krishna combined; far from rejecting it, he made <b>sankirtan</b> the centrepiece of his devotional practice."
+        },
+        {
+          "q": "Consider the following statements: 1. Kabir, a weaver by profession, is traditionally counted among Ramananda's disciples. 2. Ravidas, a saint from a cobbler (chamar) caste background, is also traditionally linked to Ramananda's discipleship. 3. Ramananda restricted his teachings exclusively to Sanskrit texts for Brahmin audiences. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 0,
+          "e": "Statements 1 and 2 reflect the tradition that Ramananda's disciples spanned castes, including Kabir and Ravidas. Statement 3 is false since he taught in the <b>vernacular</b>, not exclusively in Sanskrit."
+        },
+        {
+          "q": "Consider the following statements: 1. The Alvar tradition is generally dated from around the 5th-6th century to the 9th century CE. 2. The Nayanar tradition of Tamil Shaivism produced works such as the Tevaram and Periya Puranam. 3. Both the Alvar and Nayanar bhakti traditions influenced later Vedantic thinkers such as Ramanuja. How many of the above statements are correct?",
+          "o": ["Only one", "Only two", "All three", "None"],
+          "a": 2,
+          "e": "All three statements are historically accurate: the <b>Alvars</b>' and <b>Nayanars</b>' devotional legacy fed into later philosophical developments, including <b>Ramanuja</b>'s Vishishtadvaita, which drew on Alvar hymns."
+        },
+        {
+          "q": "Consider the following statements: 1. The Naqshbandi silsila considered sama an acceptable and central form of worship for attaining spiritual union. 2. The Chishti silsila's acceptance of sama was a point of theological difference with more orthodox orders such as the Naqshbandi. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 1,
+          "e": "The <b>Naqshbandi</b> order rejected sama as un-Islamic, while the <b>Chishti</b> order's embrace of it distinguished it theologically from stricter orders."
+        },
+        {
+          "q": "Consider the following statements: 1. Meera Bai's compositions are primarily devoted to Krishna bhakti, while Tulsidas's Ramcharitmanas centres on Rama bhakti. 2. Both Meera Bai and Tulsidas are classified as nirguna bhakti poets who rejected devotion to any personal deity. 3. Tulsidas composed in Awadhi, whereas Meera Bai's verses are traditionally associated with Rajasthani and Braj dialects. Which of the statements given above is/are correct?",
+          "o": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+          "a": 2,
+          "e": "Statements 1 and 3 correctly note the deity focus and languages of these poets. Statement 2 is incorrect as both are <b>saguna</b> bhakti poets devoted to personal deities (Krishna and Rama respectively), not nirguna."
+        },
+        {
+          "q": "Consider the following statements: 1. The term 'pir-murid' refers to the relationship between a Sufi spiritual guide and disciple, structurally comparable to the Bhakti 'guru-shishya' relationship. 2. Sufi khanqahs functioned exclusively as mosques for congregational prayer and provided no lodging or hospitality to travelers. Which of the statements given above is/are correct?",
+          "o": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+          "a": 0,
+          "e": "Statement 1 accurately parallels the Sufi and Bhakti guide-disciple relationships; statement 2 is false since <b>khanqahs</b> also served as hospices offering food and lodging to travelers and seekers."
+        },
+        {
+          "q": "Which of the following most accurately distinguishes nirguna from saguna bhakti traditions?",
+          "o": ["Nirguna bhakti envisions the divine as formless and attributeless, favouring inward mystical devotion, while saguna bhakti worships a personal deity with form through image worship and devotional narratives", "Nirguna bhakti is confined to South India while saguna bhakti is confined to North India", "Nirguna bhakti was practiced only by Muslim Sufis while saguna bhakti was practiced only by Hindus", "The distinction refers only to the language of composition, not to theological content"],
+          "a": 0,
+          "e": "<b>Nirguna</b> bhakti stresses a formless, attributeless divine reached through inward devotion, whereas <b>saguna</b> bhakti worships a personal deity with attributes and form, such as Krishna or Rama."
+        },
+        {
+          "q": "Amir Khusrau's close association with Nizamuddin Auliya best exemplifies which broader phenomenon of the period?",
+          "o": ["The blending of Persian and Hindavi literary-musical traditions within the Chishti pir-murid framework", "The formal integration of Sufism into the Delhi Sultanate's administrative bureaucracy", "The rejection of sama by prominent Chishti disciples", "The founding of a new Sufi silsila independent of the Chishti order"],
+          "a": 0,
+          "e": "Amir Khusrau, as Nizamuddin Auliya's disciple, exemplified the fusion of <b>Persian</b> and <b>Hindavi</b> literary and musical traditions nurtured within the <b>Chishti</b> pir-murid relationship."
+        },
+        {
+          "q": "The historical significance of Bhakti saints composing in vernacular languages such as Awadhi, Braj, Tamil, and Punjabi lay chiefly in?",
+          "o": ["Democratizing religious knowledge beyond Sanskrit-Brahmanical and Persian-Arabic elite control, enabling access for common people including lower castes and women", "Standardizing a single pan-Indian religious language for administrative use", "Restricting religious teachings to regional royal courts only", "Replacing oral tradition entirely with a single written canon"],
+          "a": 0,
+          "e": "Composing in <b>vernacular languages</b> broke the monopoly of Sanskrit and Persian-Arabic elites over religious knowledge, opening it to common people, lower castes, and women."
+        },
+        {
+          "q": "Which statement best explains why Sheikh Ahmad Sirhindi is often viewed as a counter-current to the syncretic religious trends of the late 16th century?",
+          "o": ["He opposed the blending of Islamic orthodoxy with other faith elements seen in policies like Din-i-Ilahi, reasserting strict Sharia adherence through the Naqshbandi order", "He actively supported Akbar's Din-i-Ilahi and helped expand its following", "He founded the Chishti silsila as an alternative to state-sponsored syncretism", "He advocated the complete abolition of Sharia in favour of universal tolerance"],
+          "a": 0,
+          "e": "Sheikh Ahmad Sirhindi, through the <b>Naqshbandi</b> order, opposed religious eclecticism associated with Akbar's era and pushed for a return to strict <b>Sharia</b>-based orthodoxy."
+        },
+        {
+          "q": "A key structural difference between the Chishti and Suhrawardi Sufi orders in medieval India was that?",
+          "o": ["Chishtis generally avoided government service and relied on charity (futuh), while Suhrawardis accepted state patronage, land grants, and administrative positions", "Chishtis were confined to Bengal while Suhrawardis operated only in the Deccan", "Chishtis rejected the concept of a pir-murid relationship while Suhrawardis embraced it", "Chishtis were founded in India while Suhrawardis originated in China"],
+          "a": 0,
+          "e": "<b>Chishtis</b> typically avoided state entanglement and lived on charitable donations, whereas <b>Suhrawardis</b> accepted land grants and government office, reflecting differing attitudes to political power."
+        },
+        {
+          "q": "The Bijak, a compilation of Kabir's verses, is primarily preserved and transmitted through which sectarian tradition?",
+          "o": ["Kabir Panth", "Sikh Panth", "Ramanandi Sampradaya", "Varkari Sampradaya"],
+          "a": 0,
+          "e": "The <b>Bijak</b> is chiefly preserved within the <b>Kabir Panth</b>, the sect of followers that grew around Kabir's teachings after his death."
+        },
+        {
+          "q": "Which of the following is the most accurate assessment of the relationship between the Bhakti movement and the caste system in medieval India?",
+          "o": ["Bhakti saints challenged caste-based discrimination in access to devotion and drew disciples from lower castes, but the movement did not structurally abolish caste in society", "The Bhakti movement completely dismantled the caste system across India", "The Bhakti movement was led exclusively by Brahmins to reinforce caste hierarchy", "The Bhakti movement had no relationship whatsoever to questions of caste"],
+          "a": 0,
+          "e": "Bhakti saints opened devotional access across castes and criticized ritual hierarchy, yet caste as a <b>social institution</b> persisted despite this religious challenge."
+        },
+        {
+          "q": "The philosophical concept of wahdat-al-wujud is most closely comparable, in its monistic emphasis, to which strand of Hindu philosophy?",
+          "o": ["Advaita Vedanta", "Dvaita Vedanta", "Samkhya", "Purva Mimamsa"],
+          "a": 0,
+          "e": "<b>Wahdat-al-wujud</b>'s emphasis on the unity of all being parallels the non-dualism of <b>Advaita Vedanta</b>, which holds that ultimate reality is one undivided Brahman."
+        }
+      ]
+    }
+  }
+]

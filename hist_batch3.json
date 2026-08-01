@@ -1,0 +1,1823 @@
+[
+  {
+    "id": "hist_european_advent_british_expansion",
+    "title": "Advent of Europeans & British Expansion",
+    "desc": "European trading rivalries and the rise of British power",
+    "questions": {
+      "basic": [
+        {
+          "q": "In which year did Vasco da Gama arrive at Calicut, discovering the sea route to India?",
+          "o": [
+            "1492",
+            "1498",
+            "1502",
+            "1510"
+          ],
+          "a": 1,
+          "e": "The Portuguese navigator <b>Vasco da Gama</b> landed at Calicut on the Malabar coast in <b>1498</b>, having sailed around the Cape of Good Hope, opening a direct sea route between Europe and India."
+        },
+        {
+          "q": "Who was the first Governor of Portuguese possessions in India, known for his 'Blue Water Policy'?",
+          "o": [
+            "Afonso de Albuquerque",
+            "Francisco de Almeida",
+            "Nuno da Cunha",
+            "Pedro Alvares Cabral"
+          ],
+          "a": 1,
+          "e": "<b>Francisco de Almeida</b> became the first Governor in 1505 and pursued the Blue Water Policy (Cartaz system) to establish Portuguese naval dominance over the Indian Ocean trade routes."
+        },
+        {
+          "q": "Which Portuguese governor captured Goa in 1510, making it the headquarters of Portuguese power in the East?",
+          "o": [
+            "Francisco de Almeida",
+            "Afonso de Albuquerque",
+            "Nuno da Cunha",
+            "Vasco da Gama"
+          ],
+          "a": 1,
+          "e": "<b>Afonso de Albuquerque</b> captured Goa from the Bijapur Sultanate in 1510; he also seized Malacca and Hormuz, building a network of fortified Portuguese trading posts."
+        },
+        {
+          "q": "The English East India Company received its first royal charter from which monarch in 1600?",
+          "o": [
+            "King James I",
+            "Queen Elizabeth I",
+            "King Charles I",
+            "Queen Victoria"
+          ],
+          "a": 1,
+          "e": "<b>Queen Elizabeth I</b> granted a royal charter to the 'Governor and Company of Merchants of London Trading into the East Indies' on 31 December 1600."
+        },
+        {
+          "q": "Where did the English establish their first factory in India in 1613?",
+          "o": [
+            "Madras",
+            "Surat",
+            "Bombay",
+            "Calcutta"
+          ],
+          "a": 1,
+          "e": "The English East India Company established its first factory at <b>Surat</b> in 1613, with permission from Mughal Emperor Jahangir."
+        },
+        {
+          "q": "The French East India Company was founded in 1664 under the patronage of which French minister?",
+          "o": [
+            "Cardinal Richelieu",
+            "Jean-Baptiste Colbert",
+            "Duc de Choiseul",
+            "Comte de Lally"
+          ],
+          "a": 1,
+          "e": "The French East India Company was established in 1664 during the reign of Louis XIV, promoted by his finance minister <b>Jean-Baptiste Colbert</b>."
+        },
+        {
+          "q": "Who founded Pondicherry, which later became the headquarters of French possessions in India?",
+          "o": [
+            "Joseph François Dupleix",
+            "François Martin",
+            "Comte de Lally",
+            "La Bourdonnais"
+          ],
+          "a": 1,
+          "e": "<b>François Martin</b> founded and developed Pondicherry from 1673-74, and it grew into the principal French settlement in India."
+        },
+        {
+          "q": "Joseph François Dupleix, who sought to establish French political dominance in India, is chiefly associated with which conflicts?",
+          "o": [
+            "Anglo-Maratha Wars",
+            "Carnatic Wars",
+            "Anglo-Mysore Wars",
+            "Anglo-Sikh Wars"
+          ],
+          "a": 1,
+          "e": "<b>Dupleix</b>, the French Governor of Pondicherry, was a key figure in the <b>Carnatic Wars</b>, using local political rivalries to further French interests against the British."
+        },
+        {
+          "q": "The Battle of Plassey was fought in which year?",
+          "o": [
+            "1757",
+            "1764",
+            "1774",
+            "1782"
+          ],
+          "a": 0,
+          "e": "The <b>Battle of Plassey</b> was fought in <b>1757</b> between the East India Company under Robert Clive and the Nawab of Bengal."
+        },
+        {
+          "q": "In the Battle of Plassey, Robert Clive defeated which Nawab of Bengal?",
+          "o": [
+            "Mir Jafar",
+            "Siraj-ud-Daulah",
+            "Mir Qasim",
+            "Alivardi Khan"
+          ],
+          "a": 1,
+          "e": "Robert Clive defeated Nawab <b>Siraj-ud-Daulah</b> at Plassey in 1757, aided by the betrayal of the Nawab's commander-in-chief Mir Jafar."
+        },
+        {
+          "q": "The Battle of Buxar (1764) was fought by the British against the combined forces of which three powers?",
+          "o": [
+            "Mir Qasim, Shuja-ud-Daula and Shah Alam II",
+            "Siraj-ud-Daulah, Hyder Ali and the Nizam",
+            "Tipu Sultan, the Peshwa and the Nizam",
+            "Mir Jafar, Ahmad Shah Abdali and Shuja-ud-Daula"
+          ],
+          "a": 0,
+          "e": "At <b>Buxar</b> in 1764, the British defeated the combined forces of <b>Mir Qasim</b> (Nawab of Bengal), <b>Shuja-ud-Daula</b> (Nawab of Awadh), and Mughal Emperor <b>Shah Alam II</b>."
+        },
+        {
+          "q": "The Treaty of Allahabad (1765), by which the East India Company obtained the Diwani of Bengal, Bihar and Odisha, was signed with which Mughal Emperor?",
+          "o": [
+            "Bahadur Shah I",
+            "Shah Alam II",
+            "Alamgir II",
+            "Akbar II"
+          ],
+          "a": 1,
+          "e": "In 1765, Mughal Emperor <b>Shah Alam II</b> granted the Company the Diwani (right to collect revenue) of Bengal, Bihar and Odisha through the Treaty of Allahabad."
+        },
+        {
+          "q": "Who introduced the Permanent Settlement of land revenue in Bengal in 1793?",
+          "o": [
+            "Warren Hastings",
+            "Lord Cornwallis",
+            "Lord Wellesley",
+            "Lord William Bentinck"
+          ],
+          "a": 1,
+          "e": "<b>Lord Cornwallis</b> introduced the Permanent Settlement (Zamindari system) in Bengal, Bihar and Odisha in 1793, fixing the land revenue demand in perpetuity."
+        },
+        {
+          "q": "The Subsidiary Alliance system, under which Indian rulers accepted British troops at their own expense, was introduced by which Governor-General?",
+          "o": [
+            "Lord Wellesley",
+            "Lord Dalhousie",
+            "Warren Hastings",
+            "Lord Hastings (Francis Rawdon)"
+          ],
+          "a": 0,
+          "e": "<b>Lord Wellesley</b> (1798-1805) introduced the Subsidiary Alliance system, which greatly expanded British political control over Indian states."
+        },
+        {
+          "q": "The Doctrine of Lapse, used to annex princely states without a natural male heir, is associated with which Governor-General?",
+          "o": [
+            "Lord Canning",
+            "Lord Dalhousie",
+            "Lord Curzon",
+            "Lord Ripon"
+          ],
+          "a": 1,
+          "e": "<b>Lord Dalhousie</b> (1848-56) systematically applied the Doctrine of Lapse to annex states such as Satara, Jhansi, and Nagpur."
+        },
+        {
+          "q": "In the Fourth Anglo-Mysore War (1799), which ruler was killed defending his capital Srirangapatna?",
+          "o": [
+            "Hyder Ali",
+            "Tipu Sultan",
+            "Chikka Krishnaraja Wodeyar",
+            "Nizam Ali Khan"
+          ],
+          "a": 1,
+          "e": "<b>Tipu Sultan</b>, the 'Tiger of Mysore', died fighting at Srirangapatna in 1799 during the Fourth Anglo-Mysore War."
+        },
+        {
+          "q": "The Third Anglo-Maratha War (1817-1818), which ended Maratha power, saw the final defeat of which Peshwa?",
+          "o": [
+            "Baji Rao I",
+            "Balaji Baji Rao",
+            "Baji Rao II",
+            "Madhav Rao Narayan"
+          ],
+          "a": 2,
+          "e": "<b>Peshwa Baji Rao II</b> was defeated in the Third Anglo-Maratha War (1817-18), after which the Peshwaship was abolished and Maratha territories came under direct British control."
+        },
+        {
+          "q": "The Anglo-Sikh Wars resulted in the annexation of Punjab in which year?",
+          "o": [
+            "1839",
+            "1846",
+            "1849",
+            "1856"
+          ],
+          "a": 2,
+          "e": "Following the Second Anglo-Sikh War (1848-49), <b>Punjab was annexed in 1849</b> by Lord Dalhousie, and Maharaja Duleep Singh was deposed."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements: 1. The Treaty of Aix-la-Chapelle (1748) ended the First Carnatic War and restored Madras to the British in exchange for Louisbourg in North America. 2. The Third Carnatic War ended with the Treaty of Paris (1763), which allowed the French to retain their trading posts in India but stripped them of political and military ambitions. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. The <b>Treaty of Aix-la-Chapelle</b> (1748) ended the First Carnatic War with a territorial exchange, while the <b>Treaty of Paris</b> (1763) ended the Third Carnatic War, permanently curbing French political power in India while allowing commercial presence."
+        },
+        {
+          "q": "Consider the following statements regarding the Battle of Plassey (1757): 1. It was fought between Robert Clive and Siraj-ud-Daulah. 2. Mir Jafar, the Nawab's commander-in-chief, betrayed him by remaining neutral during the battle. 3. The battle directly resulted in the East India Company acquiring the Diwani of Bengal. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect: the <b>Diwani</b> was granted only in 1765 via the Treaty of Allahabad, after the <b>Battle of Buxar</b> (1764), not immediately after Plassey, which merely installed a puppet Nawab (Mir Jafar)."
+        },
+        {
+          "q": "Consider the following statements: 1. The Battle of Buxar (1764) was fought against a combined force of the Nawab of Bengal, the Nawab of Awadh, and the Mughal Emperor. 2. The Treaty of Allahabad (1765) was a single treaty signed jointly with Shuja-ud-Daula and Shah Alam II. 3. Under the Treaty of Allahabad, Shah Alam II granted the Diwani of Bengal, Bihar and Odisha to the East India Company. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct. Statement 2 is wrong: the <b>Treaty of Allahabad</b> actually comprised <b>two separate treaties</b> — one with Shuja-ud-Daula of Awadh and another with Emperor Shah Alam II."
+        },
+        {
+          "q": "Consider the following states: 1. Satara. 2. Jhansi. 3. Awadh (Oudh). Which of the above were annexed by Lord Dalhousie under the Doctrine of Lapse?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "<b>Satara (1848) and Jhansi (1854)</b> were annexed under the Doctrine of Lapse due to absence of a natural heir. <b>Awadh (1856)</b> was annexed separately on grounds of alleged misgovernance, not under the Doctrine of Lapse."
+        },
+        {
+          "q": "Which of the following Indian rulers was the first to accept the Subsidiary Alliance imposed by Lord Wellesley?",
+          "o": [
+            "Nawab of Awadh",
+            "Nizam of Hyderabad",
+            "Peshwa Baji Rao II",
+            "Tipu Sultan"
+          ],
+          "a": 1,
+          "e": "The <b>Nizam of Hyderabad</b> was the first Indian ruler to accept the Subsidiary Alliance in 1798, followed later by Mysore, Awadh, and the Marathas."
+        },
+        {
+          "q": "Consider the following statements about the Regulating Act of 1773: 1. It made the Governor of Bengal the Governor-General of Bengal, assisted by a council of four members. 2. It provided for the establishment of a Supreme Court at Calcutta. 3. It ended the East India Company's monopoly over trade with India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is wrong: the Company's trade monopoly with India was ended only by the <b>Charter Act of 1813</b>, not the Regulating Act of 1773."
+        },
+        {
+          "q": "Consider the following statements: 1. Francisco de Almeida is credited with the 'Blue Water Policy' aimed at establishing Portuguese naval supremacy in the Indian Ocean. 2. Afonso de Albuquerque encouraged Portuguese men to marry local women in Goa to build a settled Portuguese population. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. Almeida's naval policy and <b>Albuquerque's policy of mixed marriages</b> were key features of early Portuguese colonial strategy in India."
+        },
+        {
+          "q": "The Treaty of Bassein (1802), by which Peshwa Baji Rao II accepted the Subsidiary Alliance, directly triggered which conflict?",
+          "o": [
+            "First Anglo-Maratha War",
+            "Second Anglo-Maratha War",
+            "Third Anglo-Maratha War",
+            "Anglo-Mysore War"
+          ],
+          "a": 1,
+          "e": "The <b>Treaty of Bassein</b> (1802), by which the Peshwa sought British help against rival Maratha chiefs, provoked the <b>Second Anglo-Maratha War</b> (1803-05) as other Maratha chiefs opposed this alliance."
+        },
+        {
+          "q": "Consider the following statements regarding the Anglo-Sikh Wars: 1. The First Anglo-Sikh War (1845-46) ended with the Treaty of Lahore. 2. Maharaja Ranjit Singh was defeated by the British in the Second Anglo-Sikh War. 3. Punjab was formally annexed to British India in 1849 after the Second Anglo-Sikh War. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is false: <b>Maharaja Ranjit Singh</b> died in 1839, well before either Anglo-Sikh war; the wars occurred amid the succession crisis after his death."
+        },
+        {
+          "q": "Under the Permanent Settlement introduced by Cornwallis in 1793, the zamindars of Bengal were recognised as which of the following?",
+          "o": [
+            "Tenants of the peasants with no ownership rights",
+            "Owners of the land who paid a fixed, unchanging revenue to the state",
+            "Government-appointed tax collectors on short annual contracts",
+            "Trustees managing land on behalf of village communities"
+          ],
+          "a": 1,
+          "e": "The Permanent Settlement recognised <b>zamindars as landowners</b> obligated to pay a revenue amount fixed permanently, regardless of actual agricultural output or prices."
+        },
+        {
+          "q": "Consider the following statements: 1. Warren Hastings was the first Governor-General of Bengal under the Regulating Act, 1773. 2. Lord William Bentinck was the first Governor-General of India under the Charter Act, 1833. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both are correct. <b>Warren Hastings</b> became the first Governor-General of Bengal in 1773, and <b>Lord William Bentinck</b> became the first Governor-General of India in 1833 when the post's title was upgraded."
+        },
+        {
+          "q": "The Third Carnatic War, which effectively ended French political ambitions in India, was concluded by which treaty?",
+          "o": [
+            "Treaty of Aix-la-Chapelle",
+            "Treaty of Pondicherry",
+            "Treaty of Paris (1763)",
+            "Treaty of Salbai"
+          ],
+          "a": 2,
+          "e": "The <b>Treaty of Paris (1763)</b>, which ended the Seven Years' War in Europe, also concluded the Third Carnatic War, confining the French to a few unfortified trading posts in India."
+        },
+        {
+          "q": "Consider the following statements about the Battle of Wandiwash (1760): 1. It was fought during the Third Carnatic War. 2. The British force was led by Sir Eyre Coote and defeated the French under Comte de Lally. 3. The battle effectively ended French ambitions of building a territorial empire in India. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct. The decisive British victory at <b>Wandiwash</b> under <b>Eyre Coote</b> broke French military power in the Carnatic and paved the way for British supremacy."
+        },
+        {
+          "q": "Who among the following Governors-General is associated with the annexation of Awadh in 1856 on the grounds of alleged misgovernance?",
+          "o": [
+            "Lord Dalhousie",
+            "Lord Canning",
+            "Lord Auckland",
+            "Lord Ellenborough"
+          ],
+          "a": 0,
+          "e": "<b>Lord Dalhousie</b> annexed Awadh in 1856, citing the Nawab's alleged misgovernance, which became one of the immediate grievances leading to the Revolt of 1857."
+        },
+        {
+          "q": "Consider the following statements: 1. Hyder Ali became the de facto ruler of Mysore around 1761 while retaining the Wodeyar king as a nominal figurehead. 2. Tipu Sultan signed the Treaty of Seringapatam in 1792, ceding about half his territories jointly to the British and their allies after the Third Anglo-Mysore War. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. <b>Hyder Ali</b> usurped real power while the Wodeyar dynasty remained titular, and <b>Tipu Sultan</b> was forced to cede half his kingdom to the British, Marathas and Nizam jointly under the 1792 treaty."
+        },
+        {
+          "q": "The terms 'Ring Fence policy' and later 'Subordinate Isolation' are used by historians to describe the evolving British approach chiefly toward which group?",
+          "o": [
+            "Rajput clans",
+            "Indian/princely states",
+            "Sikh Misls",
+            "Maratha revenue farmers"
+          ],
+          "a": 1,
+          "e": "These terms describe phases in British relations with <b>Indian princely states</b> — from merely protecting frontiers (Ring Fence, under Hastings) to isolating states from each other and outside powers via Subsidiary Alliances (Subordinate Isolation, under Wellesley)."
+        },
+        {
+          "q": "Consider the following statements: 1. The First Anglo-Maratha War ended with the Treaty of Salbai (1782). 2. The Treaty of Salbai secured peace between the British and the Marathas for about two decades. 3. The Second Anglo-Maratha War began in the aftermath of the Treaty of Bassein (1802). Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct. The <b>Treaty of Salbai</b> (1782) ended the First Anglo-Maratha War and kept peace for roughly twenty years until the <b>Treaty of Bassein</b> (1802) triggered renewed conflict."
+        },
+        {
+          "q": "Which of the following correctly arranges these events in chronological order?",
+          "o": [
+            "Battle of Plassey → Battle of Buxar → Treaty of Allahabad → Permanent Settlement",
+            "Treaty of Allahabad → Battle of Plassey → Battle of Buxar → Permanent Settlement",
+            "Battle of Buxar → Battle of Plassey → Treaty of Allahabad → Permanent Settlement",
+            "Permanent Settlement → Battle of Plassey → Battle of Buxar → Treaty of Allahabad"
+          ],
+          "a": 0,
+          "e": "The correct chronological order is <b>Plassey (1757) → Buxar (1764) → Treaty of Allahabad (1765) → Permanent Settlement (1793)</b>."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The 'Cartaz' system introduced by the Portuguese required non-Portuguese ships in the Indian Ocean to purchase a licence/pass to trade safely. 2. This system was primarily a religious taxation mechanism rather than a means of naval control. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct; the <b>Cartaz</b> system was a licensing/pass mechanism to enforce Portuguese naval control over Indian Ocean shipping lanes. Statement 2 is wrong — it was a trade/naval control measure, not primarily religious taxation."
+        },
+        {
+          "q": "Consider the following statements: 1. The English factory at Surat (1613) was established with the permission of Mughal Emperor Jahangir. 2. Sir Thomas Roe visited the Mughal court as an ambassador of James I to secure trading privileges for the Company. 3. The Company later shifted its western headquarters from Surat to Bombay, which had come to the English Crown as part of a Portuguese dowry. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three are correct. <b>Bombay</b> was received by Charles II in 1661 as part of the dowry of Catherine of Braganza, later leased to the Company (1668), which shifted its western presidency headquarters there from <b>Surat</b> in 1687, after Sir <b>Thomas Roe's</b> earlier diplomatic mission had secured trading rights."
+        },
+        {
+          "q": "Consider the following statements: 1. The Battle of Plassey (1757) occurred primarily because Siraj-ud-Daulah had formed a formal military alliance with the French against the Company. 2. Mir Jafar was installed as Nawab after Plassey in return for conspiring against Siraj-ud-Daulah. 3. Mir Qasim, Mir Jafar's successor, was removed after he abolished internal transit duties for local merchants to counter the Company's misuse of duty-free trade passes (dastaks). Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statements 2 and 3 are correct. Statement 1 overstates the case — Plassey arose mainly from Siraj-ud-Daulah's conflict with the Company over unauthorised fortification of Calcutta and misuse of trading privileges, not a formal Franco-Bengal military alliance."
+        },
+        {
+          "q": "Consider the following statements: 1. The Treaty of Allahabad (1765) actually comprised two separate treaties — one with Shuja-ud-Daula of Awadh and another with Emperor Shah Alam II. 2. Under the treaty with Shuja-ud-Daula, Awadh was annexed outright to Company territory. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is wrong — <b>Awadh was restored</b> to Shuja-ud-Daula as a buffer state (the Company retaining Allahabad and Kara and receiving a war indemnity); Awadh was formally annexed only in 1856."
+        },
+        {
+          "q": "A contemporary arrangement in Bengal after 1765, whereby the Company held real power over revenue collection while the Nawab retained nominal responsibility for administration and justice without accountability — a system blamed for contributing to the Bengal Famine of 1770 — is best described as?",
+          "o": [
+            "Permanent Settlement",
+            "Dual Government (Diarchy)",
+            "Ryotwari System",
+            "Doctrine of Lapse"
+          ],
+          "a": 1,
+          "e": "This arrangement, introduced by Clive, is known as the <b>Dual Government (Diarchy)</b> in Bengal — the Company enjoyed the substance of power (revenue) while the Nawab bore nominal responsibility, a system widely criticised for administrative chaos."
+        },
+        {
+          "q": "Consider the following statements regarding the Doctrine of Lapse: 1. It held that if a ruler died without a natural heir, the state would lapse to the paramount power unless adoption of an heir was sanctioned by the Company. 2. Satara, restored as a state by the British in 1818 after the Third Anglo-Maratha War, was itself annexed under the Doctrine of Lapse in 1848. 3. The doctrine could be applied only to states that were originally fully independent and never dependent on British protection. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the doctrine was controversially applied even to states like <b>Satara</b>, which was itself a British creation/dependent state, contradicting any claim that it applied only to originally independent states."
+        },
+        {
+          "q": "Consider the following statements on the Anglo-Mysore Wars: 1. The First Anglo-Mysore War (1767-69) ended in a stalemate with the Treaty of Madras, involving mutual restitution of conquests. 2. The Second Anglo-Mysore War (1780-84) ended with the Treaty of Mangalore, also involving mutual restitution of territories. 3. The Third Anglo-Mysore War (1790-92) ended with the Treaty of Seringapatam, under which Tipu Sultan ceded half his territories. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements accurately describe the outcomes of the first three <b>Anglo-Mysore Wars</b>, which progressively weakened Mysore before its final defeat in the fourth war (1799)."
+        },
+        {
+          "q": "Which of the following best explains why the British, in the initial phase of expansion under Wellesley, considered the Subsidiary Alliance system more advantageous than outright annexation?",
+          "o": [
+            "It allowed the British to control a state's foreign policy and station troops at the ruler's expense without the administrative burden of direct rule",
+            "It guaranteed the immediate abolition of all native armies across India",
+            "It was constitutionally mandated by the Regulating Act of 1773",
+            "It required allied rulers to convert to Christianity"
+          ],
+          "a": 0,
+          "e": "The <b>Subsidiary Alliance</b> gave the Company effective political and military control over allied states — including their external relations and finances — while avoiding the costs and risks of direct administration."
+        },
+        {
+          "q": "Consider the following statements: 1. Under the Subsidiary Alliance, a ruler had to disband his own army and accept a British force stationed in his territory, whose expenses he had to bear. 2. A ruler under Subsidiary Alliance could not enter into treaties with other Indian states without British approval, effectively ending independent foreign policy. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements correctly describe the core terms of the <b>Subsidiary Alliance</b>, which stripped allied rulers of military independence and control over foreign relations."
+        },
+        {
+          "q": "Consider the following statements regarding the Battle of Buxar (1764): 1. It established the East India Company as a major territorial power in eastern India even more decisively than Plassey had. 2. It resulted in the restoration of Awadh to Shuja-ud-Daula as a friendly buffer state. 3. It led immediately to the introduction of the Permanent Settlement in Bengal. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the <b>Permanent Settlement</b> came about three decades later, in 1793, not immediately after Buxar."
+        },
+        {
+          "q": "Cornwallis's Permanent Settlement is often criticised on the grounds that it?",
+          "o": [
+            "Fixed the state's revenue demand in perpetuity, allowing zamindars to benefit from future rises in agricultural output while the state's own income remained static",
+            "Directly reduced the revenue burden on the cultivating peasants (ryots)",
+            "Abolished the zamindari system altogether",
+            "Was applied uniformly across the whole of British India"
+          ],
+          "a": 0,
+          "e": "Critics note that fixing revenue <b>in perpetuity</b> meant that as production and prices rose over time, the gains accrued to zamindars rather than the state, while cultivators often faced continued exploitation."
+        },
+        {
+          "q": "Consider the following statements: 1. The Permanent Settlement (1793) fixed revenue with zamindars as intermediaries in Bengal, Bihar and Odisha. 2. The Ryotwari System, later applied in parts of Madras and Bombay presidencies, established a direct revenue settlement between the government and individual cultivators. 3. The Mahalwari System, applied in parts of North India, settled revenue with the village community or estate (mahal) as a unit. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three land revenue systems are correctly described — <b>Permanent Settlement</b> (zamindar-based, Bengal), <b>Ryotwari</b> (individual cultivator-based, Madras/Bombay), and <b>Mahalwari</b> (village/estate-based, North India)."
+        },
+        {
+          "q": "Which of the following sequences of Governors-General is in correct chronological order?",
+          "o": [
+            "Warren Hastings → Cornwallis → Wellesley → Dalhousie",
+            "Cornwallis → Warren Hastings → Wellesley → Dalhousie",
+            "Wellesley → Warren Hastings → Cornwallis → Dalhousie",
+            "Warren Hastings → Wellesley → Cornwallis → Dalhousie"
+          ],
+          "a": 0,
+          "e": "The correct order is <b>Warren Hastings (1773-85) → Cornwallis (1786-93) → Wellesley (1798-1805) → Dalhousie (1848-56)</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Francis Rawdon-Hastings (Lord Hastings), Governor-General from 1813 to 1823, pursued aggressive expansion, fighting the Anglo-Nepalese War and the Third Anglo-Maratha War. 2. It was during his tenure that British political supremacy over the Maratha Confederacy was finally established. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. <b>Lord Hastings</b> fought the Gorkhas (Treaty of Sugauli, 1816) and decisively defeated the Marathas in the Third Anglo-Maratha War (1817-18), ending Maratha independence."
+        },
+        {
+          "q": "The 'Ring Fence' policy, followed roughly till 1813 whereby the British largely avoided intervening in the internal affairs of neighbouring states and merely protected their own frontiers, was gradually replaced after 1813 by a policy best described as?",
+          "o": [
+            "Subordinate Isolation, where the Company controlled a state's external relations while allowing it internal autonomy",
+            "Doctrine of Lapse",
+            "Policy of Non-Intervention",
+            "Dyarchy"
+          ],
+          "a": 0,
+          "e": "Historians describe the post-1813 shift as <b>'Subordinate Isolation'</b> — the Company assumed control over the external relations of subordinate states through Subsidiary Alliances while allowing internal administrative autonomy, isolating them from each other and from outside powers."
+        },
+        {
+          "q": "Consider the following statements: 1. The Second Anglo-Sikh War (1848-49) was triggered partly by the revolt of Diwan Mulraj at Multan. 2. Maharaja Duleep Singh was deposed and Punjab was annexed by Lord Dalhousie in 1849. 3. The Kohinoor diamond was surrendered to the British Crown under the Treaty of Lahore (1846), following the First Anglo-Sikh War. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is wrong — the <b>Kohinoor</b> was surrendered as part of the terms imposed after the <b>annexation of Punjab in 1849</b>, not under the 1846 Treaty of Lahore."
+        },
+        {
+          "q": "Warren Hastings is often regarded as distinct from later Governors-General such as Wellesley in that he?",
+          "o": [
+            "Generally avoided interfering in the internal affairs of Indian states, focusing on consolidating existing Company territories rather than expansion through alliances",
+            "Introduced the Subsidiary Alliance system",
+            "Annexed Awadh outright to Company territory",
+            "Introduced the Permanent Settlement"
+          ],
+          "a": 0,
+          "e": "<b>Warren Hastings</b> largely pursued a policy of consolidating Company control within existing possessions rather than aggressive territorial expansion through alliance systems, which characterised Wellesley's tenure."
+        },
+        {
+          "q": "Consider the following statements: 1. The Charter Act of 1813 ended the East India Company's monopoly over trade with India but retained its monopoly over the China trade, including tea. 2. The Charter Act of 1833 ended the Company's China trade monopoly as well, reducing it to a purely administrative body. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. The <b>Charter Act of 1813</b> opened Indian trade to all British subjects but kept the China/tea monopoly, which the <b>Charter Act of 1833</b> then abolished, ending the Company's commercial character entirely."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_1857_revolt_reform_movements",
+    "title": "Revolt of 1857 & Socio-Religious Reform Movements",
+    "desc": "The Great Revolt and 19th century reform movements",
+    "questions": {
+      "basic": [
+        {
+          "q": "Mangal Pandey's act of defiance, often seen as the first spark of the Revolt of 1857, took place in March 1857 at?",
+          "o": [
+            "Meerut",
+            "Barrackpore",
+            "Kanpur",
+            "Lucknow"
+          ],
+          "a": 1,
+          "e": "<b>Mangal Pandey</b>, a sepoy of the 34th Bengal Native Infantry, attacked his officers at <b>Barrackpore</b> on 29 March 1857, and was executed shortly after."
+        },
+        {
+          "q": "The Revolt of 1857 broke out in full force with the mutiny of sepoys at which town on 10 May 1857?",
+          "o": [
+            "Delhi",
+            "Meerut",
+            "Kanpur",
+            "Jhansi"
+          ],
+          "a": 1,
+          "e": "The revolt erupted at <b>Meerut</b> on 10 May 1857, after sepoys refusing to use the new cartridges were court-martialled and imprisoned."
+        },
+        {
+          "q": "The rebels of 1857 proclaimed which figure as the Emperor of India, giving the revolt a symbolic centre?",
+          "o": [
+            "Wajid Ali Shah",
+            "Bahadur Shah Zafar",
+            "Nana Sahib",
+            "Bakht Khan"
+          ],
+          "a": 1,
+          "e": "<b>Bahadur Shah Zafar</b>, the last Mughal emperor confined to Delhi, was proclaimed the nominal leader/emperor by the rebel sepoys in 1857."
+        },
+        {
+          "q": "Rani Lakshmibai of Jhansi died fighting British forces near which place in June 1858?",
+          "o": [
+            "Kanpur",
+            "Gwalior",
+            "Lucknow",
+            "Delhi"
+          ],
+          "a": 1,
+          "e": "<b>Rani Lakshmibai</b> died fighting near <b>Gwalior</b> (Kotah-ki-Serai) in June 1858, after having earlier defended Jhansi against the British."
+        },
+        {
+          "q": "Nana Sahib, who led the revolt at Kanpur in 1857, was the adopted son of which Peshwa?",
+          "o": [
+            "Baji Rao I",
+            "Balaji Baji Rao",
+            "Baji Rao II",
+            "Madhav Rao"
+          ],
+          "a": 2,
+          "e": "<b>Nana Sahib</b> was the adopted son of the last Peshwa, <b>Baji Rao II</b>, whose pension the British had refused to continue after his death."
+        },
+        {
+          "q": "Tantia Tope, a key military leader of the Revolt of 1857, operated chiefly as a general for which rebel leader?",
+          "o": [
+            "Bahadur Shah Zafar",
+            "Nana Sahib",
+            "Begum Hazrat Mahal",
+            "Kunwar Singh"
+          ],
+          "a": 1,
+          "e": "<b>Tantia Tope</b> served as a military commander for <b>Nana Sahib</b>, fighting at Kanpur and later leading guerrilla operations in central India."
+        },
+        {
+          "q": "Begum Hazrat Mahal led the Revolt of 1857 in which region, placing her son Birjis Qadr on the throne?",
+          "o": [
+            "Jhansi",
+            "Awadh (Lucknow)",
+            "Bihar",
+            "Delhi"
+          ],
+          "a": 1,
+          "e": "<b>Begum Hazrat Mahal</b> led resistance in <b>Awadh</b>, declaring her young son Birjis Qadr as the ruler after the annexation of Awadh had angered the local population."
+        },
+        {
+          "q": "The immediate/proximate cause commonly cited for the outbreak of the Revolt of 1857 was?",
+          "o": [
+            "The introduction of greased cartridges for the new Enfield rifle",
+            "The Partition of Bengal",
+            "The Doctrine of Lapse",
+            "The Ilbert Bill controversy"
+          ],
+          "a": 0,
+          "e": "The introduction of cartridges greased with <b>cow and pig fat</b> for the Enfield rifle, which sepoys had to bite open, offended both Hindu and Muslim religious sentiments and triggered the mutiny."
+        },
+        {
+          "q": "Following the Revolt of 1857, which Act transferred the government of India from the East India Company to the British Crown?",
+          "o": [
+            "Charter Act, 1853",
+            "Government of India Act, 1858",
+            "Indian Councils Act, 1861",
+            "Pitt's India Act, 1784"
+          ],
+          "a": 1,
+          "e": "The <b>Government of India Act, 1858</b> ended Company rule and transferred administration of India directly to the British Crown."
+        },
+        {
+          "q": "Who was appointed as the first Viceroy of India under the Government of India Act, 1858?",
+          "o": [
+            "Lord Dalhousie",
+            "Lord Canning",
+            "Lord Lytton",
+            "Lord Ripon"
+          ],
+          "a": 1,
+          "e": "<b>Lord Canning</b>, who was already Governor-General, became the first Viceroy of India when the Crown assumed direct control in 1858."
+        },
+        {
+          "q": "The practice of Sati (widow immolation) was legally abolished in Bengal Presidency in 1829 under which Governor-General?",
+          "o": [
+            "Lord Cornwallis",
+            "Lord William Bentinck",
+            "Lord Dalhousie",
+            "Lord Canning"
+          ],
+          "a": 1,
+          "e": "<b>Lord William Bentinck</b>, through Regulation XVII of 1829, declared Sati illegal and punishable, with strong support from reformer Raja Ram Mohan Roy."
+        },
+        {
+          "q": "Raja Ram Mohan Roy founded the Brahmo Samaj in which year?",
+          "o": [
+            "1815",
+            "1828",
+            "1857",
+            "1875"
+          ],
+          "a": 1,
+          "e": "<b>Raja Ram Mohan Roy</b> founded the <b>Brahmo Samaj</b> in Calcutta in <b>1828</b> to propagate monotheism and oppose idol worship and social evils."
+        },
+        {
+          "q": "The Arya Samaj was founded by Swami Dayanand Saraswati in which year?",
+          "o": [
+            "1857",
+            "1867",
+            "1875",
+            "1885"
+          ],
+          "a": 2,
+          "e": "<b>Swami Dayanand Saraswati</b> founded the <b>Arya Samaj</b> in Bombay in <b>1875</b>, calling for a return to Vedic principles."
+        },
+        {
+          "q": "The Ramakrishna Mission was founded by Swami Vivekananda in which year, in memory of his guru Ramakrishna Paramahamsa?",
+          "o": [
+            "1875",
+            "1885",
+            "1897",
+            "1905"
+          ],
+          "a": 2,
+          "e": "<b>Swami Vivekananda</b> founded the <b>Ramakrishna Mission</b> in <b>1897</b>, combining spiritual practice with social and humanitarian service."
+        },
+        {
+          "q": "The Theosophical Society was founded in 1875 in New York by which two individuals?",
+          "o": [
+            "Annie Besant and Charles Bradlaugh",
+            "Madame H.P. Blavatsky and Colonel Henry Steel Olcott",
+            "Sister Nivedita and Vivekananda",
+            "Ramakrishna and Vivekananda"
+          ],
+          "a": 1,
+          "e": "The <b>Theosophical Society</b> was founded in New York in 1875 by <b>Madame Blavatsky</b> and <b>Colonel Olcott</b>; its headquarters later moved to Adyar, Madras."
+        },
+        {
+          "q": "Sir Syed Ahmad Khan founded the Mohammedan Anglo-Oriental College at Aligarh in 1875 with the primary aim of?",
+          "o": [
+            "Promoting modern Western/scientific education among Indian Muslims",
+            "Organising armed resistance against British rule",
+            "Promoting the Urdu-Hindi script controversy",
+            "Founding the Muslim League"
+          ],
+          "a": 0,
+          "e": "Sir Syed Ahmad Khan established the college at <b>Aligarh</b> to encourage Muslims to acquire <b>modern Western education</b>, later evolving into Aligarh Muslim University in 1920."
+        },
+        {
+          "q": "The Hindu Widows' Remarriage Act, 1856, legalising the remarriage of Hindu widows, was passed chiefly due to the efforts of?",
+          "o": [
+            "Ishwar Chandra Vidyasagar",
+            "Raja Ram Mohan Roy",
+            "Swami Dayanand Saraswati",
+            "Jyotiba Phule"
+          ],
+          "a": 0,
+          "e": "<b>Ishwar Chandra Vidyasagar</b>'s writings and petitions were instrumental in securing the passage of the Hindu Widows' Remarriage Act in 1856."
+        },
+        {
+          "q": "Bakht Khan, who commanded rebel sepoy forces in Delhi during the Revolt of 1857, held which position under Bahadur Shah Zafar?",
+          "o": [
+            "Prime Minister",
+            "Commander-in-Chief of the rebel forces",
+            "Governor of Awadh",
+            "Chief Justice"
+          ],
+          "a": 1,
+          "e": "<b>Bakht Khan</b>, a subedar from Bareilly, was appointed <b>Commander-in-Chief</b> of the rebel troops in Delhi by Bahadur Shah Zafar."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements: 1. The Revolt of 1857 began at Meerut on 10 May 1857 following the mutiny of sepoys. 2. It subsequently spread to Delhi, where the rebels proclaimed Bahadur Shah Zafar as the emperor of India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. The mutiny at <b>Meerut</b> quickly spread to <b>Delhi</b>, where the Mughal emperor was declared the symbolic head of the rebellion."
+        },
+        {
+          "q": "Consider the following pairs of leaders and their centres of the Revolt of 1857: 1. Nana Sahib - Kanpur. 2. Rani Lakshmibai - Jhansi. 3. Kunwar Singh - Arrah (Bihar). How many of the above pairs are correctly matched?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three pairs are correctly matched. <b>Nana Sahib</b> led at Kanpur, <b>Rani Lakshmibai</b> at Jhansi, and <b>Kunwar Singh</b> led the revolt around Arrah in Bihar."
+        },
+        {
+          "q": "Consider the following statements: 1. The Revolt of 1857 was immediately triggered by the introduction of Enfield rifle cartridges greased with cow and pig fat. 2. Economic grievances such as high land revenue demands and the ruin of traditional artisans contributed to widespread discontent before 1857. 3. The annexation of Awadh had no bearing on the revolt, as Awadh remained peaceful throughout. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — <b>Awadh</b>, particularly Lucknow, was one of the most intense centres of the revolt, its recent annexation being a major grievance."
+        },
+        {
+          "q": "Which of the following best describes the significance of the Government of India Act, 1858?",
+          "o": [
+            "It transferred the government of India from the East India Company to the British Crown",
+            "It established the Indian National Congress",
+            "It introduced separate electorates for Muslims",
+            "It provided for the Partition of Bengal"
+          ],
+          "a": 0,
+          "e": "The <b>Government of India Act, 1858</b> ended Company rule following the revolt, placing India directly under the British Crown and Parliament."
+        },
+        {
+          "q": "Consider the following statements: 1. Raja Ram Mohan Roy founded the Brahmo Samaj in 1828 to propagate monotheism and oppose idol worship. 2. He played a key role in the campaign that led to the legal abolition of Sati in 1829. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. <b>Ram Mohan Roy</b> founded the Brahmo Samaj and was a leading campaigner whose efforts supported Bentinck's abolition of Sati."
+        },
+        {
+          "q": "Consider the following statements: 1. Swami Dayanand Saraswati founded the Arya Samaj in 1875 with the call 'Back to the Vedas'. 2. The Arya Samaj rejected idol worship and caste distinctions based on birth. 3. The Arya Samaj supported the continuation of Sati as sanctioned by Vedic tradition. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the <b>Arya Samaj</b> actively opposed Sati, child marriage, and other social evils, rather than endorsing them."
+        },
+        {
+          "q": "The Ramakrishna Mission, founded by Swami Vivekananda in 1897, is primarily known for combining which two aspects?",
+          "o": [
+            "Spiritual practice (Vedanta) with social service and humanitarian work",
+            "Political agitation with armed resistance",
+            "Islamic reform with Western education",
+            "Caste abolition with electoral reform"
+          ],
+          "a": 0,
+          "e": "The Ramakrishna Mission uniquely combined <b>Vedantic spirituality</b> with organised <b>social service</b>, including education, healthcare, and disaster relief."
+        },
+        {
+          "q": "Consider the following statements: 1. The Theosophical Society was founded in New York in 1875 by Madame H.P. Blavatsky and Colonel Henry Steel Olcott. 2. Annie Besant joined the Theosophical Society in India and later served as its international President from 1907. 3. The Society sought to revive and promote the study of Hindu, Buddhist and other Eastern philosophies. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct, describing the founding, later leadership under <b>Annie Besant</b>, and the philosophical orientation of the <b>Theosophical Society</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Sir Syed Ahmad Khan founded the Mohammedan Anglo-Oriental College at Aligarh in 1875 to promote modern Western education among Muslims. 2. He was a strong advocate of Muslims joining the Indian National Congress from its inception in 1885. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is false — Sir Syed actually <b>discouraged Muslims from joining the Congress</b>, believing political agitation premature and advising them to focus on education instead."
+        },
+        {
+          "q": "The Widow Remarriage Act of 1856, legalising the remarriage of Hindu widows, was passed chiefly due to the efforts of?",
+          "o": [
+            "Ishwar Chandra Vidyasagar",
+            "Raja Ram Mohan Roy",
+            "Swami Dayanand Saraswati",
+            "Jyotiba Phule"
+          ],
+          "a": 0,
+          "e": "<b>Ishwar Chandra Vidyasagar</b>'s sustained campaign, drawing on Hindu scriptural arguments, led to the passage of the Widow Remarriage Act, 1856."
+        },
+        {
+          "q": "Consider the following statements regarding leaders of the Revolt of 1857: 1. Bakht Khan led the rebel sepoys at Delhi and was appointed commander-in-chief by Bahadur Shah Zafar. 2. Maulvi Ahmadullah Shah led the revolt at Faizabad. 3. Rani Lakshmibai died fighting the British forces at Kanpur. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — <b>Rani Lakshmibai</b> died fighting near <b>Gwalior</b> in June 1858, not at Kanpur."
+        },
+        {
+          "q": "Which of the following was NOT one of the immediate/proximate causes commonly cited for the outbreak of the Revolt of 1857?",
+          "o": [
+            "Introduction of greased cartridges for the Enfield rifle",
+            "Annexation of Awadh by Lord Dalhousie",
+            "Formation of the Indian National Congress",
+            "Belief that the British sought to interfere with religion through the new cartridges"
+          ],
+          "a": 2,
+          "e": "The <b>Indian National Congress</b> was formed in 1885, nearly three decades after the revolt, and could not have been a cause of it."
+        },
+        {
+          "q": "Consider the following statements: 1. The Revolt of 1857 was largely suppressed by mid-1858 with the fall of Gwalior. 2. Bahadur Shah Zafar was tried and exiled to Rangoon, where he died in 1862. 3. The revolt led directly to the introduction of the Government of India Act, 1919. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the revolt directly resulted in the <b>Government of India Act, 1858</b>, not the 1919 Act, which came much later."
+        },
+        {
+          "q": "Which social reform movement is most closely associated with the call 'Back to the Vedas'?",
+          "o": [
+            "Brahmo Samaj",
+            "Arya Samaj",
+            "Ramakrishna Mission",
+            "Theosophical Society"
+          ],
+          "a": 1,
+          "e": "The <b>Arya Samaj</b>, founded by Swami Dayanand Saraswati, propagated the slogan 'Back to the Vedas', treating the Vedas as the ultimate source of true knowledge."
+        },
+        {
+          "q": "Consider the following statements: 1. The Brahmo Samaj, founded by Raja Ram Mohan Roy, rejected idol worship and upheld the unity of God, drawing on Upanishadic monotheism. 2. Under Keshab Chandra Sen's leadership, the Brahmo Samaj later split, giving rise to the Sadharan Brahmo Samaj. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. Disagreements over <b>Keshab Chandra Sen's</b> leadership led progressive members to form the <b>Sadharan Brahmo Samaj</b> in 1878."
+        },
+        {
+          "q": "The Government of India Act, 1858 replaced the Company's Board of Control and Court of Directors with which new authority in Britain?",
+          "o": [
+            "Secretary of State for India, assisted by a Council of India",
+            "Parliament of India",
+            "Privy Council alone",
+            "Governor-General-in-Council alone"
+          ],
+          "a": 0,
+          "e": "The Act created the post of <b>Secretary of State for India</b>, a member of the British Cabinet, assisted by an advisory Council of India, to oversee Indian administration."
+        },
+        {
+          "q": "Consider the following statements: 1. The Revolt of 1857 was largely confined to the Bengal Army and did not significantly affect the Bombay and Madras armies. 2. Nana Sahib's claim to continuation of the Peshwa's pension had been rejected by the British before the revolt. 3. The revolt saw active participation of both sepoys and sections of the civilian population, including talukdars in Awadh. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct, reflecting the concentration of the revolt in the Bengal Army's territories, Nana Sahib's specific grievance, and its broader social base including Awadh's <b>talukdars</b>."
+        },
+        {
+          "q": "Which of the following reform movements is most associated with promoting practical social service alongside monastic spiritual life, encapsulated in the idea of seeing service to the poor as service to God ('Daridra Narayan Seva')?",
+          "o": [
+            "Ramakrishna Mission",
+            "Arya Samaj",
+            "Aligarh Movement",
+            "Theosophical Society"
+          ],
+          "a": 0,
+          "e": "The <b>Ramakrishna Mission</b>, inspired by Vivekananda's philosophy, popularised the idea of serving the poor and suffering as a form of worship."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. Several colonial-era British historians described the events of 1857 merely as a 'sepoy mutiny' confined to the army. 2. V.D. Savarkar, in his work, characterised the events of 1857 as the 'First War of Indian Independence', a nationalist uprising. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct, reflecting the sharply differing colonial and nationalist historiographical interpretations of the events of <b>1857</b>."
+        },
+        {
+          "q": "Consider the following statements on the nature of the Revolt of 1857: 1. It had elements of a peasant uprising against oppressive revenue settlements, alongside sepoy discontent. 2. It received the active support of most of the newly educated Indian middle class and intelligentsia in Bengal and Bombay. 3. It lacked a coherent, unified national leadership or ideology across its different centres of rebellion. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is false — the Western-educated <b>middle class</b> in Bengal and Bombay largely remained aloof from, or even opposed, the revolt."
+        },
+        {
+          "q": "Consider the following statements: 1. Bahadur Shah Zafar was proclaimed the symbolic leader by rebels of diverse regions and religions, lending Mughal legitimacy to the uprising. 2. After the revolt, he was tried for treason by a British military commission and exiled to Rangoon in 1858. 3. The Mughal dynasty was formally abolished by an explicit clause in the Government of India Act, 1858. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the <b>Government of India Act, 1858</b> dealt with the transfer of governance to the Crown; the practical end of Mughal rule came through Bahadur Shah Zafar's trial and exile, not any specific abolition clause in the Act."
+        },
+        {
+          "q": "Queen Victoria's Proclamation of 1858, read out at Allahabad, is significant chiefly because it?",
+          "o": [
+            "Promised non-interference in religious matters and equal treatment of Indians under law, while assuring princely states of respect for existing treaties",
+            "Introduced separate electorates for Muslims",
+            "Announced the Partition of Bengal",
+            "Established the Indian Civil Service examination to be held in India"
+          ],
+          "a": 0,
+          "e": "The <b>1858 Proclamation</b> assured religious non-interference, equal treatment before law, and respect for princely treaty rights, marking a shift in policy after the revolt."
+        },
+        {
+          "q": "Consider the following statements: 1. Raja Ram Mohan Roy supported the introduction of English/Western education in India, including backing institutions like the Hindu College. 2. He also campaigned for freedom of the press and opposed repressive press regulations in British India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. <b>Ram Mohan Roy</b> championed modern education and also protested against restrictive press laws imposed by the colonial government."
+        },
+        {
+          "q": "Consider the following statements about the Arya Samaj: 1. It opposed idol worship, polytheism, and priestly intermediation in worship. 2. It initiated the 'Shuddhi' movement for the reconversion of individuals who had converted to other religions back to Hinduism. 3. It fully endorsed the existing hereditary caste (varna) system as prescribed in the Vedas, without reform. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the <b>Arya Samaj</b> opposed caste based on birth, advocating a system based on merit and function (guna-karma) rather than the existing hereditary hierarchy."
+        },
+        {
+          "q": "Consider the following statements: 1. The Aligarh Movement, led by Sir Syed Ahmad Khan, promoted modern scientific and Western education among Indian Muslims. 2. Sir Syed Ahmad Khan supported Muslims joining the Indian National Congress to secure political rights jointly with Hindus. 3. Sir Syed Ahmad Khan founded the Scientific Society to translate Western works into Urdu. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct. Statement 2 is false — Sir Syed actually <b>discouraged Muslim participation in the Congress</b>, and instead founded bodies like the United Patriotic Association to promote separate Muslim political interests."
+        },
+        {
+          "q": "Which of the following best distinguishes the approach of the Brahmo Samaj from that of the Arya Samaj toward scriptural authority?",
+          "o": [
+            "The Brahmo Samaj did not accept the infallibility of any single scripture and drew eclectically from multiple traditions, while the Arya Samaj upheld the Vedas as the ultimate and infallible source of truth",
+            "The Arya Samaj rejected the Vedas entirely in favour of the Upanishads",
+            "The Brahmo Samaj considered the Vedas infallible while the Arya Samaj rejected all scriptures",
+            "Both movements rejected all scriptural authority equally"
+          ],
+          "a": 0,
+          "e": "The <b>Brahmo Samaj</b> took an eclectic, rationalist approach to scripture, while the <b>Arya Samaj</b> insisted on the unique infallibility of the Vedas as its foundational text."
+        },
+        {
+          "q": "Consider the following statements: 1. The Theosophical Society, under Annie Besant, actively supported the Home Rule Movement in India during the First World War. 2. Annie Besant was elected President of the Indian National Congress in 1917. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. <b>Annie Besant</b> led the Home Rule Movement and became the first woman President of the <b>Indian National Congress</b> in 1917 (Calcutta session)."
+        },
+        {
+          "q": "Consider the following statements on the 19th century socio-religious reform movements: 1. The Brahmo Samaj movement was largely confined to Bengal and had limited pan-Indian following in its initial decades. 2. The Arya Samaj had a comparatively stronger base in Punjab and western Uttar Pradesh than in Bengal. 3. The Ramakrishna Mission, unlike the Brahmo and Arya Samaj, did not undertake any critique of idol worship or polytheistic practice. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements correctly capture the regional concentration of the <b>Brahmo Samaj</b> (Bengal) and <b>Arya Samaj</b> (Punjab/western UP), and the more accommodating stance of the <b>Ramakrishna Mission</b> toward image worship, in line with Ramakrishna's own devotional practice."
+        },
+        {
+          "q": "Which of the following correctly captures a key difference between the Sati Regulation of 1829 and the Widow Remarriage Act of 1856?",
+          "o": [
+            "The 1829 Regulation banned the practice of Sati, while the 1856 Act legalised the remarriage of Hindu widows",
+            "Both dealt with banning child marriage",
+            "The 1829 Regulation was passed by the British Parliament while the 1856 Act was passed by Company courts",
+            "The 1856 Act preceded the 1829 Regulation"
+          ],
+          "a": 0,
+          "e": "The <b>1829 Regulation</b> (Bentinck) prohibited Sati, while the separate <b>1856 Act</b> (under Canning, driven by Vidyasagar's campaign) legalised the remarriage of Hindu widows."
+        },
+        {
+          "q": "Consider the following statements: 1. Lord William Bentinck's Regulation XVII of 1829 declared the practice of Sati illegal and punishable as culpable homicide within the Bengal Presidency. 2. The regulation was subsequently extended, with modifications, to the Madras and Bombay Presidencies. 3. The abolition of Sati faced no significant legal or public challenge from conservative sections of society. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — conservative Hindus, led by the <b>Dharma Sabha</b> under Radhakanta Deb, challenged the regulation before the Privy Council, which upheld the ban in 1832."
+        },
+        {
+          "q": "The formation of the Sadharan Brahmo Samaj in 1878 was primarily a consequence of?",
+          "o": [
+            "A split following disagreement over Keshab Chandra Sen's leadership and the controversial 'Cooch Behar marriage' involving a minor",
+            "A dispute over the abolition of Sati",
+            "Disagreement over support for the Revolt of 1857",
+            "A dispute over the founding of Aligarh College"
+          ],
+          "a": 0,
+          "e": "Progressive Brahmos broke away to form the <b>Sadharan Brahmo Samaj</b> in 1878 after Keshab Chandra Sen married his minor daughter to the Maharaja of Cooch Behar in a manner seen as contradicting reformist principles."
+        },
+        {
+          "q": "Consider the following statements: 1. Ishwar Chandra Vidyasagar was a key figure behind the legalisation of Hindu widow remarriage through his writings and petitions. 2. He also played the leading role in securing the legal abolition of Sati in 1829. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is false — the abolition of <b>Sati in 1829</b> predates Vidyasagar's public career; that campaign was led chiefly by <b>Raja Ram Mohan Roy</b>, with Governor-General Bentinck's support."
+        },
+        {
+          "q": "Consider the following statements regarding the geographical spread of the Revolt of 1857: 1. The revolt significantly affected Delhi, Awadh (Lucknow), Kanpur, Jhansi, Bareilly and Arrah. 2. It had comparatively limited impact in Punjab, partly owing to recent annexation and a heavy British military presence there. 3. It had virtually no significant impact in Madras and most of Bombay Presidency. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements correctly describe the uneven geographical spread of the revolt, which was concentrated in northern and central India, with Punjab, Madras and most of Bombay remaining largely unaffected."
+        },
+        {
+          "q": "Which of the following was a long-term structural cause, rather than an immediate trigger, of the Revolt of 1857?",
+          "o": [
+            "The disruption of traditional landholding and rule (through measures like the Doctrine of Lapse and revenue settlements) that alienated princes, taluqdars and peasants alike",
+            "The introduction of the greased cartridges for the Enfield rifle",
+            "The court-martial of an individual sepoy for refusing to bite a cartridge",
+            "The refusal of a single Awadh cavalry regiment to use the new cartridges"
+          ],
+          "a": 0,
+          "e": "While the cartridge issue was the immediate spark, the deeper structural causes lay in decades of <b>political, economic and social disruption</b> — annexations, revenue policies, and displacement of traditional elites."
+        },
+        {
+          "q": "Consider the following statements: 1. Vasudev Balwant Phadke organised an armed uprising in Maharashtra in the 1870s, drawing partly on Ramosi support. 2. This uprising is generally classified by historians as part of the same Revolt of 1857. 3. Phadke's uprising occurred nearly two decades after the Revolt of 1857 had already been suppressed. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct. Statement 2 is false — <b>Phadke's uprising</b> (1879) is treated as a distinct, later episode of armed resistance, separate from the 1857 revolt."
+        },
+        {
+          "q": "The 'Young Bengal Movement', associated with Henry Louis Vivian Derozio and his followers at Hindu College in the late 1820s-1830s, is best characterised as?",
+          "o": [
+            "A radical intellectual movement questioning religious orthodoxy, superstition, and social conservatism through free-thinking and rationalism",
+            "A political movement demanding immediate self-government",
+            "An armed rebellion against Company rule",
+            "A movement for the revival of Vedic ritualism"
+          ],
+          "a": 0,
+          "e": "The <b>Young Bengal Movement</b>, inspired by Derozio, promoted radical rationalism and critique of orthodox Hindu social customs among educated youth in Calcutta."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_national_movement",
+    "title": "Indian National Movement (1885-1947)",
+    "desc": "From the Congress's founding to Independence and Partition",
+    "questions": {
+      "basic": [
+        {
+          "q": "The Indian National Congress was founded in which year?",
+          "o": [
+            "1875",
+            "1885",
+            "1905",
+            "1916"
+          ],
+          "a": 1,
+          "e": "The <b>Indian National Congress</b> was founded in <b>1885</b>, with its first session held in Bombay."
+        },
+        {
+          "q": "Who is credited as the founder/organiser of the Indian National Congress in 1885?",
+          "o": [
+            "A.O. Hume",
+            "W.C. Bonnerjee",
+            "Dadabhai Naoroji",
+            "Surendranath Banerjee"
+          ],
+          "a": 0,
+          "e": "<b>Allan Octavian Hume</b>, a retired British civil servant, played the key role in organising the first session of the Indian National Congress."
+        },
+        {
+          "q": "Who presided over the first session of the Indian National Congress in Bombay in 1885?",
+          "o": [
+            "Dadabhai Naoroji",
+            "W.C. Bonnerjee",
+            "Surendranath Banerjee",
+            "Badruddin Tyabji"
+          ],
+          "a": 1,
+          "e": "<b>Womesh Chandra Bonnerjee</b> presided over the first INC session held in Bombay in December 1885."
+        },
+        {
+          "q": "The Partition of Bengal, which sparked the Swadeshi Movement, was carried out in 1905 by which Viceroy?",
+          "o": [
+            "Lord Curzon",
+            "Lord Minto",
+            "Lord Hardinge",
+            "Lord Chelmsford"
+          ],
+          "a": 0,
+          "e": "<b>Lord Curzon</b> partitioned Bengal in 1905, officially for administrative convenience, though widely seen as a move to weaken Bengali nationalism."
+        },
+        {
+          "q": "The Swadeshi Movement (from 1905) was launched primarily in response to which event?",
+          "o": [
+            "The Partition of Bengal",
+            "The Jallianwala Bagh massacre",
+            "The Rowlatt Act",
+            "The Simon Commission's arrival"
+          ],
+          "a": 0,
+          "e": "The <b>Swadeshi Movement</b>, involving boycott of foreign goods and promotion of indigenous industry, arose directly in protest against the <b>Partition of Bengal</b>."
+        },
+        {
+          "q": "The Indian National Congress split into Moderate and Extremist factions at which 1907 session?",
+          "o": [
+            "Surat Session",
+            "Lahore Session",
+            "Calcutta Session",
+            "Nagpur Session"
+          ],
+          "a": 0,
+          "e": "The Congress split into <b>Moderates and Extremists</b> at the <b>Surat Session</b> of 1907, a division that lasted about a decade."
+        },
+        {
+          "q": "The Morley-Minto Reforms (Indian Councils Act) were enacted in which year, introducing separate electorates for Muslims?",
+          "o": [
+            "1892",
+            "1909",
+            "1919",
+            "1935"
+          ],
+          "a": 1,
+          "e": "The <b>Indian Councils Act, 1909</b> (Morley-Minto Reforms) enlarged legislative councils and, controversially, introduced <b>separate electorates</b> for Muslims."
+        },
+        {
+          "q": "The Lucknow Pact of 1916, marking cooperation between the Congress and the Muslim League, was signed in which year?",
+          "o": [
+            "1909",
+            "1916",
+            "1919",
+            "1920"
+          ],
+          "a": 1,
+          "e": "The <b>Lucknow Pact (1916)</b> saw the Congress and the All India Muslim League jointly present demands, with Congress accepting separate electorates for Muslims."
+        },
+        {
+          "q": "The Home Rule League movement of 1916 was jointly led by Bal Gangadhar Tilak and which other leader?",
+          "o": [
+            "Annie Besant",
+            "Sarojini Naidu",
+            "Bipin Chandra Pal",
+            "Lala Lajpat Rai"
+          ],
+          "a": 0,
+          "e": "<b>Bal Gangadhar Tilak</b> and <b>Annie Besant</b> separately organised Home Rule Leagues in 1916, demanding self-government for India along the lines of the Irish Home Rule movement."
+        },
+        {
+          "q": "Gandhi's first major Satyagraha in India, launched in 1917 on behalf of indigo cultivators, took place at?",
+          "o": [
+            "Kheda",
+            "Champaran",
+            "Ahmedabad",
+            "Bardoli"
+          ],
+          "a": 1,
+          "e": "The <b>Champaran Satyagraha (1917)</b> in Bihar addressed the grievances of indigo cultivators forced to grow indigo under the oppressive 'tinkathia' system."
+        },
+        {
+          "q": "The Kheda Satyagraha of 1918, led by Gandhi, was launched on behalf of peasants in Gujarat demanding?",
+          "o": [
+            "Remission of land revenue after crop failure",
+            "Abolition of the salt tax",
+            "Higher wages for mill workers",
+            "Release of political prisoners"
+          ],
+          "a": 0,
+          "e": "The <b>Kheda Satyagraha (1918)</b> supported peasants seeking remission of land revenue after crop failure and plague in the region."
+        },
+        {
+          "q": "The Rowlatt Act, which allowed detention without trial and was dubbed a 'black act' by Indians, was passed in which year?",
+          "o": [
+            "1909",
+            "1919",
+            "1929",
+            "1935"
+          ],
+          "a": 1,
+          "e": "The <b>Rowlatt Act of 1919</b> empowered the government to detain suspects without trial, provoking widespread protests across India."
+        },
+        {
+          "q": "The Jallianwala Bagh massacre took place on 13 April 1919 in which city, under whose orders?",
+          "o": [
+            "Amritsar, under General Reginald Dyer",
+            "Lahore, under General Dyer",
+            "Delhi, under Lord Chelmsford",
+            "Amritsar, under Michael O'Dwyer"
+          ],
+          "a": 0,
+          "e": "On 13 April 1919, troops under <b>General Reginald Dyer</b> fired on an unarmed crowd gathered at <b>Jallianwala Bagh in Amritsar</b>, killing hundreds."
+        },
+        {
+          "q": "The Non-Cooperation Movement, launched in 1920, was withdrawn by Gandhi in February 1922 following which incident?",
+          "o": [
+            "Chauri Chaura incident",
+            "Jallianwala Bagh massacre",
+            "Chittagong Armoury Raid",
+            "Simon Commission protests"
+          ],
+          "a": 0,
+          "e": "Gandhi withdrew the <b>Non-Cooperation Movement</b> after the <b>Chauri Chaura incident</b> (February 1922), where a violent mob set fire to a police station."
+        },
+        {
+          "q": "The Dandi March, marking the start of the Civil Disobedience Movement, began on 12 March 1930 from Sabarmati Ashram to which coastal village?",
+          "o": [
+            "Dandi",
+            "Porbandar",
+            "Surat",
+            "Bardoli"
+          ],
+          "a": 0,
+          "e": "Gandhi walked about 240 miles from Sabarmati Ashram to the coastal village of <b>Dandi</b>, arriving on 6 April 1930 to break the salt law."
+        },
+        {
+          "q": "The Government of India Act, 1935 chiefly provided for?",
+          "o": [
+            "Provincial autonomy and a proposed All India Federation",
+            "Separate electorates for the first time",
+            "The Partition of Bengal",
+            "The transfer of power to an independent India"
+          ],
+          "a": 0,
+          "e": "The <b>Government of India Act, 1935</b> introduced provincial autonomy and proposed an All India Federation (which never materialised due to lack of princely state accession)."
+        },
+        {
+          "q": "The Quit India Movement, with its 'Do or Die' call, was launched by Gandhi in which year?",
+          "o": [
+            "1930",
+            "1935",
+            "1942",
+            "1946"
+          ],
+          "a": 2,
+          "e": "The <b>Quit India Movement</b> was launched on 8 August 1942, with Gandhi's call to 'Do or Die' for immediate independence."
+        },
+        {
+          "q": "Subhas Chandra Bose organised the Indian National Army (Azad Hind Fauj) with the support of which foreign power during World War II?",
+          "o": [
+            "Germany",
+            "Japan",
+            "Italy",
+            "Soviet Union"
+          ],
+          "a": 1,
+          "e": "<b>Subhas Chandra Bose</b> reorganised the Indian National Army with <b>Japanese</b> support, leading it in campaigns against the British in Southeast Asia and towards India's northeastern frontier."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements: 1. A.O. Hume, a retired British civil servant, was the founding secretary of the Indian National Congress in 1885. 2. Some historians propose the 'safety valve' theory, suggesting the Congress was encouraged by certain officials to channel growing political discontent into constitutional avenues. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. <b>A.O. Hume</b> was central to organising the Congress, and the <b>'safety valve' theory</b> is a recognised (though debated) historical interpretation of its origins."
+        },
+        {
+          "q": "Consider the following statements: 1. The Moderates dominated the Congress from 1885 to 1905, favouring constitutional methods like petitions and resolutions. 2. The Extremists, led by leaders like Tilak, favoured mass mobilisation and gained prominence after 1905. 3. The Congress split at the Surat session in 1907 primarily over the choice of session president, unrelated to any ideological difference. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the <b>Surat split</b> was fundamentally an ideological clash between Moderates and Extremists over methods and goals, not merely a dispute over the presidency."
+        },
+        {
+          "q": "Consider the following statements: 1. The Partition of Bengal (1905) was officially justified by Curzon on administrative grounds. 2. It was widely perceived by Indians as a strategy to weaken Bengali nationalism by dividing the province along communal lines. 3. The Swadeshi Movement that followed included the boycott of British goods and promotion of indigenous industries. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct, capturing the official justification, popular perception, and the economic dimension of the <b>Swadeshi Movement</b> that followed the partition."
+        },
+        {
+          "q": "Bengal was reunited in 1911, and at the same Delhi Durbar it was announced that the capital of British India would be shifted from Calcutta to?",
+          "o": [
+            "Delhi",
+            "Shimla",
+            "Lucknow",
+            "Bombay"
+          ],
+          "a": 0,
+          "e": "At the 1911 Delhi Durbar, King George V announced the annulment of the Bengal partition and the transfer of the capital from Calcutta to <b>Delhi</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The Morley-Minto Reforms (Indian Councils Act, 1909) introduced separate electorates for Muslims. 2. The reforms introduced direct elections to all seats in the legislative councils, entirely replacing the earlier system of nomination. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is false — the reforms only introduced a <b>limited elective principle</b> and expanded council size; nominated members continued to exist alongside elected ones."
+        },
+        {
+          "q": "Consider the following statements regarding the Lucknow Pact (1916): 1. It was an agreement between the Indian National Congress and the All India Muslim League. 2. The Congress accepted the principle of separate electorates for Muslims. 3. It marked a notable phase of Hindu-Muslim political unity in the national movement. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct. The <b>Lucknow Pact</b> united Congress and the Muslim League on common political demands, with Congress conceding separate electorates."
+        },
+        {
+          "q": "The Home Rule Movement of 1916, which demanded self-government for India, drew its name and inspiration from a similar movement in which country?",
+          "o": [
+            "Ireland",
+            "South Africa",
+            "Canada",
+            "Australia"
+          ],
+          "a": 0,
+          "e": "The <b>Home Rule Movement</b> was inspired by the Irish Home Rule agitation, seeking self-government within the British Empire."
+        },
+        {
+          "q": "Consider the following statements: 1. The Champaran Satyagraha (1917) addressed grievances of indigo cultivators forced to grow indigo under the 'tinkathia' system. 2. The Kheda Satyagraha (1918) demanded remission of land revenue after crop failure. 3. The Ahmedabad mill strike (1918) involved Gandhi's intervention in a wage dispute, including a fast unto death. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements correctly describe Gandhi's early local interventions in India — at <b>Champaran, Kheda, and Ahmedabad</b> — before he assumed national leadership of the freedom movement."
+        },
+        {
+          "q": "Consider the following statements: 1. The Rowlatt Act (1919) allowed detention of suspects without trial. 2. It was passed based on the recommendations of a committee headed by Justice Sidney Rowlatt. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. The <b>Rowlatt Act</b> drew on the recommendations of the Rowlatt Committee (Sedition Committee) and permitted detention without trial."
+        },
+        {
+          "q": "The Jallianwala Bagh massacre (13 April 1919) occurred in Amritsar on the occasion of which festival, when large crowds had gathered?",
+          "o": [
+            "Baisakhi",
+            "Diwali",
+            "Holi",
+            "Lohri"
+          ],
+          "a": 0,
+          "e": "The massacre occurred on <b>Baisakhi</b>, a major Punjabi harvest festival, when a large crowd had gathered at Jallianwala Bagh, many unaware of the assembly ban in place."
+        },
+        {
+          "q": "Consider the following statements: 1. The Non-Cooperation Movement (1920-22) was launched in conjunction with the Khilafat Movement. 2. Gandhi withdrew the movement after the Chauri Chaura incident of February 1922, in which a mob burnt a police station. 3. The Non-Cooperation programme called for boycott of foreign goods and legislative councils, but excluded government schools and colleges from the boycott call. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the movement explicitly called for boycotting <b>government schools and colleges</b> as well, encouraging enrolment in national institutions instead."
+        },
+        {
+          "q": "The Dandi March (Salt March), starting from Sabarmati Ashram and covering about 240 miles to the coastal village of Dandi, marked the beginning of which movement?",
+          "o": [
+            "Non-Cooperation Movement",
+            "Civil Disobedience Movement",
+            "Quit India Movement",
+            "Khilafat Movement"
+          ],
+          "a": 1,
+          "e": "The <b>Dandi March (1930)</b> launched the <b>Civil Disobedience Movement</b>, with Gandhi breaking the salt law by producing salt at the coast."
+        },
+        {
+          "q": "Consider the following statements: 1. The Government of India Act, 1935 provided for provincial autonomy. 2. It proposed an All India Federation of British provinces and princely states, which never came into force as princely states did not join in sufficient numbers. 3. It introduced dyarchy at the provincial level for the first time in Indian constitutional history. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — <b>dyarchy at the provincial level</b> was first introduced by the Government of India Act, 1919; the 1935 Act actually abolished provincial dyarchy in favour of full autonomy, introducing dyarchy at the Centre instead."
+        },
+        {
+          "q": "The Quit India Movement of 1942 was launched immediately after the failure of which British mission to resolve the political deadlock?",
+          "o": [
+            "Cripps Mission",
+            "Simon Commission",
+            "Cabinet Mission",
+            "Cabinet Mission Plan"
+          ],
+          "a": 0,
+          "e": "The failure of the <b>Cripps Mission</b> (March 1942) to offer an acceptable settlement led Congress to launch the <b>Quit India Movement</b> in August 1942."
+        },
+        {
+          "q": "Consider the following statements: 1. Subhas Chandra Bose organised the Indian National Army (INA) with Japanese assistance during World War II. 2. The INA included a women's regiment named the Rani of Jhansi Regiment. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. The <b>INA</b>, reorganised under Bose, included the <b>Rani of Jhansi Regiment</b>, an all-women combat unit led by Captain Lakshmi Sahgal."
+        },
+        {
+          "q": "The Cabinet Mission Plan of 1946 proposed which overall constitutional structure for India?",
+          "o": [
+            "A three-tier federal structure with provinces grouped into sections",
+            "A unitary state with a single central legislature",
+            "Immediate partition into two separate dominions",
+            "Continuation of the 1935 Act without change"
+          ],
+          "a": 0,
+          "e": "The <b>Cabinet Mission Plan (1946)</b> proposed a loose three-tier federation, with provinces grouped into sections (A, B, C), while rejecting a separate sovereign Pakistan."
+        },
+        {
+          "q": "Consider the following statements: 1. The Mountbatten Plan of June 1947 proposed partition of British India into two independent dominions. 2. It advanced the transfer of power to August 1947, earlier than the June 1948 timeline originally indicated. 3. It required every princely state to hold a compulsory plebiscite before deciding to join either India or Pakistan. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — princely states were given the option to accede to either dominion through an <b>Instrument of Accession</b>, without any uniform requirement of a plebiscite."
+        },
+        {
+          "q": "Which of the following pairs of movement and year is NOT correctly matched?",
+          "o": [
+            "Non-Cooperation Movement - 1920",
+            "Civil Disobedience Movement - 1930",
+            "Quit India Movement - 1942",
+            "Individual Satyagraha - 1932"
+          ],
+          "a": 3,
+          "e": "The <b>Individual Satyagraha</b> actually began in October 1940, with Vinoba Bhave as the first satyagrahi, not in 1932 (when the Civil Disobedience Movement was in its second phase)."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The 'safety valve' theory holds that the Indian National Congress was founded with tacit encouragement from certain British officials to channel rising political discontent into constitutional avenues. 2. This theory is accepted universally by historians as the sole and undisputed explanation for the Congress's founding. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly describes the theory. Statement 2 is false — the 'safety valve' theory remains <b>contested</b>, with many historians emphasising genuine indigenous political awakening as the primary driver behind the Congress's formation."
+        },
+        {
+          "q": "Consider the following statements: 1. The Extremist phase of the Congress (post-1905) drew heavily on the idea of Swaraj as a birthright, most famously articulated by Tilak. 2. Aurobindo Ghosh was a prominent extremist ideologue before turning to spiritual pursuits after 1910. 3. Bipin Chandra Pal was primarily associated with the Moderate faction and opposed the Swadeshi and Boycott programme. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — <b>Bipin Chandra Pal</b> was one of the foremost Extremist leaders (of the 'Lal-Bal-Pal' trio) and a strong supporter of Swadeshi and Boycott."
+        },
+        {
+          "q": "Consider the following statements: 1. The Partition of Bengal (1905) divided the province into Bengal (Hindu-majority west) and Eastern Bengal and Assam (Muslim-majority east). 2. The Swadeshi Movement led to the establishment of national educational institutions, such as the Bengal National College. 3. The partition was annulled in 1911 at the Delhi Durbar, coinciding with the transfer of the capital from Calcutta to Delhi. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct, tracing the demographic basis of the partition, its educational fallout during the Swadeshi Movement, and its eventual annulment alongside the shift of the capital to Delhi."
+        },
+        {
+          "q": "The 'Drain of Wealth' theory, an influential early nationalist economic critique of British rule, was most systematically articulated in a book by?",
+          "o": [
+            "Dadabhai Naoroji",
+            "Romesh Chandra Dutt",
+            "Mahadev Govind Ranade",
+            "Gopal Krishna Gokhale"
+          ],
+          "a": 0,
+          "e": "<b>Dadabhai Naoroji</b>, in his work 'Poverty and Un-British Rule in India', systematically developed the 'Drain of Wealth' theory, arguing that Britain was draining India's resources without adequate return."
+        },
+        {
+          "q": "Consider the following statements: 1. The Morley-Minto Reforms (1909) expanded the size of legislative councils and introduced a limited elective principle. 2. The reforms fully satisfied both the Moderate and Extremist factions of the Congress regarding constitutional advance. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is false — the reforms were seen as inadequate by most nationalists, and the introduction of <b>separate electorates</b> was strongly criticised even by many Moderates."
+        },
+        {
+          "q": "Consider the following statements regarding the Lucknow Pact (1916): 1. It marked a reunion of the Moderate and Extremist factions within the same Congress session. 2. It was negotiated with the involvement of leaders including Tilak, Annie Besant, and Muhammad Ali Jinnah. 3. It permanently resolved the question of separate electorates, which was never revisited in later constitutional negotiations. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — separate electorates remained a contentious issue revisited in later negotiations, including the <b>Communal Award (1932)</b> and the subsequent Poona Pact."
+        },
+        {
+          "q": "Consider the following statements: 1. The Champaran Satyagraha (1917) was Gandhi's first major Satyagraha campaign within India after his return from South Africa. 2. It was directed against the indigo planters' 'tinkathia' system, which forced peasants to cultivate indigo on a fixed share of their landholding. 3. The Government of India Act, 1935 was enacted as a direct legislative consequence of the Champaran Satyagraha. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the <b>Government of India Act, 1935</b> emerged from the Simon Commission and Round Table Conference process, unrelated to the localised Champaran Satyagraha two decades earlier."
+        },
+        {
+          "q": "Which of the following best distinguishes 'Passive Resistance' as practised by Extremist leaders like Tilak and Aurobindo Ghosh from Gandhian 'Satyagraha'?",
+          "o": [
+            "Passive resistance was largely a political strategy of boycott and non-cooperation without an explicit moral philosophy of truth-force, while Satyagraha was rooted in an ethical philosophy of non-violence and truth",
+            "Passive resistance involved armed struggle while Satyagraha did not involve any resistance at all",
+            "Passive resistance was practised only by Muslim leaders",
+            "Satyagraha rejected all forms of boycott and non-cooperation"
+          ],
+          "a": 0,
+          "e": "While both rejected violent revolution, <b>Gandhian Satyagraha</b> was grounded in a broader ethical and spiritual philosophy of truth and non-violence, distinguishing it from the more purely tactical 'passive resistance' of earlier Extremists."
+        },
+        {
+          "q": "Consider the following statements: 1. The Rowlatt Act (1919) permitted arrest and detention without trial for those suspected of revolutionary activity. 2. The Act was passed with the unanimous support of all Indian members of the Imperial Legislative Council. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is false — Indian members strongly opposed the Bill; <b>Muhammad Ali Jinnah</b> resigned from the Imperial Legislative Council in protest against its passage."
+        },
+        {
+          "q": "Consider the following statements regarding the Jallianwala Bagh massacre (1919): 1. General Reginald Dyer ordered troops to fire on an unarmed crowd gathered at Jallianwala Bagh in Amritsar. 2. The Hunter Committee, appointed to investigate the incident, recommended Dyer's court martial and criminal prosecution. 3. Rabindranath Tagore renounced his knighthood in protest against the massacre. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is false — the <b>Hunter Committee</b> censured Dyer and recommended he be relieved of his command, but it did not recommend a court martial or criminal prosecution."
+        },
+        {
+          "q": "The decision to launch the Non-Cooperation Movement (1920) in conjunction with the Khilafat issue chiefly reflected Gandhi's strategy of?",
+          "o": [
+            "Forging Hindu-Muslim unity by linking a pan-Islamic grievance over the Ottoman Caliphate with the broader Indian national movement",
+            "Securing British support for Indian self-rule",
+            "Isolating the Muslim League from national politics",
+            "Avoiding any cooperation with Muslim political leaders"
+          ],
+          "a": 0,
+          "e": "Gandhi linked the <b>Khilafat</b> grievance (over the treatment of the Ottoman Caliph after WWI) with Non-Cooperation to build broad-based <b>Hindu-Muslim unity</b> in the freedom struggle."
+        },
+        {
+          "q": "Consider the following statements: 1. The Non-Cooperation Movement (1920-22) included the surrender of government titles and honours. 2. It included boycott of law courts, government schools and colleges, and foreign cloth. 3. It was formally withdrawn following the Bardoli resolution of 1922, passed after the Chauri Chaura incident in the United Provinces. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements correctly describe the scope and eventual withdrawal of the <b>Non-Cooperation Movement</b> after the violence at Chauri Chaura."
+        },
+        {
+          "q": "Which of the following best distinguishes the Civil Disobedience Movement (1930) from the earlier Non-Cooperation Movement (1920-22)?",
+          "o": [
+            "Civil Disobedience involved deliberate defiance and breach of specific unjust laws, such as the salt law, going beyond mere withdrawal of cooperation",
+            "Civil Disobedience did not involve any economic boycott of foreign goods",
+            "Civil Disobedience was led entirely by revolutionary armed groups rather than Congress",
+            "Non-Cooperation involved deliberately breaking laws, while Civil Disobedience avoided doing so"
+          ],
+          "a": 0,
+          "e": "Unlike Non-Cooperation, which focused on withdrawal of cooperation (titles, councils, schools), the <b>Civil Disobedience Movement</b> involved actively and openly breaking specific unjust laws, exemplified by the Salt Satyagraha."
+        },
+        {
+          "q": "Consider the following statements: 1. The Government of India Act, 1935 introduced provincial autonomy, ending dyarchy at the provincial level. 2. It introduced dyarchy at the Centre instead, though this provision never came into effect since the proposed All India Federation did not materialise. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. The <b>1935 Act</b> shifted dyarchy from the provinces (full autonomy instead) to the Centre, but the central federal scheme, and hence central dyarchy, never took effect."
+        },
+        {
+          "q": "Consider the following statements about the Quit India Movement (1942): 1. It was launched following the AICC's 'Do or Die' resolution passed at the Bombay session in August 1942. 2. Most top Congress leaders were arrested almost immediately, leaving the movement to be largely sustained by underground networks and local leadership. 3. The Muslim League fully supported and actively participated in the Quit India Movement alongside the Congress. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the <b>Muslim League</b> did not join the Quit India Movement and instead continued to cooperate with the British administration, using the period to strengthen its own political position."
+        },
+        {
+          "q": "The Indian National Army (INA), under Subhas Chandra Bose, fought alongside Japanese forces primarily in which military campaign near the India-Burma frontier?",
+          "o": [
+            "The Imphal-Kohima campaign",
+            "The Battle of Plassey",
+            "The Battle of Buxar",
+            "The North African Campaign"
+          ],
+          "a": 0,
+          "e": "The INA participated alongside Japanese forces in the <b>Imphal-Kohima campaign</b> (1944), an unsuccessful attempt to advance into British India from Burma."
+        },
+        {
+          "q": "Consider the following statements: 1. The Cabinet Mission Plan (1946) rejected the demand for a fully sovereign Pakistan but proposed a three-tier federal structure with grouping of provinces. 2. The interim government formed in the wake of the Cabinet Mission Plan was headed by Jawaharlal Nehru. 3. The Direct Action Day called by the Muslim League in August 1946 led to widespread communal violence, particularly in Calcutta. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct. The <b>Cabinet Mission Plan's</b> rejection followed by Direct Action Day (16 August 1946) triggered major communal violence, while Nehru headed the subsequent interim government."
+        },
+        {
+          "q": "The Mountbatten Plan (3 June 1947) was significant primarily because it?",
+          "o": [
+            "Announced a concrete plan and accelerated timeline for the partition of British India into two independent dominions, India and Pakistan, effective from 15 August 1947",
+            "Introduced provincial autonomy for the first time in Indian constitutional history",
+            "Made the Cabinet Mission's grouping scheme for provinces permanent and binding",
+            "Was rejected outright by both the Congress and the Muslim League"
+          ],
+          "a": 0,
+          "e": "The <b>Mountbatten Plan</b> laid out the concrete mechanics and an accelerated timeline for partition, leading to the creation of India and Pakistan as independent dominions on 15 August 1947."
+        }
+      ]
+    }
+  }
+]
