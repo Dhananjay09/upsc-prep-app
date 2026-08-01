@@ -1,0 +1,2430 @@
+[
+  {
+    "id": "eco_money_monetary_policy",
+    "title": "Money and Monetary Policy",
+    "desc": "Money functions, RBI tools, and monetary policy framework",
+    "questions": {
+      "basic": [
+        {
+          "q": "In which year was the Reserve Bank of India established?",
+          "o": [
+            "1935",
+            "1949",
+            "1934",
+            "1969"
+          ],
+          "a": 0,
+          "e": "The <b>RBI</b> was established on 1 April 1935 under the provisions of the RBI Act, 1934."
+        },
+        {
+          "q": "In which year was the Reserve Bank of India nationalised?",
+          "o": [
+            "1935",
+            "1948",
+            "1949",
+            "1969"
+          ],
+          "a": 2,
+          "e": "RBI was <b>nationalised</b> on 1 January 1949 under the Reserve Bank (Transfer to Public Ownership) Act, 1948."
+        },
+        {
+          "q": "The Reserve Bank of India was constituted under which Act?",
+          "o": [
+            "Banking Regulation Act, 1949",
+            "RBI Act, 1934",
+            "Companies Act, 1913",
+            "SBI Act, 1955"
+          ],
+          "a": 1,
+          "e": "RBI was set up under the <b>RBI Act, 1934</b>, which provides the legal basis for its functioning."
+        },
+        {
+          "q": "Which function of money refers to its use in facilitating buying and selling of goods and services without the need for barter?",
+          "o": [
+            "Store of value",
+            "Medium of exchange",
+            "Unit of account",
+            "Standard of deferred payment"
+          ],
+          "a": 1,
+          "e": "Money acting as a <b>medium of exchange</b> eliminates the need for a double coincidence of wants required in barter."
+        },
+        {
+          "q": "Money's ability to retain purchasing power over time, allowing wealth to be saved and used later, describes which function?",
+          "o": [
+            "Medium of exchange",
+            "Store of value",
+            "Unit of account",
+            "Legal tender"
+          ],
+          "a": 1,
+          "e": "The <b>store of value</b> function allows money to be saved now and used for future purchases without significant loss of value."
+        },
+        {
+          "q": "The function of money that allows the value of goods and services to be expressed and compared in a common denomination is known as?",
+          "o": [
+            "Unit of account",
+            "Store of value",
+            "Standard of deferred payment",
+            "Medium of exchange"
+          ],
+          "a": 0,
+          "e": "As a <b>unit of account</b>, money provides a common measure of value for pricing and comparing different goods and services."
+        },
+        {
+          "q": "Money used to settle debts that are payable in the future, such as loan repayments, illustrates which function of money?",
+          "o": [
+            "Unit of account",
+            "Medium of exchange",
+            "Standard of deferred payment",
+            "Store of value"
+          ],
+          "a": 2,
+          "e": "The <b>standard of deferred payment</b> function allows money to be used for settling future obligations like credit and loans."
+        },
+        {
+          "q": "Repo rate refers to the rate at which?",
+          "o": [
+            "RBI borrows money from commercial banks",
+            "RBI lends short-term funds to commercial banks against government securities",
+            "Commercial banks lend to each other",
+            "RBI lends to the government directly"
+          ],
+          "a": 1,
+          "e": "The <b>repo rate</b> is the rate at which RBI lends short-term funds to banks against the collateral of government securities."
+        },
+        {
+          "q": "Reverse repo rate is the rate at which?",
+          "o": [
+            "RBI lends money to commercial banks",
+            "Commercial banks lend to industries",
+            "RBI borrows funds from commercial banks",
+            "Commercial banks borrow from the government"
+          ],
+          "a": 2,
+          "e": "The <b>reverse repo rate</b> is the rate at which RBI borrows surplus funds from commercial banks, absorbing liquidity from the system."
+        },
+        {
+          "q": "Cash Reserve Ratio (CRR) refers to the minimum percentage of a bank's net demand and time liabilities that must be?",
+          "o": [
+            "Invested in government securities",
+            "Kept as cash with the RBI",
+            "Kept as gold reserves",
+            "Lent to priority sectors"
+          ],
+          "a": 1,
+          "e": "<b>CRR</b> is the portion of a bank's net demand and time liabilities kept as cash with the RBI, on which no interest is paid."
+        },
+        {
+          "q": "Statutory Liquidity Ratio (SLR) can be maintained by banks in the form of?",
+          "o": [
+            "Only cash held with RBI",
+            "Cash, gold, or approved government securities held by the bank itself",
+            "Only foreign exchange holdings",
+            "Only equity shares of companies"
+          ],
+          "a": 1,
+          "e": "<b>SLR</b> can be maintained in cash, gold, or unencumbered approved government securities held by the bank itself, unlike CRR which goes to RBI."
+        },
+        {
+          "q": "Open Market Operations (OMO) conducted by the RBI involve?",
+          "o": [
+            "Fixing the repo rate",
+            "Buying and selling of government securities in the open market",
+            "Printing new currency notes",
+            "Regulating foreign banks"
+          ],
+          "a": 1,
+          "e": "<b>OMO</b> involves RBI buying or selling government securities in the open market to regulate liquidity in the banking system."
+        },
+        {
+          "q": "The Marginal Standing Facility (MSF) allows banks to borrow overnight funds from RBI by dipping into their?",
+          "o": [
+            "Cash Reserve Ratio",
+            "Statutory Liquidity Ratio holdings",
+            "Foreign exchange reserves",
+            "Priority sector lending quota"
+          ],
+          "a": 1,
+          "e": "Under <b>MSF</b>, scheduled banks can borrow overnight funds from RBI against their SLR securities, usually at a rate higher than the repo rate."
+        },
+        {
+          "q": "The Bank Rate is the rate at which RBI is willing to?",
+          "o": [
+            "Borrow funds from commercial banks",
+            "Purchase foreign currency",
+            "Lend funds to the government",
+            "Lend long-term funds to banks without collateral"
+          ],
+          "a": 3,
+          "e": "The <b>Bank Rate</b> is the standard rate at which RBI is prepared to lend long-term funds to banks without any collateral requirement."
+        },
+        {
+          "q": "The Monetary Policy Committee (MPC) was constituted in India in the year?",
+          "o": [
+            "2014",
+            "2016",
+            "2018",
+            "2011"
+          ],
+          "a": 1,
+          "e": "The <b>MPC</b> was constituted in 2016 following an amendment to the RBI Act, 1934, to institutionalise inflation targeting."
+        },
+        {
+          "q": "How many total members does the Monetary Policy Committee (MPC) of the RBI have?",
+          "o": [
+            "Four",
+            "Five",
+            "Six",
+            "Seven"
+          ],
+          "a": 2,
+          "e": "The <b>MPC</b> has six members: the RBI Governor (Chairperson), two other RBI officials, and three external members appointed by the Government of India."
+        },
+        {
+          "q": "Legal tender refers to money that?",
+          "o": [
+            "Can only be used for international trade",
+            "Must be legally accepted for settlement of a debt or transaction",
+            "Is issued only by commercial banks",
+            "Has intrinsic commodity value equal to its face value"
+          ],
+          "a": 1,
+          "e": "<b>Legal tender</b> is currency that must be accepted by law when offered in settlement of a debt or transaction."
+        },
+        {
+          "q": "Fiat money is money that?",
+          "o": [
+            "Is backed by gold reserves",
+            "Has value because of its metal content",
+            "Derives its value from government order/decree rather than a physical commodity",
+            "Can only be issued by the Ministry of Finance"
+          ],
+          "a": 2,
+          "e": "<b>Fiat money</b> has value because the government has declared it legal tender, not because it is backed by gold or any commodity."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements: 1. Cash Reserve Ratio (CRR) balances kept with the RBI earn interest for commercial banks. 2. Statutory Liquidity Ratio (SLR) can be maintained by banks in the form of approved government securities held by the banks themselves. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect as <b>CRR</b> balances kept with RBI earn no interest. Statement 2 is correct as <b>SLR</b> assets are held by banks themselves, unlike CRR which is deposited with RBI."
+        },
+        {
+          "q": "Consider the following statements: 1. An increase in the repo rate injects more liquidity into the banking system. 2. The reverse repo rate is the rate at which RBI absorbs excess liquidity from commercial banks. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect; increasing the <b>repo rate</b> makes borrowing costlier for banks and reduces liquidity rather than injecting it. Statement 2 is correct since the <b>reverse repo rate</b> is used by RBI to absorb surplus funds from banks."
+        },
+        {
+          "q": "Consider the following statements about the Monetary Policy Committee (MPC): 1. The MPC has six members. 2. Three members of the MPC, including the Governor, are from the RBI. 3. External members of the MPC are appointed by the State Governments. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect as external members are appointed by the <b>Government of India (Central Government)</b>, not state governments."
+        },
+        {
+          "q": "Consider the following statements regarding the functions of the RBI: 1. RBI acts as the banker to the Central and State Governments. 2. RBI is the sole authority for issuing all currency notes and coins in India. 3. RBI acts as the lender of last resort for commercial banks. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect because one-rupee notes and coins are issued by the <b>Government of India (Ministry of Finance)</b>, while RBI issues other denomination notes."
+        },
+        {
+          "q": "Consider the following statements: 1. The Marginal Standing Facility (MSF) rate is normally kept lower than the repo rate. 2. Banks can borrow under MSF by using their Statutory Liquidity Ratio (SLR) securities. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect; the <b>MSF rate</b> is kept higher than the repo rate as it functions as a penal rate. Statement 2 is correct as banks dip into their <b>SLR</b> holdings to avail MSF."
+        },
+        {
+          "q": "Consider the following statements about measures of money supply: 1. M1 is the narrowest and most liquid measure of money supply. 2. M3 is narrower in coverage than M1. 3. M2 equals M1 plus current deposits held by non-bank financial institutions. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 0,
+          "e": "Only statement 1 is correct. Statement 2 is wrong since <b>M3</b> (M1 plus time deposits) is broader than M1, not narrower. Statement 3 is wrong since <b>M2</b> equals M1 plus savings deposits with post office savings banks."
+        },
+        {
+          "q": "Which body in India is responsible for deciding the repo rate under the inflation-targeting framework?",
+          "o": [
+            "Ministry of Finance",
+            "Monetary Policy Committee",
+            "Finance Commission",
+            "NITI Aayog"
+          ],
+          "a": 1,
+          "e": "The <b>Monetary Policy Committee</b> (MPC), constituted under the amended RBI Act, decides the policy repo rate to achieve the inflation target."
+        },
+        {
+          "q": "Which of the following best distinguishes SLR from CRR?",
+          "o": [
+            "SLR is held only in cash while CRR can be held in securities",
+            "SLR can be held in cash, gold or approved securities kept by the bank itself, while CRR must be deposited with RBI in cash",
+            "SLR earns higher interest than CRR",
+            "CRR is applicable only to foreign banks"
+          ],
+          "a": 1,
+          "e": "<b>SLR</b> assets remain with the bank in approved forms, whereas <b>CRR</b> must be deposited as cash with the RBI and earns no interest."
+        },
+        {
+          "q": "Under Indian law, coins as legal tender are subject to a maximum limit for a single transaction, whereas currency notes issued by RBI are?",
+          "o": [
+            "Also limited in the same way",
+            "Unlimited legal tender for any amount",
+            "Not legal tender at all",
+            "Legal tender only for government transactions"
+          ],
+          "a": 1,
+          "e": "While coins have <b>limited legal tender</b> status up to a specified amount, RBI-issued currency notes are <b>unlimited legal tender</b> for any transaction value."
+        },
+        {
+          "q": "RBI's role as 'lender of last resort' means that it?",
+          "o": [
+            "Provides financial assistance to banks facing liquidity crises when no other source is available",
+            "Is the final authority to approve government budgets",
+            "Lends money only to foreign governments",
+            "Provides retail loans to the general public"
+          ],
+          "a": 0,
+          "e": "As <b>lender of last resort</b>, RBI extends emergency financial support to banks facing liquidity shortages when no other avenue is available."
+        },
+        {
+          "q": "How does Open Market Operations (OMO) differ from a change in CRR as a monetary tool?",
+          "o": [
+            "OMO involves buying/selling government securities to adjust liquidity, while a CRR change directly alters the reserve requirement of banks",
+            "OMO only affects foreign exchange reserves",
+            "A CRR change requires Parliamentary approval while OMO does not",
+            "There is no difference between the two tools"
+          ],
+          "a": 0,
+          "e": "<b>OMO</b> manages liquidity through market transactions in government securities, whereas a <b>CRR</b> change directly modifies the mandatory reserve banks must keep with RBI."
+        },
+        {
+          "q": "A key difference between the Bank Rate and the Marginal Standing Facility (MSF) rate is that?",
+          "o": [
+            "Bank Rate is used for short-term borrowing only, while MSF is for long-term borrowing",
+            "Historically, Bank Rate was used for long-term lending without collateral, while MSF is an overnight facility against SLR securities; today both are kept aligned",
+            "MSF applies only to non-banking financial companies",
+            "Bank Rate is decided by the Government of India, not RBI"
+          ],
+          "a": 1,
+          "e": "The <b>Bank Rate</b> traditionally served long-term, uncollateralised lending, while <b>MSF</b> is an overnight facility against SLR securities; currently the two are kept at the same rate."
+        },
+        {
+          "q": "In the Monetary Policy Committee, in the event of a tie in voting, who exercises the casting vote?",
+          "o": [
+            "The Deputy Governor",
+            "The Finance Minister",
+            "The Governor of RBI",
+            "The senior-most external member"
+          ],
+          "a": 2,
+          "e": "In case of an equality of votes in the MPC, the <b>RBI Governor</b> has a second or casting vote."
+        },
+        {
+          "q": "The three external members of the Monetary Policy Committee are appointed by the Central Government for a term of how many years, and are they eligible for reappointment?",
+          "o": [
+            "Two years, eligible for reappointment",
+            "Four years, not eligible for reappointment",
+            "Six years, eligible for reappointment",
+            "Five years, not eligible for reappointment"
+          ],
+          "a": 1,
+          "e": "External MPC members are appointed for a term of <b>four years</b> and are <b>not eligible for reappointment</b>."
+        },
+        {
+          "q": "Fiat money differs from commodity money mainly because?",
+          "o": [
+            "Fiat money has no intrinsic value and derives worth from government decree, whereas commodity money has intrinsic value",
+            "Fiat money is always made of gold",
+            "Commodity money is issued only by RBI",
+            "Fiat money cannot be used as legal tender"
+          ],
+          "a": 0,
+          "e": "<b>Fiat money</b> lacks intrinsic commodity value and derives its worth from government decree/legal backing, unlike <b>commodity money</b> which has intrinsic value."
+        },
+        {
+          "q": "Which of the following is a component of the M1 measure of money supply?",
+          "o": [
+            "Time deposits with banks",
+            "Post office savings deposits",
+            "Currency with the public and demand deposits with banks",
+            "Total post office deposits"
+          ],
+          "a": 2,
+          "e": "<b>M1</b> comprises currency with the public, demand deposits with banks, and other deposits with the RBI."
+        },
+        {
+          "q": "Among the money supply measures M1, M2, M3 and M4, which is considered the most liquid?",
+          "o": [
+            "M1",
+            "M2",
+            "M3",
+            "M4"
+          ],
+          "a": 0,
+          "e": "<b>M1</b> is the narrowest and most liquid measure of money supply, as it comprises currency and demand deposits readily usable for transactions."
+        },
+        {
+          "q": "RBI acting as custodian of the country's foreign exchange reserves primarily helps in?",
+          "o": [
+            "Directly fixing the exchange rate by law",
+            "Managing and maintaining the external value of the rupee and forex reserves under FEMA",
+            "Collecting income tax from exporters",
+            "Issuing passports for international trade"
+          ],
+          "a": 1,
+          "e": "As <b>custodian of foreign exchange reserves</b>, RBI manages forex reserves and helps maintain the external value of the rupee, guided by FEMA."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements about the Monetary Policy Committee: 1. It was constituted through an amendment to the RBI Act, 1934. 2. Each member of the MPC has one vote, and decisions are taken by a majority of votes. 3. In case of an equality of votes, the Governor has a second or casting vote. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements correctly describe the <b>MPC</b>'s constitution and voting procedure as inserted by the 2016 amendment to the RBI Act, 1934."
+        },
+        {
+          "q": "Consider the following statements: 1. The inflation-targeting framework was introduced through an amendment to the RBI Act, 1934, in 2016. 2. Before the constitution of the MPC, monetary policy decisions in India were taken solely by the Union Finance Ministry. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct as the 2016 amendment established the <b>inflation-targeting</b> framework. Statement 2 is incorrect since, earlier, the <b>RBI Governor</b> (aided by a Technical Advisory Committee) took monetary policy decisions, not the Finance Ministry alone."
+        },
+        {
+          "q": "Consider the following statements: 1. The Marginal Standing Facility (MSF) rate is generally higher than the repo rate. 2. The reverse repo rate is generally higher than the repo rate. 3. Under the Liquidity Adjustment Facility corridor, the repo rate typically lies between the reverse repo rate and the MSF rate. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct as the LAF corridor is structured with reverse repo below repo and MSF above repo. Statement 2 is incorrect since the <b>reverse repo rate</b> is lower than, not higher than, the repo rate."
+        },
+        {
+          "q": "Consider the following statements: 1. Statutory Liquidity Ratio (SLR) securities are held by banks themselves and can also be used to meet Marginal Standing Facility (MSF) requirements. 2. An increase in SLR reduces the funds available with banks for lending to the private sector. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>SLR</b> securities remain with banks and can be tapped for MSF borrowing, and a higher SLR requirement locks up more funds, reducing lendable resources."
+        },
+        {
+          "q": "Consider the following statements regarding functions of money: 1. Money serving as a 'unit of account' allows heterogeneous goods to be valued in a common measure. 2. Money's function as 'store of value' is undermined by high inflation as it erodes purchasing power. 3. The 'standard of deferred payment' function is unrelated to credit and lending transactions. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect because the <b>standard of deferred payment</b> function is directly linked to credit, loans, and future settlement of debts."
+        },
+        {
+          "q": "Consider the following statements: 1. Open Market Operations require RBI to simultaneously change the CRR or SLR ratios. 2. Purchase of government securities by RBI through OMO injects liquidity into the banking system. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect as <b>OMO</b> is an independent tool that does not require any change in CRR or SLR. Statement 2 is correct since buying securities releases cash into the system, injecting liquidity."
+        },
+        {
+          "q": "Consider the following statements regarding functions performed by the RBI: 1. Acting as the banker to the Government by managing its accounts and public debt. 2. Directly collecting Goods and Services Tax (GST) on behalf of the Union Government. 3. Acting as the regulator of the banking system under the Banking Regulation Act, 1949. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct functions of RBI. Statement 2 is incorrect as GST collection is handled by the tax administration machinery, not the RBI."
+        },
+        {
+          "q": "Consider the following statements on money supply measures: 1. M3 is the most commonly used measure of broad money in India. 2. M2 equals M1 plus savings deposits with post office savings banks. 3. Each successive measure from M1 to M4 is progressively more liquid but narrower in coverage. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect because successive measures from <b>M1 to M4</b> become progressively less liquid but broader in coverage, not more liquid and narrower."
+        },
+        {
+          "q": "If the RBI wants to control demand-pull inflation by tightening monetary policy, which combination of actions would be most appropriate?",
+          "o": [
+            "Increase repo rate and CRR, and sell government securities via OMO",
+            "Decrease repo rate and CRR, and buy government securities via OMO",
+            "Increase reverse repo rate only, without changing the repo rate",
+            "Decrease SLR and increase reverse repo rate"
+          ],
+          "a": 0,
+          "e": "To contain inflation, RBI tightens liquidity by <b>raising the repo rate and CRR</b> and <b>selling securities through OMO</b>, making credit costlier and scarcer."
+        },
+        {
+          "q": "Historically, before the introduction of the MSF, the Bank Rate served primarily as a tool for?",
+          "o": [
+            "Overnight liquidity adjustment for banks",
+            "Long-term lending and rediscounting of bills of exchange, later serving mainly as a penal/reference rate",
+            "Determining the exchange rate of the rupee",
+            "Fixing the government's fiscal deficit target"
+          ],
+          "a": 1,
+          "e": "The <b>Bank Rate</b> was traditionally used for long-term lending and rediscounting of eligible bills, and later became more of a penal/benchmark rate aligned with MSF."
+        },
+        {
+          "q": "An increase in the repo rate by the RBI is most likely to result in which of the following outcomes?",
+          "o": [
+            "Cheaper credit for banks leading to higher lending and expansion of money supply",
+            "Costlier borrowing for banks leading to higher lending rates and moderation in money supply growth",
+            "Automatic reduction in the fiscal deficit of the government",
+            "Immediate change in the SLR ratio"
+          ],
+          "a": 1,
+          "e": "A higher <b>repo rate</b> raises the cost of funds for banks, which typically pass it on as higher lending rates, moderating credit and money supply growth."
+        },
+        {
+          "q": "A reduction in CRR by the RBI primarily leads to?",
+          "o": [
+            "Reduced lendable funds with banks and higher interest rates",
+            "Increased lendable funds with banks, potentially lowering interest rates and boosting credit growth",
+            "No change in the liquidity available with banks",
+            "Automatic transfer of funds from SLR to CRR"
+          ],
+          "a": 1,
+          "e": "Lowering the <b>CRR</b> frees up more funds for banks to lend, which can increase credit availability and put downward pressure on interest rates."
+        },
+        {
+          "q": "In India, coins are legal tender only up to a limit specified under law, described as 'limited legal tender', while currency notes issued by RBI are?",
+          "o": [
+            "Also limited legal tender",
+            "Unlimited legal tender for settlement of any amount",
+            "Not treated as legal tender",
+            "Legal tender only for government dues"
+          ],
+          "a": 1,
+          "e": "Unlike coins, which have <b>limited legal tender</b> status, RBI-issued currency notes are <b>unlimited legal tender</b>, acceptable for any transaction amount."
+        },
+        {
+          "q": "Which statement best explains why banks may prefer borrowing under MSF over the interbank call money market during acute liquidity stress?",
+          "o": [
+            "MSF interest rates are always lower than call money rates",
+            "MSF provides an assured, on-demand overnight window from RBI against SLR securities even when interbank funds are scarce, despite the rate being penal",
+            "MSF has no collateral requirement while call money requires collateral",
+            "MSF loans need not be repaid within a short period"
+          ],
+          "a": 1,
+          "e": "<b>MSF</b> guarantees banks an overnight borrowing window from RBI against SLR securities whenever interbank liquidity dries up, even though it charges a penal rate."
+        },
+        {
+          "q": "The nationalisation of the RBI in 1949 primarily involved?",
+          "o": [
+            "Conversion of RBI from a privately-owned shareholders' company to full government ownership",
+            "Merger of RBI with the State Bank of India",
+            "Splitting RBI into separate monetary and regulatory bodies",
+            "Transfer of RBI's headquarters from Kolkata to Mumbai"
+          ],
+          "a": 0,
+          "e": "RBI, originally a shareholders' institution, was brought under complete <b>government ownership</b> in 1949 through the Reserve Bank (Transfer to Public Ownership) Act, 1948."
+        },
+        {
+          "q": "The Liquidity Adjustment Facility (LAF) of the RBI primarily operates through which pair of instruments?",
+          "o": [
+            "CRR and SLR",
+            "Repo rate and Reverse repo rate",
+            "Bank Rate and Open Market Operations",
+            "MSF and legal tender rules"
+          ],
+          "a": 1,
+          "e": "The <b>Liquidity Adjustment Facility</b> enables RBI to manage day-to-day liquidity mainly through the <b>repo rate and reverse repo rate</b>."
+        },
+        {
+          "q": "Which of the following is the most accurate description of 'fiat money' as used for the Indian Rupee today?",
+          "o": [
+            "It is money whose value is fully backed by an equivalent quantity of gold held by RBI",
+            "It is money that derives its value from government/legal authority and public confidence, without being backed by a commodity like gold",
+            "It is a form of commodity money used only in wholesale trade",
+            "It refers only to digital currency issued by RBI"
+          ],
+          "a": 1,
+          "e": "The Indian Rupee is <b>fiat money</b>, deriving its value from legal sanction and public trust rather than from any commodity backing such as gold."
+        },
+        {
+          "q": "A nuanced distinction between the 'unit of account' function and the 'medium of exchange' function of money is that?",
+          "o": [
+            "Unit of account requires physical exchange of money while medium of exchange does not",
+            "Medium of exchange involves the actual transfer of money in transactions, while unit of account is merely a measure used to express and compare values, even without an actual transaction occurring",
+            "Medium of exchange applies only to international trade",
+            "Unit of account applies only to barter systems"
+          ],
+          "a": 1,
+          "e": "<b>Medium of exchange</b> requires actual use of money in a transaction, whereas <b>unit of account</b> can be used merely to express or compare values without any transaction taking place."
+        }
+      ]
+    }
+  },
+  {
+    "id": "eco_banking",
+    "title": "Banking Sector",
+    "desc": "Bank structure, NPAs, mergers and Basel norms",
+    "questions": {
+      "basic": [
+        {
+          "q": "In which year were 14 major commercial banks nationalized in India?",
+          "o": [
+            "1969",
+            "1980",
+            "1955",
+            "1991"
+          ],
+          "a": 0,
+          "e": "In <b>1969</b>, the Government of India nationalized 14 major commercial banks, each having deposits above Rs 50 crore, to align banking with social and developmental objectives."
+        },
+        {
+          "q": "How many banks were nationalized in the second phase of bank nationalization in India?",
+          "o": [
+            "6",
+            "14",
+            "20",
+            "2"
+          ],
+          "a": 0,
+          "e": "In <b>1980</b>, a second round of nationalization brought <b>6 more banks</b> under government ownership, taking the total number of nationalized banks to 20."
+        },
+        {
+          "q": "Regional Rural Banks (RRBs) were established under legislation enacted in which year?",
+          "o": [
+            "1969",
+            "1976",
+            "1980",
+            "1991"
+          ],
+          "a": 1,
+          "e": "The <b>Regional Rural Banks Act, 1976</b> provided the legal framework for RRBs, the first of which had already been set up in 1975 under an ordinance."
+        },
+        {
+          "q": "As per RBI norms, a term loan is generally classified as a Non-Performing Asset (NPA) if interest or principal remains overdue for a period of at least:",
+          "o": [
+            "30 days",
+            "60 days",
+            "90 days",
+            "180 days"
+          ],
+          "a": 2,
+          "e": "An asset is classified as an <b>NPA</b> when interest or principal remains overdue for a period of <b>90 days</b> or more in the case of a term loan."
+        },
+        {
+          "q": "The Basel Committee on Banking Supervision operates under the aegis of which institution?",
+          "o": [
+            "International Monetary Fund (IMF)",
+            "World Bank",
+            "Bank for International Settlements (BIS)",
+            "Financial Stability Board (FSB)"
+          ],
+          "a": 2,
+          "e": "The <b>Basel Committee on Banking Supervision (BCBS)</b> functions under the umbrella of the <b>Bank for International Settlements</b>, headquartered in Basel, Switzerland."
+        },
+        {
+          "q": "Which of the following is NOT considered a category of scheduled commercial banks in India?",
+          "o": [
+            "Public Sector Banks",
+            "Private Sector Banks",
+            "Foreign Banks",
+            "Development Finance Institutions"
+          ],
+          "a": 3,
+          "e": "<b>Development Finance Institutions</b> like NABARD or SIDBI are specialized financial institutions, not scheduled commercial banks, which include public sector, private sector, foreign and regional rural banks."
+        },
+        {
+          "q": "Payments Banks in India were introduced following guidelines issued by the RBI in which year?",
+          "o": [
+            "2010",
+            "2014",
+            "2016",
+            "2019"
+          ],
+          "a": 1,
+          "e": "The RBI issued guidelines for licensing of <b>Payments Banks</b> in <b>2014</b> as a differentiated banking model to promote financial inclusion."
+        },
+        {
+          "q": "Which of the following is an example of a Payments Bank in India?",
+          "o": [
+            "ICICI Bank",
+            "Bandhan Bank",
+            "Airtel Payments Bank",
+            "IDFC First Bank"
+          ],
+          "a": 2,
+          "e": "<b>Airtel Payments Bank</b> is a licensed Payments Bank, while the other options are universal/private sector banks with full lending powers."
+        },
+        {
+          "q": "Small Finance Banks are primarily set up to extend banking services to:",
+          "o": [
+            "Large corporates and multinational firms",
+            "Unserved and underserved sections of society such as small businesses and marginal farmers",
+            "Foreign institutional investors",
+            "Central and state government departments exclusively"
+          ],
+          "a": 1,
+          "e": "<b>Small Finance Banks</b> were licensed to extend credit and deposit facilities to <b>unserved and underserved sections</b>, including small business units and marginal farmers."
+        },
+        {
+          "q": "Cooperative banks in India are regulated by:",
+          "o": [
+            "Only the Reserve Bank of India",
+            "Only the Registrar of Cooperative Societies/state government",
+            "Both RBI (for banking functions) and the Registrar of Cooperative Societies/state government (for registration and management)",
+            "Only the Securities and Exchange Board of India"
+          ],
+          "a": 2,
+          "e": "Cooperative banks are subject to <b>dual regulation</b> — RBI oversees banking functions while the Registrar of Cooperative Societies/state government handles registration and management matters."
+        },
+        {
+          "q": "Gross NPA refers to:",
+          "o": [
+            "Total outstanding non-performing loans before deducting provisions",
+            "Non-performing loans after deducting provisions",
+            "Only loss assets identified by auditors",
+            "Only loans overdue for less than 90 days"
+          ],
+          "a": 0,
+          "e": "<b>Gross NPA</b> represents the total value of non-performing loans on a bank's books <b>before</b> any provisioning is deducted."
+        },
+        {
+          "q": "Net NPA is obtained by:",
+          "o": [
+            "Adding provisions to Gross NPA",
+            "Subtracting provisions held for NPAs from Gross NPA",
+            "Multiplying Gross NPA by the Capital Adequacy Ratio",
+            "Subtracting standard assets from doubtful assets"
+          ],
+          "a": 1,
+          "e": "<b>Net NPA</b> is calculated by <b>subtracting provisions</b> already made by the bank from the <b>Gross NPA</b> figure."
+        },
+        {
+          "q": "In 2017, State Bank of India merged with its five associate banks and which other entity?",
+          "o": [
+            "Bharatiya Mahila Bank",
+            "Global Trust Bank",
+            "ICICI Bank",
+            "IDBI Bank"
+          ],
+          "a": 0,
+          "e": "Along with its five associate banks, <b>Bharatiya Mahila Bank</b> was also merged into SBI, effective April 2017."
+        },
+        {
+          "q": "Which set of banks merged to form an enlarged Bank of Baroda?",
+          "o": [
+            "Bank of Baroda, Dena Bank and Vijaya Bank",
+            "Punjab National Bank, Oriental Bank of Commerce and United Bank of India",
+            "Canara Bank and Syndicate Bank",
+            "Union Bank of India, Andhra Bank and Corporation Bank"
+          ],
+          "a": 0,
+          "e": "<b>Dena Bank</b> and <b>Vijaya Bank</b> were merged into <b>Bank of Baroda</b>, effective from April 2019, ahead of the wider 2020 consolidation."
+        },
+        {
+          "q": "Basel III norms were developed primarily in response to:",
+          "o": [
+            "The Asian financial crisis of 1997",
+            "The global financial crisis of 2008",
+            "The Great Depression of 1929",
+            "A domestic Indian banking crisis"
+          ],
+          "a": 1,
+          "e": "<b>Basel III</b> was formulated by the BCBS in the aftermath of the <b>2008 global financial crisis</b> to strengthen bank capital and liquidity standards."
+        },
+        {
+          "q": "Capital Adequacy Ratio (CAR) is also known as:",
+          "o": [
+            "Cash Reserve Ratio (CRR)",
+            "Statutory Liquidity Ratio (SLR)",
+            "Capital to Risk-weighted Assets Ratio (CRAR)",
+            "Net NPA ratio"
+          ],
+          "a": 2,
+          "e": "Capital Adequacy Ratio is commonly referred to as <b>CRAR</b>, measuring a bank's capital in relation to its risk-weighted assets."
+        },
+        {
+          "q": "Tier 1 capital of a bank primarily comprises:",
+          "o": [
+            "Subordinated debt instruments",
+            "Core equity capital and disclosed reserves",
+            "Revaluation reserves alone",
+            "General loan loss provisions alone"
+          ],
+          "a": 1,
+          "e": "<b>Tier 1 capital</b> is the core capital of a bank, consisting mainly of <b>equity capital and disclosed reserves</b>, able to absorb losses without the bank ceasing operations."
+        },
+        {
+          "q": "India Post Payments Bank operates under which parent department?",
+          "o": [
+            "Department of Posts",
+            "Ministry of Finance",
+            "Reserve Bank of India",
+            "National Bank for Agriculture and Rural Development"
+          ],
+          "a": 0,
+          "e": "<b>India Post Payments Bank</b> was set up under the <b>Department of Posts</b>, leveraging the postal network for financial inclusion."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements: 1. The 1969 nationalization brought 14 major commercial banks under government ownership. 2. The 1980 nationalization added 6 more banks, taking the total number of nationalized banks to 20. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>14 banks</b> were nationalized in <b>1969</b> and <b>6 more</b> in <b>1980</b>, bringing the cumulative total to <b>20 nationalized banks</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. A Non-Performing Asset is a loan whose interest or principal remains overdue beyond a stipulated period. 2. Net NPA is always higher in value than Gross NPA for a bank. 3. Sub-standard, Doubtful and Loss assets are recognised categories under RBI's NPA classification norms. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is false because <b>Net NPA</b> equals Gross NPA <b>minus provisions</b>, making it <b>lower</b>, not higher, than Gross NPA."
+        },
+        {
+          "q": "Consider the following statements: 1. Payments Banks can accept demand deposits from customers. 2. Payments Banks can extend loans to retail customers. 3. Payments Banks can issue debit cards to their account holders. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct — Payments Banks can accept deposits and issue debit cards. Statement 2 is false because <b>Payments Banks are not permitted to lend</b> under RBI's framework."
+        },
+        {
+          "q": "Consider the following statements: 1. Small Finance Banks can extend loans to customers, unlike Payments Banks. 2. Small Finance Banks are exempt from maintaining Cash Reserve Ratio and Statutory Liquidity Ratio. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — unlike Payments Banks, <b>Small Finance Banks can lend</b>. Statement 2 is false; SFBs must maintain <b>CRR and SLR</b> like other scheduled commercial banks."
+        },
+        {
+          "q": "Consider the following statements: 1. Basel III introduced a Liquidity Coverage Ratio requirement for banks. 2. Basel III introduced a Countercyclical Capital Buffer. 3. Basel III abolished the requirement for banks to maintain Tier 2 capital altogether. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct features of <b>Basel III</b>. Statement 3 is false, as <b>Tier 2 capital</b> continues to be a recognised component of regulatory capital under Basel III."
+        },
+        {
+          "q": "Consider the following statements: 1. Punjab National Bank was merged with Oriental Bank of Commerce and United Bank of India. 2. Canara Bank was merged with Syndicate Bank. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both mergers are correct and were part of the <b>2019-2020 Public Sector Bank consolidation</b>, effective April 2020."
+        },
+        {
+          "q": "Which of the following correctly distinguishes Payments Banks from Small Finance Banks?",
+          "o": [
+            "Payments Banks can lend freely while Small Finance Banks cannot accept deposits",
+            "Payments Banks cannot lend but can accept deposits up to a limit, while Small Finance Banks can both accept deposits and extend loans",
+            "Both can lend without any restriction",
+            "Neither can accept deposits from the public"
+          ],
+          "a": 1,
+          "e": "<b>Payments Banks</b> are restricted from lending but can accept deposits up to a government-notified limit, whereas <b>Small Finance Banks</b> can both accept deposits and extend loans."
+        },
+        {
+          "q": "The merger of Andhra Bank and Corporation Bank into Union Bank of India was part of which broader initiative?",
+          "o": [
+            "The 2017 SBI associate bank merger",
+            "The 2019-2020 Public Sector Bank consolidation exercise",
+            "The 1969 bank nationalization",
+            "The Basel III implementation roadmap"
+          ],
+          "a": 1,
+          "e": "This merger was part of the <b>2019-2020 PSB consolidation</b>, which created fewer, larger public sector banks with stronger balance sheets."
+        },
+        {
+          "q": "Under RBI's asset classification norms, which category denotes an account that has remained non-performing for a longer period than a sub-standard asset but has not yet been classified as a loss asset?",
+          "o": [
+            "Standard asset",
+            "Doubtful asset",
+            "Restructured asset",
+            "Performing asset"
+          ],
+          "a": 1,
+          "e": "A <b>doubtful asset</b> is one that has remained a non-performing asset for a period exceeding that of a sub-standard asset, as per RBI's IRAC norms."
+        },
+        {
+          "q": "Which of the following correctly reflects the outcome of the 2019-2020 merger involving Allahabad Bank?",
+          "o": [
+            "Allahabad Bank survived and absorbed Indian Bank",
+            "Indian Bank survived as the anchor bank and Allahabad Bank was merged into it",
+            "Allahabad Bank was merged into Punjab National Bank",
+            "Allahabad Bank continued as an independent public sector bank"
+          ],
+          "a": 1,
+          "e": "<b>Allahabad Bank</b> was merged into <b>Indian Bank</b>, which survived as the anchor bank, effective April 2020."
+        },
+        {
+          "q": "In the context of Basel capital norms, Tier 2 capital is best described as:",
+          "o": [
+            "Core capital comprising equity and disclosed reserves",
+            "Supplementary capital including items such as revaluation reserves and subordinated debt",
+            "Deposits mobilised from the public",
+            "Statutory liquidity reserves held in government securities"
+          ],
+          "a": 1,
+          "e": "<b>Tier 2 capital</b> is supplementary capital, including instruments like <b>revaluation reserves and subordinated debt</b>, distinct from the core Tier 1 capital."
+        },
+        {
+          "q": "Which of the following best describes how foreign banks typically operate within India's banking structure?",
+          "o": [
+            "As cooperative institutions registered under state law",
+            "As branches of banks incorporated outside India, or increasingly through wholly owned subsidiaries",
+            "As unregulated entities outside RBI's purview",
+            "As departments of the Ministry of Finance"
+          ],
+          "a": 1,
+          "e": "<b>Foreign banks</b> generally operate in India as branches of banks incorporated abroad, with RBI also encouraging the <b>wholly owned subsidiary</b> route."
+        },
+        {
+          "q": "Net NPA is often considered a more refined indicator of a bank's underlying asset quality than Gross NPA because it:",
+          "o": [
+            "Ignores provisioning made by the bank",
+            "Accounts for the provisions already set aside against bad loans",
+            "Includes only loss assets and excludes doubtful assets",
+            "Excludes all secured loans from the calculation"
+          ],
+          "a": 1,
+          "e": "<b>Net NPA</b> nets out the provisions already made against bad loans, giving a clearer picture of the residual stress on a bank's balance sheet."
+        },
+        {
+          "q": "Which of the following was the first Payments Bank to commence commercial operations in India?",
+          "o": [
+            "India Post Payments Bank",
+            "Airtel Payments Bank",
+            "Paytm Payments Bank",
+            "Fino Payments Bank"
+          ],
+          "a": 1,
+          "e": "<b>Airtel Payments Bank</b> became the first Payments Bank to go live commercially, ahead of others like India Post Payments Bank."
+        },
+        {
+          "q": "What was the primary rationale behind the wave of Public Sector Bank mergers effected in 2019-2020?",
+          "o": [
+            "To increase the total number of small public sector banks",
+            "To create fewer but larger and more competitive banks with stronger balance sheets",
+            "To fully privatize all public sector banks",
+            "To convert public sector banks into cooperative banks"
+          ],
+          "a": 1,
+          "e": "The mergers aimed to consolidate PSBs into <b>fewer, larger entities</b> with improved scale, capital strength and global competitiveness."
+        },
+        {
+          "q": "Global standards that are later adopted domestically by the RBI as 'Basel norms' are set by:",
+          "o": [
+            "Securities and Exchange Board of India",
+            "Basel Committee on Banking Supervision (BCBS)",
+            "Financial Action Task Force",
+            "NITI Aayog"
+          ],
+          "a": 1,
+          "e": "The <b>Basel Committee on Banking Supervision (BCBS)</b> formulates global banking standards, which the RBI then adapts and implements domestically."
+        },
+        {
+          "q": "Regional Rural Banks are jointly owned/sponsored by which combination of stakeholders?",
+          "o": [
+            "Central government, concerned state government and a sponsor public sector bank",
+            "Only the Reserve Bank of India",
+            "Only the concerned state government",
+            "Foreign investors and the Reserve Bank of India jointly"
+          ],
+          "a": 0,
+          "e": "<b>RRBs</b> have joint ownership involving the <b>central government, the state government and a sponsor public sector bank</b>."
+        },
+        {
+          "q": "Which statement most accurately captures the regulatory oversight of cooperative banks in India?",
+          "o": [
+            "They are regulated solely by the Reserve Bank of India",
+            "They are regulated solely by the Registrar of Cooperative Societies",
+            "They are subject to dual regulation — RBI for banking functions and the Registrar of Cooperative Societies/state government for registration and management",
+            "They are regulated solely by SEBI"
+          ],
+          "a": 2,
+          "e": "Cooperative banks face <b>dual regulation</b>, with RBI overseeing banking operations and the Registrar of Cooperative Societies/state government handling registration and administrative matters."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The 1969 nationalization applied to banks having deposits above a specified threshold of Rs 50 crore. 2. Bank nationalization aimed to align credit deployment with priority sectors and reduce concentration of economic power in private hands. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the 1969 nationalization covered banks with deposits above <b>Rs 50 crore</b>, and the policy sought to direct credit toward <b>priority sectors</b> and curb private economic concentration."
+        },
+        {
+          "q": "Consider the following statements regarding the 2019-2020 Public Sector Bank mergers: 1. Oriental Bank of Commerce and United Bank of India were merged into Punjab National Bank. 2. Syndicate Bank was merged into Canara Bank. 3. Andhra Bank and Corporation Bank were merged into Bank of Baroda. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect — <b>Andhra Bank and Corporation Bank</b> were actually merged into <b>Union Bank of India</b>, not Bank of Baroda."
+        },
+        {
+          "q": "Consider the following statements on RBI's asset classification norms: 1. A standard asset carries normal risk and shows no problem. 2. A sub-standard asset is one that has remained a Non-Performing Asset for a period less than or equal to 12 months. 3. A loss asset is one identified as uncollectible with negligible realisable value, though not yet fully written off. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements correctly describe RBI's asset classification: <b>standard</b>, <b>sub-standard</b> (NPA for up to 12 months) and <b>loss assets</b> (uncollectible but not yet written off)."
+        },
+        {
+          "q": "Consider the following statements: 1. Both Payments Banks and Regional Rural Banks can directly sanction agricultural loans to farmers. 2. Regional Rural Banks were established with the objective of developing the rural economy by providing credit for agriculture, trade and other productive activities. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 2 is correct, describing the founding objective of <b>RRBs</b>. Statement 1 is false since <b>Payments Banks cannot extend loans</b> at all."
+        },
+        {
+          "q": "Consider the following statements on Basel III: 1. Basel III mandates a minimum Capital Conservation Buffer in addition to the minimum Capital Adequacy Ratio. 2. Basel III introduced a Leverage Ratio as a non-risk-based backstop measure. 3. Basel III was implemented with completely uniform timelines across all countries, without scope for national discretion. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 correctly describe Basel III features. Statement 3 is false, as Basel III allowed <b>phase-in schedules and national discretion</b> in implementation across jurisdictions."
+        },
+        {
+          "q": "Consider the following statements regarding the 2017 SBI merger: 1. SBI merged with its five associate banks — State Bank of Bikaner & Jaipur, State Bank of Mysore, State Bank of Travancore, State Bank of Hyderabad and State Bank of Patiala. 2. Bharatiya Mahila Bank was also merged into SBI as part of the same exercise. 3. Following the merger, SBI ceased to be classified as a public sector bank. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — SBI <b>continued to be classified as a public sector bank</b> after the merger, only growing larger in scale."
+        },
+        {
+          "q": "Consider the following statements: 1. Foreign banks in India are permitted to operate through wholly owned subsidiaries under RBI's framework. 2. Foreign banks are classified as a type of Regional Rural Bank. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct, as RBI has encouraged foreign banks toward the wholly owned subsidiary model. Statement 2 is false; <b>foreign banks</b> are a distinct category, not a type of RRB."
+        },
+        {
+          "q": "Consider the following statements: 1. Payments Banks can offer both current and savings accounts to customers. 2. Payments Banks are permitted to issue credit cards to their customers. 3. Small Finance Banks are required to meet priority sector lending targets. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is false — <b>Payments Banks cannot issue credit cards</b> under the original RBI framework, though they can issue debit cards."
+        },
+        {
+          "q": "Consider the following statements on bank capital: 1. Tier 1 capital primarily absorbs losses on a going-concern basis. 2. Tier 2 capital primarily absorbs losses on a gone-concern basis, such as during liquidation. 3. The Capital Adequacy Ratio is computed using only Tier 1 capital divided by Risk-Weighted Assets, excluding Tier 2 capital. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 correctly distinguish Tier 1 and Tier 2 capital roles. Statement 3 is false — <b>CRAR includes both Tier 1 and Tier 2 capital</b> divided by risk-weighted assets."
+        },
+        {
+          "q": "The 1980 nationalization of 6 more banks is best understood as:",
+          "o": [
+            "A reversal of the 1969 policy of social control over banking",
+            "An extension of the same rationale of social control and priority sector lending to more banks crossing a deposit threshold",
+            "A move to privatize nationalized banks",
+            "A precursor to the introduction of Payments Banks"
+          ],
+          "a": 1,
+          "e": "The <b>1980 nationalization</b> extended the same underlying rationale of the 1969 exercise — social control and priority sector credit — to additional banks."
+        },
+        {
+          "q": "A bank's Capital Adequacy Ratio (CRAR) is computed as:",
+          "o": [
+            "(Tier 1 Capital + Tier 2 Capital) divided by Risk-Weighted Assets",
+            "Total deposits divided by total advances",
+            "Net NPA divided by Gross NPA",
+            "Cash reserves divided by total liabilities"
+          ],
+          "a": 0,
+          "e": "<b>CRAR</b> is calculated as the sum of <b>Tier 1 and Tier 2 capital</b> divided by <b>risk-weighted assets</b>, reflecting a bank's capital buffer against risk."
+        },
+        {
+          "q": "Which statement best captures the distinction between Gross NPA and Net NPA for balance-sheet analysis?",
+          "o": [
+            "Gross NPA understates stress since it excludes provisioning, while Net NPA overstates it",
+            "Gross NPA reflects total stressed assets before provisioning, while Net NPA reflects the residual stress after provisioning",
+            "Gross NPA and Net NPA are identical measures used interchangeably",
+            "Net NPA is used only for computing Capital Adequacy Ratio and has no other significance"
+          ],
+          "a": 1,
+          "e": "<b>Gross NPA</b> captures total stressed assets before provisioning, whereas <b>Net NPA</b> reflects the residual stress that remains after provisions have been deducted."
+        },
+        {
+          "q": "The Regional Rural Banks Act, 1976 empowered which combination of entities to jointly sponsor and own RRBs?",
+          "o": [
+            "Only private banks and foreign investors",
+            "Central government, state government and a sponsor public sector bank",
+            "Only the National Bank for Agriculture and Rural Development",
+            "Only foreign banks operating in India"
+          ],
+          "a": 1,
+          "e": "Under the <b>RRB Act, 1976</b>, ownership and sponsorship of RRBs was structured jointly among the <b>central government, state government and a sponsor public sector bank</b>."
+        },
+        {
+          "q": "Which of the following correctly matches the anchor (surviving) bank with the bank merged into it during the 2019-2020 consolidation?",
+          "o": [
+            "Allahabad Bank absorbed Indian Bank",
+            "Vijaya Bank absorbed Bank of Baroda",
+            "Indian Bank absorbed Allahabad Bank",
+            "United Bank of India absorbed Punjab National Bank"
+          ],
+          "a": 2,
+          "e": "<b>Indian Bank</b> survived as the anchor bank and absorbed <b>Allahabad Bank</b> as part of the 2019-2020 PSB consolidation."
+        },
+        {
+          "q": "The primary rationale for introducing Small Finance Banks as a differentiated banking license category was to:",
+          "o": [
+            "Compete with foreign banks in international markets",
+            "Deepen financial inclusion by serving small business units, marginal farmers and unorganised sector entities",
+            "Completely replace Regional Rural Banks",
+            "Handle only foreign exchange transactions"
+          ],
+          "a": 1,
+          "e": "<b>Small Finance Banks</b> were introduced as a differentiated license to deepen <b>financial inclusion</b> by serving small business units, marginal farmers and the unorganised sector."
+        },
+        {
+          "q": "Payments Banks are structurally prevented from taking on credit risk mainly because they:",
+          "o": [
+            "Are restricted from lending and must largely invest deposits in government securities or park them with other banks",
+            "Must lend only to priority sectors at concessional rates",
+            "Can lend without any regulatory limit",
+            "Are exempt from RBI's regulatory purview altogether"
+          ],
+          "a": 0,
+          "e": "<b>Payments Banks</b> cannot lend and are required to deploy a large portion of their deposits in <b>government securities</b> or place them with other banks, limiting credit risk exposure."
+        },
+        {
+          "q": "Distinct from the 1969 and 1980 nationalization waves, the Imperial Bank of India was converted into the State Bank of India in which decade?",
+          "o": [
+            "1950s",
+            "1960s",
+            "1980s",
+            "1990s"
+          ],
+          "a": 0,
+          "e": "The <b>Imperial Bank of India</b> was converted into the <b>State Bank of India</b> in the <b>1950s</b> (1955), well before the 1969 and 1980 nationalization waves."
+        },
+        {
+          "q": "Which of the following accurately distinguishes the Basel III framework from Basel II?",
+          "o": [
+            "Basel III removed the capital adequacy requirements introduced under Basel II",
+            "Basel III added liquidity standards such as the Liquidity Coverage Ratio and Net Stable Funding Ratio, along with a leverage ratio, not emphasized under Basel II",
+            "Basel II introduced countercyclical buffers that Basel III subsequently removed",
+            "Basel II and Basel III frameworks are identical in scope"
+          ],
+          "a": 1,
+          "e": "<b>Basel III</b> built upon Basel II by introducing new <b>liquidity standards (LCR, NSFR)</b> and a <b>leverage ratio</b>, addressing gaps exposed by the 2008 financial crisis."
+        }
+      ]
+    }
+  },
+  {
+    "id": "eco_financial_markets",
+    "title": "Financial Markets and Institutions",
+    "desc": "SEBI, stock exchanges, IPOs, mutual funds and credit ratings",
+    "questions": {
+      "basic": [
+        {
+          "q": "In the context of financial markets, the primary market is best described as the market where:",
+          "o": [
+            "Existing securities are bought and sold among investors",
+            "New securities are issued by companies or governments for the first time",
+            "Only government bonds are traded",
+            "Foreign currency is exchanged"
+          ],
+          "a": 1,
+          "e": "The <b>primary market</b> is where new securities are issued for the first time, allowing entities to raise fresh capital directly from investors."
+        },
+        {
+          "q": "The secondary market refers to:",
+          "o": [
+            "The market for issuing new shares directly to the public",
+            "The market where previously issued securities are traded among investors",
+            "The market for currency derivatives only",
+            "A market exclusively for government securities"
+          ],
+          "a": 1,
+          "e": "In the <b>secondary market</b>, already issued securities are bought and sold among investors, such as on stock exchanges like BSE and NSE."
+        },
+        {
+          "q": "In which year was the Securities and Exchange Board of India (SEBI) established?",
+          "o": [
+            "1988",
+            "1992",
+            "1994",
+            "1996"
+          ],
+          "a": 0,
+          "e": "<b>SEBI</b> was established in 1988 as a non-statutory body to regulate the securities market before receiving statutory powers later."
+        },
+        {
+          "q": "SEBI was granted statutory powers under which legislation?",
+          "o": [
+            "The Companies Act, 1956",
+            "The SEBI Act, 1992",
+            "The Securities Contracts (Regulation) Act, 1956",
+            "The RBI Act, 1934"
+          ],
+          "a": 1,
+          "e": "The <b>SEBI Act, 1992</b> conferred statutory powers on SEBI, enabling it to regulate the securities market effectively."
+        },
+        {
+          "q": "The Bombay Stock Exchange (BSE) was established in which year?",
+          "o": [
+            "1875",
+            "1935",
+            "1947",
+            "1992"
+          ],
+          "a": 0,
+          "e": "The <b>BSE</b>, established in 1875, is considered the oldest stock exchange in Asia."
+        },
+        {
+          "q": "Which of the following is known as the oldest stock exchange in Asia?",
+          "o": [
+            "National Stock Exchange (NSE)",
+            "Bombay Stock Exchange (BSE)",
+            "Calcutta Stock Exchange",
+            "Multi Commodity Exchange (MCX)"
+          ],
+          "a": 1,
+          "e": "The <b>BSE</b>, founded in 1875, holds the distinction of being Asia's oldest stock exchange."
+        },
+        {
+          "q": "The National Stock Exchange (NSE) was incorporated in which year?",
+          "o": [
+            "1988",
+            "1992",
+            "1994",
+            "1996"
+          ],
+          "a": 1,
+          "e": "The <b>NSE</b> was incorporated in 1992, though it commenced trading operations in 1994."
+        },
+        {
+          "q": "In which year did the National Stock Exchange (NSE) commence trading operations?",
+          "o": [
+            "1992",
+            "1993",
+            "1994",
+            "1996"
+          ],
+          "a": 2,
+          "e": "Although incorporated in 1992, the <b>NSE</b> began its trading operations in 1994."
+        },
+        {
+          "q": "The NSE is widely credited with introducing which trading innovation in India?",
+          "o": [
+            "Open outcry trading system",
+            "Electronic/screen-based trading",
+            "Barter-based trading",
+            "Manual ledger trading"
+          ],
+          "a": 1,
+          "e": "The <b>NSE</b> introduced electronic, screen-based trading in India, replacing the earlier open-outcry system used at older exchanges."
+        },
+        {
+          "q": "SENSEX is the benchmark index of which stock exchange?",
+          "o": [
+            "National Stock Exchange",
+            "Bombay Stock Exchange",
+            "Multi Commodity Exchange",
+            "Calcutta Stock Exchange"
+          ],
+          "a": 1,
+          "e": "<b>SENSEX</b> is the benchmark index of the Bombay Stock Exchange (BSE)."
+        },
+        {
+          "q": "NIFTY 50 is the benchmark index of which stock exchange?",
+          "o": [
+            "Bombay Stock Exchange",
+            "National Stock Exchange",
+            "Metropolitan Stock Exchange",
+            "Bombay Commodity Exchange"
+          ],
+          "a": 1,
+          "e": "<b>NIFTY 50</b> is the flagship benchmark index of the National Stock Exchange (NSE)."
+        },
+        {
+          "q": "An Initial Public Offering (IPO) refers to:",
+          "o": [
+            "A company issuing additional shares after being listed",
+            "A company issuing shares to the public for the first time to raise capital",
+            "The government issuing treasury bills",
+            "A merger between two listed companies"
+          ],
+          "a": 1,
+          "e": "An <b>IPO</b> is the process through which a company offers its shares to the public for the first time, enabling it to raise capital and get listed on a stock exchange."
+        },
+        {
+          "q": "When an already listed company issues additional shares to raise further capital, this is known as a:",
+          "o": [
+            "Initial Public Offering (IPO)",
+            "Follow-on Public Offer (FPO)",
+            "Rights Issue only",
+            "Buyback"
+          ],
+          "a": 1,
+          "e": "A <b>Follow-on Public Offer (FPO)</b> occurs when a company that is already listed issues additional shares to the public."
+        },
+        {
+          "q": "A mutual fund is best defined as:",
+          "o": [
+            "A government scheme for old-age pensions",
+            "An entity that pools money from investors and invests it in a diversified portfolio of securities",
+            "A bank deposit scheme guaranteeing fixed returns",
+            "A single-company stock investment"
+          ],
+          "a": 1,
+          "e": "A <b>mutual fund</b> pools money from multiple investors and invests it in a diversified portfolio of securities, managed by professional fund managers."
+        },
+        {
+          "q": "Net Asset Value (NAV) of a mutual fund scheme is calculated as:",
+          "o": [
+            "Total assets divided by number of investors",
+            "(Total assets minus liabilities) divided by number of outstanding units",
+            "Total liabilities divided by total assets",
+            "Market capitalisation of the fund house"
+          ],
+          "a": 1,
+          "e": "<b>NAV</b> equals (total assets minus liabilities) divided by the number of outstanding units of the scheme, representing the per-unit value of the fund."
+        },
+        {
+          "q": "Which of the following is a self-regulatory organisation for the mutual fund industry in India, rather than a statutory regulator?",
+          "o": [
+            "SEBI",
+            "AMFI",
+            "RBI",
+            "IRDAI"
+          ],
+          "a": 1,
+          "e": "<b>AMFI</b> (Association of Mutual Funds in India) is a self-regulatory industry body for mutual funds, while SEBI is the statutory regulator."
+        },
+        {
+          "q": "Which of the following are examples of credit rating agencies operating in India?",
+          "o": [
+            "NSDL and CDSL",
+            "CRISIL, ICRA and CARE",
+            "BSE and NSE",
+            "SEBI and RBI"
+          ],
+          "a": 1,
+          "e": "<b>CRISIL, ICRA, and CARE</b> are well-known credit rating agencies in India that assess the creditworthiness of debt instruments and issuers."
+        },
+        {
+          "q": "India's first securities depository was:",
+          "o": [
+            "Central Depository Services Limited (CDSL)",
+            "National Securities Depository Limited (NSDL)",
+            "Bombay Stock Exchange Depository",
+            "Reserve Bank Depository"
+          ],
+          "a": 1,
+          "e": "<b>NSDL</b>, established in 1996, was India's first securities depository, facilitating the holding of securities in electronic (dematerialised) form."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements: 1. SEBI was established in 1988 as a statutory body. 2. SEBI was granted statutory powers only in 1992 through the SEBI Act. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "SEBI was established in 1988 as a <b>non-statutory</b> body; it acquired statutory powers only in 1992 via the <b>SEBI Act, 1992</b>. Hence statement 1 is incorrect and statement 2 is correct."
+        },
+        {
+          "q": "Consider the following statements: 1. The BSE was established before the NSE. 2. The NSE was the first exchange in India to introduce electronic/screen-based trading. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "The <b>BSE</b> (1875) predates the <b>NSE</b> (1992/1994), and the NSE pioneered electronic screen-based trading in India. Both statements are correct."
+        },
+        {
+          "q": "Consider the following statements regarding the primary and secondary markets: 1. An IPO is a primary market transaction. 2. Trading of already-issued shares on the BSE is a secondary market activity. 3. The secondary market is where companies raise fresh capital by issuing new shares. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct: an <b>IPO</b> is a primary market activity, and trading of existing shares on exchanges is a <b>secondary market</b> activity. Statement 3 is incorrect because raising fresh capital through new share issuance happens in the primary market, not the secondary market."
+        },
+        {
+          "q": "Consider the following statements: 1. Mutual funds in India are regulated by SEBI. 2. AMFI is a statutory regulatory body with powers to penalise mutual funds for non-compliance. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Mutual funds are regulated by <b>SEBI</b>, a statutory body, whereas <b>AMFI</b> is only a self-regulatory industry association without statutory powers of penalisation."
+        },
+        {
+          "q": "Consider the following statements: 1. Credit rating agencies assess the creditworthiness of debt instruments and issuers. 2. A high credit rating guarantees that an equity investment will yield high returns. 3. CRISIL, ICRA and CARE are examples of credit rating agencies functioning in India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct. Statement 2 is wrong because credit ratings assess default/credit risk of <b>debt instruments</b>, not the potential returns of equity investments."
+        },
+        {
+          "q": "Consider the following statements: 1. An FPO is issued by a company that is already listed on a stock exchange. 2. An IPO always precedes an FPO for a given company. 3. Both IPOs and FPOs are secondary market transactions. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct: an <b>FPO</b> is issued by an already-listed company, and logically an IPO precedes any FPO. Statement 3 is incorrect since both IPOs and FPOs are <b>primary market</b> transactions, not secondary market ones."
+        },
+        {
+          "q": "Which of the following best distinguishes the primary market from the secondary market?",
+          "o": [
+            "The primary market involves only government securities, while the secondary market involves only corporate securities",
+            "The primary market creates new securities, while the secondary market facilitates trading of existing securities",
+            "The primary market operates only in Mumbai, while the secondary market operates nationwide",
+            "The primary market is regulated by RBI, while the secondary market is regulated by SEBI"
+          ],
+          "a": 1,
+          "e": "The core distinction is that the <b>primary market</b> is where new securities are created and issued, while the <b>secondary market</b> enables trading of already-issued securities among investors."
+        },
+        {
+          "q": "SEBI's mandate includes all of the following EXCEPT:",
+          "o": [
+            "Protecting the interests of investors in securities",
+            "Promoting the development of the securities market",
+            "Regulating the securities market",
+            "Setting the repo rate for the Indian economy"
+          ],
+          "a": 3,
+          "e": "Setting the <b>repo rate</b> is a monetary policy function performed by the RBI, not SEBI, whose mandate covers investor protection, market development, and regulation of securities markets."
+        },
+        {
+          "q": "Which statement correctly captures the relationship between NSDL and CDSL?",
+          "o": [
+            "Both are stock exchanges competing with BSE and NSE",
+            "Both are depositories that facilitate holding of securities in electronic (dematerialised) form",
+            "NSDL regulates CDSL's operations",
+            "CDSL is a credit rating agency while NSDL is a depository"
+          ],
+          "a": 1,
+          "e": "<b>NSDL</b> and <b>CDSL</b> are both depositories in India that enable investors to hold securities in electronic/dematerialised form rather than as physical certificates."
+        },
+        {
+          "q": "In the context of mutual funds, which of the following statements is correct regarding the Net Asset Value (NAV)?",
+          "o": [
+            "NAV remains fixed for the entire tenure of a scheme",
+            "NAV represents the per-unit market value of the fund's portfolio after deducting liabilities",
+            "NAV is set by SEBI and does not fluctuate with market prices",
+            "NAV is only relevant for debt mutual funds, not equity mutual funds"
+          ],
+          "a": 1,
+          "e": "<b>NAV</b> reflects the per-unit value of a mutual fund scheme's underlying assets after deducting liabilities, and it fluctuates with the market value of the securities held."
+        },
+        {
+          "q": "Why is dematerialisation (demat) considered significant for the Indian securities market?",
+          "o": [
+            "It eliminated the need for stock exchanges altogether",
+            "It converted physical share certificates into electronic form, reducing risks like theft, forgery, and delays in transfer",
+            "It replaced SEBI as the securities regulator",
+            "It made mutual funds obsolete"
+          ],
+          "a": 1,
+          "e": "<b>Dematerialisation</b> converts physical securities into electronic holdings, reducing risks associated with paper certificates such as loss, theft, forgery, and transfer delays."
+        },
+        {
+          "q": "A company seeking to raise capital through an IPO would primarily approach which segment of the financial market?",
+          "o": [
+            "Secondary market",
+            "Money market only",
+            "Primary market",
+            "Foreign exchange market"
+          ],
+          "a": 2,
+          "e": "An <b>IPO</b> is a primary market instrument through which a company raises fresh capital directly from investors for the first time."
+        },
+        {
+          "q": "Which of the following is NOT a typical function of a credit rating agency?",
+          "o": [
+            "Assessing the default risk of a corporate bond",
+            "Guaranteeing repayment of the rated debt instrument",
+            "Assigning a rating grade reflecting creditworthiness",
+            "Providing information that helps investors gauge credit risk"
+          ],
+          "a": 1,
+          "e": "Credit rating agencies only assess and communicate <b>creditworthiness/default risk</b>; they do not guarantee repayment of the instruments they rate."
+        },
+        {
+          "q": "Compared to the BSE, a key historical distinguishing feature of the NSE is that it:",
+          "o": [
+            "Was established almost a century earlier than the BSE",
+            "Introduced the concept of electronic/screen-based trading in India",
+            "Is the only exchange permitted to list government bonds",
+            "Was established as a purely non-profit charitable trust with no shareholders"
+          ],
+          "a": 1,
+          "e": "Unlike the older <b>BSE</b> (established 1875), the <b>NSE</b>, incorporated in 1992, is credited with pioneering electronic, screen-based trading in the Indian securities market."
+        },
+        {
+          "q": "Why might an investor prefer a mutual fund over directly purchasing individual stocks?",
+          "o": [
+            "Mutual funds guarantee fixed returns regardless of market performance",
+            "Mutual funds offer professional management and diversification across a portfolio of securities",
+            "Mutual funds are exempt from all SEBI regulations",
+            "Mutual funds are only available to institutional investors"
+          ],
+          "a": 1,
+          "e": "<b>Mutual funds</b> allow investors to benefit from professional fund management and diversification across multiple securities, which can reduce risk compared to holding a single stock."
+        },
+        {
+          "q": "In terms of regulatory scope, which statement about SEBI's establishment is most accurate?",
+          "o": [
+            "SEBI functioned only as an advisory body until 1988 with no involvement in markets",
+            "SEBI was created in 1988 as a non-statutory body and later empowered by statute in 1992",
+            "SEBI has never had authority over stock exchanges",
+            "SEBI was established under the Companies Act, 1956"
+          ],
+          "a": 1,
+          "e": "<b>SEBI</b> was set up in 1988 as a non-statutory regulatory body and was subsequently given statutory backing through the <b>SEBI Act, 1992</b>."
+        },
+        {
+          "q": "An FPO differs from an IPO primarily in that:",
+          "o": [
+            "An FPO involves a company that is not yet listed, while an IPO involves a listed company",
+            "An FPO is issued by a company already listed on a stock exchange, whereas an IPO is the first public issue of shares",
+            "An FPO can only be issued by public sector companies",
+            "An FPO is a secondary market instrument while an IPO is a primary market instrument"
+          ],
+          "a": 1,
+          "e": "An <b>FPO</b> is issued by a company that is already listed and trading on a stock exchange, unlike an <b>IPO</b>, which marks a company's first public issue of shares."
+        },
+        {
+          "q": "Which of the following correctly reflects the regulatory relationship between SEBI and credit rating agencies in India?",
+          "o": [
+            "Credit rating agencies operate entirely outside SEBI's regulatory purview",
+            "Credit rating agencies in India are regulated by SEBI",
+            "Credit rating agencies are regulated by the RBI, not SEBI",
+            "Credit rating agencies are self-regulated with no external oversight"
+          ],
+          "a": 1,
+          "e": "<b>Credit rating agencies</b> operating in India, such as CRISIL, ICRA, and CARE, are regulated by <b>SEBI</b> under its regulations governing credit rating agencies."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. SEBI was established in 1988 primarily to regulate the mutual fund industry, with no role in stock exchanges. 2. The statutory backing given to SEBI in 1992 followed a period of market irregularities that highlighted the need for a stronger regulator. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect since SEBI's mandate from inception covered the broader securities market including stock exchanges, not just mutual funds. Statement 2 is correct — <b>SEBI Act, 1992</b> gave SEBI statutory powers, reflecting the need for a stronger regulatory framework for securities markets."
+        },
+        {
+          "q": "Consider the following statements: 1. The BSE was established in 1875 and is the oldest stock exchange in Asia. 2. The NSE was incorporated in 1992 and commenced operations in 1994. 3. Both BSE and NSE compute their own benchmark indices, SENSEX and NIFTY respectively. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are accurate: <b>BSE</b> (1875) is Asia's oldest exchange, <b>NSE</b> was incorporated in 1992 and began operations in 1994, and each maintains its own benchmark index — <b>SENSEX</b> for BSE and <b>NIFTY</b> for NSE."
+        },
+        {
+          "q": "Consider the following statements: 1. A mutual fund's NAV is computed by dividing total assets alone by the number of outstanding units. 2. Professional fund managers within Asset Management Companies (AMCs) manage mutual fund portfolios on behalf of investors. 3. SEBI regulates mutual funds, while AMFI functions as a self-regulatory body for the industry. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect because NAV is computed using (total assets minus liabilities) divided by outstanding units, not total assets alone. Statements 2 and 3 are correct, describing the role of <b>AMCs</b> and the regulatory division between <b>SEBI</b> and <b>AMFI</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. An IPO always results in the company being listed on a stock exchange for the first time. 2. Once a company completes an FPO, it ceases to be eligible for future secondary market trading. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is broadly correct as an <b>IPO</b> is associated with a company's first listing and public share issuance. Statement 2 is incorrect — a company issuing an <b>FPO</b> remains listed and continues to be traded on the secondary market."
+        },
+        {
+          "q": "Consider the following statements: 1. Credit rating agencies certify the accuracy of a company's financial statements. 2. Credit rating agencies assign ratings that reflect the relative risk of default on a debt obligation. 3. A credit rating downgrade can increase the cost of borrowing for the rated entity. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect; credit rating agencies do not audit or certify financial statements — that is the role of auditors. Statements 2 and 3 correctly describe the core function of <b>credit rating agencies</b> and the practical consequence of a downgrade."
+        },
+        {
+          "q": "Consider the following statements: 1. The primary market includes mechanisms such as IPOs, FPOs, rights issues, and private placements. 2. The secondary market is where price discovery for already-issued securities takes place through continuous trading. 3. Depositories such as NSDL and CDSL primarily operate within the primary market to underwrite new share issues. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 correctly describe primary market mechanisms and secondary market price discovery. Statement 3 is incorrect since <b>NSDL and CDSL</b> are depositories facilitating electronic holding/transfer of securities, not underwriters of new issues."
+        },
+        {
+          "q": "Consider the following statements: 1. Screen-based electronic trading, as introduced by the NSE, made trade execution more transparent compared to the earlier open-outcry system. 2. The introduction of electronic trading eliminated the need for a securities regulator like SEBI. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct, as <b>electronic/screen-based trading</b> introduced by the NSE improved transparency over the older open-outcry method. Statement 2 is incorrect, as electronic trading did not remove the need for regulatory oversight by <b>SEBI</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. SEBI was a non-statutory body between 1988 and 1992. 2. The SEBI Act, 1992 gave the regulator explicit statutory powers over stock exchanges and market intermediaries. 3. Prior to receiving statutory powers, SEBI had no existence at all. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct: SEBI existed as a <b>non-statutory body from 1988</b> and was empowered by the <b>SEBI Act, 1992</b>. Statement 3 is incorrect since SEBI did exist, albeit without statutory powers, before 1992."
+        },
+        {
+          "q": "Consider the following statements: 1. Mutual funds pool resources from multiple investors to invest in a diversified portfolio. 2. All mutual fund schemes offer guaranteed, fixed returns similar to bank fixed deposits. 3. The value of an investor's holding in a mutual fund scheme is linked to the scheme's NAV. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct, describing pooling of funds and the link between NAV and investor holdings. Statement 2 is incorrect since mutual fund returns are market-linked and not guaranteed like fixed deposits."
+        },
+        {
+          "q": "Consider the following statements: 1. The distinction between primary and secondary markets is based on whether a security is being issued for the first time or being subsequently traded. 2. A security can never move from the primary market to the secondary market. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly captures the fundamental distinction between the <b>primary</b> and <b>secondary</b> markets. Statement 2 is incorrect, since after a primary issuance (like an IPO), the same securities subsequently trade in the secondary market."
+        },
+        {
+          "q": "A tricky feature of SEBI's evolution is that it functioned for several years without statutory authority. What was the primary limitation SEBI faced during 1988-1992 as a non-statutory body?",
+          "o": [
+            "It could not issue any regulations or guidelines at all",
+            "It lacked the legal power to enforce its directions on market participants",
+            "It had no role in approving mutual fund schemes",
+            "It could not communicate with stock exchanges"
+          ],
+          "a": 1,
+          "e": "As a <b>non-statutory body</b> between 1988 and 1992, SEBI could issue guidelines but lacked the legal enforcement powers it gained only after the <b>SEBI Act, 1992</b>."
+        },
+        {
+          "q": "If a well-established, already-listed company wishes to raise additional equity capital from the public without doing a fresh listing, it would typically use:",
+          "o": [
+            "An Initial Public Offering (IPO)",
+            "A Follow-on Public Offer (FPO)",
+            "A secondary market purchase",
+            "A credit rating upgrade"
+          ],
+          "a": 1,
+          "e": "A <b>Follow-on Public Offer (FPO)</b> allows an already-listed company to raise further capital by issuing additional shares, without undergoing a fresh IPO listing process."
+        },
+        {
+          "q": "Which of the following best explains why credit rating agencies are relevant to the primary market for debt instruments?",
+          "o": [
+            "They fix the coupon rate on all bonds issued",
+            "They provide an independent assessment of default risk that helps investors decide whether to subscribe to a new debt issue",
+            "They act as the underwriters for every bond issuance",
+            "They guarantee full repayment of the principal to bondholders"
+          ],
+          "a": 1,
+          "e": "<b>Credit rating agencies</b> provide an independent risk assessment that helps investors make informed decisions when subscribing to new debt issues in the primary market, without guaranteeing repayment."
+        },
+        {
+          "q": "A key structural difference between how BSE historically operated and how NSE was designed from its inception relates to:",
+          "o": [
+            "Geographic location alone",
+            "The adoption of electronic/screen-based trading versus a legacy floor-based trading system",
+            "The type of securities each was allowed to list",
+            "Ownership by the central government"
+          ],
+          "a": 1,
+          "e": "While the <b>BSE</b> initially operated on a floor-based/open outcry system, the <b>NSE</b> was designed from inception around electronic/screen-based trading, a key structural distinction between the two."
+        },
+        {
+          "q": "In assessing an investor's decision between primary and secondary market participation, which of the following is the most accurate statement?",
+          "o": [
+            "Investing in a company's IPO channels funds directly to the issuing company, whereas buying its shares later on the stock exchange channels funds to the selling shareholder, not the company",
+            "Buying shares in the secondary market always results in funds flowing to the issuing company",
+            "IPOs and secondary market purchases are functionally identical in terms of where the money goes",
+            "Only secondary market transactions involve any transfer of ownership"
+          ],
+          "a": 0,
+          "e": "In a <b>primary market</b> transaction like an IPO, funds flow to the issuing company; in a <b>secondary market</b> transaction, funds flow to the selling shareholder, not the company itself."
+        },
+        {
+          "q": "Why is NAV particularly important for an investor redeeming units of an open-ended mutual fund scheme?",
+          "o": [
+            "NAV determines the tax rate applicable on redemption",
+            "NAV determines the per-unit price at which units are bought or redeemed on a given day",
+            "NAV is fixed by the government for all schemes",
+            "NAV has no bearing on redemption value"
+          ],
+          "a": 1,
+          "e": "The <b>NAV</b> on a given day determines the per-unit price at which an investor buys into or redeems units from an open-ended mutual fund scheme."
+        },
+        {
+          "q": "A nuanced distinction between AMFI and SEBI in the mutual fund ecosystem is that:",
+          "o": [
+            "AMFI has statutory powers to penalise AMCs, while SEBI is merely advisory",
+            "SEBI is the statutory regulator with enforcement powers, while AMFI is a self-regulatory industry association",
+            "Both AMFI and SEBI have identical statutory powers",
+            "AMFI regulates stock exchanges while SEBI regulates only mutual funds"
+          ],
+          "a": 1,
+          "e": "<b>SEBI</b> is the statutory regulator of the securities market including mutual funds, whereas <b>AMFI</b> is a self-regulatory organisation representing the mutual fund industry without independent statutory enforcement powers."
+        },
+        {
+          "q": "Considering the historical timeline of Indian financial market institutions, which sequencing is correct?",
+          "o": [
+            "NSE (1992) before BSE (1875) before SEBI's statutory status (1992)",
+            "BSE (1875) before SEBI's establishment (1988) before SEBI's statutory status (1992) before NSE operations (1994)",
+            "SEBI's statutory status (1992) before BSE's establishment (1875)",
+            "NSDL's establishment (1996) before SEBI's establishment (1988)"
+          ],
+          "a": 1,
+          "e": "The correct historical sequence is: <b>BSE</b> established in 1875, <b>SEBI</b> set up in 1988, SEBI granted statutory powers in 1992, and <b>NSE</b> commencing trading operations in 1994."
+        }
+      ]
+    }
+  },
+  {
+    "id": "eco_inflation",
+    "title": "Inflation and Price Indices",
+    "desc": "Inflation types, price indices, and RBI's targeting framework",
+    "questions": {
+      "basic": [
+        {
+          "q": "Demand-pull inflation is primarily caused by which of the following?",
+          "o": [
+            "A rise in the cost of raw materials and wages",
+            "Excess aggregate demand relative to available supply of goods and services",
+            "A fall in the exchange rate of the domestic currency",
+            "An increase in indirect taxes imposed by the government"
+          ],
+          "a": 1,
+          "e": "<b>Demand-pull inflation</b> occurs when aggregate demand in an economy outpaces aggregate supply, often described as 'too much money chasing too few goods'."
+        },
+        {
+          "q": "Cost-push inflation occurs mainly due to which of the following?",
+          "o": [
+            "A sudden increase in aggregate demand",
+            "A rise in production costs such as wages and raw material or oil prices",
+            "An increase in the household savings rate",
+            "A reduction in the fiscal deficit"
+          ],
+          "a": 1,
+          "e": "<b>Cost-push inflation</b> arises when the cost of inputs like wages, raw materials, or oil rises, forcing producers to raise prices even without a rise in demand."
+        },
+        {
+          "q": "What does the abbreviation 'WPI' stand for in the context of inflation measurement in India?",
+          "o": [
+            "Wholesale Price Index",
+            "Weighted Price Index",
+            "World Price Index",
+            "Wage Parity Index"
+          ],
+          "a": 0,
+          "e": "<b>WPI</b> stands for <b>Wholesale Price Index</b>, which measures average price changes of goods at the wholesale or producer level."
+        },
+        {
+          "q": "Which of the following is NOT covered under the Wholesale Price Index (WPI) basket?",
+          "o": [
+            "Manufactured products",
+            "Primary articles",
+            "Fuel and power",
+            "Services"
+          ],
+          "a": 3,
+          "e": "The <b>WPI</b> basket covers primary articles, fuel and power, and manufactured products, but does not include <b>services</b>."
+        },
+        {
+          "q": "The Wholesale Price Index (WPI) in India is compiled and released by which of the following?",
+          "o": [
+            "Reserve Bank of India",
+            "National Statistical Office",
+            "Office of the Economic Adviser, Ministry of Commerce and Industry",
+            "Labour Bureau"
+          ],
+          "a": 2,
+          "e": "<b>WPI</b> is compiled and released by the <b>Office of the Economic Adviser</b> under the Ministry of Commerce and Industry, not by RBI or NSO."
+        },
+        {
+          "q": "What does 'CPI' stand for?",
+          "o": [
+            "Consumer Price Index",
+            "Composite Price Index",
+            "Commodity Price Index",
+            "Cost Production Index"
+          ],
+          "a": 0,
+          "e": "<b>CPI</b> stands for <b>Consumer Price Index</b>, which measures changes in retail prices faced by consumers."
+        },
+        {
+          "q": "Unlike the WPI, the CPI basket in India includes which of the following components?",
+          "o": [
+            "Only primary articles",
+            "Only manufactured goods",
+            "Services such as education, health and transport",
+            "Only fuel and power items"
+          ],
+          "a": 2,
+          "e": "The <b>CPI</b> basket, unlike WPI, includes <b>services</b> such as education, healthcare, transport and recreation, reflecting actual consumer spending patterns."
+        },
+        {
+          "q": "The CPI (Combined), CPI (Rural) and CPI (Urban) indices in India are compiled by which organisation?",
+          "o": [
+            "Labour Bureau",
+            "Reserve Bank of India",
+            "National Statistical Office (NSO) under MoSPI",
+            "Office of Economic Adviser"
+          ],
+          "a": 2,
+          "e": "The <b>National Statistical Office (NSO)</b>, under the Ministry of Statistics and Programme Implementation (<b>MoSPI</b>), compiles CPI (Combined), (Rural) and (Urban)."
+        },
+        {
+          "q": "The CPI-Industrial Workers (CPI-IW) index is compiled by which agency?",
+          "o": [
+            "Labour Bureau",
+            "National Statistical Office",
+            "Reserve Bank of India",
+            "NITI Aayog"
+          ],
+          "a": 0,
+          "e": "<b>CPI-Industrial Workers</b>, along with CPI-Agricultural Labourers and CPI-Rural Labourers, is compiled by the <b>Labour Bureau</b> under the Ministry of Labour and Employment."
+        },
+        {
+          "q": "The GDP deflator is best defined as the:",
+          "o": [
+            "Ratio of real GDP to nominal GDP",
+            "Ratio of nominal GDP to real GDP",
+            "Difference between exports and imports",
+            "Ratio of fiscal deficit to GDP"
+          ],
+          "a": 1,
+          "e": "The <b>GDP deflator</b> is calculated as (Nominal GDP / Real GDP) x 100, reflecting overall price changes in the economy."
+        },
+        {
+          "q": "Which of the following is considered the broadest measure of the price level in an economy?",
+          "o": [
+            "Wholesale Price Index",
+            "Consumer Price Index",
+            "GDP deflator",
+            "CPI-Industrial Workers"
+          ],
+          "a": 2,
+          "e": "The <b>GDP deflator</b> covers all goods and services produced domestically in the economy, making it the broadest measure of the price level, unlike WPI/CPI which use a fixed basket."
+        },
+        {
+          "q": "In the construction of a price index, the reference year against which price changes are measured is assigned an index value of:",
+          "o": [
+            "50",
+            "100",
+            "1",
+            "1000"
+          ],
+          "a": 1,
+          "e": "The <b>base year</b> is assigned an index value of <b>100</b>, and subsequent price changes are measured relative to this reference year."
+        },
+        {
+          "q": "India formally adopted a flexible inflation targeting (FIT) framework in which year?",
+          "o": [
+            "2014",
+            "2016",
+            "1991",
+            "2008"
+          ],
+          "a": 1,
+          "e": "India adopted the flexible inflation targeting framework in <b>2016</b> through an amendment to the RBI Act, 1934."
+        },
+        {
+          "q": "The flexible inflation targeting framework in India was introduced through an amendment to which legislation?",
+          "o": [
+            "Fiscal Responsibility and Budget Management Act",
+            "Reserve Bank of India Act, 1934",
+            "Banking Regulation Act, 1949",
+            "Finance Act, 1991"
+          ],
+          "a": 1,
+          "e": "The framework was introduced via an amendment to the <b>Reserve Bank of India Act, 1934</b>, inserting provisions for inflation targeting."
+        },
+        {
+          "q": "Under India's inflation targeting framework, what is the central inflation target set for the Reserve Bank of India?",
+          "o": [
+            "2%",
+            "4%",
+            "6%",
+            "8%"
+          ],
+          "a": 1,
+          "e": "The inflation target is set at <b>4%</b> CPI (Combined) inflation, with a tolerance band around it."
+        },
+        {
+          "q": "What is the tolerance band around India's inflation target under the flexible inflation targeting framework?",
+          "o": [
+            "+/- 1 percentage point",
+            "+/- 2 percentage points",
+            "+/- 3 percentage points",
+            "+/- 0.5 percentage point"
+          ],
+          "a": 1,
+          "e": "The tolerance band is <b>+/- 2 percentage points</b>, meaning inflation is expected to remain between 2% and 6%."
+        },
+        {
+          "q": "'Stagflation' refers to a situation characterised by the simultaneous occurrence of:",
+          "o": [
+            "High growth, low unemployment and high inflation",
+            "Stagnant growth, high unemployment and high inflation",
+            "High growth and deflation",
+            "Low growth and falling prices"
+          ],
+          "a": 1,
+          "e": "<b>Stagflation</b> refers to the unusual combination of stagnant economic growth, high unemployment, and high inflation occurring together."
+        },
+        {
+          "q": "'Disinflation' refers to a situation where:",
+          "o": [
+            "The general price level falls continuously",
+            "The rate of inflation decreases but remains positive",
+            "Prices remain completely unchanged",
+            "The rate of inflation increases sharply"
+          ],
+          "a": 1,
+          "e": "<b>Disinflation</b> means a slowdown in the rate of inflation, i.e., prices are still rising but at a decelerating pace, unlike deflation where prices actually fall."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which price index would most directly capture a rise in prices of services such as restaurant meals and healthcare, which the WPI cannot capture?",
+          "o": [
+            "Wholesale Price Index",
+            "Consumer Price Index",
+            "Index of Industrial Production",
+            "Purchasing Managers' Index"
+          ],
+          "a": 1,
+          "e": "Since <b>WPI</b> excludes services, only the <b>CPI</b>, which includes services like healthcare and restaurant meals, can capture such price changes."
+        },
+        {
+          "q": "Consider the following statements: 1. The WPI is compiled by the National Statistical Office. 2. The CPI (Combined) is compiled by the National Statistical Office. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect as <b>WPI</b> is compiled by the Office of Economic Adviser, Ministry of Commerce and Industry. Statement 2 is correct as <b>CPI (Combined)</b> is compiled by the <b>NSO</b> under MoSPI."
+        },
+        {
+          "q": "An economy's inflation rate falls from 7% to 5% over a year, while prices continue to rise. This scenario best illustrates:",
+          "o": [
+            "Deflation",
+            "Disinflation",
+            "Stagflation",
+            "Hyperinflation"
+          ],
+          "a": 1,
+          "e": "Since inflation is still positive but decelerating, this is a case of <b>disinflation</b>, not deflation, which would require a fall in the price level itself."
+        },
+        {
+          "q": "Consider the following statements regarding India's inflation targeting framework: 1. It targets CPI (Combined) inflation. 2. The inflation target and tolerance band are decided solely by the Reserve Bank of India without government involvement. 3. The framework was adopted in 2016. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect as the target is set by the <b>Central Government in consultation with the RBI</b>, not by RBI alone."
+        },
+        {
+          "q": "Which of the following CPI sub-indices is used for periodic revision of dearness allowance for industrial workers?",
+          "o": [
+            "CPI-Agricultural Labourers",
+            "CPI-Industrial Workers",
+            "CPI (Rural)",
+            "CPI (Combined)"
+          ],
+          "a": 1,
+          "e": "<b>CPI-Industrial Workers</b>, compiled by the Labour Bureau, is used for revising dearness allowance of industrial workers."
+        },
+        {
+          "q": "Consider the following statements about the GDP deflator: 1. It is based on a fixed basket of goods and services like the CPI. 2. It covers all goods and services produced in the economy, not just a sample basket. 3. It is calculated as the ratio of nominal GDP to real GDP. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect as the <b>GDP deflator</b> is not based on a fixed basket, unlike WPI/CPI. Statements 2 and 3 correctly describe its broad coverage and calculation method."
+        },
+        {
+          "q": "Stagflation is considered an unusual economic phenomenon because it appears to contradict the relationship suggested by which of the following?",
+          "o": [
+            "Laffer Curve",
+            "Phillips Curve",
+            "Lorenz Curve",
+            "IS-LM Curve"
+          ],
+          "a": 1,
+          "e": "The <b>Phillips Curve</b> suggests an inverse relationship between unemployment and inflation, but stagflation shows both rising together, contradicting this relationship."
+        },
+        {
+          "q": "Consider the following statements: 1. Demand-pull inflation is often summarised as 'too much money chasing too few goods'. 2. Cost-push inflation can occur even without any increase in aggregate demand. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>demand-pull inflation</b> reflects excess demand over supply, while <b>cost-push inflation</b> arises from rising input costs regardless of demand conditions."
+        },
+        {
+          "q": "The target for consumer price inflation under India's flexible inflation targeting framework is set through an agreement between:",
+          "o": [
+            "RBI and the Monetary Policy Committee alone",
+            "Government of India and the Reserve Bank of India",
+            "Ministry of Finance and NITI Aayog",
+            "State governments and the Union government"
+          ],
+          "a": 1,
+          "e": "The inflation target is fixed through an agreement between the <b>Government of India</b> and the <b>Reserve Bank of India</b>, as provided under the amended RBI Act."
+        },
+        {
+          "q": "Consider the following statements: 1. CPI-Rural Labourers is compiled by the Labour Bureau. 2. CPI (Urban) is compiled by the National Statistical Office. 3. CPI-Industrial Workers is compiled by the National Statistical Office. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect as <b>CPI-Industrial Workers</b> is compiled by the <b>Labour Bureau</b>, not the NSO."
+        },
+        {
+          "q": "The base year of a price index is periodically revised mainly in order to:",
+          "o": [
+            "Reduce the inflation target set by the RBI",
+            "Better reflect current consumption and production patterns in the economy",
+            "Eliminate the need for calculating inflation altogether",
+            "Shift the responsibility of index compilation to a new agency"
+          ],
+          "a": 1,
+          "e": "<b>Base years</b> are revised periodically to keep the index basket and weights relevant to current consumption and production patterns."
+        },
+        {
+          "q": "Consider the following statements: 1. WPI-based inflation is commonly used for indexing certain long-term supply contracts and escalation clauses. 2. CPI-based inflation is used as the reference for India's monetary policy inflation target. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: <b>WPI</b> is often used in commercial contract escalation clauses, while <b>CPI (Combined)</b> is the target measure for monetary policy under the flexible inflation targeting framework."
+        },
+        {
+          "q": "The Monetary Policy Committee (MPC) in India primarily uses which price index as the nominal anchor for setting the policy repo rate?",
+          "o": [
+            "Wholesale Price Index",
+            "CPI (Combined)",
+            "CPI-Industrial Workers",
+            "Index of Industrial Production"
+          ],
+          "a": 1,
+          "e": "The <b>MPC</b> targets <b>CPI (Combined)</b> inflation, not WPI, as the nominal anchor for monetary policy decisions."
+        },
+        {
+          "q": "Consider the following statements: 1. A sharp rise in global crude oil prices leading to higher transport and production costs is an example of cost-push inflation. 2. A festival-season surge in consumer spending outstripping available supply is an example of demand-pull inflation. 3. A rise in prices due to increased money supply without any change in output is an example of cost-push inflation. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 correctly describe cost-push and demand-pull inflation respectively. Statement 3 is incorrect since a rise in prices purely due to increased money supply chasing the same output is a classic case of <b>demand-pull</b>, not cost-push, inflation."
+        },
+        {
+          "q": "Which of the following best distinguishes the CPI from the WPI in terms of scope?",
+          "o": [
+            "CPI covers wholesale transactions while WPI covers retail transactions",
+            "CPI includes services in its basket while WPI does not",
+            "WPI is released more frequently than CPI",
+            "WPI is compiled by MoSPI while CPI is compiled by the Ministry of Commerce"
+          ],
+          "a": 1,
+          "e": "The key distinction is that <b>CPI includes services</b> in its basket, whereas <b>WPI</b> is restricted to goods at the wholesale level."
+        },
+        {
+          "q": "Consider the following statements: 1. Deflation refers to a sustained fall in the general price level. 2. Disinflation refers to a fall in the general price level accompanied by rising unemployment. 3. Stagflation refers to high inflation occurring together with stagnant growth and high unemployment. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect as <b>disinflation</b> means a slowdown in the rate of inflation while prices still rise, not a fall in the price level."
+        },
+        {
+          "q": "A sustained increase in wages across an economy, unmatched by productivity gains, leading producers to raise prices, is best described as an example of:",
+          "o": [
+            "Demand-pull inflation",
+            "Cost-push inflation",
+            "Deflation",
+            "Disinflation"
+          ],
+          "a": 1,
+          "e": "A wage increase unmatched by productivity gains raises production costs, which is a classic driver of <b>cost-push inflation</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The base year for WPI and CPI has remained unchanged since their inception. 2. A more recent base year generally makes the index more representative of current consumption patterns. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect since base years of WPI and CPI have been <b>revised periodically</b>. Statement 2 is correct as an updated base year better reflects current consumption and production patterns."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "If nominal GDP grows at 10% while real GDP grows at 6% in a given year, the implied GDP deflator-based inflation rate would be approximately:",
+          "o": [
+            "4%",
+            "6%",
+            "10%",
+            "16%"
+          ],
+          "a": 0,
+          "e": "Since the <b>GDP deflator</b> reflects the difference between nominal and real growth, the implied inflation rate is approximately 10% minus 6%, i.e., about <b>4%</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The GDP deflator is based on a fixed basket of goods and services, similar to the CPI. 2. The GDP deflator automatically reflects changes in the composition of output each year, unlike a fixed-basket index. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect since the <b>GDP deflator</b>, unlike WPI/CPI, is not based on a fixed basket. Statement 2 is correct as it captures the full range of goods and services produced in a given year, adjusting automatically to changes in output composition."
+        },
+        {
+          "q": "If a country's inflation rate declines from 6% to 3%, but the general price level continues to rise throughout, this is best described as:",
+          "o": [
+            "Deflation",
+            "Disinflation",
+            "Reflation",
+            "Stagflation"
+          ],
+          "a": 1,
+          "e": "Since prices are still rising, only at a slower pace, this represents <b>disinflation</b>; deflation would require the price level itself to fall."
+        },
+        {
+          "q": "Consider the following statements regarding India's flexible inflation targeting framework: 1. The inflation target is reviewed and set once every five years. 2. If inflation remains outside the tolerance band for three consecutive quarters, the RBI is required to submit a report to the Central Government. 3. The framework allows the RBI sole and unilateral authority to change the inflation target at any time. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct as per the RBI Act provisions. Statement 3 is incorrect since the target is set by the <b>Central Government in consultation with the RBI</b>, not by the RBI unilaterally."
+        },
+        {
+          "q": "It is possible for WPI-based inflation to turn negative even while CPI-based inflation remains positive in the same period, primarily because:",
+          "o": [
+            "WPI and CPI always move in identical directions",
+            "WPI excludes services and is more sensitive to falling global commodity and fuel prices, while CPI's services component keeps it firmer",
+            "CPI is compiled less frequently than WPI",
+            "WPI includes housing rent while CPI does not"
+          ],
+          "a": 1,
+          "e": "Since <b>WPI</b> excludes services and is heavily influenced by tradable goods, fuel and commodity prices, it can turn negative when global prices fall, even while <b>CPI</b>, buoyed by relatively sticky services prices, stays positive."
+        },
+        {
+          "q": "Consider the following statements: 1. CPI (Combined), CPI (Rural) and CPI (Urban) are compiled by the National Statistical Office. 2. CPI-Industrial Workers, CPI-Agricultural Labourers and CPI-Rural Labourers are compiled by the Labour Bureau. 3. The Wholesale Price Index is compiled by the Reserve Bank of India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 correctly identify the compiling agencies. Statement 3 is incorrect as <b>WPI</b> is compiled by the Office of Economic Adviser, Ministry of Commerce and Industry, not the RBI."
+        },
+        {
+          "q": "The global stagflation of the 1970s, often cited in economic literature, was primarily triggered by which of the following?",
+          "o": [
+            "A sudden collapse in global demand for consumer goods",
+            "Sharp oil price shocks raising production costs alongside slowing growth",
+            "A steep appreciation of the US dollar",
+            "Excess agricultural output leading to falling farm incomes"
+          ],
+          "a": 1,
+          "e": "The 1970s <b>stagflation</b> episode was largely triggered by sharp oil price shocks, which raised production costs (cost-push inflation) even as economic growth slowed."
+        },
+        {
+          "q": "Consider the following statements: 1. Demand-pull inflation is typically associated with an expansionary phase of the economy where aggregate demand exceeds aggregate supply. 2. A wage-price spiral, where rising wages lead to rising prices which in turn trigger further wage demands, is an example of demand-pull inflation. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly describes <b>demand-pull inflation</b>. Statement 2 is incorrect as a wage-price spiral is a classic example of <b>cost-push</b>, not demand-pull, inflation."
+        },
+        {
+          "q": "Unlike the WPI and CPI, the GDP deflator is not based on a fixed basket of goods and services. This means that the GDP deflator:",
+          "o": [
+            "Cannot be calculated for any economy",
+            "Automatically adjusts its composition each year to reflect current output, unlike a fixed-weight index",
+            "Is always lower in value than the CPI",
+            "Excludes all agricultural products"
+          ],
+          "a": 1,
+          "e": "Since the <b>GDP deflator</b> uses current-year output rather than a fixed basket, its composition automatically changes each year, capturing structural shifts in the economy that fixed-basket indices like WPI/CPI may miss."
+        },
+        {
+          "q": "Consider the following statements: 1. If actual inflation deviates from the target for three consecutive quarters, the RBI must explain the reasons for failure to the government. 2. The RBI's report on target failure must also propose remedial actions and a time period for restoring the target. 3. Such a failure automatically leads to the dissolution of the Monetary Policy Committee. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 correctly describe the RBI's obligations on failure to meet the inflation target. Statement 3 is incorrect as such a failure does not lead to dissolution of the <b>Monetary Policy Committee</b>."
+        },
+        {
+          "q": "As per the RBI Act provisions on inflation targeting, the power to determine the inflation target once every five years vests with:",
+          "o": [
+            "The Reserve Bank of India alone",
+            "The Monetary Policy Committee alone",
+            "The Central Government, in consultation with the Reserve Bank of India",
+            "The National Statistical Office"
+          ],
+          "a": 2,
+          "e": "The <b>Central Government</b>, in consultation with the <b>RBI</b>, determines the inflation target once every five years under the amended RBI Act."
+        },
+        {
+          "q": "Consider the following statements: 1. Commercial contracts with price escalation clauses often reference changes in the Wholesale Price Index. 2. The GDP deflator captures price changes for all domestically produced goods and services, not just a fixed sample. 3. The Monetary Policy Committee targets CPI-Industrial Workers inflation rather than CPI (Combined). Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct: WPI is commonly used in escalation clauses, and the GDP deflator covers all domestically produced goods and services rather than a fixed basket. Statement 3 is incorrect as the <b>MPC</b> targets <b>CPI (Combined)</b>, not CPI-Industrial Workers."
+        },
+        {
+          "q": "The price index of a commodity was 120 in the current year with the base year value being 100. This indicates that prices have, on average:",
+          "o": [
+            "Fallen by 20% since the base year",
+            "Risen by 20% since the base year",
+            "Doubled since the base year",
+            "Remained unchanged since the base year"
+          ],
+          "a": 1,
+          "e": "An index value of 120 against a base of 100 indicates a <b>20% rise</b> in prices relative to the base year."
+        },
+        {
+          "q": "Consider the following statements: 1. The GDP deflator, being based on domestic output, does not directly capture price changes of imported goods that are not part of domestic production. 2. The CPI basket can include price changes of certain imported consumer goods purchased by households. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the <b>GDP deflator</b> reflects only domestically produced goods and services, whereas the <b>CPI</b> basket reflects consumer purchases, which can include imported goods."
+        },
+        {
+          "q": "The growing share of services in India's economy is best captured for inflation measurement purposes by which index, given the current design of these indices?",
+          "o": [
+            "Wholesale Price Index",
+            "Consumer Price Index",
+            "Index of Industrial Production",
+            "Wholesale Price Index for fuel and power"
+          ],
+          "a": 1,
+          "e": "As the <b>CPI</b> includes services such as healthcare, education and transport, it better captures inflationary pressures from a growing services sector compared to WPI."
+        },
+        {
+          "q": "Consider the following statements on the historical evolution of India's monetary policy framework: 1. Prior to 2016, the RBI did not have a formal, legally mandated numerical inflation target. 2. A committee headed by Urjit Patel recommended adopting CPI as the nominal anchor for monetary policy. 3. The recommendations of this committee were rejected, and WPI continued to be used as the sole anchor after 2016. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct; the <b>Urjit Patel Committee (2014)</b> recommended CPI as the nominal anchor. Statement 3 is incorrect as this recommendation was accepted, leading to the adoption of <b>CPI (Combined)</b> as the target measure from 2016."
+        },
+        {
+          "q": "When WPI-based and CPI-based inflation estimates diverge significantly, India's monetary policy decisions are guided primarily by:",
+          "o": [
+            "WPI, since it reflects producer costs",
+            "CPI (Combined), since it is the legally mandated target measure",
+            "An average of WPI and CPI",
+            "Index of Industrial Production growth rate"
+          ],
+          "a": 1,
+          "e": "Since the flexible inflation targeting framework legally mandates <b>CPI (Combined)</b> as the target measure, monetary policy decisions are guided by CPI even if WPI shows a divergent trend."
+        },
+        {
+          "q": "Consider the following statements: 1. Deflation refers to a negative rate of inflation, i.e., a fall in the general price level. 2. Disinflation refers to positive inflation that is decelerating over time. 3. Stagflation is consistent with the trade-off predicted by the Phillips Curve between inflation and unemployment. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 correctly define deflation and disinflation. Statement 3 is incorrect as <b>stagflation</b> contradicts, rather than confirms, the Phillips Curve trade-off, since both unemployment and inflation rise together."
+        }
+      ]
+    }
+  }
+]

@@ -191,20 +191,20 @@
 
 <script>
 /* ==================== DATA ==================== */
-const CHAPTERS = __CHAPTERS_JSON__;
-const PENDING = __PENDING_JSON__;
+const SUBJECT_DATA = __SUBJECT_DATA_JSON__;
+/* SUBJECT_DATA shape: { polity: {title, chapters:[...], pending:[...]}, economy: {title, chapters:[...], pending:[...]} } */
 
-const SUBJECTS = {
-  polity: { title:"Polity", desc:`${CHAPTERS.length} of ${CHAPTERS.length + PENDING.length} chapters ready`, ready:true }
-};
+const SUBJECTS = {};
+Object.entries(SUBJECT_DATA).forEach(([key, s])=>{
+  SUBJECTS[key] = { title: s.title, desc: `${s.chapters.length} of ${s.chapters.length + s.pending.length} chapters ready`, ready:true };
+});
 const COMING_SOON_SUBJECTS = [
   {title:"History", desc:"Ancient, Medieval & Modern"},
   {title:"Geography", desc:"Physical, Indian & World"},
-  {title:"Economy", desc:"Indian Economic Development"},
   {title:"Environment & Ecology", desc:"Biodiversity, climate, conservation"},
   {title:"Science & Technology", desc:"Current developments"},
   {title:"Current Affairs", desc:"Monthly compilations"}
-];
+].filter(s => !SUBJECTS[Object.keys(SUBJECT_DATA).find(k=>SUBJECT_DATA[k].title===s.title)]);
 
 const LEVEL_META = {
   basic:{title:"Basic", desc:"Core facts & definitions", badge:"b-basic"},
@@ -259,7 +259,7 @@ function renderChapterList(subjectKey){
   const list = document.getElementById('chapter-list');
   list.innerHTML = '';
   let n = 1;
-  CHAPTERS.forEach(ch=>{
+  SUBJECT_DATA[subjectKey].chapters.forEach(ch=>{
     const total = ch.questions.basic.length + ch.questions.intermediate.length + ch.questions.advanced.length;
     const div = document.createElement('div');
     div.className = 'chapter-item';
@@ -268,7 +268,7 @@ function renderChapterList(subjectKey){
     list.appendChild(div);
     n++;
   });
-  PENDING.forEach(ch=>{
+  SUBJECT_DATA[subjectKey].pending.forEach(ch=>{
     const div = document.createElement('div');
     div.className = 'chapter-item disabled';
     div.innerHTML = `<div style="display:flex; gap:12px; align-items:center;"><span class="num">${n}</span><div><div class="ct">${ch.title}</div><div class="cd">Being added next</div></div></div><span class="soon-badge">Coming soon</span>`;
@@ -281,7 +281,7 @@ function renderChapterList(subjectKey){
   Object.entries(LEVEL_META).forEach(([key, meta])=>{
     const btn = document.createElement('div');
     btn.className = 'level-btn';
-    btn.innerHTML = `<div><div class="lt">${meta.title} — Full Polity Test</div><div class="ld">${meta.desc} · ${SUBJECT_TEST_SIZE} random questions across all chapters</div></div><span class="badge ${meta.badge}">${meta.title}</span>`;
+    btn.innerHTML = `<div><div class="lt">${meta.title} — Full ${SUBJECTS[subjectKey].title} Test</div><div class="ld">${meta.desc} · ${SUBJECT_TEST_SIZE} random questions across all chapters</div></div><span class="badge ${meta.badge}">${meta.title}</span>`;
     btn.onclick = ()=> startQuiz({mode:'subject', level:key});
     stGrid.appendChild(btn);
   });
@@ -293,7 +293,7 @@ function renderChapterList(subjectKey){
 function renderLevelSelect({mode, chapterId}){
   state.mode = mode;
   state.chapterId = chapterId;
-  const ch = CHAPTERS.find(c=>c.id===chapterId);
+  const ch = SUBJECT_DATA[state.subjectKey].chapters.find(c=>c.id===chapterId);
   const bc = document.getElementById('level-breadcrumb');
   bc.innerHTML = `<span class="crumb" onclick="renderSubjects()">Subjects</span><span class="sep">›</span><span class="crumb" onclick="renderChapterList(state.subjectKey)">${SUBJECTS[state.subjectKey].title}</span><span class="sep">›</span><span>${ch.title}</span>`;
   document.getElementById('level-title').textContent = ch.title;
@@ -322,18 +322,20 @@ function shuffle(arr){
 }
 
 function startQuiz({mode, chapterId, level}){
+  const subjectKey = state.subjectKey;
+  const chapters = SUBJECT_DATA[subjectKey].chapters;
   let list = [];
   if(mode === 'chapter'){
-    const ch = CHAPTERS.find(c=>c.id===chapterId);
+    const ch = chapters.find(c=>c.id===chapterId);
     list = ch.questions[level].map(q=>({...q, chapterTitle: ch.title}));
   } else if(mode === 'subject'){
     let pool = [];
-    CHAPTERS.forEach(ch=>{
+    chapters.forEach(ch=>{
       ch.questions[level].forEach(q=> pool.push({...q, chapterTitle: ch.title}));
     });
     list = shuffle(pool).slice(0, SUBJECT_TEST_SIZE);
   }
-  state = { mode, chapterId, level, idx:0, list, answers:[], selected:null };
+  state = { subjectKey, mode, chapterId, level, idx:0, list, answers:[], selected:null };
   showScreen('quiz');
   renderQuestion();
 }
@@ -341,7 +343,7 @@ function startQuiz({mode, chapterId, level}){
 function renderQuestion(){
   const q = state.list[state.idx];
   const levelName = LEVEL_META[state.level].title;
-  document.getElementById('level-label').textContent = (state.mode==='subject' ? 'Full Polity Test — ' : '') + levelName + ' Level';
+  document.getElementById('level-label').textContent = (state.mode==='subject' ? `Full ${SUBJECTS[state.subjectKey].title} Test — ` : '') + levelName + ' Level';
   document.getElementById('q-counter').textContent = `Question ${state.idx+1} of ${state.list.length}`;
   document.getElementById('progress-fill').style.width = `${(state.idx/state.list.length)*100}%`;
 
