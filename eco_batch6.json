@@ -1,0 +1,2430 @@
+[
+  {
+    "id": "eco_insurance_pension",
+    "title": "Insurance and Pension Sector",
+    "desc": "IRDAI, PMFBY, NPS, PFRDA and pension reforms",
+    "questions": {
+      "basic": [
+        {
+          "q": "What does IRDAI stand for?",
+          "o": [
+            "Insurance Regulatory and Development Authority of India",
+            "Indian Reserve and Deposit Authority of India",
+            "Insurance Reserve and Depository Authority of India",
+            "Investment Regulatory and Development Authority of India"
+          ],
+          "a": 0,
+          "e": "<b>IRDAI</b> (Insurance Regulatory and Development Authority of India) is the statutory body that regulates and develops the insurance industry in India."
+        },
+        {
+          "q": "Where is the headquarters of IRDAI located?",
+          "o": [
+            "New Delhi",
+            "Mumbai",
+            "Hyderabad",
+            "Chennai"
+          ],
+          "a": 2,
+          "e": "IRDAI's head office is located in <b>Hyderabad</b>, Telangana."
+        },
+        {
+          "q": "Under which Act was IRDAI constituted?",
+          "o": [
+            "Insurance Act, 1938",
+            "IRDA Act, 1999",
+            "LIC Act, 1956",
+            "Companies Act, 2013"
+          ],
+          "a": 1,
+          "e": "IRDAI was established under the <b>Insurance Regulatory and Development Authority Act, 1999</b>, which also opened the insurance sector to private and foreign players."
+        },
+        {
+          "q": "In which year was the Life Insurance Corporation (LIC) of India established through nationalisation of life insurance business?",
+          "o": [
+            "1950",
+            "1956",
+            "1972",
+            "1999"
+          ],
+          "a": 1,
+          "e": "Life insurance business in India was nationalised in <b>1956</b> with the formation of the Life Insurance Corporation (LIC)."
+        },
+        {
+          "q": "In which year was the general insurance business in India nationalised, leading to the formation of GIC?",
+          "o": [
+            "1956",
+            "1969",
+            "1972",
+            "1991"
+          ],
+          "a": 2,
+          "e": "General insurance business was nationalised in <b>1972</b> through the General Insurance Business (Nationalisation) Act, forming the General Insurance Corporation (GIC)."
+        },
+        {
+          "q": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) was launched in which year?",
+          "o": [
+            "2014",
+            "2015",
+            "2016",
+            "2018"
+          ],
+          "a": 2,
+          "e": "PMFBY, the flagship crop insurance scheme, was launched in <b>2016</b>, replacing earlier crop insurance schemes."
+        },
+        {
+          "q": "Which schemes did the Pradhan Mantri Fasal Bima Yojana (PMFBY) primarily replace?",
+          "o": [
+            "National Agricultural Insurance Scheme (NAIS) and Modified NAIS",
+            "Kisan Credit Card Scheme",
+            "Rashtriya Krishi Bima Yojana only",
+            "PM Kisan Samman Nidhi"
+          ],
+          "a": 0,
+          "e": "PMFBY replaced the <b>National Agricultural Insurance Scheme (NAIS)</b> and the <b>Modified NAIS (MNAIS)</b> to provide a simplified, farmer-friendly crop insurance product."
+        },
+        {
+          "q": "Under PMFBY, what is the uniform maximum premium payable by farmers for Kharif food and oilseed crops?",
+          "o": [
+            "1.5% of sum insured",
+            "2% of sum insured",
+            "5% of sum insured",
+            "10% of sum insured"
+          ],
+          "a": 1,
+          "e": "Under PMFBY, farmers pay a uniform premium of <b>2%</b> of the sum insured for Kharif food and oilseed crops."
+        },
+        {
+          "q": "Under PMFBY, what is the uniform premium payable by farmers for Rabi food and oilseed crops?",
+          "o": [
+            "1.5%",
+            "2%",
+            "5%",
+            "3%"
+          ],
+          "a": 0,
+          "e": "For Rabi food and oilseed crops under PMFBY, farmers pay a uniform premium of <b>1.5%</b> of the sum insured."
+        },
+        {
+          "q": "The National Pension System (NPS) was made mandatory for new recruits to central government service (except armed forces) joining on or after which date?",
+          "o": [
+            "1 January 2000",
+            "1 April 2003",
+            "1 January 2004",
+            "1 April 2009"
+          ],
+          "a": 2,
+          "e": "NPS became mandatory for central government employees (excluding armed forces) who joined service on or after <b>1 January 2004</b>."
+        },
+        {
+          "q": "In which year was the National Pension System (NPS) opened voluntarily to all citizens of India, including private sector employees?",
+          "o": [
+            "2004",
+            "2008",
+            "2009",
+            "2013"
+          ],
+          "a": 2,
+          "e": "NPS was extended on a voluntary basis to all Indian citizens, including private sector workers, from <b>2009</b>."
+        },
+        {
+          "q": "Which body regulates and promotes the National Pension System in India?",
+          "o": [
+            "SEBI",
+            "RBI",
+            "PFRDA",
+            "IRDAI"
+          ],
+          "a": 2,
+          "e": "The <b>Pension Fund Regulatory and Development Authority (PFRDA)</b> regulates the National Pension System and pension funds in India."
+        },
+        {
+          "q": "PFRDA was given statutory status under which Act?",
+          "o": [
+            "PFRDA Act, 2013",
+            "IRDA Act, 1999",
+            "NPS Act, 2004",
+            "Pension Act, 2003"
+          ],
+          "a": 0,
+          "e": "PFRDA, which functioned as an interim regulator from 2003, was granted statutory status under the <b>PFRDA Act, 2013</b>."
+        },
+        {
+          "q": "In which year was the Atal Pension Yojana (APY) launched?",
+          "o": [
+            "2010",
+            "2015",
+            "2016",
+            "2019"
+          ],
+          "a": 1,
+          "e": "Atal Pension Yojana was launched in <b>2015</b> to provide a guaranteed pension to workers in the unorganised sector."
+        },
+        {
+          "q": "Under Atal Pension Yojana, subscribers can receive a guaranteed minimum monthly pension in which range, after age 60?",
+          "o": [
+            "Rs 500 to Rs 2,000",
+            "Rs 1,000 to Rs 5,000",
+            "Rs 2,000 to Rs 10,000",
+            "Rs 1,000 to Rs 10,000"
+          ],
+          "a": 1,
+          "e": "APY guarantees a fixed monthly pension ranging from <b>Rs 1,000 to Rs 5,000</b>, depending on the contribution and entry age."
+        },
+        {
+          "q": "What is the eligible age band for joining the Atal Pension Yojana?",
+          "o": [
+            "16 to 35 years",
+            "18 to 40 years",
+            "18 to 45 years",
+            "21 to 50 years"
+          ],
+          "a": 1,
+          "e": "Any Indian citizen aged between <b>18 and 40 years</b> with a bank/post office account can join APY."
+        },
+        {
+          "q": "Under the National Pension System, which account/tier is mandatory and has restrictions on withdrawal until retirement?",
+          "o": [
+            "Tier I",
+            "Tier II",
+            "Tier III",
+            "Both Tier I and Tier II equally"
+          ],
+          "a": 0,
+          "e": "<b>Tier I</b> is the mandatory, non-withdrawable pension account, while Tier II is a voluntary savings account with no withdrawal restrictions."
+        },
+        {
+          "q": "Which public sector entity primarily undertakes reinsurance business in India as the national reinsurer?",
+          "o": [
+            "LIC",
+            "GIC Re",
+            "New India Assurance",
+            "ICICI Lombard"
+          ],
+          "a": 1,
+          "e": "<b>GIC Re</b> (General Insurance Corporation of India) functions as India's national reinsurer, providing reinsurance support to insurance companies."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which of the following best distinguishes the Old Pension Scheme (OPS) from the National Pension System (NPS)?",
+          "o": [
+            "OPS is a defined-contribution scheme while NPS is a defined-benefit scheme",
+            "OPS is a defined-benefit scheme funded entirely by the government while NPS is a defined-contribution scheme with employee and employer contributions",
+            "Both are defined-benefit schemes but differ only in retirement age",
+            "NPS guarantees a fixed pension amount while OPS does not"
+          ],
+          "a": 1,
+          "e": "Under <b>OPS</b>, the government paid a fixed pension (defined benefit) entirely from its own resources; under <b>NPS</b>, both employee and employer contribute to a pension corpus invested in market-linked instruments (defined contribution)."
+        },
+        {
+          "q": "Which institution administers the Atal Pension Yojana on the ground through banks and post offices, while PFRDA acts as the regulator?",
+          "o": [
+            "National Pension System Trust (NPS Trust)",
+            "Employees' Provident Fund Organisation",
+            "Life Insurance Corporation of India",
+            "National Payments Corporation of India"
+          ],
+          "a": 0,
+          "e": "The <b>NPS Trust</b>, under PFRDA's oversight, administers APY, with participating banks and post offices acting as points of presence for subscriber enrolment."
+        },
+        {
+          "q": "What is the primary purpose of the Insurance Ombudsman mechanism in India?",
+          "o": [
+            "To set premium rates for all insurers",
+            "To provide an inexpensive and speedy forum for resolving policyholder grievances against insurers",
+            "To license new insurance companies",
+            "To regulate reinsurance treaties"
+          ],
+          "a": 1,
+          "e": "The <b>Insurance Ombudsman</b> scheme offers policyholders a low-cost, quick grievance redressal mechanism against insurers, without needing to go to court."
+        },
+        {
+          "q": "'Bancassurance' refers to which of the following arrangements?",
+          "o": [
+            "Banks providing insurance directly as an in-house department without any tie-up",
+            "Banks acting as corporate agents to distribute insurance products of insurance companies",
+            "Insurance companies taking over commercial banks",
+            "A government scheme guaranteeing bank deposits"
+          ],
+          "a": 1,
+          "e": "<b>Bancassurance</b> is an arrangement where banks, using their branch network, sell insurance products of insurers as corporate agents in return for a fee/commission."
+        },
+        {
+          "q": "Under PMFBY, how is the premium subsidy (the difference between actuarial premium and the farmer's share) typically shared between the Centre and States?",
+          "o": [
+            "Borne entirely by the Central Government",
+            "Equally shared between Centre and State Governments, with a higher Central share for North-Eastern States",
+            "Borne entirely by State Governments",
+            "Shared between insurance companies and farmers only"
+          ],
+          "a": 1,
+          "e": "The premium subsidy under PMFBY is generally shared <b>equally between the Centre and State Governments</b>, with the Centre bearing a higher share for North-Eastern states to encourage participation."
+        },
+        {
+          "q": "Which of the following statements about General Insurance in India is correct?",
+          "o": [
+            "General insurance covers only life-related risks",
+            "General insurance includes health, motor, fire and marine insurance, among others",
+            "General insurance policies are always for a lifetime term",
+            "General insurance is regulated by PFRDA"
+          ],
+          "a": 1,
+          "e": "<b>General insurance</b> covers non-life risks such as health, motor, fire, marine and other property/liability risks, and is regulated by IRDAI, not PFRDA."
+        },
+        {
+          "q": "Consider the following statements: 1. IRDAI is a statutory body established by an Act of Parliament. 2. IRDAI licenses both life and general insurance companies operating in India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: IRDAI was set up under the <b>IRDA Act, 1999</b> (a statutory body), and it is responsible for <b>licensing and regulating both life and general insurers</b> in India."
+        },
+        {
+          "q": "Consider the following statements: 1. Under NPS, the government makes an unconditional guarantee of a minimum fixed return to subscribers. 2. NPS returns are market-linked and depend on the performance of underlying pension fund investments. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — NPS, being a <b>defined-contribution</b> scheme, does not guarantee a fixed return; returns depend on market performance of the chosen investment mix, making statement 2 correct."
+        },
+        {
+          "q": "Consider the following statements: 1. Atal Pension Yojana provides a guaranteed pension regardless of market returns. 2. The government does not contribute anything to any subscriber's APY account. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — APY guarantees a fixed pension. Statement 2 is incorrect — the government had earlier provided a co-contribution for eligible subscribers who joined during the initial period (later restricted to non-income-tax payers, non-EPFO members)."
+        },
+        {
+          "q": "Consider the following statements: 1. Under PMFBY, the sum insured only covers losses from natural calamities before harvesting, not post-harvest losses. 2. PMFBY covers post-harvest losses for crops kept in the field for drying for a specified period. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect and statement 2 is correct — PMFBY covers <b>post-harvest losses</b> for specified crops damaged due to defined perils within a set period after harvesting, in addition to pre-harvest risks."
+        },
+        {
+          "q": "Consider the following statements: 1. PFRDA regulates only the National Pension System and has no role in regulating the Atal Pension Yojana. 2. PFRDA also approves and regulates pension fund managers under NPS. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — PFRDA regulates <b>both NPS and APY</b>. Statement 2 is correct — PFRDA approves and regulates the pension fund managers that invest NPS/APY corpus."
+        },
+        {
+          "q": "Consider the following statements regarding insurance in India: 1. LIC has a government-guaranteed sovereign backing for its policies under a special Act. 2. Private life insurance companies operating in India do not have any such sovereign guarantee. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "Both are incorrect",
+            "Cannot be determined"
+          ],
+          "a": 1,
+          "e": "Both statements are correct — the <b>LIC Act, 1956</b> provides a sovereign guarantee on LIC policies, a feature not available to private insurers regulated purely under the Insurance Act/IRDAI framework."
+        },
+        {
+          "q": "Which of the following is/are objectives of IRDAI as per the IRDA Act, 1999? 1. Protecting the interests of policyholders. 2. Regulating, promoting and ensuring orderly growth of the insurance industry. 3. Directly setting the fiscal deficit target for the government. How many of the above are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are core objectives of IRDAI. Statement 3 is incorrect — fiscal deficit targets fall under the Ministry of Finance/FRBM framework, not IRDAI's mandate."
+        },
+        {
+          "q": "Consider the following statements: 1. Under NPS, both Tier I and Tier II accounts are mandatory for a government subscriber. 2. Withdrawals from Tier II accounts can be made freely, similar to a savings account. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — only <b>Tier I</b> is mandatory; Tier II is voluntary. Statement 2 is correct — Tier II functions like a flexible savings account with no withdrawal restrictions."
+        },
+        {
+          "q": "Consider the following statements: 1. Reinsurance means an insurance company transferring part of its risk to another insurer to reduce its own exposure. 2. GIC Re is the only reinsurer permitted to operate in India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly defines <b>reinsurance</b>. Statement 2 is incorrect — foreign reinsurance branches are also permitted to operate in India alongside GIC Re, following liberalisation."
+        },
+        {
+          "q": "Consider the following statements: 1. The Old Pension Scheme provided pension linked to the last drawn salary of the employee. 2. Under OPS, employees were required to contribute a fixed percentage of salary every month towards their pension fund. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — OPS pension was linked to the last drawn salary (defined benefit). Statement 2 is incorrect — under OPS, employees did not contribute; the entire pension liability was borne by the government."
+        },
+        {
+          "q": "Which of the following statements about crop insurance premium rates under PMFBY is correct?",
+          "o": [
+            "Premium rates are uniform for all crop categories at 2%",
+            "Premium rates vary by crop season/type: 2% for Kharif, 1.5% for Rabi, and 5% for annual commercial/horticultural crops",
+            "Premium rates are decided freely by each state without any central norm",
+            "There is no premium payable by farmers under PMFBY"
+          ],
+          "a": 1,
+          "e": "PMFBY prescribes different farmer premium rates by crop category: <b>2% (Kharif), 1.5% (Rabi), and 5% (commercial/horticultural crops)</b>, with the government subsidising the balance actuarial premium."
+        },
+        {
+          "q": "Consider the following statements: 1. Health insurance is classified under general insurance in India. 2. Health insurance can be offered exclusively by dedicated standalone health insurers or by general/life insurers as riders. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "None",
+            "Cannot be determined"
+          ],
+          "a": 1,
+          "e": "Both statements are correct — health insurance falls under the <b>general insurance</b> category, and it is offered by standalone health insurers, general insurers, and as riders by life insurers (subject to IRDAI norms)."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Which of the following correctly traces the evolution of the FDI limit in the Indian insurance sector?",
+          "o": [
+            "26% (2000) to 49% (2015) to 74% (2021)",
+            "49% (2000) to 74% (2015) to 100% (2021)",
+            "26% (1999) directly to 100% (2015)",
+            "There has never been any FDI cap in insurance"
+          ],
+          "a": 0,
+          "e": "FDI in insurance was initially capped at <b>26%</b> under the IRDA Act, 1999, raised to <b>49%</b> in 2015, and further raised to <b>74%</b> through the Insurance (Amendment) Act, 2021."
+        },
+        {
+          "q": "Consider the following statements regarding the Insurance (Amendment) Act, 2021: 1. It raised the FDI limit in Indian insurance companies from 49% to 74%. 2. It removed all requirements regarding Indian ownership and control for insurers with foreign investment. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is incorrect — even at 74% FDI, safeguards such as a majority of directors and key management persons being resident Indians, and a specified portion of profits being retained as general reserve, continued to apply."
+        },
+        {
+          "q": "Consider the following statements: 1. NPS contributions by an employer are eligible for tax deduction under Section 80CCD(2) of the Income Tax Act, over and above the limit under Section 80C. 2. Atal Pension Yojana subscribers cannot claim any income tax deduction on their contributions. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — employer's NPS contribution under Section 80CCD(2) is deductible separately from the Section 80C limit. Statement 2 is incorrect — APY contributions are also eligible for tax deduction under Section 80CCD, similar to NPS."
+        },
+        {
+          "q": "With reference to the National Pension System, consider the following statements: 1. Armed forces personnel are covered under NPS in the same manner as other central government employees. 2. Corporate/private sector employees can voluntarily opt for NPS with employer co-contribution facilitated through the corporate model. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "None",
+            "Cannot be determined"
+          ],
+          "a": 0,
+          "e": "Statement 1 is incorrect — armed forces personnel are excluded from the mandatory NPS coverage for central government employees. Statement 2 is correct — a corporate model of NPS exists for private/corporate employees."
+        },
+        {
+          "q": "Which of the following is/are true regarding the Unified Pension Scheme (UPS) introduced as an option for central government employees? 1. It guarantees an assured pension linked to average basic pay drawn in the last months of service, subject to minimum qualifying service. 2. It is offered as an alternative to NPS specifically for existing and new central government employees who opt for it, not a replacement of NPS for all. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "None",
+            "Cannot be determined"
+          ],
+          "a": 1,
+          "e": "Both statements broadly describe UPS as approved by the government — it assures a defined pension based on average last-drawn pay (with minimum service conditions) and is offered as an <b>optional alternative</b> to NPS, not a blanket replacement."
+        },
+        {
+          "q": "Consider the following statements about the difference between disinvestment-era pension reforms and the earlier civil services pension system: 1. Before 2004, the pension liability for government employees was unfunded and met from current revenues (pay-as-you-go). 2. NPS was introduced partly to reduce the growing unfunded pension liability of the government. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. The <b>pay-as-you-go</b> OPS created a rising unfunded liability, which was a key reason for shifting to the funded, defined-contribution <b>NPS</b> from 2004."
+        },
+        {
+          "q": "With respect to reinsurance regulation in India, consider the following statements: 1. Foreign reinsurance branches (FRBs) are permitted to set up branch operations in India subject to IRDAI regulations. 2. Indian insurers are required to offer a right of first refusal to GIC Re on reinsurance business up to a specified percentage before approaching other reinsurers. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "None",
+            "Cannot be determined"
+          ],
+          "a": 1,
+          "e": "Both statements are correct — <b>FRBs</b> can operate in India under IRDAI norms, and Indian insurers must offer a <b>right of first refusal</b> to the national reinsurer, GIC Re, on a prescribed share of reinsurance business."
+        },
+        {
+          "q": "Consider the following statements: 1. PMFBY is a voluntary scheme for all farmers, including loanee and non-loanee farmers, following reforms made after 2020. 2. Prior to these reforms, PMFBY enrolment was compulsory for farmers who had taken crop loans (loanee farmers). Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. Originally, PMFBY was <b>compulsory for loanee farmers</b>; reforms made it <b>voluntary for all farmers</b>, including loanee farmers, to increase farmer choice."
+        },
+        {
+          "q": "Consider the following statements: 1. IRDAI's mandate includes specifying obligations of insurers towards rural and social sectors and to certain sections of the population. 2. IRDAI has no role in specifying solvency margin requirements for insurance companies. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — IRDAI mandates minimum rural/social sector obligations for insurers. Statement 2 is incorrect — IRDAI does prescribe <b>solvency margin</b> requirements to ensure insurers can meet their claim obligations."
+        },
+        {
+          "q": "With reference to the taxation and withdrawal norms of NPS, consider the following statements: 1. On maturity/exit at superannuation, a subscriber must use at least 40% of the accumulated corpus to purchase an annuity. 2. Up to 60% of the corpus can be withdrawn as a lump sum, which is fully tax-exempt. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "None",
+            "Cannot be determined"
+          ],
+          "a": 1,
+          "e": "Both statements are correct as per current NPS exit norms — a minimum of <b>40% must go into an annuity</b>, while the remaining <b>60% lump sum withdrawal is tax-exempt</b>, making NPS an EEE-like instrument at exit for this portion."
+        },
+        {
+          "q": "Which of the following best explains why the Tariff Advisory Committee (TAC) lost significance in India's general insurance market?",
+          "o": [
+            "It was merged with PFRDA to regulate pensions",
+            "Detariffication removed mandatory tariff-based pricing, allowing insurers to price most general insurance products based on risk assessment",
+            "It was replaced by the Insurance Ombudsman",
+            "The government banned all general insurance pricing freedom"
+          ],
+          "a": 1,
+          "e": "With <b>detariffication</b> (progressively from the mid-2000s), insurers gained freedom to price most general insurance products (e.g., motor own-damage, fire, engineering) based on their own risk assessment, reducing the TAC's earlier role in fixing tariffs."
+        },
+        {
+          "q": "Consider the following statements: 1. Micro-insurance regulations by IRDAI aim to make low-premium insurance products accessible to low-income groups. 2. Micro-insurance products can be distributed through channels such as NGOs, Self-Help Groups and microfinance institutions. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — IRDAI's micro-insurance framework promotes affordable insurance for low-income households, distributed via <b>NGOs, SHGs, and MFIs</b> acting as intermediaries."
+        },
+        {
+          "q": "Consider the following statements: 1. Under PMFBY, the sum insured for a crop is uniform across all districts of a state regardless of production levels. 2. Technology such as remote sensing and smartphone-based crop cutting experiments has been promoted for yield estimation under PMFBY. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — sum insured is linked to the cost of cultivation/scale of finance and can vary by crop and area. Statement 2 is correct — PMFBY has promoted <b>remote sensing and technology-based yield estimation</b> to improve claim settlement accuracy."
+        },
+        {
+          "q": "Which of the following is the most accurate description of how Atal Pension Yojana determines a subscriber's pension amount?",
+          "o": [
+            "A flat pension amount is given to everyone irrespective of contribution or entry age",
+            "The pension amount depends on the subscriber's chosen pension slab, entry age and contribution period",
+            "Pension amount is decided solely based on the subscriber's total years of employment",
+            "Pension amount is linked to stock market performance each year"
+          ],
+          "a": 1,
+          "e": "Under APY, the monthly contribution required (and hence the guaranteed pension of Rs 1,000–5,000) depends on the <b>subscriber's entry age and chosen pension slab</b>, since younger entrants contribute smaller amounts over a longer period."
+        },
+        {
+          "q": "Consider the following statements: 1. NPS Tier I withdrawal before the age of 60 is entirely prohibited under all circumstances. 2. Partial withdrawal from NPS Tier I is permitted for specified purposes like higher education, marriage of children, or medical treatment, subject to conditions. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — partial withdrawal is permitted under specified conditions, as stated in Statement 2, which is correct, subject to limits (e.g., up to 25% of own contributions) and a minimum period of subscription."
+        },
+        {
+          "q": "With respect to insurance sector reforms, which of the following sequences is chronologically correct?",
+          "o": [
+            "IRDA Act (1999) -> LIC nationalisation (1956) -> GIC nationalisation (1972)",
+            "LIC nationalisation (1956) -> GIC nationalisation (1972) -> IRDA Act (1999)",
+            "GIC nationalisation (1972) -> LIC nationalisation (1956) -> IRDA Act (1999)",
+            "IRDA Act (1999) -> GIC nationalisation (1972) -> LIC nationalisation (1956)"
+          ],
+          "a": 1,
+          "e": "The correct chronological order is: <b>LIC nationalisation (1956) -> GIC nationalisation (1972) -> IRDA Act, 1999</b> (which reopened the sector to private participation)."
+        },
+        {
+          "q": "Consider the following statements: 1. Pension Fund Regulatory and Development Authority approves multiple pension fund managers under NPS, giving subscribers a choice. 2. Under NPS, a subscriber can also choose the asset allocation pattern among equity, corporate debt and government securities, subject to prescribed caps. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — subscribers can choose among <b>PFRDA-approved pension fund managers</b> and can allocate their contribution across <b>equity (E), corporate bonds (C), and government securities (G)</b>, subject to prescribed ceilings (e.g., on equity exposure)."
+        },
+        {
+          "q": "Which of the following states have, at various points, announced a return to some form of the Old Pension Scheme for their state government employees, reversing the NPS for state cadres?",
+          "o": [
+            "No state has ever reverted to OPS since NPS is mandated uniformly by the Union Government",
+            "Some states such as Rajasthan, Chhattisgarh, Jharkhand, Punjab and Himachal Pradesh announced reversion to OPS for state employees",
+            "Only Union Territories can revert to OPS, not states",
+            "States can never deviate from NPS as pension is on the Union List"
+          ],
+          "a": 1,
+          "e": "Pension for state government employees is a <b>state subject decision</b>; several states including <b>Rajasthan, Chhattisgarh, Jharkhand, Punjab and Himachal Pradesh</b> at various times announced reversion to OPS for their employees, illustrating that NPS adoption by states is not immutable."
+        }
+      ]
+    }
+  },
+  {
+    "id": "eco_capital_market_instruments",
+    "title": "Capital Market Instruments",
+    "desc": "Equity, bonds, derivatives, mutual funds, REITs, InvITs, SGBs",
+    "questions": {
+      "basic": [
+        {
+          "q": "What does an equity share primarily represent for its holder?",
+          "o": [
+            "A loan given to the company",
+            "Ownership stake in the company",
+            "A fixed guaranteed interest payment",
+            "A right to buy the company's products at a discount"
+          ],
+          "a": 1,
+          "e": "An <b>equity share</b> represents part ownership in a company, entitling the holder to dividends (if declared) and voting rights, but not a fixed guaranteed return."
+        },
+        {
+          "q": "Which of the following best describes a debenture?",
+          "o": [
+            "A share representing ownership in a company",
+            "A debt instrument issued by a company acknowledging a loan, generally paying fixed interest",
+            "A government-issued lottery bond",
+            "A type of derivative contract"
+          ],
+          "a": 1,
+          "e": "A <b>debenture</b> is a debt instrument through which a company borrows money from the public, generally promising fixed periodic interest and repayment of principal."
+        },
+        {
+          "q": "A bond that is not backed by any specific collateral or asset is known as?",
+          "o": [
+            "Secured bond",
+            "Unsecured/debenture bond",
+            "Zero-coupon bond",
+            "Convertible bond"
+          ],
+          "a": 1,
+          "e": "A bond/debenture without any specific asset backing is called an <b>unsecured bond</b>, relying on the general creditworthiness of the issuer."
+        },
+        {
+          "q": "A financial derivative contract that gives the buyer the right, but not the obligation, to buy or sell an underlying asset at a predetermined price is called?",
+          "o": [
+            "Futures contract",
+            "Option contract",
+            "Debenture",
+            "Mutual fund unit"
+          ],
+          "a": 1,
+          "e": "An <b>option contract</b> gives the buyer a right (not an obligation) to buy (call option) or sell (put option) an asset at a predetermined strike price."
+        },
+        {
+          "q": "A futures contract differs from an options contract mainly in that:",
+          "o": [
+            "Futures give only a right, not an obligation, to trade the underlying asset",
+            "Futures create a binding obligation on both parties to transact at a future date at a pre-agreed price",
+            "Futures cannot be traded on an exchange",
+            "Futures apply only to equity shares, not commodities"
+          ],
+          "a": 1,
+          "e": "A <b>futures contract</b> is a binding agreement obligating both the buyer and seller to transact the underlying asset at a specified future date and price, unlike options."
+        },
+        {
+          "q": "A mutual fund pools money from investors and invests it in a diversified portfolio of securities, and is managed by a?",
+          "o": [
+            "Commercial bank",
+            "Asset Management Company (AMC)",
+            "Stock exchange",
+            "Depository"
+          ],
+          "a": 1,
+          "e": "A mutual fund scheme is professionally managed by an <b>Asset Management Company (AMC)</b> on behalf of unit holders, under the oversight of a trustee and SEBI regulations."
+        },
+        {
+          "q": "Who regulates mutual funds in India?",
+          "o": [
+            "RBI",
+            "IRDAI",
+            "SEBI",
+            "PFRDA"
+          ],
+          "a": 2,
+          "e": "Mutual funds in India are regulated by the <b>Securities and Exchange Board of India (SEBI)</b> under the SEBI (Mutual Funds) Regulations."
+        },
+        {
+          "q": "REIT stands for?",
+          "o": [
+            "Real Estate Investment Trust",
+            "Regulated Equity Investment Tool",
+            "Reserve Estate Income Trust",
+            "Real Estate Insurance Trust"
+          ],
+          "a": 0,
+          "e": "<b>REIT (Real Estate Investment Trust)</b> is an investment vehicle that pools money to invest in income-generating real estate assets and distributes most of the income to investors."
+        },
+        {
+          "q": "InvIT stands for?",
+          "o": [
+            "Investment Insurance Trust",
+            "Infrastructure Investment Trust",
+            "Institutional Venture Investment Trust",
+            "Interbank Investment Trust"
+          ],
+          "a": 1,
+          "e": "An <b>Infrastructure Investment Trust (InvIT)</b> is a vehicle that pools money to invest in completed and revenue-generating infrastructure assets like roads and power transmission lines."
+        },
+        {
+          "q": "Sovereign Gold Bonds (SGBs) are issued by which entity on behalf of the Government of India?",
+          "o": [
+            "SEBI",
+            "Reserve Bank of India",
+            "IRDAI",
+            "National Stock Exchange"
+          ],
+          "a": 1,
+          "e": "<b>Sovereign Gold Bonds</b> are issued by the <b>Reserve Bank of India</b> on behalf of the Government of India as government securities denominated in grams of gold."
+        },
+        {
+          "q": "What is the primary purpose of Sovereign Gold Bonds as an investment instrument?",
+          "o": [
+            "To offer an alternative to physically holding gold, while also paying periodic interest",
+            "To directly regulate the price of gold in domestic markets",
+            "To replace gold jewellery in Indian households",
+            "To function purely as a derivative contract on gold futures"
+          ],
+          "a": 0,
+          "e": "SGBs allow investors to gain from gold price movements without holding physical gold, while also earning a fixed periodic <b>interest</b> on the initial investment."
+        },
+        {
+          "q": "Which of the following is a key difference between equity and debt instruments?",
+          "o": [
+            "Equity holders are creditors while debt holders are owners",
+            "Equity holders are owners bearing residual risk/reward, while debt holders are creditors with a fixed claim",
+            "Debt instruments never have a maturity date",
+            "Equity guarantees a fixed dividend every year"
+          ],
+          "a": 1,
+          "e": "<b>Equity holders</b> are owners who bear residual business risk and potential upside, while <b>debt holders</b> are creditors entitled to fixed interest and repayment, ranking ahead of equity in claims."
+        },
+        {
+          "q": "A 'zero-coupon bond' is a bond that:",
+          "o": [
+            "Pays a very high rate of periodic interest",
+            "Pays no periodic interest and is issued at a discount to face value, redeemed at par",
+            "Can only be issued by the government",
+            "Is another name for an equity share"
+          ],
+          "a": 1,
+          "e": "A <b>zero-coupon bond</b> does not pay periodic interest; instead it is issued at a discount and redeemed at face value, with the difference representing the investor's return."
+        },
+        {
+          "q": "A convertible debenture is one which:",
+          "o": [
+            "Can be converted into equity shares of the company after a specified period, as per the terms of issue",
+            "Must always be repaid in foreign currency",
+            "Cannot ever be transferred to another investor",
+            "Pays interest linked to the company's dividend"
+          ],
+          "a": 0,
+          "e": "A <b>convertible debenture</b> gives the holder an option (or an obligation, if fully convertible) to convert the debt instrument into equity shares of the issuing company after a specified period."
+        },
+        {
+          "q": "In the mutual fund structure in India, who holds the fiduciary responsibility of ensuring that the assets of the mutual fund are managed in accordance with SEBI regulations and the trust deed?",
+          "o": [
+            "The Asset Management Company (AMC)",
+            "The Trustee",
+            "The Registrar and Transfer Agent",
+            "The Custodian"
+          ],
+          "a": 1,
+          "e": "The <b>Trustee</b> holds the mutual fund's assets in trust for the benefit of unit holders and is responsible for ensuring the AMC complies with regulations."
+        },
+        {
+          "q": "What is the minimum lock-in style tenor typically associated with Sovereign Gold Bonds before premature redemption is allowed?",
+          "o": [
+            "The bond has no maturity and no exit option at all",
+            "Premature redemption is permitted after the fifth year from the date of issue, on interest payment dates",
+            "Premature redemption is allowed only after 20 years",
+            "SGBs can be redeemed the next day after purchase"
+          ],
+          "a": 1,
+          "e": "SGBs have a tenor of 8 years, with an option for <b>premature redemption from the fifth year</b> onward, exercisable on interest payment dates."
+        },
+        {
+          "q": "Which regulator is responsible for regulating REITs and InvITs listed on Indian stock exchanges?",
+          "o": [
+            "RBI",
+            "SEBI",
+            "IRDAI",
+            "Ministry of Finance"
+          ],
+          "a": 1,
+          "e": "<b>SEBI</b> regulates REITs and InvITs in India through dedicated regulations governing their structure, listing, and disclosure requirements."
+        },
+        {
+          "q": "A 'bond' in the capital market is best described as:",
+          "o": [
+            "A certificate of ownership in a company",
+            "A debt security representing a loan made by an investor to a borrower (government or corporate)",
+            "A type of savings bank account",
+            "A contract to buy an asset at a future date"
+          ],
+          "a": 1,
+          "e": "A <b>bond</b> is a debt security through which the issuer (government or corporate) borrows funds from investors and promises repayment with interest."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which of the following statements about Real Estate Investment Trusts (REITs) in India is correct?",
+          "o": [
+            "REITs are required to distribute a very low proportion of their distributable cash flows to investors",
+            "REITs are mandated to distribute at least 90% of their net distributable cash flows to unit holders",
+            "REITs cannot be listed on stock exchanges",
+            "REITs invest only in raw, non-income generating land"
+          ],
+          "a": 1,
+          "e": "SEBI regulations require REITs to distribute at least <b>90% of net distributable cash flows</b> to unit holders, ensuring regular income distribution, and REITs primarily invest in completed, income-generating real estate."
+        },
+        {
+          "q": "Which of the following statements about Infrastructure Investment Trusts (InvITs) is correct?",
+          "o": [
+            "InvITs can only invest in under-construction infrastructure projects",
+            "InvITs pool investor money to invest in operational, revenue-generating infrastructure assets and distribute income",
+            "InvITs are regulated by IRDAI",
+            "InvITs are a type of insurance product"
+          ],
+          "a": 1,
+          "e": "<b>InvITs</b> primarily hold completed and revenue-generating infrastructure assets (e.g., toll roads, power transmission lines), distributing a majority of cash flows to investors, and are regulated by SEBI."
+        },
+        {
+          "q": "Which of the following is NOT typically a feature distinguishing derivatives from underlying cash market securities?",
+          "o": [
+            "Derivatives derive their value from an underlying asset",
+            "Derivatives can be used for hedging, speculation and arbitrage",
+            "Derivatives always require full upfront payment of the entire contract value like cash equity",
+            "Futures and options are examples of derivatives"
+          ],
+          "a": 2,
+          "e": "Unlike cash market equity purchases requiring full payment, <b>derivatives</b> like futures typically require only a margin payment, not the full contract value upfront."
+        },
+        {
+          "q": "With regard to mutual fund schemes, an 'open-ended scheme' differs from a 'closed-ended scheme' in that:",
+          "o": [
+            "Open-ended schemes have a fixed maturity date while closed-ended schemes do not",
+            "Open-ended schemes allow continuous purchase and redemption of units at NAV-based prices, while closed-ended schemes have a fixed maturity and are typically listed for trading",
+            "Closed-ended schemes are always debt schemes only",
+            "Open-ended schemes cannot be redeemed at all"
+          ],
+          "a": 1,
+          "e": "<b>Open-ended schemes</b> allow investors to buy/sell units anytime at NAV-linked prices, while <b>closed-ended schemes</b> have a fixed tenure, with units usually listed on an exchange for secondary market trading."
+        },
+        {
+          "q": "Which of the following statements about Sovereign Gold Bonds is correct?",
+          "o": [
+            "SGBs carry risk of price fluctuation in the value of gold but eliminate the risk and cost of physical gold storage",
+            "SGBs are risk-free and their price never fluctuates",
+            "SGBs can only be purchased in physical form at jewellery shops",
+            "SGBs are a form of equity investment in gold mining companies"
+          ],
+          "a": 0,
+          "e": "SGBs carry <b>market risk linked to gold prices</b> but remove the risk/cost of storing physical gold, and also provide a fixed periodic interest, which physical gold does not."
+        },
+        {
+          "q": "Which of the following statements about equity vs preference shares is correct?",
+          "o": [
+            "Preference shareholders get dividend priority over equity shareholders but usually do not carry voting rights in normal circumstances",
+            "Equity shareholders always get dividends before preference shareholders",
+            "Preference shares can never carry a fixed dividend rate",
+            "Preference shares are a form of debt instrument, not a share"
+          ],
+          "a": 0,
+          "e": "<b>Preference shares</b> get priority in dividend payment and capital repayment over equity shares, but generally do not carry voting rights except in specific circumstances (e.g., when dividends are in arrears)."
+        },
+        {
+          "q": "Consider the following statements: 1. In a futures contract, both the buyer and seller are obligated to complete the transaction on the settlement date. 2. In an options contract, only the option writer (seller) has an obligation if the buyer chooses to exercise the option. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>futures</b> bind both parties, while in <b>options</b>, the buyer has a right (may choose not to exercise) but the seller/writer must honour the contract if exercised."
+        },
+        {
+          "q": "Consider the following statements: 1. A REIT must be listed on a recognised stock exchange in India as per SEBI regulations. 2. A REIT can invest only in commercial real estate and is prohibited from investing in any residential property. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — SEBI regulations require REIT units to be <b>mandatorily listed</b>. Statement 2 is incorrect — while most Indian REITs so far hold commercial office assets, the regulations do not categorically restrict REITs to commercial real estate alone."
+        },
+        {
+          "q": "Consider the following statements: 1. Mutual fund Net Asset Value (NAV) represents the per-unit market value of all the scheme's holdings after deducting liabilities. 2. NAV of a mutual fund scheme remains fixed and does not change on a daily basis. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly defines <b>NAV</b>. Statement 2 is incorrect — NAV is calculated and published typically on each business day, reflecting changes in the value of the underlying portfolio."
+        },
+        {
+          "q": "Consider the following statements: 1. Debentures always rank below equity shareholders in case of liquidation of a company. 2. Secured debenture holders have a specific charge on company assets, giving them priority in claims over unsecured creditors. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — <b>debenture holders (creditors) rank above equity shareholders</b> in liquidation. Statement 2 is correct — secured debenture holders have a specific charge providing priority over unsecured creditors."
+        },
+        {
+          "q": "Consider the following statements: 1. Sovereign Gold Bonds are issued in demat as well as physical certificate form. 2. Capital gains tax exemption on redemption is available if SGBs are held until final maturity by an individual investor. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — SGBs can be held in <b>demat or physical (Holding Certificate) form</b>, and capital gains on redemption at final maturity are exempt from tax for individual investors."
+        },
+        {
+          "q": "How many of the following are examples of money market instruments (short-term debt instruments), as distinct from capital market instruments? 1. Treasury Bills 2. Commercial Paper 3. Equity shares 4. Certificates of Deposit",
+          "o": [
+            "Only one",
+            "Only two",
+            "Only three",
+            "All four"
+          ],
+          "a": 2,
+          "e": "<b>Treasury Bills, Commercial Paper, and Certificates of Deposit</b> are short-term money market instruments; equity shares are a long-term capital market instrument, so three out of four qualify."
+        },
+        {
+          "q": "Consider the following statements: 1. A mutual fund's Exchange Traded Fund (ETF) units are bought and sold on stock exchanges like shares, unlike regular open-ended mutual fund units bought/sold directly with the AMC. 2. ETFs typically track an index and aim to replicate its performance. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>ETFs</b> trade intraday on exchanges like shares and typically follow a passive strategy tracking an underlying index."
+        },
+        {
+          "q": "Which of the following statements correctly distinguishes 'hedging' from 'speculation' in the derivatives market?",
+          "o": [
+            "Hedging seeks to reduce/offset existing price risk, while speculation involves taking on risk in anticipation of profit from price movements",
+            "Hedging and speculation are identical strategies with no difference",
+            "Speculation is illegal in Indian derivative markets",
+            "Hedging always requires holding no underlying asset at all"
+          ],
+          "a": 0,
+          "e": "<b>Hedging</b> is used to protect against adverse price movements in an existing or anticipated position, whereas <b>speculation</b> involves taking a market view to profit from expected price changes, accepting additional risk."
+        },
+        {
+          "q": "Consider the following statements: 1. InvITs typically raise funds partly from strategic/institutional investors and partly through public offers to retail investors. 2. Cash flows distributed by InvITs to unit holders can include interest, dividend and repayment of debt/capital. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — InvITs can be privately placed or publicly listed, and their distributions to investors typically comprise a mix of <b>interest, dividend income, and capital repayment</b>."
+        },
+        {
+          "q": "Which of the following is/are correct about the role of a 'depository' in the Indian securities market? 1. Depositories hold securities in electronic (dematerialised) form on behalf of investors. 2. NSDL and CDSL are the two depositories operating in India. How many of the above are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "None",
+            "Cannot be determined"
+          ],
+          "a": 1,
+          "e": "Both statements are correct — <b>NSDL and CDSL</b> are India's two depositories that hold securities electronically, eliminating risks associated with physical share certificates."
+        },
+        {
+          "q": "Consider the following statements: 1. A 'rights issue' allows existing shareholders to buy additional shares of the company, usually at a discounted price, in proportion to their current holding. 2. A 'bonus issue' involves the company issuing free additional shares to existing shareholders out of its reserves, without any fresh capital infusion. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements correctly describe <b>rights issues</b> (existing shareholders subscribe to new shares, usually at a discount) and <b>bonus issues</b> (free shares issued by capitalising reserves)."
+        },
+        {
+          "q": "Which of the following statements about 'commercial paper' as a financing instrument is correct?",
+          "o": [
+            "It is a long-term equity instrument used only by government entities",
+            "It is a short-term, unsecured money market instrument issued by corporates and highly-rated entities to meet working capital needs",
+            "It always carries a maturity of more than 10 years",
+            "It can only be issued by public sector banks"
+          ],
+          "a": 1,
+          "e": "<b>Commercial paper</b> is a short-term (typically up to one year), unsecured promissory note issued by corporates and other eligible entities to raise working-capital funds at competitive rates."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements regarding SEBI's regulatory framework for REITs and InvITs: 1. Both REITs and InvITs are required to hold at least a specified minimum percentage of their assets in completed, revenue-generating assets. 2. Both are structured as trusts with a sponsor, trustee, investment manager, and project manager as key parties. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — SEBI regulations mandate a minimum share of <b>completed revenue-generating assets</b> for REITs/InvITs, and both follow a similar <b>trust structure</b> involving a sponsor, trustee, investment manager, and (for InvITs) project manager."
+        },
+        {
+          "q": "With reference to Sovereign Gold Bonds, consider the following statements: 1. The redemption price of SGBs is linked to the prevailing market price of gold based on a simple average of closing prices published by a specified body. 2. Interest earned on SGBs is entirely tax-free in the hands of the investor. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — redemption value is based on the average of closing gold prices (published by an agency such as IBJA) for a specified period. Statement 2 is incorrect — the periodic <b>interest</b> on SGBs is taxable as per the investor's income slab, though the capital gain at maturity is exempt."
+        },
+        {
+          "q": "Consider the following statements: 1. A 'stock split' increases the number of outstanding shares without changing the total market capitalisation of the company, by reducing the face value per share. 2. A 'buyback' of shares by a company reduces the number of outstanding shares and can be carried out through the open market or a tender offer. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — a <b>stock split</b> divides existing shares into smaller denominations without altering overall market value, while a <b>buyback</b> reduces outstanding share count, often to improve return ratios or return surplus cash to shareholders."
+        },
+        {
+          "q": "With respect to derivative markets in India, consider the following statements: 1. Commodity derivatives were, for a period, regulated by a separate body (Forward Markets Commission) before its merger with SEBI. 2. Currency derivatives on Indian exchanges are permitted for select currency pairs involving the Indian Rupee. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "None",
+            "Cannot be determined"
+          ],
+          "a": 1,
+          "e": "Both statements are correct — the <b>Forward Markets Commission (FMC)</b>, which regulated commodity derivatives, was merged into SEBI in 2015, and currency derivatives are permitted on exchanges for specified currency pairs against the rupee."
+        },
+        {
+          "q": "Which of the following best explains why InvITs and REITs are often described as instruments that help 'unlock capital' for infrastructure/real estate developers?",
+          "o": [
+            "They give free equity capital to developers with no obligations",
+            "They allow developers to monetise completed assets by transferring them to the trust and raising funds from investors, using proceeds to fund new projects or repay debt",
+            "They eliminate the need for any regulatory approval to raise funds",
+            "They function only as tax-saving instruments with no capital-raising role"
+          ],
+          "a": 1,
+          "e": "By transferring operational assets into a REIT/InvIT structure and selling units to investors, developers can <b>monetise (unlock) locked-in capital</b> from completed projects, redeploying proceeds for new investment or debt reduction — a core rationale behind the National Monetisation Pipeline's use of InvITs."
+        },
+        {
+          "q": "Consider the following statements: 1. In India, both listed InvITs and unlisted (privately placed) InvITs are permitted under SEBI regulations. 2. Public sector entities have used the InvIT structure to monetise operational assets such as national highways and power transmission lines. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — SEBI permits both <b>listed (public)</b> and <b>privately placed InvITs</b>, and public entities like NHAI and PGCIL have used InvITs to monetise highway and transmission assets."
+        },
+        {
+          "q": "With reference to mutual fund taxation and categorisation, consider the following statements: 1. Equity-oriented mutual fund schemes are those investing a specified minimum proportion of their corpus in domestic equity shares to qualify for equity taxation treatment. 2. Debt mutual funds' taxation treatment has historically differed from equity mutual funds, particularly regarding indexation benefits on long-term gains. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "None",
+            "Cannot be determined"
+          ],
+          "a": 1,
+          "e": "Both statements are broadly correct — equity-oriented funds are defined by a <b>minimum domestic equity allocation threshold</b> for tax purposes, and debt fund taxation (including indexation benefits) has historically been treated differently from equity fund taxation, with rules revised over time."
+        },
+        {
+          "q": "Consider the following statements: 1. A 'call option' gives its buyer the right to sell the underlying asset at the strike price. 2. A 'put option' gives its buyer the right to sell the underlying asset at the strike price. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — a <b>call option</b> gives the right to BUY the underlying asset. Statement 2 is correct — a <b>put option</b> gives the right to SELL the underlying asset at the strike price."
+        },
+        {
+          "q": "Which of the following statements about the difference between 'primary market' and 'secondary market' is most accurate?",
+          "o": [
+            "The primary market deals in trading of already-issued securities among investors, while the secondary market is where new securities are issued",
+            "The primary market is where new securities are issued by companies/governments to raise fresh capital, while the secondary market is where existing securities are traded among investors",
+            "There is no practical difference between the two markets",
+            "Only government securities are traded in the primary market"
+          ],
+          "a": 1,
+          "e": "In the <b>primary market</b>, issuers raise fresh capital by issuing new securities (e.g., IPOs, bond issuances); in the <b>secondary market</b> (e.g., stock exchanges), investors trade already-issued securities among themselves."
+        },
+        {
+          "q": "Consider the following statements: 1. Masala Bonds are rupee-denominated bonds issued by Indian entities to overseas investors, where the currency risk is borne by the investor, not the issuer. 2. Masala Bonds are always issued exclusively within the domestic Indian market to resident investors. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — <b>Masala Bonds</b> are rupee-denominated but issued outside India to foreign investors, who bear the currency risk since repayment is in rupee terms. Statement 2 is incorrect, as they are issued in overseas markets."
+        },
+        {
+          "q": "Which of the following correctly distinguishes 'Alternative Investment Funds (AIFs)' Category I, II, and III as per SEBI regulations?",
+          "o": [
+            "Category I invests in start-ups/SMEs/infrastructure with perceived economic benefits; Category II includes funds like private equity/debt funds not falling in I or III; Category III includes funds using complex/diverse trading strategies including derivatives",
+            "All three categories are identical in investment strategy",
+            "Category III AIFs cannot use leverage or derivatives at all",
+            "Category I AIFs are for hedge funds using complex arbitrage strategies"
+          ],
+          "a": 0,
+          "e": "SEBI's AIF Regulations classify <b>Category I</b> (venture capital, SME, infrastructure, social venture funds), <b>Category II</b> (private equity/debt funds without leverage except for operations), and <b>Category III</b> (funds like hedge funds employing diverse/complex strategies, potentially using leverage)."
+        },
+        {
+          "q": "Consider the following statements: 1. Government securities (G-Secs) are considered to carry negligible default (credit) risk as they are backed by the sovereign. 2. G-Secs are completely free from price risk if held to maturity by the investor who purchased at issuance. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "None",
+            "Cannot be determined"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — <b>G-Secs</b> carry negligible credit risk due to sovereign backing. Statement 2 is incorrect in a general sense for tradable interest-bearing instruments where market price fluctuates with interest rates, though a buy-and-hold investor does receive the promised coupon/principal; the statement as an absolute claim about 'no price risk' during the holding period from a portfolio valuation perspective is not fully accurate since interim mark-to-market value does fluctuate."
+        },
+        {
+          "q": "With respect to Exchange Traded Funds (ETFs) and index funds, consider the following statements: 1. Both typically follow a passive investment strategy tracking a benchmark index. 2. Unlike index funds, ETF units can be bought or sold throughout the trading day at real-time prices on a stock exchange. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>ETFs and index funds</b> both aim to passively replicate an index, but ETFs, being exchange-listed, allow intraday trading at live market prices, unlike regular index funds transacted at end-of-day NAV."
+        },
+        {
+          "q": "Which of the following is the most accurate reason why InvITs are considered attractive to long-term investors such as pension and insurance funds?",
+          "o": [
+            "InvITs offer extremely high-risk, high-growth exposure similar to venture capital",
+            "InvITs typically hold stable, cash-flow generating infrastructure assets offering relatively predictable and regular distributions, matching long-duration liabilities of such investors",
+            "InvITs are guaranteed by the RBI against any loss",
+            "InvITs invest exclusively in unlisted start-up equity"
+          ],
+          "a": 1,
+          "e": "Because InvITs hold <b>operational infrastructure assets with predictable cash flows</b>, they suit long-term institutional investors like pension/insurance funds seeking stable income to match their long-duration liabilities."
+        },
+        {
+          "q": "Consider the following statements: 1. Perpetual bonds have no fixed maturity date and pay interest indefinitely unless called back by the issuer. 2. Banks in India have used Additional Tier-1 (AT1) perpetual bonds to raise regulatory capital. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>perpetual bonds</b> lack a fixed maturity, and Indian banks have issued <b>AT1 perpetual bonds</b> to shore up regulatory Tier-1 capital, though these carry loss-absorption features making them relatively risky."
+        },
+        {
+          "q": "Which of the following statements about 'credit rating' of debt instruments is correct?",
+          "o": [
+            "Credit ratings guarantee that the investor will never suffer a loss",
+            "Credit ratings are an independent assessment of the issuer's ability and willingness to service debt obligations, but do not eliminate default risk or guarantee repayment",
+            "Only the government can assign credit ratings to bonds",
+            "Credit ratings apply only to equity shares, not to debt instruments"
+          ],
+          "a": 1,
+          "e": "<b>Credit ratings</b> issued by agencies (e.g., CRISIL, ICRA, CARE) assess relative credit risk/repayment capacity of an issuer but are opinions, not guarantees, and do not eliminate the possibility of default."
+        },
+        {
+          "q": "Consider the following statements: 1. A depository participant (DP) acts as an intermediary between the investor and the depository for holding securities in demat form. 2. An investor must necessarily open a demat account with both NSDL and CDSL to trade in the Indian securities market. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly describes the role of a <b>Depository Participant</b>. Statement 2 is incorrect — an investor needs a demat account with only one depository (either NSDL or CDSL) through a DP, not both."
+        },
+        {
+          "q": "Consider the following statements: 1. Real Estate Mutual Funds (REMFs) and REITs are identical instruments with no structural difference. 2. Unlike a REIT, a conventional real estate mutual fund does not necessarily hold direct income-generating property but may invest in real estate securities/companies. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — REITs and real estate mutual funds have distinct regulatory structures. Statement 2 is correct — a conventional real estate-focused mutual fund may invest in shares of real estate/housing finance companies rather than owning physical property directly, unlike a REIT which directly holds real estate assets."
+        }
+      ]
+    }
+  },
+  {
+    "id": "eco_disinvestment_psu",
+    "title": "Disinvestment and Public Sector Enterprises",
+    "desc": "DIPAM, Maharatna/Navratna PSUs, privatisation, NMP",
+    "questions": {
+      "basic": [
+        {
+          "q": "What does 'disinvestment' mean in the context of government policy?",
+          "o": [
+            "The government increasing its shareholding in a public sector enterprise",
+            "The sale or dilution of government equity/shareholding in a public sector enterprise",
+            "Closure of a private company by the government",
+            "Government borrowing from public sector banks"
+          ],
+          "a": 1,
+          "e": "<b>Disinvestment</b> refers to the sale or dilution of the government's equity stake in a Public Sector Undertaking (PSU), which may or may not result in loss of government control."
+        },
+        {
+          "q": "What is the key difference between 'disinvestment' and 'privatisation'?",
+          "o": [
+            "They mean exactly the same thing in all cases",
+            "Privatisation specifically refers to disinvestment that results in transfer of ownership and management control to a private entity, whereas disinvestment can occur even with government retaining majority control",
+            "Disinvestment always means 100% sale of a PSU",
+            "Privatisation only applies to banks"
+          ],
+          "a": 1,
+          "e": "<b>Privatisation</b> is a form of disinvestment where control/management passes to a private entity (e.g., through sale of 51% or more, or via strategic sale), whereas disinvestment more broadly includes partial stake sales where government retains control."
+        },
+        {
+          "q": "Which government department is primarily responsible for managing disinvestment of central PSUs in India?",
+          "o": [
+            "Department of Economic Affairs",
+            "Department of Investment and Public Asset Management (DIPAM)",
+            "Department of Public Enterprises",
+            "Department of Expenditure"
+          ],
+          "a": 1,
+          "e": "The <b>Department of Investment and Public Asset Management (DIPAM)</b>, under the Ministry of Finance, manages central government disinvestment and PSU asset monetisation."
+        },
+        {
+          "q": "DIPAM was earlier known by which name before being renamed?",
+          "o": [
+            "Department of Public Sector Enterprises",
+            "Department of Disinvestment",
+            "Ministry of Heavy Industries",
+            "Bureau of Public Enterprises"
+          ],
+          "a": 1,
+          "e": "DIPAM was earlier called the <b>Department of Disinvestment</b> and was renamed and given an expanded mandate in 2016."
+        },
+        {
+          "q": "Which classification category represents the highest tier of Central Public Sector Enterprises (CPSEs) in India, granting the greatest financial and operational autonomy?",
+          "o": [
+            "Navratna",
+            "Miniratna",
+            "Maharatna",
+            "Ratna"
+          ],
+          "a": 2,
+          "e": "<b>Maharatna</b> is the highest category of CPSEs, granting them enhanced financial autonomy, including higher investment limits without seeking government approval."
+        },
+        {
+          "q": "The 'Navratna' status for CPSEs was introduced in which decade?",
+          "o": [
+            "1980s",
+            "1990s",
+            "2000s",
+            "2010s"
+          ],
+          "a": 1,
+          "e": "The <b>Navratna</b> scheme was introduced in 1997 (1990s) to grant greater autonomy to select high-performing CPSEs."
+        },
+        {
+          "q": "Which body grants Maharatna, Navratna and Miniratna status to CPSEs?",
+          "o": [
+            "SEBI",
+            "Department of Public Enterprises (DPE), Ministry of Finance",
+            "Reserve Bank of India",
+            "NITI Aayog"
+          ],
+          "a": 1,
+          "e": "The <b>Department of Public Enterprises (DPE)</b> under the Ministry of Finance/Ministry of Heavy Industries lays down criteria and grants Maharatna/Navratna/Miniratna status."
+        },
+        {
+          "q": "Which of the following is an example of 'strategic disinvestment' undertaken by the Government of India, involving transfer of management control?",
+          "o": [
+            "Sale of a small minority stake in a PSU through an offer for sale on the stock exchange",
+            "Air India's sale to the Tata Group",
+            "Payment of dividend by a PSU to the government",
+            "Government buying back its own shares in a PSU"
+          ],
+          "a": 1,
+          "e": "The sale of <b>Air India</b> to the Tata Group, involving 100% stake sale along with management control, is a classic example of strategic disinvestment."
+        },
+        {
+          "q": "What is the National Monetisation Pipeline (NMP)?",
+          "o": [
+            "A plan for privatising all public sector banks",
+            "A pipeline for physically transporting monetary currency across India",
+            "A framework for monetising the government's core operating brownfield infrastructure assets by unlocking value while retaining ownership",
+            "A scheme for direct tax collection"
+          ],
+          "a": 2,
+          "e": "The <b>National Monetisation Pipeline</b> is a strategy to unlock value from operational (brownfield) public infrastructure assets through instruments like leasing/InvITs, without transferring ownership."
+        },
+        {
+          "q": "Under the National Monetisation Pipeline, is ownership of the underlying asset transferred to the private party?",
+          "o": [
+            "Yes, ownership is permanently transferred",
+            "No, the government/public entity retains ownership; only the right to operate and collect revenue for a fixed period is typically transferred",
+            "Ownership is transferred to a foreign government",
+            "The private party gets a permanent free grant of the asset"
+          ],
+          "a": 1,
+          "e": "Under the NMP, the <b>government/public entity retains ownership</b> of the underlying assets, while the private party is typically given the right to operate and monetise the asset for a defined concession period."
+        },
+        {
+          "q": "Which of the following ministries/departments launched the National Monetisation Pipeline in 2021?",
+          "o": [
+            "Ministry of Finance (NITI Aayog in coordination with line ministries)",
+            "Ministry of Home Affairs",
+            "Ministry of External Affairs",
+            "Ministry of Law and Justice"
+          ],
+          "a": 0,
+          "e": "The <b>National Monetisation Pipeline</b> was unveiled in 2021, prepared by <b>NITI Aayog</b> in coordination with various infrastructure line ministries."
+        },
+        {
+          "q": "A CPSE must generally have how many consecutive years of profit, among other criteria, to be considered for Navratna status?",
+          "o": [
+            "One year",
+            "Three years",
+            "Five years",
+            "Ten years"
+          ],
+          "a": 1,
+          "e": "Among other financial criteria, a CPSE is generally required to have posted profits in <b>three</b> of the last five years to be eligible for Navratna status (criteria are periodically reviewed by DPE)."
+        },
+        {
+          "q": "Which of these is the lowest of the three CPSE autonomy categories (Maharatna, Navratna, Miniratna)?",
+          "o": [
+            "Maharatna",
+            "Navratna",
+            "Miniratna",
+            "None; all three are equal"
+          ],
+          "a": 2,
+          "e": "<b>Miniratna</b> is the lowest of the three categories, still granting some financial autonomy compared to CPSEs with no special status."
+        },
+        {
+          "q": "'Minority stake sale' as a mode of disinvestment refers to:",
+          "o": [
+            "Sale of a government stake such that government still retains majority ownership and management control",
+            "Complete exit of government from the enterprise",
+            "Sale of the enterprise to another PSU only",
+            "Free transfer of shares to employees only"
+          ],
+          "a": 0,
+          "e": "In a <b>minority stake sale</b>, the government dilutes only a part of its holding while retaining majority ownership (51% or more) and management control."
+        },
+        {
+          "q": "Which of the following was one of India's earliest major economic reforms (1991-92) that paved the way for greater private participation and disinvestment in PSUs?",
+          "o": [
+            "Green Revolution",
+            "New Industrial Policy, 1991",
+            "Grow More Food Campaign",
+            "Second Five Year Plan"
+          ],
+          "a": 1,
+          "e": "The <b>New Industrial Policy of 1991</b> reduced the scope of industries reserved exclusively for the public sector and initiated the disinvestment process as part of broader liberalisation."
+        },
+        {
+          "q": "An Initial Public Offer (IPO) or Offer for Sale (OFS) of a PSU's shares to the public, where the government retains majority stake, is an example of which type of disinvestment?",
+          "o": [
+            "Strategic disinvestment",
+            "Minority stake sale (non-strategic disinvestment)",
+            "Nationalisation",
+            "Demerger only"
+          ],
+          "a": 1,
+          "e": "When the government sells a portion of its stake via IPO/OFS but retains majority ownership, it constitutes <b>minority stake sale/non-strategic disinvestment</b>, as opposed to a change in management control."
+        },
+        {
+          "q": "Which of the following best defines 'nationalisation'?",
+          "o": [
+            "Transfer of ownership of a private enterprise/industry to government/public ownership",
+            "Transfer of a government enterprise to private ownership",
+            "Sale of shares only to foreign investors",
+            "Merger of two private companies"
+          ],
+          "a": 0,
+          "e": "<b>Nationalisation</b> is the opposite of privatisation — it involves the government taking over ownership and control of a privately owned enterprise or industry."
+        },
+        {
+          "q": "Proceeds from disinvestment of CPSEs are credited to which fund for utilisation as per extant government policy?",
+          "o": [
+            "Consolidated Fund of India directly for general expenditure with no separate accounting",
+            "National Investment Fund (NIF), later modified for use as per government-approved policy including capital expenditure",
+            "Public Provident Fund",
+            "Contingency Fund of India"
+          ],
+          "a": 1,
+          "e": "Disinvestment proceeds were routed through the <b>National Investment Fund (NIF)</b>, with its usage policy amended over time to allow greater flexibility, including funding capital expenditure of the government."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which of the following statements about Maharatna CPSEs is correct?",
+          "o": [
+            "Maharatna CPSEs require prior government approval for all capital expenditure regardless of amount",
+            "Maharatna CPSEs enjoy enhanced financial autonomy, including higher ceilings on capital expenditure and investment in joint ventures/subsidiaries without government approval",
+            "Maharatna status can be granted to private companies as well",
+            "Maharatna is a classification used only for banks"
+          ],
+          "a": 1,
+          "e": "<b>Maharatna</b> CPSEs are granted greater financial autonomy including higher investment ceilings for capital expenditure, joint ventures and subsidiaries, without needing case-by-case government approval, subject to board approval."
+        },
+        {
+          "q": "Which of the following statements about the National Monetisation Pipeline (NMP) is correct?",
+          "o": [
+            "NMP involves outright sale of government assets to private players",
+            "NMP involves leasing out revenue rights of operational government assets to private entities for a fixed period, without transferring ownership",
+            "NMP applies only to public sector banks",
+            "NMP is unrelated to infrastructure assets"
+          ],
+          "a": 1,
+          "e": "NMP is based on the concept of <b>'monetisation, not sale'</b> — the government leases out the right to operate/collect revenue from brownfield assets (roads, railways, power, etc.) for a defined period while retaining ownership."
+        },
+        {
+          "q": "Which of the following is/are correct distinctions between 'strategic disinvestment' and 'minority stake sale'? 1. Strategic disinvestment involves transfer of management control to a private buyer along with substantial equity. 2. Minority stake sale means selling a stake without giving up government control. How many of the above are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "None",
+            "Cannot be determined"
+          ],
+          "a": 1,
+          "e": "Both statements correctly capture the essential distinction — <b>strategic disinvestment</b> transfers management control (usually with 50%+ equity/majority stake sale to a private/strategic buyer), while a <b>minority stake sale</b> retains government control."
+        },
+        {
+          "q": "Consider the following statements: 1. Public sector banks are classified under the Maharatna/Navratna/Miniratna scheme just like manufacturing and services CPSEs. 2. The Maharatna/Navratna/Miniratna classification applies specifically to Central Public Sector Enterprises (CPSEs), not banks or financial institutions. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect and statement 2 is correct — the Maharatna/Navratna/Miniratna scheme, administered by the Department of Public Enterprises, applies to <b>non-financial CPSEs</b>, not to public sector banks, which have their own separate governance framework."
+        },
+        {
+          "q": "Consider the following statements: 1. The Air India strategic sale in 2021 involved transfer of 100% government equity along with management control to Tata Sons. 2. Under this transaction, all of Air India's legacy debt was fully waived off with no liability transferred to the buyer. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — <b>100% government stake</b> in Air India was transferred to Tata Sons along with management control. Statement 2 is incorrect — the transaction involved the buyer taking over a defined portion of Air India's debt, not a complete waiver."
+        },
+        {
+          "q": "Which of the following statements about the objectives of disinvestment is correct?",
+          "o": [
+            "Disinvestment aims solely to shut down loss-making PSUs permanently",
+            "Disinvestment aims to mobilise resources for the government, improve efficiency through private participation/market discipline, and reduce the fiscal burden of running non-strategic enterprises",
+            "Disinvestment is done only to increase government control over the economy",
+            "Disinvestment applies only to state government companies, not central PSUs"
+          ],
+          "a": 1,
+          "e": "Disinvestment is undertaken with multiple objectives including <b>resource mobilisation, unlocking value, improving efficiency</b> via private participation, and reducing the burden of running enterprises in non-strategic sectors."
+        },
+        {
+          "q": "Consider the following statements: 1. Under India's PSU policy framework, sectors are broadly classified into 'strategic' and 'non-strategic', with a stated policy of maintaining bare minimum presence in strategic sectors and privatising/closing units in non-strategic sectors. 2. Atomic energy and space are examples of sectors identified as strategic, where a significant government presence continues. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — India's public sector enterprise policy (from 2021) categorises sectors into <b>strategic and non-strategic</b>, with sectors such as <b>atomic energy, space and defence</b> identified among the strategic sectors warranting continued public sector presence."
+        },
+        {
+          "q": "Consider the following statements: 1. Miniratna Category-I and Category-II CPSEs have different financial autonomy limits, with Category-I generally enjoying higher limits than Category-II. 2. A CPSE can be simultaneously classified as both Navratna and Miniratna. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — <b>Miniratna Category-I</b> CPSEs are given somewhat higher autonomy limits than <b>Category-II</b>. Statement 2 is incorrect — these are distinct, mutually exclusive classification tiers; a CPSE holds only one status at a time."
+        },
+        {
+          "q": "Which of the following is a correct example pairing of a disinvestment/PSU-related term with its meaning?",
+          "o": [
+            "'Buyback of shares' — government injecting fresh equity capital into a loss-making PSU",
+            "'Strategic sale' — sale of substantial government shareholding along with transfer of management control to a private buyer identified through a competitive process",
+            "'Golden share' — a share that pays the highest dividend among all PSU shares",
+            "'Demerger' — merging of two separate PSUs into one combined entity"
+          ],
+          "a": 1,
+          "e": "<b>Strategic sale</b> correctly refers to the sale of a substantial government shareholding together with management control, typically identified through a competitive bidding process."
+        },
+        {
+          "q": "Consider the following statements: 1. Listing of a CPSE's shares on the stock exchange automatically implies privatisation of that CPSE. 2. Government can list a CPSE's minority stake on an exchange while still retaining majority ownership and control. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — mere listing does not amount to privatisation if government retains majority control. Statement 2 is correct and describes a common form of <b>minority stake sale/listing</b> disinvestment."
+        },
+        {
+          "q": "Which of the following statements correctly describes the rationale behind granting greater autonomy to Maharatna/Navratna CPSEs?",
+          "o": [
+            "To enable them to compete globally and take timely investment decisions without excessive bureaucratic delay, while remaining accountable to their boards and government oversight",
+            "To allow them to completely escape any government oversight or auditing requirements",
+            "To convert them immediately into private companies",
+            "To reduce their profitability through mandatory price controls"
+          ],
+          "a": 0,
+          "e": "Enhanced autonomy for Maharatna/Navratna CPSEs is intended to enable <b>faster, competitive decision-making</b> (on capital expenditure, JVs, subsidiaries) while remaining accountable through board processes and government oversight mechanisms like performance agreements."
+        },
+        {
+          "q": "How many of the following are typically cited as modes/routes of disinvestment used by the Government of India? 1. Initial Public Offering (IPO) 2. Offer for Sale (OFS) through stock exchange 3. Strategic sale to a private buyer 4. Exchange Traded Fund (ETF) route bundling PSU shares",
+          "o": [
+            "Only one",
+            "Only two",
+            "Only three",
+            "All four"
+          ],
+          "a": 3,
+          "e": "All four — <b>IPOs, OFS, strategic sale, and the CPSE/Bharat 22 ETF route</b> — have been used by the Government of India as disinvestment mechanisms over the years."
+        },
+        {
+          "q": "Consider the following statements: 1. The National Monetisation Pipeline covers only central government assets and excludes any state government or PSU assets. 2. Asset classes under the NMP include roads, railways, power transmission, telecom, mining, and warehousing infrastructure, among others. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — while primarily focused on central government/CPSE assets, the monetisation approach set an example intended to extend more broadly. Statement 2 is correct, as the NMP spans a diverse set of infrastructure asset classes across sectors like <b>roads, railways, power, telecom and mining</b>."
+        },
+        {
+          "q": "Which of the following is the most appropriate description of 'disinvestment target' as used in the Union Budget?",
+          "o": [
+            "A binding legal commitment that the government must always meet exactly",
+            "The estimated receipts the government expects to mobilise during a financial year from disinvestment of its stake in CPSEs/other assets, which are budget estimates subject to revision",
+            "A fixed number of PSUs that must be sold every year without exception",
+            "An indicator only of foreign investment inflow"
+          ],
+          "a": 1,
+          "e": "The disinvestment target set in the <b>Union Budget</b> is an estimate of expected receipts from stake sales during the fiscal year; actual realisation often varies from the budgeted target depending on market conditions and transaction timelines."
+        },
+        {
+          "q": "Consider the following statements: 1. A CPSE losing its Navratna/Maharatna status can, in principle, be downgraded if it fails to meet the prescribed performance criteria on a sustained basis. 2. The criteria for Maharatna/Navratna/Miniratna status include parameters such as net worth, turnover, and net profit over a period of years. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — status can be reviewed/withdrawn if performance criteria are not sustained, and the criteria involve financial parameters like <b>net worth, turnover and net profit</b> over a specified period."
+        },
+        {
+          "q": "Which of the following statements about privatisation of public sector banks (PSBs) in India is correct?",
+          "o": [
+            "All PSBs were privatised immediately after bank nationalisation in 1969",
+            "The government has, as part of broader disinvestment/reform policy, considered and undertaken consolidation and selective privatisation-related reforms for PSBs, distinct from the CPSE Maharatna framework",
+            "PSBs cannot legally be privatised under any circumstances",
+            "Privatisation of PSBs is regulated by DIPAM using the same Maharatna criteria as manufacturing CPSEs"
+          ],
+          "a": 1,
+          "e": "Reform of public sector banks, including consolidation and consideration of selective privatisation, has been pursued as a distinct policy track from the CPSE Maharatna/Navratna framework, which does not apply to banks."
+        },
+        {
+          "q": "Which of the following best describes the role of transaction advisors/asset monetisation advisors engaged by the government in disinvestment and monetisation transactions?",
+          "o": [
+            "They have no role and are only symbolic appointees",
+            "They assist in valuation, structuring, due diligence and managing the bidding process for disinvestment/monetisation transactions on behalf of the government",
+            "They directly decide the final buyer without government approval",
+            "They are responsible only for post-sale employee grievance redressal"
+          ],
+          "a": 1,
+          "e": "<b>Transaction advisors</b> (often investment banks/consultancies) are engaged to assist with valuation, deal structuring, due diligence and managing the competitive bidding process in disinvestment/monetisation deals."
+        },
+        {
+          "q": "Which of the following is an example of a PSU where the government undertook disinvestment through listing on the stock exchange while retaining majority ownership, rather than a strategic sale?",
+          "o": [
+            "Air India (2021)",
+            "IPO/listing of PSUs such as coal, power or insurance companies with government retaining majority stake",
+            "Sale of Bharat Petroleum's stake with full management control transfer (proposed)",
+            "Complete closure of a sick PSU"
+          ],
+          "a": 1,
+          "e": "Several CPSEs (e.g., in coal, power, insurance sectors) have been listed via IPOs where the <b>government retained majority ownership</b>, representing minority stake sale/non-strategic disinvestment, distinct from a full strategic sale like Air India."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "With reference to the evolution of India's disinvestment policy, consider the following statements: 1. In the initial phase of disinvestment (early 1990s), the approach largely involved sale of minority stakes through auctions to financial institutions/public, rather than management control transfer. 2. From the early 2000s, the policy shift towards 'strategic sale' allowed transfer of management control in select PSUs to private strategic partners. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements correctly trace the evolution — early disinvestment (post-1991) largely involved <b>minority stake sales</b>, while from around 1999-2000 onward, the government explicitly adopted a policy permitting <b>strategic sales</b> with transfer of management control in select cases."
+        },
+        {
+          "q": "Consider the following statements regarding the 2021 Public Sector Enterprise (PSE) policy: 1. It envisages privatisation or closure of CPSEs in non-strategic sectors, subject to feasibility. 2. It calls for maintaining a 'bare minimum presence' of the public sector even in strategic sectors, implying some CPSEs may still be privatised, merged or brought under holding structures even within strategic sectors. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the 2021 PSE policy calls for privatisation/closure of CPSEs in <b>non-strategic sectors</b>, while even in <b>strategic sectors</b>, it envisages retaining only a bare minimum presence, implying scope for consolidation or privatisation of some units even there."
+        },
+        {
+          "q": "Consider the following statements: 1. Strategic disinvestment necessarily requires the buyer to be a domestic (Indian) private entity only. 2. Strategic disinvestment transactions in India have, in specific cases, allowed foreign entities/promoters to participate as bidders, subject to sectoral FDI norms. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — there is no blanket requirement restricting strategic sale buyers to only Indian entities. Statement 2 is correct — participation is generally permitted subject to applicable <b>sectoral FDI policy and other regulatory approvals</b>."
+        },
+        {
+          "q": "With reference to the National Monetisation Pipeline (NMP), consider the following statements: 1. The instruments used for monetisation under NMP include structures such as Toll-Operate-Transfer (TOT), Infrastructure Investment Trusts (InvITs), and long-term leasing. 2. Once an asset is monetised under NMP, the government permanently loses the right to reclaim operational control at the end of the concession period. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — NMP uses instruments like <b>TOT, InvITs, and long-term leasing</b>. Statement 2 is incorrect — since ownership remains with the public entity, control/operational rights revert back to it at the end of the defined concession period."
+        },
+        {
+          "q": "Which of the following best explains why the government retains a Maharatna/Navratna classification framework instead of privatising all profitable CPSEs uniformly?",
+          "o": [
+            "The classification is purely symbolic, with no bearing on actual operational or financial autonomy",
+            "It allows the government to grant graded operational and financial autonomy to well-performing CPSEs that continue to operate in sectors where continued public ownership is considered strategically or socially important, while enabling them to compete effectively",
+            "It is a legal requirement under the Companies Act, 2013 for all government companies",
+            "It replaced the need for any disinvestment policy altogether"
+          ],
+          "a": 1,
+          "e": "The Maharatna/Navratna/Miniratna framework enables the government to grant <b>graded autonomy</b> to CPSEs so they can compete and invest efficiently, while allowing continued public ownership in sectors deemed strategically or socially significant, as opposed to blanket privatisation."
+        },
+        {
+          "q": "Consider the following statements: 1. Under the CPSE Exchange Traded Fund (ETF) route, the government bundles shares of multiple CPSEs into a single fund unit that is offered to investors, thereby diluting its stake across several PSUs simultaneously. 2. This route is classified as a form of strategic disinvestment since it results in loss of majority government control over the bundled CPSEs. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly describes the <b>CPSE ETF</b> mechanism. Statement 2 is incorrect — the ETF route typically involves only minority stake dilution across multiple CPSEs, with the government retaining majority control; it is not strategic disinvestment."
+        },
+        {
+          "q": "With respect to the distinction between 'disinvestment receipts' and 'dividends' received by the government from CPSEs, consider the following statements: 1. Dividends are a recurring return on the government's equity investment paid out of a CPSE's distributable profits. 2. Disinvestment receipts arise from a one-time (or periodic) sale of the government's equity stake and represent capital receipts, not revenue receipts. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>dividends</b> are recurring revenue receipts from CPSE profits, whereas <b>disinvestment proceeds</b> are treated as capital receipts in government accounts since they arise from the sale of an asset (equity stake)."
+        },
+        {
+          "q": "Which of the following statements accurately distinguishes 'privatisation' from mere 'corporatisation' of a government department/undertaking?",
+          "o": [
+            "Corporatisation converts a government department into a company (often wholly government-owned) to bring in commercial/managerial autonomy, without necessarily transferring ownership to private hands, unlike privatisation which involves transfer of ownership/control to private entities",
+            "Corporatisation and privatisation are the same process under a different name",
+            "Corporatisation always precedes and necessarily leads to 100% privatisation",
+            "Privatisation refers only to the sale of government land"
+          ],
+          "a": 0,
+          "e": "<b>Corporatisation</b> (e.g., conversion of a department like Railways' production units into a company) restructures an entity as a company, typically still wholly government-owned, for operational efficiency — distinct from <b>privatisation</b>, which involves an actual transfer of ownership/control to a private party."
+        },
+        {
+          "q": "Consider the following statements: 1. The Central Public Sector Enterprises Survey, published periodically, provides consolidated data on the financial performance of all CPSEs. 2. The Department of Public Enterprises (DPE), not DIPAM, is responsible for publishing this annual survey. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Public Enterprises Survey</b>, providing consolidated CPSE performance data, is published by the <b>Department of Public Enterprises (DPE)</b>, distinct from DIPAM's disinvestment/monetisation mandate."
+        },
+        {
+          "q": "Which of the following is the most accurate reasoning for why 'asset monetisation' (as under NMP) is considered distinct from 'disinvestment' as a fiscal strategy?",
+          "o": [
+            "Asset monetisation involves selling equity shares of a CPSE listed on the stock exchange, exactly like disinvestment",
+            "Asset monetisation typically involves monetising specific physical/infrastructure assets (like a stretch of highway) through leasing/concession arrangements without changing ownership of the implementing entity, whereas disinvestment involves diluting/selling the government's equity stake in the entity itself",
+            "Both terms mean transferring full ownership permanently to private players",
+            "Asset monetisation applies only to disinvestment of banking shares"
+          ],
+          "a": 1,
+          "e": "<b>Asset monetisation</b> unlocks value from specific operational assets (e.g., a highway stretch, a transmission line) through leasing or concession structures while the implementing public entity's ownership is unchanged, whereas <b>disinvestment</b> involves selling/diluting government equity in the corporate entity itself."
+        },
+        {
+          "q": "Consider the following statements: 1. The 'Bharat 22' ETF included shares of select CPSEs as well as some private sector companies in which the government (through SUUTI) held stakes. 2. The Bharat 22 ETF was launched exclusively to disinvest stakes in public sector banks. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — <b>Bharat 22 ETF</b> included a diversified basket comprising CPSEs, public sector banks, and select private companies where government held stakes via SUUTI (Specified Undertaking of Unit Trust of India). Statement 2 is incorrect as it was not exclusive to banks."
+        },
+        {
+          "q": "Which of the following considerations is/are relevant while deciding whether to pursue strategic disinvestment versus retaining a CPSE under government ownership? 1. Strategic/sectoral importance of the enterprise for national security or public interest. 2. Level of competition already existing in the sector from private players. 3. Financial health and long-term viability of the enterprise. How many of the above are relevant considerations?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three considerations — <b>strategic/security relevance, existing competitive landscape, and financial viability</b> — are commonly cited factors influencing whether a CPSE is retained, restructured, or privatised."
+        },
+        {
+          "q": "With reference to the sale of Air India, consider the following statements: 1. The winning bid by Tata Sons was selected through a competitive bidding process managed by the government's transaction advisors. 2. As part of the deal structure, a portion of Air India's debt was retained by a government-owned special purpose vehicle rather than transferred to Tata Sons. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the transaction followed a <b>competitive bidding process</b>, and part of the legacy debt/non-core assets were transferred to a government special purpose vehicle (Air India Assets Holding Limited), while the buyer assumed only a defined share of debt."
+        },
+        {
+          "q": "Which of the following best captures a key criticism/challenge associated with strategic disinvestment of loss-making PSUs?",
+          "o": [
+            "There is never any difficulty in finding buyers for loss-making PSUs",
+            "Loss-making or structurally weak PSUs may attract limited buyer interest, valuation challenges, and require careful handling of employee/liability issues, making such transactions more complex than sale of profitable enterprises",
+            "Strategic disinvestment of loss-making units always yields higher proceeds than that of profitable units",
+            "There is no employee-related concern in disinvestment of any PSU"
+          ],
+          "a": 1,
+          "e": "Loss-making/weak PSUs often face <b>buyer disinterest, valuation difficulties, and complex employee/liability issues</b> (e.g., surplus land, pension obligations), making their strategic disinvestment more challenging than that of profitable, well-run enterprises."
+        },
+        {
+          "q": "Consider the following statements: 1. A CPSE can move from Miniratna to Navratna and subsequently to Maharatna status if it meets progressively higher eligibility criteria over time. 2. Downgrade of status is not permitted under any circumstances once granted. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — CPSEs can be upgraded through tiers (<b>Miniratna to Navratna to Maharatna</b>) upon meeting prescribed criteria. Statement 2 is incorrect — status can, in principle, be reviewed and downgraded if a CPSE fails to sustain the required performance."
+        },
+        {
+          "q": "With reference to strategic sectors identified under the 2021 public sector enterprise policy, which of the following is generally included among the specified strategic sectors?",
+          "o": [
+            "Textiles and garments",
+            "Atomic energy, Space and Defence",
+            "Fast-moving consumer goods (FMCG)",
+            "Hotels and tourism"
+          ],
+          "a": 1,
+          "e": "The 2021 PSE policy identifies a small set of <b>strategic sectors</b> — including atomic energy, space and defence, transport and telecommunications, power/petroleum/coal and other minerals, and banking/insurance/financial services — warranting a continued, though minimal, public sector presence."
+        },
+        {
+          "q": "Consider the following statements: 1. Disinvestment receipts and asset monetisation receipts are both accounted for as capital receipts in the Union Budget, though through different heads. 2. Asset monetisation under NMP directly increases the government's outstanding public debt. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — both are treated as <b>capital receipts</b>, though recorded under distinct heads (disinvestment vs. non-debt capital receipts from asset monetisation). Statement 2 is incorrect — monetisation of existing assets generates receipts without creating a new debt/borrowing obligation, unlike loans."
+        },
+        {
+          "q": "Consider the following statements: 1. A CPSE's shares being partly held by the public (post-listing) automatically triggers a change in its Maharatna/Navratna status. 2. Maharatna/Navratna status is linked to financial performance criteria and is independent of whether the CPSE's shares are listed or fully government-owned. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — listing alone does not automatically alter Maharatna/Navratna status. Statement 2 is correct — the classification is based on <b>financial performance criteria</b> (net worth, turnover, profit, global presence, etc.), applicable regardless of whether the CPSE is listed, as long as government retains requisite ownership."
+        }
+      ]
+    }
+  },
+  {
+    "id": "eco_survey_budget_indices",
+    "title": "Economic Survey, Budget Documents & Key Indices",
+    "desc": "Economic Survey, Budget documents, global rankings and indices",
+    "questions": {
+      "basic": [
+        {
+          "q": "The Economic Survey of India is typically presented in Parliament:",
+          "o": [
+            "A month after the Union Budget",
+            "One day before the Union Budget",
+            "On the same day as the Union Budget, after it",
+            "Three months before the Union Budget"
+          ],
+          "a": 1,
+          "e": "The <b>Economic Survey</b> is conventionally presented in Parliament one day before the Union Budget, providing a review of the economy and outlook."
+        },
+        {
+          "q": "Who is primarily responsible for preparing the Economic Survey of India?",
+          "o": [
+            "The Finance Minister personally",
+            "The Chief Economic Adviser (CEA) and the Department of Economic Affairs",
+            "The Reserve Bank of India Governor",
+            "The Comptroller and Auditor General"
+          ],
+          "a": 1,
+          "e": "The Economic Survey is prepared under the guidance of the <b>Chief Economic Adviser (CEA)</b>, in the Department of Economic Affairs, Ministry of Finance."
+        },
+        {
+          "q": "Is the Economic Survey a legally binding policy document that the government must implement?",
+          "o": [
+            "Yes, it is a legally binding statute",
+            "No, it is essentially an analytical/advisory document reflecting the government's assessment and views, not binding legislation",
+            "Yes, it has the same legal status as the Finance Bill",
+            "It becomes law once tabled in Parliament"
+          ],
+          "a": 1,
+          "e": "The Economic Survey is an <b>analytical and advisory document</b> reviewing economic performance and suggesting policy directions; it is not a legally binding statute."
+        },
+        {
+          "q": "Which of the following is a money bill presented along with the Union Budget that gives effect to the government's taxation proposals?",
+          "o": [
+            "Finance Bill",
+            "Appropriation Bill",
+            "Companies Bill",
+            "Insurance Bill"
+          ],
+          "a": 0,
+          "e": "The <b>Finance Bill</b> contains the government's taxation proposals for the year and is presented along with the Budget."
+        },
+        {
+          "q": "Which Bill is passed to give the government legal authority to withdraw funds from the Consolidated Fund of India to meet expenditure for various services and purposes?",
+          "o": [
+            "Finance Bill",
+            "Appropriation Bill",
+            "Insolvency Bill",
+            "GST Bill"
+          ],
+          "a": 1,
+          "e": "The <b>Appropriation Bill</b> authorises the government to withdraw funds from the <b>Consolidated Fund of India</b> for the expenditure detailed in the Budget."
+        },
+        {
+          "q": "Which Budget document sets out the assessment of prospects for growth in the economy, along with the fiscal indicators as mandated under the FRBM Act?",
+          "o": [
+            "Finance Bill",
+            "Macroeconomic Framework Statement",
+            "Appropriation Bill",
+            "Vote on Account"
+          ],
+          "a": 1,
+          "e": "The <b>Macroeconomic Framework Statement</b>, mandated under the FRBM Act, presents an assessment of the economy's growth prospects and underlying macro parameters."
+        },
+        {
+          "q": "The Ease of Doing Business rankings (erstwhile 'Doing Business' report) were published annually by which international organisation, until discontinuation of the report?",
+          "o": [
+            "World Economic Forum",
+            "World Bank Group",
+            "International Monetary Fund",
+            "United Nations Development Programme"
+          ],
+          "a": 1,
+          "e": "The <b>'Doing Business' report</b>, which produced the Ease of Doing Business rankings, was published by the <b>World Bank Group</b> until it was discontinued in 2021 following data irregularity concerns."
+        },
+        {
+          "q": "The Global Hunger Index (GHI) is jointly published by which organisations?",
+          "o": [
+            "World Bank and IMF",
+            "Concern Worldwide and Welthungerhilfe",
+            "WHO and UNICEF",
+            "FAO and WTO"
+          ],
+          "a": 1,
+          "e": "The <b>Global Hunger Index</b> is published jointly by <b>Concern Worldwide (Ireland)</b> and <b>Welthungerhilfe (Germany)</b>, two non-governmental organisations."
+        },
+        {
+          "q": "The Global Competitiveness Index/Report was historically published by which organisation?",
+          "o": [
+            "World Economic Forum (WEF)",
+            "World Bank",
+            "United Nations",
+            "OECD"
+          ],
+          "a": 0,
+          "e": "The <b>Global Competitiveness Report</b>, including the Global Competitiveness Index, was published by the <b>World Economic Forum</b>."
+        },
+        {
+          "q": "Which of the following best describes the primary content of Volume I of the Economic Survey?",
+          "o": [
+            "Only detailed state-wise sectoral statistical tables",
+            "Analytical chapters discussing the state of the economy, key themes and policy issues",
+            "Only the government's revenue and expenditure statement",
+            "A list of new taxation proposals"
+          ],
+          "a": 1,
+          "e": "<b>Volume I</b> of the Economic Survey contains thematic, analytical chapters on the state of the economy and important policy issues, while Volume II typically presents a sector-wise review with data."
+        },
+        {
+          "q": "The Union Budget in India is presented under which constitutional provision, referring to the 'Annual Financial Statement'?",
+          "o": [
+            "Article 110",
+            "Article 112",
+            "Article 265",
+            "Article 280"
+          ],
+          "a": 1,
+          "e": "Article <b>112</b> of the Constitution mandates the presentation of the 'Annual Financial Statement' (commonly called the Union Budget) before Parliament."
+        },
+        {
+          "q": "Which of the following statements about the date of presentation of the Union Budget is correct?",
+          "o": [
+            "It has always been presented on the last day of February since Independence",
+            "It was advanced to 1 February from 2017 onwards, from the earlier practice of presenting it on the last working day of February",
+            "It is presented on 1 April every year",
+            "It is presented on 1 January every year"
+          ],
+          "a": 1,
+          "e": "Since 2017, the Union Budget has been presented on <b>1 February</b>, advanced from the earlier tradition of presenting it on the last working day of February."
+        },
+        {
+          "q": "Which document, part of the Budget, explains the tax proposals and their expected revenue implications in narrative form, often released alongside the Finance Bill?",
+          "o": [
+            "Memorandum Explaining the Provisions of the Finance Bill",
+            "Appropriation Bill",
+            "Demand for Grants",
+            "Vote on Account"
+          ],
+          "a": 0,
+          "e": "The <b>Memorandum Explaining the Provisions of the Finance Bill</b> narrates the rationale and implications of the tax proposals contained in the Finance Bill."
+        },
+        {
+          "q": "'Demands for Grants' presented with the Union Budget represent:",
+          "o": [
+            "The estimated expenditure requirements of various ministries/departments, requiring Lok Sabha's approval before Appropriation Bill is passed",
+            "A list of foreign grants received by India",
+            "Loans given by India to other countries",
+            "Grants given to state governments only under the Finance Commission"
+          ],
+          "a": 0,
+          "e": "<b>Demands for Grants</b> present ministry/department-wise estimated expenditure requiring the Lok Sabha's voting/approval, which subsequently forms the basis for the Appropriation Bill."
+        },
+        {
+          "q": "Who among the following holds/held the position of Chief Economic Adviser, a role central to preparing the Economic Survey?",
+          "o": [
+            "A position within the Reserve Bank of India",
+            "An officer/economist appointed by the Government of India in the Department of Economic Affairs, Ministry of Finance",
+            "An elected member of the Lok Sabha",
+            "A judge of the Supreme Court"
+          ],
+          "a": 1,
+          "e": "The <b>Chief Economic Adviser</b> is a senior economist appointed by the Government of India, functioning within the Department of Economic Affairs, Ministry of Finance, to advise on economic policy and helm the Economic Survey's preparation."
+        },
+        {
+          "q": "Which of the following is NOT typically considered one of the key Budget documents mandated to be presented under the FRBM Act along with the Annual Financial Statement?",
+          "o": [
+            "Macroeconomic Framework Statement",
+            "Medium-Term Fiscal Policy cum Fiscal Policy Strategy Statement",
+            "Global Hunger Index Report",
+            "Finance Bill"
+          ],
+          "a": 2,
+          "e": "The <b>Global Hunger Index Report</b> is an independent international publication, not a Budget document; the other three are part of India's budget documentation."
+        },
+        {
+          "q": "The 'Vote on Account' is a mechanism used by Parliament to:",
+          "o": [
+            "Permanently replace the Union Budget for the entire financial year",
+            "Grant the government advance authorisation to meet essential expenditure for a limited period pending full Budget approval",
+            "Approve new tax rates for the coming five years",
+            "Sanction disinvestment of PSUs"
+          ],
+          "a": 1,
+          "e": "A <b>Vote on Account</b> allows the government to draw funds from the Consolidated Fund to meet essential expenditure for a short period (e.g., in an election year), pending passage of the full Budget."
+        },
+        {
+          "q": "Which of the following organisations publishes the annual 'World Competitiveness Ranking' (a related but distinct index from the WEF's competitiveness index)?",
+          "o": [
+            "International Institute for Management Development (IMD)",
+            "World Health Organization",
+            "United Nations Development Programme",
+            "Asian Development Bank"
+          ],
+          "a": 0,
+          "e": "The <b>World Competitiveness Ranking</b> is published by the <b>IMD World Competitiveness Center</b>, distinct from the (discontinued) WEF Global Competitiveness Report."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Which of the following statements about the Economic Survey's timing and status is correct?",
+          "o": [
+            "The Economic Survey is presented after the Budget to explain already-announced measures",
+            "The Economic Survey is presented a day before the Budget and is not a binding document but reflects the government's own assessment of the economy and suggested reforms",
+            "The Economic Survey and the Union Budget are the same document",
+            "The Economic Survey is prepared by the Reserve Bank of India"
+          ],
+          "a": 1,
+          "e": "The <b>Economic Survey</b> is tabled a day before the Budget; being an analytical document prepared by the CEA's team, it is <b>not binding</b>, though it often previews the thinking behind subsequent budget proposals."
+        },
+        {
+          "q": "Which of the following statements correctly distinguishes the Finance Bill from the Appropriation Bill?",
+          "o": [
+            "The Finance Bill deals with government expenditure while the Appropriation Bill deals with taxation",
+            "The Finance Bill gives effect to taxation proposals, while the Appropriation Bill authorises withdrawal of funds from the Consolidated Fund of India for sanctioned expenditure",
+            "Both bills deal exclusively with taxation and have no difference",
+            "The Appropriation Bill is passed before the Budget is presented"
+          ],
+          "a": 1,
+          "e": "The <b>Finance Bill</b> implements taxation changes, whereas the <b>Appropriation Bill</b> legally authorises the government to draw money from the Consolidated Fund for the expenditure voted by Parliament."
+        },
+        {
+          "q": "Which of the following statements about the discontinuation of the World Bank's 'Doing Business' report is correct?",
+          "o": [
+            "It was discontinued because all countries achieved the highest possible ranking",
+            "It was discontinued in 2021 following concerns about data irregularities and undue pressure in rankings of some countries, including China",
+            "It continues to be published annually without any changes",
+            "It was merged permanently with the Global Hunger Index"
+          ],
+          "a": 1,
+          "e": "The World Bank <b>discontinued the 'Doing Business' report in 2021</b> after an investigation revealed data irregularities and alleged undue pressure on rankings for some countries."
+        },
+        {
+          "q": "Which of the following statements about the Global Hunger Index (GHI) is correct?",
+          "o": [
+            "It is compiled using indicators such as undernourishment, child stunting, child wasting, and child mortality",
+            "It measures only the GDP growth rate of countries",
+            "It is published by the Government of India",
+            "It ranks only developed countries"
+          ],
+          "a": 0,
+          "e": "GHI scores are calculated using four indicators: <b>undernourishment, child wasting, child stunting, and child mortality</b>, to assess hunger levels across countries, largely developing/emerging economies."
+        },
+        {
+          "q": "Which of the following statements about the Macroeconomic Framework Statement is correct?",
+          "o": [
+            "It is an optional Budget document with no legal backing",
+            "It is mandated under the FRBM Act and gives an assessment of the growth prospects of the economy along with fiscal indicators like GDP growth, fiscal deficit, and external sector balance",
+            "It replaces the Finance Bill entirely",
+            "It only contains data about foreign exchange reserves"
+          ],
+          "a": 1,
+          "e": "The <b>Macroeconomic Framework Statement</b> is a legally mandated document (under the FRBM Act) providing an overview of macroeconomic prospects, including growth, fiscal balance and external sector indicators."
+        },
+        {
+          "q": "Which of the following statements correctly describes the structure of the Economic Survey?",
+          "o": [
+            "It usually comprises two volumes: Volume I with analytical/thematic chapters and Volume II with a review of current developments and sector-wise performance with statistical appendix",
+            "It comprises only one chapter on taxation",
+            "It is published only once every five years",
+            "It is identical in content to the Union Budget speech"
+          ],
+          "a": 0,
+          "e": "The Economic Survey is generally structured into <b>Volume I (thematic/analytical chapters)</b> and <b>Volume II (review of the year, sector performance, statistical appendix)</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The Economic Survey is presented to Parliament before the Union Budget every year without exception. 2. The Economic Survey has, on occasion, been presented as a single document without separate volumes. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the Survey is conventionally presented before the Budget, and in some years it has been presented as a <b>single consolidated volume</b> rather than in two separate volumes."
+        },
+        {
+          "q": "Consider the following statements: 1. The Global Competitiveness Index was discontinued by the World Economic Forum in its traditional ranking format after 2019, with WEF later shifting focus to other frameworks. 2. The IMD's World Competitiveness Ranking continues to be published annually and is a separate index from the WEF's report. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the WEF discontinued its <b>Global Competitiveness Report</b> in its earlier ranking form after 2019/2020, while the <b>IMD World Competitiveness Ranking</b> remains a distinct, continuing publication."
+        },
+        {
+          "q": "Consider the following statements: 1. The Finance Bill, being a Money Bill, can be introduced only in the Lok Sabha. 2. The Rajya Sabha has no role whatsoever in relation to a Money Bill and cannot even offer recommendations. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — a <b>Money Bill</b> can only be introduced in the Lok Sabha. Statement 2 is incorrect — the Rajya Sabha can discuss and make recommendations on a Money Bill within 14 days, though the Lok Sabha may accept or reject them."
+        },
+        {
+          "q": "Consider the following statements: 1. The Chief Economic Adviser's office is responsible only for the Economic Survey and has no other advisory function. 2. The Chief Economic Adviser typically advises the Finance Minister and the government on macroeconomic policy issues throughout the year, beyond the Survey itself. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — the CEA's role extends beyond just the Survey. Statement 2 is correct — the CEA advises the government on macroeconomic issues on an ongoing basis, not just during Survey preparation."
+        },
+        {
+          "q": "Which of the following statements is correct regarding the Global Hunger Index and India's participation in it?",
+          "o": [
+            "India's own government agencies compile and submit the underlying survey data exclusively for GHI",
+            "The GHI relies on data largely drawn from international sources such as the FAO and UNICEF/WHO for its four component indicators, and India's official position has periodically contested the index's methodology",
+            "GHI covers only economic growth statistics and not nutrition indicators",
+            "India has never featured in the Global Hunger Index"
+          ],
+          "a": 1,
+          "e": "GHI indicators are constructed using data primarily from bodies like <b>FAO, UNICEF and WHO</b>; the Indian government has at various points questioned the index's <b>methodology</b>, particularly regarding the undernourishment estimation approach."
+        },
+        {
+          "q": "Which of the following statements about the 'Fiscal Policy Strategy Statement' (part of the Medium-Term Fiscal Policy cum Fiscal Policy Strategy Statement) is correct?",
+          "o": [
+            "It outlines the government's strategic fiscal policy priorities, including tax and expenditure policies, for the ensuing year, in line with FRBM Act requirements",
+            "It has no connection with the FRBM Act",
+            "It replaces the need for a Union Budget entirely",
+            "It is prepared exclusively by the Reserve Bank of India"
+          ],
+          "a": 0,
+          "e": "The <b>Fiscal Policy Strategy Statement</b>, mandated by the FRBM Act, outlines the government's strategic priorities on taxation, expenditure and other fiscal policy matters for the year."
+        },
+        {
+          "q": "Consider the following statements: 1. The 'Output Budget' presented by ministries reviews physical and financial performance of schemes/programmes against targets. 2. The Output Budget is a mandatory constitutional document like the Appropriation Bill. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly describes the <b>Output Budget</b>, a performance-review document for schemes. Statement 2 is incorrect — it is an administrative/performance document, not a constitutionally mandated bill like the Appropriation Bill."
+        },
+        {
+          "q": "Which of the following best explains why the Ease of Doing Business rankings mattered for India's policy discourse before their discontinuation?",
+          "o": [
+            "They had no bearing on India's reform agenda",
+            "They were used as one benchmark to track progress on regulatory/business-environment reforms, influencing India's ranking-linked reform initiatives across states and sectors",
+            "They exclusively measured India's defence readiness",
+            "They replaced the need for GDP growth statistics"
+          ],
+          "a": 1,
+          "e": "The <b>Ease of Doing Business</b> rankings served as a widely cited benchmark tracking regulatory reform progress, motivating India's efforts (including state-level 'Business Reform Action Plans') to improve its ranking before the report's discontinuation."
+        },
+        {
+          "q": "Consider the following statements: 1. Economic Survey chapters are typically authored/coordinated by the Economic Division of the Department of Economic Affairs under the Chief Economic Adviser. 2. The Economic Survey must be approved by both Houses of Parliament through a formal vote before the Budget can be presented. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is incorrect — the Survey is <b>tabled</b> in Parliament for information/discussion but does not require a formal approval vote as a precondition for the Budget."
+        },
+        {
+          "q": "Which of the following correctly distinguishes 'Revenue Budget' from 'Capital Budget' as components of the Annual Financial Statement?",
+          "o": [
+            "Revenue Budget deals with receipts/expenditure not affecting government's assets/liabilities, while Capital Budget covers receipts/expenditure that affect assets and liabilities (e.g., loans, asset creation)",
+            "Revenue Budget covers only capital expenditure",
+            "Capital Budget deals only with tax revenue",
+            "There is no such distinction in Indian Budget documents"
+          ],
+          "a": 0,
+          "e": "The <b>Revenue Budget</b> covers current receipts (tax/non-tax revenue) and expenditure not resulting in asset creation, while the <b>Capital Budget</b> covers receipts/expenditure affecting the government's assets and liabilities, such as loans and capital asset creation."
+        },
+        {
+          "q": "Consider the following statements: 1. The term 'Pink Book' informally refers to the Union Budget's Expenditure Budget or Demands for Grants documents in some contexts. 2. The Union Budget documents are placed in the public domain after being formally presented in Parliament. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 2 is correct — Budget documents are released publicly once presented in Parliament. Statement 1 is not an established standard usage in the Indian budgeting context and is incorrect as commonly referenced."
+        },
+        {
+          "q": "Which of the following statements about the 'Budget at a Glance' document is correct?",
+          "o": [
+            "It provides a summary snapshot of key Budget aggregates such as total receipts, expenditure, deficit figures and allocations to major sectors/schemes",
+            "It is a legally binding bill requiring parliamentary passage separate from the Appropriation Bill",
+            "It contains only state-wise foreign direct investment data",
+            "It is prepared by the Election Commission of India"
+          ],
+          "a": 0,
+          "e": "<b>'Budget at a Glance'</b> is a concise summary document presenting key aggregates of receipts, expenditure, deficits and major allocations, aiding quick reference, distinct from the detailed Budget bills."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The Economic Survey is presented under a specific constitutional mandate similar to the Union Budget under Article 112. 2. Unlike the Union Budget, presentation of the Economic Survey is a convention/practice, not a specific constitutional requirement. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — there is no specific constitutional article mandating the Economic Survey's presentation (unlike Article 112 for the Budget). Statement 2 is correct — the Survey's presentation is a long-standing <b>convention/practice</b>, not a constitutional obligation."
+        },
+        {
+          "q": "With reference to the FRBM Act, 2003 and its associated Budget documents, consider the following statements: 1. The Act mandates presentation of the Macroeconomic Framework Statement, Medium-Term Fiscal Policy cum Fiscal Policy Strategy Statement along with the Annual Financial Statement. 2. The FRBM Act originally mandated a Medium-Term Expenditure Framework Statement as well, detailing expenditure projections for the following three years. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "None",
+            "Cannot be determined"
+          ],
+          "a": 1,
+          "e": "Both statements are correct — besides the Macroeconomic Framework and Fiscal Policy Strategy statements, the <b>FRBM Act framework</b> also envisaged a Medium-Term Expenditure Framework Statement outlining three-year rolling expenditure projections."
+        },
+        {
+          "q": "Consider the following statements: 1. The Economic Survey's forecasts and analysis often set the intellectual tone and inform subsequent budget proposals, but the Finance Ministry is not obligated to adopt Survey recommendations. 2. Different editions of the Economic Survey have, at times, carried special thematic focus chapters or 'think pieces' distinct from the routine sector reviews. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the Survey often shapes the discourse ahead of the Budget without binding the government to its suggestions, and various editions have carried <b>special analytical/thematic chapters</b> on topics of contemporary policy interest."
+        },
+        {
+          "q": "Which of the following statements correctly explains why India's methodology-based critique of the Global Hunger Index centres on the 'proportion of undernourished population' indicator?",
+          "o": [
+            "India argues this indicator is based on a small sample opinion poll called the 'Gallup World Poll' capturing perceived food insecurity rather than actual calorie intake, and hence may not accurately reflect ground realities",
+            "India argues the indicator overstates hunger because it uses satellite imagery of crop yields only",
+            "India has never contested any methodology of the GHI",
+            "The indicator in question measures GDP per capita rather than hunger"
+          ],
+          "a": 0,
+          "e": "India's stated objection has centred on GHI's use of a <b>proxy/opinion-based measure of food insecurity</b> (drawing on surveys like the Gallup World Poll for one component) rather than direct nutritional/calorie-intake data, arguing this may not accurately capture actual undernourishment."
+        },
+        {
+          "q": "With respect to the Union Budget's classification of expenditure, consider the following statements: 1. Under the current budgeting framework, the distinction between 'Plan' and 'Non-Plan' expenditure has been discontinued and replaced by the 'Revenue' and 'Capital' expenditure classification as the primary framework. 2. This change was implemented from the 2017-18 Budget onwards, alongside the merger of the Railway Budget with the General Budget. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Plan/Non-Plan classification was discontinued</b> in favour of Revenue/Capital expenditure classification, and this reform coincided with the <b>merger of the Railway Budget</b> into the General Budget from 2017-18."
+        },
+        {
+          "q": "Consider the following statements: 1. The 'Fiscal Deficit' figure presented in the Budget represents the excess of total expenditure over total receipts excluding borrowings. 2. The Macroeconomic Framework Statement is required to comment on the fiscal deficit and its financing pattern as part of its mandated disclosures. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>fiscal deficit</b> is total expenditure minus total receipts excluding borrowings, and the <b>Macroeconomic Framework Statement</b> is mandated to assess fiscal indicators including the deficit and its financing."
+        },
+        {
+          "q": "Which of the following is the most accurate statement about the relationship between the Economic Survey and Union Budget in terms of sequencing and institutional authorship?",
+          "o": [
+            "Both documents are prepared entirely by the same team with identical content and are legally identical in status",
+            "The Economic Survey, authored under the CEA in the Department of Economic Affairs, is presented a day earlier as an economic review/outlook document, while the Union Budget, presented by the Finance Minister, contains the government's actual fiscal proposals and is a constitutionally mandated Annual Financial Statement requiring parliamentary approval",
+            "The Union Budget is prepared before the Economic Survey by several years",
+            "The Economic Survey requires presidential assent to come into force, unlike the Budget"
+          ],
+          "a": 1,
+          "e": "The <b>Economic Survey</b> (CEA-authored review/outlook, non-binding) precedes the <b>Union Budget</b> (Finance Minister's constitutionally mandated Annual Financial Statement under Article 112, requiring parliamentary approval) by roughly a day, reflecting their distinct institutional roles."
+        },
+        {
+          "q": "Consider the following statements: 1. The World Bank's 'Doing Business' rankings measured regulatory ease across parameters such as starting a business, getting credit, paying taxes and enforcing contracts. 2. Following the report's discontinuation, the World Bank has worked on developing a successor assessment framework for business environment evaluation. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — 'Doing Business' assessed multiple regulatory parameters like <b>starting a business, credit access, taxation, and contract enforcement</b>, and after its discontinuation in 2021, the World Bank pursued a successor initiative for business environment assessment."
+        },
+        {
+          "q": "With reference to the 'Charter of Budget' documents in India, consider the following statements: 1. The 'Expenditure Budget' provides ministry/department-wise details of budget provisions, distinguishing between revenue and capital expenditure. 2. The 'Receipt Budget' details estimates of revenue and capital receipts, along with explanatory notes on tax and non-tax revenue. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Expenditure Budget</b> gives ministry-wise revenue/capital expenditure details, while the <b>Receipt Budget</b> details revenue and capital receipt estimates with explanatory notes."
+        },
+        {
+          "q": "Which of the following statements best explains why the Global Hunger Index and India's official hunger/nutrition estimates (e.g., from NFHS) sometimes diverge in emphasis?",
+          "o": [
+            "NFHS and GHI use identical methodology and always produce matching results",
+            "GHI is a composite cross-country comparative index using specific proxy indicators standardized globally, whereas national surveys like NFHS use India-specific, more granular anthropometric and health survey methodology, leading to potential differences in emphasis and figures",
+            "NFHS does not measure child nutrition at all",
+            "GHI is prepared using only Indian government data submissions"
+          ],
+          "a": 1,
+          "e": "<b>GHI</b> is a standardised, cross-country comparative index relying on globally harmonised proxy indicators, while <b>NFHS</b> (National Family Health Survey) uses India-specific, more granular survey methodology — a key reason for occasional divergence in reported figures/emphasis."
+        },
+        {
+          "q": "Consider the following statements: 1. The 'Statement of Fiscal Policy' and 'Statement of Fiscal Risks' are examples of transparency-oriented disclosures introduced under FRBM-related amendments in some years to flag contingent liabilities. 2. Contingent liabilities from government guarantees are a recognised fiscal risk factor that such statements aim to disclose. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — enhanced fiscal transparency disclosures, including recognition of <b>contingent liabilities</b> (e.g., from government guarantees), have been incorporated into India's fiscal reporting framework over time to flag potential fiscal risks."
+        },
+        {
+          "q": "With respect to institutional authorship, which of the following statements is correct?",
+          "o": [
+            "The Chief Economic Adviser is appointed by and reports to the Reserve Bank of India Governor",
+            "The Chief Economic Adviser is appointed by the Government of India and functions under the Department of Economic Affairs, Ministry of Finance, distinct from the RBI's own research/monetary policy functions",
+            "The Chief Economic Adviser chairs the Monetary Policy Committee",
+            "The Chief Economic Adviser is elected by Parliament"
+          ],
+          "a": 1,
+          "e": "The <b>Chief Economic Adviser</b> is a government appointee under the Ministry of Finance's Department of Economic Affairs, distinct from the RBI, which has its own research wing and Monetary Policy Committee (chaired by the RBI Governor)."
+        },
+        {
+          "q": "Consider the following statements: 1. The Union Budget's 'Annual Financial Statement' must show separately the expenditure 'charged' upon the Consolidated Fund of India and expenditure 'to be voted' by Parliament. 2. Charged expenditure includes items such as salaries/allowances of the President, and debt charges for which government is liable, and this expenditure is discussed but not put to a vote in Parliament. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the Annual Financial Statement distinguishes <b>'charged' expenditure</b> (e.g., President's emoluments, debt servicing), which is discussed but not voted upon, from expenditure requiring a parliamentary vote."
+        },
+        {
+          "q": "Which of the following best captures a key limitation commonly associated with global indices like the Ease of Doing Business or Global Competitiveness Index, as noted in policy debates?",
+          "o": [
+            "These indices are always perfectly objective with zero scope for perception-based bias",
+            "Some of these indices rely partly on expert/perception-based surveys, cover a limited set of cities/respondents, and may not fully capture the diversity/complexity of a large, federal economy like India",
+            "These indices are calculated using only satellite data with no survey component",
+            "There is universal consensus that no index has ever had any methodological criticism"
+          ],
+          "a": 1,
+          "e": "A recurring critique is that indices combining <b>perception-based surveys with limited city/respondent coverage</b> may inadequately capture the full diversity of a large, federal economy like India, where conditions vary significantly across states."
+        },
+        {
+          "q": "With reference to Budget presentation practices, consider the following statements: 1. Prior to 2017, the Railway Budget was presented separately from the General Budget, a practice followed since the colonial era. 2. The merger of the Railway Budget with the General Budget was intended to reflect the railways' revenue and expenditure within the overall national fiscal picture. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the separate <b>Railway Budget</b> tradition (dating back to the 1920s, based on the Acworth Committee recommendation) was merged into the General Budget from 2017-18, integrating railway finances into the overall fiscal picture."
+        },
+        {
+          "q": "Consider the following statements: 1. The Economic Survey's macroeconomic projections (e.g., GDP growth estimates) are prepared independently of the Ministry of Statistics and Programme Implementation's official data releases and never draw upon them. 2. The Survey typically draws upon and analyses official data from bodies such as the National Statistical Office, RBI, and other government agencies. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — the Survey's analysis draws heavily on official statistics. Statement 2 is correct — it synthesises data from sources like the <b>National Statistical Office, RBI</b>, and various ministries to build its assessment."
+        },
+        {
+          "q": "Consider the following statements regarding key global indices relevant to the Indian economy: 1. The Global Hunger Index score is expressed on a 100-point scale where a lower score indicates a better (less severe) hunger situation. 2. Countries are grouped into severity categories (e.g., low, moderate, serious, alarming, extremely alarming) based on their GHI score. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — GHI scores range on a <b>100-point severity scale</b> (lower is better), and countries are classified into <b>severity categories</b> such as low, moderate, serious, alarming and extremely alarming."
+        },
+        {
+          "q": "Which of the following is the most accurate description of the distinction between the erstwhile World Bank 'Doing Business' rankings and the WEF's 'Global Competitiveness' rankings?",
+          "o": [
+            "Both measured exactly the same set of parameters with no conceptual difference",
+            "'Doing Business' focused narrowly on regulatory ease for domestic firms across specific processes (e.g., registering property, enforcing contracts), while the Global Competitiveness framework assessed a broader set of pillars including institutions, infrastructure, macroeconomic stability, health, education, market efficiency and innovation",
+            "'Doing Business' measured only innovation capacity of large corporations",
+            "Global Competitiveness Index measured only ease of paying taxes"
+          ],
+          "a": 1,
+          "e": "<b>'Doing Business'</b> focused narrowly on specific regulatory processes affecting business ease, while the <b>Global Competitiveness</b> framework used a much broader set of pillars (institutions, infrastructure, macro-stability, health, education, market efficiency, innovation, etc.) to assess overall economic competitiveness."
+        }
+      ]
+    }
+  }
+]
