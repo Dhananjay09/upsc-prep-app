@@ -1,0 +1,2430 @@
+[
+  {
+    "id": "hist_vijayanagara_bahmani",
+    "title": "Vijayanagara & Bahmani Kingdoms",
+    "desc": "Deccan power struggle: Vijayanagara empire and Bahmani sultanate",
+    "questions": {
+      "basic": [
+        {
+          "q": "Who founded the Vijayanagara Empire in 1336 CE?",
+          "o": [
+            "Harihara and Bukka",
+            "Krishnadeva Raya and Achyuta Raya",
+            "Saluva Narasimha and Vira Narasimha",
+            "Bukka and Deva Raya"
+          ],
+          "a": 0,
+          "e": "The <b>Vijayanagara Empire</b> was founded in 1336 CE by brothers <b>Harihara I and Bukka I</b>, traditionally said to have been feudatories under the Kakatiyas who later served the Delhi Sultanate before establishing an independent kingdom on the Tungabhadra river."
+        },
+        {
+          "q": "Which dynasty ruled Vijayanagara at the time of its founding?",
+          "o": [
+            "Tuluva",
+            "Sangama",
+            "Saluva",
+            "Aravidu"
+          ],
+          "a": 1,
+          "e": "The <b>Sangama dynasty</b>, named after the father of Harihara and Bukka, was the first ruling dynasty of Vijayanagara (1336-1485 CE)."
+        },
+        {
+          "q": "Krishnadeva Raya, the most celebrated Vijayanagara ruler, belonged to which dynasty?",
+          "o": [
+            "Sangama",
+            "Saluva",
+            "Tuluva",
+            "Aravidu"
+          ],
+          "a": 2,
+          "e": "<b>Krishnadeva Raya</b> (r. 1509-1529 CE) belonged to the <b>Tuluva dynasty</b>, the third ruling house of Vijayanagara."
+        },
+        {
+          "q": "The decisive Battle of Talikota, which led to the sack of Vijayanagara city, was fought in which year?",
+          "o": [
+            "1556",
+            "1565",
+            "1576",
+            "1540"
+          ],
+          "a": 1,
+          "e": "The <b>Battle of Talikota</b> (also called Rakkasa-Tangadi) was fought in <b>1565 CE</b> between Vijayanagara and the combined forces of the Deccan Sultanates."
+        },
+        {
+          "q": "Who founded the Bahmani Kingdom in 1347 CE?",
+          "o": [
+            "Ahmad Shah Wali",
+            "Mahmud Gawan",
+            "Alauddin Bahman Shah",
+            "Firuz Shah Bahmani"
+          ],
+          "a": 2,
+          "e": "<b>Alauddin Bahman Shah</b> (Hasan Gangu/Zafar Khan) founded the <b>Bahmani Kingdom</b> in 1347 CE by revolting against Muhammad bin Tughlaq's governor in the Deccan."
+        },
+        {
+          "q": "Which city served as the capital of Vijayanagara Empire, located on the banks of the Tungabhadra river?",
+          "o": [
+            "Gulbarga",
+            "Bidar",
+            "Hampi",
+            "Warangal"
+          ],
+          "a": 2,
+          "e": "<b>Hampi</b> (Vijayanagara city) on the banks of the <b>Tungabhadra river</b> was the imperial capital, now a UNESCO World Heritage Site."
+        },
+        {
+          "q": "The Nayankara system of Vijayanagara administration primarily involved which arrangement?",
+          "o": [
+            "Military chiefs (Nayakas) granted land in return for troops and revenue",
+            "Village councils electing local chiefs",
+            "Hereditary Brahmin priests administering temples",
+            "Portuguese traders governing coastal ports"
+          ],
+          "a": 0,
+          "e": "Under the <b>Nayankara system</b>, military commanders called <b>Nayakas</b> were assigned territories (amaram) in exchange for maintaining troops and remitting a share of revenue to the central treasury."
+        },
+        {
+          "q": "Domingo Paes, whose detailed account describes the splendour of Vijayanagara city, was a traveler from which country?",
+          "o": [
+            "Italy",
+            "Portugal",
+            "Persia",
+            "Russia"
+          ],
+          "a": 1,
+          "e": "<b>Domingo Paes</b> was a <b>Portuguese</b> traveler who visited Vijayanagara during the reign of Krishnadeva Raya and left a vivid description of the city and royal festivities."
+        },
+        {
+          "q": "Abdur Razzaq, who visited Vijayanagara as an ambassador and described its markets, was sent by which ruler?",
+          "o": [
+            "Timur",
+            "Shah Rukh of Herat",
+            "Babur",
+            "Sultan of Bijapur"
+          ],
+          "a": 1,
+          "e": "<b>Abdur Razzaq</b>, a Persian chronicler, came as an envoy of <b>Shah Rukh</b> (Timurid ruler of Herat) and visited Vijayanagara during the reign of Deva Raya II around 1443 CE."
+        },
+        {
+          "q": "Nicolo Conti, an Italian traveler who left an account of Vijayanagara, visited during the reign of which ruler?",
+          "o": [
+            "Deva Raya I",
+            "Krishnadeva Raya",
+            "Achyuta Raya",
+            "Harihara II"
+          ],
+          "a": 0,
+          "e": "<b>Nicolo Conti</b>, an Italian merchant-traveler, visited Vijayanagara around 1420 CE during the reign of <b>Deva Raya I</b>."
+        },
+        {
+          "q": "Which of the following was NOT one of the five Deccan Sultanates that emerged from the disintegration of the Bahmani Kingdom?",
+          "o": [
+            "Bijapur",
+            "Golconda",
+            "Khandesh",
+            "Ahmadnagar"
+          ],
+          "a": 2,
+          "e": "The five Deccan Sultanates were <b>Bijapur (Adil Shahi), Ahmadnagar (Nizam Shahi), Golconda (Qutb Shahi), Bidar (Barid Shahi), and Berar (Imad Shahi)</b>. <b>Khandesh</b> was a separate, older sultanate not derived from the Bahmani split."
+        },
+        {
+          "q": "Krishnadeva Raya was the author of which Telugu literary work?",
+          "o": [
+            "Amuktamalyada",
+            "Manucharitam",
+            "Amaruka",
+            "Rajatarangini"
+          ],
+          "a": 0,
+          "e": "Krishnadeva Raya composed <b>Amuktamalyada</b>, a Telugu literary and political work narrating the story of Andal, and was himself a patron of the 'Ashtadiggajas' (eight great poets)."
+        },
+        {
+          "q": "The Vitthala temple, one of the finest examples of Vijayanagara architecture with its stone chariot, was built mainly during the reign of which ruler?",
+          "o": [
+            "Bukka I",
+            "Krishnadeva Raya",
+            "Rama Raya",
+            "Deva Raya II"
+          ],
+          "a": 1,
+          "e": "The <b>Vitthala temple complex</b> at Hampi, famous for its ornate stone chariot and musical pillars, was largely constructed during the reign of <b>Krishnadeva Raya</b>."
+        },
+        {
+          "q": "In the Battle of Talikota, the Vijayanagara forces were led in effective command by which figure, though he was not the reigning king?",
+          "o": [
+            "Rama Raya",
+            "Tirumala",
+            "Venkata II",
+            "Achyuta Raya"
+          ],
+          "a": 0,
+          "e": "<b>Rama Raya</b>, the powerful regent and de facto ruler under the Aravidu dynasty, led the Vijayanagara army at Talikota and was killed in the battle, precipitating the empire's decline."
+        },
+        {
+          "q": "Which dynasty was the last ruling house of the Vijayanagara Empire after the Battle of Talikota?",
+          "o": [
+            "Tuluva",
+            "Saluva",
+            "Aravidu",
+            "Sangama"
+          ],
+          "a": 2,
+          "e": "The <b>Aravidu dynasty</b>, founded by Tirumala after Talikota, was the fourth and final ruling dynasty of Vijayanagara, ruling from a shifted capital at Penukonda and later Chandragiri."
+        },
+        {
+          "q": "Saluva Narasimha, who founded the second dynasty of Vijayanagara, came to power by which method?",
+          "o": [
+            "Marrying into the Sangama royal family",
+            "Usurping the throne from the last Sangama ruler",
+            "Winning a war of succession against his brothers",
+            "Being appointed by the Bahmani Sultan"
+          ],
+          "a": 1,
+          "e": "<b>Saluva Narasimha</b>, a powerful military commander, usurped the throne around 1485 CE, ending the declining <b>Sangama dynasty</b> and founding the short-lived Saluva dynasty."
+        },
+        {
+          "q": "The Bahmani Kingdom's capital was shifted from Gulbarga to which city in the early 15th century?",
+          "o": [
+            "Bidar",
+            "Golconda",
+            "Bijapur",
+            "Daulatabad"
+          ],
+          "a": 0,
+          "e": "The Bahmani capital was shifted from <b>Gulbarga</b> to <b>Bidar</b> during the reign of Ahmad Shah Wali in the early 15th century."
+        },
+        {
+          "q": "Which Bahmani minister is renowned for his administrative reforms and was ultimately executed on suspicion of treason?",
+          "o": [
+            "Mahmud Gawan",
+            "Malik Ambar",
+            "Zafar Khan",
+            "Firuz Shah"
+          ],
+          "a": 0,
+          "e": "<b>Mahmud Gawan</b>, an able Persian-origin wazir of the Bahmani Kingdom, introduced administrative and revenue reforms but was executed in 1481 CE on a forged charge of treason, weakening the kingdom."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the founding of the Vijayanagara Empire: 1. Harihara and Bukka had earlier served under the Kakatiya kingdom. 2. The empire was founded partly with the encouragement of the sage Vidyaranya. 3. The empire was established in 1336 CE on the banks of the Krishna river. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct: Harihara and Bukka had connections to the Kakatiya administration and are traditionally said to have been inspired/guided by the sage <b>Vidyaranya</b>. Statement 3 is incorrect since Vijayanagara was founded on the banks of the <b>Tungabhadra river</b>, not the Krishna."
+        },
+        {
+          "q": "Consider the following statements about the Nayankara system: 1. Nayakas were required to maintain a contingent of troops for the king. 2. Nayakas paid a fixed share of revenue called kattubadi to the central government. 3. The Nayankara system had no resemblance to the iqta system of the Delhi Sultanate. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct: Nayakas maintained troops and paid a fixed tribute called <b>kattubadi</b>. Statement 3 is incorrect, as historians often compare the Nayankara system's assignment of land for military service to the <b>iqta system</b>, noting structural similarities."
+        },
+        {
+          "q": "Consider the following statements: 1. Domingo Paes visited Vijayanagara during the reign of Krishnadeva Raya. 2. Abdur Razzaq's account describes the city during the reign of Deva Raya II. 3. Nicolo Conti's visit predates both Paes and Abdur Razzaq's visits. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct. <b>Nicolo Conti</b> visited around 1420 CE (Deva Raya I), <b>Abdur Razzaq</b> around 1443 CE (Deva Raya II), and <b>Domingo Paes</b> in the early 16th century during <b>Krishnadeva Raya's</b> reign — in that chronological order."
+        },
+        {
+          "q": "Consider the following statements regarding the Battle of Talikota (1565): 1. The battle was fought between Vijayanagara and a united alliance of Bijapur, Ahmadnagar, Golconda and Bidar. 2. Rama Raya, the Vijayanagara commander, was captured and executed on the battlefield. 3. Following the defeat, Vijayanagara city was completely abandoned and never reoccupied. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect in its absoluteness — while the city of Hampi was sacked and largely destroyed, the Vijayanagara state itself survived for nearly a century more under the <b>Aravidu dynasty</b>, ruling from Penukonda and Chandragiri, though the capital city was never restored to its former glory."
+        },
+        {
+          "q": "Consider the following statements about the Bahmani Kingdom: 1. It was founded by a revolt against the Delhi Sultanate in the Deccan. 2. Its capital was permanently fixed at Gulbarga throughout its existence. 3. Mahmud Gawan served as a powerful wazir known for administrative reforms. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 2,
+          "e": "Statements 1 and 3 are correct. Statement 2 is wrong: the capital was shifted from <b>Gulbarga to Bidar</b> in the early 15th century under Ahmad Shah Wali, so it was not permanently at Gulbarga."
+        },
+        {
+          "q": "Consider the following statements comparing Vijayanagara and Bahmani administration: 1. Both empires relied on provincial governors who enjoyed considerable military autonomy. 2. The Bahmani Kingdom divided its territory into administrative units called 'tarafs'. 3. Vijayanagara's revenue system had no role for temples in local economy. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Bahmani provinces were called <b>tarafs</b> headed by governors, and both states had semi-autonomous regional military chiefs. Statement 3 is false, as <b>temples</b> played a central role in Vijayanagara's agrarian and economic life, receiving land grants and acting as banking/redistribution centres."
+        },
+        {
+          "q": "Consider the following statements: 1. The five Deccan Sultanates all emerged directly through peaceful partition treaties among Bahmani nobles. 2. Golconda was ruled by the Qutb Shahi dynasty. 3. Bijapur was ruled by the Adil Shahi dynasty. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statements 2 and 3 are correct. Statement 1 is incorrect: the five Sultanates emerged through the gradual, often violent, disintegration of Bahmani authority as regional governors asserted independence, not through any peaceful treaty of partition."
+        },
+        {
+          "q": "Consider the following statements about Krishnadeva Raya's reign: 1. He fought successful campaigns against the Gajapati rulers of Odisha. 2. He maintained generally cordial relations with the Portuguese at Goa. 3. He is credited with composing the Sanskrit work Rajatarangini. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct — Krishnadeva Raya defeated the <b>Gajapatis of Odisha</b> and maintained trade/diplomatic ties with the Portuguese. Statement 3 is wrong: Rajatarangini was written by <b>Kalhana</b> about Kashmir, not by Krishnadeva Raya, who wrote Amuktamalyada."
+        },
+        {
+          "q": "Consider the following statements regarding the decline of Vijayanagara: 1. Internal succession disputes weakened the central authority before Talikota. 2. The rise of powerful regional Nayakas eroded central control after Talikota. 3. The Vijayanagara Empire had no interaction or conflict with the Bahmani successor states before 1565. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — Vijayanagara was in continuous conflict and shifting alliances with the Bahmani Kingdom and later its successor Deccan Sultanates for over two centuries before Talikota."
+        },
+        {
+          "q": "Consider the following statements: 1. The Sangama dynasty was the founding dynasty of Vijayanagara. 2. The Saluva dynasty directly succeeded the Tuluva dynasty. 3. The Aravidu dynasty ruled after the Battle of Talikota. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 3 are correct. Statement 2 is incorrect — the correct dynastic order was Sangama, then <b>Saluva</b>, then <b>Tuluva</b>, then Aravidu; Saluva preceded Tuluva, not the reverse."
+        },
+        {
+          "q": "Consider the following statements about the Bahmani-Vijayanagara rivalry: 1. The Krishna-Tungabhadra doab was a recurring zone of conflict between the two states. 2. Control over the Raichur doab was economically significant due to its fertile and diamond-producing tracts. 3. The rivalry was purely religious in nature with no economic motive. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the <b>Raichur doab</b> (between the Krishna and Tungabhadra rivers) was fertile and strategically valuable, making it a frequent battleground. Statement 3 is wrong, as the conflict was driven substantially by economic and territorial interests, not purely religion."
+        },
+        {
+          "q": "Consider the following statements: 1. Firuz Shah Bahmani promoted learning and employed several Hindu officials in his administration. 2. Ahmad Shah Wali is credited with shifting the Bahmani capital and inviting Sufi scholars to his court. 3. Both rulers belonged to the same royal lineage as Alauddin Bahman Shah. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct. <b>Firuz Shah Bahmani</b> was known for patronising learning and employing capable Hindus, <b>Ahmad Shah Wali</b> shifted the capital to Bidar and patronised Sufi figures like Gesu Daraz, and both were part of the ruling Bahmani lineage founded by Alauddin Bahman Shah."
+        },
+        {
+          "q": "Consider the following statements regarding Vijayanagara's military organisation: 1. The empire made extensive use of imported Arabian horses for its cavalry. 2. Krishnadeva Raya is said to have relied on Portuguese traders at Goa to help secure horse supplies. 3. The empire never employed foreign or Muslim soldiers in its army. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Vijayanagara relied heavily on imported <b>Arabian horses</b>, and Krishnadeva Raya cultivated ties with the Portuguese at Goa partly to secure this trade. Statement 3 is false, as Vijayanagara armies are known to have included <b>Muslim contingents and mercenaries</b> as well."
+        },
+        {
+          "q": "Consider the following statements: 1. Achyuta Raya and Sadasiva Raya both belonged to the Tuluva dynasty. 2. Rama Raya, who effectively controlled the government under Sadasiva Raya, belonged to the Aravidu family. 3. Rama Raya's rise to power took place entirely without any marriage alliance with the Tuluva royal family. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Achyuta Raya and Sadasiva Raya</b> were Tuluva rulers, while <b>Rama Raya</b> belonged to the Aravidu family. Statement 3 is false, since Rama Raya had strengthened his position partly through marriage into the Tuluva royal family."
+        },
+        {
+          "q": "Consider the following statements about the economy of the Bahmani Kingdom: 1. The kingdom benefited from the export of diamonds mined in the Golconda region. 2. Persian and Arab merchants played an important role in Bahmani overseas trade through Deccan ports. 3. The Bahmani rulers issued coinage exclusively in gold, with no silver or copper currency in circulation. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — diamonds from the <b>Golconda</b> region and active <b>Persian/Arab merchant</b> networks were significant to Bahmani trade. Statement 3 is false, as the Bahmanis issued coins in gold, silver, and copper."
+        },
+        {
+          "q": "Consider the following statements: 1. The title 'Hindu Raya Suratrana' was used by some Vijayanagara kings. 2. This title reflects an attempt to project authority in idioms drawn from both Hindu kingship and Perso-Islamic sovereignty. 3. The title was first adopted only after the Battle of Talikota. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the title <b>'Hindu Raya Suratrana'</b> (Sultan among Hindu kings) combined Hindu and Perso-Islamic notions of sovereignty. Statement 3 is false, as the title was used well before Talikota, notably by earlier Vijayanagara rulers such as Bukka I and his successors."
+        },
+        {
+          "q": "Consider the following statements regarding relations between the Bahmani Kingdom and Vijayanagara: 1. Wars between the two frequently involved brutal reprisals against civilian populations on both sides. 2. Firishta, a Persian chronicler, is an important source for Bahmani-Vijayanagara conflicts. 3. The two kingdoms never engaged in any diplomatic exchange or truce throughout their coexistence. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — conflicts were often marked by harsh reprisals, and <b>Firishta's</b> chronicle is a key Persian-language source for these wars. Statement 3 is false, as the two states did periodically negotiate truces and exchange envoys despite recurring hostilities."
+        },
+        {
+          "q": "Consider the following statements about the Vijayanagara revenue system: 1. Land revenue was the principal source of state income, generally assessed as a share of the produce. 2. Customs duties on overseas trade at ports also contributed meaningfully to state revenue. 3. Temples under Vijayanagara patronage played no part in mobilising or redistributing agrarian surplus. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>land revenue</b> was the mainstay of state income, supplemented by <b>customs duties</b> from coastal trade. Statement 3 is false, as temples actively participated in mobilising and redistributing agrarian surplus through land grants and endowments."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. Domingo Paes' account primarily describes court ceremonies, markets, and the Mahanavami festival at Vijayanagara. 2. Abdur Razzaq's narrative focuses more on diplomatic protocol and the layout of the bazaar streets. 3. Both travelers agree that the city's markets dealt extensively in precious stones and horses. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct and reflect the actual thematic emphasis of each traveler's account: Paes elaborately describes the <b>Mahanavami (Dasara) festival</b> and royal ceremony, Abdur Razzaq focuses on diplomatic reception and market organisation, and both independently corroborate thriving trade in gems and horses at Vijayanagara."
+        },
+        {
+          "q": "Consider the following statements regarding the Battle of Talikota: 1. The immediate trigger was Rama Raya's shifting alliances that alternately favoured different Deccan Sultanates against each other. 2. The battle is sometimes referred to by the name of the village Rakkasa-Tangadi near which it was fought. 3. Bijapur's forces were commanded personally by Mahmud Gawan during the battle. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false and anachronistic — <b>Mahmud Gawan</b> was a Bahmani wazir executed in 1481, decades before Talikota (1565), and could not have commanded any force there; by 1565 Bijapur was ruled independently by the Adil Shahi dynasty."
+        },
+        {
+          "q": "Consider the following statements: 1. The office of Mahanayakacharya in Vijayanagara administration referred to a council overseeing temple endowments only. 2. Ayagar system referred to hereditary village officials responsible for local administration, similar in some respects to later revenue village functionaries. 3. Vijayanagara's currency included gold coins called 'pagodas' or 'varahas'. Which of the statements given above is/are correct?",
+          "o": [
+            "2 and 3 only",
+            "1 and 2 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 2 and 3 are correct — the <b>Ayagar system</b> involved hereditary village functionaries (accountant, watchman, etc.), and Vijayanagara issued gold coins known as <b>pagodas/varahas</b>. Statement 1 is incorrect as the term is not accurately restricted to temple endowments alone in standard usage; it more generally denoted senior administrative/military officers."
+        },
+        {
+          "q": "A historian argues that the Vijayanagara state should be understood less as a centralised bureaucratic empire and more as a 'segmentary state' with layered, semi-autonomous authority. Which of the following pieces of evidence would BEST support this characterization?",
+          "o": [
+            "The uniform imposition of a single land tax rate across all provinces by imperial officials",
+            "The persistence of powerful hereditary Nayakas who retained military and fiscal control over their territories even while nominally subordinate to the king",
+            "The complete absence of any regional currency other than the emperor's coinage",
+            "The direct appointment of all village-level officials by the central court at Vijayanagara"
+          ],
+          "a": 1,
+          "e": "The persistence of <b>Nayakas</b> with real, entrenched local military and fiscal power despite nominal subordination is the hallmark of a segmentary/layered political structure, as opposed to uniform centralised control, which is contradicted by the other options."
+        },
+        {
+          "q": "Consider the following statements: 1. The Bahmani Kingdom's split into five Sultanates was substantially hastened by the execution of Mahmud Gawan. 2. Berar (Imad Shahi) was the first of the five to break away from Bahmani control. 3. Bidar (Barid Shahi) retained nominal Bahmani royal figures as puppet rulers for a period even after gaining effective independence. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct. Gawan's execution (1481) triggered factional collapse; <b>Berar</b> broke away first (c. 1490); and the <b>Barid Shahis</b> of Bidar for some time kept nominal Bahmani princes as figureheads before formally assuming sovereignty."
+        },
+        {
+          "q": "Consider the following statements: 1. The title 'Raya' used by Vijayanagara emperors reflected an indigenous Hindu monarchical idiom projecting them as protectors of dharma. 2. The title 'Sultan' used in the Deccan Sultanates reflected Perso-Islamic political theory. 3. 'Raya' was formally a rank conferred on Vijayanagara kings by the Bahmani Sultan, making them nominal vassals. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>'Raya'</b> reflected Hindu kingship ideals of upholding dharma, while <b>'Sultan'</b> reflected Perso-Islamic sovereignty. Statement 3 is false, as Vijayanagara was an independent, rival power to the Bahmani Kingdom, not its vassal, and 'Raya' was not a Bahmani-conferred title."
+        },
+        {
+          "q": "Consider the following statements: 1. The Vijayanagara rulers styled themselves protectors of the varnashrama dharma system on their inscriptions. 2. Krishnadeva Raya's Amuktamalyada offers political advice framed partly through the legend of Andal and Vishnuchitta. 3. Both Vijayanagara and Bahmani rulers used Persian exclusively as the language of royal inscriptions. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — Vijayanagara inscriptions were predominantly in <b>Kannada, Telugu, Tamil and Sanskrit</b>, not Persian, which was mainly used by the Bahmani and Deccan Sultanate administrations."
+        },
+        {
+          "q": "Consider the following statements regarding the economy of Vijayanagara as described by foreign travelers: 1. Abdur Razzaq notes a well-regulated mint and currency system in the capital. 2. Domingo Paes describes flourishing trade in the city's markets including precious stones sold openly in shops. 3. Duarte Barbosa, another traveler, corroborates the importance of the port of Calicut in the empire's Arabian Sea trade even though Calicut was outside direct Vijayanagara control. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 1,
+          "e": "All three statements are correct and reflect well-documented traveler accounts: Abdur Razzaq on the mint, Paes on gem markets, and <b>Duarte Barbosa</b> on Calicut's trade role, noting it functioned as an important, largely independent trading port linked to the broader regional economy that Vijayanagara interacted with."
+        },
+        {
+          "q": "Consider the following statements about temple architecture under Vijayanagara: 1. The Gopuram (monumental gateway tower) became a distinctive and increasingly prominent feature of temple complexes during this period. 2. The Kalyana Mandapa (marriage hall) with ornate pillars was a common addition in temple complexes of this era. 3. Vijayanagara temple architecture shows no continuity with earlier Chola or Hoysala traditions. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — towering <b>Gopurams</b> and ornamented <b>Kalyana Mandapas</b> are hallmark features of Vijayanagara temple architecture. Statement 3 is false, as Vijayanagara architecture consciously drew upon and synthesised earlier <b>Chola, Hoysala, and Pandya</b> traditions rather than breaking from them."
+        },
+        {
+          "q": "A UPSC-style question asks: which of the following most accurately distinguishes the administrative relationship between the Vijayanagara centre and its Nayaka chiefs from that between the Mughal centre and its mansabdars? Choose the best answer.",
+          "o": [
+            "Nayakas held largely hereditary and territorially rooted authority passed within families, whereas mansabdars were non-hereditary office holders transferable across jagirs at the emperor's discretion",
+            "Mansabdars were hereditary landholders while Nayakas were transferable salaried officials",
+            "Both systems were functionally identical in every respect",
+            "Nayakas received cash salaries only, while mansabdars received only land assignments and never cash"
+          ],
+          "a": 0,
+          "e": "The key structural distinction is that <b>Nayakas</b> tended to develop entrenched, often hereditary, control over their territories, while <b>Mansabdars</b> under the Mughals were formally non-hereditary appointees whose jagirs were periodically transferred, reflecting a more centralised bureaucratic logic despite both systems linking land/revenue rights to military service."
+        },
+        {
+          "q": "Consider the following statements: 1. Vira Narasimha of the Saluva dynasty was succeeded by Krishnadeva Raya's half-brother Vira Narasimha before Krishnadeva Raya himself came to power. 2. Krishnadeva Raya belonged to the Tuluva dynasty which succeeded the Saluva dynasty. 3. The transition from Saluva to Tuluva rule was achieved through a peaceful, uncontested succession. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 only",
+            "1 and 3 only",
+            "2 and 3 only"
+          ],
+          "a": 1,
+          "e": "Statement 2 is correct — the <b>Tuluva dynasty</b> (to which Krishnadeva Raya belonged) succeeded the Saluva dynasty. Statement 1 is garbled/self-contradictory as phrased and does not correctly represent the succession (Vira Narasimha, Krishnadeva Raya's half-brother, was himself the last independent Tuluva-line ruler before Krishnadeva Raya, not a Saluva). Statement 3 is incorrect, as the transition involved the minister Narasa Nayaka's family effectively seizing power, not a smooth uncontested handover."
+        },
+        {
+          "q": "Which of the following best explains why historians regard the Battle of Talikota (1565) as a turning point rather than an instant collapse of Vijayanagara?",
+          "o": [
+            "Because the Vijayanagara state, though it lost its capital and much prestige, continued under the Aravidu dynasty from new capitals for decades, with gradual rather than sudden loss of territory and authority to rising Nayaka chiefs and neighbouring powers",
+            "Because the Deccan Sultanates immediately annexed the entire Vijayanagara territory and ended the dynasty the same year",
+            "Because Vijayanagara defeated the Deccan Sultanates in a subsequent battle within a year and fully recovered its former status",
+            "Because Talikota only affected trade relations and had no political consequence for the empire"
+          ],
+          "a": 0,
+          "e": "Talikota led to the destruction of the capital city and a major loss of prestige and central authority, but the <b>Aravidu dynasty</b> continued to rule from Penukonda and later Chandragiri for nearly a century, with power gradually devolving to regional Nayakas — hence it is seen as the start of a prolonged decline rather than an abrupt end."
+        },
+        {
+          "q": "Consider the following statements: 1. The Ashtadiggajas were eight Telugu poets patronised at the court of Krishnadeva Raya. 2. Allasani Peddana, one of the Ashtadiggajas, is traditionally honoured with the title 'Andhra Kavita Pitamaha'. 3. This literary patronage indicates Vijayanagara court culture was exclusively Sanskritic and excluded vernacular literature. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the flourishing of the <b>Ashtadiggajas</b> and Telugu literary works like Amuktamalyada shows Vijayanagara actively patronised vernacular (Telugu, Kannada, Tamil) alongside Sanskrit literature, not an exclusive Sanskritic culture."
+        },
+        {
+          "q": "Consider the following statements: 1. The term 'iqta' under the Delhi Sultanate and 'amaram' under Vijayanagara both denoted assignments of revenue rights in exchange for military service. 2. Unlike iqta holders, Vijayanagara amaram-nayakas typically also held direct religious/temple patronage responsibilities in their assigned territories. 3. Both systems were entirely abolished by the time of Krishnadeva Raya's accession. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — both <b>iqta</b> and <b>amaram</b> tied land/revenue rights to military service, with Nayakas additionally often patronising temples in their domains. Statement 3 is false, as the amaram-Nayankara system continued and even expanded during and after Krishnadeva Raya's reign."
+        },
+        {
+          "q": "Consider the following statements regarding Deccan Sultanate-Vijayanagara relations before Talikota: 1. Vijayanagara at times allied with individual Deccan Sultanates against rival Sultanates. 2. Sectarian hostility alone drove all conflicts, with no instances of Hindu-Muslim political cooperation across the frontier. 3. Rama Raya's interference in Bijapur-Ahmadnagar rivalries contributed to the eventual coalition against Vijayanagara. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 3 are correct — Vijayanagara frequently entered shifting alliances with individual Sultanates, and <b>Rama Raya's</b> manipulative diplomacy angered multiple Sultanates enough to unite against him. Statement 2 is false, as alliances across the religious divide were common and pragmatic, not purely sectarian conflict."
+        },
+        {
+          "q": "A question tests source-based inference: Foreign travelers uniformly praise Vijayanagara's prosperity, yet also note harsh punishments and slavery in the markets. Which conclusion is MOST justified from this combination of observations?",
+          "o": [
+            "Vijayanagara society, like many contemporary early modern states, combined significant commercial prosperity and courtly grandeur with practices such as slavery and severe judicial punishment that were not seen as contradictory within its own social order",
+            "The travelers' accounts are entirely unreliable and contradictory, hence historically worthless",
+            "Prosperity and harsh punishment could not have coexisted, so one of the observations must be a later fabrication",
+            "Slavery was introduced only after the arrival of the Portuguese and did not exist in earlier Vijayanagara society"
+          ],
+          "a": 0,
+          "e": "The correct historical inference is that early modern states like Vijayanagara could simultaneously exhibit commercial prosperity, elaborate court culture, and coexisting harsh social practices like slavery/severe punishment — these are not mutually exclusive, and multiple independent travelers (Paes, Abdur Razzaq, Nuniz) corroborate both aspects."
+        },
+        {
+          "q": "Consider the following statements: 1. The Bahmani Kingdom's five successor Sultanates were eventually all absorbed into the Mughal Empire by the end of the 17th century. 2. Golconda was annexed by Aurangzeb in 1687, later than Bijapur's annexation in 1686. 3. Berar had already been absorbed by the Mughals as early as the reign of Akbar, well before Bijapur and Golconda fell. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. <b>Bijapur</b> fell to Aurangzeb in 1686 and <b>Golconda</b> in 1687, completing Mughal absorption of the major surviving Deccan Sultanates, while <b>Berar</b> had already been annexed under Akbar in the late 16th century, showing the piecemeal, century-long Mughal conquest of the Deccan."
+        },
+        {
+          "q": "Consider the following statements: 1. The Vijayanagara-Bahmani conflicts frequently centred on control of the fertile and strategically located Raichur doab. 2. The 'diamond mines' of the Krishna-Godavari tract referenced in traveler accounts refer to the Golconda diamond fields. 3. Krishnadeva Raya's capture of the Raichur doab in 1520 followed his victory over Bijapur's Ismail Adil Shah at the Battle of Raichur. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. The <b>Raichur doab</b> was a persistent flashpoint; the <b>Golconda diamond fields</b> lay in the Krishna-Godavari tract; and Krishnadeva Raya decisively defeated <b>Ismail Adil Shah of Bijapur</b> at the Battle of Raichur (1520), securing the doab for Vijayanagara."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_maratha_empire",
+    "title": "Maratha Empire",
+    "desc": "Shivaji, Peshwas, and the rise of Maratha power",
+    "questions": {
+      "basic": [
+        {
+          "q": "In which year was Shivaji formally crowned as Chhatrapati at Raigad?",
+          "o": [
+            "1664",
+            "1674",
+            "1680",
+            "1657"
+          ],
+          "a": 1,
+          "e": "<b>Shivaji</b> was crowned <b>Chhatrapati</b> at his capital <b>Raigad fort</b> in <b>1674 CE</b>, with the coronation conducted according to Vedic rites by the pandit Gaga Bhatta."
+        },
+        {
+          "q": "The Ashtapradhan was a council of how many ministers established by Shivaji?",
+          "o": [
+            "Six",
+            "Eight",
+            "Ten",
+            "Twelve"
+          ],
+          "a": 1,
+          "e": "The <b>Ashtapradhan</b> (literally 'eight ministers/pillars') was Shivaji's council of <b>eight</b> ministers assisting in administration, including the Peshwa (chief minister) and Sar-i-Naubat (military chief)."
+        },
+        {
+          "q": "The guerrilla warfare tactics employed by Shivaji against larger armies are known by which term?",
+          "o": [
+            "Ganimi Kava",
+            "Jauhar",
+            "Chauth",
+            "Sardeshmukhi"
+          ],
+          "a": 0,
+          "e": "<b>Ganimi Kava</b> refers to the guerrilla warfare strategy of hit-and-run raids, ambushes, and swift retreats that Shivaji effectively used against the numerically superior Mughal and Bijapur forces."
+        },
+        {
+          "q": "Who succeeded Shivaji as the Maratha Chhatrapati after his death in 1680?",
+          "o": [
+            "Rajaram",
+            "Sambhaji",
+            "Shahu",
+            "Tarabai's son"
+          ],
+          "a": 1,
+          "e": "<b>Sambhaji</b>, Shivaji's elder son, succeeded him as Chhatrapati in 1680 and was later captured and executed by Aurangzeb in 1689."
+        },
+        {
+          "q": "Who was the first Peshwa to establish the office as hereditary and effectively hold real power in the Maratha state?",
+          "o": [
+            "Balaji Vishwanath",
+            "Baji Rao I",
+            "Balaji Baji Rao",
+            "Madhav Rao I"
+          ],
+          "a": 0,
+          "e": "<b>Balaji Vishwanath</b>, appointed Peshwa in 1713 by Chhatrapati Shahu, made the office hereditary and laid the foundation for Peshwa dominance in Maratha politics."
+        },
+        {
+          "q": "The Third Battle of Panipat, a major defeat for the Marathas, was fought in which year?",
+          "o": [
+            "1757",
+            "1761",
+            "1764",
+            "1739"
+          ],
+          "a": 1,
+          "e": "The <b>Third Battle of Panipat</b> was fought in <b>1761</b> between the Maratha forces led by Sadashiv Rao Bhau and the Afghan invader Ahmad Shah Abdali."
+        },
+        {
+          "q": "Who led the Maratha army at the Third Battle of Panipat?",
+          "o": [
+            "Balaji Baji Rao",
+            "Sadashiv Rao Bhau",
+            "Mahadji Scindia",
+            "Nana Phadnavis"
+          ],
+          "a": 1,
+          "e": "<b>Sadashiv Rao Bhau</b>, cousin of Peshwa Balaji Baji Rao, commanded the Maratha forces at Panipat in 1761 and was killed in the battle."
+        },
+        {
+          "q": "The Maratha Confederacy included which of the following as one of its major constituent chieftaincies ruling from Gwalior?",
+          "o": [
+            "Holkar",
+            "Scindia",
+            "Gaekwad",
+            "Bhonsle"
+          ],
+          "a": 1,
+          "e": "The <b>Scindia (Shinde)</b> family ruled from <b>Gwalior</b> as one of the major houses of the Maratha Confederacy, alongside the Holkars of Indore, Gaekwads of Baroda, and Bhonsles of Nagpur."
+        },
+        {
+          "q": "Which Maratha chieftain house ruled from Indore as part of the Maratha Confederacy?",
+          "o": [
+            "Holkar",
+            "Scindia",
+            "Gaekwad",
+            "Bhonsle"
+          ],
+          "a": 0,
+          "e": "The <b>Holkar</b> dynasty, founded by Malhar Rao Holkar, ruled from <b>Indore</b> and was one of the four principal houses of the Maratha Confederacy."
+        },
+        {
+          "q": "Which of the four principal Maratha chieftain houses ruled from Baroda in Gujarat?",
+          "o": [
+            "Scindia",
+            "Holkar",
+            "Gaekwad",
+            "Bhonsle"
+          ],
+          "a": 2,
+          "e": "The <b>Gaekwad</b> dynasty ruled from <b>Baroda</b> in Gujarat and remained one of the important constituents of the Maratha Confederacy."
+        },
+        {
+          "q": "The Bhonsle rulers of the Maratha Confederacy were based at which city?",
+          "o": [
+            "Nagpur",
+            "Pune",
+            "Satara",
+            "Kolhapur"
+          ],
+          "a": 0,
+          "e": "The <b>Bhonsle</b> dynasty (a separate branch from Shivaji's family) ruled from <b>Nagpur</b> and controlled large territories in eastern and central India."
+        },
+        {
+          "q": "Which treaty formally ended the First Anglo-Maratha War in 1782?",
+          "o": [
+            "Treaty of Salbai",
+            "Treaty of Bassein",
+            "Treaty of Purandar",
+            "Treaty of Surat"
+          ],
+          "a": 0,
+          "e": "The <b>Treaty of Salbai</b> (1782) ended the <b>First Anglo-Maratha War</b>, restoring the status quo and granting the British peace with the Marathas for about 20 years."
+        },
+        {
+          "q": "The Treaty of Bassein (1802), which led to the Second Anglo-Maratha War, was signed between the British and which Peshwa?",
+          "o": [
+            "Baji Rao II",
+            "Madhav Rao I",
+            "Narayan Rao",
+            "Raghunath Rao"
+          ],
+          "a": 0,
+          "e": "The <b>Treaty of Bassein</b> was signed in 1802 with Peshwa <b>Baji Rao II</b>, who accepted British subsidiary alliance after being driven out by Holkar forces, triggering the Second Anglo-Maratha War."
+        },
+        {
+          "q": "The Third Anglo-Maratha War (1817-1818) resulted in which major outcome?",
+          "o": [
+            "Abolition of the office of Peshwa and annexation of Peshwa territories by the British",
+            "Restoration of full Maratha independence",
+            "Formation of a new confederacy under Scindia",
+            "Return of Delhi to Maratha control"
+          ],
+          "a": 0,
+          "e": "Following the <b>Third Anglo-Maratha War</b>, the British abolished the office of the <b>Peshwa</b> in 1818, exiling Baji Rao II and annexing Maratha territories, effectively ending Maratha political power."
+        },
+        {
+          "q": "Which fort served as Shivaji's capital where his coronation took place?",
+          "o": [
+            "Raigad",
+            "Purandar",
+            "Sinhagad",
+            "Pratapgad"
+          ],
+          "a": 0,
+          "e": "<b>Raigad fort</b> in the Sahyadri hills served as Shivaji's capital and the site of his formal coronation as Chhatrapati in 1674."
+        },
+        {
+          "q": "Which two taxes did the Marathas typically levy on territories outside their direct control, forming an important source of revenue?",
+          "o": [
+            "Chauth and Sardeshmukhi",
+            "Jizya and Kharaj",
+            "Zakat and Ushr",
+            "Ghari and Charai"
+          ],
+          "a": 0,
+          "e": "The Marathas collected <b>Chauth</b> (one-fourth of the land revenue) and <b>Sardeshmukhi</b> (an additional 10%) from territories they did not directly administer, as tribute for protection or in lieu of raids."
+        },
+        {
+          "q": "The Treaty of Purandar (1665) was signed between Shivaji and which Mughal general?",
+          "o": [
+            "Jai Singh I",
+            "Shaista Khan",
+            "Aurangzeb himself",
+            "Afzal Khan"
+          ],
+          "a": 0,
+          "e": "The <b>Treaty of Purandar</b> (1665) was signed between Shivaji and the Mughal general <b>Raja Jai Singh I</b>, under which Shivaji surrendered several forts to the Mughals."
+        },
+        {
+          "q": "Which Maratha ruler was famously killed by Shivaji in single combat using 'tiger claws' (bagh nakh)?",
+          "o": [
+            "Afzal Khan",
+            "Shaista Khan",
+            "Siddi Jauhar",
+            "Inayat Khan"
+          ],
+          "a": 0,
+          "e": "<b>Afzal Khan</b>, a Bijapur general sent against Shivaji, was killed by Shivaji using the <b>bagh nakh</b> (tiger claws) during a meeting near Pratapgad fort in 1659."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding Shivaji's administration: 1. The Ashtapradhan council included the Peshwa as the chief minister. 2. The Sar-i-Naubat (Senapati) was responsible for revenue collection rather than military command. 3. None of the Ashtapradhan posts were hereditary in Shivaji's original scheme. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 3 are correct — the <b>Peshwa</b> headed the council, and posts were meant to be non-hereditary appointments based on merit. Statement 2 is wrong, as the <b>Sar-i-Naubat/Senapati</b> was the military commander-in-chief, not a revenue official (that role belonged to the Amatya)."
+        },
+        {
+          "q": "Consider the following statements: 1. Shivaji's guerrilla tactics (Ganimi Kava) relied on knowledge of local terrain and swift cavalry movements. 2. Shivaji built an extensive network of hill forts to support defensive and logistical needs. 3. Shivaji completely avoided direct pitched battles throughout his career. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — while guerrilla tactics were central to Shivaji's strategy, he did also fight some pitched engagements when advantageous, so 'completely avoided' is an overstatement."
+        },
+        {
+          "q": "Consider the following statements about Sambhaji's reign: 1. He succeeded Shivaji directly in 1680 without any succession dispute. 2. He was captured and executed by Aurangzeb after being betrayed. 3. His execution took place after Aurangzeb's forces captured him near Sangameshwar. Which of the statements given above is/are correct?",
+          "o": [
+            "2 and 3 only",
+            "1 and 2 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 2 and 3 are correct — Sambhaji was betrayed, captured near <b>Sangameshwar</b>, and executed by Aurangzeb in 1689. Statement 1 is false, as there was a succession contest between Sambhaji and his younger half-brother Rajaram's faction before Sambhaji secured the throne."
+        },
+        {
+          "q": "Consider the following statements regarding the Peshwa era: 1. Balaji Vishwanath negotiated favourable terms with the Mughal emperor recognising Maratha rights to Chauth and Sardeshmukhi in the Deccan. 2. Baji Rao I significantly expanded Maratha power into Malwa and Gujarat. 3. The Peshwaship became a hereditary office held by the Bhat family. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct. <b>Balaji Vishwanath</b> secured formal Mughal recognition of Chauth/Sardeshmukhi rights (1719); <b>Baji Rao I</b> expanded into Malwa and Gujarat; and the Peshwaship remained hereditary within the <b>Bhat</b> family from Balaji Vishwanath onward."
+        },
+        {
+          "q": "Consider the following statements about the Third Battle of Panipat (1761): 1. The Maratha army faced Ahmad Shah Abdali's Afghan forces allied with Rohilla and Awadh contingents. 2. The battle resulted in a decisive Maratha victory that consolidated their control over north India. 3. The defeat led to a temporary setback in Maratha expansion in the north. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 3 are correct. Statement 2 is false — the battle was a <b>crushing defeat</b> for the Marathas, not a victory, though the Marathas did recover politically within a decade or so under Madhav Rao I."
+        },
+        {
+          "q": "Consider the following statements: 1. The Maratha Confederacy after Panipat operated as a loose alliance of chieftain families under nominal Peshwa leadership. 2. The Scindias and Holkars frequently pursued independent foreign policies, sometimes in conflict with each other. 3. The Peshwa retained complete and unchallenged authority over all confederate chiefs until 1818. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the Confederacy was a loose alliance, and houses like <b>Scindia and Holkar</b> often acted independently and even clashed. Statement 3 is false, as Peshwa authority weakened considerably over the confederate chiefs especially after Panipat."
+        },
+        {
+          "q": "Consider the following statements regarding the Anglo-Maratha Wars: 1. The First Anglo-Maratha War ended with the Treaty of Salbai in 1782. 2. The Second Anglo-Maratha War was triggered partly by the Treaty of Bassein signed by Peshwa Baji Rao II. 3. The Third Anglo-Maratha War resulted in the restoration of full Maratha sovereignty under a new Peshwa. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the <b>Third Anglo-Maratha War</b> (1817-18) led to the abolition of the Peshwa's office and annexation of Maratha territory, not restoration of sovereignty."
+        },
+        {
+          "q": "Consider the following statements: 1. Chauth was typically fixed at one-fourth of the standard land revenue assessment. 2. Sardeshmukhi was an additional levy of about ten percent claimed on the basis of the Maratha king's hereditary position as Sardeshmukh of the Deccan. 3. Both levies were collected only from territories under direct Maratha administrative control. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Chauth</b> was a quarter of the revenue and <b>Sardeshmukhi</b> an added tenth, tied to the claimed hereditary Sardeshmukh title. Statement 3 is false, as these were levied precisely on territories <b>outside</b> direct Maratha administration, as tribute."
+        },
+        {
+          "q": "Consider the following statements about Maratha-Mughal relations under Shivaji: 1. The Treaty of Purandar required Shivaji to cede a majority of his forts to the Mughals. 2. Shivaji later visited Agra and was placed under house arrest by Aurangzeb. 3. Shivaji never recovered any of the forts ceded under the Treaty of Purandar. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Shivaji ceded most forts under the <b>Treaty of Purandar</b> (1665) and was later detained at <b>Agra</b> (1666) before his famous escape. Statement 3 is false, as Shivaji subsequently recaptured many of the ceded forts in renewed campaigns."
+        },
+        {
+          "q": "Consider the following statements regarding Maratha naval power: 1. Shivaji developed a navy to counter Siddi and Portuguese influence along the Konkan coast. 2. Kanhoji Angre later emerged as a powerful Maratha admiral controlling parts of the western coast. 3. The Maratha navy remained entirely under direct Peshwa command with no autonomous admirals. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Shivaji built a navy against the <b>Siddis and Portuguese</b>, and <b>Kanhoji Angre</b> later commanded a semi-autonomous Maratha naval force. Statement 3 is false, as Angre and his successors operated with substantial independence from Peshwa control."
+        },
+        {
+          "q": "Consider the following statements: 1. Madhav Rao I, as Peshwa, is credited with restoring Maratha power and revenue after the Panipat disaster. 2. He suppressed a rebellion by his uncle Raghunath Rao during his tenure. 3. His death was followed by an immediate and peaceful succession with no internal conflict. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Madhav Rao I</b> revived Maratha fortunes after Panipat and curbed <b>Raghunath Rao's</b> ambitions. Statement 3 is false, as his death (1772) was followed by intense succession conflict, including the eventual murder of Narayan Rao and rise of Raghunath Rao's claims, contributing to the First Anglo-Maratha War."
+        },
+        {
+          "q": "Consider the following statements comparing Shivaji's state and the Mughal Empire: 1. Both used revenue assessment systems drawing on Deccan Sultanate precedents in areas under Maratha control. 2. Shivaji's core administration relied on a more compact, war-oriented apparatus compared to the elaborate Mughal mansabdari bureaucracy. 3. Shivaji rejected any use of Persian administrative terminology in his government. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Maratha revenue practices in newly acquired areas often drew on existing <b>Deccan Sultanate</b> systems, and Shivaji's administration was comparatively compact and militarily focused. Statement 3 is false, as Persian terms (e.g., Peshwa's full title, various administrative vocabulary) continued to be used in Maratha administration."
+        },
+        {
+          "q": "Consider the following statements regarding Shivaji's fort administration: 1. Each major fort was placed under three officers of equal rank (Havaldar, Sabnis and Sarnobat) to prevent any single commander from betraying the fort. 2. This system reflected Shivaji's emphasis on checks and balances in military administration. 3. Forts under this system were never lost to the Mughals throughout Shivaji's reign. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Shivaji's practice of appointing multiple co-equal officers at forts was a deliberate check against treachery. Statement 3 is false, as some forts were indeed lost and later recaptured during the course of Shivaji's conflicts, including under the Treaty of Purandar."
+        },
+        {
+          "q": "Consider the following statements about the aftermath of Panipat: 1. Peshwa Balaji Baji Rao died shortly after receiving news of the defeat. 2. The Maratha state lost effective control over Delhi and north Indian tribute for over a decade. 3. Mysore under Hyder Ali immediately absorbed all former Maratha territories in the Deccan. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Balaji Baji Rao</b> died in 1761 soon after the defeat, and Maratha influence in the north declined for years. Statement 3 is false, as Mysore under <b>Hyder Ali</b> did not annex Maratha Deccan territories in this manner; Maratha power in the Deccan itself remained largely intact."
+        },
+        {
+          "q": "Consider the following statements: 1. Shahu, grandson of Shivaji, was released by the Mughals after Aurangzeb's death and contested the throne with Tarabai's faction. 2. Balaji Vishwanath supported Shahu's claim and was rewarded with the Peshwaship. 3. This succession conflict had no lasting impact on the structure of Maratha politics. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Shahu</b> was released after Aurangzeb's death (1707) and, with Balaji Vishwanath's support against Tarabai's faction, secured the throne, rewarding Balaji with the <b>Peshwaship</b>. Statement 3 is false, as this conflict directly set the stage for the rise of Peshwa dominance in Maratha politics."
+        },
+        {
+          "q": "Consider the following statements regarding Maratha expansion beyond the Deccan: 1. Maratha forces raided and collected tribute across Bengal in the 1740s, known locally as the 'Bargi' incursions. 2. The Bhonsles of Nagpur were primarily responsible for these eastern campaigns. 3. These campaigns permanently established direct Maratha administrative rule over Bengal. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the <b>'Bargi' raids</b> into Bengal in the 1740s were largely conducted by the <b>Bhonsles of Nagpur</b>. Statement 3 is false, as these were tribute-extracting raids rather than establishing permanent direct Maratha administrative control over Bengal, which remained under Mughal/Nawabi and later British authority."
+        },
+        {
+          "q": "Consider the following statements about Maratha relations with regional powers in the 18th century: 1. The Marathas frequently intervened in Rajput succession disputes to extract tribute. 2. The Marathas maintained an unbroken alliance with the Nizam of Hyderabad throughout the 18th century. 3. Conflicts with the Nizam over Deccan territory and tribute were recurrent features of the period. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 3 are correct — Marathas intervened in <b>Rajput</b> affairs for tribute, and recurrent conflict with the <b>Nizam of Hyderabad</b> over Deccan revenue and territory (e.g., Battle of Bhalki, Battle of Rakshasbhuvan) was common. Statement 2 is false, as relations with the Nizam alternated between conflict and alliance rather than being unbroken."
+        },
+        {
+          "q": "Consider the following statements regarding Maratha revenue administration: 1. Regions under direct Maratha rule used a village-level revenue system with hereditary officials such as the Patil and Kulkarni. 2. The Peshwa's government maintained detailed revenue records comparable in spirit to those of the Mughal dahsala system. 3. Maratha revenue demand was fixed permanently and never revised throughout the 18th century. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — village administration relied on hereditary officials like the <b>Patil</b> (headman) and <b>Kulkarni</b> (accountant), and Peshwa revenue record-keeping was fairly systematic. Statement 3 is false, as revenue demand was periodically reassessed rather than fixed permanently."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The Ashtapradhan council, though modelled with Persian-influenced titles for some posts, was fundamentally intended by Shivaji as a body of appointed, non-hereditary advisors. 2. Over time, especially under the Peshwa period, several of these originally non-hereditary offices, most notably the Peshwaship itself, became hereditary. 3. This shift from appointed to hereditary offices had no bearing on the balance of power between the Chhatrapati and the Peshwa. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the council began as appointive, but the <b>Peshwaship</b> became hereditary in the Bhat family from Balaji Vishwanath onward. Statement 3 is false, as this hereditary shift was central to the transfer of real power from the <b>Chhatrapati</b> to the <b>Peshwa</b>, reducing the Chhatrapati to a largely nominal figurehead by the 18th century."
+        },
+        {
+          "q": "Consider the following statements: 1. Sadashiv Rao Bhau's decision to bring the Maratha court's non-combatant camp followers, including women and elderly relatives, to Panipat is cited by historians as a logistical burden during the campaign. 2. The Marathas' alliance-building before Panipat failed to secure the cooperation of the Rajputs and Jats, leaving them isolated against Abdali's coalition. 3. Ahmad Shah Abdali's forces included support from Najib-ud-Daula's Rohilla contingents and the Nawab of Awadh. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct and reflect established historical analysis of the Panipat campaign: the burdened camp, failed diplomacy with the <b>Rajputs and Jats</b>, and Abdali's coalition with <b>Najib-ud-Daula and the Nawab of Awadh</b> all contributed to the scale of the Maratha defeat."
+        },
+        {
+          "q": "A historian notes that despite the catastrophic defeat at Panipat in 1761, the Maratha state did not collapse and in fact expanded again within two decades. Which of the following best explains this apparent paradox?",
+          "o": [
+            "The decentralised structure of the Maratha Confederacy meant that the defeat, though it destroyed the primary field army and its leadership, did not eliminate the autonomous regional resource bases and armies of the Scindia, Holkar, Gaekwad and Bhonsle houses, which independently rebuilt Maratha power",
+            "The British immediately restored all lost Maratha territory out of diplomatic goodwill",
+            "Ahmad Shah Abdali permanently annexed the Maratha homeland, and a new unrelated dynasty rebuilt the state from scratch",
+            "The Mughal emperor personally financed the reconstruction of the Maratha army after Panipat"
+          ],
+          "a": 0,
+          "e": "The key explanation is the <b>decentralised, confederate</b> structure of Maratha power — regional houses like <b>Scindia, Holkar, Gaekwad, and Bhonsle</b> retained independent resources and armies, allowing the Marathas as a collective system to recover even after the central field army's destruction at Panipat."
+        },
+        {
+          "q": "Consider the following statements: 1. The institution of Chauth represented, in practice, a form of protection tribute rather than a regular administrative tax integrated into a territory's formal revenue settlement. 2. Areas paying Chauth to the Marathas typically remained under the nominal administrative control of their existing rulers (Mughal or regional). 3. The collection of Chauth and Sardeshmukhi had entirely ceased by the time of Balaji Vishwanath's Peshwaship. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Chauth</b> functioned more as tribute/protection money than an integrated tax, with the paying territory's existing administration remaining nominally in place. Statement 3 is false, as Balaji Vishwanath in fact formally secured Mughal recognition of the right to collect <b>Chauth and Sardeshmukhi</b> in the Deccan in 1719, rather than these levies having ceased."
+        },
+        {
+          "q": "Consider the following statements regarding Shivaji's coronation in 1674: 1. Some contemporary Brahmin authorities questioned Shivaji's Kshatriya status, necessitating a specific ritual justification for the coronation. 2. The pandit Gaga Bhatta, invited from Varanasi, performed rites establishing Shivaji's Kshatriya lineage for the ceremony. 3. The coronation had no political significance beyond a religious ritual and did not affect Shivaji's diplomatic standing with other rulers. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Shivaji's non-traditional lineage claims required <b>Gaga Bhatta's</b> ritual validation of Kshatriya status. Statement 3 is false, as the coronation carried major political significance, formally establishing Shivaji as a sovereign <b>Chhatrapati</b> equal in status to other ruling powers, not merely a Mughal-subordinate chieftain."
+        },
+        {
+          "q": "Consider the following statements: 1. The Treaty of Salbai (1782) restored the pre-war territorial status quo and secured about two decades of peace between the British and the Marathas. 2. The Treaty of Bassein (1802) was accepted by Peshwa Baji Rao II after his defeat by Holkar forces at the Battle of Poona. 3. The Treaty of Bassein effectively made the Peshwa's government a British-protected subsidiary state, prompting resistance from Scindia and Bhonsle. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. <b>Salbai</b> (1782) gave roughly two decades of peace; <b>Baji Rao II</b> accepted British protection after Holkar's victory at Poona (1802) via the <b>Treaty of Bassein</b>; and this subsidiary arrangement provoked opposition from other confederate chiefs, triggering the Second Anglo-Maratha War."
+        },
+        {
+          "q": "Which of the following best captures why historians describe the Maratha polity after Shivaji as evolving from a 'unitary kingdom' toward a 'confederacy'?",
+          "o": [
+            "Because power progressively devolved from a single sovereign Chhatrapati to multiple semi-autonomous regional chieftain families (Peshwa, Scindia, Holkar, Gaekwad, Bhonsle) each controlling distinct territories and armies while nominally acknowledging a common overlordship",
+            "Because the Chhatrapati abolished all regional chieftaincies and ruled directly through appointed governors after 1707",
+            "Because the Mughal emperor formally partitioned Maratha territory among rival claimants",
+            "Because the British East India Company redrew Maratha administrative boundaries into a confederal structure"
+          ],
+          "a": 0,
+          "e": "The correct explanation is the progressive devolution of real authority from the <b>Chhatrapati</b> to multiple regional houses (<b>Peshwa at Pune, Scindia at Gwalior, Holkar at Indore, Gaekwad at Baroda, Bhonsle at Nagpur</b>), each functioning with considerable autonomy while maintaining nominal common allegiance — a structural shift, not one imposed by Mughals or British."
+        },
+        {
+          "q": "Consider the following statements: 1. Mahadji Scindia rebuilt Maratha influence in north India after Panipat, including exercising control over the Mughal emperor at Delhi in the 1780s. 2. Mahadji Scindia's army was noted for incorporating European-style drill and artillery under French-trained officers. 3. Mahadji Scindia's dominance ended all rivalry between the Scindia and Holkar houses. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Mahadji Scindia</b> restored Maratha influence over Delhi and modernised his army with European-style training (e.g., under Benoit de Boigne). Statement 3 is false, as rivalry between <b>Scindia and Holkar</b> persisted and even intensified after his death, contributing to Maratha disunity."
+        },
+        {
+          "q": "A question on source-based inference: British records describe the Marathas as a 'confederacy of plunderers,' while Maratha bakhars (chronicles) glorify the same campaigns as legitimate assertions of swarajya and tribute rights. What does this contrast BEST illustrate about using these sources for history?",
+          "o": [
+            "Colonial and indigenous sources often reflect the political interests and perspectives of their authors, so historians must read both critically and cross-reference them rather than accepting either narrative at face value",
+            "British records are always objective and factual while indigenous chronicles are inherently unreliable propaganda",
+            "Maratha bakhars are always more accurate than British records because they were written by contemporaries",
+            "The contradiction proves that neither source has any historical value and both should be disregarded"
+          ],
+          "a": 0,
+          "e": "The correct methodological point is that both colonial administrative records and indigenous chronicles carry the biases and political framing of their producers — <b>British sources</b> often cast Maratha expansion as illegitimate plunder to justify intervention, while <b>Maratha bakhars</b> framed the same actions as legitimate sovereignty claims (swarajya), so critical cross-referencing, not blind acceptance of either, is required."
+        },
+        {
+          "q": "Consider the following statements: 1. Nana Phadnavis, a key statesman during the later Peshwa period, played a central role in Maratha diplomacy and administration despite not holding the office of Peshwa himself. 2. He helped orchestrate a triple alliance of Marathas, Nizam of Hyderabad, and Mysore against the British in the 1780s. 3. His influence ended completely with the death of Madhav Rao I. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Nana Phadnavis</b> was a powerful non-Peshwa statesman who helped forge a triple alliance against British expansion. Statement 3 is false, as his influence actually continued and peaked in the decades after Madhav Rao I's death (1772), until his own death in 1800."
+        },
+        {
+          "q": "Consider the following statements: 1. The decline of central Peshwa authority after Madhav Rao I's death was accelerated by factional conflict, including Raghunath Rao's alliance with the British. 2. Raghunath Rao's actions directly contributed to the outbreak of the First Anglo-Maratha War. 3. The First Anglo-Maratha War ended in a clear, decisive British victory with major territorial gains. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Raghunath Rao's</b> pact with the British (Treaty of Surat, 1775) seeking Company help to become Peshwa triggered the <b>First Anglo-Maratha War</b>. Statement 3 is false, as the war ended largely in a stalemate/Maratha advantage, formalised by the more balanced <b>Treaty of Salbai</b> (1782), not a decisive British victory."
+        },
+        {
+          "q": "Which of the following statements about the office of Peshwa's decline is the LEAST accurate, and therefore the correct answer to identify as incorrect?",
+          "o": [
+            "The Peshwa's office was formally abolished by the British following the Third Anglo-Maratha War in 1818",
+            "Baji Rao II was granted a pension and allowed to settle at Bithoor near Kanpur after his surrender",
+            "The abolition of the Peshwaship immediately restored the Chhatrapati of Satara to full sovereign imperial authority over all former Maratha territories",
+            "The Peshwa's defeat and exile effectively ended organised Maratha resistance to British paramountcy in western India"
+          ],
+          "a": 2,
+          "e": "This statement is incorrect and hence the answer: the British did not restore the <b>Chhatrapati of Satara</b> to full sovereign authority; instead, they retained a small titular state under Company oversight while directly annexing most former Peshwa territories into British India, with Baji Rao II pensioned off to <b>Bithoor</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The Maratha system of governance combined a centralised fiscal ambition (through Chauth/Sardeshmukhi claims across large tracts of India) with a fundamentally decentralised military-political structure reliant on semi-autonomous chieftains. 2. This combination made the Maratha state simultaneously an extensive fiscal-military network and a fragile political confederation prone to internal rivalry. 3. This dual character was largely irrelevant to explaining the eventual British conquest of Maratha territories. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct and represent a widely accepted historical assessment of the Maratha polity. Statement 3 is false, as this dual character — extensive fiscal reach but fragile political unity — is central to explaining why the British could exploit internal Maratha rivalries (Scindia vs Holkar, Peshwa vs confederates) to achieve conquest piecemeal across the Anglo-Maratha Wars."
+        },
+        {
+          "q": "Consider the following statements regarding Shivaji's relations with the Deccan Sultanates: 1. Shivaji began his career as a rebel against Bijapur's Adil Shahi authority before later contending with the Mughals. 2. Shivaji's assassination of Afzal Khan was preceded by prior military reverses for Bijapur against the rising Maratha power. 3. Shivaji never sought any diplomatic accommodation with the Sultanates and pursued only continuous warfare against them. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Shivaji's early campaigns targeted <b>Bijapur's Adil Shahi</b> holdings, and prior Maratha successes prompted Bijapur to send Afzal Khan against him. Statement 3 is false, as Shivaji did pursue periods of truce and diplomatic accommodation with the Sultanates when strategically useful, not unbroken warfare."
+        },
+        {
+          "q": "Which of the following correctly ranks, in chronological order, the following events: (i) Treaty of Purandar, (ii) Coronation of Shivaji, (iii) Battle of Panipat III, (iv) Treaty of Bassein?",
+          "o": [
+            "Treaty of Purandar - Coronation of Shivaji - Battle of Panipat III - Treaty of Bassein",
+            "Coronation of Shivaji - Treaty of Purandar - Treaty of Bassein - Battle of Panipat III",
+            "Battle of Panipat III - Treaty of Purandar - Coronation of Shivaji - Treaty of Bassein",
+            "Treaty of Bassein - Battle of Panipat III - Coronation of Shivaji - Treaty of Purandar"
+          ],
+          "a": 0,
+          "e": "The correct chronological order is: <b>Treaty of Purandar (1665)</b>, <b>Shivaji's coronation (1674)</b>, <b>Third Battle of Panipat (1761)</b>, and <b>Treaty of Bassein (1802)</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Rajaram, who became Chhatrapati after Sambhaji's execution, continued Maratha resistance against Aurangzeb from the fort of Jinji in the south. 2. Tarabai, Rajaram's widow, played an active role in continuing Maratha resistance after his death. 3. This period of resistance (1689-1707) saw the Marathas abandon all guerrilla tactics in favour of large-scale conventional warfare against the Mughals. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Rajaram</b> continued resistance from <b>Jinji</b>, and <b>Tarabai</b> actively led Maratha efforts after his death in 1700. Statement 3 is false, as the Marathas during this period relied heavily on continued <b>guerrilla tactics</b> (raids and mobile warfare) against the prolonged Mughal Deccan campaigns, not a shift to conventional warfare."
+        },
+        {
+          "q": "Consider the following statements: 1. Aurangzeb's prolonged Deccan campaign (1682-1707) aimed at subjugating both the Marathas and the remaining Deccan Sultanates of Bijapur and Golconda. 2. This drawn-out campaign is regarded by many historians as a major drain on Mughal finances and military resources that weakened the empire's long-term stability. 3. Despite enormous Mughal effort, Maratha resistance under Rajaram and later Tarabai was never fully suppressed. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. Aurangzeb's <b>Deccan campaigns</b> targeted both Bijapur/Golconda and the Marathas, drained Mughal resources significantly (a point widely noted by historians as contributing to later Mughal decline), and ultimately failed to crush Maratha resistance led by <b>Rajaram and Tarabai</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The subsidiary alliance system, as accepted by Peshwa Baji Rao II under the Treaty of Bassein, required the Peshwa to station a British-controlled force at his own expense and cede territory for its maintenance. 2. Acceptance of subsidiary alliance by the Peshwa was viewed by other Maratha chiefs like Scindia and Bhonsle as a threat to collective Maratha sovereignty. 3. This dynamic directly contributed to the outbreak of the Second Anglo-Maratha War. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. The <b>Treaty of Bassein</b> imposed a subsidiary force at Peshwa expense with ceded territory, alarmed other Maratha chiefs (<b>Scindia, Bhonsle</b>) who saw it as compromising Maratha independence, and this resistance led directly to the <b>Second Anglo-Maratha War</b> (1803-05)."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_sikh_empire_gurus",
+    "title": "Sikh Empire & Sikh Gurus",
+    "desc": "Sikh Gurus, the Khalsa, and Ranjit Singh's empire",
+    "questions": {
+      "basic": [
+        {
+          "q": "Who was the founder of Sikhism and the first of the ten Sikh Gurus?",
+          "o": [
+            "Guru Nanak",
+            "Guru Angad",
+            "Guru Amar Das",
+            "Guru Har Rai"
+          ],
+          "a": 0,
+          "e": "<b>Guru Nanak Dev</b> (1469-1539), born at Talwandi (Nankana Sahib), founded Sikhism and was the first of the ten Sikh Gurus."
+        },
+        {
+          "q": "Which Guru compiled the Adi Granth, the precursor to the Guru Granth Sahib?",
+          "o": [
+            "Guru Arjan Dev",
+            "Guru Ram Das",
+            "Guru Tegh Bahadur",
+            "Guru Har Gobind"
+          ],
+          "a": 0,
+          "e": "<b>Guru Arjan Dev</b>, the fifth Guru, compiled the <b>Adi Granth</b> in 1604 at Amritsar, incorporating hymns of previous Gurus and other saints."
+        },
+        {
+          "q": "Who was the tenth and last of the human Sikh Gurus, who founded the Khalsa?",
+          "o": [
+            "Guru Gobind Singh",
+            "Guru Har Krishan",
+            "Guru Tegh Bahadur",
+            "Guru Har Rai"
+          ],
+          "a": 0,
+          "e": "<b>Guru Gobind Singh</b>, the tenth Guru, founded the <b>Khalsa</b> in 1699 and later declared the Guru Granth Sahib as the eternal Guru of the Sikhs."
+        },
+        {
+          "q": "In which year was the Khalsa founded by Guru Gobind Singh?",
+          "o": [
+            "1699",
+            "1708",
+            "1675",
+            "1666"
+          ],
+          "a": 0,
+          "e": "The <b>Khalsa</b>, a collective body of initiated Sikhs, was founded by Guru Gobind Singh at <b>Anandpur Sahib</b> in <b>1699</b> during Baisakhi celebrations."
+        },
+        {
+          "q": "Which Guru was executed by Aurangzeb in 1675 in Delhi?",
+          "o": [
+            "Guru Tegh Bahadur",
+            "Guru Har Krishan",
+            "Guru Gobind Singh",
+            "Guru Arjan Dev"
+          ],
+          "a": 0,
+          "e": "<b>Guru Tegh Bahadur</b>, the ninth Guru, was executed by Aurangzeb's orders in Delhi in 1675 after refusing to convert to Islam, reportedly in defense of religious freedom for Kashmiri Pandits."
+        },
+        {
+          "q": "Which Sikh leader led an armed resistance against Mughal authority and briefly established Sikh rule in Punjab in the early 18th century, before being executed in 1716?",
+          "o": [
+            "Banda Singh Bahadur",
+            "Kapur Singh",
+            "Jassa Singh Ahluwalia",
+            "Ranjit Singh"
+          ],
+          "a": 0,
+          "e": "<b>Banda Singh Bahadur</b>, appointed by Guru Gobind Singh, led a rebellion against Mughal authority, captured Sirhind, and briefly ruled parts of Punjab before being captured and executed by the Mughals in 1716."
+        },
+        {
+          "q": "Who founded the Sikh Empire and established Lahore as its capital?",
+          "o": [
+            "Ranjit Singh",
+            "Banda Singh Bahadur",
+            "Jassa Singh Ahluwalia",
+            "Hari Singh Nalwa"
+          ],
+          "a": 0,
+          "e": "<b>Maharaja Ranjit Singh</b> unified the various Sikh misls and founded the <b>Sikh Empire</b> in 1801, with <b>Lahore</b> as its capital."
+        },
+        {
+          "q": "The Anglo-Sikh Wars and eventual annexation of Punjab by the British took place in which year?",
+          "o": [
+            "1849",
+            "1857",
+            "1839",
+            "1799"
+          ],
+          "a": 0,
+          "e": "Punjab was formally annexed by the British in <b>1849</b> following the Second Anglo-Sikh War, ending Sikh sovereign rule."
+        },
+        {
+          "q": "Which Guru is credited with establishing the tradition of langar (community kitchen) as an institutionalized practice?",
+          "o": [
+            "Guru Nanak / Guru Amar Das",
+            "Guru Har Gobind",
+            "Guru Gobind Singh",
+            "Guru Arjan Dev"
+          ],
+          "a": 0,
+          "e": "<b>Guru Nanak</b> initiated the practice of langar, and <b>Guru Amar Das</b> further institutionalized and expanded it, requiring visitors to eat together regardless of caste before an audience with him."
+        },
+        {
+          "q": "Which city was founded by Guru Ram Das and later became the most sacred city for Sikhs, housing the Golden Temple?",
+          "o": [
+            "Amritsar",
+            "Anandpur Sahib",
+            "Tarn Taran",
+            "Kartarpur"
+          ],
+          "a": 0,
+          "e": "<b>Guru Ram Das</b>, the fourth Guru, founded the city of <b>Amritsar</b>, where the Harmandir Sahib (Golden Temple) was later built by Guru Arjan Dev."
+        },
+        {
+          "q": "The Harmandir Sahib (Golden Temple) at Amritsar was constructed under the guidance of which Guru?",
+          "o": [
+            "Guru Arjan Dev",
+            "Guru Ram Das",
+            "Guru Har Gobind",
+            "Guru Amar Das"
+          ],
+          "a": 0,
+          "e": "<b>Guru Arjan Dev</b>, the fifth Guru, oversaw the construction of the <b>Harmandir Sahib</b> at Amritsar, completing it around 1604."
+        },
+        {
+          "q": "Which Guru introduced the concept of 'Miri-Piri' (temporal and spiritual authority combined) and began militarizing the Sikh community?",
+          "o": [
+            "Guru Har Gobind",
+            "Guru Arjan Dev",
+            "Guru Tegh Bahadur",
+            "Guru Angad"
+          ],
+          "a": 0,
+          "e": "<b>Guru Har Gobind</b>, the sixth Guru, introduced the doctrine of <b>Miri-Piri</b>, symbolized by wearing two swords, marking the beginning of militant self-defense in the Sikh community."
+        },
+        {
+          "q": "Which Sikh Guru succeeded Guru Nanak directly as the second Guru?",
+          "o": [
+            "Guru Angad",
+            "Guru Amar Das",
+            "Guru Ram Das",
+            "Guru Arjan Dev"
+          ],
+          "a": 0,
+          "e": "<b>Guru Angad Dev</b> succeeded Guru Nanak as the second Guru and is credited with developing the Gurmukhi script."
+        },
+        {
+          "q": "Which Sikh confederacy structure, consisting of autonomous warrior bands, dominated Punjab politics in the mid-18th century before Ranjit Singh's unification?",
+          "o": [
+            "Misl system",
+            "Ashtapradhan",
+            "Nayankara system",
+            "Iqta system"
+          ],
+          "a": 0,
+          "e": "The <b>Misl system</b> was a confederacy of independent Sikh warrior bands (misls) that controlled different parts of Punjab in the 18th century until Ranjit Singh united them under his rule."
+        },
+        {
+          "q": "In which battle of the Second Anglo-Sikh War did the British decisively defeat the Sikh forces, leading to the annexation of Punjab?",
+          "o": [
+            "Battle of Gujrat",
+            "Battle of Chillianwala",
+            "Battle of Sobraon",
+            "Battle of Ferozeshah"
+          ],
+          "a": 0,
+          "e": "The <b>Battle of Gujrat</b> (1849) was the decisive engagement of the Second Anglo-Sikh War, resulting in a complete British victory and the subsequent annexation of Punjab."
+        },
+        {
+          "q": "Which treaty ended the First Anglo-Sikh War in 1846?",
+          "o": [
+            "Treaty of Lahore",
+            "Treaty of Amritsar",
+            "Treaty of Bhyrowal",
+            "Treaty of Salbai"
+          ],
+          "a": 0,
+          "e": "The <b>Treaty of Lahore</b> (1846) concluded the First Anglo-Sikh War, under which the Sikhs ceded significant territory including the Jalandhar Doab and paid war indemnity to the British."
+        },
+        {
+          "q": "Who was the last ruler of the Sikh Empire, deposed as a minor after the annexation of Punjab in 1849?",
+          "o": [
+            "Duleep Singh",
+            "Kharak Singh",
+            "Sher Singh",
+            "Nau Nihal Singh"
+          ],
+          "a": 0,
+          "e": "<b>Maharaja Duleep Singh</b>, the youngest son of Ranjit Singh, was the last ruler of the Sikh Empire, deposed as a minor when the British annexed Punjab in 1849."
+        },
+        {
+          "q": "Which of the following was a prominent military general under Ranjit Singh known for his conquests in the northwest frontier region?",
+          "o": [
+            "Hari Singh Nalwa",
+            "Jassa Singh Ahluwalia",
+            "Kapur Singh",
+            "Banda Singh Bahadur"
+          ],
+          "a": 0,
+          "e": "<b>Hari Singh Nalwa</b> served as a leading general under Ranjit Singh, extending Sikh control into the northwest frontier, including areas up to the Khyber Pass."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the sequence of Sikh Gurus: 1. Guru Angad succeeded Guru Nanak directly. 2. Guru Amar Das succeeded Guru Angad and introduced administrative divisions called 'manjis'. 3. Guru Ram Das succeeded Guru Amar Das and was the father of Guru Arjan Dev. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. <b>Guru Angad</b> followed Guru Nanak; <b>Guru Amar Das</b> introduced the <b>manji system</b> for organizing the growing Sikh community; and <b>Guru Ram Das</b>, his son-in-law, succeeded him and was father of <b>Guru Arjan Dev</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Guru Arjan Dev compiled the Adi Granth in 1604. 2. Guru Arjan Dev was executed on the orders of Emperor Jahangir. 3. His martyrdom had no impact on the subsequent militarization of the Sikh community under his successor. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Guru Arjan Dev</b> compiled the Adi Granth and was executed under <b>Jahangir's</b> orders in 1606. Statement 3 is false, as his martyrdom directly influenced his son <b>Guru Har Gobind's</b> adoption of Miri-Piri and militarization of the community."
+        },
+        {
+          "q": "Consider the following statements about the Khalsa: 1. Guru Gobind Singh instituted the Khalsa in 1699 at Anandpur Sahib. 2. Members of the Khalsa were required to maintain five symbols known as the 'Five Ks'. 3. The Khalsa initiation ceremony involved administering Amrit through a double-edged sword. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. The <b>Khalsa</b> was founded in 1699 at <b>Anandpur Sahib</b>, requiring the <b>Five Ks</b> (Kesh, Kangha, Kara, Kachera, Kirpan), with initiation through the <b>Amrit ceremony</b> using a double-edged sword (khanda)."
+        },
+        {
+          "q": "Consider the following statements regarding Banda Singh Bahadur: 1. He was appointed by Guru Gobind Singh to lead the Sikhs against Mughal oppression in Punjab. 2. He captured and destroyed Sirhind, the town associated with the execution of Guru Gobind Singh's sons. 3. He was eventually captured and executed by the Mughals under Bahadur Shah I. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Banda Singh Bahadur</b> was appointed by Guru Gobind Singh and captured <b>Sirhind</b> in revenge for the execution of the Guru's young sons. Statement 3 is false in its detail, as he was captured and executed in <b>1716</b> under Emperor <b>Farrukhsiyar</b>, not Bahadur Shah I (who died in 1712, before Banda's capture)."
+        },
+        {
+          "q": "Consider the following statements about the rise of Ranjit Singh: 1. He belonged to the Sukerchakia misl. 2. He captured Lahore in 1799 and later declared himself Maharaja. 3. He never engaged in any conflict with the Afghan rulers of the northwest. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Ranjit Singh belonged to the <b>Sukerchakia misl</b> and captured <b>Lahore in 1799</b>. Statement 3 is false, as he fought several campaigns against Afghan forces, notably capturing Peshawar and confronting Afghan rule in the northwest frontier."
+        },
+        {
+          "q": "Consider the following statements regarding the Anglo-Sikh Wars: 1. The First Anglo-Sikh War (1845-46) ended with the Treaty of Lahore. 2. The Treaty of Bhyrowal (1846) placed Punjab's administration under a British Resident with a Council of Regency. 3. The Second Anglo-Sikh War (1848-49) resulted in the complete annexation of Punjab. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. The <b>First Anglo-Sikh War</b> ended with the <b>Treaty of Lahore</b>; the subsequent <b>Treaty of Bhyrowal</b> established a British-controlled regency; and the <b>Second Anglo-Sikh War</b> culminated in the full annexation of Punjab in 1849."
+        },
+        {
+          "q": "Consider the following statements: 1. The Guru Granth Sahib includes compositions of Sikh Gurus as well as verses by Hindu and Muslim saints such as Kabir and Baba Farid. 2. Guru Gobind Singh added compositions of his own to the original Adi Granth before declaring it the eternal Guru. 3. The final compilation, including Guru Tegh Bahadur's hymns, is known as the Guru Granth Sahib. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 3 are correct — the scripture includes verses of <b>Kabir, Baba Farid</b>, and other saints, and the final version incorporating <b>Guru Tegh Bahadur's</b> hymns is called the <b>Guru Granth Sahib</b>. Statement 2 is false, as Guru Gobind Singh added Guru Tegh Bahadur's hymns to the text but did not add his own compositions to the Guru Granth Sahib itself (his own works are compiled separately in the Dasam Granth)."
+        },
+        {
+          "q": "Consider the following statements about the Misl system: 1. Each misl was headed by a chief exercising fairly autonomous authority over its territory. 2. The Sarbat Khalsa was a general assembly through which the misls sometimes coordinated collective decisions. 3. Ranjit Singh dismantled the misl system entirely through peaceful negotiation without any military action. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>misls</b> were autonomous, and the <b>Sarbat Khalsa</b> served as a collective assembly. Statement 3 is false, as Ranjit Singh unified the misls through a combination of diplomacy, marriage alliances, and considerable military conquest, not purely peaceful negotiation."
+        },
+        {
+          "q": "Consider the following statements: 1. Guru Har Rai maintained a policy of avoiding direct confrontation with the Mughal Empire. 2. Guru Har Rai is noted for maintaining a large stable of horses and a degree of military preparedness despite his largely peaceful approach. 3. Guru Har Rai's successor was chosen from among his elder sons rather than his youngest son. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Guru Har Rai</b> avoided open conflict with the Mughals while maintaining military preparedness. Statement 3 is false, as he was succeeded by his younger son <b>Guru Har Krishan</b>, not an elder son."
+        },
+        {
+          "q": "Consider the following statements regarding Ranjit Singh's administration: 1. His army incorporated European-trained officers and modernized artillery. 2. He maintained a policy of broad religious tolerance, employing Hindus and Muslims in his administration. 3. His empire's boundaries never extended beyond the Indus river to the west. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Ranjit Singh employed <b>European officers</b> (such as French and Italian generals) to modernize his army and pursued religious tolerance in administration. Statement 3 is false, as his empire extended west of the Indus to include <b>Peshawar</b> and parts of the frontier region."
+        },
+        {
+          "q": "Consider the following statements: 1. Guru Tegh Bahadur's martyrdom in 1675 is traditionally linked to his defense of the religious freedom of Kashmiri Pandits against forced conversion. 2. His execution took place at Chandni Chowk in Delhi. 3. His son Guru Gobind Singh was present at the execution site in Delhi. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Guru Tegh Bahadur's martyrdom is linked to defending <b>Kashmiri Pandits</b>, and he was executed at <b>Chandni Chowk</b>, Delhi. Statement 3 is false, as Guru Gobind Singh, then a child, was not present at Delhi during the execution; he was at Anandpur Sahib."
+        },
+        {
+          "q": "Consider the following statements about the decline of the Sikh Empire after Ranjit Singh's death (1839): 1. A period of court intrigue and rapid successions weakened central authority. 2. Internal instability among Sikh nobles and the army (Khalsa Army/Fauj-i-Khas) contributed to eventual conflict with the British. 3. The Sikh Empire nonetheless remained stable and undivided until the British chose to annex it without provocation. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Ranjit Singh's death triggered a succession crisis and instability involving the powerful <b>Khalsa army</b>. Statement 3 is false, as internal instability, not simply unprovoked British aggression, was a major factor precipitating the Anglo-Sikh Wars."
+        },
+        {
+          "q": "Consider the following statements: 1. Guru Nanak undertook extensive travels called 'Udasis' to preach his message across and beyond the Indian subcontinent. 2. These journeys are traditionally said to have included visits to Mecca and other important religious centres. 3. Guru Nanak established a permanent monastic order of celibate ascetics to spread his teachings after these travels. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Guru Nanak's <b>Udasis</b> (travels) traditionally included journeys to <b>Mecca</b> and other centres. Statement 3 is false, as Guru Nanak did not establish a celibate monastic order; Sikhism emphasises householder life (grihasta) rather than renunciation."
+        },
+        {
+          "q": "Consider the following statements regarding the Sarbat Khalsa: 1. It functioned as a general assembly of the Sikh community, particularly significant during the misl period. 2. Resolutions passed by this assembly were called 'Gurmatas'. 3. This institution ceased to have any significance once Ranjit Singh centralised power. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the <b>Sarbat Khalsa</b> was a collective assembly whose resolutions were termed <b>Gurmatas</b>. Statement 3 is broadly accurate in spirit but stated with excessive certainty; the assembly's practical political role indeed diminished considerably as Ranjit Singh centralised authority, though the institution retained symbolic and religious significance."
+        },
+        {
+          "q": "Consider the following statements: 1. Guru Nanak's teachings emphasised Nirguna Bhakti, worship of a formless, attributeless God. 2. He rejected idol worship and ritualistic pilgrimage as sufficient paths to spiritual liberation. 3. His teachings show no points of convergence with the broader Bhakti and Sufi movements of medieval India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Guru Nanak preached <b>Nirguna Bhakti</b> and rejected empty ritualism. Statement 3 is false, as his teachings show clear thematic convergence with contemporary <b>Bhakti and Sufi</b> ideas, including devotion to one God and social critique of ritualism."
+        },
+        {
+          "q": "Consider the following statements about Kashmir and Peshawar under the Sikh Empire: 1. Ranjit Singh's forces annexed Kashmir in 1819. 2. Peshawar was formally incorporated into the Sikh Empire in the 1830s. 3. Both territories were governed exclusively by Sikh governors with no local administrative continuity. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Kashmir</b> was annexed in <b>1819</b>, and <b>Peshawar</b> was fully incorporated by the 1830s. Statement 3 is false, as Sikh administration in these regions often retained elements of existing local administrative arrangements rather than wholesale replacement."
+        },
+        {
+          "q": "Consider the following statements regarding the Sikh Gurus and the Mughal state: 1. Guru Arjan Dev's execution occurred partly amid suspicion of his support for the rebel prince Khusrau. 2. Guru Har Gobind was imprisoned for a period at Gwalior fort by Jahangir. 3. Relations between the Gurus and the Mughal state were uniformly hostile from Guru Nanak's time onward with no periods of cooperation. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Guru Arjan Dev's execution is linked to suspected support for <b>Khusrau</b>, and Guru Har Gobind was later imprisoned at <b>Gwalior fort</b>. Statement 3 is false, as relations fluctuated, including periods of relative peace, especially in the early Gurus' era before deteriorating under later Mughal emperors."
+        },
+        {
+          "q": "Consider the following statements about Sikh military and political organisation before Ranjit Singh: 1. The Dal Khalsa was a combined confederate military force representing multiple misls. 2. The Dal Khalsa is traditionally associated with resisting Afghan invasions led by Ahmad Shah Abdali. 3. This combined force had a single permanent supreme commander throughout its existence with no rotation of leadership. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the <b>Dal Khalsa</b> was a confederate force of the misls that resisted <b>Ahmad Shah Abdali's</b> invasions. Statement 3 is false, as leadership of the Dal Khalsa was not fixed to one permanent individual and involved coordination among multiple misl chiefs rather than a single unchanging supreme commander."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The doctrine of Miri-Piri introduced by Guru Har Gobind combined spiritual authority (Piri) with temporal/political authority (Miri), symbolized by two swords worn together. 2. This shift is regarded by historians as a response to the execution of Guru Arjan Dev by Mughal authority. 3. The doctrine marked a complete break from Guru Nanak's original teachings on humility and non-violence, replacing them entirely with a militant theology. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Miri-Piri</b> combined spiritual and temporal authority and is widely linked to the trauma of <b>Guru Arjan Dev's execution</b>. Statement 3 is false and overstated, as the Sikh tradition maintained continuity with earlier spiritual teachings even while adopting militarised self-defense; it was not a wholesale rejection of prior doctrine."
+        },
+        {
+          "q": "Consider the following statements regarding the institution of the Guru Granth Sahib: 1. Guru Gobind Singh declared the scripture the eternal, living Guru of the Sikhs before his death in 1708, ending the line of human Gurus. 2. This decision institutionalised scriptural authority in place of personal succession, reducing the risk of factional disputes over Guruship. 3. The text incorporates compositions exclusively from the ten Sikh Gurus with no inclusion of non-Sikh saints. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Guru Gobind Singh's declaration of the <b>Guru Granth Sahib</b> as eternal Guru ended human succession and reduced succession disputes. Statement 3 is false, as the text includes verses of non-Sikh figures like <b>Kabir, Baba Farid, Ravidas</b>, and others, reflecting its inclusive compilation."
+        },
+        {
+          "q": "A historian argues that Banda Singh Bahadur's brief rule in Punjab (1710-1715) represented a significant, if short-lived, assertion of an alternative political-religious order challenging Mughal authority. Which of the following best supports this view?",
+          "o": [
+            "Banda Singh Bahadur issued coins and administrative orders in the name of the Sikh Gurus, abolished the zamindari system in some captured areas, and redistributed land to peasant cultivators",
+            "Banda Singh Bahadur ruled as a formally recognised Mughal governor with no independent claims to sovereignty",
+            "Banda Singh Bahadur's administration made no changes to existing Mughal revenue or land arrangements",
+            "Banda Singh Bahadur's actions were confined purely to religious reform with no political or administrative dimension"
+          ],
+          "a": 0,
+          "e": "Banda Singh Bahadur's issuance of coins and seals in the name of the Gurus, along with reported abolition of the <b>zamindari system</b> and land redistribution to cultivators in captured territory, reflects a genuine attempt at alternative sovereign administration, not merely religious activity or Mughal-sanctioned governance."
+        },
+        {
+          "q": "Consider the following statements: 1. Ranjit Singh's conquest of Multan, Kashmir, and Peshawar extended Sikh rule across a large, ethnically and religiously diverse territory. 2. His administration relied on a mix of Persian administrative traditions inherited from earlier regimes and newly recruited European military expertise. 3. Despite ruling a Muslim-majority population in parts of his empire, contemporary accounts generally describe his rule as marked by comparatively low religious persecution. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. Ranjit Singh's empire spanned <b>Multan, Kashmir, and Peshawar</b>; his administration blended <b>Persian administrative practice</b> with <b>European military modernisation</b>; and multiple contemporary and historical accounts note his relatively tolerant approach toward diverse religious communities under his rule."
+        },
+        {
+          "q": "Which of the following best explains why the annexation of Punjab in 1849 is often treated by historians as marking the effective completion of British territorial conquest of the Indian subcontinent's major independent powers?",
+          "o": [
+            "Because the Sikh Empire under Ranjit Singh and his successors had been the last major, militarily formidable independent Indian power bordering British territory, and its defeat in the Anglo-Sikh Wars removed the final substantial regional rival to British paramountcy in the northwest",
+            "Because Punjab was the first Indian territory ever conquered by the British East India Company",
+            "Because the annexation of Punjab immediately ended all subsequent resistance to British rule anywhere in India, including the events of 1857",
+            "Because the Sikh Empire had no professional army and posed no military challenge to the British prior to 1849"
+          ],
+          "a": 0,
+          "e": "The Sikh Empire, with its modernised <b>Khalsa army</b> and administrative strength under Ranjit Singh, was the last major independent Indian power capable of serious military resistance; its fall in 1849 removed the final significant regional check on British expansion in the northwest, though this did not preclude later resistance such as the 1857 revolt."
+        },
+        {
+          "q": "Consider the following statements: 1. The transition from Guru Nanak's original emphasis on inner devotion and social equality to Guru Gobind Singh's institution of the Khalsa reflects an evolving response to changing political circumstances rather than a contradiction in core Sikh values. 2. The Khalsa's emphasis on maintaining a distinct visible identity (Five Ks) served to unify the community and resist assimilation under persecution. 3. This evolution shows no continuity at all between the teachings of the first Guru and the tenth Guru. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the evolution reflects an adaptive response to Mughal persecution while the <b>Khalsa identity</b> reinforced unity. Statement 3 is false and overstated, since core values like equality, devotion to one God, and rejection of caste hierarchy persisted continuously across the Gurus' teachings, including under Guru Gobind Singh."
+        },
+        {
+          "q": "Consider the following statements regarding the sequence and succession pattern among the Sikh Gurus: 1. Guruship generally passed through a process of spiritual selection rather than strict hereditary primogeniture in the earlier Gurus. 2. From Guru Ram Das onward, Guruship remained within his direct descendants (Sodhi family) until the tenth Guru. 3. Guru Gobind Singh was directly succeeded as a human Guru by his eldest surviving son. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — early succession (e.g., Guru Nanak to Guru Angad, an unrelated disciple) was based on spiritual merit, while from <b>Guru Ram Das</b> onward Guruship stayed within the <b>Sodhi lineage</b>. Statement 3 is false, as Guru Gobind Singh's sons had all died before him (in battle or executed at Sirhind), and he ended human succession, declaring the Guru Granth Sahib as the eternal Guru instead."
+        },
+        {
+          "q": "Consider the following statements: 1. The Sikh Empire's Khalsa army, or Fauj-i-Khas, was reorganised along European lines under officers such as Jean-François Allard and Paolo Avitabile. 2. This military modernisation made the Sikh army one of the most formidable indigenous forces the British East India Company had encountered in India by the 1840s. 3. This modernisation was reversed entirely after Ranjit Singh's death, leaving the army technologically inferior to the British by 1845. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — European officers like <b>Jean-François Allard and Paolo Avitabile</b> modernised the army, making it formidable. Statement 3 is false, as the Khalsa army in fact remained a well-equipped, capable force during the Anglo-Sikh Wars (1845-49), giving the British significant difficulty despite the political disunity after Ranjit Singh's death."
+        },
+        {
+          "q": "A source-based inference question: British officers who fought in the Anglo-Sikh Wars frequently described the Khalsa army's artillery and infantry discipline with considerable respect, even while ultimately prevailing in battle. What does this best indicate?",
+          "o": [
+            "That the Sikh military defeat stemmed primarily from political disunity and leadership betrayal among Sikh commanders and courtiers rather than from any inherent military or technological inferiority of the Khalsa forces",
+            "That the British accounts were simply propaganda intended to exaggerate the difficulty of an otherwise easy victory",
+            "That the Khalsa army had no artillery and relied solely on irregular cavalry",
+            "That the wars were won by the British purely through overwhelming numerical superiority with no role for internal Sikh politics"
+          ],
+          "a": 0,
+          "e": "The respect shown in British accounts for Khalsa discipline and firepower, combined with the historical record of contested and costly battles (e.g., Chillianwala), supports the conclusion that internal <b>political disunity and betrayal by some Sikh commanders/courtiers</b>, rather than military inferiority, significantly contributed to the eventual defeat."
+        },
+        {
+          "q": "Consider the following statements: 1. The compilation of the Adi Granth by Guru Arjan Dev involved verifying and organising hymns to prevent circulation of spurious compositions attributed to the Gurus. 2. This compilation was organised by Ragas (musical measures) rather than strictly by chronological order of the Gurus. 3. The process of compilation had no connection to establishing doctrinal authority within the growing Sikh community. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Guru Arjan Dev compiled the <b>Adi Granth</b> partly to guard against spurious texts, organising content by <b>Ragas</b>. Statement 3 is false, as the compilation was very much tied to consolidating doctrinal authority and unity within the expanding Sikh community."
+        },
+        {
+          "q": "Which of the following best explains the strategic significance of Ranjit Singh maintaining generally peaceful relations with the British East India Company through the Treaty of Amritsar (1809), despite his own military strength?",
+          "o": [
+            "The treaty fixed the Sutlej river as the boundary between Sikh and British spheres of influence, allowing Ranjit Singh to consolidate and expand his empire west and north (Multan, Kashmir, Peshawar) without simultaneously confronting the British to the east",
+            "The treaty required Ranjit Singh to disband his entire standing army",
+            "The treaty gave the British direct administrative control over Lahore",
+            "The treaty was a temporary truce that was broken by Ranjit Singh within a year"
+          ],
+          "a": 0,
+          "e": "The <b>Treaty of Amritsar (1809)</b> fixed the <b>Sutlej river</b> as the boundary, securing peace with the British on his eastern flank and allowing Ranjit Singh to focus his military resources on expansion into <b>Multan, Kashmir, and Peshawar</b> to the west and north — a treaty that held until after his death."
+        },
+        {
+          "q": "Consider the following statements: 1. Guru Amar Das established the manji system, dividing the growing Sikh community into administrative-cum-preaching districts under appointed supervisors. 2. He also opposed the practice of sati and encouraged widow remarriage among his followers. 3. He was chosen as Guru through direct hereditary succession from Guru Angad, being his biological son. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Guru Amar Das</b> introduced the <b>manji system</b> and opposed practices like sati. Statement 3 is false, as he was not Guru Angad's biological son but was chosen based on devotion and merit, continuing the pattern of spiritually-selected (not strictly hereditary) succession among the earlier Gurus."
+        },
+        {
+          "q": "Consider the following statements regarding the aftermath of Ranjit Singh's death: 1. His immediate successors, including Kharak Singh and Nau Nihal Singh, held power only briefly amid court intrigues. 2. Maharani Jind Kaur acted as regent for the young Maharaja Duleep Singh. 3. This period of instability was entirely unconnected to the outbreak of the First Anglo-Sikh War. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — successors like <b>Kharak Singh and Nau Nihal Singh</b> ruled only briefly, and <b>Maharani Jind Kaur</b> served as regent for Duleep Singh. Statement 3 is false, as this very instability, including tensions with the unruly Khalsa army, is closely linked to the outbreak of the <b>First Anglo-Sikh War</b> (1845)."
+        },
+        {
+          "q": "Which of the following statements about the Five Ks (Panj Kakars) of the Khalsa is LEAST accurate, and is therefore the correct answer to identify?",
+          "o": [
+            "Kesh refers to uncut hair, symbolising acceptance of God's will",
+            "Kirpan refers to a ceremonial or functional sword symbolising readiness for self-defense and justice",
+            "Kachera refers to a specific turban style worn exclusively by Khalsa women",
+            "Kara refers to a steel bracelet symbolising restraint and unity"
+          ],
+          "a": 2,
+          "e": "This statement is incorrect and is the answer: <b>Kachera</b> actually refers to a specific style of cotton undergarment (shorts) symbolising moral restraint and readiness for action, not a turban style; turbans are a separate, related but distinct Sikh practice not one of the formal Five Ks."
+        },
+        {
+          "q": "Consider the following statements: 1. The Sikh Gurus' teachings emphasised the rejection of caste-based discrimination, reflected in institutions like the langar where all sat together regardless of caste. 2. This social philosophy was consistently and fully implemented without exception across all Sikh political and social institutions through the 18th and 19th centuries. 3. Guru Nanak's compositions criticised ritualism in both Hindu and Islamic practice of his time. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 3 are correct — the <b>langar</b> institution embodied anti-caste ideals, and Guru Nanak criticised empty ritualism in both traditions. Statement 2 is an overstatement and false, as historians note caste and social hierarchies persisted in various forms in practice even within later Sikh society, despite the egalitarian ideal."
+        },
+        {
+          "q": "Consider the following statements: 1. The decisive defeat of the Sikh army at the Battle of Sobraon (1846) effectively opened the way for British forces to cross the Sutlej river into central Punjab. 2. This battle was part of the First Anglo-Sikh War, not the Second. 3. Following Sobraon, the British immediately annexed the entire Sikh kingdom without imposing any treaty terms. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Sobraon (1846)</b> was the decisive final battle of the <b>First Anglo-Sikh War</b>, opening the route into Punjab. Statement 3 is false, as the British did not immediately annex Punjab at this stage; they instead imposed the <b>Treaty of Lahore</b>, with full annexation coming only after the Second Anglo-Sikh War in 1849."
+        },
+        {
+          "q": "Consider the following statements: 1. Guru Gobind Singh's Zafarnama, a letter addressed to Aurangzeb, criticised the emperor for breaking oaths made to the Sikhs. 2. The letter was written in Persian verse. 3. It was composed before the martyrdom of Guru Tegh Bahadur. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the <b>Zafarnama</b> ('Epistle of Victory') was addressed to Aurangzeb criticising his broken oaths, and was composed in <b>Persian verse</b>. Statement 3 is false, as it was written around 1705, decades after Guru Tegh Bahadur's martyrdom in 1675, not before it."
+        },
+        {
+          "q": "Consider the following statements: 1. The distinction between 'Sahajdhari' and 'Khalsa' Sikhs reflects differing levels of formal initiation and adherence to the Khalsa code among followers of Sikhism. 2. Sahajdhari Sikhs follow the teachings of the Gurus without undergoing formal Khalsa initiation (Amrit Sanskar). 3. This distinction emerged only after the British annexation of Punjab in 1849 and had no basis in earlier Sikh history. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Sahajdhari</b> Sikhs follow Sikh teachings without formal <b>Khalsa (Amrit) initiation</b>, unlike baptised Khalsa Sikhs. Statement 3 is false, as this distinction has roots going back to the time of Guru Gobind Singh's institution of the Khalsa in 1699, well before British annexation."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_medieval_administration_economy",
+    "title": "Administration & Economy of Medieval India",
+    "desc": "Land revenue, mansabdari, trade and agrarian economy",
+    "questions": {
+      "basic": [
+        {
+          "q": "The iqta system, under which revenue assignments were made to nobles/officers in exchange for military and administrative service, was a key feature of which period?",
+          "o": [
+            "Delhi Sultanate",
+            "Vijayanagara Empire",
+            "Maratha Empire",
+            "Sikh Empire"
+          ],
+          "a": 0,
+          "e": "The <b>iqta system</b>, assigning territorial revenue rights to nobles (muqtis/iqtadars) in return for military service and administration, was a defining feature of the <b>Delhi Sultanate's</b> administrative structure."
+        },
+        {
+          "q": "Who is credited with introducing the zabt/dahsala system of revenue assessment during the Mughal period?",
+          "o": [
+            "Todar Mal",
+            "Sher Shah Suri",
+            "Raja Man Singh",
+            "Birbal"
+          ],
+          "a": 0,
+          "e": "<b>Raja Todar Mal</b>, Akbar's revenue minister, introduced the <b>zabt (dahsala) system</b>, based on a ten-year average of crop yields and prices to fix revenue rates."
+        },
+        {
+          "q": "The Mansabdari system, which graded officials/nobles by numerical ranks, was introduced and systematized by which Mughal emperor?",
+          "o": [
+            "Akbar",
+            "Babur",
+            "Humayun",
+            "Jahangir"
+          ],
+          "a": 0,
+          "e": "The <b>Mansabdari system</b> was introduced and systematized by <b>Akbar</b>, assigning nobles numerical ranks (mansabs) indicating status, salary, and military obligation."
+        },
+        {
+          "q": "In the Mansabdari system, what did the term 'Zat' primarily indicate?",
+          "o": [
+            "The personal rank and status/salary of the mansabdar",
+            "The number of cavalry he was required to maintain",
+            "The size of his land holding",
+            "His hereditary caste status"
+          ],
+          "a": 0,
+          "e": "<b>Zat</b> indicated the personal rank, status, and salary of a mansabdar, while <b>Sawar</b> indicated the number of horsemen/cavalry he was required to maintain."
+        },
+        {
+          "q": "What does the term 'Sawar' denote in the Mughal Mansabdari system?",
+          "o": [
+            "The cavalry contingent a mansabdar was required to maintain",
+            "The personal salary rank of the mansabdar",
+            "A type of land revenue assessment",
+            "A category of merchant guild"
+          ],
+          "a": 0,
+          "e": "<b>Sawar</b> rank specified the number of <b>cavalry troopers</b> a mansabdar was obligated to maintain for the state, distinct from his personal (zat) rank."
+        },
+        {
+          "q": "Who introduced significant land revenue reforms in North India before Akbar, including a systematic survey of cultivated land, later built upon by Todar Mal?",
+          "o": [
+            "Sher Shah Suri",
+            "Balban",
+            "Alauddin Khalji",
+            "Firuz Shah Tughlaq"
+          ],
+          "a": 0,
+          "e": "<b>Sher Shah Suri</b> conducted systematic land surveys and revenue assessment reforms during his short reign (1540-1545), which influenced later Mughal revenue administration under Akbar and Todar Mal."
+        },
+        {
+          "q": "Which term refers to intermediary landholders in Mughal agrarian society who held hereditary rights over land and often collected revenue on behalf of the state?",
+          "o": [
+            "Zamindars",
+            "Mansabdars",
+            "Muqtis",
+            "Amils"
+          ],
+          "a": 0,
+          "e": "<b>Zamindars</b> were intermediary landholders with hereditary rights, often collecting revenue and maintaining local order, distinct from the state's own revenue officials."
+        },
+        {
+          "q": "Which Mughal-era term refers to the assignment of land revenue rights (rather than direct salary) to a mansabdar in lieu of cash payment?",
+          "o": [
+            "Jagir",
+            "Iqta",
+            "Waqf",
+            "Inam"
+          ],
+          "a": 0,
+          "e": "A <b>jagir</b> was an assignment of the right to collect land revenue from a specified area, given to a mansabdar in lieu of cash salary; the holder was called a jagirdar."
+        },
+        {
+          "q": "Which silver coin, introduced by Sher Shah Suri and continued under the Mughals, became the standard currency unit of medieval India?",
+          "o": [
+            "Rupiya",
+            "Dinar",
+            "Tanka",
+            "Mohur"
+          ],
+          "a": 0,
+          "e": "<b>Sher Shah Suri</b> introduced the silver <b>Rupiya</b>, a standardized coin that became the basis of currency under the Mughals and continued in later Indian currency systems."
+        },
+        {
+          "q": "The 'Karkhanas' under the Mughal administration primarily referred to which of the following?",
+          "o": [
+            "Royal workshops for producing goods for the court, including textiles and armaments",
+            "Agricultural cooperatives for grain storage",
+            "Village-level judicial courts",
+            "Trading guilds of merchants"
+          ],
+          "a": 0,
+          "e": "<b>Karkhanas</b> were royal workshops that manufactured goods such as textiles, arms, and luxury items for the Mughal court and state needs."
+        },
+        {
+          "q": "Which term describes merchant guilds/associations that played an important role in organizing trade and craft production in medieval India?",
+          "o": [
+            "Shreni",
+            "Iqta",
+            "Mansab",
+            "Jagir"
+          ],
+          "a": 0,
+          "e": "<b>Shreni</b> (guilds) were associations of merchants or craftsmen that regulated trade practices, prices, and quality standards, a tradition continuing from ancient into medieval India."
+        },
+        {
+          "q": "Under the Sultanate period, the officer holding an iqta and responsible for its administration and revenue collection was known as?",
+          "o": [
+            "Muqti/Iqtadar",
+            "Amil",
+            "Wazir",
+            "Kotwal"
+          ],
+          "a": 0,
+          "e": "The <b>Muqti (or Iqtadar)</b> was the holder of an iqta, responsible for administering the assigned territory and collecting its revenue in exchange for maintaining troops for the Sultan."
+        },
+        {
+          "q": "Which Mughal emperor is associated with abolishing the practice of enslaving prisoners of war and moderating certain oppressive taxes, alongside promoting religious tolerance policies including abolition of jizya?",
+          "o": [
+            "Akbar",
+            "Jahangir",
+            "Shah Jahan",
+            "Aurangzeb"
+          ],
+          "a": 0,
+          "e": "<b>Akbar</b> abolished the jizya tax (though it was later reimposed by Aurangzeb) and undertook various measures moderating oppressive practices as part of his broader policy of religious tolerance (Sulh-i-Kul)."
+        },
+        {
+          "q": "The 'Panchayat' system in medieval rural India primarily functioned as which type of institution?",
+          "o": [
+            "A village-level council handling local administration and dispute resolution",
+            "A central Mughal ministry for foreign affairs",
+            "A royal court of appeal in the capital",
+            "A merchant guild regulating overseas trade"
+          ],
+          "a": 0,
+          "e": "The <b>Panchayat</b> was a village-level council, often caste or community based, that handled local administrative matters and dispute resolution largely independent of higher state machinery."
+        },
+        {
+          "q": "Which major Indian port was a key centre of overseas trade during the Mughal period, especially known for textile exports?",
+          "o": [
+            "Surat",
+            "Kochi",
+            "Vizag",
+            "Puri"
+          ],
+          "a": 0,
+          "e": "<b>Surat</b> on the Gujarat coast was one of the most important Mughal-era ports, a major hub for overseas trade including textile exports and pilgrim traffic to Mecca."
+        },
+        {
+          "q": "Which term refers to the revenue-free land grants given to religious or learned individuals/institutions in medieval India?",
+          "o": [
+            "Madad-i-Maash / Inam",
+            "Jagir",
+            "Khalisa",
+            "Iqta"
+          ],
+          "a": 0,
+          "e": "<b>Madad-i-Maash</b> (also called Inam or Suyurghal) grants were revenue-free land assignments given to scholars, religious figures, or institutions, distinct from service-based jagirs."
+        },
+        {
+          "q": "Which term describes crown land directly administered by the Mughal state, with revenue going straight to the imperial treasury rather than assigned as jagir?",
+          "o": [
+            "Khalisa",
+            "Iqta",
+            "Zamindari",
+            "Inam"
+          ],
+          "a": 0,
+          "e": "<b>Khalisa</b> land was crown land under direct state administration, with its revenue collected directly for the imperial treasury, as opposed to jagir land assigned to nobles."
+        },
+        {
+          "q": "Which of the following best describes the primary basis of assessment under Akbar's zabt system?",
+          "o": [
+            "Measurement of cultivated land combined with fixed cash revenue rates per crop based on average prices and yields over ten years",
+            "A fixed lump sum tribute negotiated annually with each village",
+            "Revenue collected only in kind, with no cash assessment",
+            "A flat per-capita tax on all adult cultivators regardless of land holding"
+          ],
+          "a": 0,
+          "e": "The <b>zabt system</b> assessed revenue based on measured land area and fixed cash rates per crop, calculated from a ten-year average of local yields and prices (hence also called 'dahsala', meaning 'of ten years')."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the iqta system: 1. Iqtas were originally intended to be transferable assignments, not hereditary possessions. 2. The muqti was entitled to keep the entire revenue collected from his iqta without any obligation to the Sultan. 3. Over time, especially under weaker Sultans, some iqtas tended to become hereditary in practice. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 3 are correct — iqtas were meant to be <b>transferable</b>, though they sometimes became <b>hereditary in practice</b> during weaker reigns. Statement 2 is false, as the muqti was obligated to maintain troops for the Sultan and often had to remit surplus revenue beyond his sanctioned expenses."
+        },
+        {
+          "q": "Consider the following statements about the Mansabdari system: 1. A mansabdar's zat rank determined his personal pay and status. 2. His sawar rank determined the number of cavalry he was required to maintain. 3. All mansabdars were required to maintain cavalry equal in number to their zat rank. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>zat</b> indicated personal rank/pay, and <b>sawar</b> indicated cavalry obligation. Statement 3 is false, as the sawar rank was often lower than the zat rank (not necessarily equal), reflecting actual military obligation which could vary independently."
+        },
+        {
+          "q": "Consider the following statements regarding Todar Mal's revenue system: 1. It was based on careful measurement (paimaish) of cultivated land. 2. Revenue rates were fixed in cash based on average prices and productivity over a ten-year period. 3. This system was applied uniformly across every province of the Mughal Empire without exception. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the system involved land <b>measurement</b> and fixed <b>cash rates</b> from decade-long averages. Statement 3 is false, as the zabt system was not applied uniformly everywhere; some regions continued under different assessment methods like batai (crop-sharing) depending on local conditions."
+        },
+        {
+          "q": "Consider the following statements about zamindars in Mughal India: 1. Zamindars held hereditary rights over land and often exercised local administrative and military functions. 2. Zamindars were formally part of the mansabdari hierarchy and held zat and sawar ranks identical to mansabdars. 3. Zamindars often collected revenue on behalf of the state, retaining a share as their own income. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 3 are correct — zamindars held <b>hereditary rights</b> and collected revenue, retaining a share. Statement 2 is false, as zamindars were generally a distinct category from mansabdars, not automatically holding zat/sawar ranks, though some powerful zamindars were separately granted mansabs."
+        },
+        {
+          "q": "Consider the following statements regarding medieval Indian currency: 1. Sher Shah Suri's silver Rupiya became a standard unit that influenced subsequent Mughal coinage. 2. The Mughals issued a trimetallic currency system including gold (mohur), silver (rupiya) and copper (dam) coins. 3. Currency in medieval India was used exclusively for long-distance trade, with rural transactions conducted purely through barter. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the <b>Rupiya</b> influenced Mughal coinage, and the Mughals used a <b>trimetallic system</b> (gold, silver, copper). Statement 3 is false, as monetisation had penetrated significantly into rural transactions and revenue payments by the Mughal period, not being purely barter-based."
+        },
+        {
+          "q": "Consider the following statements regarding craft production and guilds in medieval India: 1. Shrenis/guilds regulated quality, prices, and training within various crafts. 2. Textile production, particularly cotton and silk weaving, was a major craft activity with significant export demand. 3. Guild organisation completely disappeared after the establishment of the Delhi Sultanate. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — guilds regulated craft standards, and <b>textile production</b> was a major export-oriented craft. Statement 3 is false, as guild-like organisations of craftsmen and merchants continued to function through the Sultanate and Mughal periods."
+        },
+        {
+          "q": "Consider the following statements about the karkhana system: 1. Karkhanas produced goods primarily for the royal household and state needs such as textiles, weapons, and jewellery. 2. Artisans working in karkhanas were typically paid wages by the state. 3. Karkhanas were the sole form of craft production in Mughal India, with no independent artisans working outside this system. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>karkhanas</b> produced goods for royal use and paid artisans wages. Statement 3 is false, as substantial independent artisan production existed outside royal karkhanas, serving markets and export trade."
+        },
+        {
+          "q": "Consider the following statements regarding land revenue terminology under the Mughals: 1. Jagir referred to a transferable revenue assignment linked to a mansabdar's rank and service. 2. Khalisa land's revenue was collected directly for the imperial treasury rather than assigned to a noble. 3. Jagirdars enjoyed full proprietary ownership of the land in their jagir, equivalent to private property. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>jagir</b> was a transferable service-linked assignment, and <b>khalisa</b> land revenue went directly to the treasury. Statement 3 is false, as jagirdars held only the right to collect revenue, not proprietary ownership of the land itself, which remained ultimately under state/cultivator rights."
+        },
+        {
+          "q": "Consider the following statements about port towns in medieval India: 1. Surat served as a major departure point for pilgrims travelling to Mecca during the Mughal period. 2. Masulipatnam on the Coromandel coast was an important centre for textile trade in the 17th century. 3. Overseas trade in this period was conducted exclusively by state-controlled monopolies with no role for private merchants. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Surat</b> was a key pilgrim departure port, and <b>Masulipatnam</b> was important for textile trade. Statement 3 is false, as private merchants, including prominent figures like Virji Vora, played a very significant role in overseas trade alongside state involvement."
+        },
+        {
+          "q": "Consider the following statements regarding revenue collection methods used in medieval India: 1. Batai (crop-sharing) involved dividing the actual harvested produce between the state and cultivator in a fixed ratio. 2. Nasq was a form of assessment based on estimation without actual measurement of the field. 3. Zabt required no measurement of land and depended solely on the cultivator's self-declaration. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Batai</b> involved dividing actual produce, and <b>Nasq</b> was an estimation-based method. Statement 3 is false, as the <b>zabt</b> system specifically relied on systematic measurement (paimaish) of cultivated land, not self-declaration."
+        },
+        {
+          "q": "Consider the following statements comparing the iqta and jagir systems: 1. Both systems linked revenue assignment to military/administrative service obligations to the ruler. 2. The iqta system predates the jagir system chronologically, with iqta associated with the Sultanate and jagir with the Mughals. 3. Jagirdars, unlike muqtis, had no obligation to maintain any troops for the state. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — both systems tied revenue assignment to service, with <b>iqta</b> preceding under the Sultanate and <b>jagir</b> under the Mughals. Statement 3 is false, as jagirdars, as mansabdars, were very much obligated to maintain troops (the sawar contingent) in state service."
+        },
+        {
+          "q": "Consider the following statements about the agrarian economy of medieval India: 1. A wide variety of crops including food grains and cash crops like cotton, indigo, and sugarcane were cultivated. 2. Cash crop cultivation was linked to expanding trade networks and monetisation of the rural economy. 3. Agricultural production techniques remained entirely static with no regional variation across the period. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — a variety of <b>food grains and cash crops</b> were grown, linked to <b>expanding trade and monetisation</b>. Statement 3 is false, as agricultural techniques and cropping patterns varied significantly by region and evolved over time, including the spread of New World crops like maize and tobacco."
+        },
+        {
+          "q": "Consider the following statements regarding the office of the Wazir under the Delhi Sultanate: 1. The Wazir headed the Diwan-i-Wizarat, primarily responsible for revenue and financial administration. 2. Alauddin Khalji's wazir, Kafur, is well known for military conquests in the Deccan on the Sultan's behalf. 3. The Wazir's office had no involvement in military affairs under any Sultan. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the <b>Wazir</b> headed financial administration, and <b>Malik Kafur</b>, serving under Alauddin Khalji, led notable Deccan campaigns. Statement 3 is false in its absolute claim, as wazirs at various points did have military roles or oversight, as the Kafur example itself demonstrates."
+        },
+        {
+          "q": "Consider the following statements about urbanisation in medieval India: 1. Growth of imperial capitals like Delhi, Agra, and Fatehpur Sikri was linked to court patronage, administration, and craft production. 2. Provincial and market towns (qasbas) served as intermediate nodes linking rural production to long-distance trade networks. 3. Urban growth in this period was confined only to coastal port cities with no inland town development. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — imperial capitals grew through <b>court patronage</b>, and <b>qasbas</b> linked rural and trade networks. Statement 3 is false, as significant inland urban centres (capitals, qasbas, pilgrimage towns) developed extensively, not only coastal ports."
+        },
+        {
+          "q": "Consider the following statements regarding taxation on non-Muslims under various medieval Indian regimes: 1. Jizya was a tax levied on non-Muslim subjects under several Sultanate and Mughal rulers. 2. Akbar abolished jizya as part of his broader policy of religious accommodation. 3. Jizya was permanently abolished by all subsequent Mughal emperors after Akbar with no reintroduction. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>jizya</b> was levied under various rulers, and <b>Akbar abolished</b> it. Statement 3 is false, as <b>Aurangzeb reimposed jizya</b> in 1679, reversing Akbar's abolition."
+        },
+        {
+          "q": "Consider the following statements about weights, measures and standardisation in medieval Indian administration: 1. Akbar's administration standardised units of land measurement such as the 'bigha' and linear measure 'gaz' for revenue purposes. 2. Standardisation of measures was intended to reduce disputes and increase administrative predictability in revenue assessment. 3. Regional variation in measures completely disappeared throughout the empire after these reforms. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — Akbar's administration standardised units like the <b>bigha and gaz</b> to reduce disputes. Statement 3 is false, as regional variations in local measures persisted in practice in many areas despite these standardisation efforts."
+        },
+        {
+          "q": "Consider the following statements regarding trade routes in medieval India: 1. The Grand Trunk Road, improved under Sher Shah Suri, linked northern India from Bengal to the Indus region. 2. Sarais (rest houses) were established along major routes to facilitate travel and trade. 3. Overland trade routes had no connection to the port-based maritime trade network and operated in complete isolation from it. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the <b>Grand Trunk Road</b> was improved under <b>Sher Shah Suri</b>, with <b>sarais</b> built along routes. Statement 3 is false, as overland routes fed into and connected with port-based maritime trade, linking inland production centres to coastal export hubs."
+        },
+        {
+          "q": "Consider the following statements regarding the Sultanate-era diwan system: 1. The Diwan-i-Riyasat under Alauddin Khalji was associated with market control and price regulation measures. 2. Alauddin Khalji's market reforms fixed prices for essential commodities including food grains, cloth, and horses. 3. These market controls were introduced primarily to reduce the cost of maintaining a large standing army. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. Alauddin Khalji's <b>market control system</b> regulated prices of grain, cloth, and horses, largely to sustain a large army at controlled cost, administered through officials associated with the <b>Diwan-i-Riyasat</b>."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The Mansabdari system's dual zat-sawar ranking allowed the Mughal state to distinguish an official's personal status from his actual military contribution, providing administrative flexibility. 2. Historians have noted that mansabdars often failed to maintain their full sanctioned quota of sawar troops, leading to periodic reforms like the 'month scales' (mashrut/du-aspa sih-aspa). 3. This gap between sanctioned and actual military strength had no bearing on later Mughal military decline. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the <b>zat-sawar</b> distinction provided flexibility, and historians note recurring gaps in maintained troop quotas leading to reform measures. Statement 3 is false and understates the issue, as this gap between sanctioned and actual strength is frequently cited as a contributing factor in the erosion of later Mughal military effectiveness."
+        },
+        {
+          "q": "Consider the following statements regarding the debate on the 'crisis of the jagirdari system' in late 17th century Mughal India: 1. Rapid expansion of the empire under Aurangzeb increased the number of mansabdars faster than available jagir land, creating a scarcity known as 'bejagiri'. 2. This scarcity intensified competition and instability among nobles seeking productive jagir assignments. 3. This crisis is considered by some historians as a contributing structural factor in the decline of Mughal central authority after Aurangzeb. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. The <b>'bejagiri' crisis</b> (shortage of assignable jagir land relative to the growing number of mansabdars) intensified noble competition and is indeed cited by historians such as Satish Chandra as a structural factor contributing to later <b>Mughal decline</b>."
+        },
+        {
+          "q": "A historian argues that Todar Mal's zabt system represented an attempt to create a more predictable and centrally verifiable revenue base compared to earlier, more variable assessment methods. Which of the following pieces of evidence would BEST support this argument?",
+          "o": [
+            "The system's reliance on standardised land measurement and decade-averaged cash rates per crop, reducing dependence on annual negotiation or local estimation by officials",
+            "The system's complete abandonment of any local officials in revenue collection",
+            "The system's exclusive reliance on batai (crop-sharing), which varied with each harvest",
+            "The system's application only to khalisa lands with no relevance to jagir assignments"
+          ],
+          "a": 0,
+          "e": "The key supporting evidence is the zabt system's basis in <b>standardised measurement</b> and <b>fixed cash rates derived from ten-year averages</b>, which reduced the scope for arbitrary annual estimation (nasq) or negotiation, making revenue expectations more predictable and centrally verifiable — unlike batai, which fluctuated with each harvest."
+        },
+        {
+          "q": "Consider the following statements: 1. The term 'zamindar' encompassed a wide range of actors, from small local headmen to powerful regional chieftains (such as Rajput rajas) who wielded near-autonomous authority. 2. Some zamindars, particularly larger ones, maintained their own armed retainers and forts. 3. The heterogeneity of zamindari power meant that Mughal control over agrarian society always operated through a uniform, undifferentiated set of rights and obligations across the empire. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>zamindars</b> ranged from petty headmen to powerful chieftains, and larger ones maintained <b>armed retainers/forts</b>. Statement 3 is false and contradicts the first statement's premise, as zamindari rights and obligations varied considerably by region and by the zamindar's own power, not operating uniformly."
+        },
+        {
+          "q": "Consider the following statements regarding the relationship between trade and agrarian economy in Mughal India: 1. The expansion of cash crop cultivation (e.g., indigo, cotton) was partly driven by demand from both domestic and export markets, including European trading companies. 2. This commercialisation contributed to increased monetisation of rural revenue payments in many regions. 3. Export-oriented cash crop cultivation had no impact whatsoever on food grain availability or peasant subsistence in affected regions. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — cash crop expansion was linked to <b>domestic and export demand</b> (including European companies), contributing to <b>monetisation</b>. Statement 3 is an overstated claim and false, as historians have discussed potential trade-offs between cash crop cultivation and food grain availability/subsistence security in some regions."
+        },
+        {
+          "q": "Consider the following statements: 1. Karkhanas were state-funded workshops producing primarily for court consumption and prestige goods under direct supervision. 2. Independent artisans operating outside the karkhana system produced for wider domestic and export markets. 3. By the reign of Akbar, karkhanas had entirely replaced independent artisan production across the empire. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>karkhanas</b> served court/prestige needs under direct supervision, while <b>independent artisans</b> catered to domestic and export markets. Statement 3 is false, as both forms of production coexisted as complementary components of the empire's craft economy, with karkhanas never fully replacing independent artisans."
+        },
+        {
+          "q": "Consider the following statements: 1. The office of the 'diwan' in Mughal provincial administration was primarily responsible for revenue matters, distinct from the 'subedar/nazim' who handled general administration and law and order. 2. This separation of revenue and general administrative authority at the provincial level was intended partly as a check against excessive concentration of power in a single provincial governor. 3. This dual arrangement was unique to the Mughals and had no precedent in the Sultanate's provincial administration. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the <b>diwan</b> handled revenue while the <b>subedar/nazim</b> managed general administration, a separation intended as a check on power concentration. Statement 3 is false, as some precedents for separating revenue and general administrative functions existed in earlier Sultanate-era provincial arrangements as well, even if less systematised."
+        },
+        {
+          "q": "Consider the following statements regarding the debate on 'agrarian crisis' in late Mughal India: 1. Some historians attribute rising peasant unrest in the late 17th century partly to increasing revenue demands and jagir-related pressures on zamindars and cultivators. 2. Regional revolts such as the Jat, Satnami, and Sikh uprisings have been linked by some scholars to such agrarian stress alongside religious and political factors. 3. This 'agrarian crisis' thesis is universally accepted without any scholarly dispute regarding its causes or extent. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — increasing revenue pressure has been linked by historians to unrest, and revolts like the <b>Jat, Satnami, and Sikh uprisings</b> are discussed in this context. Statement 3 is false, as the 'agrarian crisis' thesis (associated with historians like Irfan Habib) has in fact been debated and contested by other scholars regarding its extent and causal weight."
+        },
+        {
+          "q": "A question tests inference from primary sources: Ain-i-Akbari provides detailed schedules of revenue rates, crop yields, and prices by region (dastur-ul-amal). What does the existence of such detailed regional data BEST suggest about Mughal administrative capacity under Akbar?",
+          "o": [
+            "It suggests a sophisticated and systematic effort at data collection and standardisation to make revenue assessment more rational and less arbitrary across diverse agro-climatic regions",
+            "It suggests the Mughal state had no interest in regional variation and applied one uniform rate everywhere",
+            "It suggests revenue was collected purely through informal oral custom with no written administrative record",
+            "It suggests the data was fabricated for ceremonial purposes only and had no practical administrative use"
+          ],
+          "a": 0,
+          "e": "The detailed <b>dastur-ul-amal</b> schedules in the <b>Ain-i-Akbari</b> reflect a systematic administrative effort to collect and standardise region-specific data (crop yields, prices, rates), enabling more rational revenue assessment attuned to genuine local variation, rather than either total uniformity or absence of written record-keeping."
+        },
+        {
+          "q": "Consider the following statements: 1. The term 'Peshkash' referred to a form of tribute or ceremonial payment made by subordinate rulers or zamindars to a paramount authority. 2. Peshkash was conceptually distinct from regular land revenue (mal), often being a one-time or periodic token of submission rather than a recurring assessed tax. 3. Peshkash payments were entirely abolished under Akbar and played no role in later Mughal-zamindar relations. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>Peshkash</b> was a tribute/submission payment distinct from regular assessed <b>land revenue (mal)</b>. Statement 3 is false, as peshkash continued to be a significant feature of Mughal relations with subordinate rulers and zamindars well beyond Akbar's reign."
+        },
+        {
+          "q": "Consider the following statements: 1. The presence of European trading companies (Portuguese, Dutch, English, French) along the Indian coast from the 16th century onward introduced new competitive dynamics into existing indigenous trade networks. 2. Indian merchants and shipowners, such as those in Surat, continued to operate substantial independent trading operations well into the 17th century despite European competition. 3. European companies completely displaced all indigenous merchant trade in coastal India by the end of the 17th century. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — <b>European companies</b> introduced new competitive dynamics, while <b>Indian merchants</b> (e.g., at Surat) continued substantial independent operations. Statement 3 is false, as indigenous merchant trade persisted robustly through the 17th century and beyond, not being displaced entirely by European companies at this stage."
+        },
+        {
+          "q": "Which of the following correctly distinguishes the 'iqta' of the early Delhi Sultanate from the more elaborated iqta administration under Alauddin Khalji and later Sultans?",
+          "o": [
+            "Early iqtas were relatively autonomous grants with looser central oversight, while later reforms (e.g., under Alauddin Khalji) introduced stricter auditing, direct cash payment experiments, and greater central control over muqtis' revenue collection and troop maintenance",
+            "Early iqtas involved cash salaries only with no land assignment, while later iqtas introduced land assignment for the first time",
+            "The iqta system remained completely unchanged in structure and oversight from the time of Iltutmish to Firuz Shah Tughlaq",
+            "Alauddin Khalji abolished the iqta system entirely, replacing it with a purely hereditary zamindari structure"
+          ],
+          "a": 0,
+          "e": "The correct distinction lies in evolving central oversight: early iqtas under rulers like <b>Iltutmish</b> were relatively autonomous, whereas <b>Alauddin Khalji's</b> reforms introduced tighter auditing (diwan-i-mustakhraj), attempts at direct revenue control, and stricter checks on muqtis, reflecting a trend toward greater central control rather than static continuity or abolition."
+        },
+        {
+          "q": "Consider the following statements: 1. Guild-like merchant organisations in medieval Indian ports sometimes negotiated collectively with local authorities over customs duties and trade privileges. 2. Such organisation gave merchant communities some degree of bargaining power vis-a-vis political authorities without necessarily challenging overall state sovereignty. 3. This form of merchant organisation indicates the complete absence of state regulation over trade in medieval India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — merchant organisations could negotiate collectively over duties and privileges, giving them <b>bargaining power</b> without challenging sovereignty. Statement 3 is false, as the state (Sultanate or Mughal) did maintain regulatory oversight over trade including customs administration, even amid such negotiations."
+        },
+        {
+          "q": "Consider the following statements regarding the interpretation of Mughal fiscal data: 1. Estimates of Mughal per capita revenue extraction, such as those calculated by economic historians using Ain-i-Akbari data, have been used to debate the relative burden of taxation on the peasantry. 2. Such estimates are subject to significant uncertainty due to the difficulty of converting varied regional measures and prices into comparable modern units. 3. Because of this uncertainty, no meaningful historical conclusions can be drawn from Ain-i-Akbari's fiscal data at all. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — historians have used <b>Ain-i-Akbari</b> data to estimate revenue burdens, while acknowledging <b>significant measurement uncertainties</b>. Statement 3 is an overstatement and false, as historians do draw careful, qualified conclusions from this data despite its limitations, rather than dismissing it entirely."
+        },
+        {
+          "q": "Which of the following best captures the structural relationship between the mansabdari system and the jagirdari system under the Mughals?",
+          "o": [
+            "Mansab was the personal rank/status conferred on a noble, while jagir was the specific territorial revenue assignment given to that noble as a means of paying his mansab-linked salary and military obligations; not all mansabdars necessarily held a jagir at all times, as some were paid in cash (naqdi)",
+            "Mansab and jagir were entirely synonymous terms used interchangeably for the same grant",
+            "Jagir was the personal rank while mansab was the territorial assignment",
+            "Every mansabdar automatically inherited his jagir as permanent hereditary property"
+          ],
+          "a": 0,
+          "e": "The precise relationship is that <b>mansab</b> denoted personal rank/status and salary entitlement, while <b>jagir</b> was one mechanism (territorial revenue assignment) used to actually pay that entitlement; some mansabdars were paid in cash (<b>naqdi</b>) rather than jagir, and jagirs were transferable, not hereditary property."
+        },
+        {
+          "q": "Consider the following statements: 1. The practice of periodically transferring jagirdars from one jagir to another (jagir transfer) was intended to prevent nobles from establishing entrenched local power bases. 2. Frequent transfers could create disincentives for jagirdars to invest in long-term agricultural improvement within their assigned territories. 3. This tension between administrative control and economic incentive has been discussed by historians as a structural feature of the jagirdari system. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. The transfer system aimed to <b>prevent entrenchment</b>, but this same feature could <b>disincentivise long-term investment</b> by jagirdars, and this tension is indeed a recognised point of historical discussion regarding the jagirdari system's structural limitations."
+        },
+        {
+          "q": "Consider the following statements: 1. Historians such as Irfan Habib have used quantitative analysis of Ain-i-Akbari data to estimate the scale of surplus extraction from the peasantry under the Mughal revenue system. 2. Such analyses have contributed to broader historiographical debates on whether Mughal revenue demand was a significant constraint on agrarian growth. 3. This line of quantitative analysis has found universal acceptance among historians with no methodological criticism from other scholars. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — historians like <b>Irfan Habib</b> have used Ain-i-Akbari data for such estimates, feeding into debates on agrarian growth constraints. Statement 3 is false, as this quantitative approach has faced methodological critique from other historians regarding data reliability and interpretation, not universal acceptance."
+        },
+        {
+          "q": "Consider the following statements: 1. The coexistence of khalisa, jagir, and madad-i-maash/inam land categories under the Mughals reflects a differentiated approach to managing revenue rights across different types of land use and beneficiaries. 2. Madad-i-maash grants, being revenue-free, directly reduced the overall extractable revenue base available to the state compared to khalisa or jagir land. 3. Despite this apparent revenue cost, such grants served state interests by supporting religious and scholarly institutions valued for social and ideological legitimacy. Which of the statements given above is/are correct?",
+          "o": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+          ],
+          "a": 0,
+          "e": "All three statements are correct. The differentiated categories (<b>khalisa, jagir, madad-i-maash</b>) served distinct administrative purposes; <b>madad-i-maash</b> grants were indeed revenue-free, reducing extractable revenue, yet they served the state's interest in supporting institutions that lent it religious and ideological legitimacy."
+        }
+      ]
+    }
+  }
+]

@@ -58,6 +58,8 @@
   .chapter-item .cd{font-size:0.78rem; color:var(--muted); margin-top:2px;}
   .chapter-item .qcount{font-size:0.72rem; color:var(--muted); white-space:nowrap;}
   .chapter-item .soon-badge{font-size:0.68rem; font-weight:700; color:var(--amber); background:#fef3c7; padding:3px 8px; border-radius:999px; white-space:nowrap;}
+  .chapter-item.completed, .level-btn.completed{border-color:var(--green); background:var(--green-bg);}
+  .chapter-score{font-size:0.78rem; font-weight:800; color:var(--green); background:#ffffff; padding:4px 10px; border-radius:999px; white-space:nowrap; border:1px solid var(--green);}
 
   /* Level select (reused for chapter tests and subject-wide tests) */
   .level-grid{display:grid; grid-template-columns:1fr; gap:14px; margin-top:10px;}
@@ -189,12 +191,12 @@
 <body>
 <div class="wrap">
   <div class="auth-bar" id="auth-bar">
-    <button class="auth-btn" id="leaderboard-nav-btn">🏆 Leaderboard</button>
     <span id="auth-bar-loggedout">
       <button class="auth-btn" id="login-nav-btn">Log in</button>
       <button class="auth-btn primary-outline" id="signup-nav-btn">Sign up</button>
     </span>
     <span id="auth-bar-loggedin" class="hidden">
+      <button class="auth-btn" id="leaderboard-nav-btn">🏆 Leaderboard</button>
       <button class="auth-btn" id="profile-nav-btn">👤 <span id="auth-username"></span></button>
       <button class="auth-btn" id="logout-btn">Log out</button>
     </span>
@@ -213,7 +215,7 @@
 
   <!-- AUTH SCREEN (login / signup) -->
   <div class="card hidden" id="auth-screen">
-    <button class="back-btn" id="auth-back-btn">← Back</button>
+    <button class="back-btn hidden" id="auth-back-btn">← Back</button>
     <div class="auth-tabs">
       <div class="auth-tab active" id="tab-login">Log in</div>
       <div class="auth-tab" id="tab-signup">Sign up</div>
@@ -423,9 +425,17 @@ async function initAuth(){
   currentUser = session ? session.user : null;
   await loadCurrentProfile();
 
+  /* The whole app requires being logged in -- land on the auth screen until that's true. */
+  if(currentUser) renderSubjects();
+  else renderAuth('login');
+
   sb.auth.onAuthStateChange(async (event, session)=>{
+    const wasLoggedIn = !!currentUser;
     currentUser = session ? session.user : null;
     await loadCurrentProfile();
+    if(!currentUser && wasLoggedIn){
+      renderAuth('login');
+    }
   });
 }
 
@@ -496,7 +506,7 @@ async function doLogout(){
   currentUser = null;
   currentProfile = null;
   updateAuthBar();
-  renderSubjects();
+  renderAuth('login');
 }
 
 /* ==================== PROFILE SCREEN ==================== */
@@ -630,19 +640,41 @@ function renderSubjects(){
 }
 
 /* ==================== CHAPTER LIST SCREEN ==================== */
-function renderChapterList(subjectKey){
+async function renderChapterList(subjectKey){
   state.subjectKey = subjectKey;
   const bc = document.getElementById('chapter-breadcrumb');
   bc.innerHTML = `<span class="crumb" onclick="renderSubjects()">Subjects</span><span class="sep">›</span><span>${SUBJECTS[subjectKey].title}</span>`;
 
+  showScreen('chapter');
   const list = document.getElementById('chapter-list');
+  list.innerHTML = '<p style="font-size:0.85rem; color:var(--muted);">Loading...</p>';
+
+  /* Best score per chapter for this user, so completed chapters can be highlighted. */
+  let bestByChapter = {};
+  if(currentUser){
+    const { data } = await sb.from('quiz_attempts')
+      .select('chapter_id, score_pct')
+      .eq('user_id', currentUser.id)
+      .eq('subject', subjectKey)
+      .not('chapter_id', 'is', null);
+    if(data){
+      data.forEach(a=>{
+        if(bestByChapter[a.chapter_id] === undefined || a.score_pct > bestByChapter[a.chapter_id]){
+          bestByChapter[a.chapter_id] = a.score_pct;
+        }
+      });
+    }
+  }
+
   list.innerHTML = '';
   let n = 1;
   SUBJECT_DATA[subjectKey].chapters.forEach(ch=>{
     const total = ch.questions.basic.length + ch.questions.intermediate.length + ch.questions.advanced.length;
+    const best = bestByChapter[ch.id];
+    const done = best !== undefined;
     const div = document.createElement('div');
-    div.className = 'chapter-item';
-    div.innerHTML = `<div style="display:flex; gap:12px; align-items:center;"><span class="num">${n}</span><div><div class="ct">${ch.title}</div><div class="cd">${ch.desc || ''}</div></div></div><span class="qcount">${total} Qs</span>`;
+    div.className = 'chapter-item' + (done ? ' completed' : '');
+    div.innerHTML = `<div style="display:flex; gap:12px; align-items:center;"><span class="num">${n}</span><div><div class="ct">${ch.title}</div><div class="cd">${ch.desc || ''}</div></div></div>${done ? `<span class="chapter-score">✓ ${best}%</span>` : `<span class="qcount">${total} Qs</span>`}`;
     div.onclick = ()=> renderLevelSelect({mode:'chapter', chapterId:ch.id});
     list.appendChild(div);
     n++;
@@ -664,12 +696,10 @@ function renderChapterList(subjectKey){
     btn.onclick = ()=> startQuiz({mode:'subject', level:key});
     stGrid.appendChild(btn);
   });
-
-  showScreen('chapter');
 }
 
 /* ==================== LEVEL SELECT SCREEN (per chapter) ==================== */
-function renderLevelSelect({mode, chapterId}){
+async function renderLevelSelect({mode, chapterId}){
   state.mode = mode;
   state.chapterId = chapterId;
   const ch = SUBJECT_DATA[state.subjectKey].chapters.find(c=>c.id===chapterId);
@@ -677,17 +707,35 @@ function renderLevelSelect({mode, chapterId}){
   bc.innerHTML = `<span class="crumb" onclick="renderSubjects()">Subjects</span><span class="sep">›</span><span class="crumb" onclick="renderChapterList(state.subjectKey)">${SUBJECTS[state.subjectKey].title}</span><span class="sep">›</span><span>${ch.title}</span>`;
   document.getElementById('level-title').textContent = ch.title;
 
+  showScreen('level');
   const grid = document.getElementById('level-grid');
+  grid.innerHTML = '<p style="font-size:0.85rem; color:var(--muted);">Loading...</p>';
+
+  let bestByLevel = {};
+  if(currentUser){
+    const { data } = await sb.from('quiz_attempts')
+      .select('level, score_pct')
+      .eq('user_id', currentUser.id)
+      .eq('subject', state.subjectKey)
+      .eq('chapter_id', chapterId);
+    if(data){
+      data.forEach(a=>{
+        if(bestByLevel[a.level] === undefined || a.score_pct > bestByLevel[a.level]) bestByLevel[a.level] = a.score_pct;
+      });
+    }
+  }
+
   grid.innerHTML = '';
   Object.entries(LEVEL_META).forEach(([key, meta])=>{
     const count = ch.questions[key].length;
+    const best = bestByLevel[key];
+    const done = best !== undefined;
     const btn = document.createElement('div');
-    btn.className = 'level-btn';
-    btn.innerHTML = `<div><div class="lt">${meta.title}</div><div class="ld">${meta.desc} · ${count} questions</div></div><span class="badge ${meta.badge}">${meta.title}</span>`;
+    btn.className = 'level-btn' + (done ? ' completed' : '');
+    btn.innerHTML = `<div><div class="lt">${meta.title}</div><div class="ld">${meta.desc} · ${count} questions</div></div>${done ? `<span class="chapter-score">✓ ${best}%</span>` : `<span class="badge ${meta.badge}">${meta.title}</span>`}`;
     btn.onclick = ()=> startQuiz({mode:'chapter', chapterId, level:key});
     grid.appendChild(btn);
   });
-  showScreen('level');
 }
 
 /* ==================== QUESTION TEXT FORMATTING ==================== */
@@ -936,7 +984,6 @@ function showResult(){
 document.getElementById('retry-btn').onclick = ()=> startQuiz({mode:state.mode, chapterId:state.chapterId, level:state.level});
 document.getElementById('chapters-btn').onclick = ()=> renderChapterList(state.subjectKey);
 
-renderSubjects();
 initAuth();
 </script>
 </body>

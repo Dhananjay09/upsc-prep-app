@@ -1,0 +1,2430 @@
+[
+  {
+    "id": "hist_prehistoric_period",
+    "title": "Pre-Historic Period",
+    "desc": "Stone Age cultures, sites, tools and rock art",
+    "questions": {
+      "basic": [
+        {
+          "q": "The Stone Age in India is conventionally divided into which three phases based on tool technology?",
+          "o": [
+            "Paleolithic, Mesolithic, Neolithic",
+            "Paleolithic, Chalcolithic, Neolithic",
+            "Mesolithic, Neolithic, Iron Age",
+            "Paleolithic, Neolithic, Bronze Age"
+          ],
+          "a": 0,
+          "e": "The <b>Stone Age</b> is divided into <b>Paleolithic (Old Stone Age)</b>, <b>Mesolithic (Middle Stone Age)</b>, and <b>Neolithic (New Stone Age)</b> based on the nature of stone tools used."
+        },
+        {
+          "q": "Who is credited with the discovery of the first Paleolithic stone tool in India, near Pallavaram, Madras in 1863?",
+          "o": [
+            "V.S. Wakankar",
+            "Robert Bruce Foote",
+            "V.N. Misra",
+            "H.D. Sankalia"
+          ],
+          "a": 1,
+          "e": "<b>Robert Bruce Foote</b>, a geologist, discovered a Paleolithic handaxe at <b>Pallavaram</b> near Madras in 1863, marking the beginning of prehistoric archaeology in India."
+        },
+        {
+          "q": "The famous rock shelters with prehistoric paintings, a UNESCO World Heritage Site, are located at which place?",
+          "o": [
+            "Bhimbetka",
+            "Bagor",
+            "Burzahom",
+            "Adamgarh"
+          ],
+          "a": 0,
+          "e": "<b>Bhimbetka</b> rock shelters in Madhya Pradesh contain paintings spanning from the Paleolithic to historic periods and is a UNESCO World Heritage Site."
+        },
+        {
+          "q": "The Lower Paleolithic 'Soanian' culture, named after a river, is primarily associated with which region?",
+          "o": [
+            "Narmada valley",
+            "Belan valley",
+            "Soan valley (Punjab region)",
+            "Krishna valley"
+          ],
+          "a": 2,
+          "e": "The <b>Soanian culture</b>, characterized by pebble and chopper tools, is named after the <b>Soan river valley</b> in the Punjab region (now largely in Pakistan)."
+        },
+        {
+          "q": "Which type of tiny, geometric stone tools characterize the Mesolithic Age?",
+          "o": [
+            "Handaxes",
+            "Microliths",
+            "Cleavers",
+            "Blades and burins only"
+          ],
+          "a": 1,
+          "e": "The Mesolithic Age is characterized by <b>microliths</b> — small, often geometric stone tools that were used singly or hafted onto wood/bone for composite tools."
+        },
+        {
+          "q": "Bagor, an important Mesolithic site excavated by V.N. Misra, is located in which state?",
+          "o": [
+            "Gujarat",
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Uttar Pradesh"
+          ],
+          "a": 2,
+          "e": "<b>Bagor</b>, on the Kothari river in Rajasthan, is one of the largest and most well-documented Mesolithic sites in India."
+        },
+        {
+          "q": "The Neolithic Age is primarily distinguished from earlier ages by the beginning of which practice?",
+          "o": [
+            "Use of fire",
+            "Settled agriculture and animal domestication",
+            "Iron smelting",
+            "Cave painting"
+          ],
+          "a": 1,
+          "e": "The <b>Neolithic Revolution</b> marks the shift to <b>settled agriculture and animal domestication</b>, along with polished stone tools and pottery."
+        },
+        {
+          "q": "Mehrgarh, one of the earliest known sites of agriculture in the Indian subcontinent, is located in present-day:",
+          "o": [
+            "Rajasthan, India",
+            "Baluchistan, Pakistan",
+            "Kashmir, India",
+            "Sindh, Pakistan"
+          ],
+          "a": 1,
+          "e": "<b>Mehrgarh</b> in <b>Baluchistan (Pakistan)</b>, dated to around 7000 BCE, provides the earliest evidence of farming (wheat and barley) and animal domestication in the subcontinent."
+        },
+        {
+          "q": "At Burzahom in Kashmir, Neolithic people practiced a distinctive burial custom involving:",
+          "o": [
+            "Cremation of the dead",
+            "Burying dogs along with their masters",
+            "Mummification",
+            "Burial in urns only"
+          ],
+          "a": 1,
+          "e": "At <b>Burzahom</b>, excavations revealed the practice of burying domesticated <b>dogs along with their human masters</b>, along with pit-dwellings."
+        },
+        {
+          "q": "The Chalcolithic Age is best defined as a period in which people used tools made of:",
+          "o": [
+            "Iron and stone",
+            "Copper and stone",
+            "Bronze only",
+            "Copper and iron"
+          ],
+          "a": 1,
+          "e": "'Chalcolithic' literally means <b>copper-stone</b>; people of this age used copper tools alongside stone tools, as full bronze technology had not developed."
+        },
+        {
+          "q": "The Ahar culture (Banas culture), known for early copper smelting, flourished in which present-day state?",
+          "o": [
+            "Maharashtra",
+            "Rajasthan",
+            "Madhya Pradesh",
+            "Gujarat"
+          ],
+          "a": 1,
+          "e": "The <b>Ahar (Banas) culture</b> in southeastern Rajasthan is known for its distinctive black-and-red pottery and evidence of copper smelting."
+        },
+        {
+          "q": "The Jorwe culture, a major Chalcolithic culture, was centred mainly in which region?",
+          "o": [
+            "Western Maharashtra",
+            "Southern Rajasthan",
+            "Central Bihar",
+            "Coastal Andhra"
+          ],
+          "a": 0,
+          "e": "The <b>Jorwe culture</b> (c. 1400-700 BCE) was spread across <b>Maharashtra</b>, with important sites at Jorwe, Daimabad, Inamgaon, and Nevasa."
+        },
+        {
+          "q": "The site of Daimabad in Maharashtra is particularly famous for the discovery of a Chalcolithic:",
+          "o": [
+            "Painted Grey Ware assemblage",
+            "Bronze chariot with a rider",
+            "Iron plough",
+            "Terracotta seal script"
+          ],
+          "a": 1,
+          "e": "<b>Daimabad</b>, a Jorwe culture site, yielded a remarkable <b>bronze chariot with a driver</b> along with other bronze animal figures."
+        },
+        {
+          "q": "At Mehrgarh, the earliest domesticated crops cultivated by Neolithic farmers were:",
+          "o": [
+            "Rice and millet",
+            "Wheat and barley",
+            "Maize and cotton",
+            "Sugarcane and pulses"
+          ],
+          "a": 1,
+          "e": "Excavations at <b>Mehrgarh</b> show that <b>wheat and barley</b> were among the earliest crops cultivated, alongside evidence of domesticated sheep, goat and cattle."
+        },
+        {
+          "q": "Koldihwa in the Belan valley (Uttar Pradesh) is significant for providing early evidence of:",
+          "o": [
+            "Rice cultivation",
+            "Copper smelting",
+            "Cotton weaving",
+            "Iron tools"
+          ],
+          "a": 0,
+          "e": "<b>Koldihwa</b> in the Belan valley has yielded some of the earliest evidence of <b>rice cultivation and rice husk impressions on pottery</b> in the Neolithic context."
+        },
+        {
+          "q": "Sarai Nahar Rai, a Mesolithic site in Uttar Pradesh, is notable chiefly for evidence of:",
+          "o": [
+            "Copper tool manufacture",
+            "Human burials",
+            "Large stone circles",
+            "Early pottery kilns"
+          ],
+          "a": 1,
+          "e": "<b>Sarai Nahar Rai</b> has provided important evidence of <b>Mesolithic human burials</b>, including group burials with grave goods."
+        },
+        {
+          "q": "The scholar who is widely credited with the discovery and detailed documentation of the Bhimbetka rock shelters and paintings was:",
+          "o": [
+            "V.S. Wakankar",
+            "Mortimer Wheeler",
+            "H.D. Sankalia",
+            "B.B. Lal"
+          ],
+          "a": 0,
+          "e": "<b>V.S. Wakankar</b> discovered the Bhimbetka rock shelters in 1957-58 and undertook extensive documentation of the paintings found there."
+        },
+        {
+          "q": "The pigments used by prehistoric artists to create rock paintings, such as those at Bhimbetka, were mainly derived from:",
+          "o": [
+            "Vegetable dyes only",
+            "Manganese, hematite and soft red stone",
+            "Synthetic mineral compounds",
+            "Charcoal alone"
+          ],
+          "a": 1,
+          "e": "Prehistoric artists used natural pigments made from <b>manganese, hematite (red ochre), soft red stone</b>, and occasionally white and green pigments, mixed with animal fat or plant extracts."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements regarding the Paleolithic Age in India: 1. It is broadly divided into Lower, Middle, and Upper Paleolithic phases based on tool typology. 2. Middle Paleolithic industries are dominated by flake tools rather than the core/handaxe tools of the Lower Paleolithic. 3. Homo sapiens are associated with the Upper Paleolithic phase in India. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct: the <b>Lower Paleolithic</b> featured core tools like handaxes and cleavers, the <b>Middle Paleolithic</b> shifted to <b>flake tools</b> (scrapers, borers), and the <b>Upper Paleolithic</b> is linked with anatomically modern <b>Homo sapiens</b> and blade/burin tools."
+        },
+        {
+          "q": "Consider the following statements: 1. Microliths were exclusively used as standalone tools and never hafted onto other materials. 2. The Mesolithic period shows early evidence of animal domestication at sites like Adamgarh. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is false — microliths were often <b>hafted onto wood or bone handles</b> to create composite tools. Statement 2 is correct, as <b>Adamgarh</b> shows early animal domestication evidence in the Mesolithic."
+        },
+        {
+          "q": "Consider the following pairs of Chalcolithic sites and their associated present-day states: 1. Ahar – Rajasthan. 2. Jorwe – Maharashtra. 3. Kayatha – Madhya Pradesh. Which of the pairs given above is/are correctly matched?",
+          "o": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three pairs are correctly matched: <b>Ahar</b> (Banas culture) is in Rajasthan, <b>Jorwe</b> culture is centred in Maharashtra, and <b>Kayatha</b> culture is located in Madhya Pradesh."
+        },
+        {
+          "q": "Consider the following statements about Neolithic sites: 1. Mehrgarh in Baluchistan shows evidence of farming earlier than most Neolithic sites within present-day India. 2. Burzahom in Kashmir is known for pit-dwellings and burial of dogs with masters. 3. Chirand in Bihar has yielded Neolithic tools made of bone and antler. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct. <b>Mehrgarh</b> (c. 7000 BCE) predates most Neolithic sites in India; <b>Burzahom</b> shows pit-dwellings and dog burials; <b>Chirand</b> has yielded bone and antler tools."
+        },
+        {
+          "q": "Consider the following statements: 1. Chalcolithic communities generally lacked knowledge of writing. 2. Chalcolithic cultures were predominantly urban with well-planned street grids similar to the Harappan cities. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — Chalcolithic people did not know writing. Statement 2 is false; Chalcolithic settlements were predominantly <b>rural, village-based</b> communities, not planned urban centres like the Harappan cities."
+        },
+        {
+          "q": "Which of the following statements about rock paintings found at Bhimbetka is/are correct? 1. The paintings depict scenes across a long time span from the Upper Paleolithic to historical periods. 2. Early paintings mostly depict large animal figures and hunting scenes, while later paintings show horses and riders. 3. All the paintings at Bhimbetka were created using synthetic industrial dyes.",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false since the paintings used <b>natural mineral pigments</b>, not synthetic dyes."
+        },
+        {
+          "q": "With reference to the transition from Mesolithic to Neolithic life, consider the following statements: 1. This transition is generally marked by a shift from hunting-gathering to settled farming. 2. Pottery-making became more common with the onset of the Neolithic period. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: the Neolithic transition involved a shift to <b>settled agriculture</b> and increased use of <b>pottery</b> for storage and cooking, alongside polished stone tools."
+        },
+        {
+          "q": "Consider the following statements: 1. Piklihal and Utnur in South India have yielded evidence of Neolithic ash mounds linked to cattle-penning activities. 2. These ash mounds are believed to result from the periodic burning of cattle dung. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. <b>Piklihal and Utnur</b> in South India are known for Neolithic <b>ash mounds</b>, formed from the periodic burning of accumulated cattle dung in cattle-penning settlements."
+        },
+        {
+          "q": "Consider the following statements regarding Lower Paleolithic tool industries in India: 1. The 'Madrasian' or handaxe-cleaver industry is associated with peninsular India. 2. The Soanian industry, dominated by pebble and chopper-chopping tools, is associated with the northwestern region. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Madrasian (handaxe-cleaver) industry</b> is found across peninsular India, while the <b>Soanian (chopper-chopping) industry</b> is associated with the Soan valley in the northwest."
+        },
+        {
+          "q": "Consider the following statements: 1. Langhnaj in Gujarat is a well-known Mesolithic site. 2. Sarai Nahar Rai in Uttar Pradesh has yielded evidence of group burials from the Mesolithic period. 3. Both sites have yielded evidence of iron tools. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect — Mesolithic sites like Langhnaj and Sarai Nahar Rai are characterized by <b>microlithic stone tools</b>, not iron, which appears much later."
+        },
+        {
+          "q": "Consider the following statements about the Jorwe culture: 1. Its type site, Jorwe, is located on the Pravara river in Maharashtra. 2. Inamgaon, another key Jorwe site, shows evidence of mud-brick houses and a possible chief's residence. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. <b>Jorwe</b> is situated on the <b>Pravara river</b>, and <b>Inamgaon</b> excavations revealed mud-brick structures interpreted by some archaeologists as belonging to a chief."
+        },
+        {
+          "q": "Which of the following statements about Chalcolithic burial practices is/are correct? 1. At Ahar, burials generally followed a north-south orientation of the body. 2. Chalcolithic burials commonly included pottery and other grave goods. 3. Cremation was the only method of disposal of the dead among all Chalcolithic cultures.",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false, as <b>both burial and, in some cultures, cremation/fractional burial practices</b> are attested, so cremation was not universal."
+        },
+        {
+          "q": "Consider the following statements: 1. The term 'Neolithic Revolution' refers primarily to the domestication of fire. 2. It actually refers to the shift towards farming, animal domestication, and settled village life. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 2 is correct; the '<b>Neolithic Revolution</b>' denotes the transformative shift to <b>farming and settled life</b>, not the domestication of fire, which occurred much earlier."
+        },
+        {
+          "q": "Consider the following statements regarding Mehrgarh: 1. It lies in the Kachi plain of Baluchistan, Pakistan. 2. Excavations there reveal a continuous cultural sequence from an aceramic (pre-pottery) Neolithic phase to later Chalcolithic phases. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. <b>Mehrgarh</b>, located in the Kachi plain, shows a long cultural sequence beginning with an <b>aceramic Neolithic phase</b> and evolving into later Chalcolithic occupation."
+        },
+        {
+          "q": "Consider the following statements: 1. Upper Paleolithic sites in India are relatively fewer compared to Middle Paleolithic sites. 2. Blade and burin tools are hallmark artefacts of the Upper Paleolithic phase. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct: Upper Paleolithic sites are comparatively fewer, and the phase is technologically marked by <b>blade and burin</b> tool industries."
+        },
+        {
+          "q": "Consider the following statements about rock art in India: 1. Bhimbetka is the only site in India where prehistoric rock paintings have been found. 2. Rock paintings help scholars infer aspects of the social and economic life of prehistoric communities. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is false, as rock art sites exist beyond Bhimbetka (e.g., in Kaimur ranges, Chambal valley). Statement 2 is correct — rock paintings offer valuable clues about <b>hunting practices, rituals, and social life</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The Neolithic period in India shows regional variation in the timing of its onset across different areas. 2. Ground and polished stone tools are a hallmark technological feature distinguishing the Neolithic from the Paleolithic and Mesolithic. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. The Neolithic began at different times in different regions of India, and it is technologically marked by <b>ground and polished stone tools</b>, unlike the flaked tools of earlier ages."
+        },
+        {
+          "q": "Consider the following statements: 1. Adamgarh in Madhya Pradesh provides early Mesolithic evidence of animal domestication. 2. Langhnaj in Gujarat is associated with the Chalcolithic phase alone and has no Mesolithic occupation. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — <b>Adamgarh</b> shows early evidence of animal domestication in the Mesolithic. Statement 2 is false, as <b>Langhnaj</b> is itself a well-known <b>Mesolithic</b> site, not exclusively Chalcolithic."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The classification of the Indian Stone Age into Paleolithic, Mesolithic, and Neolithic is based purely on absolute chronological dates uniform across the subcontinent. 2. In reality, different regions of India entered the Neolithic stage at markedly different times. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — the classification is based on <b>tool typology and technology</b>, not uniform absolute dates. Statement 2 is correct, as regions like Baluchistan (Mehrgarh) entered farming millennia before others."
+        },
+        {
+          "q": "Consider the following statements: 1. The presence of both Chalcolithic and Neolithic features at a single site like Burzahom indicates a gradual, overlapping cultural transition rather than an abrupt shift. 2. Chalcolithic cultures across India were uniformly contemporaneous, all flourishing at exactly the same centuries. 3. Regional Chalcolithic cultures such as Ahar, Malwa, and Jorwe show distinct pottery styles despite some shared technological traits. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 3 are correct — cultural transitions were often gradual and regional Chalcolithic cultures had distinct pottery traditions. Statement 2 is incorrect since Chalcolithic cultures across India were <b>not strictly contemporaneous</b>; their dates vary regionally."
+        },
+        {
+          "q": "Consider the following statements regarding the interpretation of prehistoric rock art: 1. Superimposition of paintings at a single rock shelter can help archaeologists establish a relative chronological sequence. 2. The subject matter of paintings evolving from wild animals to depictions of horse riders and battle scenes is used to infer changing socio-economic contexts over time. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are valid interpretive methods used by archaeologists: <b>superimposition</b> aids relative dating, and thematic shifts (e.g., appearance of horses) help infer changing socio-economic life, likely reflecting post-Neolithic/historic influences."
+        },
+        {
+          "q": "Consider the following statements: 1. Daimabad's bronze chariot is evidence that the Jorwe culture people had achieved large-scale urbanised bronze-age civilization comparable to the Harappans. 2. Despite isolated sophisticated bronze artefacts, Jorwe settlements remained essentially rural agro-pastoral village communities. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 overstates the evidence — a single sophisticated find does not indicate Harappan-level urbanisation. Statement 2 correctly reflects scholarly consensus that <b>Jorwe settlements remained rural, village-based agro-pastoral communities</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The absence of writing among Chalcolithic communities is inferred mainly from the lack of inscribed seals or tablets at their sites. 2. This absence of writing is taken by historians as one indicator distinguishing Chalcolithic cultures from the literate, urban Harappan civilization. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the lack of inscribed material is the basis for inferring non-literacy, and this is one key contrast historians draw between <b>rural Chalcolithic cultures</b> and the <b>literate urban Harappan civilization</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Microlith-based tool kits allowed greater efficiency and specialization compared to the bulkier Paleolithic tools. 2. The shift to microliths in the Mesolithic is linked to a change in climate and fauna at the end of the Pleistocene ice age. 3. Bow and arrow technology is associated with Mesolithic hunting based on rock art and site evidence. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct. Smaller, composite <b>microlith</b> tools were more efficient, this shift coincided with post-Pleistocene climatic and faunal changes, and depictions/evidence support the use of the <b>bow and arrow</b> in the Mesolithic."
+        },
+        {
+          "q": "Consider the following statements about the significance of Mehrgarh in South Asian prehistory: 1. It provides the earliest unambiguous evidence of a transition from hunting-gathering to farming within the wider Indian subcontinental region. 2. Its aceramic Neolithic layers predate the appearance of pottery at the site. 3. Mehrgarh evidence has been used to counter theories that farming in South Asia was solely diffused from West Asia. Which of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements reflect the scholarly significance of <b>Mehrgarh</b>: it shows an early transition to farming, has an aceramic phase preceding pottery, and its independent local developments have informed debates on <b>indigenous versus diffused origins</b> of South Asian agriculture."
+        },
+        {
+          "q": "Consider the following statements: 1. The presence of dog burials at Burzahom suggests an emotional or ritual bond between humans and domesticated animals. 2. Pit-dwellings at Burzahom indicate adaptation to a cold climate, consistent with its location in the Kashmir valley. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both inferences are reasonable and widely accepted: dog burials suggest a <b>special human-animal bond</b>, while <b>pit-dwellings</b> reflect adaptation to the cold climate of the Kashmir valley."
+        },
+        {
+          "q": "Consider the following statements: 1. Handaxes and cleavers of the Lower Paleolithic were primarily produced using the 'Levallois' flaking technique unique to India. 2. Core-tool technology of the Lower Paleolithic gradually gave way to flake-tool dominance in the Middle Paleolithic. 3. Blade-and-burin technology of the Upper Paleolithic represents a further refinement in tool-making precision. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 2 and 3 are correct. Statement 1 is incorrect because the <b>Levallois technique</b> was not unique to India — it was a broader prepared-core technique found across parts of Africa, Europe, and Asia."
+        },
+        {
+          "q": "Consider the following statements: 1. Ash mounds in Deccan Neolithic sites like Utnur are now generally interpreted as resulting from ritual burning of cattle dung rather than accidental fires. 2. This interpretation supports the view that cattle-keeping held economic and possibly ritual importance for Neolithic communities in South India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct and mutually reinforcing — the deliberate, periodic burning of dung at <b>ash mound sites</b> points to the socio-economic and possibly <b>ritual centrality of cattle</b> in Neolithic Deccan society."
+        },
+        {
+          "q": "Consider the following statements: 1. The discovery of painted pottery, especially black-and-red ware, at multiple Chalcolithic sites indicates some level of shared technological or cultural exchange across regions. 2. Despite shared pottery traditions, the overall material culture and settlement patterns of Chalcolithic communities show significant regional distinctiveness. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements hold — widespread <b>black-and-red ware</b> suggests inter-regional contact or a shared technique, yet each Chalcolithic culture (Ahar, Malwa, Jorwe, Kayatha) retained <b>distinct regional characteristics</b>."
+        },
+        {
+          "q": "Consider the following statements regarding V.S. Wakankar's work at Bhimbetka: 1. His discovery in the late 1950s brought to light one of the largest known repositories of prehistoric rock art in India. 2. Subsequent studies confirmed that paintings at Bhimbetka span multiple periods, from the Upper Paleolithic through to historical times, based on stylistic and superimposition analysis. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. Wakankar's discovery revealed an extensive rock art complex, and later scholarly analysis using <b>stylistic and superimposition methods</b> established a long chronological span for the paintings."
+        },
+        {
+          "q": "Consider the following statements: 1. The transition from Mesolithic to Neolithic economies necessarily occurred abruptly and simultaneously across all regions of India. 2. Hunter-gatherer and farming communities may have coexisted in overlapping geographical areas and time periods during this transition. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect; the transition was <b>gradual and regionally uneven</b>, not abrupt or simultaneous. Statement 2 correctly reflects that hunter-gatherer and early farming groups likely <b>coexisted</b> in various regions."
+        },
+        {
+          "q": "Consider the following statements: 1. Chalcolithic settlements such as Inamgaon show evidence of a possible social hierarchy through differential house sizes and burial practices. 2. Chalcolithic society, based on such evidence, is generally understood by historians as fully egalitarian with no social differentiation. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — differential house sizes and burial goods at sites like <b>Inamgaon</b> suggest emerging social differentiation. Statement 2 is incorrect, as this evidence actually argues <b>against</b> a fully egalitarian model."
+        },
+        {
+          "q": "Consider the following statements: 1. The find of rice husk impressions at Koldihwa has been cited by some scholars as evidence of very early rice cultivation in India, though the dating has been debated. 2. Uncontested consensus exists among all archaeologists regarding the precise antiquity of rice cultivation at Koldihwa. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — Koldihwa's rice evidence is significant but its <b>very early dating remains debated</b> among scholars. Statement 2 is incorrect since there is <b>no unanimous consensus</b> on its precise antiquity."
+        },
+        {
+          "q": "Consider the following statements: 1. Bagor in Rajasthan shows a long cultural sequence with microliths persisting alongside later cultural phases. 2. Excavations at Bagor reveal evidence for both hunting-gathering and limited animal domestication (e.g., sheep/goat) among its Mesolithic inhabitants. 3. Bagor has also yielded evidence of Harappan-style seals confirming direct political control by the Indus cities. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct — Bagor shows a long microlithic sequence with evidence of limited animal domestication. Statement 3 is false, as there is <b>no evidence of Harappan seals or political control</b> at Bagor."
+        },
+        {
+          "q": "Consider the following statements: 1. The use of natural mineral pigments in rock paintings, being relatively stable, has allowed some images to survive for thousands of years. 2. The exact absolute dating of most Indian rock paintings remains difficult since direct scientific dating methods are not easily applicable to the pigments used. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the durability of <b>natural mineral pigments</b> explains their survival, while the difficulty of directly dating such pigments makes absolute chronology of rock art challenging, relying instead on relative methods like superimposition and stylistic comparison."
+        },
+        {
+          "q": "Consider the following statements: 1. The absence of Harappan-style planned architecture at rural Chalcolithic sites is sometimes cited as evidence that these cultures developed independently rather than as mere peripheries of the Indus civilization. 2. However, some Chalcolithic cultures overlapped chronologically and geographically with the late/declining phase of the Harappan civilization, suggesting possible contact or interaction. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct and reflect nuanced historical interpretation — the lack of Harappan-style planning supports <b>independent regional development</b>, while chronological/geographic overlap with the <b>declining Harappan phase</b> suggests some cultures may have had peripheral contact."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_post_mauryan_period",
+    "title": "Post-Mauryan Period",
+    "desc": "Indo-Greeks, Kushans, Satavahanas and Sangam Age",
+    "questions": {
+      "basic": [
+        {
+          "q": "Menander (Milinda), the most famous Indo-Greek king, is chiefly remembered for his dialogue with the Buddhist monk:",
+          "o": [
+            "Nagasena",
+            "Vasumitra",
+            "Ashvaghosha",
+            "Nagarjuna"
+          ],
+          "a": 0,
+          "e": "King <b>Menander (Milinda)</b> engaged in a philosophical dialogue on Buddhism with the monk <b>Nagasena</b>, recorded in the text <b>'Milinda Panho' (Questions of Milinda)</b>."
+        },
+        {
+          "q": "The Kushan king most famous for patronising Buddhism and convening a great Buddhist Council was:",
+          "o": [
+            "Kadphises I",
+            "Kanishka",
+            "Vima Kadphises",
+            "Huvishka"
+          ],
+          "a": 1,
+          "e": "<b>Kanishka</b>, the most celebrated Kushan ruler, patronised Buddhism and convened the <b>Fourth Buddhist Council</b>, generally held at Kundalvana in Kashmir."
+        },
+        {
+          "q": "The Fourth Buddhist Council, convened under Kanishka's patronage, is traditionally associated with which school of Buddhism gaining prominence?",
+          "o": [
+            "Theravada",
+            "Mahayana",
+            "Vajrayana",
+            "Hinayana orthodoxy"
+          ],
+          "a": 1,
+          "e": "The Fourth Buddhist Council under <b>Kanishka</b> is closely linked with the consolidation and spread of <b>Mahayana Buddhism</b>."
+        },
+        {
+          "q": "The school of art that developed under the Kushans, blending Greco-Roman artistic techniques with Buddhist themes, is called the:",
+          "o": [
+            "Mathura school",
+            "Gandhara school",
+            "Sarnath school",
+            "Amaravati school"
+          ],
+          "a": 1,
+          "e": "The <b>Gandhara school of art</b>, flourishing in the northwest under Kushan patronage, is known for its synthesis of <b>Greco-Roman (Hellenistic) style</b> with Buddhist iconography, including the first Buddha images with realistic drapery."
+        },
+        {
+          "q": "The Mathura school of art, contemporaneous with the Gandhara school, developed indigenously and is known for using which type of stone?",
+          "o": [
+            "Black basalt",
+            "Red sandstone",
+            "White marble",
+            "Grey schist"
+          ],
+          "a": 1,
+          "e": "The <b>Mathura school of art</b> is characterized by the use of spotted <b>red sandstone</b>, and its style is considered largely indigenous in origin."
+        },
+        {
+          "q": "The Kushan empire's control over Central Asian trade routes made it a key link in which major ancient trade network?",
+          "o": [
+            "Spice Route",
+            "Silk Route",
+            "Amber Route",
+            "Incense Route"
+          ],
+          "a": 1,
+          "e": "The Kushans controlled significant portions of the <b>Silk Route</b>, connecting China, Central Asia, India, and the Roman world, facilitating extensive trade."
+        },
+        {
+          "q": "Which Satavahana ruler is most celebrated for his victories, including the defeat of the Shaka ruler Nahapana, as recorded in the Nasik inscription of his mother Gautami Balashri?",
+          "o": [
+            "Simuka",
+            "Gautamiputra Satakarni",
+            "Vashishtiputra Pulumavi",
+            "Hala"
+          ],
+          "a": 1,
+          "e": "<b>Gautamiputra Satakarni</b>, one of the greatest Satavahana kings, is praised in the <b>Nasik prashasti</b> inscribed by his mother <b>Gautami Balashri</b> for his military achievements, including defeating the Shaka ruler <b>Nahapana</b>."
+        },
+        {
+          "q": "The Satavahana kingdom was primarily centred in which region of India?",
+          "o": [
+            "Bengal",
+            "Deccan",
+            "Punjab",
+            "Kashmir"
+          ],
+          "a": 1,
+          "e": "The <b>Satavahanas</b> ruled over large parts of the <b>Deccan</b> (and parts of central India), with their power base originally in the region around present-day Maharashtra/Andhra Pradesh."
+        },
+        {
+          "q": "The Satavahanas are known to have carried on significant maritime trade with which ancient power to their west?",
+          "o": [
+            "China",
+            "The Roman Empire",
+            "The Parthians only",
+            "The Huns"
+          ],
+          "a": 1,
+          "e": "The <b>Satavahanas</b> engaged in extensive maritime trade with the <b>Roman Empire</b>, exporting spices, textiles, and gems via western coastal ports."
+        },
+        {
+          "q": "The Sangam Age refers to a period of ancient Tamil history associated with assemblies of poets known as 'Sangams', held mainly under the patronage of which dynasty?",
+          "o": [
+            "Cholas",
+            "Pandyas",
+            "Cheras",
+            "Pallavas"
+          ],
+          "a": 1,
+          "e": "The <b>Sangams</b> (assemblies of poets) were traditionally patronised by the <b>Pandya</b> kings at their capital Madurai."
+        },
+        {
+          "q": "Which three ruling dynasties are traditionally associated with the Sangam Age in far south India?",
+          "o": [
+            "Cheras, Cholas, Pandyas",
+            "Pallavas, Chalukyas, Cholas",
+            "Cholas, Rashtrakutas, Pandyas",
+            "Cheras, Pallavas, Pandyas"
+          ],
+          "a": 0,
+          "e": "The Sangam Age is associated with three ruling dynasties: the <b>Cheras</b> (Kerala region), the <b>Cholas</b> (Kaveri delta), and the <b>Pandyas</b> (Madurai region)."
+        },
+        {
+          "q": "The famous Sangam-era text 'Tirukkural', dealing with ethics, polity, and love, is attributed to:",
+          "o": [
+            "Ilango Adigal",
+            "Thiruvalluvar",
+            "Nakkirar",
+            "Mamulanar"
+          ],
+          "a": 1,
+          "e": "The <b>Tirukkural</b>, a celebrated work on ethics (aram), polity (porul), and love (inbam), is traditionally attributed to the poet-saint <b>Thiruvalluvar</b>."
+        },
+        {
+          "q": "The Sangam epic 'Silappadikaram', centred on the story of Kannagi, was composed by:",
+          "o": [
+            "Ilango Adigal",
+            "Sattanar",
+            "Thiruvalluvar",
+            "Mamulanar"
+          ],
+          "a": 0,
+          "e": "The <b>Silappadikaram</b> ('The Tale of an Anklet'), one of the 'five great epics' of Tamil literature, was composed by <b>Ilango Adigal</b>."
+        },
+        {
+          "q": "The Shakas (Indo-Scythians), who established themselves in western India after the decline of Indo-Greek power, are best known for introducing which era?",
+          "o": [
+            "Vikrama era",
+            "Shaka era",
+            "Gupta era",
+            "Kali era"
+          ],
+          "a": 1,
+          "e": "The Shaka rulers are credited with founding the <b>Shaka era (78 CE)</b>, which was later adopted by the Government of India as the basis of the Indian national calendar."
+        },
+        {
+          "q": "The Kushan ruler Kadphises I is generally regarded as the founder of which dynasty in India?",
+          "o": [
+            "The Kushan dynasty in India",
+            "The Shaka dynasty",
+            "The Satavahana dynasty",
+            "The Indo-Greek dynasty"
+          ],
+          "a": 0,
+          "e": "<b>Kadphises I (Kujula Kadphises)</b> is generally credited with founding <b>Kushan rule</b> in India by unifying the Yuezhi tribes and expanding into the northwest."
+        },
+        {
+          "q": "Which Kushan ruler is most closely associated with issuing a large number of gold coins depicting various deities, reflecting the empire's religious diversity?",
+          "o": [
+            "Kanishka",
+            "Vima Kadphises",
+            "Huvishka",
+            "Vasudeva"
+          ],
+          "a": 0,
+          "e": "<b>Kanishka's</b> coinage featured a striking diversity of deities — Greek, Iranian, and Indian — reflecting the cosmopolitan and syncretic religious environment of the Kushan empire."
+        },
+        {
+          "q": "Muziris, a famous ancient port frequently mentioned in the context of Roman trade with the Sangam-era Tamil kingdoms, was located under the control of which dynasty?",
+          "o": [
+            "Pandyas",
+            "Cholas",
+            "Cheras",
+            "Pallavas"
+          ],
+          "a": 2,
+          "e": "<b>Muziris</b>, a key port for Indo-Roman trade, lay within the territory controlled by the <b>Chera</b> dynasty on the Malabar coast."
+        },
+        {
+          "q": "The Indo-Greek rulers introduced which practice in Indian numismatics that became a lasting influence on subsequent coinage?",
+          "o": [
+            "Punch-marked coins with no images",
+            "Coins bearing the ruler's portrait and bilingual legends",
+            "Cowrie shells as currency",
+            "Coins made purely of iron"
+          ],
+          "a": 1,
+          "e": "The <b>Indo-Greeks</b> introduced coins bearing the <b>ruler's portrait along with bilingual (Greek and Kharosthi/Brahmi) legends</b>, a practice that influenced later Indian coinage."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements: 1. Menander's capital is traditionally identified as Sakala (modern Sialkot). 2. The 'Milinda Panho' records a dialogue on Buddhist philosophy between Menander and the monk Nagasena. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. Menander's capital is traditionally placed at <b>Sakala</b>, and the <b>Milinda Panho</b> records his philosophical dialogue with <b>Nagasena</b>."
+        },
+        {
+          "q": "Consider the following statements regarding the Gandhara school of art: 1. It developed largely under Kushan patronage in the northwestern region of the subcontinent. 2. It is characterized by strong Hellenistic (Greco-Roman) influence, including realistic drapery and wavy hair on Buddha images. 3. It exclusively used red sandstone as its primary medium. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false, as Gandhara art typically used <b>grey/bluish schist and stone</b>, not red sandstone, which is characteristic of the <b>Mathura school</b> instead."
+        },
+        {
+          "q": "Consider the following statements: 1. The Mathura school of art is considered a largely indigenous artistic tradition. 2. Mathura artists also produced Jaina and Brahmanical images in addition to Buddhist ones. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Mathura school</b> was indigenous in style and produced images across <b>Buddhist, Jaina, and Brahmanical</b> traditions."
+        },
+        {
+          "q": "Consider the following statements about Gautamiputra Satakarni: 1. He is credited with defeating the Shaka ruler Nahapana and reviving Satavahana fortunes. 2. His achievements are recorded in an inscription issued in the name of his mother, Gautami Balashri. 3. He adopted the title 'Ekabrahmana' claiming unique brahmanical lineage among kings. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are broadly correct based on the <b>Nasik prashasti</b> inscription, which credits <b>Gautamiputra Satakarni</b> with defeating Nahapana and claims for him a unique brahmanical status among kings."
+        },
+        {
+          "q": "Consider the following statements: 1. The Satavahanas issued coins primarily in lead, alongside some in copper and rarely silver/potin. 2. Satavahana inscriptions are found predominantly in the Brahmi script and Prakrit language. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Satavahana coinage notably used <b>lead</b> (unusual among ancient Indian dynasties), and their inscriptions were mostly in <b>Prakrit written in Brahmi script</b>."
+        },
+        {
+          "q": "Which of the following statements about the Sangam Age polity is/are correct? 1. The 'Muvendar' refers collectively to the three ruling lineages — Chera, Chola, and Pandya. 2. Sangam kings were assisted by councils and maintained regular armies with some evidence of a navy. 3. Sangam-era Tamil kingdoms had no contact whatsoever with northern Indian polities.",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — there is evidence of interaction between the Sangam Tamil kingdoms and northern polities, including references to Mauryan trade/political contacts."
+        },
+        {
+          "q": "Consider the following statements: 1. Kanishka's era, sometimes identified with 78 CE, may be the basis of the Shaka era. 2. Some historians instead attribute the Shaka era's founding to the Western Kshatrapa Shaka rulers rather than Kanishka. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements reflect genuine historiographical debate — while the <b>Shaka era of 78 CE</b> is popularly linked to Kanishka's accession, some scholars attribute its origin to the <b>Western Kshatrapa Shaka rulers</b> instead."
+        },
+        {
+          "q": "Consider the following statements regarding Sangam literature: 1. The 'Ettuthogai' and 'Pattupattu' are among the important anthologies of Sangam poetry. 2. Sangam poetry is broadly classified into 'Aham' (love/interior themes) and 'Puram' (war/exterior themes). Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. The <b>Ettuthogai (Eight Anthologies)</b> and <b>Pattupattu (Ten Idylls)</b> are key Sangam collections, classified thematically into <b>Aham</b> and <b>Puram</b> poetry."
+        },
+        {
+          "q": "Consider the following statements: 1. The Shakas established several regional seats of power in India, including Kshatrapas at Mathura and Western India. 2. Rudradaman I, a notable Western Kshatrapa ruler, is known for the Junagadh rock inscription mentioning repair of the Sudarshana lake. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct. Shaka <b>Kshatrapas</b> ruled at Mathura and in western India, and <b>Rudradaman I's Junagadh inscription</b> (the first major inscription in chaste Sanskrit) records repairs to the Sudarshana lake."
+        },
+        {
+          "q": "Consider the following statements: 1. Indo-Greek rule introduced the practice of portrait coinage in the Indian subcontinent. 2. Indo-Greek coins commonly carried bilingual legends in Greek and Kharosthi/Brahmi. 3. No Indo-Greek ruler apart from Menander is known to have embraced or shown interest in Buddhism. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is not established — while Menander is the most famous, evidence such as the <b>Heliodorus pillar</b> (a Greek envoy's devotion to Vaishnavism) also shows Indo-Greek engagement with Indian religions more broadly, so blanket exclusivity to Menander cannot be asserted."
+        },
+        {
+          "q": "Consider the following statements: 1. The Kushan empire, at its height, extended from Central Asia to the Gangetic plains. 2. Kanishka's territories included Purushapura (Peshawar), which served as an important Kushan capital. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Kushan empire</b> spanned from Central Asia to parts of the Gangetic plains, with <b>Purushapura (Peshawar)</b> serving as a major capital under Kanishka."
+        },
+        {
+          "q": "Consider the following statements about the Sangam economy: 1. Agriculture, particularly paddy cultivation in river deltas, formed an important economic base. 2. Trade with the Roman world brought substantial gold and silver coinage into the Tamil region. 3. Guilds and merchant associations played no discernible role in Sangam-era economic activity.",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — Sangam texts and inscriptions indicate the presence of <b>merchant guilds and trade associations</b> in the Tamil region."
+        },
+        {
+          "q": "Consider the following statements: 1. The 'Pattupattu' and 'Ettuthogai' together are sometimes grouped with didactic works like the Tirukkural under the broader corpus of Sangam and post-Sangam literature. 2. The Silappadikaram and Manimekalai are considered among the 'five great epics' of Tamil literature. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the Tirukkural is often studied alongside Sangam poetic anthologies as part of classical Tamil literature, and <b>Silappadikaram</b> and <b>Manimekalai</b> are indeed counted among the <b>five great Tamil epics</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Vashishtiputra Pulumavi, successor of Gautamiputra Satakarni, issued coins showing a ship, indicating maritime trade interests. 2. Satavahana rule saw the excavation and patronage of several Buddhist cave sites, such as at Karle and Nasik. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Pulumavi's ship-type coins</b> point to Satavahana maritime interests, and the dynasty patronised Buddhist cave excavations at sites like <b>Karle and Nasik</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The term 'Yavana' in ancient Indian texts generally referred to Greeks and, later, other foreigners from the west. 2. Indo-Greek rulers are sometimes referred to as 'Yavana' kings in Indian inscriptions and literature. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — '<b>Yavana</b>' originally denoted Greeks (from 'Ionian') and was later extended to other foreigners, and Indo-Greek kings were indeed referred to as Yavana rulers in Indian sources."
+        },
+        {
+          "q": "Consider the following statements: 1. Kanishka's reign is generally dated by most historians to the 1st or 2nd century CE, though exact dating remains debated. 2. Kanishka is credited with patronising Buddhist scholars such as Ashvaghosha and Vasumitra. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Kanishka's exact dates are debated among historians (variously placed in the 1st-2nd century CE), and he patronised scholars like <b>Ashvaghosha</b> and <b>Vasumitra</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Satavahana society and administration show evidence of matrilineal naming customs, as seen in names like 'Gautamiputra' (son of Gautami). 2. This naming convention indicates that the Satavahana political system was fully matriarchal, with women ruling as monarchs. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — the use of the mother's name (metronymic) as in <b>'Gautamiputra'</b> reflects a distinctive naming custom. Statement 2 is incorrect, as this does not mean the polity was matriarchal; kings, not queens, ruled the Satavahana state."
+        },
+        {
+          "q": "Consider the following statements: 1. The 'Periplus of the Erythraean Sea', a Greco-Roman text, provides valuable information on ports and trade goods along the Indian coasts during this period. 2. It mentions ports associated with the Sangam-age Tamil kingdoms, such as Muziris. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Periplus of the Erythraean Sea</b>, a 1st century CE Greco-Roman mariner's guide, describes Indian ports including <b>Muziris</b>, corroborating Sangam-era trade with Rome."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The presence of a Heliodorus pillar at Besnagar, erected by a Greek ambassador in devotion to Vasudeva, suggests that some Indo-Greeks adopted Vaishnavism. 2. This evidence indicates religious syncretism was uncommon among foreign rulers and envoys in post-Mauryan India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — the <b>Heliodorus pillar</b> at Besnagar shows a Greek envoy's devotion to Vasudeva. Statement 2 is incorrect, since this and other evidence (e.g., Kushan syncretic coinage) actually indicate that <b>religious syncretism was fairly common</b> among foreign rulers in this period."
+        },
+        {
+          "q": "Consider the following statements: 1. The Gandhara school's emphasis on realistic human anatomy and drapery reflects its roots in Hellenistic artistic conventions transmitted via Bactria. 2. The Mathura school's Buddha images generally show a thinner drapery clinging to the body, in contrast to Gandhara's heavier, wavy folds. 3. Both schools contributed to the eventual standardisation of Buddha iconography across India. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct and reflect standard art-historical understanding of how <b>Gandhara's Hellenistic realism</b> and <b>Mathura's indigenous style</b> (with thinner, clinging drapery) together shaped later Buddha iconography, including the subsequent Sarnath school."
+        },
+        {
+          "q": "Consider the following statements: 1. The defeat of Nahapana by Gautamiputra Satakarni, as claimed in the Nasik inscription, is corroborated by the overstriking of Nahapana's coins with Satavahana legends. 2. This numismatic evidence is considered strong supporting proof for the historical claims made in the Nasik prashasti. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the discovery of <b>Nahapana's coins restruck with Satavahana legends</b> at Jogalthembi provides strong numismatic corroboration for the inscriptional claim of his defeat by <b>Gautamiputra Satakarni</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The extensive find of Roman gold and silver coin hoards in south India is generally interpreted as evidence of a trade imbalance favourable to the Tamil kingdoms. 2. Roman writers like Pliny the Elder expressed concern over the drain of Roman wealth to India in exchange for luxury goods. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — large hoards of <b>Roman coins</b> in south India indicate a trade surplus for the Tamil kingdoms, and <b>Pliny the Elder</b> famously lamented the outflow of Roman wealth to India for spices, gems, and textiles."
+        },
+        {
+          "q": "Consider the following statements: 1. Kanishka's coinage depicting deities from Greek, Iranian, and Indian pantheons is used by historians to argue for a policy of religious tolerance and syncretism under Kushan rule. 2. This diversity in coinage necessarily proves Kanishka personally practised all these religions simultaneously. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is a valid historical inference. Statement 2 overreaches — diverse deities on coinage reflect <b>administrative and religious inclusivity/tolerance</b> across a diverse empire, not necessarily the ruler's personal simultaneous practice of every religion depicted."
+        },
+        {
+          "q": "Consider the following statements: 1. The 'Milinda Panho' is treated by some scholars purely as a factual historical record with no literary embellishment. 2. Despite being partly a philosophical/literary composition, the text is still considered valuable for reconstructing aspects of Indo-Greek engagement with Buddhism. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect, as the <b>Milinda Panho</b> is a philosophical dialogue with literary elements, not a strict historical record. Statement 2 is correct — despite this, it remains a valuable source for understanding <b>Indo-Greek engagement with Buddhist thought</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The absence of a centralised, uniform currency across the Satavahana realm, given regional variation in coin metals and types, may reflect a degree of administrative decentralisation. 2. Satavahana inscriptions referring to land grants to Brahmanas and Buddhist monks indicate early evidence of religious patronage through land donation in the Deccan. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are plausible historical inferences — regional variation in Satavahana coinage suggests some <b>administrative decentralisation</b>, and their inscriptions record early <b>land grants</b> to Brahmanas and Buddhist establishments in the Deccan."
+        },
+        {
+          "q": "Consider the following statements: 1. The Sangam-age concept of 'Tinai' classified poetic landscapes into five ecological-cum-emotional zones. 2. This classification is used by historians to reconstruct aspects of the region's ecology and associated social/economic activities, such as pastoralism in the 'Mullai' zone. 3. The Tinai system also directly determined the administrative boundaries of the Chera, Chola, and Pandya kingdoms. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct — the <b>Tinai</b> concept classified landscapes (kurinji, mullai, marudam, neital, palai) linked to specific occupations and emotions. Statement 3 is incorrect, as Tinai was a <b>literary-ecological classification</b>, not an administrative/political boundary system."
+        },
+        {
+          "q": "Consider the following statements: 1. The find of Roman-style amphorae and Arretine ware at sites like Arikamedu (near Puducherry) confirms direct Indo-Roman trade contact in the Sangam period. 2. This evidence supports literary references in Sangam poetry to foreign traders ('Yavanas') visiting Tamil ports. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — archaeological finds at <b>Arikamedu</b> (Roman amphorae, Arretine ware) corroborate literary references in Sangam poetry to <b>Yavana</b> traders at Tamil ports, cross-verifying textual and material evidence."
+        },
+        {
+          "q": "Consider the following statements: 1. The rise of the Shakas and Kushans in northwestern India is linked to broader Central Asian nomadic migrations following pressure from the Xiongnu/Hsiung-nu confederacy. 2. This chain of migrations indirectly explains how the Yuezhi, ancestors of the Kushans, were pushed westward and eventually into Bactria and India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct and reflect the broader Central Asian context — pressure from the <b>Xiongnu</b> triggered a chain of migrations pushing the <b>Yuezhi</b> (ancestors of the Kushans) westward into Bactria and eventually India."
+        },
+        {
+          "q": "Consider the following statements: 1. Satavahana inscriptions and Sangam texts both attest to significant maritime trade networks operating independently in the Deccan and far south respectively during the post-Mauryan period. 2. These parallel developments suggest that Indo-Roman trade was a subcontinent-wide phenomenon rather than confined to one region. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — evidence from both the <b>Satavahana Deccan</b> and the <b>Sangam-age Tamil</b> region shows that <b>Indo-Roman maritime trade</b> was a broad, multi-regional phenomenon along India's coasts."
+        },
+        {
+          "q": "Consider the following statements: 1. The use of Prakrit rather than Sanskrit in most early Satavahana inscriptions suggests Sanskrit had not yet become the dominant language of royal epigraphy in the Deccan by this time. 2. The Junagadh inscription of the Shaka ruler Rudradaman I is notable as one of the earliest known long inscriptions composed in polished, chaste Sanskrit. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Satavahana inscriptions were predominantly in <b>Prakrit</b>, while <b>Rudradaman I's Junagadh inscription</b> (c. 150 CE) stands out as an early landmark of chaste Sanskrit prose in Indian epigraphy."
+        },
+        {
+          "q": "Consider the following statements: 1. Some historians interpret the multiplicity of deities on Kushan coinage as primarily aimed at facilitating trade acceptance across diverse populations rather than purely religious motives. 2. This interpretation does not preclude that Kushan rulers also held genuine reverence for multiple faiths. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct and represent complementary, non-contradictory interpretations — coin iconography may have served both <b>practical/economic acceptance</b> across diverse subjects and reflected <b>genuine religious pluralism</b> at the Kushan court."
+        },
+        {
+          "q": "Consider the following statements: 1. The Sangam poems, being largely secular in content compared to much of contemporary Sanskrit literature, provide unusually direct insight into the everyday social and economic life of ancient Tamil society. 2. Sangam literature contains no references at all to kings, warfare, or political events, focusing solely on personal and romantic themes. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct, as Sangam poetry's secular, human-centred content is prized for socio-economic insight. Statement 2 is false, since <b>Puram poetry</b> specifically deals with themes of <b>war, heroism, and kingship</b>, alongside the love-themed Aham poetry."
+        },
+        {
+          "q": "Consider the following statements: 1. The decline of the Satavahana empire eventually led to the rise of successor regional dynasties in the Deccan, including the Vakatakas. 2. The Vakatakas, in turn, are known for their matrimonial alliance with the Gupta dynasty of north India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Vakatakas</b> emerged as a major successor power in the Deccan after Satavahana decline, and famously formed a <b>matrimonial alliance with the Guptas</b> (Prabhavatigupta's marriage to Rudrasena II)."
+        },
+        {
+          "q": "Consider the following statements: 1. The historicity of the traditional 'three Sangams' held over many centuries at Madurai, as described in later commentaries, is accepted uncritically by all modern historians as literal historical fact. 2. Most modern historians treat the surviving Sangam corpus (the 'Third Sangam' literature) as reasonably reflecting society of roughly the early centuries BCE/CE, while treating the legendary accounts of the first two Sangams with caution. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is incorrect — the semi-legendary account of <b>three successive Sangams</b> spanning thousands of years is treated with scholarly caution, not accepted literally. Statement 2 correctly reflects the mainstream historical approach to the surviving corpus."
+        },
+        {
+          "q": "Consider the following statements: 1. Both the Gandhara and Mathura schools of art flourished under Kushan political patronage, yet developed distinct regional stylistic identities. 2. This suggests that political unification under an empire does not necessarily produce complete artistic homogenisation across its territories. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct and offer a sound historical inference — despite shared <b>Kushan patronage</b>, <b>Gandhara</b> and <b>Mathura</b> retained distinct regional artistic identities, showing that political unity did not erase local stylistic traditions."
+        },
+        {
+          "q": "Consider the following statements: 1. The term 'Yavanapriya', found in some Sangam references to items like wine or lamps associated with Yavana traders, indicates cultural and commercial exchange rather than political subjugation by the Yavanas. 2. This suggests interaction between Sangam Tamil kingdoms and western/Mediterranean traders was primarily commercial and cultural in nature. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — references to Yavana goods and traders in Sangam literature point to <b>commercial and cultural exchange</b>, with no evidence of political control by the Yavanas over Tamil kingdoms."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_south_indian_dynasties",
+    "title": "South Indian Dynasties",
+    "desc": "Pallavas, Chalukyas, Rashtrakutas, Cholas and Pandyas",
+    "questions": {
+      "basic": [
+        {
+          "q": "The Pallava dynasty's capital, known for its temples and status as a centre of Sanskrit learning, was:",
+          "o": [
+            "Madurai",
+            "Kanchipuram (Kanchi)",
+            "Tanjavur",
+            "Vatapi"
+          ],
+          "a": 1,
+          "e": "<b>Kanchipuram (Kanchi)</b> served as the capital of the <b>Pallava</b> dynasty and was also a renowned centre of learning."
+        },
+        {
+          "q": "The famous shore temple and rock-cut monuments (including the 'Ratha' temples) at Mahabalipuram were built under the patronage of which dynasty?",
+          "o": [
+            "Cholas",
+            "Pallavas",
+            "Pandyas",
+            "Chalukyas"
+          ],
+          "a": 1,
+          "e": "The <b>Pallavas</b>, particularly under Narasimhavarman I ('Mamalla'), built the rock-cut monuments and Shore Temple at <b>Mahabalipuram</b>."
+        },
+        {
+          "q": "Which Chalukya of Badami ruler is celebrated for his successful resistance against the Harshavardhana's invasion of the Deccan?",
+          "o": [
+            "Pulakeshin I",
+            "Pulakeshin II",
+            "Vikramaditya I",
+            "Kirtivarman I"
+          ],
+          "a": 1,
+          "e": "<b>Pulakeshin II</b> of the Badami Chalukyas famously checked <b>Harshavardhana's</b> southward expansion at the Narmada, as recorded by the Chinese traveller Xuanzang."
+        },
+        {
+          "q": "The group of temples at Aihole, Badami, and Pattadakal, showcasing experimental and mature temple architecture, were built under which dynasty?",
+          "o": [
+            "Rashtrakutas",
+            "Cholas",
+            "Chalukyas of Badami",
+            "Pallavas"
+          ],
+          "a": 2,
+          "e": "The <b>Chalukyas of Badami</b> constructed the temple complexes at <b>Aihole, Badami, and Pattadakal</b>, reflecting a transition and synthesis of Nagara and Dravida architectural styles."
+        },
+        {
+          "q": "The rock-cut Kailasa Temple at Ellora, an engineering marvel carved from a single rock, was constructed under the patronage of which dynasty?",
+          "o": [
+            "Chalukyas",
+            "Rashtrakutas",
+            "Pallavas",
+            "Cholas"
+          ],
+          "a": 1,
+          "e": "The <b>Kailasa Temple</b> at Ellora was constructed under the <b>Rashtrakuta</b> king <b>Krishna I</b>, carved out of a single rock in a remarkable feat of rock-cut architecture."
+        },
+        {
+          "q": "Which Rashtrakuta ruler is generally credited with initiating the construction of the Kailasa Temple at Ellora?",
+          "o": [
+            "Dantidurga",
+            "Krishna I",
+            "Amoghavarsha I",
+            "Govinda III"
+          ],
+          "a": 1,
+          "e": "<b>Krishna I</b> of the Rashtrakuta dynasty is credited with commissioning the monolithic <b>Kailasa Temple</b> at Ellora."
+        },
+        {
+          "q": "The Rashtrakuta dynasty rose to power in the Deccan after overthrowing which earlier ruling dynasty?",
+          "o": [
+            "The Pallavas",
+            "The Chalukyas of Badami",
+            "The Cholas",
+            "The Satavahanas"
+          ],
+          "a": 1,
+          "e": "The <b>Rashtrakutas</b>, under Dantidurga, rose to power by overthrowing the <b>Chalukyas of Badami</b> in the mid-8th century CE."
+        },
+        {
+          "q": "Which Chola ruler is credited with building the Brihadeeswarar Temple at Thanjavur?",
+          "o": [
+            "Rajendra I",
+            "Rajaraja I",
+            "Kulottunga I",
+            "Aditya I"
+          ],
+          "a": 1,
+          "e": "<b>Rajaraja I</b> built the magnificent <b>Brihadeeswarar Temple</b> at Thanjavur, dedicated to Shiva, completed around 1010 CE."
+        },
+        {
+          "q": "Which Chola ruler led a naval expedition to Southeast Asia against the Srivijaya kingdom?",
+          "o": [
+            "Rajaraja I",
+            "Rajendra I",
+            "Vijayalaya",
+            "Kulottunga I"
+          ],
+          "a": 1,
+          "e": "<b>Rajendra I</b> led a famous naval expedition against the <b>Srivijaya</b> kingdom (in present-day Indonesia/Malay region), reflecting Chola naval power."
+        },
+        {
+          "q": "The Uttaramerur inscriptions, providing detailed evidence of village self-governance and assembly elections, belong to which dynasty's period?",
+          "o": [
+            "Pallava",
+            "Chola",
+            "Chalukya",
+            "Pandya"
+          ],
+          "a": 1,
+          "e": "The <b>Uttaramerur inscriptions</b>, dated to the reign of the <b>Chola</b> king Parantaka I, describe detailed procedures for electing members to village assemblies (sabha)."
+        },
+        {
+          "q": "Which Chola king assumed the title 'Gangaikonda Chola' after a successful expedition to the Ganga river region, and built a new capital city commemorating the same?",
+          "o": [
+            "Rajaraja I",
+            "Rajendra I",
+            "Aditya I",
+            "Kulottunga I"
+          ],
+          "a": 1,
+          "e": "<b>Rajendra I</b> led an expedition to north India reaching the Ganga and assumed the title 'Gangaikonda Chola', founding the city of <b>Gangaikonda Cholapuram</b>."
+        },
+        {
+          "q": "The Pandya kingdom, one of the ancient Tamil dynasties that also flourished in the medieval period, had its capital at:",
+          "o": [
+            "Kanchipuram",
+            "Thanjavur",
+            "Madurai",
+            "Vatapi"
+          ],
+          "a": 2,
+          "e": "The <b>Pandya</b> kingdom's capital was <b>Madurai</b>, a major centre of Tamil culture and learning."
+        },
+        {
+          "q": "Village administrative assemblies in Chola territories, dealing with matters relating to villages and their local affairs, were generally called:",
+          "o": [
+            "Ur and Sabha",
+            "Nadu only",
+            "Mandal",
+            "Sangam"
+          ],
+          "a": 0,
+          "e": "Chola village administration involved bodies such as the '<b>Ur</b>' (general village assembly) and '<b>Sabha</b>' (assembly typically of Brahmadeya/agrahara villages)."
+        },
+        {
+          "q": "Which Pallava king is traditionally credited with initiating major rock-cut architecture at Mahabalipuram, earning the title 'Mamalla'?",
+          "o": [
+            "Mahendravarman I",
+            "Narasimhavarman I",
+            "Nandivarman II",
+            "Simhavishnu"
+          ],
+          "a": 1,
+          "e": "<b>Narasimhavarman I</b>, who bore the title '<b>Mamalla</b>' (great wrestler), is credited with major rock-cut work at Mahabalipuram, which is also called Mamallapuram after him."
+        },
+        {
+          "q": "The Aihole inscription, an important source for the reign of Pulakeshin II, was composed by which court poet?",
+          "o": [
+            "Ravikirti",
+            "Dandin",
+            "Bilhana",
+            "Kalhana"
+          ],
+          "a": 0,
+          "e": "The <b>Aihole inscription</b>, composed by the poet <b>Ravikirti</b>, records the achievements of the Chalukya king <b>Pulakeshin II</b>."
+        },
+        {
+          "q": "Which Rashtrakuta ruler is known for his patronage of Jainism and for authorship (attributed) of a Kannada literary work?",
+          "o": [
+            "Dantidurga",
+            "Amoghavarsha I",
+            "Krishna I",
+            "Govinda III"
+          ],
+          "a": 1,
+          "e": "<b>Amoghavarsha I</b> patronised Jainism and is traditionally credited with the authorship (or patronage) of the Kannada work '<b>Kavirajamarga</b>'."
+        },
+        {
+          "q": "The famous Nataraja bronze images, epitomising Chola metal-casting artistry, primarily depict which deity?",
+          "o": [
+            "Vishnu",
+            "Shiva as the cosmic dancer",
+            "Brahma",
+            "Murugan"
+          ],
+          "a": 1,
+          "e": "The <b>Chola bronzes</b>, especially the iconic <b>Nataraja</b> images, depict <b>Shiva as the cosmic dancer</b>, representing the cycle of creation and destruction."
+        },
+        {
+          "q": "Which Chola king is traditionally regarded as the founder of Chola imperial power after gaining control of Thanjavur in the 9th century?",
+          "o": [
+            "Vijayalaya",
+            "Aditya I",
+            "Parantaka I",
+            "Rajaraja I"
+          ],
+          "a": 0,
+          "e": "<b>Vijayalaya</b> is regarded as the founder of the imperial Chola line, having captured Thanjavur in the 9th century CE and laid the foundation for later Chola expansion."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements: 1. The Chalukyas of Badami and the Pallavas of Kanchi were frequent rivals contesting supremacy over the Deccan and Tamil regions. 2. Pulakeshin II was ultimately defeated and killed in a conflict with the Pallava king Narasimhavarman I. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Chalukya-Pallava rivalry</b> was persistent, and <b>Pulakeshin II</b> was eventually defeated and killed by <b>Narasimhavarman I</b>, who briefly captured the Chalukya capital Vatapi."
+        },
+        {
+          "q": "Consider the following statements regarding Chola village administration: 1. The Uttaramerur inscriptions describe a system involving the drawing of lots (kudavolai) to select assembly members. 2. Candidates for village committees had certain eligibility criteria, including property ownership and age limits, as per these inscriptions. 3. Women were given equal voting and candidacy rights alongside men in these village assemblies. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct — the <b>kudavolai</b> (lot) system and property/age eligibility criteria are detailed in the Uttaramerur inscriptions. Statement 3 is incorrect, as these assemblies were largely restricted to <b>propertied male members</b>, not open equally to women."
+        },
+        {
+          "q": "Consider the following statements: 1. The Kailasa Temple at Ellora was built using a 'top-down' rock-cutting technique, carving from the top of the rock face downward. 2. This technique required precise planning since errors could not easily be corrected once large portions of rock were removed. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the monolithic <b>Kailasa Temple</b> was carved using a top-down method, demanding meticulous planning as <b>rock removal errors were irreversible</b>."
+        },
+        {
+          "q": "Consider the following statements about the Chola economy and administration: 1. Land revenue was a major source of state income, with detailed land surveys conducted periodically. 2. Guilds of merchants, such as the 'Ainnurruvar', played an active role in facilitating trade, including overseas trade. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Chola administration relied heavily on <b>land revenue with periodic surveys</b>, and merchant guilds like the <b>Ainnurruvar</b> facilitated extensive internal and overseas trade."
+        },
+        {
+          "q": "Consider the following statements: 1. Rajaraja I is credited with the conquest of northern Sri Lanka. 2. Rajendra I extended Chola influence further by launching naval campaigns against Southeast Asian kingdoms including Srivijaya. 3. Both rulers issued no inscriptions detailing their military campaigns. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct regarding the military achievements of <b>Rajaraja I</b> and <b>Rajendra I</b>. Statement 3 is false, as their achievements are extensively documented in numerous <b>Chola inscriptions</b>."
+        },
+        {
+          "q": "Consider the following statements regarding the Pallava dynasty: 1. Mahendravarman I is known for his patronage of rock-cut cave temples and for authoring the Sanskrit satire 'Mattavilasa Prahasana'. 2. The Pallavas patronised both Shaiva and Vaishnava traditions, as well as Sanskrit learning at Kanchi. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Mahendravarman I</b> authored the satirical play <b>Mattavilasa Prahasana</b> and patronised cave temples, while the Pallavas broadly supported <b>Shaiva, Vaishnava, and Sanskrit</b> traditions at Kanchi."
+        },
+        {
+          "q": "Consider the following statements: 1. The Chalukyas of Badami used both Kannada and Sanskrit in their inscriptions. 2. The Pattadakal temple complex shows a blend of Nagara (northern) and Dravida (southern) architectural styles. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Chalukya inscriptions employed both <b>Kannada and Sanskrit</b>, and <b>Pattadakal's temples</b> notably display a synthesis of <b>Nagara and Dravida</b> architectural elements."
+        },
+        {
+          "q": "Which of the following statements regarding the Rashtrakutas is/are correct? 1. Amoghavarsha I's reign is noted for relative political stability and cultural patronage despite earlier military pressures. 2. The Rashtrakutas maintained diplomatic and commercial contact with Arab travellers, some of whom left descriptions of their court. 3. The Rashtrakutas exclusively patronised Vaishnavism and suppressed all other religious traditions.",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false — the Rashtrakutas were notably patrons of <b>multiple traditions including Jainism</b> (e.g., Amoghavarsha I), not exclusively Vaishnavism, and were not marked by religious suppression."
+        },
+        {
+          "q": "Consider the following statements: 1. The Pandya kingdom experienced a period of decline followed by a notable revival around the 13th century under rulers like Jatavarman Sundara Pandya. 2. This later Pandya revival occurred after the decline of Chola imperial power. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Pandyas</b> saw a significant later revival in the 13th century under rulers such as <b>Jatavarman Sundara Pandya</b>, which coincided with the <b>decline of Chola power</b>."
+        },
+        {
+          "q": "Consider the following statements about Chola temple architecture: 1. The Brihadeeswarar Temple at Thanjavur has one of the tallest vimanas (temple towers) among South Indian temples of its time. 2. The temple's construction is associated with extensive endowments of land and resources recorded in inscriptions on its walls. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Brihadeeswarar Temple's vimana</b> is exceptionally tall for its era, and its walls carry extensive inscriptions recording <b>land and resource endowments</b> made to the temple."
+        },
+        {
+          "q": "Consider the following statements: 1. Dantidurga, founder of Rashtrakuta power, initially served as a subordinate of the Chalukyas of Badami before asserting independence. 2. The Rashtrakutas subsequently extended their control over large parts of the Deccan and engaged militarily with both northern (e.g. Pratiharas) and southern powers. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Dantidurga</b> rose from a subordinate position under the <b>Chalukyas</b> to found Rashtrakuta rule, which subsequently engaged in conflicts with northern powers like the <b>Pratiharas</b> and southern rivals."
+        },
+        {
+          "q": "Consider the following statements: 1. The Ratha temples at Mahabalipuram are each named after characters from the Mahabharata, such as the Pandavas and Draupadi. 2. These monolithic 'Rathas' were carved by removing rock from a single boulder, rather than being constructed with assembled stone blocks. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Pancha Rathas</b> at Mahabalipuram are popularly named after the <b>Pandavas and Draupadi</b>, and each was carved monolithically from single rock outcrops."
+        },
+        {
+          "q": "Consider the following statements: 1. Chola naval expansion facilitated and protected maritime trade routes to Southeast Asia. 2. Chola contact with Southeast Asia is corroborated by inscriptions found in places like Sumatra referencing trade privileges granted by Chola kings. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Chola <b>naval power</b> helped secure maritime trade, and inscriptions such as the <b>Tanjore/Leiden grants</b> corroborate Chola links with Southeast Asian polities like Srivijaya."
+        },
+        {
+          "q": "Consider the following statements regarding the Pallava-Chalukya conflicts: 1. Narasimhavarman I's forces are recorded to have captured the Chalukya capital of Vatapi (Badami). 2. This event earned Narasimhavarman I the title 'Vatapikonda'. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Narasimhavarman I</b> captured Vatapi and subsequently assumed the title '<b>Vatapikonda</b>' (conqueror of Vatapi)."
+        },
+        {
+          "q": "Consider the following statements: 1. The Chola administrative system was organised into units such as mandalams, valanadus, nadus, and villages (urs). 2. This hierarchical structure suggests a fairly elaborate and systematised revenue and administrative apparatus. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the Cholas maintained a layered administrative hierarchy (<b>mandalam, valanadu, nadu, ur</b>), reflecting a sophisticated and systematic administrative structure."
+        },
+        {
+          "q": "Consider the following statements: 1. Amoghavarsha I of the Rashtrakutas is described in some Arab accounts as among the great rulers of the contemporary world. 2. He is also credited with relocating the Rashtrakuta capital to Manyakheta (Malkhed). Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Arab traveller accounts (e.g., Sulaiman) praised <b>Amoghavarsha I</b> among the world's great rulers, and he is credited with establishing <b>Manyakheta</b> as the Rashtrakuta capital."
+        },
+        {
+          "q": "Consider the following statements about the Pandya kingdom: 1. It is mentioned in Sangam literature as one of the three ancient Tamil dynasties. 2. It experienced a distinct political resurgence in the medieval period after centuries of relative obscurity following the Sangam Age. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Pandyas</b> are a Sangam-age dynasty and also experienced a notable medieval revival, especially from the 13th century onward."
+        },
+        {
+          "q": "Consider the following statements: 1. Rajaraja I is known to have conducted a land survey aimed at systematising revenue assessment across his empire. 2. He also constructed the Brihadeeswarar Temple partly as an assertion of imperial power and divine kingship. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Rajaraja I</b> is credited with a systematic <b>land revenue survey</b>, and the <b>Brihadeeswarar Temple</b> is widely interpreted as both a religious and a political statement of Chola imperial authority."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The Aihole inscription's description of Pulakeshin II's victory over Harshavardhana is corroborated to some extent by the account of the Chinese pilgrim Xuanzang. 2. Xuanzang's account explicitly names the battle site and confirms a decisive, complete destruction of Harsha's entire army. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct, as <b>Xuanzang's</b> account broadly supports the idea that Harsha could not subdue the Deccan. Statement 2 overstates the evidence, as Xuanzang's account does not provide such precise, exhaustive battlefield detail."
+        },
+        {
+          "q": "Consider the following statements: 1. The rock-cut Kailasa Temple, unlike constructed structural temples, was created by subtractive carving rather than additive building techniques. 2. This subtractive method means that once material was removed, mistakes could not be corrected by adding material back, unlike in structural masonry construction. 3. Despite being rock-cut, the Kailasa Temple's design still replicates the appearance of a free-standing structural temple complex. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct — the <b>Kailasa Temple</b> was carved subtractively (unlike additive masonry), errors were irreversible, and yet it was designed to visually mimic a <b>free-standing structural temple</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The Uttaramerur inscriptions reveal disqualification criteria for village assembly candidates, including those who had not submitted accounts properly for previous positions held. 2. This suggests a concern for accountability and prevention of corruption in local self-government under the Cholas. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Uttaramerur</b> disqualification criteria (e.g., for unaccounted funds) reflect an early institutional concern for <b>accountability and anti-corruption</b> in village self-governance."
+        },
+        {
+          "q": "Consider the following statements: 1. The extensive network of Chola inscriptions on temple walls served not only religious purposes but also as durable public records of land grants, administrative orders, and local assembly proceedings. 2. This practice makes temple epigraphy one of the richest sources for reconstructing Chola socio-economic and administrative history. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Chola temple inscriptions functioned as durable public records, making them an invaluable and rich source for reconstructing <b>Chola administrative and socio-economic history</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The defeat and death of Pulakeshin II is generally linked to a temporary eclipse of Chalukya power in the Deccan. 2. Chalukya power was permanently extinguished after this defeat, with no subsequent revival under this dynasty. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is incorrect, as Chalukya power was <b>later revived</b> by Vikramaditya I, Pulakeshin II's son, who recovered Vatapi and restored the dynasty's fortunes."
+        },
+        {
+          "q": "Consider the following statements: 1. Rajendra I's northern campaign reaching the Ganga was primarily a symbolic assertion of paramountcy rather than an attempt at permanent territorial annexation of the Gangetic region. 2. The founding of Gangaikonda Cholapuram as a new capital commemorated this campaign's prestige value. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Rajendra I's Ganga expedition is generally understood as a <b>prestige-asserting campaign</b> rather than a bid for permanent northern annexation, commemorated through the new capital <b>Gangaikonda Cholapuram</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The stylistic evolution visible across Aihole, Badami, and Pattadakal temples reflects the Chalukyas' experimentation with both Nagara and Dravida idioms before broader regional consolidation of styles. 2. Some structures at these sites, such as certain Aihole temples, are considered transitional or experimental forms rather than fully mature examples of either style. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct and reflect standard art-historical assessment — the <b>Chalukya temple sites</b> show experimental, transitional architectural forms that later matured into more standardised regional styles."
+        },
+        {
+          "q": "Consider the following statements: 1. Chola bronze-casting used the 'lost-wax' (cire perdue) technique, in which a wax model is coated in clay and the wax melted out before molten metal is poured in. 2. Because each mould is destroyed in the process, every Chola bronze produced this way is technically a unique, non-identical casting. 3. This technique was invented for the first time by Chola artisans and had no precedent elsewhere in the ancient world. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 correctly describe the <b>lost-wax (cire perdue) technique</b> and its implication of unique castings. Statement 3 is false, as the lost-wax method was <b>known in various ancient civilizations</b> well before the Cholas and was not their unique invention."
+        },
+        {
+          "q": "Consider the following statements: 1. Sea-borne Chola military campaigns against Srivijaya are best explained solely by religious motives of spreading Hinduism/Buddhism abroad. 2. Most historians instead emphasise economic motives, such as control over lucrative maritime trade routes through the Malacca Strait, as the primary driver. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 1,
+          "e": "Statement 1 is generally rejected by historians as an insufficient explanation. Statement 2 correctly reflects the mainstream view that <b>economic and strategic control of trade routes</b> (e.g., the Malacca Strait) primarily motivated the Chola expedition against Srivijaya."
+        },
+        {
+          "q": "Consider the following statements: 1. The presence of similar rock-cut cave architecture traditions among the Pallavas and other contemporary dynasties suggests some degree of shared artistic and religious idioms across post-Gupta South India. 2. Nonetheless, each dynasty developed distinguishable regional features, such as the distinctive Pallava 'Mamalla style' rathas. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — while there were shared broader artistic idioms across post-Gupta South India, the <b>Pallavas</b> developed a distinctive regional style, as seen in the <b>Mamalla-style rathas</b> at Mahabalipuram."
+        },
+        {
+          "q": "Consider the following statements: 1. Amoghavarsha I's long and relatively peaceful reign, compared to some predecessors, allowed greater investment in religious and literary patronage. 2. This is sometimes cited by historians as evidence that periods of reduced external conflict can correlate with cultural flourishing within a dynasty. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Amoghavarsha I's</b> comparatively stable reign is associated with notable cultural and literary patronage, illustrating a broader historical pattern linking reduced conflict with <b>cultural flourishing</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The transition of the Rashtrakuta capital and consolidation under Manyakheta reflects a shift of political gravity within the Deccan compared to the earlier Chalukya centre at Vatapi. 2. This shift did not significantly affect Rashtrakuta engagement with northern Indian powers, as evidenced by continued conflicts with the Pratiharas and Palas over Kannauj. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the shift to <b>Manyakheta</b> represented a change in the Deccan's political centre, but the Rashtrakutas remained actively engaged in the <b>tripartite struggle for Kannauj</b> with the Pratiharas and Palas."
+        },
+        {
+          "q": "Consider the following statements: 1. The 'kudavolai' system described in Uttaramerur inscriptions involved names being written on palm-leaf tickets placed in a pot, from which a young boy would draw the winners. 2. This method is cited by some historians as evidence of an early rudimentary form of democratic practice, albeit within a restricted, propertied electorate. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>kudavolai</b> (pot of tickets) lottery method is well described in the inscriptions, and while restricted to eligible, propertied members, it is often cited as an early example of <b>participatory local governance</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The comparative decline of the Pandyas during the peak of Chola imperial power (10th-11th centuries) suggests that Chola dominance directly suppressed Pandya political assertion during this period. 2. The subsequent Pandya revival after Chola decline supports the inference that Chola hegemony had constrained Pandya ambitions rather than the Pandyas lacking capability altogether. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements represent a reasonable historical inference — the <b>Pandya resurgence</b> following the Chola decline supports the view that earlier <b>Chola hegemony</b> had constrained rather than permanently eliminated Pandya political capacity."
+        },
+        {
+          "q": "Consider the following statements: 1. Mahendravarman I's authorship of 'Mattavilasa Prahasana', a satire targeting religious hypocrisy among certain ascetic sects, indicates a degree of literary sophistication and religious plurality at the Pallava court. 2. This suggests Pallava royal patronage was not confined strictly to devotional or purely religious literature. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Mahendravarman I's satirical work</b> reflects both literary sophistication and a plural religious milieu, showing that Pallava patronage extended beyond purely devotional literature."
+        },
+        {
+          "q": "Consider the following statements: 1. The Leiden copper plates (Chola-era grants referencing Southeast Asian temple endowments) indicate diplomatic and religious ties between the Cholas and Srivijaya predating the naval conflict under Rajendra I. 2. This suggests that Chola-Srivijaya relations were not uniformly hostile throughout their history, having also included cooperative or diplomatic phases. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Leiden grants</b> point to earlier cooperative/diplomatic ties between the Cholas and Srivijaya, indicating relations were <b>not uniformly hostile</b> despite the later naval conflict under Rajendra I."
+        },
+        {
+          "q": "Consider the following statements: 1. The presence of both structural and rock-cut temple traditions under the Pallavas indicates a period of architectural experimentation preceding the fully evolved Dravida temple style seen later under the Cholas. 2. The Cholas' Brihadeeswarar Temple can be seen as a culmination of architectural developments that trace back partly to earlier Pallava innovations. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct and reflect the standard architectural-historical narrative — <b>Pallava experimentation</b> with rock-cut and structural forms laid groundwork that the <b>Cholas</b> built upon, culminating in mature Dravida temples like the Brihadeeswarar Temple."
+        },
+        {
+          "q": "Consider the following statements: 1. Vikramaditya I's recovery of Vatapi from Pallava control demonstrates that Chalukya-Pallava conflicts were characterised by fluctuating fortunes rather than a permanent, one-sided outcome. 2. This pattern of alternating gains and losses is typical of many regional power struggles in early medieval South India, rather than being unique to the Chalukya-Pallava rivalry. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Vikramaditya I's</b> recovery of Vatapi shows the fluctuating nature of the Chalukya-Pallava rivalry, a pattern of alternating fortunes seen widely across <b>early medieval South Indian regional conflicts</b>."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist_ancient_art_architecture",
+    "title": "Art & Architecture of Ancient India",
+    "desc": "Stupas, caves, sculpture schools and Ashokan pillars",
+    "questions": {
+      "basic": [
+        {
+          "q": "The Great Stupa at Sanchi, one of the oldest stone structures in India, was originally commissioned under which ruler?",
+          "o": [
+            "Chandragupta Maurya",
+            "Ashoka",
+            "Kanishka",
+            "Samudragupta"
+          ],
+          "a": 1,
+          "e": "The core of the <b>Great Stupa at Sanchi</b> was originally built under <b>Ashoka</b> in the 3rd century BCE, later enlarged with additions including the famous gateways (toranas)."
+        },
+        {
+          "q": "The elaborately carved gateways at Sanchi Stupa, depicting Jataka tales and symbols of the Buddha, are known as:",
+          "o": [
+            "Toranas",
+            "Chaityas",
+            "Viharas",
+            "Stambhas"
+          ],
+          "a": 0,
+          "e": "The four ornately carved gateways at Sanchi are called '<b>Toranas</b>', added around the 1st century BCE, depicting Jataka stories and symbolic (aniconic) representations of the Buddha."
+        },
+        {
+          "q": "The Amaravati Stupa, known for its distinctive marble/limestone relief sculptures, was patronised primarily under which dynasty?",
+          "o": [
+            "Mauryas",
+            "Kushans",
+            "Satavahanas",
+            "Guptas"
+          ],
+          "a": 2,
+          "e": "The <b>Amaravati Stupa</b> in Andhra Pradesh flourished mainly under <b>Satavahana</b> patronage, known for its distinctive white limestone/marble carvings."
+        },
+        {
+          "q": "The rock-cut cave complex famous for its Buddhist mural paintings depicting Jataka tales is:",
+          "o": [
+            "Ellora",
+            "Ajanta",
+            "Elephanta",
+            "Badami"
+          ],
+          "a": 1,
+          "e": "<b>Ajanta caves</b> in Maharashtra are world-renowned for their Buddhist <b>mural paintings</b> depicting Jataka tales and scenes from the Buddha's life."
+        },
+        {
+          "q": "The rock-cut cave complex at Ellora contains temples belonging to which religious traditions?",
+          "o": [
+            "Only Buddhism",
+            "Buddhism, Hinduism, and Jainism",
+            "Only Hinduism",
+            "Only Jainism"
+          ],
+          "a": 1,
+          "e": "<b>Ellora</b> is unique for housing rock-cut caves representing <b>Buddhist, Hindu, and Jain</b> traditions side by side, reflecting religious coexistence."
+        },
+        {
+          "q": "The chaitya hall at Karle, one of the largest and finest rock-cut Buddhist prayer halls in India, was built primarily under patronage associated with which period?",
+          "o": [
+            "Mauryan period",
+            "Satavahana period",
+            "Gupta period",
+            "Chola period"
+          ],
+          "a": 1,
+          "e": "The great <b>chaitya hall at Karle</b> was excavated mainly during the <b>Satavahana</b> period, and is renowned for its scale and well-preserved architectural details."
+        },
+        {
+          "q": "A 'chaitya' in ancient Indian rock-cut architecture generally refers to a:",
+          "o": [
+            "Monastic residence for monks",
+            "Prayer hall, often housing a stupa",
+            "Royal palace",
+            "Watchtower"
+          ],
+          "a": 1,
+          "e": "A '<b>chaitya</b>' is a prayer/assembly hall, typically with an apsidal end housing a <b>stupa</b>, used for congregational worship by monks and laity."
+        },
+        {
+          "q": "A 'vihara' in the context of ancient Buddhist rock-cut architecture refers to a:",
+          "o": [
+            "Monastery or residence for monks",
+            "Prayer hall with a stupa",
+            "Royal audience hall",
+            "Funerary mound"
+          ],
+          "a": 0,
+          "e": "A '<b>vihara</b>' is a monastic residential complex where Buddhist monks lived and studied, often adjoining chaitya halls."
+        },
+        {
+          "q": "The Gandhara school of sculpture is particularly noted for its blending of Buddhist themes with which foreign artistic influence?",
+          "o": [
+            "Persian",
+            "Greco-Roman (Hellenistic)",
+            "Chinese",
+            "Egyptian"
+          ],
+          "a": 1,
+          "e": "The <b>Gandhara school</b> is distinguished by its fusion of Buddhist subject matter with <b>Hellenistic (Greco-Roman)</b> artistic conventions, such as realistic drapery and facial features."
+        },
+        {
+          "q": "The Mathura school of sculpture is primarily associated with the use of which material?",
+          "o": [
+            "Grey schist",
+            "Spotted red sandstone",
+            "White marble",
+            "Black basalt"
+          ],
+          "a": 1,
+          "e": "The <b>Mathura school</b> characteristically used <b>spotted red sandstone</b>, quarried locally, for its sculptures."
+        },
+        {
+          "q": "The Sarnath school of sculpture, which developed under Gupta patronage, is known for Buddha images characterised by:",
+          "o": [
+            "Heavy Hellenistic drapery folds",
+            "Transparent, minimal drapery clinging to the body",
+            "Absence of any halo (prabhamandala)",
+            "Exclusively standing postures"
+          ],
+          "a": 1,
+          "e": "The <b>Sarnath school</b> Buddha images are noted for their <b>transparent, understated drapery</b> that closely follows the body's contours, along with an elaborately decorated halo."
+        },
+        {
+          "q": "The lion capital atop the Ashokan pillar at Sarnath, adopted as India's national emblem, originally symbolised:",
+          "o": [
+            "Ashoka's military conquests",
+            "The Buddha's first sermon (Dharmachakra pravartana)",
+            "The Mauryan capital city",
+            "Trade guild insignia"
+          ],
+          "a": 1,
+          "e": "The <b>Sarnath lion capital</b> commemorates the site of the Buddha's <b>first sermon</b> at Sarnath, and features four lions back-to-back atop a wheel (dharmachakra) motif."
+        },
+        {
+          "q": "Ashokan pillars are generally topped with animal capitals and are known for which distinctive surface finish?",
+          "o": [
+            "Rough, unpolished stone surface",
+            "A high mirror-like polish (often called 'Mauryan polish')",
+            "Painted terracotta coating",
+            "Gold plating"
+          ],
+          "a": 1,
+          "e": "Ashokan pillars are famous for their distinctive high <b>mirror-like polish</b>, sometimes called '<b>Mauryan polish</b>', achieved on sandstone."
+        },
+        {
+          "q": "Which of the following is one of the 'five great epics (Aim perum kappiyangal)' of classical Tamil literature?",
+          "o": [
+            "Silappadikaram",
+            "Ramayana",
+            "Mahabharata",
+            "Raghuvamsha"
+          ],
+          "a": 0,
+          "e": "<b>Silappadikaram</b> is counted among the '<b>five great epics</b>' of classical Tamil literature, alongside Manimekalai, Civaka Cintamani, Valayapathi, and Kundalakesi."
+        },
+        {
+          "q": "Kalidasa, celebrated for works such as 'Abhijnanashakuntalam' and 'Meghaduta', is considered a leading figure of classical:",
+          "o": [
+            "Prakrit prose",
+            "Sanskrit literature",
+            "Tamil Sangam poetry",
+            "Pali Buddhist texts"
+          ],
+          "a": 1,
+          "e": "<b>Kalidasa</b> is one of the greatest poets and dramatists of classical <b>Sanskrit literature</b>, associated with the Gupta period."
+        },
+        {
+          "q": "The 'Puranas', a genre of ancient Indian texts dealing with mythology, genealogies of kings, and cosmology, were composed primarily in which language?",
+          "o": [
+            "Pali",
+            "Sanskrit",
+            "Tamil",
+            "Prakrit"
+          ],
+          "a": 1,
+          "e": "The <b>Puranas</b>, encyclopaedic texts covering mythology, cosmology, and royal genealogies, were composed in <b>Sanskrit</b>."
+        },
+        {
+          "q": "The stupa as a Buddhist architectural form primarily served the function of:",
+          "o": [
+            "A royal residence",
+            "A funerary/reliquary mound enshrining relics",
+            "A marketplace",
+            "A defensive fort"
+          ],
+          "a": 1,
+          "e": "A '<b>stupa</b>' is fundamentally a domed funerary or reliquary structure built to enshrine relics of the <b>Buddha or other revered figures</b>, and later became an object of veneration."
+        },
+        {
+          "q": "The practice of aniconic representation of the Buddha (using symbols like the wheel, footprints, or empty throne instead of a human figure) is generally associated with which early phase of Buddhist art?",
+          "o": [
+            "Gandhara phase",
+            "Early phase, such as at Sanchi and Bharhut",
+            "Gupta phase",
+            "Pala phase"
+          ],
+          "a": 1,
+          "e": "In the <b>early phase of Buddhist art</b> (e.g., at Sanchi and Bharhut), the Buddha was often represented through <b>symbols</b> (wheel, throne, footprints) rather than a human figure, a practice that changed with the emergence of the Gandhara and Mathura schools."
+        }
+      ],
+      "intermediate": [
+        {
+          "q": "Consider the following statements: 1. The Great Stupa at Sanchi was originally a smaller brick structure under Ashoka, later enlarged in stone during the Shunga period. 2. Its toranas (gateways), added later, are believed to date to around the 1st century BCE. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the original <b>Ashokan stupa</b> was later enlarged in stone, likely during the <b>Shunga</b> period, with its ornate <b>toranas</b> added around the 1st century BCE."
+        },
+        {
+          "q": "Consider the following statements regarding Ajanta cave paintings: 1. They primarily depict scenes from the Jataka tales, illustrating the previous lives of the Buddha. 2. The paintings were executed using a fresco-secco technique on a prepared mud-plaster surface rather than true fresco on wet plaster. 3. All Ajanta caves were excavated within a single continuous period with no gap in activity. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect, as Ajanta caves were excavated in <b>at least two distinct phases</b> separated by a considerable time gap (an early Hinayana phase and a later Mahayana phase)."
+        },
+        {
+          "q": "Consider the following statements: 1. The Gandhara school developed largely in the northwestern regions under Kushan patronage. 2. The Mathura school, in contrast, is considered to have developed largely indigenous stylistic roots. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Gandhara school</b> emerged in the northwest under Kushan patronage with Hellenistic influence, while the <b>Mathura school</b> is regarded as largely indigenous in its stylistic development."
+        },
+        {
+          "q": "Consider the following statements about the Sarnath school of art: 1. It flourished notably under Gupta patronage. 2. Sarnath Buddha images are typically depicted with an elaborately decorated halo (prabhamandala). 3. The school completely rejected any influence from earlier Mathura sculptural traditions. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is incorrect, as the <b>Sarnath school</b> is understood to have evolved partly building upon earlier <b>Mathura</b> traditions rather than rejecting them outright."
+        },
+        {
+          "q": "Consider the following statements: 1. Ashokan pillars were generally carved from single blocks of sandstone, often quarried from the Chunar region near Varanasi. 2. The animal capitals atop these pillars, such as lions, bulls, and elephants, typically symbolised aspects of Buddhist teaching or royal authority. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — many <b>Ashokan pillars</b> were carved from <b>Chunar sandstone</b>, and their animal capitals carried symbolic meanings related to Buddhist teachings and imperial authority."
+        },
+        {
+          "q": "Which of the following statements about the chaitya hall at Karle is/are correct? 1. It features a long colonnaded interior with an apsidal end housing a stupa. 2. Wooden elements were originally incorporated into parts of the cave's interior, some of which survive today. 3. The Karle chaitya was excavated entirely without any royal or merchant patronage or donative inscriptions.",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statements 1 and 2 are correct — the <b>Karle chaitya</b> has a long colonnaded hall with an apsidal stupa end, and original <b>wooden elements</b> partially survive. Statement 3 is false, as inscriptions at Karle record <b>donations from merchants and guilds</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The 'Puranas' contain sections dealing with cosmology, mythology, and dynastic genealogies (vamshanucharita). 2. Puranic literature, despite mythological content, is sometimes used cautiously by historians to reconstruct aspects of ancient Indian dynastic history. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>Puranas</b> contain genealogical sections (<b>vamshanucharita</b>) alongside mythological content, and historians cautiously use such sections to help reconstruct early dynastic chronology."
+        },
+        {
+          "q": "Consider the following statements: 1. Amaravati Stupa sculptures are known for their dynamic, crowded narrative compositions depicting events from the Buddha's life. 2. The site's sculptures were carved predominantly using the same grey schist stone typical of Gandhara art. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — <b>Amaravati</b> sculptures show dynamic, crowded narrative reliefs. Statement 2 is incorrect, as Amaravati used distinctive <b>white limestone/marble</b>, not the grey schist characteristic of Gandhara."
+        },
+        {
+          "q": "Consider the following statements: 1. Both Ajanta and Ellora feature rock-cut chaitya halls and viharas. 2. Unlike Ajanta, which is exclusively Buddhist, Ellora includes caves belonging to Buddhist, Hindu, and Jain traditions. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — both sites have <b>chaityas and viharas</b>, but while <b>Ajanta</b> is exclusively Buddhist, <b>Ellora</b> uniquely includes Buddhist, Hindu, and Jain caves."
+        },
+        {
+          "q": "Consider the following statements: 1. Kalidasa's works are generally dated to the Gupta period, though his exact dates remain a subject of scholarly debate. 2. His works include both dramatic compositions and epic-style poetry (mahakavya). Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>Kalidasa</b> is generally placed in the <b>Gupta period</b> (though exact dating is debated), and his oeuvre includes dramas (e.g., Abhijnanashakuntalam) as well as mahakavyas (e.g., Raghuvamsha)."
+        },
+        {
+          "q": "Consider the following statements regarding early aniconic Buddhist art: 1. At sites like Bharhut and early Sanchi, the Buddha was represented through symbols such as the empty throne, footprints, and the dharmachakra. 2. This aniconic tradition persisted without change throughout all subsequent phases of Indian Buddhist art, including under the Kushans. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct. Statement 2 is incorrect, as the <b>Kushan period</b> saw the emergence of <b>anthropomorphic (human-form) Buddha images</b> in the Gandhara and Mathura schools, marking a significant departure from aniconism."
+        },
+        {
+          "q": "Consider the following statements: 1. Structural temples, built by assembling dressed stone blocks, are distinct from rock-cut temples, which are carved out of a single natural rock formation. 2. Both structural and rock-cut temple traditions coexisted and developed in parallel in ancient and early medieval India. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>structural temples</b> (built with assembled masonry) and <b>rock-cut temples</b> (carved from living rock) represent two distinct techniques that developed alongside each other in ancient India."
+        },
+        {
+          "q": "Consider the following statements: 1. The Sanchi torana carvings employ narrative relief panels to depict Jataka tales in a continuous narrative style. 2. Human figures at Sanchi are shown in fully developed anthropomorphic form representing the Buddha directly. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct regarding the <b>narrative relief style</b> at Sanchi. Statement 2 is incorrect, as the Sanchi toranas largely follow the <b>aniconic tradition</b>, representing the Buddha through symbols rather than a human form."
+        },
+        {
+          "q": "Consider the following statements: 1. The Ashokan pillar edicts were inscribed mainly in Brahmi script and Prakrit language in most parts of India. 2. In the northwestern regions, some Ashokan inscriptions used the Kharosthi script or Greek and Aramaic scripts. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — most <b>Ashokan edicts</b> used <b>Brahmi script and Prakrit</b>, while in the northwest, versions used <b>Kharosthi</b>, and even <b>Greek and Aramaic</b> scripts appear (e.g., the Kandahar bilingual edict)."
+        },
+        {
+          "q": "Consider the following statements: 1. Cave architecture at sites like Ajanta and Karle demonstrates the translation of wooden architectural forms into stone, evident from features imitating wooden beams and rafters. 2. This suggests that rock-cut architecture developed as a stone adaptation of pre-existing timber building traditions. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — rock-cut caves often replicate features like <b>wooden beams and rafters</b> in stone, supporting the view that this architecture evolved as a translation of earlier <b>timber construction traditions</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Both Gandhara and Mathura schools produced standing and seated Buddha images with the 'ushnisha' (cranial bump) and 'urna' (dot between eyebrows) as iconographic features. 2. These iconographic conventions had no influence on later schools such as Sarnath. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct, as both schools share these iconographic markers. Statement 2 is incorrect, since these conventions (<b>ushnisha, urna</b>) were carried forward and refined in later schools including <b>Sarnath</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Bharhut and Sanchi stupa railings and gateways feature depictions of yakshas and yakshis (nature spirits), in addition to Buddhist narrative scenes. 2. This indicates the incorporation of popular and folk religious elements alongside core Buddhist themes in early stupa art. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>yakshas and yakshis</b> appear prominently on stupa railings at <b>Bharhut and Sanchi</b>, showing how early Buddhist art absorbed <b>popular folk religious motifs</b> alongside core narrative themes."
+        },
+        {
+          "q": "Consider the following statements: 1. Ashokan pillars are distinct from Ashokan rock edicts, which were inscribed directly onto natural rock surfaces rather than free-standing columns. 2. Both pillar edicts and rock edicts served to communicate Ashoka's dhamma policies to his subjects. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — <b>pillar edicts</b> (on free-standing columns) and <b>rock edicts</b> (on natural rock surfaces) were distinct physical forms, both used to propagate Ashoka's <b>dhamma</b> messages."
+        }
+      ],
+      "advanced": [
+        {
+          "q": "Consider the following statements: 1. The transformation of the Buddha's representation from aniconic symbols to anthropomorphic images is generally linked to the rise of devotional (bhakti-like) practices within certain Buddhist traditions. 2. Both the Gandhara and Mathura schools are considered to have contributed, in different ways, to this iconographic transformation around a similar broad time period. 3. This transformation occurred simultaneously and identically in both schools without any distinguishing regional variation. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 1,
+          "e": "Statements 1 and 2 are correct. Statement 3 is false, as while both schools contributed to <b>anthropomorphic Buddha imagery</b> around a similar era, they developed <b>distinct regional stylistic variations</b>, not an identical uniform style."
+        },
+        {
+          "q": "Consider the following statements: 1. The high polish seen on Ashokan pillars indicates a level of stone-working technical skill that some scholars argue may show continuity with earlier Mauryan or even pre-Mauryan craft traditions. 2. This polish is stylistically and technically identical to techniques used in contemporary Achaemenid Persian stone architecture, proving direct Persian artisans built the pillars. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is a reasonable and cautious scholarly inference. Statement 2 overstates the case — while some scholars note possible <b>Persian/Achaemenid stylistic influence</b> on Mauryan art (e.g., pillar form), this does not prove <b>identical technique or direct authorship</b> by Persian artisans."
+        },
+        {
+          "q": "Consider the following statements: 1. The two-phase excavation of Ajanta caves — an early Hinayana-associated phase and a later Mahayana-associated phase separated by centuries — is inferred partly from stylistic and epigraphic evidence. 2. The later Mahayana phase caves at Ajanta feature more elaborate anthropomorphic Buddha imagery compared to the earlier phase. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>two-phase chronology</b> of Ajanta is supported by stylistic and inscriptional evidence, and the later <b>Mahayana-phase</b> caves show far more elaborate Buddha imagery than the earlier, more austere phase."
+        },
+        {
+          "q": "Consider the following statements: 1. The narrative relief technique at Amaravati, showing multiple episodes within a single crowded panel, reflects a distinct compositional choice compared to the more spacious panels typical of Sanchi. 2. This difference has been used by art historians to characterise regional stylistic variation within early Indian Buddhist narrative art. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the busier, more crowded compositional style at <b>Amaravati</b>, compared to <b>Sanchi's</b> relatively spacious panels, is indeed cited by art historians as evidence of <b>regional stylistic variation</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The survival of Ajanta's murals is partly attributed to the site's relative isolation and abandonment for centuries before its rediscovery in the colonial period. 2. This isolation protected the caves from continuous habitation and repeated repainting, allowing much of the original pictorial layers to survive relatively intact. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — Ajanta's long period of abandonment and relative isolation contributed to the survival of its <b>murals</b>, being rediscovered only in the early 19th century, largely undisturbed by continuous later use."
+        },
+        {
+          "q": "Consider the following statements: 1. The absence of a human Buddha image in early Sanchi and Bharhut sculpture is generally interpreted as evidence of a deliberate early doctrinal preference for symbolic rather than figural representation. 2. This preference can be entirely explained by a lack of technical sculptural skill among artisans of that period, rather than any doctrinal consideration. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly reflects mainstream art-historical interpretation. Statement 2 is incorrect — the aniconic phase is <b>not attributed to lack of skill</b> (contemporary sculptors clearly had sophisticated technical ability, as seen in the same reliefs), but to <b>doctrinal/conventional choices</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Structural temple architecture, involving assembled dressed stone, generally allowed for greater flexibility in later modification and expansion compared to rock-cut temples. 2. Rock-cut temples, being carved from a single mass, could not typically be expanded once completed, unlike structural temples where additional structures (mandapas, gopurams) could be added over time. 3. This distinction explains why later dynasties, such as the Cholas, increasingly favoured structural temple construction. How many of the above statements are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct and logically connected — the greater <b>flexibility of structural temples</b> for later expansion (as seen in later Chola gopurams and mandapas) is a key reason why structural temple-building became increasingly favoured over time."
+        },
+        {
+          "q": "Consider the following statements: 1. The Ashokan edicts, being inscribed in multiple scripts and languages across different regions, suggest a deliberate policy of communicating with diverse linguistic populations across the empire. 2. This linguistic diversity in inscriptions is cited by historians as evidence of the vast geographical and cultural extent of Mauryan administrative reach. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the use of <b>multiple scripts and languages</b> (Brahmi/Prakrit, Kharosthi, Greek, Aramaic) in Ashokan inscriptions reflects both a deliberate communication policy and the wide geographical reach of the <b>Mauryan empire</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The 'five great epics' of Tamil literature, including Silappadikaram, are generally dated to the post-Sangam period rather than the core Sangam Age itself. 2. This distinction is significant because it shows Tamil literary production continued to evolve stylistically and thematically well beyond the classical Sangam anthologies. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>five great Tamil epics</b> are generally placed in the <b>post-Sangam</b> period, reflecting the continued evolution of Tamil literature beyond the classical Sangam anthologies."
+        },
+        {
+          "q": "Consider the following statements: 1. The transition from timber to stone in rock-cut chaitya architecture, evident in features like simulated wooden rafters, suggests that early rock-cut architects were deliberately replicating a familiar, pre-existing architectural vocabulary in a new, more permanent medium. 2. This replication indicates rock-cut architecture emerged as an entirely independent tradition with no relationship to earlier timber structures. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 correctly captures the standard interpretation. Statement 2 contradicts this, since the very presence of simulated wooden elements shows rock-cut architecture was <b>directly derived from, not independent of, earlier timber traditions</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The Puranas, despite being compiled and redacted over centuries with later interpolations, retain some older core material useful for historical reconstruction. 2. Because of these later interpolations, historians generally treat Puranic king-lists with the same degree of certainty as contemporary inscriptional evidence. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is correct — the <b>Puranas</b> do retain useful older core material despite later additions. Statement 2 is incorrect, as historians generally treat <b>Puranic king-lists with more caution</b> than contemporaneous epigraphic evidence, given the layered redaction history."
+        },
+        {
+          "q": "Consider the following statements: 1. The Karle chaitya's inscriptions recording donations from various guilds and individuals, including some identified as Yavanas, indicate a socially and possibly ethnically diverse donor base for Buddhist monuments. 2. This diversity of patronage suggests Buddhist monastic establishments received support beyond royal patronage alone, including from merchants and artisans. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — donative inscriptions at <b>Karle</b> (and similar sites) recording gifts from <b>guilds, merchants, and even Yavanas</b> demonstrate a broad-based, non-exclusively-royal pattern of patronage for Buddhist monuments."
+        },
+        {
+          "q": "Consider the following statements: 1. Comparing Gandhara and Sarnath Buddha images, the former typically shows thicker, more plastic drapery folds, while the latter shows a smoother, more transparent treatment of robes. 2. This stylistic contrast is often used by art historians to trace a broad shift from externally-influenced realism towards a more idealised, indigenous aesthetic sensibility over time. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the contrast between <b>Gandhara's</b> plastic, Hellenistic-influenced drapery and <b>Sarnath's</b> refined, transparent treatment is used by scholars to trace a stylistic evolution towards indigenous idealisation in Gupta-era art."
+        },
+        {
+          "q": "Consider the following statements: 1. The presence of donative inscriptions by women at several rock-cut and stupa sites indicates that women could act as independent patrons of religious architecture in ancient India. 2. This evidence is sometimes used to nuance assumptions about women's economic agency in ancient Indian society. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — inscriptions recording <b>donations by women</b> at sites like Sanchi and various caves are indeed used by historians to nuance understanding of <b>women's economic and social agency</b> in ancient India."
+        },
+        {
+          "q": "Consider the following statements: 1. The stylistic differences between Gandhara, Mathura, and Amaravati schools developing contemporaneously in different regions indicate that ancient India did not have a single, centrally dictated artistic canon during this period. 2. This regional diversity is best explained by the relative political fragmentation and diverse patronage networks (Kushans, Satavahanas, local elites) prevailing simultaneously across the subcontinent. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the contemporaneous, stylistically distinct <b>Gandhara, Mathura, and Amaravati</b> schools reflect the absence of a single artistic canon, attributable to the era's <b>diverse regional political powers and patronage networks</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. Some Ashokan pillars were relocated in later centuries by subsequent rulers, such as Firoz Shah Tughlaq, to new locations like Delhi. 2. Such relocation efforts demonstrate that Ashokan pillars continued to be regarded as objects of significance and prestige long after the Mauryan period ended. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — medieval rulers such as <b>Firoz Shah Tughlaq</b> transported some Ashokan pillars to Delhi, showing their continued perceived significance and prestige value <b>long after the Mauryan era</b>."
+        },
+        {
+          "q": "Consider the following statements: 1. The apsidal (horseshoe-shaped) plan of chaitya halls, seen at sites like Karle, was primarily designed to accommodate a circumambulatory path around the stupa at the rear of the hall. 2. This architectural feature reflects the ritual practice of 'pradakshina' (circumambulation) being incorporated into the very design of Buddhist worship spaces. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 2,
+          "e": "Both statements are correct — the <b>apsidal plan</b> of chaityas was designed to allow a <b>circumambulatory (pradakshina) path</b> around the stupa, embedding this ritual practice directly into the architectural form."
+        },
+        {
+          "q": "Consider the following statements: 1. The occurrence of similar decorative and narrative motifs (such as lotus medallions and animal friezes) across geographically distant sites like Sanchi and Amaravati suggests the movement of artisan guilds or shared artistic pattern-books across regions. 2. Such cross-regional stylistic parallels indicate that ancient Indian art production was entirely localised with no inter-regional exchange of craftsmen or ideas. Which of the statements given above is/are correct?",
+          "o": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "a": 0,
+          "e": "Statement 1 is a reasonable inference drawn by art historians. Statement 2 directly contradicts this, since shared motifs across distant sites actually suggest <b>inter-regional exchange</b>, not purely localised, isolated production."
+        }
+      ]
+    }
+  }
+]
