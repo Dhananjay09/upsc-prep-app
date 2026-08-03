@@ -107,12 +107,17 @@
 
   .explain{margin-top:16px; padding:14px 16px; border-radius:10px; background:#f1f5f9; font-size:0.88rem; line-height:1.55; display:none;}
   .explain b{color:var(--accent);}
-  .actions{display:flex; justify-content:flex-end; gap:10px; margin-top:20px;}
+  .actions{display:flex; justify-content:space-between; gap:10px; margin-top:20px;}
   button.primary{
     background:var(--accent); color:#fff; border:none; padding:11px 22px; border-radius:9px;
     font-size:0.92rem; font-weight:600; cursor:pointer;
   }
   button.primary:disabled{background:#93c5fd; cursor:not-allowed;}
+  button.secondary{
+    background:#fff; color:var(--accent); border:1.5px solid var(--accent); padding:11px 20px; border-radius:9px;
+    font-size:0.92rem; font-weight:600; cursor:pointer;
+  }
+  button.secondary:disabled{color:var(--muted); border-color:var(--border); cursor:not-allowed;}
   button.ghost{background:transparent; border:1.5px solid var(--border); padding:11px 18px; border-radius:9px; cursor:pointer; font-size:0.9rem; color:var(--muted);}
 
   /* Result screen */
@@ -297,6 +302,7 @@
     <div class="options" id="options"></div>
     <div class="explain" id="explain"></div>
     <div class="actions">
+      <button class="secondary" id="prev-btn" disabled>← Previous</button>
       <button class="primary" id="next-btn" disabled>Next</button>
     </div>
   </div>
@@ -826,7 +832,7 @@ function startQuiz({mode, chapterId, level}){
     });
     list = shuffle(pool).slice(0, SUBJECT_TEST_SIZE);
   }
-  state = { subjectKey, mode, chapterId, level, idx:0, list, answers:[], selected:null };
+  state = { subjectKey, mode, chapterId, level, idx:0, list, answers:new Array(list.length).fill(null), selected:null };
   showScreen('quiz');
   renderQuestion();
 }
@@ -850,6 +856,7 @@ function renderQuestion(){
   const optsEl = document.getElementById('options');
   optsEl.innerHTML = '';
   const letters = ['A','B','C','D'];
+  const existing = state.answers[state.idx];
   q.o.forEach((optText, i)=>{
     const div = document.createElement('div');
     div.className = 'opt';
@@ -857,11 +864,31 @@ function renderQuestion(){
     div.onclick = ()=> selectOption(i);
     optsEl.appendChild(div);
   });
-  document.getElementById('explain').style.display = 'none';
-  document.getElementById('explain').innerHTML = '';
-  document.getElementById('next-btn').disabled = true;
-  document.getElementById('next-btn').textContent = (state.idx === state.list.length-1) ? 'Finish' : 'Next';
-  state.selected = null;
+  const explainEl = document.getElementById('explain');
+  const prevBtn = document.getElementById('prev-btn');
+  const nextBtn = document.getElementById('next-btn');
+  prevBtn.disabled = (state.idx === 0);
+  nextBtn.textContent = (state.idx === state.list.length-1) ? 'Finish' : 'Next';
+
+  if(existing){
+    // already answered — show the locked-in result for this question
+    const opts = document.querySelectorAll('#options .opt');
+    opts.forEach((el,idx)=>{
+      el.classList.add('disabled');
+      if(idx === existing.correctIdx) el.classList.add('correct');
+      else if(idx === existing.chosenIdx) el.classList.add('wrong');
+      else el.classList.add('dim');
+    });
+    explainEl.style.display = 'block';
+    explainEl.innerHTML = (existing.correct ? '✅ Correct. ' : '❌ Incorrect. ') + existing.explain;
+    nextBtn.disabled = false;
+    state.selected = existing.chosenIdx;
+  } else {
+    explainEl.style.display = 'none';
+    explainEl.innerHTML = '';
+    nextBtn.disabled = true;
+    state.selected = null;
+  }
 }
 
 function selectOption(i){
@@ -876,12 +903,19 @@ function selectOption(i){
     else el.classList.add('dim');
   });
   const isCorrect = (i === q.a);
-  state.answers.push({q:q.q, options:q.o, correctIdx:q.a, chosenIdx:i, correct:isCorrect, explain:q.e, chapterTitle:q.chapterTitle});
+  state.answers[state.idx] = {q:q.q, options:q.o, correctIdx:q.a, chosenIdx:i, correct:isCorrect, explain:q.e, chapterTitle:q.chapterTitle};
   const explainEl = document.getElementById('explain');
   explainEl.style.display = 'block';
   explainEl.innerHTML = (isCorrect ? '✅ Correct. ' : '❌ Incorrect. ') + q.e;
   document.getElementById('next-btn').disabled = false;
 }
+
+document.getElementById('prev-btn').onclick = ()=>{
+  if(state.idx > 0){
+    state.idx--;
+    renderQuestion();
+  }
+};
 
 document.getElementById('next-btn').onclick = ()=>{
   if(state.idx < state.list.length-1){
