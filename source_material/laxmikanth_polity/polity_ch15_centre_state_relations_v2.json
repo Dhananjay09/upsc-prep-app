@@ -1,0 +1,675 @@
+{
+  "id": "centre_state_relations",
+  "title": "Centre-State Relations",
+  "desc": "Legislative, administrative and financial relations between the Centre and states, the Finance Commission and GST Council, trends and tensions since 1967, and the recommendations of the Rajamannar Committee, Sarkaria Commission, and Punchhi Commission",
+  "questions": {
+    "basic": [
+      {
+        "q": "Under which three heads are Centre-state relations studied in the Constitution?",
+        "o": [
+          "Legislative, Administrative, and Financial relations",
+          "Legislative, Judicial, and Executive relations",
+          "Political, Social, and Economic relations",
+          "Territorial, Fiscal, and Diplomatic relations"
+        ],
+        "a": 0,
+        "e": "Centre-state relations are studied under three heads: <b>legislative relations</b> (Articles 245-255), <b>administrative relations</b> (Articles 256-263), and <b>financial relations</b> (Articles 268-293) — together forming a comprehensive constitutional framework for regulating how the Union and states interact and share power."
+      },
+      {
+        "q": "Which body alone, among the Centre and states, has the power to make 'extra-territorial legislation' applicable to Indian citizens and their property anywhere in the world?",
+        "o": [
+          "Parliament",
+          "State legislatures",
+          "The President acting alone",
+          "The Supreme Court"
+        ],
+        "a": 0,
+        "e": "Only <b>Parliament</b> can make extra-territorial legislation — its laws apply to Indian citizens and their property anywhere in the world. State legislatures, by contrast, can generally only legislate for their own territory, except where there is a sufficient nexus between the state and the object being regulated."
+      },
+      {
+        "q": "Which Union Territories can the President govern by making regulations that carry the same force as an Act of Parliament?",
+        "o": [
+          "Andaman and Nicobar Islands, Lakshadweep, Dadra and Nagar Haveli and Daman and Diu, and Ladakh",
+          "Delhi and Chandigarh only",
+          "Puducherry only, under all circumstances",
+          "All Union Territories without exception"
+        ],
+        "a": 0,
+        "e": "The President can make regulations for these specific Union Territories: <b>Andaman and Nicobar Islands, Lakshadweep, Dadra and Nagar Haveli and Daman and Diu, and Ladakh</b>. For Puducherry, this power exists only when the Assembly is suspended or dissolved — an important distinction, since Puducherry normally has its own functioning legislature."
+      },
+      {
+        "q": "How many subjects does the Union List currently contain, and how many did it originally contain?",
+        "o": [
+          "98 currently, 97 originally",
+          "59 currently, 66 originally",
+          "52 currently, 47 originally",
+          "100 currently, 90 originally"
+        ],
+        "a": 0,
+        "e": "The <b>Union List</b> has 98 subjects today, up from 97 originally — new entries like 2A, 92A and 92B were added while entries 33, 92 and 92C were omitted, resulting in net growth even though the highest entry number remains 97."
+      },
+      {
+        "q": "Which amendment transferred five subjects — including education, forests, and administration of justice — from the State List to the Concurrent List?",
+        "o": [
+          "42nd Amendment Act, 1976",
+          "44th Amendment Act, 1978",
+          "73rd Amendment Act, 1992",
+          "101st Amendment Act, 2016"
+        ],
+        "a": 0,
+        "e": "The <b>42nd Amendment Act, 1976</b> transferred five subjects from the State List to the Concurrent List: education, forests, weights and measures, protection of wild animals and birds, and administration of justice (constitution and organisation of all courts except the Supreme Court and high courts) — a significant centralising move during the Emergency era."
+      },
+      {
+        "q": "In the three-fold distribution of legislative powers, in whom is the residuary power of legislation (matters not enumerated in any list) vested in India?",
+        "o": [
+          "Parliament",
+          "State legislatures jointly",
+          "The Governor of each state",
+          "The Finance Commission"
+        ],
+        "a": 0,
+        "e": "The residuary power of legislation is vested in <b>Parliament</b> — including the power to levy residuary taxes (like gift tax, wealth tax, and expenditure tax). This differs from the US, where residuary powers rest with the states, but follows the same pattern as Canada, where residuary powers also rest with the Centre."
+      },
+      {
+        "q": "Under which of the five extraordinary circumstances can Parliament legislate on a State List matter after two-thirds of Rajya Sabha members present and voting pass a resolution declaring it necessary in the national interest?",
+        "o": [
+          "When Rajya Sabha passes a resolution",
+          "During a national emergency",
+          "When states make a request",
+          "During President's Rule"
+        ],
+        "a": 0,
+        "e": "This is the '<b>Rajya Sabha resolution</b>' route — such a resolution must be supported by two-thirds of members present and voting, remains in force for one year (renewable any number of times), and any law made under it ceases to have effect six months after the resolution lapses."
+      },
+      {
+        "q": "When two or more states pass resolutions requesting Parliament to legislate on a State List matter, to whom does the resulting law apply?",
+        "o": [
+          "Only to those states which passed the resolutions (though others may adopt it later)",
+          "To all states in India automatically",
+          "Only to Union Territories",
+          "To no state until ratified by the President"
+        ],
+        "a": 0,
+        "e": "A law enacted under this 'states' request' provision applies <b>only to the requesting states</b>, though any other state may adopt it later by passing its own resolution. Notably, such a law can then be amended or repealed ONLY by Parliament, not by the concerned state legislatures — the states effectively surrender their legislative power on that matter."
+      },
+      {
+        "q": "Which of the following is an example of a law enacted under Parliament's power to implement international agreements on a State List matter?",
+        "o": [
+          "Anti-Hijacking Act, 1982",
+          "Prize Competition Act, 1955",
+          "Urban Land (Ceiling and Regulation) Act, 1976",
+          "Transplantation of Human Organs Act, 1994"
+        ],
+        "a": 0,
+        "e": "The <b>Anti-Hijacking Act, 1982</b> was enacted to implement an international convention. The other three examples (Prize Competition Act, Urban Land Ceiling Act, Transplantation of Human Organs Act) were instead enacted under the 'states' request' provision, illustrating the book's distinction between these two separate extraordinary legislative routes."
+      },
+      {
+        "q": "During President's Rule in a state, Parliament can legislate on State List matters for that state. What happens to such a law after President's Rule ends?",
+        "o": [
+          "It continues to operate even after President's Rule ends, until repealed or altered by the state legislature",
+          "It automatically expires the moment President's Rule ends",
+          "It must be re-passed by Parliament every six months",
+          "It becomes void and unenforceable immediately"
+        ],
+        "a": 0,
+        "e": "Such a law <b>continues to be operative even after President's Rule ends</b> — its duration is NOT coterminous with the President's Rule period. Only the state legislature can subsequently repeal, alter, or re-enact it, showing that laws made under this extraordinary route have lasting legal effect."
+      },
+      {
+        "q": "Which Article gives the Governor the power to reserve a state bill for the President's consideration, over which the President enjoys an absolute veto?",
+        "o": [
+          "Articles 200 and 201",
+          "Article 356",
+          "Article 365",
+          "Article 370"
+        ],
+        "a": 0,
+        "e": "<b>Articles 200 and 201</b> govern this power — the Governor can reserve a bill for the President's consideration, and the President enjoys an ABSOLUTE veto over it (unlike the suspensive veto over ordinary bills), making this one of the Centre's strongest legislative controls over the states."
+      },
+      {
+        "q": "Which Article empowers the Centre to hold that a state's government cannot be carried on in accordance with the Constitution if the state fails to comply with Central directions, potentially leading to President's Rule?",
+        "o": [
+          "Article 365",
+          "Article 356",
+          "Article 352",
+          "Article 360"
+        ],
+        "a": 0,
+        "e": "<b>Article 365</b> provides the coercive sanction: if a state fails to comply with Central directions, the President can hold that the state's government cannot be carried on according to the Constitution, which can then trigger President's Rule under <b>Article 356</b> — the two Articles work together as cause and consequence."
+      },
+      {
+        "q": "On matters in the Concurrent List, with whom does the executive power ordinarily rest, unless the Constitution or a parliamentary law specifically directs otherwise?",
+        "o": [
+          "The states",
+          "The Centre exclusively",
+          "The Finance Commission",
+          "The Inter-State Council"
+        ],
+        "a": 0,
+        "e": "Executive power on Concurrent List matters ordinarily rests with the <b>states</b>, even for laws Parliament itself enacts — a law on a concurrent subject, though made by Parliament, is generally executed by the states unless the Constitution or Parliament directs otherwise (as with the Essential Commodities Act, where execution is vested in the Centre)."
+      },
+      {
+        "q": "Which three All-India Services does the book name as common to both the Centre and the states, recruited and trained by the Centre but serving both levels?",
+        "o": [
+          "IAS, IPS, and IFoS",
+          "IAS, IRS, and ICS",
+          "IPS, IRS, and IES",
+          "IAS, IPS, and ICS"
+        ],
+        "a": 0,
+        "e": "The three All-India Services are <b>IAS (Indian Administrative Service), IPS (Indian Police Service), and IFoS (Indian Forest Service)</b>. In 1947, ICS was replaced by IAS and Indian Police was replaced by IPS; IFoS was created later, in 1966, as the third All-India Service."
+      },
+      {
+        "q": "Under Article 312, on the basis of which body's resolution can Parliament create new All-India Services?",
+        "o": [
+          "Rajya Sabha",
+          "Lok Sabha",
+          "Inter-State Council",
+          "National Development Council"
+        ],
+        "a": 0,
+        "e": "Article 312 authorises Parliament to create new All-India Services on the basis of a <b>Rajya Sabha resolution</b> — since the Rajya Sabha represents the states, this requirement ensures that state interests have a say before new services encroaching on state administrative autonomy are established."
+      },
+      {
+        "q": "Who can establish, under Article 263, an Inter-State Council to investigate and discuss matters of common interest between the Centre and states?",
+        "o": [
+          "The President",
+          "The Prime Minister",
+          "The Chief Justice of India",
+          "The Finance Commission"
+        ],
+        "a": 0,
+        "e": "The <b>President</b> can establish an Inter-State Council under Article 263. Such a council was actually set up in 1990, following recommendations from bodies like the Administrative Reforms Commission and later strongly reinforced by the Sarkaria Commission's recommendation for a permanent Inter-Governmental Council."
+      },
+      {
+        "q": "Which category of taxes does Article 268 refer to — taxes levied by the Centre but collected and appropriated by the states?",
+        "o": [
+          "Stamp duties on bills of exchange, cheques, promissory notes, and similar instruments",
+          "Income tax",
+          "Corporation tax",
+          "Customs duties"
+        ],
+        "a": 0,
+        "e": "Article 268 covers <b>stamp duties</b> on instruments like bills of exchange, cheques, promissory notes, insurance policies, and transfer of shares. These proceeds, when levied within a state, do NOT form part of the Consolidated Fund of India — they are directly assigned to that state."
+      },
+      {
+        "q": "Which body is described in the chapter as the 'balancing wheel of fiscal federalism' in India, constituted by the President every fifth year or earlier?",
+        "o": [
+          "The Finance Commission",
+          "The Planning Commission",
+          "The GST Council",
+          "The Inter-State Council"
+        ],
+        "a": 0,
+        "e": "The <b>Finance Commission</b> (Article 280) is described as the balancing wheel of fiscal federalism — it recommends the distribution of tax proceeds between Centre and states, the principles for grants-in-aid, and measures to augment state resources for panchayats and municipalities."
+      },
+      {
+        "q": "Which amendment established the Goods and Services Tax (GST) Council under Article 279-A?",
+        "o": [
+          "101st Amendment Act, 2016",
+          "80th Amendment Act, 2000",
+          "73rd Amendment Act, 1992",
+          "88th Amendment Act, 2003"
+        ],
+        "a": 0,
+        "e": "The <b>101st Amendment Act, 2016</b> introduced Article 279-A, empowering the President to constitute the GST Council — a joint forum of the Centre and states that makes recommendations on GST rates, exemptions, model laws, and threshold limits, among other matters."
+      },
+      {
+        "q": "Which Commission was appointed in 1983 under R.S. Sarkaria, a retired Supreme Court judge, to examine and review Centre-state relations, submitting its report in 1988?",
+        "o": [
+          "Sarkaria Commission",
+          "Punchhi Commission",
+          "Rajamannar Committee",
+          "Administrative Reforms Commission"
+        ],
+        "a": 0,
+        "e": "The <b>Sarkaria Commission (1983-88)</b> was a three-member body examining Centre-state relations comprehensively. It made 247 recommendations, of which the Central government implemented 180 — the most significant being the actual establishment of the Inter-State Council in 1990."
+      },
+      {
+        "q": "Which committee, appointed by the Tamil Nadu (DMK) Government in 1969 under Dr. P.V. Rajamannar, recommended abolishing All-India Services and disbanding the Planning Commission?",
+        "o": [
+          "Rajamannar Committee",
+          "Sarkaria Commission",
+          "Punchhi Commission",
+          "Setalvad Study Team"
+        ],
+        "a": 0,
+        "e": "The <b>Rajamannar Committee (1969)</b> was appointed by Tamil Nadu specifically to secure 'utmost autonomy to the states' and recommended radical measures like abolishing All-India Services, disbanding the Planning Commission, and omitting Articles 356, 357 and 365 (President's Rule provisions) — recommendations the Central government completely ignored."
+      },
+      {
+        "q": "Which resolution, adopted by the Akali Dal in 1973, demanded that the Centre's jurisdiction be restricted only to defence, foreign affairs, communications, and currency, with all residuary powers vested in the states?",
+        "o": [
+          "Anandpur Sahib Resolution",
+          "West Bengal Memorandum",
+          "Rajamannar Committee Report",
+          "Sarkaria Commission Report"
+        ],
+        "a": 0,
+        "e": "The <b>Anandpur Sahib Resolution (1973)</b>, adopted at a meeting in Punjab, demanded restricting the Centre to just four subjects (defence, foreign affairs, communications, currency) and vesting all residuary power in the states — one of the most radical state-autonomy demands of the era."
+      },
+      {
+        "q": "Which Second Commission on Centre-State Relations, set up in 2007 under a former Chief Justice of India, submitted a 1,456-page report in 2010 with over 310 recommendations?",
+        "o": [
+          "Punchhi Commission",
+          "Sarkaria Commission",
+          "Setalvad Study Team",
+          "National Commission to Review the Working of the Constitution"
+        ],
+        "a": 0,
+        "e": "The <b>Punchhi Commission</b>, chaired by Madan Mohan Punchhi (former CJI), submitted its report in 2010 with over 310 recommendations, concluding that 'cooperative federalism' should be the guiding principle for India's future governance — building on and sometimes differing from the earlier Sarkaria Commission's work."
+      },
+      {
+        "q": "Which of the following is listed as a tension area in Centre-state relations, related to the use of central investigative bodies?",
+        "o": [
+          "Modus operandi of central agencies like CBI, ED and so on",
+          "The design of the national flag",
+          "The composition of the Union Public Service Commission",
+          "The location of the Supreme Court"
+        ],
+        "a": 0,
+        "e": "The '<b>modus operandi of central agencies like CBI, ED</b> and so on' is explicitly listed among the fourteen tension areas in Centre-state relations — reflecting ongoing, contemporary friction over how central investigative agencies interact with state governments, alongside older issues like governor appointments and President's Rule."
+      },
+      {
+        "q": "Which amendment introduced the 'Alternative Scheme of Devolution', recommending that 29% of certain central taxes go to states, based on the 10th Finance Commission's recommendations?",
+        "o": [
+          "80th Amendment Act, 2000",
+          "101st Amendment Act, 2016",
+          "42nd Amendment Act, 1976",
+          "73rd Amendment Act, 1992"
+        ],
+        "a": 0,
+        "e": "The <b>80th Amendment Act, 2000</b> gave effect to the 10th Finance Commission's recommendation of the 'Alternative Scheme of Devolution', under which 29% of income from certain central taxes and duties would go to the states — applied retrospectively from April 1, 1996, and bringing taxes like Corporation Tax and Customs Duties on par with Income Tax for sharing purposes."
+      },
+      {
+        "q": "What is the maximum amount of profession tax a state legislature can impose on any person per annum, as fixed by the 60th Amendment Act, 1988?",
+        "o": [
+          "₹2,500",
+          "₹250",
+          "₹5,000",
+          "There is no limit"
+        ],
+        "a": 0,
+        "e": "The <b>60th Amendment Act, 1988</b> raised the ceiling on profession tax from ₹250 to <b>₹2,500 per annum</b> — a restriction placed specifically on the states' taxing power over professions, trades, callings and employments."
+      },
+      {
+        "q": "Which Supreme Court advisory opinion (1963) held that a state's tax immunity from Central taxation does not extend to customs or excise duties?",
+        "o": [
+          "In Re. Sea Customs Act (1963)",
+          "S.R. Bommai case (1994)",
+          "Kesavananda Bharati case (1973)",
+          "Minerva Mills case (1980)"
+        ],
+        "a": 0,
+        "e": "The Supreme Court, in its advisory opinion in <b>In Re. Sea Customs Act (1963)</b>, clarified that state tax immunity from the Centre does NOT extend to customs duty on goods imported/exported by a state or excise duty on goods produced by a state — narrowing the scope of inter-governmental tax immunity."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements about territorial extent of legislation:\n1. Parliament can make laws for the whole or any part of India's territory.\n2. A state legislature's laws are never applicable outside the state under any circumstances.\n3. The Governor of Assam can direct that an Act of Parliament not apply to a tribal area in the state.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — a state legislature's laws CAN apply outside the state when there is a sufficient nexus between the state and the object being regulated, so it is not an absolute rule. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the hierarchy among the three legislative lists:\n1. The Union List prevails over both the State List and the Concurrent List in case of overlap.\n2. The Concurrent List prevails over the State List in case of conflict.\n3. In case of conflict between a state law and central law on a Concurrent List subject, the state law always prevails regardless of presidential assent.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — ordinarily the central law prevails on Concurrent List conflicts; the state law prevails ONLY as an exception, specifically when it has been reserved for and received the President's assent, and even then Parliament can later override it with a subsequent law. Statements 1 and 2 correctly describe the general hierarchy."
+      },
+      {
+        "q": "Consider the following statements about Parliamentary legislation in the state field under extraordinary circumstances:\n1. During a national emergency, a state legislature's power to make laws on the same State List matter is completely suspended.\n2. Under the Rajya Sabha resolution route, the resolution can be renewed multiple times but not exceeding one year at a time.\n3. Laws made under the national emergency route become inoperative six months after the emergency ceases.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — during a national emergency, the state legislature's power to make laws on the same matter is NOT restricted; only in case of repugnancy does the parliamentary law prevail. Statements 2 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the 'states' request' provision for parliamentary legislation:\n1. It requires resolutions from at least two states' legislatures.\n2. Once passed, the state legislature retains full power to amend or repeal the resulting parliamentary law.\n3. Other states may later adopt such a law by passing their own resolution.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — once passed, such a law can be amended or repealed ONLY by Parliament, not by the concerned state legislatures, since the resolution operates as an abdication of the state's legislative power over that matter. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Centre's control over state legislation:\n1. A state bill imposing restrictions on freedom of trade with that state requires the previous sanction of the President before introduction.\n2. During a financial emergency, the Centre can direct states to reserve money bills for the President's consideration.\n3. The Governor can always make an ordinance without any instructions from the President in all circumstances.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the Governor CANNOT make an ordinance without instructions from the President in certain specified cases (Article 213), contradicting the absolute claim in the statement. Statements 1 and 2 correctly describe Centre control mechanisms."
+      },
+      {
+        "q": "Consider the following statements about mutual delegation of executive functions:\n1. The President may, with the state's consent, entrust Central executive functions to a state government.\n2. Parliament can confer Central executive functions on a state through legislation, without needing that state's consent.\n3. A state legislature can similarly confer state executive functions on the Centre through its own legislation, without the Centre's consent.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — a state legislature CANNOT do this; only the Centre (via Parliament) can delegate functions without consent through legislation, while a state can delegate its executive functions to the Centre only through an AGREEMENT (with the Centre's consent), not through unilateral legislation. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about All-India Services:\n1. They are recruited and trained by the Centre, but immediate control over their members vests with the state governments.\n2. They technically violate the strict principle of federalism by restricting state autonomy and patronage.\n3. Dr. Ambedkar opposed the creation of All-India Services in the Constituent Assembly, viewing them as contrary to federal principles.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — Ambedkar actually DEFENDED and justified the institution of All-India Services in the Constituent Assembly, arguing they help maintain a high standard of administration for 'strategic posts' without depriving states of their own civil services. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about Public Service Commissions in the Centre-state framework:\n1. The chairman and members of a State Public Service Commission are appointed by the Governor but can be removed only by the President.\n2. Parliament can establish a Joint State Public Service Commission for two or more states only on its own initiative, without any state request.\n3. The UPSC can serve a state's needs only on the state governor's request and with the President's approval.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — Parliament can establish a Joint State Public Service Commission only ON THE REQUEST of the concerned state legislatures, not purely on its own initiative. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the distribution of tax revenues after the 80th and 101st Amendment Acts:\n1. Taxes under Article 268 (like stamp duties) do not form part of the Consolidated Fund of India.\n2. Surcharges levied under Article 271 are shared between the Centre and states.\n3. GST is exempted from the surcharge provision under Article 271.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — proceeds of surcharges under Article 271 go to the CENTRE EXCLUSIVELY; states have no share in them. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about grants-in-aid to states:\n1. Statutory grants under Article 275 are given to every state uniformly, without distinction.\n2. Discretionary grants under Article 282 are given at the Centre's discretion and are not a binding obligation.\n3. Grants in lieu of export duties on jute products were given to Assam, Bihar, Orissa and West Bengal for ten years from the Constitution's commencement.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — Article 275 grants are given specifically to states 'which are in need of financial assistance', NOT to every state uniformly, and different sums may be fixed for different states. Statements 2 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Sarkaria Commission's recommendations:\n1. It recommended that Article 356 be used very sparingly, as a last resort.\n2. It recommended abolishing the institution of All-India Services entirely.\n3. It recommended establishing a permanent Inter-Governmental Council under Article 263.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect and reverses the Commission's actual position — the Sarkaria Commission recommended that All-India Services be FURTHER STRENGTHENED and that MORE such services be created, the opposite of abolition (which was instead the Rajamannar Committee's and West Bengal Memorandum's demand). Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the different state-autonomy demands of the 1970s:\n1. The Anandpur Sahib Resolution (1973) wanted the Centre restricted to just four subjects.\n2. The West Bengal Memorandum (1977) proposed replacing the word 'union' with 'federal' in the Constitution.\n3. Both documents proposed giving the Rajya Sabha equal powers with the Lok Sabha.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — only the West Bengal Memorandum explicitly proposed equal powers for the Rajya Sabha; the Anandpur Sahib Resolution's demands, as described in the book, focused on restricting Centre jurisdiction and vesting residuary power in states, without this specific Rajya Sabha proposal. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Sarkaria Commission's philosophy on Centre-state relations:\n1. It rejected the demand for curtailing the Centre's powers, stating a strong Centre is essential for national unity.\n2. It equated a 'strong Centre' with 'centralisation of powers'.\n3. It observed that over-centralisation leads to 'blood pressure at the centre and anaemia at the periphery'.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Commission explicitly did NOT equate a strong Centre with centralisation of powers, drawing a careful distinction between the two. Statements 1 and 3 correctly capture the Commission's nuanced position, favouring a strong-but-not-over-centralised Centre."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "Which of the following best explains why the Constitution places the burden of proving 'sufficient nexus' on state legislation applying outside state territory, while Parliament faces no such restriction?",
+        "o": [
+          "Because Parliament's plenary territorial jurisdiction over all of India (and even extra-territorially for citizens) reflects its position as the legislature for the entire Union, whereas a state legislature's authority is inherently confined to its own territory unless a real, demonstrable connection justifies extending its reach",
+          "Because state legislatures are inherently less competent than Parliament",
+          "Because the Supreme Court has no jurisdiction over state laws",
+          "Because states are not permitted to pass any laws with extra-territorial effect under any circumstances"
+        ],
+        "a": 0,
+        "e": "This reflects the basic federal principle of territorial jurisdiction: Parliament represents the whole Union and can legislate for all of India (and even extra-territorially for citizens/property abroad), while states, being regional units, need to show a genuine connecting factor ('sufficient nexus') before their laws can have any effect beyond their own borders — a safeguard against one state's laws unpredictably binding people or property elsewhere."
+      },
+      {
+        "q": "Which of the following best captures why the 'states' request' provision for parliamentary legislation is structurally different from the 'Rajya Sabha resolution' and 'national emergency' provisions?",
+        "o": [
+          "Under the states' request provision, the state legislature permanently and completely surrenders its power over that matter to Parliament, whereas under the other two provisions, the state legislature's concurrent power to legislate on the same matter is expressly preserved",
+          "All three provisions produce functionally identical outcomes for state legislative power",
+          "The states' request provision applies automatically to all states without any resolution needed",
+          "The Rajya Sabha resolution and national emergency provisions also involve permanent surrender of state power"
+        ],
+        "a": 0,
+        "e": "This is a genuinely significant structural distinction: under the states' request route, passing the resolution operates as an ABDICATION of the state's power (only Parliament can subsequently amend/repeal), whereas under the Rajya Sabha resolution and national emergency routes, states EXPRESSLY RETAIN their concurrent power to legislate on the same matter (with the parliamentary law only prevailing in case of actual conflict) — making the states' request mechanism uniquely more permanent in its transfer of authority."
+      },
+      {
+        "q": "Which of the following best explains the logic behind the Constitution vesting immediate control of All-India Service officers with states while retaining ultimate control with the Centre?",
+        "o": [
+          "This split reflects a deliberate compromise: states need day-to-day operational control to effectively use these officers in state administration, while the Centre retains ultimate authority (recruitment, training, cadre management) to maintain the uniform standards and cross-state mobility that are the entire rationale for having All-India, rather than purely state, services",
+          "This split has no logical basis and was purely an administrative accident",
+          "Immediate control means states can dismiss All-India Service officers permanently without Central involvement",
+          "Ultimate control means the Centre operates these services with no state involvement at all"
+        ],
+        "a": 0,
+        "e": "The two-tier control system resolves an inherent tension: if states had NO control, the officers would be ineffective as instruments of state administration; if the Centre had no control, the whole point of a UNIFORM, cross-state civil service (with common standards, common pay scales, and interchangeability) would be lost — the immediate/ultimate split lets states use these officers operationally while the Centre preserves the systemic uniformity Ambedkar cited as the justification for their existence."
+      },
+      {
+        "q": "Which of the following best explains why the book treats the Sarkaria Commission's recommendations as significant despite their non-binding, advisory character?",
+        "o": [
+          "Because a substantial majority (180 of 247) were actually implemented by the government, including the landmark establishment of the Inter-State Council in 1990, demonstrating real practical impact despite lacking direct legal force",
+          "Because all 247 recommendations were made legally binding by a subsequent constitutional amendment",
+          "Because the Commission had the power to directly amend the Constitution without government approval",
+          "Because none of its recommendations were ever implemented, making it a purely symbolic exercise"
+        ],
+        "a": 0,
+        "e": "The Commission's practical significance lies in its IMPLEMENTATION RATE — of 247 recommendations, 180 were actually adopted by government, most notably the actual creation of the Inter-State Council in 1990 (a body Article 263 had allowed since 1950 but which no government had bothered to establish) — showing how an advisory, non-binding body can still substantially reshape institutional practice when its recommendations align with political will."
+      },
+      {
+        "q": "Which of the following best explains the significance of the Punchhi Commission's guideline on Governor appointment during a hung assembly (calling the party/coalition with the 'widest support' first)?",
+        "o": [
+          "It attempts to convert a previously discretionary, potentially partisan gubernatorial decision into a rule-based, sequential process with clearly defined priority order, aiming to reduce the tension area of 'discriminatory and partisan role of governors' identified elsewhere in the chapter",
+          "It gives the Governor complete, unconstrained discretion in every hung-assembly scenario",
+          "It requires the President, not the Governor, to make this decision in every case",
+          "It applies only to Union Territories and never to full states"
+        ],
+        "a": 0,
+        "e": "This recommendation directly addresses one of the fourteen listed 'tension areas' in Centre-state relations — namely the 'discriminatory and partisan role of governors' — by replacing ad hoc, potentially politically-motivated gubernatorial choices with a structured, prioritised sequence (pre-poll alliance with widest support → largest single party → post-electoral coalition → post-electoral alliance), aiming to convert a discretionary flashpoint into a more predictable, rule-governed constitutional convention."
+      },
+      {
+        "q": "Which of the following best explains why 1967 is identified as a turning point in the history of Centre-state relations?",
+        "o": [
+          "The Congress party's defeat in nine states in the 1967 elections weakened one-party dominance at both levels, enabling non-Congress state governments to actively challenge central authority and assert demands for greater state autonomy for the first time in independent India's history",
+          "1967 marks the year the Constitution was first amended",
+          "1967 is when the Sarkaria Commission was first appointed",
+          "1967 marks the year India adopted the GST"
+        ],
+        "a": 0,
+        "e": "Before 1967, Centre-state relations were largely smooth precisely BECAUSE one party (Congress) held power at both levels, making conflict unlikely by default; the 1967 electoral upset — Congress losing nine states — created, for the first time, genuinely oppositional state governments willing and politically motivated to contest central authority, triggering the wave of committees, resolutions, and memoranda (Rajamannar, Anandpur Sahib, West Bengal Memorandum) that followed."
+      },
+      {
+        "q": "Which of the following best distinguishes the Punchhi Commission's overall philosophical orientation from that of the Sarkaria Commission, based on their guiding principles?",
+        "o": [
+          "Sarkaria explicitly rejected structural changes and emphasised functional/operational fixes within existing arrangements, while Punchhi's guiding principle of 'cooperative federalism' led it to propose more specific structural and procedural reforms (e.g., fixed Governor tenure, formalised hung-assembly guidelines, localised emergency framework)",
+          "Both commissions reached identical conclusions with no meaningful philosophical difference",
+          "Sarkaria recommended abolishing the Centre entirely, while Punchhi recommended abolishing the states",
+          "Punchhi rejected all forms of federalism, while Sarkaria embraced unitary government"
+        ],
+        "a": 0,
+        "e": "While both commissions ultimately favoured a strong-but-cooperative Centre-state framework, Sarkaria was notably conservative about STRUCTURAL change (preferring functional adjustments within the existing constitutional design), whereas Punchhi — examining the issue over two decades later amid 'sea-changes' in India's polity and economy — proposed more concrete structural and procedural innovations, like a formalised 'localised emergency' framework and detailed hung-assembly guidelines, reflecting its explicit commitment to operationalising 'cooperative federalism' as a practical governing principle."
+      },
+      {
+        "q": "Which of the following best explains why the book distinguishes between the Centre's power to make loans/guarantees to states (unrestricted subject-matter) and a state's power to borrow (restricted to domestic sources)?",
+        "o": [
+          "This asymmetry reflects the Constitution's broader unitary-leaning bias in fiscal federalism — states can only borrow domestically and need the Centre's consent if they still owe outstanding Central loans/guarantees, while the Centre's own borrowing and lending powers face no equivalent state-imposed restriction",
+          "States are constitutionally forbidden from borrowing any money under any circumstances",
+          "The Centre cannot lend money to states under any provision of the Constitution",
+          "States can borrow freely both domestically and internationally without restriction"
+        ],
+        "a": 0,
+        "e": "This is a clear illustration of the Constitution's general Centre-favouring fiscal architecture: states can borrow ONLY within India (never abroad), and crucially need the CENTRE'S CONSENT to raise any new loan if they still owe an outstanding Central loan or Central-guaranteed loan — while the Centre's own borrowing and lending powers to states carry no comparable state-imposed constraint, reinforcing the Centre's overall fiscal dominance within the federal structure."
+      }
+    ],
+    "upsc": [
+      {
+        "q": "Consider the following statements about the distribution of legislative subjects in India:\n1. There are no tax entries in the Concurrent List except for the special GST provision introduced by the 101st Amendment Act, 2016.\n2. The residuary power of taxation lies with Parliament, which has used it to impose gift tax, wealth tax, and expenditure tax.\n3. The Government of India Act, 1935 also provided for a three-fold enumeration of powers, but vested residuary power in the provincial legislatures.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — under the 1935 Act, residuary power was given NEITHER to the federal NOR to the provincial legislature, but to the Governor-General of India; India's present Constitution instead follows the Canadian precedent of vesting residuary power in the Centre. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Assertion (A): The 'states' request' provision for parliamentary legislation results in a more permanent transfer of legislative authority than the Rajya Sabha resolution or national emergency provisions.\nReason (R): Under the states' request provision, the resulting law can be amended or repealed only by Parliament, whereas under the other two provisions the state legislature's concurrent power over the same matter remains unaffected.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — the states' request mechanism uniquely results in the state legislature abdicating its power entirely on that matter (only Parliament can subsequently act on it), while the Rajya Sabha resolution and national emergency provisions preserve the state's concurrent legislative competence throughout, distinguishing the permanence of transfer in each case."
+      },
+      {
+        "q": "With reference to Centre's control over state legislation, consider the following statements:\n1. The Governor's reservation of a bill for the President under Articles 200-201 gives the President an absolute veto.\n2. A state bill restricting freedom of trade with that state requires previous presidential sanction before introduction in the legislature.\n3. The Centre can direct states to reserve financial bills for presidential consideration only during a national emergency, not a financial emergency.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — this power specifically applies during a FINANCIAL emergency (Article 360), not a national emergency. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements regarding the recommendations of various committees/commissions on Centre-state relations:\n1. The Rajamannar Committee recommended abolishing All-India Services.\n2. The Sarkaria Commission recommended strengthening and expanding All-India Services.\n3. The West Bengal Memorandum also recommended abolishing All-India Services.\nHow many of the statements given above are correct?",
+        "o": [
+          "All three",
+          "Only two",
+          "Only one",
+          "None"
+        ],
+        "a": 0,
+        "e": "All three statements are correct and illustrate a genuine three-way divergence on this specific issue: the Rajamannar Committee (Tamil Nadu, 1969) and the West Bengal Memorandum (1977) both wanted All-India Services abolished as an infringement on state autonomy, while the Sarkaria Commission (1988) took the opposite view, wanting them strengthened and expanded."
+      },
+      {
+        "q": "Match List-I (Committee/Commission) with List-II (Year of Report/Setup) and select the correct answer using the code below.\nList-I:\nA. Administrative Reforms Commission report\nB. Rajamannar Committee report\nC. Sarkaria Commission report\nD. Punchhi Commission report\nList-II:\n1. 1969\n2. 1971\n3. 1988\n4. 2010",
+        "o": [
+          "A-1, B-2, C-3, D-4",
+          "A-2, B-1, C-4, D-3",
+          "A-1, B-3, C-2, D-4",
+          "A-4, B-1, C-2, D-3"
+        ],
+        "a": 0,
+        "e": "The ARC submitted its report in 1969; the Rajamannar Committee submitted its report to Tamil Nadu in 1971; the Sarkaria Commission submitted its report in 1988; and the Punchhi Commission submitted its report in 2010. Correct code: A-1, B-2, C-3, D-4."
+      },
+      {
+        "q": "Consider the following statements about the Finance Commission's functions under Article 280:\n1. It recommends the distribution of net tax proceeds between the Centre and states.\n2. It recommends principles governing grants-in-aid to states from the Consolidated Fund of India.\n3. Since the 73rd and 74th Amendment Acts, it also recommends measures to augment state Consolidated Funds to supplement panchayat and municipality resources.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — this third function was specifically ADDED to the Finance Commission's mandate following the 73rd and 74th Amendment Acts of 1992, which granted constitutional status to panchayats and municipalities respectively, requiring a mechanism to channel resources down to these local bodies too."
+      },
+      {
+        "q": "Consider the following statements about inter-governmental tax immunities in India:\n1. Central property is completely and permanently exempt from all state taxation with no exceptions whatsoever.\n2. Corporations or companies created by the Central government are not immune from state or local taxation, since they are separate legal entities.\n3. The Centre can tax the commercial operations of a state if Parliament so provides.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — Central property's exemption from state taxation is not absolute, since Parliament is empowered to REMOVE this ban if it chooses. Statements 2 and 3 are correct — corporations, being separate legal entities from the government that created them, don't inherit sovereign tax immunity, and Parliament can indeed tax a state's genuinely commercial (non-sovereign) operations."
+      },
+      {
+        "q": "Consider the following statements about the effects of emergencies on Centre-state financial relations:\n1. During a national emergency, the President can modify the constitutional distribution of revenues between the Centre and states.\n2. Such modification, once made, continues permanently even after the emergency ends.\n3. During a financial emergency, the Centre can direct states to reduce salaries of persons serving in the state.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — such modification continues only till the end of the financial year in which the emergency ceases to operate, NOT permanently. Statements 1 and 3 correctly describe the Centre's emergency financial powers."
+      },
+      {
+        "q": "With reference to the tension areas in Centre-state relations listed in the chapter, consider the following statements:\n1. Discrimination in financial allocations to states is one of the listed tension areas.\n2. Encroachment by the Centre on the State List is one of the listed tension areas.\n3. The design of the national emblem is one of the listed tension areas.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and not among the fourteen tension areas listed in the chapter, which instead include real, substantive governance issues like governor appointment/dismissal, President's Rule misuse, deployment of central forces, financial allocation discrimination, and Central agency conduct. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Punchhi Commission's recommendation on invoking Article 356:\n1. It recommended that suitable constitutional amendments incorporate the guidelines laid down in the S.R. Bommai case (1994).\n2. It proposed a framework for 'localised emergency' to handle situations not warranting the extreme step of Article 356.\n3. It recommended that Article 356 be used more frequently to ensure administrative efficiency in states.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and contradicts the Commission's actual, restrictive stance — like the Sarkaria Commission before it, Punchhi wanted Article 356 used strictly as a 'last resort', not more frequently. Statements 1 and 2 correctly describe its recommendations for tighter safeguards and an alternative, less drastic mechanism."
+      },
+      {
+        "q": "Consider the following statements comparing the residuary power arrangements across federations:\n1. In the US, residuary powers are vested in the states.\n2. In Canada, residuary powers are vested in the Centre.\n3. India follows the American pattern rather than the Canadian pattern with respect to residuary powers.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — India follows the CANADIAN pattern (residuary powers vested in the Centre), not the American pattern (residuary powers vested in the states). Statements 1 and 2 correctly describe the US and Canadian arrangements respectively."
+      },
+      {
+        "q": "Consider the following statements about the GST Council's functions under the 101st Amendment Act, 2016:\n1. It makes recommendations on taxes, cesses, and surcharges that would get merged into GST.\n2. It makes recommendations on special rates to raise additional resources during a natural calamity.\n3. Its recommendations are legally binding and cannot be departed from by either the Centre or the states under any circumstances.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 overstates the GST Council's legal character — the book describes it as a body that 'makes recommendations', and while these recommendations carry significant weight and are the basis for practical GST administration, the chapter does not characterise them as absolutely and unconditionally binding in all circumstances. Statements 1 and 2 correctly describe genuine functions of the Council."
+      }
+    ]
+  }
+}
