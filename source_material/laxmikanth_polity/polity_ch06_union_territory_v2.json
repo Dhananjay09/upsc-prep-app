@@ -1,0 +1,829 @@
+{
+  "id": "union_and_territory",
+  "title": "Union and its Territory",
+  "desc": "Articles 1-4, the Union vs Federation debate, Parliament's power to reorganise states, and the historical evolution of India's states and union territories",
+  "questions": {
+    "basic": [
+      {
+        "q": "Which Articles of the Constitution, under Part I, deal with the Union and its territory?",
+        "o": [
+          "Articles 1 to 4",
+          "Articles 5 to 11",
+          "Articles 12 to 35",
+          "Articles 36 to 51"
+        ],
+        "a": 0,
+        "e": "<b>Articles 1 to 4</b>, under Part I of the Constitution, deal with the Union and its territory."
+      },
+      {
+        "q": "Article 1 of the Constitution describes India as a:",
+        "o": [
+          "Federation of States",
+          "Union of States",
+          "Confederation of States",
+          "Commonwealth of States"
+        ],
+        "a": 1,
+        "e": "Article 1 describes India, that is Bharat, as a '<b>Union of States</b>' rather than a 'Federation of States'."
+      },
+      {
+        "q": "According to Dr. B.R. Ambedkar, the phrase 'Union of States' was preferred over 'Federation of States' mainly because:",
+        "o": [
+          "The Indian Federation, unlike the American one, was not formed by an agreement among the states, and no state has the right to secede",
+          "India has more states than the USA",
+          "The British originally used the term 'Union'",
+          "It was easier to translate into Hindi"
+        ],
+        "a": 0,
+        "e": "Ambedkar explained that the Indian Federation is not the result of an agreement among the states (unlike the American Federation) and the states have no right to secede — making it an indestructible Union."
+      },
+      {
+        "q": "As per Article 1, into how many categories can the territory of India be classified?",
+        "o": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "a": 1,
+        "e": "Article 1 classifies the territory of India into <b>three categories</b>: territories of the states, Union territories, and territories that may be acquired by the Government of India."
+      },
+      {
+        "q": "The names of states and union territories and their territorial extent are mentioned in which Schedule of the Constitution?",
+        "o": [
+          "The First Schedule",
+          "The Second Schedule",
+          "The Seventh Schedule",
+          "The Tenth Schedule"
+        ],
+        "a": 0,
+        "e": "The <b>First Schedule</b> of the Constitution mentions the names of states and union territories and their territorial extent."
+      },
+      {
+        "q": "Which expression is wider — 'Territory of India' or 'Union of India' — and why?",
+        "o": [
+          "'Union of India' is wider as it includes foreign acquisitions",
+          "'Territory of India' is wider as it includes states, union territories and territories that may be acquired",
+          "Both expressions mean exactly the same thing",
+          "'Union of India' is wider as it includes only union territories"
+        ],
+        "a": 1,
+        "e": "'<b>Territory of India</b>' is the wider expression, since it includes not just the states but also union territories and any territories that may be acquired in future, whereas 'Union of India' includes only the states."
+      },
+      {
+        "q": "Which Article of the Constitution empowers Parliament to admit into the Union, or establish, new states?",
+        "o": [
+          "Article 1",
+          "Article 2",
+          "Article 3",
+          "Article 4"
+        ],
+        "a": 1,
+        "e": "<b>Article 2</b> empowers Parliament to 'admit into the Union of India, or establish, new states on such terms and conditions as it thinks fit'."
+      },
+      {
+        "q": "Which Article of the Constitution deals with the formation of new states and alteration of the areas, boundaries, or names of existing states?",
+        "o": [
+          "Article 1",
+          "Article 2",
+          "Article 3",
+          "Article 4"
+        ],
+        "a": 2,
+        "e": "<b>Article 3</b> deals with the internal re-adjustment of the territories of the constituent states, including forming new states and altering areas, boundaries or names."
+      },
+      {
+        "q": "Before introducing a bill under Article 3 in Parliament, whose prior recommendation is required?",
+        "o": [
+          "The Chief Justice of India",
+          "The President of India",
+          "The Speaker of the Lok Sabha",
+          "The Election Commission"
+        ],
+        "a": 1,
+        "e": "A bill under Article 3 can be introduced in Parliament only with the <b>prior recommendation of the President</b>."
+      },
+      {
+        "q": "Under Article 3, before recommending a bill affecting a state's boundaries, to whom must the President refer the bill for its views?",
+        "o": [
+          "The Supreme Court",
+          "The concerned state legislature",
+          "The Rajya Sabha",
+          "The Finance Commission"
+        ],
+        "a": 1,
+        "e": "The President must refer the bill to the <b>concerned state legislature</b> to express its views within a specified period, though the President/Parliament is not bound by those views."
+      },
+      {
+        "q": "Laws made by Parliament under Articles 2 and 3 for admitting/forming states are treated as amendments of the Constitution under Article 368?",
+        "o": [
+          "Yes, they always require a special majority under Article 368",
+          "No, they can be passed by simple majority through the ordinary legislative process",
+          "Only laws under Article 2 require Article 368 procedure",
+          "Only laws under Article 3 require Article 368 procedure"
+        ],
+        "a": 1,
+        "e": "Article 4 clarifies that such laws are <b>not</b> considered constitutional amendments under Article 368 and can be passed by a <b>simple majority</b> through the ordinary legislative process."
+      },
+      {
+        "q": "India is often described as 'an indestructible union of destructible states' because:",
+        "o": [
+          "States can leave the Union whenever they wish",
+          "The Union Government can alter or abolish states, but state governments cannot destroy the Union",
+          "The Constitution guarantees the territorial integrity of every state",
+          "States have equal power to the Union Government"
+        ],
+        "a": 1,
+        "e": "Since Parliament can alter, merge or abolish states without their consent, while no state can threaten the Union's existence, India is called 'an indestructible union of destructible states' — unlike the USA's 'indestructible union of indestructible states'."
+      },
+      {
+        "q": "Of the 552 princely states within India's geographical boundaries at independence, how many initially refused to join India?",
+        "o": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ],
+        "a": 2,
+        "e": "Of the 552 princely states, <b>549 joined India</b> while only <b>3 — Hyderabad, Junagarh and Kashmir</b> — initially refused to join."
+      },
+      {
+        "q": "Which method was used to integrate the princely state of Hyderabad into the Indian Union?",
+        "o": [
+          "Police action",
+          "Referendum",
+          "Instrument of Accession alone",
+          "Direct annexation by Parliament"
+        ],
+        "a": 0,
+        "e": "Hyderabad was integrated into India through <b>police action</b>, while Junagarh was integrated through a referendum and Kashmir through the Instrument of Accession."
+      },
+      {
+        "q": "In 1950, the Constitution classified states and territories of the Indian Union into which four-fold classification?",
+        "o": [
+          "North, South, East and West states",
+          "Part A, Part B, Part C states and Part D territories",
+          "Major, minor, union and special territories",
+          "Class I, Class II, Class III and Class IV states"
+        ],
+        "a": 1,
+        "e": "The original 1950 classification consisted of <b>Part A, Part B, Part C states and Part D territories</b>, totalling 29 units."
+      },
+      {
+        "q": "Which commission recommended the reorganisation of states primarily on the basis of language, submitting its report in 1955?",
+        "o": [
+          "Dhar Commission",
+          "JVP Committee",
+          "Fazl Ali Commission (States Reorganisation Commission)",
+          "Sarkaria Commission"
+        ],
+        "a": 2,
+        "e": "The <b>Fazl Ali Commission</b> (States Reorganisation Commission), which also included K.M. Panikkar and H.N. Kunzru, broadly accepted language as the basis for reorganising states in its 1955 report."
+      },
+      {
+        "q": "Which act, along with the 7th Constitutional Amendment Act of 1956, abolished the Part A/B/C classification and created 14 states and 6 union territories?",
+        "o": [
+          "Government of India Act, 1935",
+          "States Reorganisation Act, 1956",
+          "Indian Independence Act, 1947",
+          "North-Eastern Areas (Reorganisation) Act, 1971"
+        ],
+        "a": 1,
+        "e": "The <b>States Reorganisation Act, 1956</b>, together with the 7th Constitutional Amendment Act, 1956, abolished the earlier four-fold classification and created 14 states and 6 union territories."
+      },
+      {
+        "q": "As of the present position described in the book, how many states and union territories does India have?",
+        "o": [
+          "25 states and 7 union territories",
+          "28 states and 8 union territories",
+          "29 states and 6 union territories",
+          "26 states and 9 union territories"
+        ],
+        "a": 1,
+        "e": "India presently has <b>28 states and 8 union territories</b>, up from 14 states and 6 union territories in 1956."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements regarding Article 1 of the Constitution:\n1. It deals with the name of the country as well as the type of polity.\n2. The Constituent Assembly unanimously agreed to name the country only 'Bharat'.\n3. The country is described as a 'Union' even though its Constitution is federal in structure.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — there was <b>no unanimity</b> in the Constituent Assembly on the name, leading to the compromise phrase 'India, that is Bharat'. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements distinguishing Articles 2 and 3:\n1. Article 2 relates to admission or establishment of new states that are not currently part of the Union of India.\n2. Article 3 relates to internal re-adjustment of the territories of states already within the Union.\n3. Both Articles require the same procedural safeguards, including prior Presidential recommendation and reference to the state legislature.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the specific procedural safeguards of prior Presidential recommendation and reference to state legislatures are laid down for <b>Article 3</b> actions, not necessarily identically for Article 2. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about Parliament's power under Article 3:\n1. The President or Parliament is bound to accept the views expressed by a state legislature within the specified period.\n2. A fresh reference to the state legislature is required every time an amendment to the bill is moved in Parliament.\n3. In the case of a union territory, no reference need be made to the concerned legislature at all.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statements 1 and 2 are incorrect — the President/Parliament is <b>not bound</b> by the state legislature's views, and a <b>fresh reference is not necessary</b> for every amendment. Only statement 3 is correct."
+      },
+      {
+        "q": "Consider the following statements about the Berubari Union case:\n1. It arose from a decision to cede part of Berubari Union (West Bengal) to Pakistan.\n2. The Supreme Court held that Parliament's power under Article 3 to diminish a state's area covers cession of Indian territory to a foreign country.\n3. Consequently, the 9th Constitutional Amendment Act, 1960 was enacted to give effect to the cession.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Supreme Court held that Article 3 power to diminish a state's area does <b>NOT</b> cover cession of Indian territory to a foreign country; such cession requires a constitutional amendment under Article 368. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about settlement of international boundary disputes:\n1. In 1969, the Supreme Court ruled that settling a boundary dispute with another country requires a constitutional amendment.\n2. A boundary settlement that does not involve cession of Indian territory can be carried out by executive action alone.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "a": 1,
+        "e": "Statement 1 is incorrect — in 1969 the Supreme Court held that mere <b>settlement of a boundary dispute does NOT require a constitutional amendment</b> and can be done through executive action, since it does not involve ceding Indian territory. Statement 2 is correct."
+      },
+      {
+        "q": "Consider the following statements about the 100th Constitutional Amendment Act, 2015:\n1. It gave effect to the exchange of enclaves between India and Bangladesh.\n2. India transferred more enclaves to Bangladesh than it received in return.\n3. It modified provisions relating to the territories of Assam, West Bengal, Meghalaya and Tripura in the First Schedule.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct — India transferred 111 enclaves to Bangladesh while receiving 51 in return, and the four named states' First Schedule entries were modified by the 100th Amendment."
+      },
+      {
+        "q": "Consider the following statements about the Dhar Commission and the JVP Committee:\n1. The Dhar Commission recommended reorganisation of states on the basis of administrative convenience rather than language.\n2. The JVP Committee was headed by S.K. Dhar.\n3. The JVP Committee formally rejected language as the basis for reorganisation of states in its 1949 report.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the JVP Committee, comprising Nehru, Patel and Pattabhi Sitaramayya, had <b>no chairman</b> (S.K. Dhar chaired the earlier, separate Linguistic Provinces Commission). Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the creation of the first linguistic state:\n1. Andhra state was created in 1953 by separating Telugu-speaking areas from Madras state.\n2. Its creation followed a popular agitation and the death of Potti Sriramulu after a hunger strike.\n3. The creation of Andhra state reduced the demand for linguistic reorganisation in other regions.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the creation of Andhra state actually <b>intensified</b> the demand for linguistic states elsewhere, leading to the appointment of the Fazl Ali Commission. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Fazl Ali Commission (States Reorganisation Commission):\n1. It broadly accepted language as a basis of reorganisation but rejected the theory of 'one language-one state'.\n2. It identified the preservation of national unity and security as a primary consideration.\n3. It recommended the creation of 16 states and 3 centrally administered territories.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements accurately describe the Fazl Ali Commission's recommendations — accepting language while rejecting a rigid one-language-one-state formula, prioritising national unity, and proposing 16 states and 3 union territories."
+      },
+      {
+        "q": "Consider the following statements about the formation of new states after 1956:\n1. Maharashtra and Gujarat were carved out of the bilingual state of Bombay in 1960.\n2. Nagaland was formed in 1963 by taking the Naga Hills and Tuensang area out of Assam.\n3. Haryana was carved out of Punjab in 1966 following the recommendations of the Shah Commission.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements correctly describe these state formations — Maharashtra/Gujarat from Bombay (1960), Nagaland from Assam (1963), and Haryana from Punjab (1966) via the Shah Commission's recommendation."
+      },
+      {
+        "q": "Consider the following statements about the North-East reorganisation of 1972:\n1. Manipur, Tripura and Meghalaya were given full statehood.\n2. Mizoram and Arunachal Pradesh were created as new union territories out of Assam's territory.\n3. Before 1972, Meghalaya existed as an 'autonomous state' or 'sub-state' within Assam under the 22nd Amendment Act, 1969.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct — this describes the 1972 reorganisation under the North-Eastern Areas (Reorganisation) Act, 1971, which built upon Meghalaya's earlier 'sub-state' status."
+      },
+      {
+        "q": "Consider the following statements regarding Sikkim's integration into India:\n1. The 35th Amendment Act, 1974 gave Sikkim the status of an 'associate state' by inserting a new Article 2-A and Tenth Schedule.\n2. A 1975 referendum in Sikkim favoured abolishing the institution of Chogyal and full integration with India.\n3. The 36th Amendment Act, 1975 repealed Article 2-A and made Sikkim the 22nd state of the Union.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements accurately trace Sikkim's path from princely state and protectorate to associate state (35th Amendment) and finally full statehood (36th Amendment) following the 1975 referendum."
+      },
+      {
+        "q": "Consider the following statements about states created in 1987:\n1. Mizoram became a full state following the Mizoram Peace Accord of 1986.\n2. Arunachal Pradesh had been a union territory since 1972 before becoming a state.\n3. Goa became a state by being separated from the union territory of Goa, Daman and Diu, after which Daman and Diu became a separate union territory.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct — Mizoram, Arunachal Pradesh and Goa all became states in 1987 (23rd, 24th, 25th respectively) through the circumstances described."
+      },
+      {
+        "q": "Consider the following statements about the year-2000 state formations:\n1. Chhattisgarh, Uttarakhand and Jharkhand were carved out of Madhya Pradesh, Uttar Pradesh and Bihar respectively.\n2. These became the 26th, 27th and 28th states of the Indian Union respectively.\n3. Uttarakhand was originally named Uttaranchal at the time of its creation and was renamed later.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct — the three new states created in 2000 match these source states and numbering, and Uttarakhand was indeed originally created as 'Uttaranchal', renamed in 2006."
+      },
+      {
+        "q": "Consider the following statements about Telangana's creation:\n1. Telangana became the 29th state of the Indian Union in 2014.\n2. It was carved out of the territories of Andhra Pradesh under the Andhra Pradesh Reorganisation Act, 2014.\n3. Prior to 1956, the same Telugu-speaking Telangana region had been part of the separate Andhra state formed in 1953.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1, 2 and 3",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the original 1953 Andhra state was formed from Telugu-speaking areas of <b>Madras state</b>, and Telangana (from the former Hyderabad state) was merged into it only later, in 1956, to form Andhra Pradesh. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Jammu and Kashmir Reorganisation Act, 2019:\n1. It bifurcated the erstwhile State of Jammu and Kashmir into two union territories.\n2. The union territory of Ladakh includes the Kargil and Leh districts.\n3. The union territory of Jammu and Kashmir retains a separate state constitution distinct from India's Constitution.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the special status and separate state constitution of Jammu and Kashmir were <b>abolished in 2019</b>, extending all provisions of the Indian Constitution to it. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about renaming of states and union territories:\n1. Madras was renamed Tamil Nadu in 1969.\n2. Mysore was renamed Karnataka in 1973.\n3. Delhi was conferred full statehood and redesignated the National Capital Territory by the 69th Amendment Act, 1991.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the 69th Amendment Act, 1991 redesignated Delhi as the National Capital Territory <b>without</b> conferring full statehood on it. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about India's power to acquire foreign territory:\n1. Being a sovereign state, India can acquire foreign territory through modes recognised by international law such as cession, occupation, conquest or subjugation.\n2. Dadra and Nagar Haveli, Goa (with Daman and Diu), Puducherry and Sikkim are cited as territories acquired by India since the Constitution's commencement.\n3. Every such acquisition automatically becomes a full state without any further legislative process.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — acquired territories are typically first administered as union territories (or similar arrangements) and require specific legislation to be elevated to full statehood, as seen with Goa and Sikkim. Statements 1 and 2 are correct."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "Which of the following correctly distinguishes the American federation from the Indian Union, as explained in the book?",
+        "o": [
+          "The USA is 'an indestructible union of destructible states', India is the reverse",
+          "India is 'an indestructible union of destructible states', the USA is 'an indestructible union of indestructible states'",
+          "Both are described identically as 'destructible unions of indestructible states'",
+          "Neither country's federation guarantees the territorial integrity of its constituent units"
+        ],
+        "a": 1,
+        "e": "India is described as 'an <b>indestructible union of destructible states</b>' (Parliament can alter/abolish states), while the USA is 'an <b>indestructible union of indestructible states</b>' (states' boundaries are constitutionally guaranteed)."
+      },
+      {
+        "q": "By which Constitutional Amendment Act was Parliament's power under Article 3 extended to include forming a new state or union territory by uniting a part of any state or union territory to another state or union territory?",
+        "o": [
+          "9th Amendment Act, 1960",
+          "18th Amendment Act, 1966",
+          "35th Amendment Act, 1974",
+          "100th Amendment Act, 2015"
+        ],
+        "a": 1,
+        "e": "The <b>18th Constitutional Amendment Act, 1966</b> extended Article 3 to include forming a new state/union territory by uniting parts of states/union territories with other states/union territories."
+      },
+      {
+        "q": "Arrange the following state-reorganisation milestones in chronological order:\n1. Creation of Haryana out of Punjab\n2. Formation of the first linguistic state, Andhra\n3. Sikkim becomes the 22nd state of India\n4. Formation of Chhattisgarh, Uttarakhand and Jharkhand",
+        "o": [
+          "2-1-3-4",
+          "1-2-3-4",
+          "2-3-1-4",
+          "4-3-2-1"
+        ],
+        "a": 0,
+        "e": "Chronologically: Andhra state (1953) → Haryana carved from Punjab (1966) → Sikkim becomes 22nd state (1975) → Chhattisgarh/Uttarakhand/Jharkhand (2000). Correct order: 2-1-3-4."
+      },
+      {
+        "q": "Which Act converted Dadra and Nagar Haveli, previously under Portuguese rule until 1954, into a union territory of India?",
+        "o": [
+          "The 9th Constitutional Amendment Act, 1960",
+          "The 10th Constitutional Amendment Act, 1961",
+          "The 12th Constitutional Amendment Act, 1962",
+          "The 14th Constitutional Amendment Act, 1962"
+        ],
+        "a": 1,
+        "e": "Dadra and Nagar Haveli was converted into a union territory by the <b>10th Constitutional Amendment Act, 1961</b>, after being administered by a locally chosen administrator following its 1954 liberation."
+      },
+      {
+        "q": "Goa, Daman and Diu were acquired by India from the Portuguese through police action in 1961 and constituted as a union territory by which amendment?",
+        "o": [
+          "10th Constitutional Amendment Act, 1961",
+          "12th Constitutional Amendment Act, 1962",
+          "14th Constitutional Amendment Act, 1962",
+          "22nd Constitutional Amendment Act, 1969"
+        ],
+        "a": 1,
+        "e": "Goa, Daman and Diu were constituted as a union territory by the <b>12th Constitutional Amendment Act, 1962</b>. Goa was later conferred statehood in 1987, after which Daman and Diu became a separate union territory."
+      },
+      {
+        "q": "Puducherry (comprising former French establishments Puducherry, Karaikal, Mahe and Yanam) was made a union territory by which amendment, after being administered as an 'acquired territory' from 1954?",
+        "o": [
+          "10th Constitutional Amendment Act, 1961",
+          "12th Constitutional Amendment Act, 1962",
+          "14th Constitutional Amendment Act, 1962",
+          "18th Constitutional Amendment Act, 1966"
+        ],
+        "a": 2,
+        "e": "Puducherry was made a union territory in 1962 by the <b>14th Constitutional Amendment Act</b>, after the French handed it over to India in 1954."
+      },
+      {
+        "q": "In 2020, which two union territories were merged to form the union territory of 'Dadra and Nagar Haveli and Daman and Diu'?",
+        "o": [
+          "Dadra and Nagar Haveli, and Daman and Diu",
+          "Goa and Daman and Diu",
+          "Puducherry and Karaikal",
+          "Lakshadweep and Puducherry"
+        ],
+        "a": 0,
+        "e": "The 2019 Act (effective 2020) merged the union territories of <b>Dadra and Nagar Haveli</b> and <b>Daman and Diu</b> into a single union territory."
+      },
+      {
+        "q": "Which commission's recommendation directly led to the 1966 bifurcation of Punjab into Punjab, Haryana and the union territory of Chandigarh?",
+        "o": [
+          "Fazl Ali Commission",
+          "Shah Commission",
+          "Sarkaria Commission",
+          "JVP Committee"
+        ],
+        "a": 1,
+        "e": "The <b>Shah Commission (1966)</b> recommended constituting Punjabi-speaking areas into unilingual Punjab, Hindi-speaking areas into Haryana, and merging hill areas with Himachal Pradesh."
+      },
+      {
+        "q": "Which of the following is the correct sequence of Sikkim's constitutional evolution?",
+        "o": [
+          "Protectorate (1947) → Associate state under Article 2-A (35th Amendment, 1974) → Full state (36th Amendment, 1975)",
+          "Full state (1950) → Protectorate (1974) → Associate state (1975)",
+          "Associate state (1947) → Protectorate (1974) → Full state (1975)",
+          "Full state (1974) → Associate state (1975) → Protectorate (2019)"
+        ],
+        "a": 0,
+        "e": "Sikkim moved from a <b>protectorate</b> (1947) to an '<b>associate state</b>' under the newly inserted Article 2-A via the 35th Amendment (1974), and finally to a <b>full state</b> (22nd) via the 36th Amendment (1975), which also repealed Article 2-A."
+      },
+      {
+        "q": "Which new Article was inserted by the 36th Constitutional Amendment Act, 1975 to provide special provisions for the administration of Sikkim?",
+        "o": [
+          "Article 2-A",
+          "Article 371-F",
+          "Article 370",
+          "Article 244-A"
+        ],
+        "a": 1,
+        "e": "The 36th Amendment Act, 1975 inserted <b>Article 371-F</b>, providing special provisions for Sikkim's administration, while repealing the earlier Article 2-A and Tenth Schedule."
+      },
+      {
+        "q": "The Andhra Pradesh Reorganisation Act, 2014, which created Telangana, effectively reversed the merger achieved by which earlier legislation?",
+        "o": [
+          "The Andhra State Act, 1953",
+          "The States Reorganisation Act, 1956",
+          "The North-Eastern Areas (Reorganisation) Act, 1971",
+          "The 7th Constitutional Amendment Act, 1956"
+        ],
+        "a": 1,
+        "e": "The <b>States Reorganisation Act, 1956</b> had merged Telugu-speaking Hyderabad-state areas (Telangana) with the Andhra state to form Andhra Pradesh; the 2014 Act reversed this by bifurcating Andhra Pradesh into Telangana and residuary Andhra Pradesh."
+      },
+      {
+        "q": "Which of the following pairs of state/UT and the year it was renamed is INCORRECTLY matched?",
+        "o": [
+          "United Provinces → Uttar Pradesh, 1950",
+          "Mysore → Karnataka, 1973",
+          "Laccadive, Minicoy and Amindivi Islands → Lakshadweep, 1973",
+          "Pondicherry → Puducherry, 1991"
+        ],
+        "a": 3,
+        "e": "Pondicherry was renamed Puducherry in <b>2006</b>, not 1991 (1991/1992 is when Delhi was redesignated the National Capital Territory by the 69th Amendment). The other three pairs are correctly matched."
+      },
+      {
+        "q": "The Assam (Alteration of Boundaries) Act, 1951, one of the earliest laws made under Article 3, provided for:",
+        "o": [
+          "Formation of the first linguistic state",
+          "Ceding a strip of Assam's territory to Bhutan",
+          "Merger of Chandernagore into West Bengal",
+          "Transfer of territory between Bihar and West Bengal"
+        ],
+        "a": 1,
+        "e": "The <b>Assam (Alteration of Boundaries) Act, 1951</b> altered Assam's boundaries by ceding a strip of territory to <b>Bhutan</b>."
+      },
+      {
+        "q": "Which Article 3 law merged the former French enclave of Chandernagore into the State of West Bengal?",
+        "o": [
+          "Bihar and West Bengal (Transfer of Territories) Act, 1956",
+          "Chandernagore (Merger) Act, 1954",
+          "Acquired Territories (Merger) Act, 1960",
+          "Assam (Alteration of Boundaries) Act, 1951"
+        ],
+        "a": 1,
+        "e": "The <b>Chandernagore (Merger) Act, 1954</b> merged the former French enclave of Chandernagore into West Bengal."
+      },
+      {
+        "q": "The Acquired Territories (Merger) Act, 1960 provided for merging certain territories acquired from Pakistan (under 1958-59 agreements) into which states?",
+        "o": [
+          "Assam, Punjab and West Bengal",
+          "Rajasthan, Punjab and Gujarat",
+          "Bihar, Odisha and West Bengal",
+          "Kerala, Karnataka and Tamil Nadu"
+        ],
+        "a": 0,
+        "e": "The <b>Acquired Territories (Merger) Act, 1960</b> merged territories acquired from Pakistan into <b>Assam, Punjab and West Bengal</b>."
+      },
+      {
+        "q": "Consider the following statements about the Bombay Reorganisation Act, 1960:\n1. It formed the new state of Gujarat as the 15th state of the Indian Union.\n2. It renamed the remaining part of Bombay state as Maharashtra.\n3. Ahmedabad was made the capital of the newly formed Gujarat.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements are correct — the Bombay Reorganisation Act, 1960 created Gujarat (15th state) with Ahmedabad as capital, and renamed the remainder Maharashtra."
+      },
+      {
+        "q": "Which Article 3 law elevated the union territories of Manipur and Tripura to statehood, conferred full statehood on Meghalaya, and simultaneously created the union territories of Mizoram and Arunachal Pradesh?",
+        "o": [
+          "The Assam Reorganisation (Meghalaya) Act, 1969",
+          "The North-Eastern Areas (Reorganisation) Act, 1971",
+          "The State of Nagaland Act, 1962",
+          "The State of Himachal Pradesh Act, 1970"
+        ],
+        "a": 1,
+        "e": "The <b>North-Eastern Areas (Reorganisation) Act, 1971</b> elevated Manipur (19th) and Tripura (20th) to states, gave Meghalaya (21st) full statehood, and created Mizoram and Arunachal Pradesh as union territories, all effective from 21 January 1972."
+      },
+      {
+        "q": "Which of the following four states listed became a full state earliest, based on statehood dates given in the book?",
+        "o": [
+          "Himachal Pradesh (1971)",
+          "Sikkim (1975)",
+          "Mizoram (1987)",
+          "Chhattisgarh (2000)"
+        ],
+        "a": 0,
+        "e": "<b>Himachal Pradesh</b> became the 18th state in <b>1971</b> (effective 25 January 1971), earlier than Sikkim (1975), Mizoram (1987) and Chhattisgarh (2000)."
+      }
+    ],
+    "upsc": [
+      {
+        "q": "Consider the following statements regarding Articles 1 to 4 of the Constitution:\n1. Article 1 describes India as a 'Union of States' and classifies its territory into three categories.\n2. Article 2 deals with admission or establishment of new states not already part of the Union.\n3. Article 4 declares that laws made under Articles 2 and 3 are not to be treated as amendments under Article 368.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements accurately summarise Articles 1, 2 and 4 as discussed in the chapter."
+      },
+      {
+        "q": "Assertion (A): India is described as 'federal in form but unitary in spirit' partly because Parliament can alter state boundaries without the states' consent.\nReason (R): Article 3 empowers Parliament to form new states or alter the areas, boundaries or names of existing states, subject only to a Presidential recommendation and a non-binding reference to the state legislature.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — the fact that Parliament can redraw state boundaries via Article 3 without needing the affected state's consent (only a non-binding reference) is precisely why India's federation is described as unitary-leaning in this respect."
+      },
+      {
+        "q": "With reference to the Berubari Union case and its aftermath, consider the following statements:\n1. The Supreme Court held that ceding Indian territory to a foreign state requires a constitutional amendment under Article 368, not mere legislation under Article 3.\n2. The 9th Constitutional Amendment Act, 1960 was enacted specifically to give effect to the transfer of the Berubari territory to Pakistan.\n3. This principle was later relevant to the 100th Constitutional Amendment Act, 2015, which similarly required a constitutional amendment for the India-Bangladesh land boundary exchange.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements correctly connect the Berubari precedent to both the 9th Amendment (1960) and the later 100th Amendment (2015), both of which used the Article 368 route for territorial cession/exchange rather than ordinary legislation."
+      },
+      {
+        "q": "Consider the following statements about the distinction between settling a boundary dispute and ceding territory:\n1. The Supreme Court in 1969 held that settling a boundary dispute with a neighbouring country can be done through executive action alone.\n2. This is because a boundary settlement does not necessarily involve cession of Indian territory to a foreign country.\n3. Any cession of Indian territory, in contrast, always requires a constitutional amendment under Article 368.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements are correct and reflect the Supreme Court's 1969 ruling distinguishing simple boundary settlement (executive action) from actual territorial cession (requiring Article 368 amendment)."
+      },
+      {
+        "q": "Match List-I (Constitutional Amendment) with List-II (Territorial Change) and select the correct answer using the code below.\nList-I:\nA. 9th Amendment Act, 1960\nB. 35th Amendment Act, 1974\nC. 36th Amendment Act, 1975\nD. 100th Amendment Act, 2015\nList-II:\n1. Made Sikkim a full-fledged state and inserted Article 371-F\nList-II:\n2. Gave effect to cession of Berubari territory to Pakistan\n3. Gave Sikkim the status of an 'associate state' via new Article 2-A\n4. Gave effect to the India-Bangladesh land boundary/enclave exchange",
+        "o": [
+          "A-2, B-3, C-1, D-4",
+          "A-1, B-2, C-3, D-4",
+          "A-2, B-1, C-3, D-4",
+          "A-4, B-3, C-1, D-2"
+        ],
+        "a": 0,
+        "e": "9th Amendment (1960) — Berubari cession; 35th Amendment (1974) — Sikkim as associate state via Article 2-A; 36th Amendment (1975) — Sikkim full statehood via Article 371-F; 100th Amendment (2015) — India-Bangladesh boundary/enclave exchange. Correct code: A-2, B-3, C-1, D-4."
+      },
+      {
+        "q": "Consider the following statements about the evolution of Sikkim's status:\n1. Sikkim was an Indian princely state ruled by the Chogyal until 1947.\n2. After 1947, Sikkim became a 'protectorate', with India responsible for its defence, external affairs and communications.\n3. The 'associate state' status created by the 35th Amendment proved durable and remains a distinct constitutional category applicable to Sikkim today.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the 'associate state' status was short-lived and was <b>repealed</b> by the 36th Amendment Act, 1975, when Sikkim became a full state; it is not a category applicable today. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements regarding the linguistic reorganisation of states:\n1. The Dhar Commission (1948) recommended reorganisation on administrative convenience rather than language.\n2. The JVP Committee (1949), comprising Nehru, Patel and Pattabhi Sitaramayya, formally rejected language as the basis of reorganisation.\n3. Despite this rejection, the Government was compelled to create the first linguistic state, Andhra, in 1953 due to popular agitation.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements correctly trace the arc from official resistance to linguistic reorganisation (Dhar Commission, JVP Committee) to its eventual necessity following Potti Sriramulu's fast and the creation of Andhra state in 1953."
+      },
+      {
+        "q": "With reference to the Fazl Ali Commission (States Reorganisation Commission), consider the following statements:\n1. It had three members: Fazl Ali, K.M. Panikkar and H.N. Kunzru.\n2. It identified national unity and security as a primary consideration, while broadly accepting linguistic and cultural homogeneity as a factor.\n3. It recommended abolishing the Part A/B/C/D classification and creating 16 states and 3 centrally administered territories, which the government adopted with minor modifications.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements are correct — this accurately summarises the composition, guiding principles, and outcome of the Fazl Ali Commission's 1955 report."
+      },
+      {
+        "q": "Assertion (A): Kerala, as created in 1956, is not simply the old Travancore-Cochin state renamed.\nReason (R): Kerala was formed by merging the Travancore-Cochin State with the Malabar district of Madras State and Kasargode of South Canara.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — Kerala was a genuinely new composite unit formed by merging Travancore-Cochin with Malabar (from Madras) and Kasargode (from South Canara), not merely a renaming of the old princely state."
+      },
+      {
+        "q": "Consider the following statements regarding Andhra Pradesh's territorial history:\n1. The Andhra State Act, 1953 created the first linguistic state by separating Telugu-speaking areas from Madras state, with Kurnool as its capital.\n2. The States Reorganisation Act, 1956 merged Telugu-speaking Hyderabad-state areas with Andhra state to form the enlarged Andhra Pradesh, shifting the capital to Hyderabad.\n3. The Andhra Pradesh Reorganisation Act, 2014 bifurcated Andhra Pradesh into a residuary Andhra Pradesh and Telangana.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements correctly trace Andhra Pradesh's evolution from the original 1953 Andhra state to the 1956 merger and the 2014 bifurcation creating Telangana."
+      },
+      {
+        "q": "Consider the following statements about the 1966 Punjab reorganisation:\n1. It followed the demand for a Punjabi Suba (Sikh homeland) led by the Akali Dal under Master Tara Singh.\n2. The Shah Commission recommended a unilingual Punjab (Punjabi-speaking), a new state of Haryana (Hindi-speaking), and merger of hill areas with Himachal Pradesh.\n3. Chandigarh was made a union territory serving as the common capital of both Punjab and Haryana.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct and describe the exact basis, recommendation and outcome of the 1966 Punjab Reorganisation Act."
+      },
+      {
+        "q": "Consider the following statements about the union territories of Dadra and Nagar Haveli, and Daman and Diu:\n1. Dadra and Nagar Haveli was under Portuguese rule until 1954 and was administered by a locally chosen administrator before becoming a union territory in 1961.\n2. Goa, Daman and Diu were acquired from the Portuguese by police action in 1961 and made a union territory in 1962.\n3. After Goa's statehood in 1987, Daman and Diu remained merged with Dadra and Nagar Haveli as a single unit until 2019-2020, when they were finally separated.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — Daman and Diu became a <b>separate</b> union territory after Goa's 1987 statehood, and it was only <b>merged with</b> Dadra and Nagar Haveli (not separated from it) in 2019-2020. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Assertion (A): The Jammu and Kashmir Reorganisation Act, 2019 created two Union Territories rather than converting the erstwhile state into a single Union Territory.\nReason (R): The Kargil and Leh districts of the former State of Jammu and Kashmir were separated to form the Union Territory of Ladakh, while the remaining districts became the Union Territory of Jammu and Kashmir.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R correctly explains A — the 2019 Act specifically separated Kargil and Leh into the new Union Territory of Ladakh, with the rest forming the Union Territory of Jammu and Kashmir."
+      },
+      {
+        "q": "Consider the following statements on the numbering of Indian states by order of formation as full states:\n1. Gujarat was the 15th state.\n2. Nagaland was the 16th state.\n3. Sikkim was the 22nd state.\n4. Telangana was the 29th state.\nHow many of the statements given above are correctly numbered?",
+        "o": [
+          "Only two",
+          "Only three",
+          "All four",
+          "None"
+        ],
+        "a": 2,
+        "e": "All four are correctly numbered as per the book: Gujarat (15th, 1960), Nagaland (16th, 1963), Sikkim (22nd, 1975) and Telangana (29th, 2014)."
+      },
+      {
+        "q": "With reference to renaming of Indian states and union territories, consider the following statements:\n1. United Provinces became Uttar Pradesh in 1950.\n2. Laccadive, Minicoy and Amindivi Islands were renamed Lakshadweep in 1973, the same year Mysore was renamed Karnataka.\n3. Orissa was renamed Odisha in 2011, and Uttaranchal was renamed Uttarakhand in the same year.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — Uttaranchal was renamed Uttarakhand in <b>2006</b>, not 2011 (only Orissa was renamed Odisha in 2011). Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the legal mechanism for cession versus reorganisation of Indian territory:\n1. Ceding Indian territory to a foreign country requires a constitutional amendment under Article 368.\n2. Forming a new state, or altering an existing state's area, boundary or name, requires only an ordinary law passed by simple majority under Articles 2, 3 and 4.\n3. Both processes require the same threshold of parliamentary approval since both affect the map of India.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — cession of territory (Article 368, special majority) and internal reorganisation (Articles 2-4, simple majority) are governed by <b>different</b> procedural thresholds. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements regarding the 18th Constitutional Amendment Act, 1966:\n1. It clarified that Parliament's power under Article 3 to form a new state includes uniting a part of any state or union territory with another state or union territory.\n2. It was enacted in direct response to the same year's Punjab Reorganisation Act.\n3. It expanded, rather than restricted, the scope of Parliament's reorganisation powers under Article 3.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is not established in the text as a direct causal response to the Punjab Reorganisation Act; the amendment is described independently as clarifying/expanding Article 3's scope. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "With reference to India's territorial acquisitions since 1950, consider the following statements:\n1. India can acquire foreign territory through modes recognised by international law such as cession, occupation, conquest or subjugation.\n2. Dadra and Nagar Haveli, Goa (with Daman and Diu), Puducherry, and Sikkim are all cited as territories acquired by India since the Constitution's commencement.\n3. All four of these acquisitions occurred through the same method — police action.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — these acquisitions occurred through <b>different</b> methods: Dadra and Nagar Haveli via a local administrator after liberation, Goa/Daman/Diu via police action, Puducherry via French handover, and Sikkim via a gradual protectorate-to-statehood process. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the changing count of India's states and union territories over time:\n1. In 1950, there were 29 units under the Part A/B/C/D classification.\n2. In 1956, following the States Reorganisation Act, there were 14 states and 6 union territories.\n3. As of the present position described in the book, there are 28 states and 8 union territories.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements correctly trace the numerical evolution of India's political units from 29 (1950) to 14 states/6 UTs (1956) to 28 states/8 UTs (present)."
+      },
+      {
+        "q": "Assertion (A): The territorial integrity of an Indian state is not constitutionally guaranteed in the way an American state's is.\nReason (R): Article 3 permits Parliament to alter a state's area, boundaries or name through an ordinary law, requiring only a Presidential recommendation and a non-binding reference to the state legislature, not the state's consent.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — because Article 3 lets Parliament act without needing a state's consent (only a non-binding reference), Indian states lack the constitutional guarantee of territorial integrity that American states enjoy."
+      }
+    ]
+  }
+}
