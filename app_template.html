@@ -75,6 +75,7 @@
   .b-basic{background:#dcfce7; color:#166534;}
   .b-inter{background:#fef3c7; color:#92400e;}
   .b-adv{background:#fee2e2; color:#991b1b;}
+  .b-upsc{background:#ede9fe; color:#5b21b6;}
   .subject-test-box{margin-top:8px; padding:16px; border-radius:12px; background:#eff6ff; border:1px dashed var(--accent);}
   .subject-test-box p{margin:0 0 12px; font-size:0.82rem; color:var(--muted);}
 
@@ -422,7 +423,8 @@ const COMING_SOON_SUBJECTS = [
 const LEVEL_META = {
   basic:{title:"Basic", desc:"Core facts & definitions", badge:"b-basic"},
   intermediate:{title:"Intermediate", desc:"Statements, exceptions & comparisons", badge:"b-inter"},
-  advanced:{title:"Advanced", desc:"Landmark cases, doctrines & amendments", badge:"b-adv"}
+  advanced:{title:"Advanced", desc:"Landmark cases, doctrines & amendments", badge:"b-adv"},
+  upsc:{title:"UPSC", desc:"Real exam-level toughness — statements, matching & assertion-reason", badge:"b-upsc"}
 };
 
 const SUBJECT_TEST_SIZE = 25;
@@ -757,7 +759,7 @@ async function renderChapterList(subjectKey){
   list.innerHTML = '';
   let n = 1;
   SUBJECT_DATA[subjectKey].chapters.forEach(ch=>{
-    const total = ch.questions.basic.length + ch.questions.intermediate.length + ch.questions.advanced.length;
+    const total = Object.values(ch.questions).reduce((sum, arr)=> sum + arr.length, 0);
     const best = bestByChapter[ch.id];
     const done = best !== undefined;
     const div = document.createElement('div');
@@ -777,7 +779,10 @@ async function renderChapterList(subjectKey){
 
   const stGrid = document.getElementById('subject-test-grid');
   stGrid.innerHTML = '';
+  const chapters = SUBJECT_DATA[subjectKey].chapters;
   Object.entries(LEVEL_META).forEach(([key, meta])=>{
+    const hasAny = chapters.some(ch => ch.questions[key] && ch.questions[key].length);
+    if(!hasAny) return; // don't offer a full-subject test for a level no chapter has yet
     const btn = document.createElement('div');
     btn.className = 'level-btn';
     btn.innerHTML = `<div><div class="lt">${meta.title} — Full ${SUBJECTS[subjectKey].title} Test</div><div class="ld">${meta.desc} · ${SUBJECT_TEST_SIZE} random questions across all chapters</div></div><span class="badge ${meta.badge}">${meta.title}</span>`;
@@ -815,6 +820,7 @@ async function renderLevelSelect({mode, chapterId}){
 
   grid.innerHTML = '';
   Object.entries(LEVEL_META).forEach(([key, meta])=>{
+    if(!ch.questions[key] || !ch.questions[key].length) return; // only show levels this chapter actually has
     const count = ch.questions[key].length;
     const best = bestByLevel[key];
     const done = best !== undefined;
@@ -910,7 +916,7 @@ function startQuiz({mode, chapterId, level}){
   } else if(mode === 'subject'){
     let pool = [];
     chapters.forEach(ch=>{
-      ch.questions[level].forEach(q=> pool.push({...q, chapterTitle: ch.title}));
+      (ch.questions[level] || []).forEach(q=> pool.push({...q, chapterTitle: ch.title}));
     });
     list = shuffle(pool).slice(0, SUBJECT_TEST_SIZE);
   }
