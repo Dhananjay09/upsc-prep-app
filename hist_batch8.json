@@ -1,0 +1,2430 @@
+[
+ {
+  "id": "hist_communalism_partition",
+  "title": "Communalism & Partition",
+  "desc": "Rise of communalism, Muslim League, Two-Nation theory, Lahore Resolution 1940, Cripps Mission, Quit India, Cabinet Mission Plan 1946, Direct Action Day, Mountbatten Plan, Partition of India 1947, Radcliffe Line, refugee crisis",
+  "questions": {
+   "basic": [
+    {
+     "q": "In which year was the All India Muslim League founded?",
+     "o": [
+      "1885",
+      "1906",
+      "1916",
+      "1930"
+     ],
+     "a": 1,
+     "e": "The <b>All India Muslim League</b> was founded in <b>1906 at Dhaka</b> under the leadership of Nawab Salimullah and Aga Khan III, initially to safeguard Muslim political interests."
+    },
+    {
+     "q": "The All India Muslim League was founded in which city?",
+     "o": [
+      "Lucknow",
+      "Dhaka",
+      "Aligarh",
+      "Lahore"
+     ],
+     "a": 1,
+     "e": "The League was established in <b>Dhaka</b> in December 1906, on the sidelines of the All India Muhammadan Educational Conference."
+    },
+    {
+     "q": "Who is most closely associated with propounding the 'Two-Nation Theory'?",
+     "o": [
+      "Sir Syed Ahmad Khan",
+      "Muhammad Ali Jinnah",
+      "Liaquat Ali Khan",
+      "Allama Iqbal"
+     ],
+     "a": 1,
+     "e": "Although earlier articulated by others, the <b>Two-Nation Theory</b>—that Hindus and Muslims are separate nations—was most forcefully championed by <b>M.A. Jinnah</b> from the late 1930s onward."
+    },
+    {
+     "q": "The 'Lahore Resolution' (Pakistan Resolution) was passed by the Muslim League in which year?",
+     "o": [
+      "1930",
+      "1937",
+      "1940",
+      "1942"
+     ],
+     "a": 2,
+     "e": "The <b>Lahore Resolution</b> was adopted at the Muslim League session on <b>23 March 1940</b>, demanding separate 'independent states' for Muslims in the north-western and eastern zones of India."
+    },
+    {
+     "q": "Who moved the Lahore Resolution of 1940 in the Muslim League session?",
+     "o": [
+      "M.A. Jinnah",
+      "A.K. Fazlul Huq",
+      "Liaquat Ali Khan",
+      "Khaliquzzaman"
+     ],
+     "a": 1,
+     "e": "The resolution was moved by <b>A.K. Fazlul Huq</b>, the Premier of Bengal, though it was popularly known as the Pakistan Resolution."
+    },
+    {
+     "q": "The Cripps Mission came to India in which year?",
+     "o": [
+      "1940",
+      "1942",
+      "1945",
+      "1946"
+     ],
+     "a": 1,
+     "e": "The <b>Cripps Mission</b>, led by Sir Stafford Cripps, arrived in <b>March 1942</b> to secure Indian cooperation in the war effort by offering a promise of Dominion Status after the war."
+    },
+    {
+     "q": "The Quit India Movement was launched in which year?",
+     "o": [
+      "1940",
+      "1942",
+      "1945",
+      "1946"
+     ],
+     "a": 1,
+     "e": "The <b>Quit India Movement</b> was launched by the Congress on <b>8 August 1942</b> following the failure of the Cripps Mission, demanding immediate British withdrawal."
+    },
+    {
+     "q": "The Cabinet Mission Plan was announced in which year?",
+     "o": [
+      "1945",
+      "1946",
+      "1947",
+      "1948"
+     ],
+     "a": 1,
+     "e": "The <b>Cabinet Mission</b>, comprising Pethick-Lawrence, Stafford Cripps, and A.V. Alexander, arrived in <b>March 1946</b> and proposed a three-tier federal structure for India."
+    },
+    {
+     "q": "'Direct Action Day' called by the Muslim League was observed on which date?",
+     "o": [
+      "15 August 1946",
+      "16 August 1946",
+      "2 September 1946",
+      "3 June 1947"
+     ],
+     "a": 1,
+     "e": "The Muslim League observed <b>Direct Action Day on 16 August 1946</b> to press the demand for Pakistan, which led to the 'Great Calcutta Killings' with large-scale communal violence."
+    },
+    {
+     "q": "The Mountbatten Plan for the partition of India was announced on which date?",
+     "o": [
+      "16 August 1946",
+      "20 February 1947",
+      "3 June 1947",
+      "18 July 1947"
+     ],
+     "a": 2,
+     "e": "Lord Mountbatten announced his plan for partition on <b>3 June 1947</b>, which formed the basis of the Indian Independence Act, 1947."
+    },
+    {
+     "q": "Who was appointed as the chairman of the Boundary Commission that drew the partition line?",
+     "o": [
+      "Stafford Cripps",
+      "Cyril Radcliffe",
+      "Lord Wavell",
+      "V.P. Menon"
+     ],
+     "a": 1,
+     "e": "<b>Sir Cyril Radcliffe</b>, a British lawyer with no prior knowledge of India, chaired the Boundary Commissions for both Punjab and Bengal; the resulting boundary is called the <b>Radcliffe Line</b>."
+    },
+    {
+     "q": "India and Pakistan became independent on which dates respectively?",
+     "o": [
+      "14 and 15 August 1947",
+      "15 and 14 August 1947",
+      "15 August 1947 for both",
+      "3 June and 15 August 1947"
+     ],
+     "a": 1,
+     "e": "Pakistan came into being on <b>14 August 1947</b> and India on <b>15 August 1947</b>, as per the Indian Independence Act, 1947."
+    },
+    {
+     "q": "The Indian Independence Act was passed by the British Parliament in which year?",
+     "o": [
+      "1946",
+      "1947",
+      "1948",
+      "1935"
+     ],
+     "a": 1,
+     "e": "The <b>Indian Independence Act, 1947</b> received royal assent in July 1947, providing for the creation of two independent dominions—India and Pakistan."
+    },
+    {
+     "q": "Who delivered the famous 1930 Allahabad Address often cited as an early articulation of a separate Muslim state idea?",
+     "o": [
+      "M.A. Jinnah",
+      "Allama Iqbal",
+      "Liaquat Ali Khan",
+      "Rahmat Ali"
+     ],
+     "a": 1,
+     "e": "<b>Muhammad Iqbal</b>, in his presidential address to the Muslim League at Allahabad in 1930, proposed the consolidation of Muslim-majority north-western regions into a separate state."
+    },
+    {
+     "q": "The term 'Pakistan' as a name for a separate Muslim homeland was coined by whom?",
+     "o": [
+      "M.A. Jinnah",
+      "Allama Iqbal",
+      "Chaudhry Rahmat Ali",
+      "Liaquat Ali Khan"
+     ],
+     "a": 2,
+     "e": "<b>Chaudhry Rahmat Ali</b> coined the term 'Pakistan' in his 1933 pamphlet 'Now or Never', combining letters from Punjab, Afghania, Kashmir, Sindh, and Baluchistan."
+    },
+    {
+     "q": "The Interim Government at the centre, formed in 1946 ahead of independence, was headed by whom?",
+     "o": [
+      "M.A. Jinnah",
+      "Jawaharlal Nehru",
+      "Liaquat Ali Khan",
+      "Rajendra Prasad"
+     ],
+     "a": 1,
+     "e": "The <b>Interim Government</b> formed in September 1946 was headed by <b>Jawaharlal Nehru</b> as Vice-President of the Executive Council, with the Muslim League joining later."
+    },
+    {
+     "q": "Who served as the Finance Member in the Interim Government of 1946, representing the Muslim League?",
+     "o": [
+      "Liaquat Ali Khan",
+      "M.A. Jinnah",
+      "I.I. Chundrigar",
+      "Abdur Rab Nishtar"
+     ],
+     "a": 0,
+     "e": "<b>Liaquat Ali Khan</b> held the crucial Finance portfolio in the Interim Government, which he used to create difficulties for Congress-led governance."
+    },
+    {
+     "q": "The last Viceroy of British India, under whom the Partition took place, was?",
+     "o": [
+      "Lord Wavell",
+      "Lord Mountbatten",
+      "Lord Linlithgow",
+      "Lord Irwin"
+     ],
+     "a": 1,
+     "e": "<b>Lord Mountbatten</b> was the last Viceroy of British India (1947) and became independent India's first Governor-General after partition."
+    }
+   ],
+   "intermediate": [
+    {
+     "q": "Consider the following statements regarding the Lucknow Pact of 1916:\n1. It was an agreement between the Congress and the Muslim League.\n2. It accepted the principle of separate electorates for Muslims.\n3. It was negotiated jointly by Bal Gangadhar Tilak and Muhammad Ali Jinnah.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "a": 3,
+     "e": "The <b>Lucknow Pact (1916)</b> united the Congress and Muslim League on a common political programme, conceded <b>separate electorates</b> to Muslims, and was actively negotiated by leaders including <b>Tilak and Jinnah</b>."
+    },
+    {
+     "q": "Consider the following statements about the Cripps Mission (1942):\n1. It offered Dominion Status to India after the end of the Second World War.\n2. It proposed that any province could opt out of the future Indian Union.\n3. It was accepted by both the Congress and the Muslim League.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+     ],
+     "a": 0,
+     "e": "The Cripps proposals offered <b>post-war Dominion Status</b> and allowed provinces to <b>opt out</b> of the Union, but were <b>rejected by both the Congress and the League</b>—the Congress wanted immediate transfer of power, the League wanted a clearer Pakistan commitment."
+    },
+    {
+     "q": "Which of the following statements about the Cabinet Mission Plan (1946) is/are correct?\n1. It rejected the demand for a full-fledged sovereign Pakistan.\n2. It proposed a three-tier structure with a weak centre and grouping of provinces.\n3. It provided for a Constituent Assembly to be elected by provincial assemblies.\nSelect the correct answer using the code below.",
+     "o": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "a": 3,
+     "e": "The Cabinet Mission <b>rejected a separate Pakistan</b> but proposed a <b>three-tier federation</b> with provinces grouped into three sections (A, B, C), and a <b>Constituent Assembly</b> indirectly elected by provincial legislatures."
+    },
+    {
+     "q": "The 'Great Calcutta Killings' of August 1946 were a direct consequence of which event?",
+     "o": [
+      "The Cripps Mission's failure",
+      "The Muslim League's Direct Action Day",
+      "The Cabinet Mission Plan's rejection",
+      "The Quit India Movement's suppression"
+     ],
+     "a": 1,
+     "e": "The Muslim League's call for <b>Direct Action Day (16 August 1946)</b> to press for Pakistan triggered massive communal riots in Calcutta, killing thousands within days."
+    },
+    {
+     "q": "Consider the following statements regarding the Mountbatten Plan of 3 June 1947:\n1. It provided for the partition of Punjab and Bengal.\n2. It gave princely states the option to join either dominion or remain independent.\n3. It advanced the date of transfer of power from June 1948 to August 1947.\nHow many of the statements given above are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements are correct: the plan provided for <b>partitioning Punjab and Bengal</b>, gave <b>princely states a choice</b> of accession, and <b>advanced the transfer of power</b> to 15 August 1947."
+    },
+    {
+     "q": "Why did the Muslim League decide to join the Interim Government in October 1946 despite having earlier called for Direct Action?",
+     "o": [
+      "It abandoned the demand for Pakistan",
+      "To obstruct Congress governance from within and press the Pakistan demand",
+      "The British forced Jinnah through arrest threats",
+      "It won a majority in the Constituent Assembly elections"
+     ],
+     "a": 1,
+     "e": "The League joined the Interim Government primarily to <b>obstruct and weaken Congress-led governance from within</b>, using ministries like Finance to create hurdles, while continuing to press for Pakistan."
+    },
+    {
+     "q": "Consider the following pairs of Boundary Commission members and their role in 1947:\n1. Cyril Radcliffe - Chairman of both Punjab and Bengal Boundary Commissions\n2. Members were nominated equally from Congress and Muslim League\n3. The Commission's award was made public before independence on 15 August 1947\nWhich of the pairs given above is/are correctly matched?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "a": 0,
+     "e": "Radcliffe chaired both commissions with equal representation from Congress and League, but crucially, the <b>Radcliffe Award was announced only on 17 August 1947</b>, two days after independence, not before it."
+    },
+    {
+     "q": "Which of the following best explains the primary reason the Congress ultimately accepted the Mountbatten Plan for Partition in 1947?",
+     "o": [
+      "Gandhi's insistence on partition to end communal violence",
+      "Growing communal violence and administrative breakdown made a united India appear unworkable in the near term",
+      "The League had numerical majority in the Constituent Assembly",
+      "British Parliament mandated partition through legislation before Mountbatten's arrival"
+     ],
+     "a": 1,
+     "e": "Faced with escalating <b>communal violence, an increasingly non-functional Interim Government, and pressure for speedy transfer of power</b>, Congress leaders reluctantly accepted partition as the only practical route to early independence."
+    },
+    {
+     "q": "Consider the following statements on the Radcliffe Line:\n1. It demarcated the boundary between India and Pakistan in both Punjab and Bengal.\n2. Cyril Radcliffe had extensive prior experience of Indian geography and demography.\n3. The award led to one of the largest mass migrations in human history.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 3 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Radcliffe drew the boundary in <b>Punjab and Bengal</b>, but notably had <b>no prior knowledge of India</b> and completed the task in about five weeks, contributing to the chaos and the massive <b>refugee migration</b> that followed."
+    },
+    {
+     "q": "The Radcliffe Award divided which two provinces most directly?",
+     "o": [
+      "Punjab and Sindh",
+      "Bengal and Assam",
+      "Punjab and Bengal",
+      "Sindh and Bengal"
+     ],
+     "a": 2,
+     "e": "The Boundary Commissions under Radcliffe were tasked specifically with partitioning <b>Punjab and Bengal</b> along communal lines, based on contiguous majority areas of Muslims and non-Muslims."
+    },
+    {
+     "q": "Which of the following statements about the refugee crisis following Partition is/are correct?\n1. It resulted in the migration of about 10-15 million people across the new border.\n2. Punjab witnessed the largest and most violent transfer of population.\n3. The government of India set up the Ministry of Rehabilitation to handle refugee resettlement.\nSelect the correct answer.",
+     "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+     ],
+     "a": 2,
+     "e": "Partition triggered a migration of roughly <b>10-15 million people</b>, with <b>Punjab</b> witnessing the bloodiest exchange, prompting the government to establish a <b>Ministry of Rehabilitation</b> for refugee resettlement."
+    },
+    {
+     "q": "What was the significance of the 'Grouping' clause in the Cabinet Mission Plan of 1946?",
+     "o": [
+      "It grouped princely states under a separate constitutional category",
+      "It grouped provinces into three sections (A, B, C) based on religious majority, seen as a virtual concession to League's demands",
+      "It grouped minorities for reserved seats in the legislature",
+      "It grouped political parties for negotiation purposes"
+     ],
+     "a": 1,
+     "e": "The Grouping clause organised British Indian provinces into <b>Sections A, B and C</b>—broadly Hindu-majority and Muslim-majority groupings—which the Congress feared could pave the way for a de facto Pakistan, causing major friction."
+    },
+    {
+     "q": "Which statement correctly describes the Congress's initial response to the Cabinet Mission Plan's long-term plan versus the League's response?",
+     "o": [
+      "Both accepted it fully without reservations",
+      "Congress accepted with reservations on grouping; League initially accepted but later withdrew and called Direct Action Day",
+      "Congress rejected it outright; League accepted fully",
+      "Both rejected the plan outright"
+     ],
+     "a": 1,
+     "e": "Congress accepted the long-term plan with reservations (especially on compulsory grouping), while the <b>League initially accepted it but withdrew after Nehru's remarks</b> at a press conference, subsequently calling for Direct Action Day."
+    },
+    {
+     "q": "Nehru's press conference remark that the Constituent Assembly would be a 'sovereign body free to decide the constitution' primarily led to which consequence?",
+     "o": [
+      "Congress's rejection of the Cabinet Mission Plan",
+      "The League's withdrawal of acceptance of the Cabinet Mission Plan and call for Direct Action",
+      "Immediate acceptance of Partition by Gandhi",
+      "Formation of the Interim Government without the League"
+     ],
+     "a": 1,
+     "e": "Nehru's remark, suggesting the Assembly was not bound by the Cabinet Mission's grouping scheme, gave the League grounds to <b>withdraw its acceptance</b> and announce <b>Direct Action Day</b> in August 1946."
+    },
+    {
+     "q": "Consider the following statements regarding the demand for Pakistan before 1940:\n1. The idea of separate Muslim states was first formally adopted as League policy at the 1930 Allahabad session.\n2. The 1940 Lahore Resolution did not use the word 'Pakistan'.\n3. The Lahore Resolution originally envisaged a single unified Muslim state, not two wings.\nWhich of the above statements is/are correct?",
+     "o": [
+      "2 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "3 only"
+     ],
+     "a": 0,
+     "e": "Iqbal's 1930 address was a personal proposal, not League policy. The <b>Lahore Resolution did not use the word 'Pakistan'</b> (added later by the press), and it actually called for <b>independent 'states' (plural)</b> in the northwest and east, not one unified state."
+    },
+    {
+     "q": "Which of the following was NOT among the three members of the Cabinet Mission of 1946?",
+     "o": [
+      "Lord Pethick-Lawrence",
+      "Sir Stafford Cripps",
+      "A.V. Alexander",
+      "Lord Wavell"
+     ],
+     "a": 3,
+     "e": "<b>Lord Wavell</b> was the Viceroy at the time but not a member of the Cabinet Mission itself, which comprised <b>Pethick-Lawrence, Cripps, and Alexander</b>."
+    },
+    {
+     "q": "Consider the following statements about the Muslim League's electoral performance in the 1945-46 provincial elections:\n1. The League swept almost all Muslim reserved seats.\n2. This was used to claim the League as the sole representative of Indian Muslims.\n3. The Congress won a majority of the general (non-Muslim) seats.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 1,
+     "e": "The League's near-total sweep of Muslim seats in the 1945-46 elections bolstered <b>Jinnah's claim to sole representation</b> of Muslims, while the <b>Congress dominated general seats</b>, hardening the two-party communal divide."
+    },
+    {
+     "q": "The 'June 3 Plan' (Mountbatten Plan) proposed which mechanism to ascertain the wishes of the North-West Frontier Province and Sylhet district regarding accession?",
+     "o": [
+      "A direct vote in the Constituent Assembly",
+      "A referendum among the population",
+      "A decision by the provincial legislature alone",
+      "Arbitration by the Viceroy"
+     ],
+     "a": 1,
+     "e": "The Mountbatten Plan provided for <b>referenda</b> in the NWFP and the Sylhet district of Assam to determine whether these Muslim-majority areas would join Pakistan or India."
+    }
+   ],
+   "advanced": [
+    {
+     "q": "Consider the following statements:\n1. The Lahore Resolution of 1940 used the plural term 'states' rather than a single unified state.\n2. The word 'Pakistan' was officially incorporated into League resolutions only after 1940.\n3. The 1946 Cabinet Mission's rejection of a sovereign Pakistan was based on the argument that it would leave large minorities on both sides.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 3 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "a": 3,
+     "e": "All three are correct: the 1940 resolution spoke of 'states' in plural; the term 'Pakistan' (coined by press/Rahmat Ali) was adopted informally afterward; and the Cabinet Mission rejected full Pakistan citing the problem of large minorities trapped on either side of any partition line."
+    },
+    {
+     "q": "Which of the following factors is generally considered LEAST significant in explaining the ultimate acceptance of Partition by the Congress leadership in 1947?",
+     "o": [
+      "Breakdown of the Interim Government's functioning due to League's obstruction",
+      "Mounting communal violence across Punjab, Bengal, and Bihar",
+      "Gandhi's active campaigning in favour of partition as the best solution",
+      "Mountbatten's urgency to expedite the transfer of power"
+     ],
+     "a": 2,
+     "e": "Gandhi remained <b>opposed to Partition</b> till the very end and did not campaign for it; the acceptance came from other Congress leaders driven by practical considerations of violence, governance breakdown, and British urgency, making this the least significant/incorrect factor."
+    },
+    {
+     "q": "Consider the following statements regarding the Radcliffe Boundary Award:\n1. Radcliffe was given roughly five weeks to complete the boundary demarcation for both Punjab and Bengal.\n2. The award was based purely on district-wise religious majorities without considering other factors like canal systems or railway lines.\n3. The award's announcement was delayed until after 15 August 1947 to avoid holding the British directly responsible for resultant violence during the transfer of power ceremonies.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 3 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Radcliffe had only about five weeks. Statement 2 is incorrect since he did consider factors beyond religious majority (e.g., irrigation and communication networks) in some areas. The delayed announcement (17 August) is widely seen as a deliberate move to distance the British from the ensuing violence."
+    },
+    {
+     "q": "With reference to the 1946 Direct Action Day, consider the following statements:\n1. It was called after the Muslim League withdrew its earlier acceptance of the Cabinet Mission Plan.\n2. The Muslim League ministry in Bengal, headed by H.S. Suhrawardy, was in power in Calcutta at the time.\n3. The violence remained confined to Calcutta and did not spread to rural Bengal or Bihar.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Statements 1 and 2 are correct—Suhrawardy's League ministry governed Bengal during the Calcutta killings. Statement 3 is incorrect, as the violence subsequently spread to rural East Bengal (Noakhali) and Bihar, triggering a wider cycle of communal retaliation."
+    },
+    {
+     "q": "Which of the following best characterizes the difference between the 1916 Lucknow Pact and the 1940 Lahore Resolution in terms of Congress-League relations?",
+     "o": [
+      "Both envisaged a unified independent India with power-sharing safeguards for Muslims",
+      "Lucknow Pact sought Hindu-Muslim unity within a single India via separate electorates, while Lahore Resolution demanded separate sovereign states, marking a shift from safeguards to separation",
+      "Both explicitly demanded the partition of India into two states",
+      "Lahore Resolution built directly upon Lucknow Pact's proposal for a federal Pakistan"
+     ],
+     "a": 1,
+     "e": "The Lucknow Pact (1916) sought unity within one India through devices like separate electorates and weightage; the Lahore Resolution (1940) represented a fundamental shift toward demanding <b>separate sovereign Muslim states</b>, reflecting the hardening of communal politics over 24 years."
+    },
+    {
+     "q": "Consider the following statements about the Cripps Mission's failure in 1942:\n1. The Congress objected mainly to the provision allowing provinces to opt out of the Indian Union.\n2. The Muslim League rejected the proposals because they did not explicitly guarantee Pakistan.\n3. Gandhi famously described the Cripps offer as 'a post-dated cheque on a crashing bank'.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "All three are correct: Congress opposed the opt-out clause fearing Balkanisation; the League wanted a clearer path to Pakistan; and Gandhi's famous remark captured Congress's view that Dominion Status promised only after an uncertain war outcome was worthless."
+    },
+    {
+     "q": "Which of the following statements about the Indian Independence Act, 1947 is/are correct?\n1. It created two independent dominions, India and Pakistan, from 15 August 1947.\n2. It abolished the office of the Secretary of State for India.\n3. It gave princely states complete freedom to accede to either dominion or remain independent, without any legal obligation.\nSelect the correct answer.",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "The Act created the two dominions effective 15 August 1947, abolished the Secretary of State for India's office (his functions were transferred), and legally allowed <b>princely states freedom of accession</b> or remaining independent, a provision Sardar Patel worked hard to override in practice."
+    },
+    {
+     "q": "In the context of Partition, the term 'moth-eaten Pakistan' is associated with whose reaction to the final territorial settlement?",
+     "o": [
+      "Jawaharlal Nehru's reaction to losing Kashmir",
+      "M.A. Jinnah's disappointed reaction that the final Pakistan did not include the whole of Punjab and Bengal",
+      "Mahatma Gandhi's reaction to the Radcliffe Award",
+      "Lord Mountbatten's assessment of Pakistan's economic viability"
+     ],
+     "a": 1,
+     "e": "Jinnah reportedly called the resulting truncated Pakistan (excluding large Hindu/Sikh majority areas of Punjab and Bengal) a <b>'moth-eaten' or 'truncated' Pakistan</b>, far smaller than the League's original vision."
+    },
+    {
+     "q": "Consider the following statements regarding the role of Sardar Vallabhbhai Patel during Partition:\n1. He was a key advocate within Congress for accepting Partition to avoid a paralysed, unworkable centre.\n2. He played the leading role in integrating princely states into the Indian Union post-independence.\n3. He opposed the accession of Junagadh and Hyderabad to Pakistan or independence.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Patel supported accepting partition pragmatically to end deadlock, subsequently led the historic <b>integration of over 500 princely states</b>, and firmly opposed Junagadh's and Hyderabad's attempted accession away from India."
+    },
+    {
+     "q": "Which of the following statements about communal politics in colonial India is/are correct?\n1. The Morley-Minto Reforms of 1909 introduced separate electorates for Muslims for the first time in provincial legislative councils.\n2. The Communal Award of 1932 extended separate electorates to depressed classes as well as Muslims.\n3. The Poona Pact of 1932 replaced separate electorates for depressed classes with reserved seats under joint electorates.\nSelect the correct answer.",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "All correct: <b>Morley-Minto (1909)</b> introduced separate Muslim electorates; the <b>Communal Award (1932)</b> extended separate electorates to depressed classes among others; the <b>Poona Pact</b> then replaced this with <b>reserved seats in joint electorates</b> after Gandhi's fast."
+    },
+    {
+     "q": "Why is the 1946 Cabinet Mission Plan often regarded as the 'last serious attempt' to keep India united before Partition?",
+     "o": [
+      "It was the only plan that both parties signed as a binding treaty",
+      "It offered a middle path of a loose confederal centre with grouped provincial autonomy, attempting to reconcile League's autonomy demands with Congress's unity goal, but collapsed over interpretation disputes",
+      "It was proposed by Gandhi himself as a final compromise",
+      "It granted Pakistan immediately with a promise of later reunification"
+     ],
+     "a": 1,
+     "e": "The Cabinet Mission tried to balance unity and autonomy through a <b>weak centre and provincial grouping</b>, seen as the last feasible compromise; but differing interpretations of 'grouping' by Congress and League, worsened by Nehru's press remarks, led to its collapse."
+    },
+    {
+     "q": "Consider the following statements on the Sylhet referendum of 1947:\n1. It was held to decide whether the Sylhet district of Assam would join East Bengal (Pakistan) or remain in India.\n2. The referendum resulted in Sylhet's inclusion in Pakistan.\n3. It was one of two referenda provided for under the Mountbatten Plan, the other being in the NWFP.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "All correct: the <b>Sylhet referendum</b> decided in favour of joining <b>East Bengal/Pakistan</b>, and along with the <b>NWFP referendum</b>, these were the two plebiscites envisaged under the June 3 Plan."
+    },
+    {
+     "q": "The Congress's acceptance of the 'grouping' clause of the Cabinet Mission Plan under compulsion in 1946, and its subsequent reluctance to implement it in the Constituent Assembly, is best explained by which of the following?",
+     "o": [
+      "Congress feared compulsory grouping would create a de facto Pakistan by clubbing NWFP, Punjab, Sindh, Baluchistan (Section B) and Bengal, Assam (Section C) into League-dominated blocs",
+      "Congress wanted grouping to apply only to princely states",
+      "The League itself opposed grouping and forced Congress to reconsider",
+      "Grouping was a British administrative reorganisation unrelated to religious demography"
+     ],
+     "a": 0,
+     "e": "Congress worried that mandatory grouping into Sections B and C would create quasi-autonomous Muslim-majority blocs functioning almost like a separate Pakistan, undermining the very unity the plan claimed to preserve, hence its later reluctance despite conditional acceptance."
+    },
+    {
+     "q": "Which of the following statements correctly distinguishes the approaches of Jinnah and Iqbal towards a separate Muslim state?",
+     "o": [
+      "Iqbal proposed a consolidated Muslim state within a federated India in 1930, while Jinnah later moved towards demanding full sovereign partition by 1940",
+      "Jinnah proposed the idea first in 1930 and Iqbal adopted it later in 1940",
+      "Both proposed identical fully sovereign independent states from the outset",
+      "Neither Iqbal nor Jinnah ever supported the idea of a separate Muslim state"
+     ],
+     "a": 0,
+     "e": "Iqbal's 1930 Allahabad address envisaged a Muslim-majority state possibly <b>within a federated India</b>; it was <b>Jinnah</b>, especially after 1937-40, who moved decisively toward demanding full <b>sovereign partition</b>, culminating in the Lahore Resolution."
+    },
+    {
+     "q": "Consider the following statements about the demographic impact of Partition:\n1. Punjab experienced a near-total, two-way exchange of Hindu/Sikh and Muslim populations.\n2. Bengal's population exchange was as complete and immediate as Punjab's in 1947 itself.\n3. Migration from East Pakistan to India continued in waves for years and decades after 1947.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 3 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Punjab saw an almost complete, violent, two-way exchange in 1947 itself, while Bengal's migration was more <b>gradual and prolonged</b>, continuing in waves for decades (unlike the near-total 1947 Punjab exchange), making statement 2 incorrect."
+    },
+    {
+     "q": "The phrase 'A tryst with destiny' is most closely associated with which event related to the transfer of power?",
+     "o": [
+      "Jinnah's address to the Constituent Assembly of Pakistan on 11 August 1947",
+      "Nehru's speech to the Indian Constituent Assembly on the midnight of 14-15 August 1947",
+      "Mountbatten's farewell speech as Governor-General",
+      "Gandhi's prayer meeting speech on independence day"
+     ],
+     "a": 1,
+     "e": "Nehru's iconic <b>'Tryst with Destiny'</b> speech was delivered to the Constituent Assembly at midnight of 14-15 August 1947, marking India's transition to independence."
+    },
+    {
+     "q": "Which of the following statements best reflects the reason the Congress rejected the demand for Pakistan through most of the 1940s before finally accepting it in 1947?",
+     "o": [
+      "Congress believed partition was economically unviable for both future states and administratively impractical to draw clean boundaries amid mixed populations",
+      "Congress had no ideological objection but lacked negotiating leverage",
+      "The British explicitly forbade discussion of partition until 1946",
+      "Congress supported partition since 1930 but delayed it for electoral reasons"
+     ],
+     "a": 0,
+     "e": "Congress consistently argued that India's mixed population made any 'clean' communal partition <b>administratively and economically impractical</b>, and it remained committed to a united, secular India until worsening violence and political deadlock forced a reluctant reversal."
+    },
+    {
+     "q": "Consider the following statements regarding the role of the Indian National Army (INA) trials in the run-up to Partition-era politics:\n1. The INA trials at the Red Fort in 1945-46 briefly united Congress and League leaders in defending the accused.\n2. Widespread public support for INA soldiers contributed to unrest, including the Royal Indian Navy Mutiny of 1946.\n3. The INA trials directly caused the Cabinet Mission's grouping scheme to be abandoned.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "The INA trials briefly created rare unity across parties in defending the accused and fuelled nationalist sentiment, contributing to unrest such as the <b>1946 RIN Mutiny</b>; however, they had no direct causal link to the separate collapse of the Cabinet Mission's grouping scheme."
+    }
+   ]
+  }
+ },
+ {
+  "id": "hist_working_class_movements",
+  "title": "Working Class Movements",
+  "desc": "Rise of Indian trade unionism, AITUC formation, key labour leaders (N.M. Lokhande, Narayan Meghaji Lokhande, B.P. Wadia, V.V. Giri), Factory Acts, Royal Commission on Labour, communist influence on labour movement, Bombay/Kanpur textile strikes, Meerut Conspiracy Case",
+  "questions": {
+   "basic": [
+    {
+     "q": "Who is generally regarded as the 'Father of Indian Trade Unionism'?",
+     "o": [
+      "B.P. Wadia",
+      "N.M. Lokhande",
+      "V.V. Giri",
+      "S.A. Dange"
+     ],
+     "a": 1,
+     "e": "<b>Narayan Meghaji Lokhande</b> is regarded as the father of the Indian trade union movement for his pioneering work organising Bombay mill workers in the 1880s."
+    },
+    {
+     "q": "N.M. Lokhande founded which early workers' organisation in Bombay?",
+     "o": [
+      "Bombay Mill Hands' Association",
+      "All India Trade Union Congress",
+      "Madras Labour Union",
+      "Ahmedabad Textile Labour Association"
+     ],
+     "a": 0,
+     "e": "Lokhande founded the <b>Bombay Mill Hands' Association in 1890</b>, one of the earliest organised labour associations in India."
+    },
+    {
+     "q": "The All India Trade Union Congress (AITUC) was founded in which year?",
+     "o": [
+      "1918",
+      "1920",
+      "1926",
+      "1935"
+     ],
+     "a": 1,
+     "e": "<b>AITUC</b>, India's first central trade union organisation, was founded in <b>1920</b> in Bombay."
+    },
+    {
+     "q": "Who was the first President of the All India Trade Union Congress (AITUC)?",
+     "o": [
+      "Lala Lajpat Rai",
+      "N.M. Joshi",
+      "B.P. Wadia",
+      "Jawaharlal Nehru"
+     ],
+     "a": 0,
+     "e": "<b>Lala Lajpat Rai</b> was elected the first president of AITUC at its inaugural session in 1920."
+    },
+    {
+     "q": "B.P. Wadia is known for founding which of the following labour unions?",
+     "o": [
+      "Bombay Mill Hands' Association",
+      "Madras Labour Union",
+      "Ahmedabad Textile Labour Association",
+      "All India Railwaymen's Federation"
+     ],
+     "a": 1,
+     "e": "<b>B.P. Wadia</b> founded the <b>Madras Labour Union in 1918</b>, one of India's first modern trade unions, organised among workers of Buckingham and Carnatic Mills."
+    },
+    {
+     "q": "The Ahmedabad Textile Labour Association (Majoor Mahajan) was founded in 1920 with the guidance of whom?",
+     "o": [
+      "Mahatma Gandhi",
+      "N.M. Lokhande",
+      "B.P. Wadia",
+      "S.A. Dange"
+     ],
+     "a": 0,
+     "e": "The <b>Ahmedabad Textile Labour Association (Majoor Mahajan)</b> was founded in 1920 under the guidance of <b>Mahatma Gandhi</b>, following the 1918 Ahmedabad mill strike."
+    },
+    {
+     "q": "The first Factories Act in India was enacted in which year?",
+     "o": [
+      "1881",
+      "1891",
+      "1911",
+      "1926"
+     ],
+     "a": 0,
+     "e": "The <b>first Factories Act</b> was passed in <b>1881</b>, mainly to regulate child labour, though enforcement was weak."
+    },
+    {
+     "q": "Who is credited with playing a key role in agitating for and helping bring about the Factories Act of 1881?",
+     "o": [
+      "N.M. Lokhande",
+      "B.P. Wadia",
+      "V.V. Giri",
+      "S.A. Dange"
+     ],
+     "a": 0,
+     "e": "<b>N.M. Lokhande</b> campaigned extensively for factory legislation, submitting petitions that contributed to the passage of the <b>Factories Act of 1881</b>."
+    },
+    {
+     "q": "The Royal Commission on Labour in India was appointed in which year?",
+     "o": [
+      "1926",
+      "1929",
+      "1931",
+      "1935"
+     ],
+     "a": 1,
+     "e": "The <b>Royal Commission on Labour (Whitley Commission)</b> was appointed in <b>1929</b> to examine and report on labour conditions in India."
+    },
+    {
+     "q": "Who chaired the Royal Commission on Labour in India (1929-31)?",
+     "o": [
+      "J.H. Whitley",
+      "Lord Simon",
+      "John Sankey",
+      "Lord Linlithgow"
+     ],
+     "a": 0,
+     "e": "The commission is often called the <b>Whitley Commission</b> after its chairman, <b>J.H. Whitley</b>."
+    },
+    {
+     "q": "The Meerut Conspiracy Case (1929) was primarily directed against members of which movement?",
+     "o": [
+      "The Ghadar Party",
+      "The Communist and trade union movement",
+      "The Revolutionary terrorist movement",
+      "The Khilafat Movement"
+     ],
+     "a": 1,
+     "e": "The <b>Meerut Conspiracy Case (1929)</b> saw the British prosecute leading <b>communist and trade union activists</b> for conspiracy to overthrow the King-Emperor's government in India."
+    },
+    {
+     "q": "Which prominent trade unionist and later Vice-President/President of India was among the accused in the Meerut Conspiracy Case?",
+     "o": [
+      "V.V. Giri",
+      "S.A. Dange",
+      "Muzaffar Ahmad",
+      "Shaukat Usmani"
+     ],
+     "a": 1,
+     "e": "<b>S.A. Dange</b>, a leading communist trade unionist, was among the accused in the Meerut Conspiracy Case; he later became a prominent CPI leader."
+    },
+    {
+     "q": "V.V. Giri, who later became President of India, was closely associated with which labour organisation?",
+     "o": [
+      "AITUC",
+      "All India Railwaymen's Federation",
+      "Madras Labour Union",
+      "Ahmedabad Textile Labour Association"
+     ],
+     "a": 1,
+     "e": "<b>V.V. Giri</b> was a prominent labour leader and President of the <b>All India Railwaymen's Federation</b>, later becoming Labour Minister and eventually President of India."
+    },
+    {
+     "q": "The 1918 Ahmedabad mill strike, which led Gandhi to undertake a fast, was primarily over which demand?",
+     "o": [
+      "Reduction of working hours",
+      "Increase in wages (plague bonus withdrawal issue)",
+      "Right to form unions",
+      "Abolition of child labour"
+     ],
+     "a": 1,
+     "e": "The <b>1918 Ahmedabad mill strike</b> arose when mill owners withdrew a 'plague bonus'; workers demanded higher wages, and Gandhi undertook a fast to support their cause."
+    },
+    {
+     "q": "The Communist Party of India (CPI) was formally founded in which year?",
+     "o": [
+      "1920",
+      "1925",
+      "1929",
+      "1934"
+     ],
+     "a": 1,
+     "e": "The <b>Communist Party of India</b> was formed in <b>1925</b> at Kanpur, consolidating various communist groups active since the early 1920s."
+    },
+    {
+     "q": "The Kanpur textile mills witnessed significant labour unrest in the early 20th century, contributing to which nickname for the city?",
+     "o": [
+      "Manchester of India",
+      "Manchester of the East",
+      "Cottonopolis of India",
+      "Textile capital of the North"
+     ],
+     "a": 1,
+     "e": "Kanpur, a major centre of textile and leather industries with substantial labour unrest, was often called the <b>'Manchester of the East'</b>."
+    },
+    {
+     "q": "Which act, passed in 1926, gave legal recognition to trade unions in India for the first time?",
+     "o": [
+      "Factories Act, 1926",
+      "Trade Unions Act, 1926",
+      "Trade Disputes Act, 1926",
+      "Workmen's Compensation Act, 1926"
+     ],
+     "a": 1,
+     "e": "The <b>Trade Unions Act, 1926</b> provided the first legal framework for registration and protection of trade unions in India."
+    },
+    {
+     "q": "The Bombay textile strike of 1928 was significant mainly because of the involvement of which organisation?",
+     "o": [
+      "Girni Kamgar Union (Red Flag Union)",
+      "Madras Labour Union",
+      "AITUC alone",
+      "Ahmedabad Textile Labour Association"
+     ],
+     "a": 0,
+     "e": "The massive <b>1928 Bombay textile strike</b> was led by the communist-influenced <b>Girni Kamgar Union</b> (Red Flag Union), reflecting growing communist influence in labour organising."
+    }
+   ],
+   "intermediate": [
+    {
+     "q": "Consider the following statements regarding N.M. Lokhande's contribution to Indian labour movement:\n1. He organised petitions from Bombay mill workers demanding a weekly day of rest.\n2. He founded the Bombay Mill Hands' Association in 1890.\n3. His efforts directly led to the enactment of the Factories Act of 1881, which included provisions for a weekly holiday.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Lokhande organised petitions for a weekly rest day and founded the Bombay Mill Hands' Association (1890). However, the <b>weekly holiday provision was actually introduced later, in the Factories Act of 1891</b>, not the 1881 Act, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements about the AITUC:\n1. It was founded in 1920 with Lala Lajpat Rai as its first president.\n2. It was formed partly in response to India's obligation as a founding member of the ILO to send worker delegates.\n3. It remained ideologically unified without splits throughout the freedom struggle.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "AITUC was founded in 1920 with Lajpat Rai as president, partly to select genuine worker representatives for the newly formed <b>ILO</b>. However, it saw major splits, e.g., in 1929 (Congress-led National Trade Union Federation) and 1931 (communists), so statement 3 is incorrect."
+    },
+    {
+     "q": "Which of the following pairs of labour leaders and their associated organisations is/are correctly matched?\n1. N.M. Lokhande - Bombay Mill Hands' Association\n2. B.P. Wadia - Madras Labour Union\n3. Mahatma Gandhi - All India Railwaymen's Federation\nSelect the correct answer.",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Pairs 1 and 2 are correctly matched. Gandhi is associated with the <b>Ahmedabad Textile Labour Association</b>, not the All India Railwaymen's Federation (which is linked with V.V. Giri), making pair 3 incorrect."
+    },
+    {
+     "q": "The Royal Commission on Labour (1929-31) was set up primarily in response to which concern?",
+     "o": [
+      "Rising unemployment among educated youth",
+      "Need to review wages, working conditions, health and welfare of industrial labour amid growing unrest",
+      "Demand for universal adult franchise",
+      "Agrarian unrest in Bengal"
+     ],
+     "a": 1,
+     "e": "The Whitley Commission was constituted to comprehensively examine <b>conditions of industrial labour</b>—wages, health, housing, safety—amid rising labour unrest and strikes in the late 1920s."
+    },
+    {
+     "q": "Consider the following statements regarding the Meerut Conspiracy Case (1929):\n1. It was filed against 31 labour leaders and communists including some British nationals.\n2. The trial dragged on for several years and drew international attention and sympathy for the accused.\n3. It ultimately helped suppress trade unionism in India permanently.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "The case involved 31 accused including British communists like Philip Spratt and Ben Bradley, and the prolonged trial (1929-33) attracted international sympathy. It did not permanently suppress unionism—instead it <b>publicised communist ideas and boosted the movement's profile</b>, making statement 3 incorrect."
+    },
+    {
+     "q": "What was the primary reason for the split within AITUC in 1929, leading to the formation of the National Trade Union Federation?",
+     "o": [
+      "Disagreement over affiliation with the League Against Imperialism and growing communist influence",
+      "Dispute over headquarters location",
+      "Disagreement on wages policy alone",
+      "Opposition to Gandhian methods of the Ahmedabad union"
+     ],
+     "a": 0,
+     "e": "The 1929 split arose largely from tensions over AITUC's <b>increasing communist influence and affiliation with international bodies like the League Against Imperialism</b>, prompting moderate/Congress-aligned leaders to break away and form the National Trade Union Federation."
+    },
+    {
+     "q": "Which of the following statements correctly describes the Girni Kamgar Union's role in Bombay's labour movement?",
+     "o": [
+      "It was a moderate, Gandhian-inspired union focused on arbitration",
+      "It was a communist-led 'Red Flag' union that organised the massive 1928 Bombay textile mill strike",
+      "It represented only railway workers",
+      "It was formed after independence to replace AITUC"
+     ],
+     "a": 1,
+     "e": "The <b>Girni Kamgar Union</b>, under communist leadership, organised the historic <b>1928 Bombay textile strike</b> involving over 150,000 workers, marking a high point of communist influence in the labour movement."
+    },
+    {
+     "q": "Consider the following statements about the Trade Disputes Act of 1929:\n1. It was enacted partly in response to the 1928 Bombay textile strike and rising labour militancy.\n2. It provided for compulsory conciliation and courts of inquiry in industrial disputes.\n3. It banned strikes in public utility services without notice.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "The <b>Trade Disputes Act, 1929</b> was a direct response to escalating strikes, introducing conciliation machinery and courts of inquiry, and restricting strikes in public utility services without prior notice."
+    },
+    {
+     "q": "How many of the following statements about the 1928 Bombay textile strike are correct?\n1. It lasted about six months.\n2. It was led by the Girni Kamgar Union.\n3. It was triggered by rationalisation schemes introduced by mill owners that threatened job losses.",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements are correct: the strike lasted roughly <b>six months</b>, was led by the <b>Girni Kamgar Union</b>, and was sparked by mill owners' <b>rationalisation schemes</b> threatening retrenchment."
+    },
+    {
+     "q": "Which of the following statements about V.V. Giri's role in the labour movement is/are correct?\n1. He served as President of AITUC.\n2. He was closely involved with the All India Railwaymen's Federation.\n3. He later became independent India's Labour Minister before becoming President of India.\nSelect the correct answer.",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "V.V. Giri served as AITUC president, led the All India Railwaymen's Federation, later became independent India's <b>Union Labour Minister</b>, and eventually rose to become <b>President of India (1969-74)</b>."
+    },
+    {
+     "q": "Why is the Madras Labour Union (1918) considered historically significant?",
+     "o": [
+      "It was the first trade union in Bengal",
+      "It is regarded as one of the earliest organised modern trade unions in India, involving Buckingham and Carnatic Mills workers",
+      "It was the union that led the 1928 Bombay strike",
+      "It was founded by Gandhi personally"
+     ],
+     "a": 1,
+     "e": "Founded by <b>B.P. Wadia in 1918</b> among workers of Buckingham and Carnatic Mills, the Madras Labour Union is regarded as one of <b>India's earliest modern trade unions</b> with a formal constitution."
+    },
+    {
+     "q": "Consider the following statements on communist influence in the Indian labour movement:\n1. The Communist Party of India was formed at Kanpur in 1925.\n2. The Kanpur Bolshevik Conspiracy Case (1924) preceded the Meerut Conspiracy Case.\n3. Communists gained significant influence within AITUC by the late 1920s, prompting a split in 1929.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "All correct: CPI was formed at <b>Kanpur in 1925</b>; the <b>Kanpur Bolshevik Conspiracy Case (1924)</b> targeted early communists before Meerut (1929); and communist dominance within AITUC triggered the 1929 split."
+    },
+    {
+     "q": "Which of the following best explains the significance of the Ahmedabad Textile Labour Association's approach compared to communist-led unions like the Girni Kamgar Union?",
+     "o": [
+      "Both favoured violent confrontation with mill owners",
+      "ATLA followed Gandhian principles of arbitration, trusteeship and non-violent negotiation, while Girni Kamgar favoured militant strikes influenced by class-struggle ideology",
+      "ATLA was communist-led while Girni Kamgar was Gandhian",
+      "Neither organisation engaged with mill owners directly"
+     ],
+     "a": 1,
+     "e": "The <b>Ahmedabad Textile Labour Association</b> emphasized Gandhian ideals of <b>arbitration and trusteeship</b> between labour and capital, contrasting with the more militant, strike-oriented approach of communist-led unions like the Girni Kamgar Union."
+    },
+    {
+     "q": "The Royal Commission on Labour's recommendations eventually influenced which subsequent piece of legislation most directly?",
+     "o": [
+      "Government of India Act, 1935",
+      "Factories Act, 1934",
+      "Indian Councils Act, 1909",
+      "Rowlatt Act, 1919"
+     ],
+     "a": 1,
+     "e": "Many recommendations of the Whitley Commission (1931 report) were incorporated into the <b>Factories Act of 1934</b>, which strengthened regulation of working conditions."
+    },
+    {
+     "q": "Consider the following statements regarding early factory legislation in India:\n1. The Factories Act of 1881 mainly addressed child labour and safety of machinery.\n2. The Factories Act of 1891 introduced a weekly holiday and limited working hours for women.\n3. Neither Act applied any restrictions on adult male workers' working hours.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "The 1881 Act focused on child labour and machinery safety; the 1891 Act added a weekly holiday and hour limits for women; neither Act meaningfully restricted <b>adult male</b> working hours, a gap addressed only later."
+    },
+    {
+     "q": "What was a key demand raised by workers during the 1928 Bombay textile strike besides opposition to rationalisation?",
+     "o": [
+      "Right to vote in provincial elections",
+      "Reversal of wage cuts and job security against retrenchment",
+      "Introduction of the eight-hour day for the first time",
+      "Formation of a separate political party"
+     ],
+     "a": 1,
+     "e": "Workers protested primarily against <b>rationalisation-driven retrenchment and wage cuts</b> imposed by mill owners seeking to cut costs amid economic difficulties."
+    },
+    {
+     "q": "Which of the following about the relationship between the national movement and the labour movement in the 1920s-30s is/are correct?\n1. The Congress initially showed limited interest in organised labour, focusing more on constitutional and mass civil disobedience politics.\n2. Congress socialists like Jawaharlal Nehru later took increasing interest in linking labour issues with the freedom struggle.\n3. AITUC was formally affiliated with the Congress from its founding in 1920.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Congress initially kept some distance from organised labour politics, while leaders like <b>Nehru</b> later actively engaged with labour concerns. However, AITUC was <b>not formally an arm of Congress</b> from inception—it was an independent body with varied political currents including communists."
+    },
+    {
+     "q": "Consider the following statements about the Workmen's Compensation Act, 1923:\n1. It provided for compensation to workers for injuries suffered during employment.\n2. It was among the early welfare legislations preceding the Royal Commission on Labour.\n3. It applied only to plantation workers.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "The <b>Workmen's Compensation Act, 1923</b> provided compensation for workplace injuries and predated the Whitley Commission (1929-31). It applied broadly to industrial and factory workers, <b>not solely to plantation workers</b>, making statement 3 incorrect."
+    }
+   ],
+   "advanced": [
+    {
+     "q": "Consider the following statements regarding the 1929 split in AITUC:\n1. The moderate faction that broke away formed the All India Trade Union Federation under N.M. Joshi.\n2. A further split among the communists occurred in 1931, leading to the Red Trade Union Congress.\n3. AITUC eventually reunited into a single body by 1935 without further splits thereafter.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Statements 1 and 2 are correct—the moderates under N.M. Joshi formed a separate federation in 1929, and communists further split in 1931 forming the Red TUC. However, unions did partially reunite by 1935 but the labour movement continued to see further splits and realignments in subsequent decades, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following best explains why the colonial government pursued the Meerut Conspiracy Case rather than simply banning the Communist Party outright in 1929?",
+     "o": [
+      "The Communist Party was already legally banned, so a conspiracy trial targeted individuals instead",
+      "The government sought to discredit and cripple the communist-led labour movement through a high-profile, prolonged legal process while avoiding an outright ban that could invite greater international criticism",
+      "There was no legal basis to prosecute individuals, only organisations",
+      "The case was filed at the request of AITUC's moderate faction"
+     ],
+     "a": 1,
+     "e": "The colonial government used the prolonged, high-profile Meerut trial to <b>publicly discredit and disable key communist and trade union leaders</b> through prosecution, a strategy that, however, backfired by generating sympathy and international attention for the accused's cause."
+    },
+    {
+     "q": "Consider the following statements comparing the Bombay Mill Hands' Association (1890) and the Girni Kamgar Union (1920s):\n1. The Bombay Mill Hands' Association functioned more as a welfare and petitioning body than a modern collective-bargaining union.\n2. The Girni Kamgar Union was structured on more organised, mass-membership lines with communist leadership pursuing collective bargaining and strikes.\n3. Both organisations were founded by the same individual.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Lokhande's 1890 association mainly petitioned for reforms like weekly holidays, lacking the structured collective-bargaining apparatus of the later Girni Kamgar Union, which had disciplined mass membership under communist leadership. They had different founders, so statement 3 is incorrect."
+    },
+    {
+     "q": "With reference to India's early involvement with the International Labour Organisation (ILO), consider the following statements:\n1. India was a founding member of the ILO in 1919, being a signatory to the Treaty of Versailles.\n2. This membership obligated India to send genuine workers' delegates, indirectly spurring the formation of AITUC in 1920.\n3. Indian workers' delegates to the ILO were always nominated directly by the colonial government without consulting labour organisations.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "India, as a signatory of the Versailles Treaty, became a founding ILO member in 1919, obligating credible worker representation, which spurred AITUC's 1920 formation. However, the government did <b>not always consult labour bodies</b> initially—this was actually a point of contention, contradicting statement 3."
+    },
+    {
+     "q": "The Royal Commission on Labour's 1931 report is notable for which of the following observations regarding the 'sardar' or jobber system?",
+     "o": [
+      "It praised the jobber system as an efficient recruitment mechanism with no reform needed",
+      "It criticised the jobber (contractor/intermediary) system for exploitative recruitment practices and recommended more direct, formalised recruitment and welfare measures",
+      "It recommended abolishing all forms of factory supervision",
+      "It focused exclusively on agricultural labour, ignoring industrial recruitment practices"
+     ],
+     "a": 1,
+     "e": "The Whitley Commission highlighted how the <b>jobber (sardar) system</b>, used for recruiting factory labour, often involved exploitation, bribery, and arbitrary power over workers, recommending reforms toward more formal, direct recruitment and welfare provisions."
+    },
+    {
+     "q": "Consider the following statements regarding the ideological positioning of AITUC leadership over the 1920s:\n1. Early AITUC leadership (1920s) included a mix of moderate nationalists, socialists, and emerging communists.\n2. By the late 1920s, communists had gained a dominant influence within AITUC's central leadership.\n3. This growing communist dominance was a major factor precipitating the 1929 split.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "All three are correct: AITUC began as an ideologically mixed body, saw increasing <b>communist ascendance</b> by the late 1920s (partly linked to Comintern strategy), and this shift directly precipitated the moderate faction's 1929 breakaway."
+    },
+    {
+     "q": "Which of the following statements about the linkage between the Meerut Conspiracy Case and the broader Comintern strategy is/are correct?\n1. Several Meerut accused had links to the Communist International's efforts to build a mass communist movement in colonial India.\n2. The Comintern's 'united front' versus 'class against class' debates influenced strategies of Indian communists in the late 1920s.\n3. The Meerut trial had no connection to any international communist strategy and was purely a domestic labour dispute matter.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Statements 1 and 2 are correct—several accused had Comintern links, and international debates over united-front versus 'class against class' tactics shaped Indian communist strategy. Statement 3 is incorrect since the case was explicitly framed around alleged international communist conspiracy."
+    },
+    {
+     "q": "Why did Gandhi's model of labour relations, as practised through the Ahmedabad Textile Labour Association, face criticism from more radical trade unionists?",
+     "o": [
+      "It advocated violent revolution against mill owners",
+      "It emphasized class harmony, arbitration and trusteeship, which radical unionists viewed as insufficiently challenging exploitative capital-labour relations",
+      "It refused to represent women workers",
+      "It was banned by the colonial government for being too radical"
+     ],
+     "a": 1,
+     "e": "Radical and communist trade unionists criticised the Gandhian ATLA model for its emphasis on <b>arbitration, trusteeship, and harmony with mill owners</b>, arguing it moderated rather than confronted structural exploitation inherent in capital-labour relations."
+    },
+    {
+     "q": "Consider the following statements about labour legislation trajectory from 1881 to 1934:\n1. The Factories Act of 1881 was the first attempt at regulating factory labour, focused on child labour.\n2. The Factories Act of 1891 extended protections including a weekly holiday and hours regulation for women.\n3. The Factories Act of 1934 comprehensively consolidated earlier laws, incorporating many Royal Commission on Labour recommendations.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements accurately trace the evolution: 1881 (child labour focus), 1891 (weekly holiday, women's hours), and 1934 (comprehensive consolidation incorporating <b>Whitley Commission</b> recommendations)."
+    },
+    {
+     "q": "Which of the following statements correctly explains why the 1928 Bombay textile strike is considered a landmark event despite its eventual failure to prevent rationalisation?",
+     "o": [
+      "It was the first ever industrial strike recorded in India",
+      "It demonstrated the scale of organised, disciplined mass mobilisation possible under communist trade union leadership, significantly influencing subsequent labour and political strategy including the Meerut case's targeting of these leaders",
+      "It led to the immediate granting of universal adult franchise",
+      "It resulted in the permanent abolition of the jobber system"
+     ],
+     "a": 1,
+     "e": "Though the strike ultimately did not stop rationalisation, its scale (over 150,000 workers, six months) demonstrated the <b>organisational capacity of communist-led unions</b>, alarming the colonial state and directly contributing to its decision to prosecute leaders in the Meerut Conspiracy Case."
+    },
+    {
+     "q": "Consider the following statements about the National Trade Union Federation (NTUF) formed in 1929:\n1. It was led by moderate leaders such as N.M. Joshi who disagreed with AITUC's radical international affiliations.\n2. It sought closer cooperation with the Indian National Congress compared to the communist-influenced AITUC.\n3. It later merged back fully and permanently with AITUC, ending all future splits in the Indian labour movement.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "NTUF, led by moderates like N.M. Joshi, favoured cooperation with Congress-oriented politics over AITUC's radical international ties. However, the Indian trade union movement continued to see <b>further splits</b> in subsequent decades (e.g., post-independence formation of INTUC, HMS, etc.), making statement 3 incorrect."
+    },
+    {
+     "q": "The formation of the Indian National Trade Union Congress (INTUC) in 1947 is best understood as a continuation of which earlier tendency in the labour movement?",
+     "o": [
+      "The communist-led radical tradition of the Girni Kamgar Union",
+      "The moderate, Congress-aligned tradition represented earlier by groups like the National Trade Union Federation",
+      "The purely Gandhian model exclusive to Ahmedabad",
+      "A British colonial initiative to control labour unrest"
+     ],
+     "a": 1,
+     "e": "<b>INTUC (1947)</b>, formed under Congress's aegis, continued the tradition of the earlier <b>moderate, Congress-aligned labour tendency</b> (as with the 1929 National Trade Union Federation), distinct from the communist-led AITUC line."
+    },
+    {
+     "q": "Which of the following statements about jobber/sardar-based labour recruitment in colonial Indian factories is/are correct?\n1. Jobbers often recruited workers from their own native villages, creating patron-client ties.\n2. Jobbers held disciplinary powers over workers including hiring, firing and wage-related decisions.\n3. The system was universally welcomed by workers as it offered them job security.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Jobbers typically recruited from native villages/regions, building patronage networks, and held significant informal power over hiring, firing and wages. This system was, however, <b>frequently criticised for exploitation</b> (bribery, favouritism) rather than universally welcomed, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements about early 20th century strikes in Kanpur's textile and leather industries:\n1. Kanpur was a major site of communist-influenced labour organising in North India, distinct from Bombay's textile belt.\n2. The Kanpur Bolshevik Conspiracy Case (1924) preceded the formal founding of the Communist Party of India at Kanpur in 1925.\n3. Labour unrest in Kanpur had no connection to the broader all-India trade union movement.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Kanpur was indeed a key northern hub for communist-linked labour organising, and the 1924 Kanpur Bolshevik Conspiracy Case predated the CPI's formal founding there in 1925. Kanpur's labour movement was, however, <b>closely linked to the wider AITUC/national movement</b>, making statement 3 incorrect."
+    },
+    {
+     "q": "Why is it historically significant that AITUC's founding coincided closely with the Non-Cooperation Movement (1920-22)?",
+     "o": [
+      "AITUC was formally created as an arm of the Non-Cooperation Movement",
+      "It reflected a broader post-WWI upsurge of political and economic mass mobilisation, though AITUC developed its own independent trajectory rather than being subordinate to Congress's movement",
+      "There is no historical connection between the two events",
+      "AITUC was banned during the Non-Cooperation Movement"
+     ],
+     "a": 1,
+     "e": "Both events emerged from the same post-World War I ferment of mass political and economic mobilisation, reflecting a general upsurge in organised protest; however, AITUC developed as an <b>independent labour body</b> with its own leadership and agenda, not simply a Congress subsidiary."
+    },
+    {
+     "q": "Consider the following statements regarding V.V. Giri's contribution to labour jurisprudence:\n1. He advocated for voluntary arbitration and collective bargaining over excessive state intervention in industrial disputes.\n2. His approach influenced early post-independence industrial relations policy discussions.\n3. He opposed any legal recognition of trade unions.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "V.V. Giri was known for advocating <b>voluntary negotiation and arbitration mechanisms</b> in industrial relations (the 'Giri approach'), influencing subsequent policy debates. He was a lifelong trade unionist and clearly did <b>not oppose legal recognition</b> of unions, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following best captures the significance of the Trade Unions Act of 1926 within the broader labour movement narrative?",
+     "o": [
+      "It banned all strikes across British India",
+      "It provided legal recognition and protection to registered trade unions, marking institutionalisation of the labour movement won partly through AITUC's advocacy since 1920",
+      "It replaced the AITUC with a government-controlled labour body",
+      "It was passed as a direct result of the Meerut Conspiracy Case verdict"
+     ],
+     "a": 1,
+     "e": "The <b>Trade Unions Act, 1926</b> gave registered unions legal status and certain immunities, representing a significant institutional gain achieved partly through sustained advocacy by AITUC and allied labour leaders since 1920, predating the later Meerut case (1929)."
+    },
+    {
+     "q": "Which of the following statements about the long-term legacy of the Meerut Conspiracy Case on Indian labour politics is/are correct?\n1. It removed key communist leaders from active organising for several years due to prolonged imprisonment during trial.\n2. It generated considerable sympathy for the communist and labour cause both in India and abroad, including support from British Labour Party figures.\n3. It led to the permanent banning of the Communist Party of India by the colonial government.\nSelect the correct answer.",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "The prolonged trial (1929-33) kept accused leaders away from active organising and drew notable international sympathy, including from British Labour figures. However, the case did <b>not result in a permanent ban on the CPI</b>, which continued to operate (with varying degrees of legality) thereafter, making statement 3 incorrect."
+    }
+   ]
+  }
+ },
+ {
+  "id": "hist_philosophy_schools",
+  "title": "Schools of Indian Philosophy",
+  "desc": "The six orthodox (astika) schools — Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta — and heterodox (nastika) schools — Buddhism, Jainism, Charvaka/Lokayata — their founders, core doctrines, and key texts",
+  "questions": {
+   "basic": [
+    {
+     "q": "How many orthodox (astika) schools of Indian philosophy are traditionally recognised?",
+     "o": [
+      "Four",
+      "Five",
+      "Six",
+      "Eight"
+     ],
+     "a": 2,
+     "e": "There are traditionally <b>six orthodox (astika) schools</b>: Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, and Vedanta, all of which accept the authority of the Vedas."
+    },
+    {
+     "q": "Which of the following is considered a 'heterodox' (nastika) school of Indian philosophy?",
+     "o": [
+      "Vedanta",
+      "Mimamsa",
+      "Buddhism",
+      "Samkhya"
+     ],
+     "a": 2,
+     "e": "<b>Buddhism</b>, along with Jainism and Charvaka, is classified as a <b>nastika (heterodox)</b> school since it does not accept the authority of the Vedas."
+    },
+    {
+     "q": "Who is traditionally regarded as the founder of the Nyaya school of philosophy?",
+     "o": [
+      "Kapila",
+      "Gautama (Akshapada Gautama)",
+      "Kanada",
+      "Jaimini"
+     ],
+     "a": 1,
+     "e": "The <b>Nyaya school</b> is traditionally attributed to <b>Akshapada Gautama</b>, author of the Nyaya Sutras, which primarily deal with logic and epistemology."
+    },
+    {
+     "q": "The Vaisheshika school is traditionally associated with which sage as its founder?",
+     "o": [
+      "Kapila",
+      "Patanjali",
+      "Kanada",
+      "Badarayana"
+     ],
+     "a": 2,
+     "e": "The <b>Vaisheshika school</b> was founded by <b>Kanada (Kashyapa)</b>, known for its atomic theory of the universe (paramanu vada)."
+    },
+    {
+     "q": "Who is traditionally considered the founder of the Samkhya school of philosophy?",
+     "o": [
+      "Kapila",
+      "Gautama",
+      "Jaimini",
+      "Badarayana"
+     ],
+     "a": 0,
+     "e": "The <b>Samkhya school</b>, one of the oldest philosophical systems, is attributed to sage <b>Kapila</b>, author of the Samkhya Sutra."
+    },
+    {
+     "q": "The Yoga school's foundational text, the Yoga Sutras, is attributed to which sage?",
+     "o": [
+      "Patanjali",
+      "Kanada",
+      "Jaimini",
+      "Badarayana"
+     ],
+     "a": 0,
+     "e": "The <b>Yoga Sutras</b>, systematising the practice of yoga, are attributed to sage <b>Patanjali</b>."
+    },
+    {
+     "q": "The Purva Mimamsa school is traditionally attributed to which sage?",
+     "o": [
+      "Jaimini",
+      "Badarayana",
+      "Gautama",
+      "Kanada"
+     ],
+     "a": 0,
+     "e": "The <b>Purva Mimamsa</b> school, focused on the interpretation of Vedic ritual, was founded by sage <b>Jaimini</b>, author of the Mimamsa Sutras."
+    },
+    {
+     "q": "The Vedanta (Uttara Mimamsa) school's foundational text, the Brahma Sutras, is attributed to whom?",
+     "o": [
+      "Badarayana",
+      "Shankaracharya",
+      "Jaimini",
+      "Kapila"
+     ],
+     "a": 0,
+     "e": "The <b>Brahma Sutras</b>, the foundational text of Vedanta, are attributed to sage <b>Badarayana</b> (also called Vyasa)."
+    },
+    {
+     "q": "Who is credited as the founder of Advaita (non-dualist) Vedanta?",
+     "o": [
+      "Ramanuja",
+      "Madhvacharya",
+      "Adi Shankaracharya",
+      "Vallabhacharya"
+     ],
+     "a": 2,
+     "e": "<b>Adi Shankaracharya</b> (8th century CE) systematised and propagated <b>Advaita Vedanta</b>, the philosophy of non-dualism, asserting the identity of Atman and Brahman."
+    },
+    {
+     "q": "Which philosopher propounded Vishishtadvaita (qualified non-dualism)?",
+     "o": [
+      "Adi Shankaracharya",
+      "Ramanuja",
+      "Madhvacharya",
+      "Nimbarka"
+     ],
+     "a": 1,
+     "e": "<b>Ramanuja</b> (11th-12th century CE) propounded <b>Vishishtadvaita</b>, holding that Brahman, souls, and matter are distinct yet inseparably related."
+    },
+    {
+     "q": "Which philosopher is associated with Dvaita (dualism) Vedanta?",
+     "o": [
+      "Shankaracharya",
+      "Ramanuja",
+      "Madhvacharya",
+      "Vallabhacharya"
+     ],
+     "a": 2,
+     "e": "<b>Madhvacharya</b> (13th century) propounded <b>Dvaita Vedanta</b>, asserting an eternal distinction between God (Vishnu), individual souls, and matter."
+    },
+    {
+     "q": "Who was the founder of Jainism as traditionally credited by its followers, though regarded as the last Tirthankara?",
+     "o": [
+      "Mahavira",
+      "Parshvanatha",
+      "Rishabhanatha",
+      "Gosala"
+     ],
+     "a": 0,
+     "e": "While Jains regard Rishabhanatha as the first Tirthankara, <b>Mahavira</b>, the 24th Tirthankara, is credited with systematising and popularising Jainism in its historically attested form."
+    },
+    {
+     "q": "Who founded the Ajivika school, often grouped with materialist/heterodox thought?",
+     "o": [
+      "Makkhali Gosala",
+      "Ajita Kesakambali",
+      "Charvaka",
+      "Purana Kassapa"
+     ],
+     "a": 0,
+     "e": "The <b>Ajivika school</b>, known for its doctrine of strict determinism (niyati), was founded by <b>Makkhali Gosala</b>, a contemporary of the Buddha and Mahavira."
+    },
+    {
+     "q": "The materialist school of Indian philosophy that denies the existence of soul and afterlife is known as?",
+     "o": [
+      "Mimamsa",
+      "Charvaka (Lokayata)",
+      "Vaisheshika",
+      "Samkhya"
+     ],
+     "a": 1,
+     "e": "The <b>Charvaka (Lokayata)</b> school was a materialist philosophy that denied the soul, afterlife, and Vedic authority, holding perception as the only valid means of knowledge."
+    },
+    {
+     "q": "Which of the following is regarded as the founding teacher of Buddhism?",
+     "o": [
+      "Mahavira",
+      "Gautama Buddha",
+      "Ashoka",
+      "Nagarjuna"
+     ],
+     "a": 1,
+     "e": "<b>Gautama Buddha</b> (Siddhartha Gautama) founded Buddhism in the 6th-5th century BCE after attaining enlightenment at Bodh Gaya."
+    },
+    {
+     "q": "The Samkhya school proposes a dualism between which two fundamental principles?",
+     "o": [
+      "Atman and Brahman",
+      "Purusha and Prakriti",
+      "Sat and Asat",
+      "Jiva and Ishvara"
+     ],
+     "a": 1,
+     "e": "<b>Samkhya</b> philosophy is based on the dualism of <b>Purusha</b> (consciousness) and <b>Prakriti</b> (primordial matter/nature), from whose interaction the universe evolves."
+    },
+    {
+     "q": "The Vaisheshika school is best known for which distinctive philosophical doctrine?",
+     "o": [
+      "Theory of karma and rebirth",
+      "Atomic theory (paramanu vada) of matter",
+      "Non-dualism of Atman and Brahman",
+      "Doctrine of momentariness"
+     ],
+     "a": 1,
+     "e": "<b>Vaisheshika</b> is renowned for its <b>atomic theory (paramanu vada)</b>, proposing that the physical universe is composed of indivisible atoms of five elements."
+    },
+    {
+     "q": "Which school of Indian philosophy focuses primarily on logic, epistemology, and methods of valid knowledge (pramanas)?",
+     "o": [
+      "Samkhya",
+      "Yoga",
+      "Nyaya",
+      "Mimamsa"
+     ],
+     "a": 2,
+     "e": "<b>Nyaya</b> philosophy is chiefly concerned with <b>logic and epistemology</b>, systematically analysing the means of valid knowledge (pramanas) such as perception, inference, comparison, and testimony."
+    }
+   ],
+   "intermediate": [
+    {
+     "q": "Consider the following statements regarding the six orthodox (astika) schools of Indian philosophy:\n1. All six schools accept the authority of the Vedas.\n2. Nyaya and Vaisheshika are often studied together due to complementary doctrines on logic and physics/metaphysics.\n3. Samkhya and Yoga share the same metaphysical dualism of Purusha and Prakriti.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "All three statements are correct: the six astika schools accept Vedic authority; <b>Nyaya-Vaisheshika</b> are traditionally paired (logic complementing atomistic physics); and <b>Samkhya-Yoga</b> share the same Purusha-Prakriti metaphysics, with Yoga adding theistic and practical elements."
+    },
+    {
+     "q": "Which of the following statements about the Mimamsa school is/are correct?\n1. It is primarily concerned with the interpretation of Vedic rituals and their correct performance.\n2. It holds that the Vedas are eternal and authorless (apaurusheya).\n3. It denies the existence of a creator God as necessary for the efficacy of Vedic rituals.\nSelect the correct answer.",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Mimamsa focuses on <b>ritual interpretation (Dharma)</b>, holds the Vedas as <b>eternal and authorless</b>, and interestingly does not require a creator God, viewing ritual actions themselves as generating results (apurva)."
+    },
+    {
+     "q": "Consider the following statements about the concept of 'Purusha' and 'Prakriti' in Samkhya philosophy:\n1. Purusha represents pure consciousness, while Prakriti represents primordial matter/nature.\n2. Prakriti is composed of three gunas—sattva, rajas, and tamas.\n3. Liberation (kaivalya) in Samkhya is achieved through the union of Purusha and Prakriti.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Statements 1 and 2 are correct. However, liberation in Samkhya is achieved through the <b>discrimination and separation</b> of Purusha from Prakriti (viveka), not their union, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following statements about Advaita Vedanta of Adi Shankaracharya is/are correct?\n1. It holds that Brahman alone is ultimately real and the empirical world is maya (illusion).\n2. It asserts complete identity between Atman (individual self) and Brahman (ultimate reality).\n3. It accepts a qualified difference between the individual soul and Brahman even after liberation.\nSelect the correct answer.",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Advaita holds Brahman as the sole ultimate reality with the world as maya, and asserts the <b>complete non-dual identity</b> of Atman and Brahman. Statement 3 describes Vishishtadvaita's qualified difference, not Advaita, hence incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding the Nyaya school's theory of knowledge:\n1. It recognises four valid means of knowledge (pramanas): perception, inference, comparison, and verbal testimony.\n2. It developed a detailed theory of syllogism (five-membered syllogism) for logical inference.\n3. It rejects verbal testimony (shabda) as an independent source of valid knowledge.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Nyaya accepts <b>four pramanas</b> including verbal testimony, and developed the famous <b>five-membered syllogism (panchavayava)</b> for inference. Statement 3 is incorrect since Nyaya explicitly accepts shabda (testimony) as valid."
+    },
+    {
+     "q": "Which of the following statements correctly distinguishes Jainism's doctrine of Anekantavada?",
+     "o": [
+      "It is the theory that reality has infinite aspects and can be understood only partially from any single viewpoint, related to Syadvada",
+      "It is the theory of strict determinism governing all events",
+      "It refers to the doctrine of non-violence exclusively",
+      "It is the Jain theory of atomic composition of matter"
+     ],
+     "a": 0,
+     "e": "<b>Anekantavada</b> ('many-sidedness') holds that reality is complex with multiple aspects, and any single perspective offers only partial truth; it is closely linked to <b>Syadvada</b>, the doctrine of conditional predication in Jain logic."
+    },
+    {
+     "q": "Consider the following statements about the Charvaka (Lokayata) school:\n1. It accepts perception (pratyaksha) as the only valid source of knowledge.\n2. It rejects inference (anumana) as a wholly reliable means of knowledge.\n3. It advocates that the pursuit of pleasure (kama) and wealth (artha) are the only legitimate goals of human life.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Charvaka accepted only <b>perception</b> as reliable, was skeptical of <b>inference</b>'s certainty, and held that <b>artha and kama</b> were the only real goals of life, rejecting dharma and moksha as unprovable illusions."
+    },
+    {
+     "q": "Which of the following statements about Buddhism's core doctrines is/are correct?\n1. The Four Noble Truths form the foundational framework of Buddhist teaching.\n2. The doctrine of 'Anatta' (non-self) denies the existence of a permanent, unchanging soul.\n3. Nirvana is understood in early Buddhism as union with a personal creator God.\nSelect the correct answer.",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "The <b>Four Noble Truths</b> and doctrine of <b>Anatta</b> (no permanent soul) are foundational to Buddhism. However, early Buddhism is largely non-theistic, and <b>Nirvana is not union with a creator God</b> but the cessation of suffering and craving, making statement 3 incorrect."
+    },
+    {
+     "q": "How many of the following statements about Jainism's philosophical doctrines are correct?\n1. Jainism accepts the doctrine of karma as a subtle material substance that binds the soul.\n2. Jainism advocates the triratna (three jewels) of right faith, right knowledge, and right conduct for liberation.\n3. Jainism holds that liberated souls (siddhas) retain a physical body eternally.",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 1,
+     "e": "Statements 1 and 2 are correct: Jain philosophy views karma as subtle matter binding the soul, and prescribes the <b>triratna</b> for moksha. Statement 3 is incorrect since liberated souls (siddhas) are formless, having shed all karmic matter including the physical body."
+    },
+    {
+     "q": "Consider the following statements about the Yoga school of Patanjali:\n1. It accepts the Samkhya metaphysics of Purusha and Prakriti but adds the concept of Ishvara (God).\n2. It prescribes an eight-limbed path (Ashtanga Yoga) for spiritual liberation.\n3. It rejects the practice of meditation as a means to liberation, favouring ritual alone.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Patanjali's Yoga accepts Samkhya's dualism while adding <b>Ishvara</b> as a special Purusha, and prescribes the <b>Ashtanga Yoga (eight limbs)</b> including meditation (dhyana) as central to liberation, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following pairs of Vedanta sub-schools and their founders is/are correctly matched?\n1. Advaita - Adi Shankaracharya\n2. Vishishtadvaita - Ramanuja\n3. Dvaitadvaita - Nimbarka\nSelect the correct answer.",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "All three pairs are correctly matched: <b>Shankaracharya</b> founded Advaita, <b>Ramanuja</b> founded Vishishtadvaita, and <b>Nimbarka</b> propounded Dvaitadvaita (dualistic non-dualism)."
+    },
+    {
+     "q": "Which of the following best describes the Vaisheshika theory of categories (padarthas)?",
+     "o": [
+      "It classifies reality into seven categories including substance, quality, action, generality, particularity, inherence, and non-existence",
+      "It classifies reality into four elements only: earth, water, fire, and air",
+      "It denies any categorisation of reality as illusory",
+      "It classifies reality solely based on the three gunas"
+     ],
+     "a": 0,
+     "e": "Vaisheshika's ontology classifies all reality into <b>seven padarthas (categories)</b>: dravya (substance), guna (quality), karma (action), samanya (generality), vishesha (particularity), samavaya (inherence), and abhava (non-existence)."
+    },
+    {
+     "q": "Consider the following statements about the relationship between Nyaya and Vaisheshika schools:\n1. They are traditionally studied as a combined system called Nyaya-Vaisheshika due to complementary contributions to logic and metaphysics.\n2. Vaisheshika contributed the atomic theory of matter, while Nyaya contributed systematic logic and epistemology.\n3. Both schools ultimately merged into a single unified text authored by a common founder.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Nyaya and Vaisheshika are studied together for their complementary strengths, but they had <b>separate founders (Gautama and Kanada respectively)</b> and separate foundational texts, never truly merging into one text, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following statements regarding early Buddhist councils and philosophical schisms is/are correct?\n1. The First Buddhist Council was held at Rajagriha shortly after the Buddha's death to compile his teachings.\n2. The split into Theravada and Mahayana traditions reflects differing philosophical emphases, with Mahayana developing concepts like Shunyata (emptiness) and Bodhisattva ideal.\n3. Nagarjuna, a key Mahayana philosopher, propounded the Madhyamaka (Middle Path) philosophy of emptiness.\nSelect the correct answer.",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "All three are correct: the <b>First Council at Rajagriha</b> compiled early teachings; the <b>Theravada-Mahayana split</b> reflects differing doctrinal emphases; and <b>Nagarjuna's Madhyamaka</b> philosophy centres on shunyata (emptiness)."
+    },
+    {
+     "q": "Which of the following correctly describes the concept of 'Triguna' as used in Samkhya philosophy?",
+     "o": [
+      "The three paths to liberation: karma, jnana, and bhakti marga",
+      "The three constituent qualities of Prakriti—sattva, rajas, and tamas—whose interplay produces all phenomena",
+      "The three states of consciousness: waking, dreaming, and deep sleep",
+      "The three categories of valid knowledge in Samkhya"
+     ],
+     "a": 1,
+     "e": "<b>Triguna</b> refers to the three fundamental qualities of Prakriti—<b>sattva (purity/harmony), rajas (activity/passion), and tamas (inertia/darkness)</b>—whose varying proportions produce the diversity of the manifest world."
+    },
+    {
+     "q": "Consider the following statements about Mimamsa's concept of 'Apurva':\n1. It refers to an unseen potency generated by the performance of Vedic ritual that later yields its fruit.\n2. It is invoked to explain the causal link between ritual action and its future result, especially when the effect is delayed.\n3. It is identical to the Buddhist concept of Shunyata.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "<b>Apurva</b> is Mimamsa's concept of an unseen potency bridging ritual action and its delayed fruit/result. It bears <b>no relation to Shunyata</b> (Buddhist emptiness doctrine), which is a wholly distinct concept, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following statements about the relationship between orthodox and heterodox schools regarding the soul (atman) is/are correct?\n1. Nyaya-Vaisheshika, Samkhya-Yoga, and Vedanta all accept the existence of an eternal soul, though they differ on its nature.\n2. Buddhism denies a permanent unchanging soul, proposing instead a continuity of momentary mental-physical aggregates (skandhas).\n3. Charvaka accepts the existence of an eternal soul distinct from the body.\nSelect the correct answer.",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Most orthodox schools accept an eternal soul (with varying interpretations), while <b>Buddhism denies a permanent soul</b>, proposing the skandha-based flux of momentary states. <b>Charvaka denies any soul apart from the body</b> altogether, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements about the concept of 'Guna' theory in Samkhya and its relation to Ayurveda:\n1. The three gunas (sattva, rajas, tamas) of Samkhya were adopted by classical Ayurveda to classify mental temperament (sattvika, rajasika, tamasika).\n2. Samkhya's twenty-five tattvas (principles) include Purusha, Prakriti, and their subsequent evolutes like mahat (intellect) and ahamkara (ego).\n3. The gunas are considered static and unchanging once a being is born.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Samkhya's <b>guna theory</b> influenced Ayurvedic classification of mental temperament, and its <b>twenty-five tattvas</b> trace evolution from Purusha-Prakriti through mahat, ahamkara, and further principles. The gunas are, however, considered <b>dynamic, constantly shifting in proportion</b> throughout life, not static, making statement 3 incorrect."
+    }
+   ],
+   "advanced": [
+    {
+     "q": "Consider the following statements regarding the classification of Indian philosophical schools:\n1. The astika-nastika classification is based solely on belief in God, not on acceptance of Vedic authority.\n2. Samkhya, though it does not explicitly require belief in a creator God, is classified as astika because it accepts Vedic authority.\n3. Mimamsa is astika despite not requiring a creator God for its ritualistic worldview.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "The astika-nastika distinction is based on <b>acceptance of Vedic authority</b>, not belief in God per se—hence statement 1 is incorrect. <b>Samkhya</b> (often considered non-theistic or agnostic about a creator) and <b>Mimamsa</b> (which does not require God for ritual efficacy) are both astika because they accept the Vedas, making statements 2 and 3 correct."
+    },
+    {
+     "q": "Which of the following statements about the philosophical relationship between Samkhya's dualism and Advaita Vedanta's non-dualism is/are correct?\n1. Samkhya posits an irreducible plurality of Purushas alongside one Prakriti, while Advaita posits a single non-dual Brahman as the sole reality.\n2. Advaita views the empirical multiplicity of selves and world as ultimately illusory (maya), unlike Samkhya's realist dualism.\n3. Both schools agree that liberation involves the annihilation of Prakriti/Maya itself.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Samkhya accepts a <b>plurality of Purushas and one real Prakriti</b> (realist dualism), while Advaita holds a <b>single non-dual Brahman</b> with the world as maya. Neither school holds that liberation involves 'annihilating' Prakriti/Maya—Samkhya achieves liberation via discriminative knowledge separating Purusha from Prakriti, and Advaita via realizing Brahman's reality beyond illusory appearance, not by destroying Prakriti/Maya as a substance, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding Nagarjuna's Madhyamaka philosophy:\n1. It propounds the doctrine of Shunyata, holding that all phenomena are empty of independent, inherent existence (svabhava).\n2. It is termed 'Madhyamaka' (Middle Path) because it avoids both the extremes of eternalism (existence) and nihilism (non-existence).\n3. It denies dependent origination (pratityasamutpada) as a valid explanatory framework.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Nagarjuna's Madhyamaka holds all phenomena as <b>shunya (empty)</b> of inherent existence, steering a middle path between eternalism and nihilism. It in fact strongly <b>affirms dependent origination (pratityasamutpada)</b> as central to explaining phenomena, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following statements comparing Jain Anekantavada and Buddhist doctrine of momentariness (Kshanikavada) is/are correct?\n1. Anekantavada asserts that reality has multiple, even seemingly contradictory, aspects that can be truly predicated depending on context (Syadvada).\n2. Kshanikavada holds that all phenomena are momentary, arising and perishing instantaneously without an enduring substance.\n3. Both doctrines were developed to support belief in a permanent unchanging soul.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Anekantavada (with Syadvada) addresses reality's many-sidedness, while Kshanikavada holds that phenomena are momentary flashes without enduring substance. These doctrines actually support <b>opposite conclusions on the soul</b>—Jainism affirms an enduring soul (jiva) while Buddhism's momentariness doctrine underlies its denial of a permanent soul—making statement 3 incorrect."
+    },
+    {
+     "q": "With reference to the Nyaya school's theory of causation (satkaryavada vs asatkaryavada debate), which of the following is correct?",
+     "o": [
+      "Nyaya-Vaisheshika holds asatkaryavada (arambhavada), where the effect is a new creation not pre-existing in the cause, unlike Samkhya's satkaryavada which holds the effect pre-exists in its cause",
+      "Nyaya-Vaisheshika and Samkhya both hold identical satkaryavada positions",
+      "Nyaya-Vaisheshika holds satkaryavada while Samkhya holds asatkaryavada",
+      "Neither school addresses the question of causation"
+     ],
+     "a": 0,
+     "e": "Nyaya-Vaisheshika propounds <b>asatkaryavada (arambhavada)</b>—the effect is a genuinely new product not pre-existing in its cause—contrasting sharply with <b>Samkhya's satkaryavada</b>, which holds the effect (e.g., curd) pre-exists potentially within its cause (milk) and merely manifests."
+    },
+    {
+     "q": "Consider the following statements about the concept of 'Ishvara' across orthodox schools:\n1. Nyaya-Vaisheshika offers cosmological arguments for the existence of Ishvara as the efficient cause who arranges atoms into the universe.\n2. Classical Samkhya, as expounded by Ishvarakrishna, does not require or explicitly posit Ishvara for its cosmological explanation.\n3. Patanjali's Yoga incorporates Ishvara as a special, eternally liberated Purusha, useful as an object of meditation, without making Ishvara the material or efficient cause of the universe.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "All three statements are accurate: <b>Nyaya-Vaisheshika</b> argued for Ishvara as an efficient cause; classical <b>Samkhya (Ishvarakrishna's Samkhya Karika)</b> is non-theistic, explaining the universe via Purusha-Prakriti interaction alone; and <b>Patanjali's Yoga</b> includes Ishvara as a special Purusha aiding meditation, not as creator."
+    },
+    {
+     "q": "Which of the following statements about the Mimamsa school's view on the validity of knowledge (pramanya) is/are correct?\n1. Mimamsa holds the doctrine of svatah pramanya, meaning knowledge is intrinsically valid unless proven otherwise by defects.\n2. This contrasts with the Nyaya position of paratah pramanya, where validity of knowledge must be established through external verification.\n3. Both schools agree entirely on the sources (pramanas) of valid knowledge, differing only on this validity question.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Mimamsa's <b>svatah pramanya</b> (intrinsic validity) contrasts with Nyaya's <b>paratah pramanya</b> (extrinsically validated knowledge). However, the schools differ also on the number/nature of accepted pramanas (e.g., Mimamsa accepts additional pramanas like arthapatti and anupalabdhi beyond Nyaya's four), making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding the historical development of Vedanta sub-schools:\n1. Shankaracharya's Advaita (8th century CE) predates Ramanuja's Vishishtadvaita (11th-12th century CE).\n2. Madhvacharya's Dvaita (13th century CE) developed partly as a critique of Advaita's non-dualism.\n3. Vallabhacharya's Shuddhadvaita developed prior to Shankaracharya's Advaita.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Chronologically, <b>Shankaracharya (8th c.) preceded Ramanuja (11th-12th c.)</b>, and <b>Madhvacharya (13th c.) explicitly critiqued Advaita</b> in formulating Dvaita. <b>Vallabhacharya (15th-16th c.)</b> came much later than Shankaracharya, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following statements about the Charvaka critique of inference (anumana) as a means of knowledge is/are correct?\n1. Charvaka argued that inference relies on an unverifiable universal concomitance (vyapti) between cause and effect that cannot be established with certainty through finite observations.\n2. Charvaka therefore rejected inference in matters beyond direct sensory verification, including belief in an afterlife or unseen causal forces like karma.\n3. Despite rejecting inference in principle, Charvaka accepted it fully in everyday practical matters without qualification.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Charvaka's epistemological critique targeted the uncertain universal generalisation (vyapti) underlying inference, leading to rejection of claims about unseen entities like the afterlife or karma. Its position on everyday practical inference is <b>debated among scholars, not a full unqualified acceptance</b>, making statement 3 an overstatement and incorrect."
+    },
+    {
+     "q": "With reference to Jain metaphysics, which of the following statements correctly describes 'Syadvada' and its relationship to 'Anekantavada'?",
+     "o": [
+      "Syadvada is the logical/linguistic expression of Anekantavada, using conditional predication ('syat') to express the multiple aspects of reality without absolute assertion",
+      "Syadvada and Anekantavada are unrelated, separate doctrines",
+      "Syadvada denies Anekantavada's claim of multiple aspects of reality",
+      "Syadvada is a Buddhist doctrine mistakenly attributed to Jainism"
+     ],
+     "a": 0,
+     "e": "<b>Syadvada (doctrine of conditional predication)</b> is the logical application of the metaphysical principle of <b>Anekantavada</b>, using the term 'syat' (in some sense) to qualify statements and avoid absolutist claims about a many-sided reality."
+    },
+    {
+     "q": "Consider the following statements regarding the doctrine of 'Pratityasamutpada' (dependent origination) in Buddhism:\n1. It explains the arising of suffering (dukkha) through a chain of twelve interdependent causal links (nidanas).\n2. It underlies the rejection of a permanent, independent self (anatta), since all phenomena, including the self, arise dependently.\n3. It was rejected by later Mahayana philosophers like Nagarjuna as inconsistent with the doctrine of emptiness.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Dependent origination explains suffering through the <b>twelve nidanas</b> and underlies the <b>anatta</b> doctrine, since nothing (including the self) exists independently. Far from rejecting it, <b>Nagarjuna equated dependent origination with emptiness (shunyata)</b> itself, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following statements about the Vaisheshika concept of 'Samavaya' (inherence) is/are correct?\n1. It refers to the eternal, inseparable relationship between a substance and its inherent qualities, such as between a cloth and its colour.\n2. It is considered a distinct category (padartha) different from conjunction (samyoga), which is a temporary, separable relation.\n3. It applies only to relationships between different substances, never between a substance and its qualities.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "<b>Samavaya (inherence)</b> denotes an inseparable, eternal relation—e.g., between substance and quality, or whole and part—distinct from <b>samyoga (conjunction)</b>, a temporary contact relation. Statement 3 is incorrect since inherence specifically applies to substance-quality and whole-part relations, not just between substances."
+    },
+    {
+     "q": "Consider the following statements about the concept of liberation (moksha) across schools:\n1. In Nyaya-Vaisheshika, liberation is a state of complete cessation of pain, without positive bliss, achieved through right knowledge dispelling ignorance.\n2. In Advaita Vedanta, liberation is realization of one's identity with Brahman, characterised as sat-chit-ananda (existence-consciousness-bliss).\n3. In Buddhism, Nirvana is understood as an eternal heavenly abode of the liberated soul alongside a personal God.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Nyaya-Vaisheshika views moksha as cessation of pain without positive pleasure (a negative state), while <b>Advaita</b> describes liberation as realizing Brahman's nature as <b>sat-chit-ananda</b>. Buddhist <b>Nirvana</b> is not a heavenly abode with a personal God but the extinguishing of craving and suffering, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following statements accurately distinguishes the epistemological positions of Mimamsa and Vedanta on the nature of the Vedas?",
+     "o": [
+      "Both schools regard the Vedas primarily as a source of injunctions (vidhi) for ritual action, with no independent metaphysical content",
+      "Mimamsa emphasises the Vedas' karma-kanda (ritual-injunctive portions), while Vedanta emphasises the jnana-kanda (Upanishadic, knowledge-oriented portions) dealing with the nature of Brahman",
+      "Vedanta rejects the authority of the Vedas entirely, relying only on independent reasoning",
+      "Mimamsa and Vedanta are simply two names for the same school with no doctrinal distinction"
+     ],
+     "a": 1,
+     "e": "<b>Mimamsa (Purva Mimamsa)</b> focuses on the earlier <b>karma-kanda</b> (ritual injunctions) of the Vedas, while <b>Vedanta (Uttara Mimamsa)</b> focuses on the later <b>jnana-kanda</b> (Upanishads), concerned with metaphysical knowledge of Brahman."
+    },
+    {
+     "q": "Consider the following statements regarding Sri Aurobindo's and later modern reinterpretations of Vedanta:\n1. Sri Aurobindo's 'Integral Vedanta' emphasised spiritual evolution and the transformation of matter, going beyond classical Advaita's world-denying tendency.\n2. Such modern reinterpretations arose entirely independent of any engagement with classical schools like Samkhya or Advaita.\n3. Modern Vedantic thinkers like Vivekananda emphasised practical, universalist readings of Advaita applicable to social service.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 3 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Aurobindo's Integral Vedanta indeed emphasised evolution and world-affirmation beyond classical Advaita's maya-centred worldview, and <b>Vivekananda</b> famously reinterpreted Advaita for practical, universalist social application. However, such reinterpretations engaged deeply with classical schools rather than developing independently of them, making statement 2 incorrect."
+    },
+    {
+     "q": "Which of the following correctly captures a key philosophical distinction between Ajivika determinism (niyati) and the Buddhist doctrine of karma?",
+     "o": [
+      "Ajivikas held that all events, including liberation, are predetermined by an impersonal cosmic principle (niyati) irrespective of individual effort, whereas Buddhism holds liberation results from cultivated ethical and mental effort within a causal (karmic) framework",
+      "Both schools held identical views on free will and effort",
+      "Buddhism denied causation altogether, unlike the Ajivikas",
+      "Ajivikas believed karma could be altered instantly through ritual, like Mimamsa"
+     ],
+     "a": 0,
+     "e": "The <b>Ajivika</b> doctrine of <b>niyati (strict determinism)</b> held that all beings pass through a fixed cosmic cycle regardless of effort, sharply contrasting with the <b>Buddhist</b> emphasis on <b>karma</b> as a causal framework where deliberate ethical and mental effort genuinely shapes future outcomes and can lead to liberation."
+    },
+    {
+     "q": "Which of the following statements about the debate between Buddhist Vijnanavada (Yogachara) and Madhyamaka schools is/are correct?\n1. Vijnanavada holds that only consciousness (vijnana) is ultimately real, while external objects are projections of the mind.\n2. Madhyamaka, in contrast, denies inherent existence (svabhava) to both external objects and consciousness itself, treating both as empty (shunya).\n3. Both schools agree that an eternal, unchanging self (atman) underlies all conscious experience.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "<b>Vijnanavada (Yogachara)</b> holds consciousness as the sole ultimate reality with external objects as mental projections, while <b>Madhyamaka</b> extends emptiness (shunyata) to consciousness itself, denying inherent existence to anything, including mind. Both, being Buddhist schools, <b>reject a permanent atman</b>, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding the Nyaya school's proofs for the existence of God (Ishvara):\n1. Nyaya philosophers like Udayana argued that the orderly arrangement of atoms into a coherent universe requires an intelligent efficient cause (Ishvara).\n2. This cosmological-teleological argument parallels arguments later made in Western philosophy, such as the design argument.\n3. The Purva Mimamsa school fully endorsed Nyaya's theistic proofs and made Ishvara central to its ritual theory.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+     ],
+     "a": 0,
+     "e": "Nyaya philosophers such as <b>Udayana</b> (in works like Nyayakusumanjali) presented cosmological/design-type arguments for Ishvara, paralleling later Western teleological arguments. However, <b>Purva Mimamsa notably did not require Ishvara</b> for its ritual efficacy theory, instead relying on apurva, making statement 3 incorrect."
+    }
+   ]
+  }
+ },
+ {
+  "id": "hist_world_history",
+  "title": "World History for UPSC",
+  "desc": "American Revolution, French Revolution, Industrial Revolution, unification of Germany and Italy, Russian Revolution, World War I, World War II, decolonization in Asia and Africa, Cold War, redrawing of national boundaries",
+  "questions": {
+   "basic": [
+    {
+     "q": "In which year did the Boston Tea Party take place?",
+     "o": [
+      "1770",
+      "1773",
+      "1776",
+      "1781"
+     ],
+     "a": 1,
+     "e": "The <b>Boston Tea Party</b> occurred in <b>1773</b>, when American colonists dumped British tea into Boston Harbour to protest the Tea Act, becoming a key catalyst for the American Revolution."
+    },
+    {
+     "q": "Who was the principal author of the American Declaration of Independence (1776)?",
+     "o": [
+      "Benjamin Franklin",
+      "Thomas Jefferson",
+      "John Adams",
+      "George Washington"
+     ],
+     "a": 1,
+     "e": "<b>Thomas Jefferson</b> was the principal drafter of the <b>Declaration of Independence</b>, adopted by the Second Continental Congress on 4 July 1776."
+    },
+    {
+     "q": "The American Declaration of Independence was adopted in which year?",
+     "o": [
+      "1774",
+      "1775",
+      "1776",
+      "1783"
+     ],
+     "a": 2,
+     "e": "The Declaration was adopted on <b>4 July 1776</b>, formally announcing the thirteen colonies' separation from British rule."
+    },
+    {
+     "q": "The Storming of the Bastille, marking the start of the French Revolution, occurred on which date?",
+     "o": [
+      "4 July 1776",
+      "14 July 1789",
+      "21 January 1793",
+      "9 Thermidor 1794"
+     ],
+     "a": 1,
+     "e": "The <b>Storming of the Bastille</b> on <b>14 July 1789</b> symbolised the uprising against royal authority and is commemorated as French National Day."
+    },
+    {
+     "q": "Who was the reigning King of France at the outbreak of the French Revolution in 1789?",
+     "o": [
+      "Louis XIV",
+      "Louis XV",
+      "Louis XVI",
+      "Napoleon Bonaparte"
+     ],
+     "a": 2,
+     "e": "<b>Louis XVI</b> was king when the Revolution began in 1789; he was later executed by guillotine in January 1793."
+    },
+    {
+     "q": "The French Revolution's famous motto was 'Liberty, Equality, and ___'?",
+     "o": [
+      "Justice",
+      "Fraternity",
+      "Democracy",
+      "Solidarity"
+     ],
+     "a": 1,
+     "e": "'<b>Liberte, Egalite, Fraternite</b>' (Liberty, Equality, Fraternity) became the enduring motto of the French Revolution and later the French Republic."
+    },
+    {
+     "q": "The Industrial Revolution first began in which country in the mid-18th century?",
+     "o": [
+      "France",
+      "Germany",
+      "Britain",
+      "United States"
+     ],
+     "a": 2,
+     "e": "The <b>Industrial Revolution</b> began in <b>Britain</b> around the mid-18th century, driven by innovations in textile manufacturing, steam power, and coal mining."
+    },
+    {
+     "q": "The 'Spinning Jenny', a key invention of the Industrial Revolution, was developed by whom?",
+     "o": [
+      "Richard Arkwright",
+      "James Hargreaves",
+      "James Watt",
+      "Edmund Cartwright"
+     ],
+     "a": 1,
+     "e": "<b>James Hargreaves</b> invented the <b>Spinning Jenny</b> around 1764, allowing a single worker to spin multiple threads simultaneously, revolutionising textile production."
+    },
+    {
+     "q": "Who is widely regarded as the chief architect of German unification through his 'Blood and Iron' policy?",
+     "o": [
+      "Kaiser Wilhelm I",
+      "Otto von Bismarck",
+      "Klemens von Metternich",
+      "Kaiser Wilhelm II"
+     ],
+     "a": 1,
+     "e": "<b>Otto von Bismarck</b>, Chancellor of Prussia, pursued a policy of '<b>Blood and Iron</b>', using calculated wars and diplomacy to unify the German states by 1871."
+    },
+    {
+     "q": "The German Empire was formally proclaimed in 1871 at which location?",
+     "o": [
+      "Reichstag, Berlin",
+      "Hall of Mirrors, Palace of Versailles",
+      "Frankfurt Parliament",
+      "Potsdam Palace"
+     ],
+     "a": 1,
+     "e": "The German Empire was proclaimed on 18 January 1871 in the <b>Hall of Mirrors at Versailles</b>, following Prussia's victory in the Franco-Prussian War."
+    },
+    {
+     "q": "Giuseppe Garibaldi is chiefly associated with which historical process, through his 'Expedition of the Thousand'?",
+     "o": [
+      "Unification of Germany",
+      "Unification of Italy",
+      "Greek independence",
+      "Decolonization of Africa"
+     ],
+     "a": 1,
+     "e": "<b>Garibaldi</b> led the 'Redshirts' in the <b>Expedition of the Thousand (1860)</b>, capturing Sicily and Naples and contributing decisively to the <b>unification of Italy</b>."
+    },
+    {
+     "q": "Who led the Bolsheviks to seize power in the October Revolution of 1917 in Russia?",
+     "o": [
+      "Leon Trotsky",
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Alexander Kerensky"
+     ],
+     "a": 1,
+     "e": "<b>Vladimir Lenin</b> led the Bolsheviks in overthrowing the Provisional Government in the <b>October Revolution of 1917</b>, establishing Soviet rule."
+    },
+    {
+     "q": "The assassination that immediately triggered the outbreak of World War I took place in which city in 1914?",
+     "o": [
+      "Vienna",
+      "Belgrade",
+      "Sarajevo",
+      "Sofia"
+     ],
+     "a": 2,
+     "e": "Archduke Franz Ferdinand was assassinated in <b>Sarajevo</b> on 28 June 1914, setting off the chain of events leading to <b>World War I</b>."
+    },
+    {
+     "q": "Archduke Franz Ferdinand, whose assassination triggered WWI, was heir to the throne of which empire?",
+     "o": [
+      "Ottoman Empire",
+      "Russian Empire",
+      "Austro-Hungarian Empire",
+      "German Empire"
+     ],
+     "a": 2,
+     "e": "Franz Ferdinand was the heir apparent to the throne of the <b>Austro-Hungarian Empire</b>; his assassination by a Bosnian Serb nationalist triggered the July Crisis of 1914."
+    },
+    {
+     "q": "World War II began in 1939 with Germany's invasion of which country?",
+     "o": [
+      "Czechoslovakia",
+      "Poland",
+      "France",
+      "Austria"
+     ],
+     "a": 1,
+     "e": "Germany's invasion of <b>Poland</b> on 1 September 1939 prompted Britain and France to declare war, marking the start of <b>World War II</b>."
+    },
+    {
+     "q": "In which year were atomic bombs dropped on Hiroshima and Nagasaki, leading to Japan's surrender?",
+     "o": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+     ],
+     "a": 2,
+     "e": "The United States dropped atomic bombs on <b>Hiroshima and Nagasaki</b> in <b>August 1945</b>, leading to Japan's surrender and the end of World War II."
+    },
+    {
+     "q": "The Bandung Conference of 1955, an important milestone in Asian-African solidarity, was held in which country?",
+     "o": [
+      "India",
+      "Indonesia",
+      "Egypt",
+      "Yugoslavia"
+     ],
+     "a": 1,
+     "e": "The <b>Bandung Conference (1955)</b> was held in <b>Indonesia</b>, bringing together newly independent Asian and African states and laying groundwork for the Non-Aligned Movement."
+    },
+    {
+     "q": "Winston Churchill's famous 'Iron Curtain' speech, marking the rhetorical start of the Cold War, was delivered in which year?",
+     "o": [
+      "1945",
+      "1946",
+      "1947",
+      "1949"
+     ],
+     "a": 1,
+     "e": "Churchill delivered his <b>'Iron Curtain' speech</b> at Fulton, Missouri, in <b>1946</b>, describing the ideological divide emerging between the Soviet bloc and the West."
+    }
+   ],
+   "intermediate": [
+    {
+     "q": "Consider the following statements regarding the causes of the American Revolution:\n1. The Stamp Act of 1765 imposed direct taxes on printed materials in the American colonies.\n2. The Boston Massacre of 1770 involved British soldiers firing on colonial protesters.\n3. The slogan 'No taxation without representation' reflected colonial opposition to taxes imposed without their consent in the British Parliament.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "a": 3,
+     "e": "All three are correct: the <b>Stamp Act (1765)</b> taxed printed materials; the <b>Boston Massacre (1770)</b> saw British troops kill colonial protesters; and the phrase '<b>no taxation without representation</b>' captured colonial grievances against unrepresentative taxation."
+    },
+    {
+     "q": "Consider the following statements about the early phase of the French Revolution:\n1. The Estates-General was convened by Louis XVI in 1789 due to a fiscal crisis.\n2. The Third Estate, after being denied entry to the Estates-General hall, took the Tennis Court Oath.\n3. The National Assembly was formed exclusively by representatives of the clergy and nobility.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "a": 0,
+     "e": "Louis XVI convened the <b>Estates-General in 1789</b> amid financial crisis, and the <b>Third Estate</b> took the <b>Tennis Court Oath</b> after being locked out. However, the <b>National Assembly</b> was formed by the Third Estate itself (joined later by some clergy and nobility), not exclusively by clergy and nobility, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding the Industrial Revolution:\n1. James Watt's improvements to the steam engine significantly boosted industrial productivity.\n2. The Industrial Revolution led to rapid urbanization as workers migrated to factory towns.\n3. The Enclosure Movement in Britain, which consolidated agricultural land, had no relation to the availability of factory labour.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Watt's steam engine improvements and resulting urbanization are correctly described. However, the <b>Enclosure Movement</b> displaced rural labourers from common lands, directly pushing many into factory work, so statement 3 is incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding the unification of Italy:\n1. Count Camillo di Cavour, Prime Minister of Piedmont-Sardinia, used diplomacy to advance unification.\n2. Giuseppe Mazzini founded the 'Young Italy' movement advocating a unified republic.\n3. Garibaldi's 'Red Shirts' captured Sicily and Naples during the Expedition of the Thousand in 1860.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three are correct: <b>Cavour</b> pursued diplomatic strategy for Piedmont-Sardinia, <b>Mazzini</b> founded '<b>Young Italy</b>' advocating republicanism, and <b>Garibaldi's Redshirts</b> captured Sicily and Naples in 1860."
+    },
+    {
+     "q": "Consider the following statements regarding the unification of Germany:\n1. The Zollverein was a customs union that promoted economic integration among German states before political unification.\n2. Prussia defeated Austria in the Austro-Prussian War of 1866, excluding Austria from the future German state.\n3. The Franco-Prussian War (1870-71) culminated in the proclamation of the German Empire.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 1,
+     "e": "All three are correct: the <b>Zollverein</b> fostered economic unity, the <b>Austro-Prussian War (1866)</b> excluded Austria, and victory in the <b>Franco-Prussian War (1870-71)</b> led directly to the proclamation of the German Empire in 1871."
+    },
+    {
+     "q": "Consider the following statements regarding the Russian Revolution of 1917:\n1. The February Revolution led to the abdication of Tsar Nicholas II and the formation of a Provisional Government.\n2. The Provisional Government under Alexander Kerensky continued Russia's participation in World War I.\n3. The Bolsheviks under Lenin seized power in the October Revolution and immediately signed a lasting alliance with the Allied powers.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "The <b>February Revolution</b> ended tsarist rule, and <b>Kerensky's Provisional Government</b> continued the unpopular war effort. However, the Bolsheviks sought to <b>exit the war</b>, signing the separate <b>Treaty of Brest-Litovsk with the Central Powers</b>, not an alliance with the Allies, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding the alliance systems of World War I:\n1. Germany, Austria-Hungary, and Italy formed the Triple Alliance before the war.\n2. Britain, France, and Russia formed the Triple Entente.\n3. Italy fought World War I as a member of the Central Powers throughout the conflict.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "The pre-war <b>Triple Alliance</b> and <b>Triple Entente</b> are correctly described. However, <b>Italy switched sides</b> and joined the Allies in 1915, not fighting throughout as a Central Power, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements about the Treaty of Versailles (1919):\n1. It included a 'War Guilt Clause' holding Germany responsible for the war.\n2. It imposed heavy reparations on Germany.\n3. It led to the creation of the League of Nations.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three are correct: the <b>War Guilt Clause (Article 231)</b> blamed Germany, heavy <b>reparations</b> were imposed, and the treaty established the <b>League of Nations</b> to maintain international peace."
+    },
+    {
+     "q": "Consider the following statements regarding the causes of World War II:\n1. The Treaty of Versailles's harsh terms fuelled resentment in Germany, contributing to the rise of Adolf Hitler.\n2. The policy of appeasement by Britain and France allowed Germany to annex Austria and the Sudetenland without armed resistance.\n3. The Munich Agreement of 1938 successfully prevented any further German territorial expansion.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Versailles's harsh terms and the policy of <b>appeasement</b> (allowing annexation of Austria and the Sudetenland) are correctly described. However, the <b>Munich Agreement</b> failed to stop expansion—Germany occupied the rest of Czechoslovakia in 1939 and then invaded Poland, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding decolonization in Asia after World War II:\n1. India and Pakistan gained independence from British rule in 1947.\n2. Indonesia achieved independence from Dutch colonial rule after a period of armed and diplomatic struggle.\n3. French colonial rule in Indochina ended after the Battle of Dien Bien Phu in 1954.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 1,
+     "e": "All three are correct: <b>India and Pakistan</b> became independent in 1947, <b>Indonesia</b> won independence from the Dutch through struggle, and French defeat at <b>Dien Bien Phu (1954)</b> ended French rule in Indochina."
+    },
+    {
+     "q": "Consider the following statements regarding decolonization in Africa:\n1. Ghana, under Kwame Nkrumah, became the first sub-Saharan African colony to gain independence, in 1957.\n2. The year 1960 is often called the 'Year of Africa' due to the independence of seventeen African nations.\n3. Algeria gained independence from France without any armed conflict, through purely diplomatic negotiations.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "<b>Ghana (1957)</b> and the '<b>Year of Africa</b>' (1960) are correctly described. However, <b>Algeria's independence (1962)</b> followed a prolonged and violent war against France, not purely diplomatic negotiation, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding the Cold War:\n1. The North Atlantic Treaty Organization (NATO) was formed in 1949 by Western powers.\n2. The Warsaw Pact was formed in 1955 as a Soviet-led counter-alliance.\n3. The Cuban Missile Crisis of 1962 brought the United States and Soviet Union to the brink of nuclear war.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three are correct: <b>NATO (1949)</b> and the <b>Warsaw Pact (1955)</b> represented rival Cold War blocs, and the <b>Cuban Missile Crisis (1962)</b> was the closest the world came to nuclear war during the Cold War."
+    },
+    {
+     "q": "Consider the following statements regarding post-World War II conferences and boundary changes:\n1. The Yalta Conference (1945) discussed the post-war reorganisation of Europe among the Allied leaders.\n2. The Potsdam Conference (1945) finalised the division of Germany into occupation zones.\n3. Korea was divided at the 38th parallel following Japan's surrender in 1945.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 1,
+     "e": "All three are correct: the <b>Yalta Conference</b> shaped post-war Europe, the <b>Potsdam Conference</b> divided Germany into occupation zones, and <b>Korea was split at the 38th parallel</b> between Soviet and American zones after Japan's defeat."
+    },
+    {
+     "q": "The Non-Aligned Movement (NAM), which sought to keep newly independent nations outside the two Cold War blocs, was significantly shaped by which of the following leaders?",
+     "o": [
+      "Jawaharlal Nehru, Gamal Abdel Nasser, Josip Broz Tito and Sukarno",
+      "Winston Churchill, Harry Truman and Joseph Stalin",
+      "Otto von Bismarck, Cavour and Garibaldi",
+      "Mao Zedong, Ho Chi Minh and Kim Il-sung"
+     ],
+     "a": 0,
+     "e": "The <b>Non-Aligned Movement</b>, formally launched at Belgrade in 1961, was significantly shaped by <b>Nehru (India), Nasser (Egypt), Tito (Yugoslavia), and Sukarno (Indonesia)</b>, advocating independence from both Cold War blocs."
+    },
+    {
+     "q": "Consider the following statements regarding Napoleon Bonaparte's rise to power:\n1. He seized power through the Coup of 18 Brumaire in 1799, overthrowing the Directory.\n2. He later crowned himself Emperor of the French in 1804.\n3. The Napoleonic Code standardised civil law and influenced legal systems across Europe.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 1,
+     "e": "All three are correct: Napoleon's <b>Coup of 18 Brumaire (1799)</b> ended the Directory, he crowned himself <b>Emperor in 1804</b>, and the <b>Napoleonic Code</b> became a lasting influence on civil law across Europe."
+    },
+    {
+     "q": "Consider the following statements regarding the conclusion of the American Revolution:\n1. The Treaty of Paris (1783) formally ended the war and recognised American independence.\n2. France provided crucial military and financial support to the American revolutionaries.\n3. The Second Continental Congress functioned as the de facto national government during the war.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three are correct: the <b>Treaty of Paris (1783)</b> ended the war and recognised independence, <b>France</b> provided vital support to the revolutionaries, and the <b>Second Continental Congress</b> acted as the wartime national government."
+    },
+    {
+     "q": "Consider the following statements regarding the social effects of the Industrial Revolution:\n1. It led to significant urbanization as populations shifted from rural areas to factory towns.\n2. It gave rise to a new industrial working class (proletariat) working under wage labour conditions.\n3. The Luddite movement in early 19th century Britain involved workers destroying machinery they blamed for unemployment.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 1,
+     "e": "All three are correct: <b>urbanization</b>, the rise of an industrial <b>proletariat</b>, and the <b>Luddite</b> machine-breaking protests were all significant social consequences of the Industrial Revolution."
+    },
+    {
+     "q": "Consider the following statements regarding the end of the Cold War:\n1. The Berlin Wall, which had divided East and West Berlin since 1961, fell in 1989.\n2. Germany was formally reunified in 1990.\n3. The Soviet Union dissolved into independent republics in 1991.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three are correct: the <b>Berlin Wall fell in 1989</b>, <b>Germany reunified in 1990</b>, and the <b>Soviet Union dissolved in 1991</b>, marking the definitive end of the Cold War era."
+    }
+   ],
+   "advanced": [
+    {
+     "q": "Consider the following statements regarding the framing of the United States Constitution:\n1. The Articles of Confederation (1781) created a weak central government with limited powers, prompting calls for a stronger framework.\n2. The Constitutional Convention of 1787 drafted a new constitution establishing a federal system with separation of powers.\n3. The Bill of Rights, comprising the first ten amendments, was ratified in 1791 to guarantee individual liberties.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 1,
+     "e": "All three are correct: the weak <b>Articles of Confederation (1781)</b> prompted the <b>Constitutional Convention (1787)</b> to create a stronger federal system, and the <b>Bill of Rights (1791)</b> subsequently guaranteed individual liberties."
+    },
+    {
+     "q": "Consider the following statements regarding the radical phase of the French Revolution:\n1. The Jacobins, led by Robespierre, dominated the Committee of Public Safety during the Reign of Terror (1793-94).\n2. The Girondins represented a more moderate revolutionary faction that clashed with the Jacobins.\n3. The Thermidorian Reaction of 1794 resulted in Robespierre's execution and the end of the Terror.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 1,
+     "e": "All three are correct: the <b>Jacobins</b> under Robespierre drove the <b>Reign of Terror</b>, the more moderate <b>Girondins</b> opposed them, and the <b>Thermidorian Reaction (1794)</b> ended the Terror with Robespierre's execution."
+    },
+    {
+     "q": "Which of the following best distinguishes the 'Second Industrial Revolution' (late 19th century) from the 'First Industrial Revolution' (mid-18th to early 19th century)?",
+     "o": [
+      "The Second Industrial Revolution was centred on textiles and steam power, while the First was based on steel and electricity",
+      "The First Industrial Revolution was driven by textile mechanisation and steam power, while the Second was marked by advances in steel, electricity, and chemical industries",
+      "Both revolutions occurred simultaneously in the same industries",
+      "The Second Industrial Revolution occurred exclusively outside Europe"
+     ],
+     "a": 1,
+     "e": "The <b>First Industrial Revolution</b> centred on <b>textiles, coal, and steam power</b>, while the <b>Second Industrial Revolution</b> (from the 1870s) was marked by <b>steel, electricity, and chemical industries</b>, expanding into Germany and the United States."
+    },
+    {
+     "q": "Consider the following statements comparing the unification strategies of Italy and Germany:\n1. Cavour secured French support against Austria through the secret Plombieres Agreement.\n2. Bismarck used the manipulated 'Ems Dispatch' to provoke France into declaring war in 1870.\n3. Both unifications were achieved primarily through popular republican revolutions rather than diplomacy or war.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Cavour's <b>Plombieres Agreement</b> with France and Bismarck's manipulation of the <b>Ems Dispatch</b> are correctly described diplomatic strategies. However, both unifications were achieved primarily through <b>calculated diplomacy and war</b> orchestrated from above, not popular republican revolutions, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding Soviet economic policy after the Russian Revolution:\n1. 'War Communism' (1918-21) involved forced grain requisitioning and nationalisation of industry during the Civil War.\n2. The New Economic Policy (NEP), introduced by Lenin in 1921, permitted limited private trade and a market in agricultural surplus.\n3. The NEP was abandoned by Stalin in favour of collectivisation and centralised Five-Year Plans from the late 1920s.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three are correct: <b>War Communism</b> enforced requisitioning during the Civil War, the <b>NEP (1921)</b> reintroduced limited market mechanisms, and <b>Stalin</b> later replaced it with <b>collectivisation and Five-Year Plans</b>."
+    },
+    {
+     "q": "The 'MAIN' framework (Militarism, Alliances, Imperialism, Nationalism) used by historians to explain the outbreak of World War I suggests which of the following?",
+     "o": [
+      "The assassination of Franz Ferdinand was the sole and sufficient cause of the war",
+      "Long-term structural factors created conditions for war, with the Sarajevo assassination acting as the immediate trigger rather than the root cause",
+      "World War I had no connection to imperial rivalries",
+      "Nationalism played no role in pre-war tensions"
+     ],
+     "a": 1,
+     "e": "The <b>MAIN framework</b> emphasises that deep-rooted <b>militarism, rigid alliance systems, imperial rivalries, and nationalism</b> created the underlying conditions for war, with the <b>Sarajevo assassination</b> serving merely as the immediate spark rather than the fundamental cause."
+    },
+    {
+     "q": "Consider the following statements regarding the Eastern and Western Fronts in World War II:\n1. The Battle of Stalingrad (1942-43) marked a decisive turning point against Germany on the Eastern Front.\n2. The D-Day landings in Normandy (June 1944) opened a major Western Front against Germany.\n3. The Eastern Front saw comparatively fewer casualties than the Western Front throughout the war.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "<b>Stalingrad</b> and the <b>D-Day landings</b> are correctly described as turning points on their respective fronts. However, the <b>Eastern Front</b> saw by far the <b>highest casualties</b> of the war, not fewer than the Western Front, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following best explains the differing paths to independence taken by India/Ghana versus Algeria/Vietnam during decolonization?",
+     "o": [
+      "All colonies gained independence through purely peaceful negotiation",
+      "India and Ghana achieved independence primarily through sustained political mobilisation and negotiated transfer of power, whereas Algeria and Vietnam gained independence only after prolonged armed conflict against colonial rule",
+      "Algeria and Vietnam achieved independence without any conflict",
+      "India and Ghana used armed insurgency exclusively"
+     ],
+     "a": 1,
+     "e": "<b>India and Ghana</b> achieved independence largely through political mobilisation and negotiated transfers of power, while <b>Algeria's War of Independence</b> and the <b>Vietnamese struggle</b> against France (and later the US) involved prolonged, violent armed conflict."
+    },
+    {
+     "q": "Consider the following statements regarding Cold War proxy conflicts:\n1. The Korean War (1950-53) ended with the peninsula divided near the original 38th parallel.\n2. The United States and Soviet Union directly declared war on each other during the Vietnam War.\n3. The period of 'Detente' in the 1970s saw a temporary easing of US-Soviet tensions.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 3 only"
+     ],
+     "a": 3,
+     "e": "The <b>Korean War</b> division near the 38th parallel and the 1970s <b>Detente</b> are correctly described. However, the US and USSR never <b>directly declared war</b> on each other during the Vietnam War, engaging instead through proxy support, making statement 2 incorrect."
+    },
+    {
+     "q": "Which of the following best contrasts the principle underlying the Congress of Vienna (1815) with that underlying the Treaty of Versailles (1919) in redrawing European boundaries?",
+     "o": [
+      "Both were based on the principle of national self-determination",
+      "The Congress of Vienna prioritised balance of power and restoration of monarchical legitimacy, while the Treaty of Versailles emphasised (though inconsistently) national self-determination as articulated in Wilson's Fourteen Points",
+      "The Treaty of Versailles restored old monarchies, while the Congress of Vienna created new nation-states",
+      "Neither dealt with territorial boundaries"
+     ],
+     "a": 1,
+     "e": "The <b>Congress of Vienna (1815)</b> aimed to restore monarchical legitimacy and a <b>balance of power</b> after Napoleon, whereas the <b>Treaty of Versailles (1919)</b> invoked (albeit unevenly) the principle of <b>national self-determination</b> from Woodrow Wilson's Fourteen Points."
+    },
+    {
+     "q": "Consider the following statements regarding the link between the Treaty of Versailles and the rise of Nazism in Germany:\n1. The war reparations imposed on Germany contributed to the hyperinflation crisis of 1923.\n2. The Weimar Republic, established after WWI, struggled with economic instability that Hitler's propaganda exploited.\n3. The Treaty of Versailles was welcomed unanimously across German political parties as fair and lenient.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "Reparations contributed to the <b>1923 hyperinflation</b>, and the <b>Weimar Republic's</b> instability was exploited by Hitler. However, the treaty was widely condemned across German politics as a harsh '<b>Diktat</b>', not welcomed unanimously as fair, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding the ideological split within Russian Marxism prior to 1917:\n1. The Bolsheviks, led by Lenin, advocated a smaller, disciplined vanguard party to lead the revolution.\n2. The Mensheviks favoured a broader, more gradualist path involving mass party membership.\n3. Lenin's 'April Theses' (1917) called for continued cooperation with the Provisional Government.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "The <b>Bolshevik-Menshevik split</b> over party organisation is correctly described. However, Lenin's <b>April Theses</b> actually called for <b>ending support</b> to the Provisional Government under the slogan 'All power to the Soviets', not continued cooperation, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following best characterizes the difference between the unification processes of Italy and Germany in terms of leadership and method?",
+     "o": [
+      "Italy's unification combined Cavour's top-down diplomacy with Garibaldi's popular military campaigns, while Germany's unification was achieved almost entirely through Bismarck's top-down orchestration of wars from above",
+      "Germany's unification relied entirely on popular uprisings led by Garibaldi-like figures",
+      "Italy's unification was achieved solely through the Zollverein customs union",
+      "Both unifications were achieved without any wars"
+     ],
+     "a": 0,
+     "e": "<b>Italy's unification</b> uniquely blended <b>Cavour's diplomatic manoeuvring</b> with <b>Garibaldi's popular military campaigns</b>, while <b>Germany's unification</b> was driven almost entirely by <b>Bismarck's calculated wars</b> orchestrated from above, with little role for popular uprising."
+    },
+    {
+     "q": "Consider the following statements regarding Cold War-era regional alliances:\n1. The Southeast Asia Treaty Organization (SEATO) was formed as a US-led anti-communist alliance.\n2. The Central Treaty Organization (CENTO) linked Middle Eastern and South Asian states with Western powers.\n3. The Non-Aligned Movement sought to align newly independent nations formally with the Warsaw Pact.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "<b>SEATO</b> and <b>CENTO</b> were indeed US-aligned anti-communist alliances. However, the <b>Non-Aligned Movement</b> explicitly sought to stay <b>independent of both the Warsaw Pact and NATO blocs</b>, not to align with the Warsaw Pact, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding boundary changes after the end of the Cold War:\n1. The Soviet Union dissolved into fifteen independent republics in 1991.\n2. Germany, divided since 1949 into the Federal Republic and the Democratic Republic, was reunified in 1990.\n3. The breakup of Yugoslavia in the 1990s occurred entirely peacefully without any armed conflict.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "The <b>Soviet Union's dissolution</b> into fifteen states and <b>German reunification (1990)</b> are correctly described. However, the <b>breakup of Yugoslavia</b> involved brutal armed conflicts, including the Bosnian War, not a peaceful process, making statement 3 incorrect."
+    },
+    {
+     "q": "Consider the following statements regarding the intellectual influences on the American and French Revolutions:\n1. John Locke's ideas on natural rights and government by consent influenced American revolutionary thought.\n2. Montesquieu's theory of separation of powers influenced constitutional design in both revolutions.\n3. Rousseau's concept of the 'general will' had no influence on French revolutionary ideology.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 only"
+     ],
+     "a": 0,
+     "e": "<b>Locke's natural rights</b> and <b>Montesquieu's separation of powers</b> significantly shaped both revolutions. However, <b>Rousseau's 'general will'</b> was highly influential on French revolutionary ideology, particularly among the Jacobins, making statement 3 incorrect."
+    },
+    {
+     "q": "Which of the following best explains the relationship between World War II and the subsequent wave of decolonization in Asia and Africa?",
+     "o": [
+      "World War II had no impact on colonial powers' capacity to retain their empires",
+      "World War II severely weakened European colonial powers economically and militarily while also popularising principles of self-determination (as in the Atlantic Charter of 1941), accelerating demands for independence",
+      "Colonial powers voluntarily granted independence before World War II began",
+      "World War II strengthened colonial control, delaying decolonization by decades"
+     ],
+     "a": 1,
+     "e": "<b>World War II</b> drained European colonial powers economically and militarily while the <b>Atlantic Charter (1941)</b> popularised the principle of self-determination, together accelerating the post-war wave of <b>decolonization</b> across Asia and Africa."
+    },
+    {
+     "q": "Consider the following statements regarding post-war partitions of territories along political/religious lines:\n1. Korea was divided at the 38th parallel in 1945 into Soviet and American occupation zones.\n2. Vietnam was divided at the 17th parallel under the 1954 Geneva Accords pending unification elections.\n3. The 1947 United Nations Partition Plan for Palestine proposed separate Jewish and Arab states.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three are correct: <b>Korea</b> was split at the <b>38th parallel</b> in 1945, <b>Vietnam</b> was divided at the <b>17th parallel</b> under the 1954 <b>Geneva Accords</b>, and the <b>1947 UN Partition Plan</b> proposed separate Jewish and Arab states in Palestine."
+    }
+   ]
+  }
+ }
+]

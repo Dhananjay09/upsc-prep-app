@@ -1,0 +1,2430 @@
+[
+ {
+  "id": "hist_peasant_tribal_movements",
+  "title": "Peasant & Tribal Movements",
+  "desc": "Agrarian uprisings such as the Indigo Revolt, Deccan Riots, Champaran, Kheda and Bardoli satyagrahas, and tribal revolts including the Santhal Hul, Munda Ulgulan, Kol and Bhil uprisings.",
+  "questions": {
+   "basic": [
+    {
+     "q": "The Indigo Revolt of 1859-60 primarily took place in which region?",
+     "o": [
+      "Bihar",
+      "Bengal",
+      "Awadh",
+      "Maharashtra"
+     ],
+     "a": 1,
+     "e": "The <b>Indigo Revolt</b> (1859-60) occurred in Bengal, where ryots refused to cultivate indigo under the exploitative system imposed by European planters."
+    },
+    {
+     "q": "Which play, written by Dinabandhu Mitra, depicted the sufferings of indigo cultivators and inspired public opinion during the Indigo Revolt?",
+     "o": [
+      "Nabanna",
+      "Neel Darpan",
+      "Bharat Durdasha",
+      "Andha Yug"
+     ],
+     "a": 1,
+     "e": "<b>Neel Darpan</b> (1860) by Dinabandhu Mitra dramatised the oppression of indigo cultivators and helped mobilise support against the planters."
+    },
+    {
+     "q": "The Deccan Riots of 1875 in the Poona and Ahmednagar districts were directed mainly against?",
+     "o": [
+      "British indigo planters",
+      "Moneylenders (sahukars)",
+      "Zamindars",
+      "Colonial police officials"
+     ],
+     "a": 1,
+     "e": "The <b>Deccan Riots</b> targeted moneylenders whose usurious practices and manipulation of debt records led to peasants losing their land."
+    },
+    {
+     "q": "The Deccan Agriculturists' Relief Act, aimed at protecting peasants from moneylenders, was passed in which year?",
+     "o": [
+      "1875",
+      "1879",
+      "1885",
+      "1893"
+     ],
+     "a": 1,
+     "e": "The <b>Deccan Agriculturists' Relief Act, 1879</b> was enacted following the Deccan Riots Commission's inquiry into peasant indebtedness."
+    },
+    {
+     "q": "The Champaran Satyagraha (1917), Gandhi's first satyagraha in India, was launched against which exploitative system?",
+     "o": [
+      "Permanent Settlement",
+      "Tinkathia system",
+      "Ryotwari system",
+      "Mahalwari system"
+     ],
+     "a": 1,
+     "e": "Under the <b>tinkathia system</b>, peasants in Champaran were forced to grow indigo on three-twentieths (3/20) of their landholding for European planters."
+    },
+    {
+     "q": "Who persuaded Mahatma Gandhi to visit Champaran to investigate the plight of indigo cultivators?",
+     "o": [
+      "Vallabhbhai Patel",
+      "Raj Kumar Shukla",
+      "Mazhar-ul-Haq",
+      "Rajendra Prasad"
+     ],
+     "a": 1,
+     "e": "<b>Raj Kumar Shukla</b>, a local indigo cultivator, persistently persuaded Gandhi to visit Champaran in 1917."
+    },
+    {
+     "q": "The Kheda Satyagraha of 1918 saw the rise of which leader, who worked closely with Gandhi?",
+     "o": [
+      "Jawaharlal Nehru",
+      "Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "C. Rajagopalachari"
+     ],
+     "a": 1,
+     "e": "<b>Vallabhbhai Patel</b> organised the Kheda peasants during the 1918 satyagraha against revenue collection despite crop failure."
+    },
+    {
+     "q": "The Bardoli Satyagraha of 1928 was launched by peasants primarily in protest against?",
+     "o": [
+      "Salt tax",
+      "An enhanced land revenue assessment",
+      "Forest laws",
+      "Compulsory indigo cultivation"
+     ],
+     "a": 1,
+     "e": "The <b>Bardoli Satyagraha</b> opposed a steep hike in land revenue assessment imposed by the Bombay government."
+    },
+    {
+     "q": "Vallabhbhai Patel earned the honorific title 'Sardar' after successfully leading which movement?",
+     "o": [
+      "Kheda Satyagraha",
+      "Bardoli Satyagraha",
+      "Champaran Satyagraha",
+      "Non-Cooperation Movement"
+     ],
+     "a": 1,
+     "e": "Following the success of the <b>Bardoli Satyagraha</b> (1928), Patel was given the title 'Sardar' meaning chief or leader."
+    },
+    {
+     "q": "The Santhal Hul (rebellion) of 1855-56 against zamindars, moneylenders and the British was led by which brothers?",
+     "o": [
+      "Sidhu and Kanhu",
+      "Budhu and Chand",
+      "Tilka and Manjhi",
+      "Bhairav and Kanho"
+     ],
+     "a": 0,
+     "e": "<b>Sidhu and Kanhu Murmu</b> led thousands of Santhals in the Hul of 1855-56 in the Santhal Parganas region."
+    },
+    {
+     "q": "Birsa Munda led the 'Ulgulan' (Great Tumult) mainly in which region?",
+     "o": [
+      "Santhal Parganas",
+      "Chhotanagpur",
+      "Bastar",
+      "Malabar"
+     ],
+     "a": 1,
+     "e": "Birsa Munda's <b>Ulgulan</b> (1899-1900) was centred in the Chhotanagpur plateau area of present-day Jharkhand."
+    },
+    {
+     "q": "The Munda Rebellion under Birsa Munda sought restoration of which traditional communal land-tenure system?",
+     "o": [
+      "Ryotwari",
+      "Khuntkatti",
+      "Zamindari",
+      "Mahalwari"
+     ],
+     "a": 1,
+     "e": "The <b>Khuntkatti</b> system referred to joint clan ownership of land by the original Munda settlers, which the rebellion sought to protect from outsiders."
+    },
+    {
+     "q": "In which decade did the Kol uprising, one of the earliest tribal revolts against British rule, take place?",
+     "o": [
+      "1810s",
+      "1830s",
+      "1850s",
+      "1870s"
+     ],
+     "a": 1,
+     "e": "The <b>Kol uprising</b> (1831-32) occurred in the Chhotanagpur region against the intrusion of outsiders (dikus) and oppressive revenue farmers."
+    },
+    {
+     "q": "Consider the following statements about the Santhal Hul (1855-56):\n1. It was led by Sidhu and Kanhu Murmu.\n2. It aimed to establish Santhal rule (Santhal Raj) free from zamindars and moneylenders.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct: the Hul was led by <b>Sidhu and Kanhu</b> and aimed at establishing an independent Santhal Raj free of exploitative outsiders."
+    },
+    {
+     "q": "Consider the following statements about the Bhil uprising led by Govind Guru:\n1. Govind Guru organised the Bhils through a religious-reform movement known as the Bhagat/Samp Sabha movement.\n2. The movement culminated in the Mangarh massacre of 1913.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "<b>Govind Guru</b> organised Bhils through the Samp Sabha and Bhagat movement; the gathering at Mangarh hill was fired upon in 1913, killing hundreds."
+    },
+    {
+     "q": "The Mangarh massacre of 1913, sometimes called a tribal 'Jallianwala Bagh', involved the followers of which leader?",
+     "o": [
+      "Birsa Munda",
+      "Govind Guru",
+      "Alluri Sitarama Raju",
+      "Tirot Singh"
+     ],
+     "a": 1,
+     "e": "Thousands of Bhil followers of <b>Govind Guru</b> gathered at Mangarh hill were fired upon by state and British forces in 1913."
+    },
+    {
+     "q": "The Rampa Rebellion (1922-24) in the Godavari Agency tracts of Andhra was led by?",
+     "o": [
+      "Alluri Sitarama Raju",
+      "Komaram Bheem",
+      "Govind Guru",
+      "Birsa Munda"
+     ],
+     "a": 0,
+     "e": "<b>Alluri Sitarama Raju</b> led hill tribes against restrictive forest laws and British authority in the Rampa/Godavari Agency region."
+    },
+    {
+     "q": "Consider the following statements about the Moplah Rebellion (1921):\n1. It occurred in the Malabar region of present-day Kerala.\n2. It began as an anti-landlord movement that became entangled with the Khilafat and Non-Cooperation movements.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "The <b>Moplah Rebellion</b> in Malabar began against oppressive Hindu landlords and colonial support to them, and became linked with the Khilafat agitation."
+    }
+   ],
+   "intermediate": [
+    {
+     "q": "Which of the following pairs of peasant movement and its leader is/are correctly matched?\n1. Eka Movement - Madari Pasi\n2. Bardoli Satyagraha - Vallabhbhai Patel\n3. Bijolia Movement - Vijay Singh Pathik\nHow many of the above pairs are correctly matched?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three pairs are correct: <b>Madari Pasi</b> led the Eka Movement (1921, UP), <b>Patel</b> led Bardoli, and <b>Vijay Singh Pathik</b> guided the Bijolia peasant movement in Rajasthan."
+    },
+    {
+     "q": "Consider the following statements regarding the Champaran Satyagraha:\n1. It was against the tinkathia system under which peasants had to cultivate indigo on 3/20th of their landholding.\n2. The Champaran Agrarian Act, 1918 was passed as a result of the movement.\n3. Rajendra Prasad and J.B. Kripalani were among those who assisted Gandhi.\nWhich of the statements given above are correct?",
+     "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+     ],
+     "a": 3,
+     "e": "All three statements are accurate descriptions of the <b>Champaran Satyagraha</b> of 1917, which ended the tinkathia system through the Champaran Agrarian Act, 1918."
+    },
+    {
+     "q": "The Pabna agrarian riots of 1873 in Bengal were primarily directed against?",
+     "o": [
+      "Indigo planters",
+      "Zamindars demanding illegal enhancement of rent",
+      "British colonial revenue policy",
+      "Local moneylenders"
+     ],
+     "a": 1,
+     "e": "Peasants in Pabna formed agrarian leagues to resist <b>zamindars</b> who were illegally enhancing rents beyond legal limits."
+    },
+    {
+     "q": "Consider the following statements about the Deccan Riots (1875):\n1. The riots were triggered by rigid revenue demands under the Ryotwari system combined with exploitation by moneylenders.\n2. The Government of India appointed a Commission to inquire into the causes.\n3. The riots led to the enactment of the Deccan Agriculturists' Relief Act, 1879.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements accurately describe the <b>Deccan Riots</b>, its causes, the resulting inquiry commission, and the protective legislation of 1879."
+    },
+    {
+     "q": "With reference to the Kheda Satyagraha of 1918, consider the following statements:\n1. It was launched due to crop failure and a plague epidemic, leaving peasants unable to pay land revenue.\n2. The government initially refused to formally suspend revenue collection but informally relented for poorer peasants.\n3. It was among the first movements in which Vallabhbhai Patel actively participated under Gandhi's guidance.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 3,
+     "e": "All the statements correctly capture the circumstances and significance of the <b>Kheda Satyagraha</b> of 1918."
+    },
+    {
+     "q": "The 'Ulgulan' led by Birsa Munda is considered significant because it:\n1. combined religious revivalism with a political demand for self-rule (Munda Raj).\n2. contributed to the enactment of the Chotanagpur Tenancy Act, 1908.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Birsa Munda's movement fused millenarian religious ideas with a demand for <b>Munda Raj</b>, and the unrest contributed to protective tenancy legislation in 1908."
+    },
+    {
+     "q": "Consider the following statements about the Faraizi movement:\n1. It was started by Haji Shariatullah in Bengal.\n2. Under Dudu Miyan, it also took up agrarian grievances against oppressive zamindars.\n3. It remained purely a religious reform movement with no agrarian dimension.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 1,
+     "e": "The <b>Faraizi movement</b> began as religious reform under Haji Shariatullah but under his son Dudu Miyan acquired a strong agrarian dimension, contradicting statement 3."
+    },
+    {
+     "q": "Which one of the following tribal revolts was led by Tirot Singh, chief of a Khasi confederacy, against British attempts to build a road through his territory?",
+     "o": [
+      "Khasi uprising",
+      "Kol uprising",
+      "Bhil uprising",
+      "Munda rebellion"
+     ],
+     "a": 0,
+     "e": "<b>Tirot Singh</b> led the Khasi uprising (1829-33) in the hills of present-day Meghalaya to resist British road-building through Khasi territory."
+    },
+    {
+     "q": "Consider the following statements regarding the Anglo-Kuki War (1917-19):\n1. It occurred in the Manipur-Chin Hills border region.\n2. It was a reaction against British attempts to recruit Kukis into a Labour Corps during World War I.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "The <b>Anglo-Kuki War</b> arose from Kuki resistance to forced recruitment for the Labour Corps in France during World War I."
+    },
+    {
+     "q": "The Chuar Rebellion, one of the earliest recorded tribal uprisings against British rule, took place mainly in?",
+     "o": [
+      "Midnapore district of Bengal",
+      "Santhal Parganas",
+      "Chhotanagpur plateau",
+      "Malabar coast"
+     ],
+     "a": 0,
+     "e": "The <b>Chuar Rebellion</b> (late 18th century) occurred among tribal and low-caste peasants of Midnapore against oppressive revenue demands."
+    },
+    {
+     "q": "Consider the following statements about the Warli Revolt (1945):\n1. It was organised under the leadership of Godavari Parulekar and the Kisan Sabha.\n2. It was directed against the forced/bonded labour (veth begar) system imposed by landlords.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "The <b>Warli Revolt</b>, led by Godavari Parulekar, mobilised Warli tribals against bonded labour and landlord exploitation in Thane district."
+    },
+    {
+     "q": "With reference to the Telangana Movement (1946-51), consider the following statements:\n1. It was led by the Communist Party of India against the Nizam's oppressive feudal order.\n2. It involved redistribution of land seized from landlords among the peasantry.\n3. It ended immediately after Operation Polo (1948) without further activity.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "The <b>Telangana movement</b> continued armed struggle even after the Indian Army's Operation Polo in 1948, and was called off only in 1951, making statement 3 incorrect."
+    },
+    {
+     "q": "The Eka Movement (1921) in the United Provinces was mainly a protest against?",
+     "o": [
+      "High rents and oppressive practices of taluqdars and their agents",
+      "Compulsory indigo cultivation",
+      "The salt tax",
+      "Forest Acts restricting grazing"
+     ],
+     "a": 0,
+     "e": "The <b>Eka Movement</b>, led by Madari Pasi, mobilised peasants against high rents, illegal levies (nazrana) and share-cropping abuses by taluqdars."
+    },
+    {
+     "q": "Consider the following statements about the All India Kisan Sabha (AIKS):\n1. It was founded in 1936 with Swami Sahajanand Saraswati as its first president.\n2. The Kisan Manifesto adopted by it demanded abolition of the zamindari system.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "The <b>All India Kisan Sabha</b>, founded in Lucknow in 1936 under Swami Sahajanand Saraswati, demanded abolition of zamindari and debt relief for peasants."
+    },
+    {
+     "q": "The Bijolia Movement in Rajasthan, protesting oppressive levies such as 'chudavand' and 'lag-bag', was guided in its later phase by?",
+     "o": [
+      "Vijay Singh Pathik",
+      "Govind Guru",
+      "Motilal Tejawat",
+      "Baba Ramchandra"
+     ],
+     "a": 0,
+     "e": "<b>Vijay Singh Pathik</b> gave organisational shape and political direction to the long-running Bijolia peasant movement (begun 1897, intensified after 1916)."
+    },
+    {
+     "q": "Baba Ramchandra was closely associated with peasant mobilisation through Kisan Sabhas in which region?",
+     "o": [
+      "Awadh (Oudh)",
+      "Champaran",
+      "Bardoli",
+      "Malabar"
+     ],
+     "a": 0,
+     "e": "<b>Baba Ramchandra</b> organised peasants in the Awadh region (1920-21) against oppressive taluqdars, with the movement later linking to the Non-Cooperation Movement."
+    },
+    {
+     "q": "Consider the following statements about the Rampa Rebellion (1922-24):\n1. It was a response to the Madras Forest Act, 1882, which restricted tribal access to forest produce and podu (shifting) cultivation.\n2. Alluri Sitarama Raju, its leader, employed guerrilla tactics against British forces.\n3. It ended with Raju's surrender and subsequent pardon by the British.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect since Raju was captured and executed by the British in 1924, not pardoned."
+    },
+    {
+     "q": "The Naikda revolt (1868), associated with leaders like Joria Bhagat, occurred mainly in the Panchmahals region of which present-day state?",
+     "o": [
+      "Gujarat",
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Rajasthan"
+     ],
+     "a": 0,
+     "e": "The <b>Naikda revolt</b> took place in the Panchmahals area of present-day Gujarat against British encroachment and revenue policies."
+    }
+   ],
+   "advanced": [
+    {
+     "q": "With reference to peasant movements in colonial India, consider the following statements:\n1. The Champaran Satyagraha (1917) predates the Kheda Satyagraha (1918).\n2. The Bardoli Satyagraha (1928) followed a proposed revenue hike that was later reduced substantially after an official inquiry.\n3. The Deccan Riots (1875) preceded the first tenancy-protection legislation in the Bombay Presidency.\nWhich of the above statements is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 3,
+     "e": "All three are correct: Champaran (1917) preceded Kheda (1918); Bardoli's revenue hike was reduced after the Broomfield-Maxwell inquiry; and the Deccan Riots (1875) preceded the <b>Deccan Agriculturists' Relief Act, 1879</b>."
+    },
+    {
+     "q": "Consider the following statements regarding the chronology of tribal uprisings:\n1. The Kol uprising (1831-32) preceded the Santhal Hul (1855-56).\n2. The Santhal Hul preceded the Munda Ulgulan (1899-1900).\n3. The Rampa Rebellion (1922-24) was the last major tribal uprising against British rule before independence.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; tribal unrest continued afterward, including the <b>Warli Revolt of 1945</b>, so the Rampa Rebellion was not the last such uprising."
+    },
+    {
+     "q": "Which of the following statements about the 'Tana Bhagat' movement is/are correct?\n1. It emerged among the Oraon tribals of Chhotanagpur.\n2. It combined religious reform (giving up animal sacrifice and liquor) with anti-landlord and anti-British sentiment.\n3. Its followers later associated with the Gandhian Non-Cooperation Movement.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements correctly describe the <b>Tana Bhagat movement</b>, which began as a religious reform movement among Oraons and later merged with nationalist politics."
+    },
+    {
+     "q": "Consider the following statements about the Pagal Panthi movement:\n1. It drew support from Garo and Hajong peasants of the Mymensingh region.\n2. It combined a syncretic religious sect with agrarian protest against zamindars.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "The <b>Pagal Panthi movement</b>, associated with leaders like Karam Shah and Tipu Shah, mobilised peasants of Mymensingh through a mix of religious sectarianism and agrarian grievance."
+    },
+    {
+     "q": "With reference to land revenue systems and agrarian unrest, which one of the following statements is correct?",
+     "o": [
+      "The Deccan Riots occurred in an area under the Permanent Settlement",
+      "The Deccan Riots occurred in an area under the Ryotwari settlement",
+      "The Champaran indigo system operated under the Mahalwari settlement",
+      "The Kheda Satyagraha was primarily against the Permanent Settlement"
+     ],
+     "a": 1,
+     "e": "The Bombay Deccan, where the 1875 riots occurred, was administered under the <b>Ryotwari system</b>, which held individual cultivators directly liable for revenue."
+    },
+    {
+     "q": "Consider the following statements:\n1. The Indigo Commission of 1860 was set up by the government following the Indigo Revolt.\n2. The Commission held planters partly responsible and recommended that no ryot be compelled to grow indigo against his will.\n3. Following the Commission's report, indigo cultivation ended completely throughout India by 1861.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; indigo cultivation declined in Bengal but shifted to and continued in Bihar (e.g., Champaran) until the 1917 satyagraha ended the system there."
+    },
+    {
+     "q": "The demand for 'Khuntkatti' raised during the Munda rebellion referred to?",
+     "o": [
+      "A system of collective/joint clan ownership of land by original settlers",
+      "A revenue-free grant given to loyal tribal chiefs",
+      "A form of shifting (podu) cultivation",
+      "A tribute paid annually to the zamindar"
+     ],
+     "a": 0,
+     "e": "<b>Khuntkatti</b> denoted the customary joint ownership of land by the founding lineages of a Munda village, threatened by the entry of outsiders (dikus) and landlords."
+    },
+    {
+     "q": "Consider the following statements about Alluri Sitarama Raju:\n1. He led tribal Koya and other hill communities of the Godavari Agency against the Madras Forest Act.\n2. He was influenced by the Non-Cooperation Movement though he did not follow strict Gandhian non-violence.\n3. He was captured and executed by the British in 1924.\nHow many of the statements given above are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements accurately describe <b>Alluri Sitarama Raju</b>'s leadership of the Rampa Rebellion and his eventual capture and execution."
+    },
+    {
+     "q": "Which of the following statements correctly distinguish the Santhal Hul from the Munda Ulgulan?\n1. The Santhal Hul sought an independent Santhal Raj free of zamindars and the British, while the Ulgulan envisioned a divinely sanctioned Munda Raj under Birsa Munda.\n2. The Santhal Hul (1855-56) occurred earlier than the Ulgulan (1899-1900).\n3. Unlike the Santhal Hul, the Ulgulan had no religious or millenarian dimension.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; the Ulgulan had a strong millenarian character, with Birsa Munda venerated as a messianic figure ('Dharti Aba')."
+    },
+    {
+     "q": "Consider the following statements about the Bardoli Satyagraha:\n1. It relied on careful social mobilisation using local Congress networks and caste solidarity, particularly among Patidars.\n2. Women played a significant role in the movement, and it was women who reportedly gave Patel the title 'Sardar'.\n3. The Bombay government eventually appointed an inquiry committee, which found the revenue hike unjustified.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements correctly describe the organisation and outcome of the <b>Bardoli Satyagraha</b> of 1928."
+    },
+    {
+     "q": "With reference to agrarian legislation in colonial India, consider the following statements:\n1. The Bengal Tenancy Act, 1885 was enacted partly in response to unrest such as the Indigo Revolt and Pabna riots.\n2. The Deccan Agriculturists' Relief Act, 1879 restricted the power of moneylenders to seize peasant land for debt default.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both pieces of legislation were direct legislative responses to agrarian unrest, aiming to give ryots and tenants some protection against landlords and moneylenders."
+    },
+    {
+     "q": "The Tebhaga movement's central demand was that the share of the harvest given to the bargadar (sharecropper) be increased from the prevailing customary share to?",
+     "o": [
+      "From one-half to two-thirds",
+      "From one-third to one-half",
+      "From one-fourth to one-third",
+      "From two-thirds to three-fourths"
+     ],
+     "a": 0,
+     "e": "'Tebhaga' means 'three parts'; the movement demanded that sharecroppers, who conventionally got half the produce, should get <b>two-thirds</b> instead."
+    },
+    {
+     "q": "Consider the following statements about the Moplah Rebellion (1921):\n1. It began as a protest against the oppressive Hindu 'janmi' (landlord) system supported by British authorities.\n2. It became entangled with the Khilafat and Non-Cooperation movements, acquiring a communal colour in its later phase.\n3. Gandhi and the Congress fully endorsed the rebellion's violent turn until its suppression.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Gandhi and the Congress distanced themselves from the violent excesses that marked the later phase of the Moplah uprising."
+    },
+    {
+     "q": "Which of the following correctly matches the tribal community with the region of its major revolt?\n1. Kols - Chhotanagpur\n2. Bhils - Khandesh/Banswara-Dungarpur belt\n3. Kukis - Manipur-Chin Hills border\nHow many pairs are correctly matched?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three pairs are correctly matched, reflecting the geographic spread of major tribal uprisings against colonial rule."
+    },
+    {
+     "q": "Consider the following statements about the Bhil uprising under Govind Guru:\n1. Govind Guru founded the 'Samp Sabha' to organise and socially reform the Bhils.\n2. The 1913 Mangarh gathering was fired upon by state and British forces, killing hundreds of Bhils.\n3. Govind Guru was subsequently hanged by the British for leading the uprising.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Govind Guru was sentenced to transportation for life (later commuted), not hanged."
+    },
+    {
+     "q": "The eventual settlement of the Kheda Satyagraha involved which of the following outcomes?",
+     "o": [
+      "Complete waiver of revenue for all peasants irrespective of capacity to pay",
+      "Suspension of revenue collection for poorer peasants unable to pay, while richer peasants paid and confiscated property was returned",
+      "Immediate and permanent abolition of land revenue in Kheda district",
+      "No concession whatsoever was granted by the government"
+     ],
+     "a": 1,
+     "e": "The informal settlement allowed revenue to be suspended for peasants genuinely unable to pay, while others paid, and property seized during the agitation was restored."
+    },
+    {
+     "q": "Consider the following statements regarding the Faraizi movement's agrarian activity under Dudu Miyan:\n1. Dudu Miyan organised a parallel administrative structure with local agents (khalifas) to resist zamindari oppression.\n2. The movement was most influential in the eastern Bengal districts of Faridpur and Bakarganj.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "<b>Dudu Miyan</b> built an organised network of khalifas to coordinate resistance to zamindars, and the movement's core strength lay in eastern Bengal districts such as Faridpur and Bakarganj."
+    },
+    {
+     "q": "Which one of the following statements best explains the historical significance of the Deccan Riots (1875)?",
+     "o": [
+      "They were the first tribal revolt to use guerrilla warfare tactics against the British",
+      "They exposed the vulnerability of peasants under the Ryotwari system to the exploitative alliance of revenue demand and moneylender credit, prompting state intervention through relief legislation",
+      "They resulted in the permanent abolition of moneylending in the Bombay Deccan",
+      "They were organised entirely under the leadership of the Indian National Congress"
+     ],
+     "a": 1,
+     "e": "The riots revealed how rigid revenue demands combined with moneylender exploitation to dispossess peasants, leading the colonial state to intervene through the <b>Deccan Agriculturists' Relief Act, 1879</b>."
+    }
+   ]
+  }
+ },
+ {
+  "id": "hist_revolutionary_movements_ina",
+  "title": "Revolutionary Movements & INA",
+  "desc": "Revolutionary nationalism including Anushilan Samiti, Ghadar Party, HSRA, Bhagat Singh, Chandrashekhar Azad and Surya Sen, and the Indian National Army under Subhas Chandra Bose, the Rani of Jhansi Regiment and the INA trials.",
+  "questions": {
+   "basic": [
+    {
+     "q": "The Anushilan Samiti, an early revolutionary secret society, was founded in 1902 in which city?",
+     "o": [
+      "Bombay",
+      "Calcutta",
+      "Delhi",
+      "Madras"
+     ],
+     "a": 1,
+     "e": "The <b>Anushilan Samiti</b> was founded in Calcutta in 1902, with Pramathanath Mitra as a key founder, to train youth in physical and revolutionary activities."
+    },
+    {
+     "q": "Who were the two revolutionaries who threw a bomb at a carriage in Muzaffarpur in 1908, intending to kill magistrate Kingsford, in the Alipore Bomb Case?",
+     "o": [
+      "Bhagat Singh and Rajguru",
+      "Khudiram Bose and Prafulla Chaki",
+      "Surya Sen and Kalpana Dutta",
+      "Ram Prasad Bismil and Ashfaqulla Khan"
+     ],
+     "a": 1,
+     "e": "<b>Khudiram Bose and Prafulla Chaki</b> threw the bomb, which mistakenly killed two British women; Khudiram was later hanged at age 18."
+    },
+    {
+     "q": "The Ghadar Party, aimed at overthrowing British rule through armed revolution, was founded in 1913 in?",
+     "o": [
+      "San Francisco, USA",
+      "London, England",
+      "Tokyo, Japan",
+      "Berlin, Germany"
+     ],
+     "a": 0,
+     "e": "The <b>Ghadar Party</b> was founded by Indian immigrants, mostly Punjabis, in San Francisco in 1913, with Sohan Singh Bhakna as its first president."
+    },
+    {
+     "q": "The Komagata Maru incident of 1914 involved a ship carrying prospective Indian immigrants that was denied entry into which country?",
+     "o": [
+      "United States",
+      "Canada",
+      "Australia",
+      "United Kingdom"
+     ],
+     "a": 1,
+     "e": "The <b>Komagata Maru</b>, chartered by Baba Gurdit Singh, was refused entry into Canada under the discriminatory 'continuous journey' regulation."
+    },
+    {
+     "q": "The Hindustan Socialist Republican Association (HSRA) is most closely associated with which pair of revolutionaries?",
+     "o": [
+      "Bhagat Singh and Chandrashekhar Azad",
+      "Surya Sen and Pritilata Waddedar",
+      "Lala Hardayal and Sohan Singh Bhakna",
+      "Rash Behari Bose and Mohan Singh"
+     ],
+     "a": 0,
+     "e": "The <b>HSRA</b>, reorganised in 1928, was led by Chandrashekhar Azad with Bhagat Singh as a key ideologue, aiming for a socialist republic."
+    },
+    {
+     "q": "The Kakori Conspiracy of 1925, involving the robbery of a government treasury train, is associated with which revolutionaries?",
+     "o": [
+      "Ram Prasad Bismil and Ashfaqulla Khan",
+      "Bhagat Singh and Sukhdev",
+      "Khudiram Bose and Prafulla Chaki",
+      "Surya Sen and Ganesh Ghosh"
+     ],
+     "a": 0,
+     "e": "<b>Ram Prasad Bismil and Ashfaqulla Khan</b> led the Kakori train action; both were later executed along with Roshan Singh."
+    },
+    {
+     "q": "Bhagat Singh, Rajguru and Sukhdev were executed for the murder of which British police officer, in what is known as the Lahore Conspiracy Case?",
+     "o": [
+      "J.P. Saunders",
+      "Michael O'Dwyer",
+      "Curzon Wyllie",
+      "Lord Hardinge"
+     ],
+     "a": 0,
+     "e": "They were convicted for killing Assistant Superintendent of Police <b>J.P. Saunders</b> in 1928, mistaken for the officer responsible for Lala Lajpat Rai's fatal lathi charge."
+    },
+    {
+     "q": "Bhagat Singh and Batukeshwar Dutt threw a bomb inside the Central Legislative Assembly in 1929 while raising which slogan?",
+     "o": [
+      "Jai Hind",
+      "Inquilab Zindabad",
+      "Vande Mataram",
+      "Delhi Chalo"
+     ],
+     "a": 1,
+     "e": "They shouted '<b>Inquilab Zindabad</b>' (Long Live the Revolution) and deliberately courted arrest to publicise their cause rather than escape."
+    },
+    {
+     "q": "The Chittagong Armoury Raid of 1930 was led by which revolutionary, popularly known as 'Masterda'?",
+     "o": [
+      "Surya Sen",
+      "Rash Behari Bose",
+      "Bhagwati Charan Vohra",
+      "Sachindra Nath Sanyal"
+     ],
+     "a": 0,
+     "e": "<b>Surya Sen</b> ('Masterda'), a schoolteacher, led the raid on Chittagong's police armoury and auxiliary force armoury in 1930."
+    },
+    {
+     "q": "Which woman revolutionary led the attack on the Pahartali European Club in Chittagong in 1932 and died by suicide to avoid capture?",
+     "o": [
+      "Kalpana Dutta",
+      "Pritilata Waddedar",
+      "Bina Das",
+      "Sarojini Naidu"
+     ],
+     "a": 1,
+     "e": "<b>Pritilata Waddedar</b> led the 1932 raid and consumed potassium cyanide rather than be captured by the police."
+    },
+    {
+     "q": "Subhas Chandra Bose founded the Forward Bloc in which year, after resigning as Congress President?",
+     "o": [
+      "1936",
+      "1939",
+      "1942",
+      "1945"
+     ],
+     "a": 1,
+     "e": "Bose formed the <b>Forward Bloc</b> in 1939 after resigning from the Congress presidency due to differences with Gandhi and the Congress leadership."
+    },
+    {
+     "q": "The all-women combat regiment of the Indian National Army was named after which historical figure?",
+     "o": [
+      "Rani Lakshmibai of Jhansi",
+      "Chand Bibi",
+      "Ahilyabai Holkar",
+      "Begum Hazrat Mahal"
+     ],
+     "a": 0,
+     "e": "The <b>Rani of Jhansi Regiment</b>, led by Captain Lakshmi Sahgal, was named after the queen who fought the British in 1857."
+    },
+    {
+     "q": "Consider the following statements about the Indian National Army (INA):\n1. It was first raised from Indian prisoners of war in Southeast Asia.\n2. Subhas Chandra Bose took over its leadership in 1943.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "The INA was initially organised from Indian POWs in 1942 and was reorganised and energised after <b>Subhas Chandra Bose</b> assumed leadership in 1943."
+    },
+    {
+     "q": "The Red Fort (INA) Trials of 1945-46 were held against officers of the INA on charges that primarily included?",
+     "o": [
+      "Waging war against the King-Emperor",
+      "Financial corruption",
+      "Espionage for Japan",
+      "Violation of the Salt Act"
+     ],
+     "a": 0,
+     "e": "INA officers were tried by court-martial at the Red Fort for '<b>waging war against the King-Emperor</b>', among other charges."
+    },
+    {
+     "q": "Which three INA officers were jointly tried in the first and most famous Red Fort Trial, symbolising Hindu-Muslim-Sikh unity?",
+     "o": [
+      "Shah Nawaz Khan, Prem Sahgal, Gurbaksh Singh Dhillon",
+      "Mohan Singh, Rash Behari Bose, J.K. Bhonsle",
+      "Lakshmi Sahgal, Kalpana Dutta, Bina Das",
+      "Surya Sen, Ganesh Ghosh, Ambika Chakrabarty"
+     ],
+     "a": 0,
+     "e": "<b>Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon</b> were tried together, representing Hindu, Sikh and Muslim communities, generating nationwide sympathy."
+    },
+    {
+     "q": "Which nationalist leader hoisted an early version of the Indian national flag at an international socialist conference in Stuttgart in 1907?",
+     "o": [
+      "Sarojini Naidu",
+      "Madam Bhikaji Cama",
+      "Annie Besant",
+      "Kamala Nehru"
+     ],
+     "a": 1,
+     "e": "<b>Madam Bhikaji Cama</b> unfurled an early tricolour flag at the International Socialist Congress in Stuttgart, Germany, in 1907."
+    },
+    {
+     "q": "Consider the following statements about the Naval Mutiny of 1946:\n1. It began aboard HMIS Talwar in Bombay.\n2. It spread to numerous ships and shore establishments across India.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "The <b>Royal Indian Navy Mutiny</b> began on HMIS Talwar in February 1946 and quickly spread to dozens of ships and shore establishments."
+    },
+    {
+     "q": "Madan Lal Dhingra, a member of India House in London, assassinated which British official in 1909?",
+     "o": [
+      "Curzon Wyllie",
+      "Michael O'Dwyer",
+      "Lord Hardinge",
+      "J.P. Saunders"
+     ],
+     "a": 0,
+     "e": "<b>Madan Lal Dhingra</b> shot Sir William Curzon Wyllie in London in 1909, an act inspired by revolutionary nationalist circles around Savarkar's India House."
+    }
+   ],
+   "intermediate": [
+    {
+     "q": "Consider the following statements about the Anushilan Samiti:\n1. It was founded by Pramathanath Mitra in Calcutta in 1902.\n2. It developed a Dhaka branch under Pulin Behari Das that later functioned somewhat independently.\n3. The Jugantar group emerged from a split within its ranks around 1906-07.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements are correct, describing the founding, organisational spread, and eventual split of the <b>Anushilan Samiti</b> tradition into distinct groups."
+    },
+    {
+     "q": "The Hindustan Republican Association (HRA), founded in 1924, was renamed the Hindustan Socialist Republican Association (HSRA) in 1928. This change primarily reflected?",
+     "o": [
+      "A shift towards non-violent methods",
+      "An explicit commitment to socialist ideology alongside revolutionary nationalism",
+      "A merger with the Ghadar Party",
+      "A decision to work within the Congress organisation"
+     ],
+     "a": 1,
+     "e": "The renaming in 1928, associated with Bhagat Singh and Chandrashekhar Azad, reflected the group's growing commitment to <b>socialism</b> as the goal of the future republic, influenced by the Russian Revolution."
+    },
+    {
+     "q": "Consider the following statements about the Kakori Conspiracy Case (1925):\n1. It involved the looting of a train carrying government treasury money near Lucknow.\n2. Ram Prasad Bismil, Ashfaqulla Khan and Roshan Singh were executed as a result of the case.\n3. Chandrashekhar Azad was arrested and convicted along with the others.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Chandrashekhar Azad evaded capture and remained underground, later helping to found the HSRA."
+    },
+    {
+     "q": "Consider the following statements about the Lahore Conspiracy Case (1928-31):\n1. Bhagat Singh, Rajguru and Sukhdev were sentenced to death and executed on 23 March 1931.\n2. Chandrashekhar Azad was also captured and tried in the same case.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 0,
+     "e": "Statement 2 is incorrect; Azad remained at large and died in an encounter with police at Alfred Park, Allahabad, in February 1931, before the executions."
+    },
+    {
+     "q": "With reference to the Central Legislative Assembly bomb incident (1929), consider the following statements:\n1. Bhagat Singh and Batukeshwar Dutt deliberately threw a low-intensity bomb to avoid casualties.\n2. They courted arrest instead of attempting to flee, intending to use the trial as a political platform.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; the action was meant 'to make the deaf hear', using minimal violence and a public trial to spread their revolutionary message."
+    },
+    {
+     "q": "Consider the following statements about the Chittagong Armoury Raid (1930):\n1. Surya Sen's group aimed to seize the police and auxiliary force armouries and disrupt communication links.\n2. The raiders proclaimed a provisional revolutionary government and hoisted the national flag.\n3. The raid succeeded in acquiring large stocks of ammunition, enabling prolonged resistance.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; the raiders failed to find ammunition stocks at the armouries, which limited their ability to sustain the fight."
+    },
+    {
+     "q": "Consider the following statements about the Ghadar Party:\n1. It was founded largely by Punjabi immigrants working in the USA and Canada.\n2. Sohan Singh Bhakna served as its first president and Lala Hardayal as its main organiser.\n3. It attempted a coordinated armed uprising in India in 1915, which was foiled due to a police informer.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements accurately describe the founding, leadership and the failed 1915 uprising attempt of the <b>Ghadar Party</b>, betrayed to authorities by an informer."
+    },
+    {
+     "q": "Consider the following statements about the Komagata Maru incident:\n1. The ship was chartered by Baba Gurdit Singh to challenge discriminatory immigration laws in Canada.\n2. On its forced return, a clash with police at Budge Budge near Calcutta resulted in several deaths.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; the Budge Budge riot of September 1914 followed the ship's forced return and became a rallying point for the Ghadar movement."
+    },
+    {
+     "q": "Rash Behari Bose is associated with which of the following events?\n1. The attempted assassination of Viceroy Lord Hardinge in Delhi in 1912.\n2. Founding the Indian Independence League in Southeast Asia.\n3. Handing over leadership of the INA to Subhas Chandra Bose in 1943.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements are correct, tracing Rash Behari Bose's career from the 1912 Delhi conspiracy to his later role in organising the INA in Southeast Asia."
+    },
+    {
+     "q": "Consider the following statements about Subhas Chandra Bose's escape from India in 1941:\n1. He escaped house arrest in Calcutta and travelled overland to Afghanistan and then to the Soviet Union.\n2. He eventually reached Germany, where he organised the Free India Legion and Azad Hind Radio.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements correctly describe Bose's dramatic escape route to Germany via Afghanistan and the USSR, and his subsequent activities there before moving to Southeast Asia."
+    },
+    {
+     "q": "The Provisional Government of Azad Hind, established in Singapore in October 1943, is associated with which of the following?\n1. It declared war on Britain and the United States.\n2. It was formally headed by Subhas Chandra Bose as head of state.\n3. Nominal control of the Andaman and Nicobar Islands was transferred to it by Japan.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements are correct; the Azad Hind government declared war on the Allies, was led by Bose, and was symbolically given charge of the Andaman and Nicobar Islands, renamed Shaheed and Swaraj Dweep."
+    },
+    {
+     "q": "Consider the following statements about the Rani of Jhansi Regiment:\n1. It was an all-women combat unit of the Indian National Army.\n2. It was commanded by Captain Lakshmi Sahgal.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; the regiment recruited women volunteers from Southeast Asia's Indian diaspora under Captain <b>Lakshmi Sahgal</b>."
+    },
+    {
+     "q": "Consider the following statements about the INA (Red Fort) Trials of 1945-46:\n1. The accused were defended by prominent lawyers including Bhulabhai Desai and Tej Bahadur Sapru.\n2. Jawaharlal Nehru also joined the defence team, donning legal robes after many years.\n3. The trials generated widespread public sympathy and protests across India.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements correctly capture the political and legal drama surrounding the <b>Red Fort Trials</b>, which galvanised nationwide nationalist sentiment."
+    },
+    {
+     "q": "The Battle of Imphal-Kohima (1944), in which INA and Japanese forces were decisively defeated, is regarded as a turning point because?",
+     "o": [
+      "It marked the end of Japanese and INA offensive operations into India",
+      "It led to the immediate surrender of the Indian National Army",
+      "It resulted in the capture of Subhas Chandra Bose",
+      "It ended the Second World War in the Pacific theatre"
+     ],
+     "a": 0,
+     "e": "The defeat at <b>Imphal-Kohima</b> halted the Japanese-INA advance into India and began the retreat that eventually led to the collapse of the campaign in Burma."
+    },
+    {
+     "q": "Consider the following statements regarding Subhas Chandra Bose's death:\n1. He is officially reported to have died in a plane crash at Taihoku (Taipei) on 18 August 1945.\n2. Multiple official inquiry commissions, including the Mukherjee Commission, have reached identical and undisputed conclusions about his death.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 0,
+     "e": "Statement 2 is incorrect; while the Shah Nawaz and Khosla inquiries accepted the air-crash theory, the Mukherjee Commission (2005) expressed doubts, leaving the issue historically contested."
+    },
+    {
+     "q": "Which of the following newspapers/journals is correctly matched with its associated revolutionary group?",
+     "o": [
+      "Yugantar Patrika - Jugantar group of Bengal",
+      "Kesari - Ghadar Party",
+      "Al-Hilal - HSRA",
+      "Comrade - Anushilan Samiti"
+     ],
+     "a": 0,
+     "e": "'<b>Yugantar Patrika</b>' served as the mouthpiece of the Jugantar revolutionary group in Bengal, propagating revolutionary ideas among youth."
+    },
+    {
+     "q": "Bina Das is remembered for which act of revolutionary defiance?",
+     "o": [
+      "Attempting to shoot the Governor of Bengal at a Calcutta University convocation in 1932",
+      "Leading the Chittagong Armoury Raid",
+      "Assassinating J.P. Saunders in Lahore",
+      "Organising the Ghadar Party in California"
+     ],
+     "a": 0,
+     "e": "<b>Bina Das</b> fired shots at the Governor of Bengal, Stanley Jackson, during a convocation ceremony in 1932, though she failed to kill him."
+    },
+    {
+     "q": "Consider the following statements about the Kamagata Maru episode's connection to Indian revolutionary politics:\n1. It exposed racial discrimination faced by Indian immigrants in the British Empire's dominions.\n2. It directly radicalised many Punjabi immigrants who subsequently joined the Ghadar Party's activities.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; the humiliation of the Komagata Maru passengers became a potent symbol used by the Ghadar Party to recruit and radicalise Indian immigrants abroad."
+    }
+   ],
+   "advanced": [
+    {
+     "q": "Consider the following statements about the Alipore Bomb Case (1908):\n1. Khudiram Bose and Prafulla Chaki intended to kill magistrate Kingsford but mistakenly killed two British women.\n2. Aurobindo Ghosh was among the accused and was later acquitted, defended by Chittaranjan Das.\n3. The case marked a definitive turning point after which Aurobindo Ghosh withdrew from revolutionary politics towards spiritual pursuits.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements are historically accurate: the botched attack, Aurobindo's acquittal with C.R. Das as his defence counsel, and his subsequent turn to spirituality in Pondicherry."
+    },
+    {
+     "q": "Consider the following statements comparing the Kakori Conspiracy (1925) and the Chittagong Armoury Raid (1930):\n1. The Kakori action primarily targeted government treasury funds to finance revolutionary activity.\n2. The Chittagong raid primarily targeted arms and ammunition stores to arm a wider insurrection.\n3. Both actions were carried out by the same organisation under an identical leadership structure.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Kakori was carried out by the Hindustan Republican Association (Bismil, Ashfaqulla Khan) in United Provinces, while Chittagong was led by Surya Sen's separate Bengal-based revolutionary group."
+    },
+    {
+     "q": "With reference to the first Lahore Conspiracy Case (1915), consider the following statements:\n1. It arose from the failed Ghadar Party plan for a coordinated armed uprising among Indian Army units in Punjab.\n2. The conspiracy was uncovered partly due to information provided by an informer within the Ghadar network.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; the planned 1915 mutiny/uprising, timed to coincide with the return of Ghadar activists from abroad, was betrayed to British authorities, leading to mass arrests and trials."
+    },
+    {
+     "q": "Chandrashekhar Azad's death in February 1931 at Alfred Park, Allahabad, is best described by which of the following statements?\n1. He died fighting police in an encounter rather than surrendering, consistent with his vow to remain 'free' till death.\n2. The park was later renamed in his honour.\n3. His death occurred after the executions of Bhagat Singh, Rajguru and Sukhdev.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 1,
+     "e": "Statements 1 and 2 are correct, but statement 3 is incorrect — Azad's death (27 February 1931) preceded the execution of Bhagat Singh, Rajguru and Sukhdev (23 March 1931)."
+    },
+    {
+     "q": "Consider the following statements about the composition and symbolism of the Indian National Army's divisions:\n1. Brigades of the INA were named after Indian nationalist leaders such as Gandhi, Nehru and Azad.\n2. This naming reflected an attempt to project the INA as representing the wider national movement rather than a narrow military faction.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; naming brigades after prominent Congress leaders (Gandhi, Nehru, Azad, Subhas) was a deliberate symbolic strategy to link the INA with the broader freedom struggle."
+    },
+    {
+     "q": "Consider the following statements about international recognition of the Provisional Government of Azad Hind (1943):\n1. It was recognised by Japan and Germany.\n2. It was recognised by several Axis-aligned or Japanese-backed administrations in Asia, such as those in Burma and the Philippines.\n3. It received formal recognition from the Allied powers, including the United States and the United Kingdom.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; the Allied powers, being at war with Bose's government, never recognised it. Recognition came only from the Axis powers and their client states."
+    },
+    {
+     "q": "Which of the following statements correctly distinguishes the Anushilan Samiti from the Ghadar Party?\n1. The Anushilan Samiti was primarily active within Bengal using secret-society methods, while the Ghadar Party organised the Indian diaspora abroad for an armed uprising in India.\n2. The Ghadar Party predates the Anushilan Samiti by over a decade.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 0,
+     "e": "Statement 2 is incorrect; the Anushilan Samiti (1902) was founded well over a decade before the Ghadar Party (1913), not the other way around."
+    },
+    {
+     "q": "Consider the following statements about women revolutionaries in the anti-colonial armed struggle:\n1. Shanti Ghosh and Suniti Choudhury, associated with the Jugantar tradition, killed the district magistrate of Comilla in 1931.\n2. Kalpana Dutta was associated with Surya Sen's Chittagong group and was later arrested and sentenced.\n3. Captain Lakshmi Sahgal led the Rani of Jhansi Regiment of the INA.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements accurately describe the contributions of women revolutionaries across different strands of the freedom movement, from Bengal's secret societies to the INA."
+    },
+    {
+     "q": "With reference to the political fallout of the INA trials (1945-46), which of the following statements is/are correct?\n1. Despite convictions, the death/transportation sentences of the accused officers were remitted due to overwhelming public sympathy.\n2. The trials, together with the RIN Mutiny of 1946, contributed to British reassessment of the reliability of Indian armed forces.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; public agitation forced remission of sentences, and combined with the Naval Mutiny, these events shook British confidence in continued control over India's armed forces."
+    },
+    {
+     "q": "Consider the following statements about the formation of the Indian National Army:\n1. It was first organised in 1942 from Indian prisoners of war under Mohan Singh, following decisions taken at Tokyo and Bangkok conferences of the Indian Independence League.\n2. Rash Behari Bose played an initiating role before handing over leadership to Subhas Chandra Bose in 1943.\n3. The INA was dissolved by Mohan Singh himself in 1942 and never reconstituted thereafter.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; although Mohan Singh's initial INA faced a crisis and was temporarily dissolved, it was reorganised and substantially expanded after Subhas Chandra Bose assumed leadership in 1943."
+    },
+    {
+     "q": "Which one of the following correctly arranges these events in chronological order?\n1. Formation of the Ghadar Party\n2. Formation of the Hindustan Socialist Republican Association\n3. Chittagong Armoury Raid\n4. Formation of the Provisional Government of Azad Hind",
+     "o": [
+      "1-2-3-4",
+      "2-1-3-4",
+      "1-3-2-4",
+      "4-3-2-1"
+     ],
+     "a": 0,
+     "e": "The correct chronological order is Ghadar Party (1913) - HSRA (1928) - Chittagong Armoury Raid (1930) - Provisional Government of Azad Hind (1943)."
+    },
+    {
+     "q": "The Lahore Conspiracy Case of 1928 arose from the killing of J.P. Saunders. Which of the following statements correctly explains the background to this killing?\n1. The revolutionaries had originally intended to target Superintendent of Police James Scott, who had ordered the lathi charge that fatally injured Lala Lajpat Rai.\n2. Saunders was killed as he was mistakenly identified as Scott.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; Bhagat Singh, Rajguru and Azad intended to avenge Lajpat Rai's death by killing Scott but mistakenly shot Saunders instead."
+    },
+    {
+     "q": "Consider the following statements about the Komagata Maru incident and its aftermath:\n1. The ship's passengers were denied entry into Canada primarily due to a law requiring a 'continuous journey' from the country of origin.\n2. On return to India, a violent confrontation occurred at Budge Budge near Calcutta between police and passengers.\n3. The incident had no impact on the subsequent Ghadar Party mobilisation.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; the incident became a major grievance exploited by the Ghadar Party to mobilise Indian immigrants against British rule."
+    },
+    {
+     "q": "With reference to the ideological evolution of the Hindustan Republican Association into the Hindustan Socialist Republican Association, consider the following statements:\n1. The change was formalised at a meeting in Delhi (Feroze Shah Kotla) in 1928.\n2. It reflected the influence of Marxist and socialist ideas on younger revolutionaries like Bhagat Singh.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; the 1928 Delhi meeting reorganised the HRA into the HSRA, explicitly embracing socialism as its goal."
+    },
+    {
+     "q": "Which of the following statements about Netaji Subhas Chandra Bose's political trajectory is/are correct?\n1. He served twice as President of the Indian National Congress.\n2. He resigned from the Congress presidency in 1939 after differences with Gandhi over the selection process and future strategy.\n3. He subsequently founded the Forward Bloc to pursue a more radical anti-imperialist line.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements are correct: Bose was Congress President in 1938 and 1939, resigned in 1939 amid conflict with the Gandhian leadership, and founded the <b>Forward Bloc</b>."
+    },
+    {
+     "q": "Consider the following statements about revolutionary activity outside British India:\n1. The Berlin Committee (Indian Independence Committee), formed during World War I, sought German assistance for an armed uprising in India.\n2. The Ghadar Party coordinated with the Berlin Committee in attempting to smuggle arms into India during World War I.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; the Berlin Committee, involving figures like Virendranath Chattopadhyaya, worked with the Ghadar Party in the failed Indo-German Conspiracy during World War I."
+    },
+    {
+     "q": "Which one of the following statements best captures a key difference between the Non-Cooperation/Civil Disobedience strand of the freedom struggle and the revolutionary-terrorist strand represented by groups like the HSRA and Anushilan Samiti?",
+     "o": [
+      "The revolutionary strand rejected mass mobilisation entirely and relied on small, secretive cells and individual acts of violence to inspire wider awakening, unlike the mass civil disobedience method",
+      "The revolutionary strand always worked in close coordination with and under the direct control of the Indian National Congress",
+      "The revolutionary strand had no ideological differences with Gandhian methods",
+      "The revolutionary strand operated only after 1947"
+     ],
+     "a": 0,
+     "e": "Revolutionary groups typically operated through small, disciplined secret cells carrying out targeted violent acts, contrasting with the Congress-led strategy of open, mass-based non-violent civil disobedience."
+    },
+    {
+     "q": "Consider the following statements about the Provisional Government of Azad Hind's administrative symbolism:\n1. The Andaman and Nicobar Islands, placed under its nominal charge, were renamed Shaheed (martyr) and Swaraj (self-rule) Dweep respectively.\n2. Lieutenant Colonel A.D. Loganathan was appointed as the Governor of these islands under the Azad Hind administration.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; the symbolic transfer of the islands and Loganathan's appointment as Governor were meant to demonstrate the Azad Hind government's claim to sovereign Indian territory, even though real control remained with Japan."
+    }
+   ]
+  }
+ },
+ {
+  "id": "hist_post_independence_consolidation",
+  "title": "Post-Independence Consolidation",
+  "desc": "Integration of princely states under Sardar Patel and V.P. Menon (Hyderabad, Junagadh, Kashmir, Goa), linguistic reorganisation of states, the States Reorganisation Act 1956, and early nation-building.",
+  "questions": {
+   "basic": [
+    {
+     "q": "Who was primarily responsible, as India's Home Minister and Deputy Prime Minister, for the integration of over 560 princely states into the Indian Union?",
+     "o": [
+      "Jawaharlal Nehru",
+      "Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "C. Rajagopalachari"
+     ],
+     "a": 1,
+     "e": "<b>Sardar Vallabhbhai Patel</b>, as Home Minister, along with V.P. Menon, orchestrated the accession and integration of princely states after independence."
+    },
+    {
+     "q": "Who served as the Secretary of the States Ministry and played a key technical role alongside Patel in integrating the princely states?",
+     "o": [
+      "V.P. Menon",
+      "C. Rajagopalachari",
+      "K.M. Munshi",
+      "T.T. Krishnamachari"
+     ],
+     "a": 0,
+     "e": "<b>V.P. Menon</b>, as Secretary of the States Ministry, drafted the Instrument of Accession and negotiated with princely rulers."
+    },
+    {
+     "q": "The legal document through which princely states acceded to the Indian Union was known as the?",
+     "o": [
+      "Instrument of Accession",
+      "Government of India Act",
+      "Standstill Agreement",
+      "Cabinet Mission Plan"
+     ],
+     "a": 0,
+     "e": "Princely rulers signed the <b>Instrument of Accession</b>, ceding defence, external affairs and communications to the Indian Union."
+    },
+    {
+     "q": "The military action by which the Indian Army took control of Hyderabad State in 1948 is known as?",
+     "o": [
+      "Operation Polo",
+      "Operation Vijay",
+      "Operation Cactus",
+      "Operation Meghdoot"
+     ],
+     "a": 0,
+     "e": "<b>Operation Polo</b> (September 1948) was the code name for the Indian Army's action to annex Hyderabad State, ruled by the Nizam."
+    },
+    {
+     "q": "Who was the ruler of Hyderabad at the time of its integration into India in 1948?",
+     "o": [
+      "Nizam Osman Ali Khan",
+      "Nawab Mahabat Khan",
+      "Maharaja Hari Singh",
+      "Yeshwant Rao Holkar"
+     ],
+     "a": 0,
+     "e": "<b>Nizam Osman Ali Khan</b> initially resisted accession, relying on the Razakar militia, before Operation Polo brought Hyderabad into the Indian Union."
+    },
+    {
+     "q": "The ruler of Junagadh who initially acceded to Pakistan before a plebiscite reversed the decision in favour of India was?",
+     "o": [
+      "Nawab Mahabat Khan",
+      "Nizam Osman Ali Khan",
+      "Maharaja Hari Singh",
+      "Maharaja Yadavindra Singh"
+     ],
+     "a": 0,
+     "e": "<b>Nawab Mahabat Khan</b> of Junagadh acceded to Pakistan, but a plebiscite held in 1948 showed overwhelming support for joining India."
+    },
+    {
+     "q": "Maharaja Hari Singh, ruler of Jammu and Kashmir, signed the Instrument of Accession to India in which year, following a tribal invasion?",
+     "o": [
+      "1947",
+      "1948",
+      "1949",
+      "1950"
+     ],
+     "a": 0,
+     "e": "Maharaja <b>Hari Singh</b> signed the Instrument of Accession on 26 October 1947 after tribal raiders backed by Pakistan invaded Kashmir."
+    },
+    {
+     "q": "Which political leader became the head of the emergency administration in Jammu and Kashmir soon after accession?",
+     "o": [
+      "Sheikh Abdullah",
+      "G.M. Sadiq",
+      "Bakshi Ghulam Mohammad",
+      "Farooq Abdullah"
+     ],
+     "a": 0,
+     "e": "<b>Sheikh Abdullah</b>, leader of the National Conference, headed the administration in Jammu and Kashmir after accession to India."
+    },
+    {
+     "q": "Goa was liberated from Portuguese colonial rule and integrated into India in 1961 through which military operation?",
+     "o": [
+      "Operation Polo",
+      "Operation Vijay",
+      "Operation Cactus",
+      "Operation Trident"
+     ],
+     "a": 1,
+     "e": "<b>Operation Vijay</b> (December 1961) ended over four centuries of Portuguese rule and brought Goa, Daman and Diu into the Indian Union."
+    },
+    {
+     "q": "Which former French colonial settlement was merged with India in 1954 through a treaty of cession?",
+     "o": [
+      "Goa",
+      "Pondicherry",
+      "Daman",
+      "Diu"
+     ],
+     "a": 1,
+     "e": "<b>Pondicherry</b>, along with Karaikal, Mahe and Yanam, was transferred to India by France in 1954 and formally merged via a treaty in 1962."
+    },
+    {
+     "q": "The States Reorganisation Act, which reorganised Indian states largely on a linguistic basis, was passed in which year?",
+     "o": [
+      "1950",
+      "1953",
+      "1956",
+      "1960"
+     ],
+     "a": 2,
+     "e": "The <b>States Reorganisation Act, 1956</b> redrew state boundaries primarily along linguistic lines, based on the recommendations of the States Reorganisation Commission."
+    },
+    {
+     "q": "Which commission, headed by Fazl Ali, recommended the linguistic reorganisation of Indian states that led to the 1956 Act?",
+     "o": [
+      "Dhar Commission",
+      "JVP Committee",
+      "States Reorganisation Commission",
+      "Sarkaria Commission"
+     ],
+     "a": 2,
+     "e": "The <b>States Reorganisation Commission</b> (1953), chaired by Fazl Ali with H.N. Kunzru and K.M. Panikkar as members, recommended reorganisation along linguistic lines."
+    },
+    {
+     "q": "Andhra State, the first state formed purely on a linguistic basis in 1953, followed the fast-unto-death and subsequent death of which leader?",
+     "o": [
+      "Potti Sriramulu",
+      "T. Prakasam",
+      "N.G. Ranga",
+      "K. Kamaraj"
+     ],
+     "a": 0,
+     "e": "<b>Potti Sriramulu</b>'s death after a prolonged fast for a separate Telugu-speaking state triggered agitation leading to the creation of Andhra State in 1953."
+    },
+    {
+     "q": "The Indian Constitution was adopted by the Constituent Assembly on 26 November 1949 and came into force on which date?",
+     "o": [
+      "15 August 1947",
+      "26 January 1950",
+      "26 November 1949",
+      "2 October 1950"
+     ],
+     "a": 1,
+     "e": "The Constitution came into effect on <b>26 January 1950</b>, chosen to commemorate the 1930 Purna Swaraj declaration."
+    },
+    {
+     "q": "India's first general elections under its new Constitution were held during which period?",
+     "o": [
+      "1947-48",
+      "1951-52",
+      "1956-57",
+      "1962"
+     ],
+     "a": 1,
+     "e": "India's <b>first general elections</b> were conducted over several months in 1951-52, using universal adult franchise for the first time."
+    },
+    {
+     "q": "The Planning Commission of India, tasked with formulating five-year plans, was set up in which year?",
+     "o": [
+      "1947",
+      "1950",
+      "1952",
+      "1956"
+     ],
+     "a": 1,
+     "e": "The <b>Planning Commission</b> was established in 1950, and the First Five Year Plan was launched in 1951."
+    },
+    {
+     "q": "Sikkim became a full-fledged state of the Indian Union through a constitutional amendment in which year?",
+     "o": [
+      "1961",
+      "1971",
+      "1975",
+      "1980"
+     ],
+     "a": 2,
+     "e": "Sikkim was merged into India and became its 22nd state in <b>1975</b> through the 36th Constitutional Amendment, following a referendum."
+    },
+    {
+     "q": "The former Bombay State was bifurcated in 1960 into which two linguistic states?",
+     "o": [
+      "Maharashtra and Gujarat",
+      "Punjab and Haryana",
+      "Andhra Pradesh and Telangana",
+      "Madras and Kerala"
+     ],
+     "a": 0,
+     "e": "Bombay State was divided in 1960 into <b>Maharashtra</b> (Marathi-speaking) and <b>Gujarat</b> (Gujarati-speaking) following prolonged agitation."
+    }
+   ],
+   "intermediate": [
+    {
+     "q": "Consider the following statements regarding the integration of princely states:\n1. Most princely states signed a 'Standstill Agreement' with India before formally acceding.\n2. The Instrument of Accession initially transferred only defence, external affairs and communications to the Indian Union.\n3. All princely states had acceded to India by 15 August 1947.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; several states, notably Junagadh, Hyderabad and Jammu & Kashmir, acceded only after 15 August 1947, some after military or political intervention."
+    },
+    {
+     "q": "Consider the following statements about the accession of Junagadh:\n1. Its Muslim ruler acceded to Pakistan despite a Hindu-majority population.\n2. India responded with a plebiscite in 1948 that overwhelmingly favoured accession to India.\n3. Pakistan accepted the plebiscite result without protest.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Pakistan did not accept the outcome and the Junagadh issue, like Kashmir, remained a subject of dispute between the two countries."
+    },
+    {
+     "q": "With reference to Operation Polo (1948), consider the following statements:\n1. It was launched due to the Nizam's refusal to accede and the activities of the Razakar militia.\n2. It resulted in the accession of Hyderabad to the Indian Union within a few days.\n3. It is also referred to as the 'Police Action' in Hyderabad.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements accurately describe the background, swift outcome, and official terminology ('Police Action') associated with the integration of Hyderabad."
+    },
+    {
+     "q": "Consider the following statements about the accession of Jammu and Kashmir:\n1. Maharaja Hari Singh initially sought to remain independent before signing the Instrument of Accession.\n2. The accession was prompted by a tribal invasion backed by Pakistan.\n3. India accepted the accession without any condition regarding the wishes of the people.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; India accepted the accession with the stated intention of ascertaining the wishes of the people through a plebiscite once conditions permitted, though this was never held."
+    },
+    {
+     "q": "Consider the following statements about the JVP Committee (1948-49):\n1. It comprised Jawaharlal Nehru, Vallabhbhai Patel and Pattabhi Sitaramayya.\n2. It initially recommended against immediate linguistic reorganisation of states, citing concerns of national unity.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; the <b>JVP Committee</b>, though acknowledging linguistic sentiment, advised caution and postponement of reorganisation in the interest of national unity and security."
+    },
+    {
+     "q": "Consider the following statements about the Dhar Commission (1948):\n1. It was appointed to examine the reorganisation of states.\n2. It recommended reorganisation on the basis of administrative convenience rather than language.\n3. Its recommendations were readily accepted, leading to immediate state reorganisation in 1949.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; the Dhar Commission's recommendation against linguistic reorganisation provoked strong protests, and no immediate reorganisation followed until the SRC's 1956 report."
+    },
+    {
+     "q": "The creation of Andhra State in 1953 is significant in the context of state reorganisation because it?",
+     "o": [
+      "Was the first state carved out purely on linguistic lines after independence",
+      "Was formed through a plebiscite among princely rulers",
+      "Was created by merging two former princely states",
+      "Marked the first use of Article 3 of the Constitution"
+     ],
+     "a": 0,
+     "e": "Andhra State (1953), separated from Madras State following Potti Sriramulu's fast, became the <b>first linguistic state</b>, setting a precedent for the broader States Reorganisation Act of 1956."
+    },
+    {
+     "q": "Consider the following statements about the States Reorganisation Commission (1953):\n1. It was headed by Fazl Ali, with H.N. Kunzru and K.M. Panikkar as members.\n2. It recommended that language be the primary, though not sole, basis for redrawing state boundaries.\n3. Its recommendations were implemented without any modification by Parliament.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Parliament made several modifications to the Commission's recommendations before enacting the States Reorganisation Act, 1956."
+    },
+    {
+     "q": "Consider the following statements about the merger of French and Portuguese territories in India:\n1. Pondicherry and other French settlements were transferred to India through negotiation in 1954, without military action.\n2. Goa was integrated through military action, as Portugal refused to negotiate a transfer.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; French territories were transferred peacefully by 1954 (formalised by treaty in 1962), while Portugal's refusal to cede Goa led to Operation Vijay in 1961."
+    },
+    {
+     "q": "Consider the following statements about linguistic reorganisation after 1956:\n1. Bombay State was bifurcated into Maharashtra and Gujarat in 1960.\n2. Punjab was reorganised in 1966 into Punjab, Haryana and the Union Territory of Chandigarh, with hill areas going to Himachal Pradesh.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; linguistic and sub-regional reorganisation continued well beyond 1956, including the Bombay bifurcation (1960) and Punjab reorganisation (1966)."
+    },
+    {
+     "q": "The 'Standstill Agreement' offered by the Indian government to princely states before formal accession was primarily meant to?",
+     "o": [
+      "Continue existing administrative arrangements temporarily pending final accession decisions",
+      "Permanently guarantee the sovereignty of princely states",
+      "Transfer full defence powers to the states",
+      "Abolish privy purses immediately"
+     ],
+     "a": 0,
+     "e": "The <b>Standstill Agreement</b> maintained existing arrangements (posts, customs, etc.) between the state and the Union/Dominion during the transitional period before accession."
+    },
+    {
+     "q": "Consider the following statements about Sikkim's merger with India:\n1. It was a protectorate of India after 1950 under a treaty, with the Chogyal retaining internal autonomy.\n2. A referendum in 1975 favoured the abolition of the monarchy and full integration with India.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; Sikkim was an Indian protectorate from 1950, and the 1975 referendum led to the abolition of the Chogyal's rule and Sikkim's accession as a full state via the 36th Amendment."
+    },
+    {
+     "q": "Consider the following statements about privy purses granted to former rulers after integration:\n1. They were guaranteed to princely rulers as compensation for surrendering ruling powers.\n2. They were abolished through a constitutional amendment in 1971.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; privy purses were guaranteed at integration but were abolished by the 26th Constitutional Amendment in 1971 under Indira Gandhi's government."
+    },
+    {
+     "q": "The early nation-building strategy of the Nehru government after independence emphasised which of the following?\n1. Centralised economic planning through the Planning Commission.\n2. A foreign policy of non-alignment between the two Cold War blocs.\n3. Immediate large-scale privatisation of major industries.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Nehru's government pursued a mixed economy with an emphasis on public-sector-led industrialisation, not privatisation."
+    },
+    {
+     "q": "Which of the following statements about the Community Development Programme (1952) is/are correct?\n1. It aimed at all-round rural development through community participation.\n2. It was launched before the formulation of the First Five Year Plan.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 0,
+     "e": "Statement 2 is incorrect; the <b>Community Development Programme</b> was launched in 1952, after the First Five Year Plan (1951-56) had already been formulated and was underway."
+    },
+    {
+     "q": "The doctrine of 'Panchsheel', enunciated in the India-China agreement of 1954, is best described as?",
+     "o": [
+      "A set of five principles of peaceful coexistence between states",
+      "A plan for linguistic reorganisation of border states",
+      "A five-year economic cooperation treaty",
+      "A military alliance among Non-Aligned nations"
+     ],
+     "a": 0,
+     "e": "<b>Panchsheel</b> comprised five principles of peaceful coexistence, including mutual respect for territorial integrity and non-interference, agreed upon by India and China in 1954."
+    },
+    {
+     "q": "Consider the following statements about the merger of Hyderabad:\n1. The Razakars were an irregular volunteer militia supporting the Nizam's resistance to accession.\n2. Following Operation Polo, Hyderabad State was later trifurcated among Andhra Pradesh, Karnataka and Maharashtra during the 1956 reorganisation.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; the Razakars resisted integration, and after accession, Hyderabad State's Telugu, Kannada and Marathi-speaking regions were later distributed among neighbouring linguistic states in 1956."
+    },
+    {
+     "q": "Consider the following statements about the formation of Kerala and Madras (Tamil Nadu) states under the 1956 reorganisation:\n1. Kerala was formed by merging Travancore-Cochin with the Malabar district of Madras State.\n2. Madras State retained most Tamil-speaking areas and was later renamed Tamil Nadu in 1969.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; Kerala was formed in 1956 by combining Travancore-Cochin with Malabar, while Madras State, retaining Tamil-majority areas, was renamed <b>Tamil Nadu</b> in 1969."
+    }
+   ],
+   "advanced": [
+    {
+     "q": "Consider the following statements comparing the integration processes of Junagadh, Hyderabad and Kashmir:\n1. In all three cases, the ruler's religion differed from the religion of the majority of the state's population.\n2. In all three cases, some form of direct military action by India was involved in finalising the state's status.\n3. In all three cases, a plebiscite was actually conducted to ascertain the people's wishes.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; while a plebiscite was held in Junagadh, none was ultimately conducted in Kashmir despite the initial commitment, and Hyderabad's accession followed military action rather than a plebiscite."
+    },
+    {
+     "q": "With reference to the JVP Committee and the Dhar Commission, consider the following statements:\n1. Both bodies, reporting in 1948-49, were broadly cautious about immediate linguistic reorganisation of states.\n2. Public agitation, especially in the Telugu-speaking areas, subsequently forced the government to reconsider its cautious stance.\n3. The States Reorganisation Commission (1953) was set up partly as a consequence of this pressure.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements are correct, tracing the trajectory from initial official caution to the eventual establishment of the SRC under mounting linguistic-sentiment-driven agitation."
+    },
+    {
+     "q": "Which one of the following statements correctly explains why the accession of Jammu and Kashmir differed procedurally from most other princely states?",
+     "o": [
+      "It was the only state where the ruler acceded after signing a Standstill Agreement with Pakistan and facing an armed tribal invasion before finally acceding to India",
+      "It was the only state that never signed an Instrument of Accession",
+      "It acceded to India before independence in 1947",
+      "It was integrated only after a full plebiscite favouring India was conducted"
+     ],
+     "a": 0,
+     "e": "Kashmir's Maharaja had initially signed a Standstill Agreement with Pakistan (not India), and it was only after a tribal invasion in October 1947 that he sought Indian military help and signed the Instrument of Accession."
+    },
+    {
+     "q": "Consider the following statements regarding the philosophy underlying India's approach to princely state integration:\n1. Patel and V.P. Menon generally preferred negotiation and political pressure over the use of force wherever possible.\n2. Military action was used only in exceptional cases where rulers actively resisted accession, such as Hyderabad.\n3. The government's approach in all cases, without exception, avoided any reference to the wishes of the state's population.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; in cases like Junagadh, the wishes of the population were explicitly tested through a plebiscite, showing this was not a universal exception."
+    },
+    {
+     "q": "Which one of the following best captures the difference between the 'integration' and 'merger' processes applied to princely states after 1947?",
+     "o": [
+      "Larger or strategically significant states were often allowed to integrate as separate constituent units (e.g., Mysore, Travancore-Cochin), while smaller and contiguous states were merged directly into neighbouring provinces",
+      "All princely states without exception were merged directly into neighbouring British Indian provinces",
+      "Only states that acceded after 1950 underwent merger, while earlier ones were integrated",
+      "Merger applied only to coastal states, while integration applied only to landlocked states"
+     ],
+     "a": 0,
+     "e": "India followed differentiated approaches: many small/contiguous states were merged into adjoining provinces, while larger states were retained as separate units (sometimes combined into unions like Rajasthan, Saurashtra, or Travancore-Cochin) before later reorganisation in 1956."
+    },
+    {
+     "q": "Consider the following statements about the States Reorganisation Act, 1956:\n1. It abolished the earlier fourfold classification of states (Part A, B, C and D) under the Constitution.\n2. It led to the creation of large linguistic states while leaving several boundary and city-sharing disputes (e.g., over Bombay and Chandigarh) unresolved at the time.\n3. It was the final and permanent settlement of India's internal state boundaries, with no further changes made afterward.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; further reorganisations occurred later, such as the 1960 Bombay bifurcation, 1966 Punjab reorganisation, and the creation of new states like Telangana in 2014."
+    },
+    {
+     "q": "With reference to the integration of Goa, consider the following statements:\n1. India initially pursued a policy of negotiation and moral pressure on Portugal for over a decade before resorting to military action.\n2. Operation Vijay (1961) was preceded by satyagraha movements organised by Goan nationalists and Indian volunteers seeking liberation.\n3. Portugal formally recognised Indian sovereignty over Goa immediately after the 1961 operation.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Portugal did not formally recognise India's sovereignty over Goa until 1974, after the Portuguese revolution (Carnation Revolution) changed its colonial policy."
+    },
+    {
+     "q": "Consider the following statements about the concept of 'linguistic reorganisation' as applied in India after independence:\n1. It was seen by some leaders as a potential threat to national unity in the immediate aftermath of Partition.\n2. It was eventually accepted as compatible with national unity, provided boundaries were drawn through a deliberative commission process rather than purely through agitation.\n3. No further linguistic or sub-regional demands for new states arose after the 1956 Act.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; demands for new states based on linguistic, regional or ethnic identity continued well beyond 1956, leading to states like Haryana (1966), Chhattisgarh, Jharkhand, Uttarakhand (2000), and Telangana (2014)."
+    },
+    {
+     "q": "Which of the following statements correctly describes the constitutional mechanism used for altering state boundaries in India, as illustrated by the events of 1956 and later?",
+     "o": [
+      "Article 3 of the Constitution empowers Parliament to form new states, alter boundaries or names of existing states by a simple majority law, without requiring a constitutional amendment",
+      "Altering state boundaries always requires a constitutional amendment under Article 368 with ratification by half the state legislatures",
+      "State boundaries can only be altered through a national referendum",
+      "State boundaries, once fixed by the States Reorganisation Act, 1956, are permanently frozen"
+     ],
+     "a": 0,
+     "e": "<b>Article 3</b> allows Parliament, by ordinary legislation, to reorganise states after obtaining the President's recommendation and referring the bill to the affected state legislature(s) for their views (not consent)."
+    },
+    {
+     "q": "Consider the following statements about the early economic strategy of nation-building under Nehru:\n1. The Industrial Policy Resolution of 1948 envisaged a mixed economy with a significant role for the state in key sectors.\n2. The First Five Year Plan (1951-56) focused heavily on agriculture and irrigation, including major river valley projects.\n3. The Second Five Year Plan shifted emphasis towards heavy and basic industries, associated with the Mahalanobis model.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements correctly trace the evolution of India's early planning strategy, from the 1948 Industrial Policy Resolution to the agriculture-focused First Plan and the industry-focused Second Plan under P.C. Mahalanobis's framework."
+    },
+    {
+     "q": "Which one of the following statements correctly explains the significance of Potti Sriramulu's fast-unto-death in 1952?",
+     "o": [
+      "It directly led to the immediate implementation of the States Reorganisation Act, 1956",
+      "It catalysed the formation of a separate Telugu-speaking Andhra State in 1953, well before the broader States Reorganisation Act was passed",
+      "It resulted in the postponement of any linguistic state formation until after 1956",
+      "It was primarily a protest against the abolition of the zamindari system"
+     ],
+     "a": 1,
+     "e": "Potti Sriramulu's death in December 1952 led to immediate government action creating <b>Andhra State</b> in 1953, ahead of the comprehensive States Reorganisation Act of 1956."
+    },
+    {
+     "q": "Consider the following statements regarding the reorganisation of former Hyderabad State after 1956:\n1. Its Telugu-speaking Telangana region was merged with Andhra State to form Andhra Pradesh.\n2. Its Kannada-speaking region was merged with Mysore State (later renamed Karnataka).\n3. Its Marathi-speaking Marathwada region was merged with Bombay State.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements correctly describe how the erstwhile Hyderabad State's linguistically diverse regions were distributed among neighbouring states under the 1956 reorganisation."
+    },
+    {
+     "q": "With reference to the accession and later special status of Jammu and Kashmir, consider the following statements:\n1. Article 370 of the Constitution, incorporated in 1949-50, granted a special autonomous status to the state.\n2. It was originally intended by its drafters, including N. Gopalaswami Ayyangar, as a temporary and transitional provision.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; <b>Article 370</b>, placed under 'Temporary, Transitional and Special Provisions', was intended as an interim arrangement pending further developments regarding the state's status."
+    },
+    {
+     "q": "Which of the following statements best explains why Sardar Patel and V.P. Menon are regarded as central architects of Indian political unification, distinct from the drafting of the Constitution itself?",
+     "o": [
+      "Their primary contribution lay in the political and administrative integration of princely states into the Union, a process largely completed before the Constitution came into force in 1950",
+      "They were the principal drafters of the Indian Constitution's Fundamental Rights chapter",
+      "They were responsible solely for India's foreign policy of non-alignment",
+      "They led the linguistic reorganisation process that culminated in the 1956 Act"
+     ],
+     "a": 0,
+     "e": "Patel and Menon's historic role was in negotiating and, where necessary, compelling the accession and administrative integration of over 560 princely states, a process substantially completed by 1949, distinct from constitution-making or later linguistic reorganisation."
+    },
+    {
+     "q": "Consider the following statements about the merger of Sikkim compared to that of Goa:\n1. Sikkim's merger (1975) followed a domestic referendum and constitutional amendment, without direct military conflict with a foreign power.\n2. Goa's merger (1961) followed a military operation against a colonial power that refused to negotiate withdrawal.\n3. Both mergers were completed within the same decade.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Goa's merger occurred in 1961 and Sikkim's in 1975, over a decade apart, reflecting very different historical circumstances and methods."
+    },
+    {
+     "q": "Which one of the following statements correctly distinguishes the 'integration' of Indian princely states from the contemporaneous linguistic 'reorganisation' of states?",
+     "o": [
+      "Integration (1947-49) concerned bringing princely states into the Union of India, while reorganisation (1950s onward) concerned redrawing internal boundaries of the Union, including former princely and British Indian territories, primarily along linguistic lines",
+      "Both processes occurred simultaneously and served the identical purpose of merging princely states with Pakistan or India",
+      "Reorganisation preceded integration chronologically",
+      "Integration only applied to British Indian provinces, not princely states"
+     ],
+     "a": 0,
+     "e": "Integration addressed the accession of over 560 princely states to India (mostly completed 1947-49), while the later reorganisation process (culminating in the 1956 Act) restructured internal state boundaries on linguistic lines, encompassing both former princely and provincial territories."
+    },
+    {
+     "q": "Consider the following statements about privy purses and princely privileges after integration:\n1. Rulers were initially guaranteed privy purses, titles, and certain privileges as part of the integration settlement.\n2. These guarantees were treated as permanent and unamendable features of the Constitution.\n3. The 26th Amendment (1971) abolished privy purses and derecognised princely titles.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 2 is incorrect; the guarantees were not treated as unamendable, and Parliament abolished privy purses and titles through the <b>26th Constitutional Amendment, 1971</b>."
+    },
+    {
+     "q": "Which one of the following statements correctly describes a key criticism levelled against the States Reorganisation Commission's approach in the 1950s?",
+     "o": [
+      "That it relied excessively on language as a criterion while giving comparatively less weight to administrative and financial viability, leading to persistent boundary disputes such as over Bombay city and Belgaum",
+      "That it refused to consider language at all as a factor in redrawing boundaries",
+      "That it recommended abolishing all states and replacing them with a unitary system",
+      "That it recommended reverting to the pre-1947 princely state boundaries"
+     ],
+     "a": 0,
+     "e": "Critics argued the SRC's heavy reliance on linguistic criteria left some contentious areas, like Bombay city and the Belgaum/Karwar border region, unresolved, fuelling continued regional agitation even after 1956."
+    }
+   ]
+  }
+ },
+ {
+  "id": "hist_art_forms",
+  "title": "Indian Art Forms",
+  "desc": "Classical dances, Hindustani and Carnatic music, painting styles such as Madhubani, Warli, Tanjore, Pattachitra and Mughal/Rajput miniatures, folk theatre, puppetry, martial arts and traditional crafts.",
+  "questions": {
+   "basic": [
+    {
+     "q": "Bharatanatyam, one of the oldest classical dance forms of India, originated in which state?",
+     "o": [
+      "Tamil Nadu",
+      "Kerala",
+      "Odisha",
+      "Andhra Pradesh"
+     ],
+     "a": 0,
+     "e": "<b>Bharatanatyam</b> originated in the temples of Tamil Nadu and is traditionally linked to the devadasi tradition."
+    },
+    {
+     "q": "Kathakali, a classical dance-drama known for its elaborate makeup and costumes, belongs to which state?",
+     "o": [
+      "Kerala",
+      "Karnataka",
+      "Tamil Nadu",
+      "Andhra Pradesh"
+     ],
+     "a": 0,
+     "e": "<b>Kathakali</b> of Kerala combines dance, drama, music and elaborate facial makeup to enact stories from epics like the Mahabharata and Ramayana."
+    },
+    {
+     "q": "Kathak, a classical dance form marked by intricate footwork and spins, developed primarily in which region?",
+     "o": [
+      "North India",
+      "South India",
+      "Northeast India",
+      "Western coastal India"
+     ],
+     "a": 0,
+     "e": "<b>Kathak</b> developed in North India, drawing on both temple storytelling traditions and later Mughal court patronage."
+    },
+    {
+     "q": "Kuchipudi, a classical dance-drama form, originated in which state?",
+     "o": [
+      "Andhra Pradesh",
+      "Odisha",
+      "Manipur",
+      "Assam"
+     ],
+     "a": 0,
+     "e": "<b>Kuchipudi</b> takes its name from a village in Andhra Pradesh where this dance-drama tradition developed."
+    },
+    {
+     "q": "Odissi, characterised by its sculpturesque poses derived from temple carvings, is the classical dance of which state?",
+     "o": [
+      "Odisha",
+      "West Bengal",
+      "Bihar",
+      "Jharkhand"
+     ],
+     "a": 0,
+     "e": "<b>Odissi</b> traces its poses and postures to the sculptures of ancient temples in Odisha, particularly those linked to Jagannath worship."
+    },
+    {
+     "q": "Manipuri dance, known for its gentle, flowing movements and the Raas Leela tradition, belongs to which state?",
+     "o": [
+      "Manipur",
+      "Assam",
+      "Meghalaya",
+      "Mizoram"
+     ],
+     "a": 0,
+     "e": "<b>Manipuri</b> dance is deeply connected to Vaishnavite themes, especially the Raas Leela depicting the life of Krishna."
+    },
+    {
+     "q": "Sattriya, a classical dance form associated with the monastic Sattras and the saint Sankaradeva, belongs to which state?",
+     "o": [
+      "Assam",
+      "Manipur",
+      "Tripura",
+      "Nagaland"
+     ],
+     "a": 0,
+     "e": "<b>Sattriya</b> originated in the Vaishnavite monasteries (sattras) of Assam established by Srimanta Sankaradeva; it was recognised as a classical dance form in 2000."
+    },
+    {
+     "q": "Which classical dance form of Kerala is traditionally performed solely by women and is known as 'the dance of the enchantress'?",
+     "o": [
+      "Mohiniyattam",
+      "Kathakali",
+      "Bharatanatyam",
+      "Kuchipudi"
+     ],
+     "a": 0,
+     "e": "<b>Mohiniyattam</b>, meaning 'dance of the enchantress', is a graceful solo dance form traditionally performed by women in Kerala."
+    },
+    {
+     "q": "Hindustani classical music, prevalent in North India, is distinguished from Carnatic music, prevalent in South India, primarily by?",
+     "o": [
+      "Differences in raga and taal systems shaped by distinct historical and cultural influences",
+      "The complete absence of any vocal tradition in Hindustani music",
+      "The use of Carnatic music exclusively in temples and Hindustani music exclusively in courts",
+      "Carnatic music having no instrumental tradition"
+     ],
+     "a": 0,
+     "e": "Both traditions share ancient roots but evolved distinct systems of raga and taal, with Hindustani music absorbing Persian and Central Asian influences over centuries."
+    },
+    {
+     "q": "The 'Trinity of Carnatic Music' refers to which three composer-saints?",
+     "o": [
+      "Tyagaraja, Muthuswami Dikshitar and Syama Sastri",
+      "Tansen, Baiju Bawra and Swami Haridas",
+      "Amir Khusrau, Tansen and Tyagaraja",
+      "Purandara Dasa, Tyagaraja and Kabir"
+     ],
+     "a": 0,
+     "e": "<b>Tyagaraja, Muthuswami Dikshitar and Syama Sastri</b>, all born in the 18th century in present-day Tamil Nadu, are revered as the Trinity of Carnatic music."
+    },
+    {
+     "q": "Madhubani painting, characterised by intricate line work and natural dyes, is a traditional folk art form from which state?",
+     "o": [
+      "Bihar",
+      "Odisha",
+      "Maharashtra",
+      "West Bengal"
+     ],
+     "a": 0,
+     "e": "<b>Madhubani (Mithila) painting</b> originated in the Mithila region of Bihar, traditionally made by women on walls and floors of homes."
+    },
+    {
+     "q": "Warli painting, known for its simple geometric white-on-red/brown motifs, is a tribal art form associated with which state?",
+     "o": [
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Gujarat",
+      "Chhattisgarh"
+     ],
+     "a": 0,
+     "e": "<b>Warli painting</b> is practised by the Warli tribal community of Maharashtra, depicting daily life through basic geometric shapes."
+    },
+    {
+     "q": "Tanjore painting, known for its use of gold foil and semi-precious stones, developed in which state?",
+     "o": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Kerala",
+      "Andhra Pradesh"
+     ],
+     "a": 0,
+     "e": "<b>Tanjore (Thanjavur) painting</b> developed under the patronage of the Maratha rulers of Thanjavur, noted for gold leaf embellishment and vivid colours."
+    },
+    {
+     "q": "Pattachitra, a traditional cloth-based scroll painting depicting themes from the Jagannath cult, is associated with which state?",
+     "o": [
+      "Odisha",
+      "Rajasthan",
+      "Gujarat",
+      "Uttar Pradesh"
+     ],
+     "a": 0,
+     "e": "<b>Pattachitra</b> painting from Odisha (and parts of West Bengal) traditionally depicts mythological themes, especially related to Lord Jagannath."
+    },
+    {
+     "q": "Kathputli, the traditional string puppetry art form, is most closely associated with which state?",
+     "o": [
+      "Rajasthan",
+      "Odisha",
+      "Karnataka",
+      "Kerala"
+     ],
+     "a": 0,
+     "e": "<b>Kathputli</b> string puppetry is a well-known folk performing art tradition of Rajasthan."
+    },
+    {
+     "q": "Kalaripayattu, considered one of the oldest martial art forms in the world, originated in which state?",
+     "o": [
+      "Kerala",
+      "Tamil Nadu",
+      "Punjab",
+      "Manipur"
+     ],
+     "a": 0,
+     "e": "<b>Kalaripayattu</b> originated in Kerala and is regarded as one of the oldest surviving martial art systems, combining combat techniques with yogic and Ayurvedic elements."
+    },
+    {
+     "q": "Yakshagana, a traditional theatre form combining dance, music, dialogue and elaborate costumes, is native to which state?",
+     "o": [
+      "Karnataka",
+      "Kerala",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+     ],
+     "a": 0,
+     "e": "<b>Yakshagana</b>, popular in coastal Karnataka, enacts stories from Hindu epics through a distinctive blend of dance-drama and music."
+    },
+    {
+     "q": "Chikankari, a delicate white-thread embroidery craft, is traditionally associated with which city?",
+     "o": [
+      "Lucknow",
+      "Jaipur",
+      "Varanasi",
+      "Ahmedabad"
+     ],
+     "a": 0,
+     "e": "<b>Chikankari</b> embroidery is a traditional craft of Lucknow, believed to have been refined under Mughal and Nawabi patronage."
+    }
+   ],
+   "intermediate": [
+    {
+     "q": "Consider the following statements about the classical dance forms of India recognised by the Sangeet Natak Akademi:\n1. Sattriya was added to the list of classical dances in 2000, later than the others.\n2. Bharatanatyam, Kathak, Kathakali, Kuchipudi, Odissi, Manipuri, Mohiniyattam and Sattriya together constitute the presently recognised eight classical dance forms.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; Sattriya was the most recently added (2000) among the eight forms currently accorded classical status."
+    },
+    {
+     "q": "Consider the following statements about Kathak:\n1. It evolved from the storytelling tradition of 'Kathakars' who narrated tales through gestures and songs.\n2. It absorbed influences from Persian and Central Asian dance traditions during the Mughal period.\n3. Major gharanas of Kathak include Jaipur, Lucknow and Banaras.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements accurately capture the origins and evolution of <b>Kathak</b>, including its major stylistic schools (gharanas)."
+    },
+    {
+     "q": "Which of the following pairs of Hindustani music gharana and its associated region/tradition is/are correctly matched?\n1. Gwalior Gharana - regarded among the oldest khayal gharanas\n2. Kirana Gharana - associated with slow, meditative development of raga (bada khayal)\n3. Patiala Gharana - known for its brisk tempo and ornamentation\nHow many of the above pairs are correctly matched?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three pairs are correctly matched, representing distinctive stylistic traditions among the major gharanas of Hindustani khayal singing."
+    },
+    {
+     "q": "Consider the following statements about Carnatic music:\n1. Its compositions are predominantly devotional, often composed in praise of Hindu deities.\n2. The veena and mridangam are among its principal instruments.\n3. It developed with little influence from Persian or Central Asian musical traditions, unlike Hindustani music.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 3,
+     "e": "All three statements correctly describe Carnatic music's devotional character, characteristic instruments, and its relatively distinct evolution compared to Hindustani music."
+    },
+    {
+     "q": "Consider the following statements about Madhubani painting:\n1. It is traditionally practised by women of the Mithila region.\n2. It includes distinct styles such as Bharni, Kachni, Tantrik, Godna and Kohbar.\n3. It uses only synthetic industrial paints, with no tradition of natural pigments.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Madhubani art traditionally uses natural dyes and pigments derived from plants, soot and other organic materials."
+    },
+    {
+     "q": "With reference to Pattachitra painting, consider the following statements:\n1. The term 'Pattachitra' derives from Sanskrit words meaning 'cloth' (patta) and 'picture' (chitra).\n2. The paintings are made on canvas prepared with a paste of tamarind seeds and chalk powder.\n3. They exclusively depict secular, non-religious themes.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Pattachitra paintings predominantly depict religious and mythological themes, especially related to Jagannath, Krishna and other deities."
+    },
+    {
+     "q": "Consider the following statements about Mughal and Rajput (Rajasthani) miniature painting traditions:\n1. Mughal painting developed under royal ateliers with strong Persian stylistic influence, especially under Akbar.\n2. Rajput miniature painting, including the Mewar, Bundi and Kishangarh schools, often focused on religious and courtly themes with brighter, bolder colours.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; Mughal painting reflected Persian-influenced naturalism under imperial patronage, while Rajput schools favoured vivid colours and devotional or courtly subject matter."
+    },
+    {
+     "q": "Consider the following statements about Pahari miniature painting:\n1. It flourished in the hill states of the Himalayan foothills, including Basohli, Kangra and Guler.\n2. The Kangra school is particularly known for its lyrical depiction of Radha-Krishna themes.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; the <b>Pahari school</b>, especially its Kangra sub-style, became renowned for delicate, lyrical renderings of Vaishnavite themes."
+    },
+    {
+     "q": "Which of the following are traditional forms of shadow puppetry in India?\n1. Tholu Bommalata of Andhra Pradesh\n2. Togalu Gombeyatta of Karnataka\n3. Ravana Chhaya of Odisha\nHow many of the above are correctly identified as shadow puppetry traditions?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three are shadow puppetry traditions, using flat, translucent leather puppets manipulated behind a screen, distinct from string, rod or glove puppetry."
+    },
+    {
+     "q": "Consider the following statements about regional folk theatre traditions:\n1. Jatra is a popular folk theatre form of Bengal.\n2. Nautanki is associated with Uttar Pradesh.\n3. Tamasha is a folk theatre tradition of Maharashtra.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements correctly match the folk theatre traditions with their respective regions."
+    },
+    {
+     "q": "Bhavai, a folk theatre form combining dance, music and satire, is traditionally associated with which state?",
+     "o": [
+      "Gujarat",
+      "Rajasthan",
+      "Punjab",
+      "Haryana"
+     ],
+     "a": 0,
+     "e": "<b>Bhavai</b> is a traditional folk theatre form of Gujarat, often performed to entertain and convey social messages through comic and satirical elements."
+    },
+    {
+     "q": "Consider the following statements about martial art traditions of India:\n1. Silambam, involving bamboo staff fighting, is traditionally practised in Tamil Nadu.\n2. Gatka, associated with Sikh martial tradition, is practised mainly in Punjab.\n3. Thang-ta is a martial art form of Manipur involving sword and spear techniques.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements correctly identify India's diverse regional martial art traditions."
+    },
+    {
+     "q": "Bidriware, a metal handicraft known for its striking black-and-silver inlay work, is traditionally associated with which state?",
+     "o": [
+      "Karnataka",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Gujarat"
+     ],
+     "a": 0,
+     "e": "<b>Bidriware</b>, named after the town of Bidar in Karnataka, involves inlaying silver into blackened zinc-alloy metalware."
+    },
+    {
+     "q": "Phulkari, a traditional embroidery craft featuring vibrant floral motifs on shawls and dupattas, is closely associated with which region?",
+     "o": [
+      "Punjab",
+      "Gujarat",
+      "Odisha",
+      "Kerala"
+     ],
+     "a": 0,
+     "e": "<b>Phulkari</b> ('flower work') embroidery is a traditional craft of Punjab, historically made by women for household and ceremonial use."
+    },
+    {
+     "q": "Dhokra art, a traditional metal-casting craft using the lost-wax technique, is practised mainly by which kind of communities?",
+     "o": [
+      "Tribal and rural artisan communities across states like Chhattisgarh, West Bengal and Odisha",
+      "Urban goldsmiths of Rajasthan exclusively",
+      "Temple sculptors of Tamil Nadu exclusively",
+      "Royal court artisans of Mughal Delhi exclusively"
+     ],
+     "a": 0,
+     "e": "<b>Dhokra</b> metal casting is practised by tribal and rural artisan communities across central and eastern India, using the ancient lost-wax casting technique."
+    },
+    {
+     "q": "Which classical dance form uses 'mudras' (hand gestures) extensively along with facial expressions (abhinaya), and is traditionally structured around a repertoire including 'alarippu' and 'thillana'?",
+     "o": [
+      "Bharatanatyam",
+      "Kathak",
+      "Bhangra",
+      "Garba"
+     ],
+     "a": 0,
+     "e": "<b>Bharatanatyam</b>'s traditional repertoire (margam) includes items like alarippu, varnam and thillana, with heavy reliance on mudras and abhinaya."
+    },
+    {
+     "q": "Consider the following statements about puppetry traditions in India:\n1. Kathputli of Rajasthan is a string puppetry tradition.\n2. Pavakoothu of Kerala is a glove puppetry tradition.\n3. Putul Nautch of Bengal is a rod puppetry tradition.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements correctly match puppetry styles with their regional traditions: string (Rajasthan), glove (Kerala) and rod (Bengal) puppetry."
+    },
+    {
+     "q": "Consider the following statements about traditional crafts:\n1. Blue Pottery, associated with Jaipur, uses a distinctive dough of quartz stone powder rather than clay.\n2. It shows Persian and Turko-Mongol influence introduced into Rajasthan via trade and courtly exchange.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; <b>Blue Pottery</b> uses a unique quartz-based dough rather than traditional clay, and its glazing technique reflects Persian and Central Asian artistic influence."
+    }
+   ],
+   "advanced": [
+    {
+     "q": "Consider the following statements distinguishing Hindustani and Carnatic classical music traditions:\n1. Both systems share common ancient theoretical roots traceable to texts like the Natyashastra, but diverged significantly after the advent of Perso-Arabic influence in the north.\n2. Hindustani music places greater emphasis on elaborate raga improvisation (alap) at the outset of a performance, while Carnatic music traditionally emphasises fixed compositions (kritis) with improvisatory elements like raga alapana and kalpana swaram woven around them.\n3. Both systems use an identical fixed set of ragas with no divergence in nomenclature.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; the two systems have different raga classifications and nomenclature, though some ragas share similar names or structures."
+    },
+    {
+     "q": "Which one of the following statements correctly explains why Sattriya was accorded classical dance status only in 2000, much later than most other classical forms?",
+     "o": [
+      "It had remained relatively confined to the monastic sattra institutions of Assam and gained wider national visibility and codification later than other regionally prominent court and temple dance traditions",
+      "It was invented only in the late 20th century as an entirely new dance form",
+      "It was banned by the colonial government until 1947",
+      "It has no connection to any religious or devotional tradition"
+     ],
+     "a": 0,
+     "e": "Sattriya developed within Assam's Vaishnavite monastic sattras and remained a relatively insular tradition until greater documentation, performance outside the sattras, and advocacy led to formal classical recognition in 2000."
+    },
+    {
+     "q": "Consider the following statements about the socio-religious context of Bharatanatyam's history:\n1. It was traditionally performed by devadasis attached to temples.\n2. The 'Anti-Nautch' movement of the early 20th century campaigned against the devadasi system and temple dance, prompting reformers like Rukmini Devi Arundale to reframe and revive the art form.\n3. Its classical revival in the 20th century involved no change whatsoever from its pre-20th century temple form.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; the 20th-century revival, associated with figures like Rukmini Devi Arundale, involved significant reformulation of repertoire, presentation and social context compared to the earlier devadasi tradition."
+    },
+    {
+     "q": "Which of the following statements correctly compares Tanjore and Mysore painting styles?\n1. Both use gold leaf work, but Tanjore paintings are noted for thicker gold relief work (gesso) while Mysore paintings use thinner gold leaf with more delicate, muted colours.\n2. Both originated under the patronage of South Indian royal courts in the 16th-19th centuries.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; while related in devotional theme and gold ornamentation, Tanjore paintings (Thanjavur, under Maratha/Nayaka patronage) use heavier gesso relief work compared to the finer, more muted Mysore style."
+    },
+    {
+     "q": "Consider the following statements about the Kalamkari textile art form:\n1. It involves hand-painting or block-printing on cotton fabric using natural dyes.\n2. Two distinct styles are associated with Srikalahasti (freehand, religious themes) and Machilipatnam (block-printed, often with Persian-influenced motifs).\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; <b>Kalamkari</b> from Andhra Pradesh has two major schools distinguished by technique (freehand pen-work versus block printing) and thematic emphasis."
+    },
+    {
+     "q": "Which one of the following statements correctly describes a key difference between the Warli and Madhubani painting traditions?\n1. Warli art traditionally uses a monochromatic white pigment on a red-ochre or brown background, whereas Madhubani employs vivid multiple colours derived from natural sources.\n2. Warli motifs are largely geometric (circles, triangles, squares) depicting daily tribal life, while Madhubani often depicts religious and mythological themes alongside nature and rituals.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements correctly capture stylistic and thematic distinctions between the tribal geometric Warli art of Maharashtra and the more colourful, narrative-rich Madhubani art of Bihar."
+    },
+    {
+     "q": "Consider the following statements about the regional distribution of shadow puppetry in India:\n1. Togalu Gombeyatta is practised in Karnataka using leather puppets of varying sizes to denote social status of characters.\n2. Tholu Bommalata artisans in Andhra Pradesh traditionally use large, colourfully painted leather puppets.\n3. Ravana Chhaya of Odisha is unique in using entirely opaque, monochrome puppets that produce silhouette-only shadows without colour.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements correctly describe distinguishing features of India's major regional shadow-puppetry traditions."
+    },
+    {
+     "q": "With reference to Indian classical dance repertoire structures, consider the following statements:\n1. The traditional Bharatanatyam margam sequence moves from simple pure-dance items to complex expressional and again pure-dance items, typically ending with a thillana.\n2. The Odissi repertoire includes items like mangalacharan, sthayi, pallavi and moksha, broadly following a similar progression from invocation to pure dance and abstract culmination.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; classical margams in Bharatanatyam and Odissi share a broadly comparable structural logic moving from invocation through expressional and pure-dance items to a culminating item."
+    },
+    {
+     "q": "Which one of the following statements correctly explains the historical significance of the Mughal atelier (karkhana) established under Akbar for painting?",
+     "o": [
+      "It brought together Persian master painters and Indian artists, fostering a syncretic style that combined Persian techniques with Indian subject matter and naturalism, laying the foundation for later Mughal miniature painting",
+      "It exclusively employed European painters and produced only Christian religious art",
+      "It was established primarily to train artisans in textile weaving rather than painting",
+      "It functioned only during the reign of Aurangzeb, who was its greatest patron"
+     ],
+     "a": 0,
+     "e": "Akbar's imperial atelier brought Persian masters like Mir Sayyid Ali and Abd al-Samad together with Indian artists, producing a syncretic Mughal painting style noted for its naturalism and narrative detail."
+    },
+    {
+     "q": "Consider the following statements about martial arts and their socio-cultural functions in India:\n1. Kalaripayattu training traditionally combined combat skills with Ayurvedic and yogic knowledge, including bodywork such as 'uzhichil' (massage).\n2. Gatka developed within the Sikh martial tradition and is often demonstrated in association with Nihang warrior groups during religious/cultural events.\n3. Mardani Khel, practised in Maharashtra, involves weapons like the 'vita' (a flexible sword-like weapon) and originated in the Maratha military tradition.\nHow many of the above statements are correct?",
+     "o": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "a": 2,
+     "e": "All three statements correctly link India's regional martial arts to their broader cultural, religious, or military-historical context."
+    },
+    {
+     "q": "Which of the following statements correctly explains why Pattachitra and Odissi dance are often considered artistically interconnected traditions of Odisha?",
+     "o": [
+      "Both draw heavily on the iconography and mythology associated with the Jagannath cult and temple culture of Puri, sharing common thematic and stylistic sensibilities",
+      "Both are entirely secular art forms with no connection to religious themes",
+      "Pattachitra is a form of dance, while Odissi is a form of painting, making them technically identical",
+      "Both originated outside Odisha and were only recently adopted by the state"
+     ],
+     "a": 0,
+     "e": "Both Pattachitra painting and Odissi dance draw extensively on Jagannath-centred temple culture and Vaishnavite mythology, reflecting Odisha's shared devotional artistic heritage."
+    },
+    {
+     "q": "Consider the following statements about the classification of Indian classical music gharanas:\n1. A 'gharana' typically refers to a hereditary or discipleship-based lineage transmitting a distinctive musical style.\n2. The Kirana Gharana is particularly associated with a slow, meditative unfolding of the raga with emphasis on microtonal (shruti) precision.\n3. Gharanas exist only in Hindustani music and have no parallel concept ('bani' or lineage traditions) in Carnatic music.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Carnatic music also recognises lineage-based stylistic traditions ('bani'), such as those associated with particular vainikas or vocalists, analogous in function to Hindustani gharanas."
+    },
+    {
+     "q": "Which one of the following best explains the difference between 'Kachni' and 'Bharni' styles within Madhubani painting?",
+     "o": [
+      "Kachni style uses fine, intricate line-work with minimal colour fill, while Bharni style uses bold outlines filled densely with vivid colour",
+      "Kachni is practised only by men while Bharni is practised only by women",
+      "Kachni depicts only Hindu religious themes while Bharni depicts only secular themes",
+      "Kachni originated in Rajasthan while Bharni originated in Bihar"
+     ],
+     "a": 0,
+     "e": "Within the Madhubani tradition, the <b>Kachni</b> style is characterised by fine cross-hatched line work with little colour, whereas the <b>Bharni</b> style favours bold outlines densely filled with colour."
+    },
+    {
+     "q": "Consider the following statements regarding Yakshagana and Kathakali as theatrical traditions:\n1. Both combine dance, music, elaborate costume and makeup to enact stories from Hindu epics.\n2. Yakshagana traditionally includes greater improvised dialogue (arthadhari) compared to Kathakali's more codified gesture-based (mudra) storytelling accompanied by vocalists.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; while structurally similar as dance-dramas of coastal Karnataka and Kerala respectively, Yakshagana relies more on improvised spoken dialogue, while Kathakali relies on codified hand gestures (mudras) with playback singers narrating the story."
+    },
+    {
+     "q": "Which of the following statements correctly describes the historical evolution of Kuchipudi from an exclusively male, Brahmin-performed dance-drama to its present form?",
+     "o": [
+      "It was traditionally performed by male Brahmin practitioners (Bhagavatulu) enacting the 'Bhama Kalapam' and other stories, and later developed as a solo dance form including female performers in the 20th century",
+      "It has always exclusively been performed by women since its origin",
+      "It has no connection to any earlier dance-drama tradition and was invented in the 20th century",
+      "It developed exclusively as a temple ritual with no theatrical performance tradition"
+     ],
+     "a": 0,
+     "e": "Kuchipudi originated as a village dance-drama tradition (Bhagavata Mela-like) performed by Brahmin men, later evolving in the 20th century, partly under artists like Vempati Chinna Satyam, into a more widely practised solo classical form including women."
+    },
+    {
+     "q": "Consider the following statements comparing crafts of different regions:\n1. Bidriware from Karnataka and Zardozi embroidery are both associated historically with Persian and Central Asian artistic influence introduced through courtly patronage.\n2. Channapatna wooden toys, a craft of Karnataka, are known for their lacquered, brightly coloured finish.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "a": 2,
+     "e": "Both statements are correct; Bidriware and Zardozi both reflect Persian-influenced courtly craft traditions, while Channapatna toys represent a distinct indigenous lacquerware craft of Karnataka."
+    },
+    {
+     "q": "Which one of the following statements correctly explains the term 'abhinaya' as used in Indian classical dance theory?",
+     "o": [
+      "It refers to the expressional aspect of a performance, conveying meaning and emotion through gestures, facial expressions and body movement, as distinguished from pure rhythmic dance (nritta)",
+      "It refers exclusively to the footwork patterns used in Kathak",
+      "It is a term used only in Carnatic music to denote a type of composition",
+      "It refers to the physical stage or platform used for temple dance performances"
+     ],
+     "a": 0,
+     "e": "'<b>Abhinaya</b>' denotes the expressional, communicative dimension of classical dance (conveying narrative and emotion, or 'bhava'), as distinct from 'nritta', the purely rhythmic and decorative aspect of dance."
+    },
+    {
+     "q": "Consider the following statements about the Rasa theory as applied to Indian classical performing arts:\n1. It originates from Bharata's Natyashastra, an ancient Sanskrit treatise on dramaturgy and performance.\n2. It identifies a set of core aesthetic emotions (rasas) that a performance seeks to evoke in the audience through the actor's expression of corresponding bhavas.\n3. It has no relevance to classical dance forms and applies solely to Sanskrit drama.\nWhich of the statements given above is/are correct?",
+     "o": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "All of the above"
+     ],
+     "a": 0,
+     "e": "Statement 3 is incorrect; Rasa theory, articulated in the <b>Natyashastra</b>, underlies the aesthetic framework of Indian classical dance forms as much as drama, guiding how abhinaya evokes rasa in the audience."
+    }
+   ]
+  }
+ }
+]
