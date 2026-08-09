@@ -154,14 +154,44 @@
   .auth-btn:hover{background:rgba(255,255,255,0.22);}
   .auth-btn.primary-outline{background:#fff; color:var(--accent);}
 
-  /* Auth screen (login / signup) */
-  .auth-tabs{display:flex; gap:8px; margin-bottom:18px;}
-  .auth-tab{flex:1; text-align:center; padding:10px; border-radius:9px; border:1.5px solid var(--border); cursor:pointer; font-weight:600; font-size:0.88rem; color:var(--muted);}
-  .auth-tab.active{border-color:var(--accent); color:var(--accent); background:var(--accent-light);}
-  .form-field{margin-bottom:14px;}
-  .form-field label{display:block; font-size:0.8rem; font-weight:600; margin-bottom:6px; color:var(--ink);}
-  .form-field input{width:100%; padding:11px 13px; border-radius:9px; border:1.5px solid var(--border); font-size:0.92rem;}
-  .form-field input:focus{outline:none; border-color:var(--accent);}
+  /* Auth screen (login / signup) — redesigned */
+  #auth-screen{position:relative; overflow:hidden; padding:38px 30px 32px; border-radius:24px;}
+  .auth-blob{position:absolute; border-radius:50%; filter:blur(55px); opacity:0.22; z-index:0; pointer-events:none;}
+  .auth-blob1{width:220px; height:220px; background:#60a5fa; top:-90px; right:-70px;}
+  .auth-blob2{width:190px; height:190px; background:#a855f7; bottom:-80px; left:-60px;}
+  #auth-screen > *{position:relative; z-index:1;}
+  .auth-icon{
+    width:56px; height:56px; margin:0 auto 14px; border-radius:16px;
+    background:linear-gradient(135deg,#2563eb,#4f46e5); display:flex; align-items:center; justify-content:center;
+    font-size:1.5rem; box-shadow:0 10px 22px rgba(37,99,235,0.35);
+  }
+  .auth-heading{text-align:center; font-size:1.32rem; font-weight:800; margin:0 0 4px; color:var(--ink); letter-spacing:-0.01em;}
+  .auth-subheading{text-align:center; font-size:0.85rem; color:var(--muted); margin:0 0 24px;}
+  .auth-tabs{position:relative; display:flex; background:#f1f5f9; border-radius:12px; padding:4px; margin-bottom:22px;}
+  .auth-tab-slider{
+    position:absolute; top:4px; left:4px; width:calc(50% - 4px); height:calc(100% - 8px);
+    background:#fff; border-radius:9px; box-shadow:0 2px 10px rgba(0,0,0,0.1); transition:transform .25s ease; z-index:0;
+  }
+  .auth-tab{flex:1; text-align:center; padding:10px; border-radius:9px; cursor:pointer; font-weight:700; font-size:0.88rem; color:var(--muted); position:relative; z-index:1; transition:color .2s;}
+  .auth-tab.active{color:var(--accent);}
+  .form-field{margin-bottom:16px;}
+  .form-field label{display:block; font-size:0.8rem; font-weight:700; margin-bottom:6px; color:var(--ink);}
+  .input-wrap{position:relative; display:flex; align-items:center;}
+  .input-wrap .input-icon{position:absolute; left:13px; font-size:0.95rem; opacity:0.6; pointer-events:none;}
+  .input-wrap input{
+    width:100%; padding:12px 40px 12px 38px; border-radius:10px; border:1.5px solid var(--border);
+    font-size:0.92rem; background:#f8fafc; transition:border-color .15s, box-shadow .15s, background .15s;
+  }
+  .input-wrap input:focus{outline:none; border-color:var(--accent); box-shadow:0 0 0 3px var(--accent-light); background:#fff;}
+  .toggle-pw{position:absolute; right:6px; background:transparent; border:none; cursor:pointer; font-size:1rem; opacity:0.55; padding:6px; line-height:1;}
+  .toggle-pw:hover{opacity:1;}
+  .auth-submit{
+    width:100%; margin-top:4px; background:linear-gradient(135deg,#2563eb,#4f46e5); border:none;
+    padding:13px 22px; border-radius:11px; font-size:0.95rem; font-weight:700; color:#fff; cursor:pointer;
+    box-shadow:0 10px 22px rgba(37,99,235,0.3); transition:transform .15s, box-shadow .15s;
+  }
+  .auth-submit:hover{transform:translateY(-2px); box-shadow:0 14px 28px rgba(37,99,235,0.4);}
+  .auth-submit:disabled{background:#93c5fd; box-shadow:none; cursor:not-allowed; transform:none;}
   .form-msg{font-size:0.85rem; padding:10px 12px; border-radius:9px; margin-bottom:14px; display:none;}
   .form-msg.error{background:var(--red-bg); color:#7f1d1d; display:block;}
   .form-msg.success{background:var(--green-bg); color:#14532d; display:block;}
@@ -221,23 +251,62 @@
   <!-- AUTH SCREEN (login / signup) -->
   <div class="card hidden" id="auth-screen">
     <button class="back-btn hidden" id="auth-back-btn">← Back</button>
+    <div class="auth-blob auth-blob1"></div>
+    <div class="auth-blob auth-blob2"></div>
+    <div class="auth-icon">🔐</div>
+    <h2 class="auth-heading" id="auth-heading">Welcome back</h2>
+    <p class="auth-subheading" id="auth-subheading">Log in to continue your UPSC prep</p>
+
     <div class="auth-tabs">
+      <div class="auth-tab-slider" id="auth-tab-slider"></div>
       <div class="auth-tab active" id="tab-login">Log in</div>
       <div class="auth-tab" id="tab-signup">Sign up</div>
     </div>
     <div class="form-msg" id="auth-msg"></div>
 
     <div id="login-form">
-      <div class="form-field"><label>Email</label><input type="email" id="login-email" autocomplete="email"></div>
-      <div class="form-field"><label>Password</label><input type="password" id="login-password" autocomplete="current-password"></div>
-      <button class="primary" id="login-submit-btn" style="width:100%;">Log in</button>
+      <div class="form-field">
+        <label>Email</label>
+        <div class="input-wrap">
+          <span class="input-icon">✉️</span>
+          <input type="email" id="login-email" autocomplete="email" placeholder="you@example.com">
+        </div>
+      </div>
+      <div class="form-field">
+        <label>Password</label>
+        <div class="input-wrap">
+          <span class="input-icon">🔒</span>
+          <input type="password" id="login-password" autocomplete="current-password" placeholder="••••••••">
+          <button type="button" class="toggle-pw" data-target="login-password" aria-label="Show password">👁</button>
+        </div>
+      </div>
+      <button class="auth-submit" id="login-submit-btn">Log in</button>
     </div>
 
     <div id="signup-form" class="hidden">
-      <div class="form-field"><label>Display name</label><input type="text" id="signup-username" autocomplete="nickname" placeholder="Shown on the leaderboard"></div>
-      <div class="form-field"><label>Email</label><input type="email" id="signup-email" autocomplete="email"></div>
-      <div class="form-field"><label>Password</label><input type="password" id="signup-password" autocomplete="new-password" placeholder="At least 6 characters"></div>
-      <button class="primary" id="signup-submit-btn" style="width:100%;">Create account</button>
+      <div class="form-field">
+        <label>Display name</label>
+        <div class="input-wrap">
+          <span class="input-icon">🙂</span>
+          <input type="text" id="signup-username" autocomplete="nickname" placeholder="Shown on the leaderboard">
+        </div>
+      </div>
+      <div class="form-field">
+        <label>Email</label>
+        <div class="input-wrap">
+          <span class="input-icon">✉️</span>
+          <input type="email" id="signup-email" autocomplete="email" placeholder="you@example.com">
+        </div>
+      </div>
+      <div class="form-field">
+        <label>Password</label>
+        <div class="input-wrap">
+          <span class="input-icon">🔒</span>
+          <input type="password" id="signup-password" autocomplete="new-password" placeholder="At least 6 characters">
+          <button type="button" class="toggle-pw" data-target="signup-password" aria-label="Show password">👁</button>
+        </div>
+      </div>
+      <button class="auth-submit" id="signup-submit-btn">Create account</button>
     </div>
   </div>
 
@@ -451,6 +520,19 @@ function switchAuthTab(tab){
   document.getElementById('tab-signup').classList.toggle('active', tab==='signup');
   document.getElementById('login-form').classList.toggle('hidden', tab!=='login');
   document.getElementById('signup-form').classList.toggle('hidden', tab!=='signup');
+  const slider = document.getElementById('auth-tab-slider');
+  if(slider) slider.style.transform = (tab==='signup') ? 'translateX(100%)' : 'translateX(0)';
+  const heading = document.getElementById('auth-heading');
+  const sub = document.getElementById('auth-subheading');
+  if(heading && sub){
+    if(tab==='signup'){
+      heading.textContent = 'Create your account';
+      sub.textContent = 'Sign up to save scores & join the leaderboard';
+    } else {
+      heading.textContent = 'Welcome back';
+      sub.textContent = 'Log in to continue your UPSC prep';
+    }
+  }
 }
 
 function renderAuth(tab){
@@ -949,6 +1031,14 @@ document.getElementById('leaderboard-back-btn').onclick = ()=> renderSubjects();
 
 document.getElementById('tab-login').onclick = ()=> switchAuthTab('login');
 document.getElementById('tab-signup').onclick = ()=> switchAuthTab('signup');
+document.querySelectorAll('.toggle-pw').forEach(btn=>{
+  btn.onclick = ()=>{
+    const input = document.getElementById(btn.dataset.target);
+    if(!input) return;
+    if(input.type === 'password'){ input.type = 'text'; btn.textContent = '🙈'; }
+    else { input.type = 'password'; btn.textContent = '👁'; }
+  };
+});
 document.getElementById('login-submit-btn').onclick = ()=> doLogin();
 document.getElementById('signup-submit-btn').onclick = ()=> doSignup();
 
