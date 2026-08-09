@@ -537,6 +537,127 @@
         ],
         "a": 0,
         "e": "Statement 2 is incorrect — India's parliamentary system does the OPPOSITE, fusing rather than separating the legislature and executive (ministers are members of both), which is explicitly why the book lists 'against separation of powers' as a demerit of India's system. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the 'secrecy' feature of India's parliamentary system:\n1. Ministers operate on the principle of secrecy of procedure regarding their proceedings, policies and decisions.\n2. The oath of secrecy to ministers is administered by the Speaker of the Lok Sabha.\n3. Ministers take the oath of secrecy before entering their office.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the oath of secrecy to ministers is administered by the <b>President</b>, not the Speaker. Statements 1 and 3 correctly describe the secrecy principle and its timing."
+      },
+      {
+        "q": "Consider the following statements about the demerit of 'government by amateurs' in the parliamentary system:\n1. It arises because ministers are not necessarily experts in the fields they administer.\n2. The Prime Minister's choice of ministers is restricted to members of Parliament alone, excluding external talent.\n3. This demerit is entirely absent in the American presidential system, since American secretaries are always subject-matter experts by constitutional requirement.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 overstates the position — while the American system's separation of powers ALLOWS the President greater flexibility to appoint outside experts as secretaries, the book does not state this is a constitutional REQUIREMENT guaranteeing expertise in every case. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Assertion (A): Dr. Ambedkar argued that the Constituent Assembly should prefer more responsibility over more stability when choosing between the British and American models.\nReason (R): Ambedkar observed that the American system gives more stability but less responsibility, while the British system gives more responsibility but less stability, and no system could achieve both in equal degree.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — this is Ambedkar's own stated reasoning in the Constituent Assembly Debates, directly justifying why the Draft Constitution recommended the parliamentary (British-style) system of executive despite its greater instability, prioritising accountability to the legislature."
+      },
+      {
+        "q": "Consider the following statements about the Swaran Singh Committee (1975):\n1. It was appointed by the Congress government specifically to examine whether India's parliamentary system should be replaced by a presidential system.\n2. It recommended replacing the parliamentary system with a presidential system to ensure greater stability.\n3. Its work reflects that the parliamentary-versus-presidential debate had continued in India well beyond the Constituent Assembly's original 1949-50 decision.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Committee concluded the OPPOSITE, opining that the parliamentary system had been doing well and there was NO need to replace it with a presidential system. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about legal responsibility of ministers in Britain versus India:\n1. In Britain, every order of the King for a public act must be countersigned by a minister, who becomes legally liable if the order violates any law.\n2. In India, an order of the President for a public act must similarly be countersigned by a minister.\n3. This difference means Britain has a system of legal responsibility of ministers that India lacks.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — India has NO such countersignature requirement for the President's official acts, unlike Britain. Statements 1 and 3 correctly capture this specific legal-responsibility distinction between the two systems."
+      },
+      {
+        "q": "Consider the following statements about K.T. Shah's role in the Constituent Assembly debates on the form of government:\n1. He favoured the adoption of the American presidential system for India.\n2. His proposal was ultimately accepted, leading to a hybrid presidential-parliamentary system.\n3. The Constitution-makers ultimately adopted the British parliamentary model instead.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — K.T. Shah's proposal for a presidential system was NOT accepted; the Constitution-makers instead adopted the British parliamentary model, as stated in statement 3. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the merit of 'wide representation' in the parliamentary system:\n1. It arises because the executive consists of a group of ministers who are representatives of the people, rather than a single individual.\n2. The Prime Minister can take regional and sectional representation into account while selecting ministers.\n3. This merit is impossible to achieve in a presidential system, since a presidential executive can never include more than one person by definition.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 overstates the point — while a single President IS the presidential system's chief executive, the book's argument is about the EASE and NATURAL FIT of representation through a multi-member council of ministers, not an absolute logical impossibility in presidential systems generally (which may still have diverse cabinets/secretaries, even if the President alone is single). Statements 1 and 2 are correct as described in the book."
+      },
+      {
+        "q": "With reference to political analysts' descriptions of prime ministerial dominance, consider the following statements:\n1. R.H. Crossman described the post-war era as the final transformation of cabinet government into 'Prime Ministerial government'.\n2. This description was said to apply exclusively to Britain and explicitly does not extend to the Indian context.\n3. Humphrey Berkeley argued that Parliament is not, in practice, sovereign, citing the super-ministerial powers of the Prime Minister.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the book explicitly states 'the same description holds good in the Indian context too', meaning this analysis of prime ministerial dominance is NOT confined exclusively to Britain. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the mechanism behind the parliamentary system's 'prevents despotism' merit:\n1. Executive authority is vested in a group of individuals (council of ministers) rather than a single person.\n2. The executive remains responsible to Parliament and can be removed via a no-confidence motion.\n3. These two features together disperse power and provide an institutional check against dictatorial tendencies.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — the book explicitly links BOTH the dispersal of authority among ministers AND their accountability to Parliament (via no-confidence motions) as the combined mechanism that checks dictatorial tendencies in the parliamentary system."
+      },
+      {
+        "q": "Match List-I (Feature/Concept) with List-II (Correct Description) and select the correct answer using the code below.\nList-I:\nA. Double membership\nB. Political homogeneity\nC. Secrecy\nD. Dissolution of Lower House\nList-II:\n1. Ministers usually share the same political ideology since they belong to the same party\n2. Ministers cannot divulge information about proceedings, policies and decisions\n3. A minister must be a member of Parliament, with a six-month grace period if appointed from outside\n4. The Prime Minister can advise the President to dissolve the Lok Sabha before its term expires",
+        "o": [
+          "A-3, B-1, C-2, D-4",
+          "A-1, B-3, C-4, D-2",
+          "A-3, B-2, C-1, D-4",
+          "A-4, B-1, C-2, D-3"
+        ],
+        "a": 0,
+        "e": "Double membership means a minister must belong to Parliament (with a six-month grace period, if appointed from outside); political homogeneity means ministers share ideology; secrecy means ministers cannot divulge internal proceedings; dissolution of the Lower House means the PM can advise dissolution. Correct code: A-3, B-1, C-2, D-4."
+      },
+      {
+        "q": "Consider the following statements about the reasons the Constituent Assembly rejected a purely US-style separation-of-powers-based presidential system for India:\n1. The framers wanted to avoid the perpetual legislature-executive conflict they associated with the American presidential model.\n2. They believed an infant democracy could not afford the risk of such conflicts given the demands of nation-building.\n3. They believed India's socio-cultural heterogeneity was better served by a system offering wide representation within a collective executive.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — the book lists 'need to avoid legislature-executive conflicts' and 'nature of Indian society' (its heterogeneous, plural character) as two of the four specific reasons the framers gave for adopting the parliamentary rather than the presidential system."
       }
     ]
   }

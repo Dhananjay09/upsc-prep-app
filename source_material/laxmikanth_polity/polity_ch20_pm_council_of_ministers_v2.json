@@ -559,6 +559,149 @@
         ],
         "a": 0,
         "e": "Statement 3 is incorrect — the 1979 presidential communique explicitly noted that 'work of an urgent nature involving the national interest will not be held up', meaning caretaker governments retain some limited scope for urgent, nationally significant decisions. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Prime Minister's oath of office:\n1. The Prime Minister swears to bear true faith and allegiance to the Constitution of India.\n2. The Prime Minister swears to do right to all manner of people without fear or favour, affection or ill will.\n3. The form of oath of office and secrecy for the Prime Minister is entirely different from that for any Union minister.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the book explicitly notes the form of oath of office and secrecy for the Prime Minister is SIMILAR to that for any Union minister, not entirely different. Statements 1 and 2 correctly describe the actual content of the PM's oath of office."
+      },
+      {
+        "q": "Consider the following statements about instances where a caretaker Prime Minister was appointed following the sudden death of a sitting Prime Minister:\n1. Gulzari Lal Nanda acted as caretaker Prime Minister on the deaths of both Jawaharlal Nehru and Lal Bahadur Shastri.\n2. In 1984, following Indira Gandhi's assassination, President Zail Singh followed this same caretaker precedent by appointing an interim leader before Rajiv Gandhi's formal selection.\n3. The Congress parliamentary party later unanimously elected Rajiv Gandhi as its leader after his appointment as Prime Minister.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — in 1984, President Zail Singh specifically IGNORED the earlier caretaker precedent (used twice before with Gulzari Lal Nanda) and instead directly appointed Rajiv Gandhi as Prime Minister immediately. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the constitutional provisions governing ministers' rights in Parliament:\n1. Article 88 gives every minister the right to speak and take part in proceedings of either House, any joint sitting, and any Parliamentary Committee of which they are a member.\n2. Article 88 also entitles every minister to vote in whichever House they choose to speak in, regardless of actual membership.\n3. A minister who is a member of one House can speak in the other House but can vote only in the House of which they are actually a member.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — Article 88 explicitly states a minister 'shall not be entitled to vote' merely by virtue of speaking in a House; voting rights remain confined to the House of actual membership. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the nature of advice tendered by ministers to the President under Article 74:\n1. The nature of advice tendered by ministers to the President cannot be inquired into by any court.\n2. This provision emphasises the intimate and confidential relationship between the President and the ministers.\n3. This same confidentiality rule also applies to advice tendered by the Chief Justice of India to the President under Article 143.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the confidentiality bar on court inquiry specifically concerns MINISTERIAL advice under Article 74; the book does not extend this same rule to the Supreme Court's advisory opinions under Article 143, which is a separate, distinct mechanism entirely. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about examples of ministers resigning due to differences with cabinet decisions:\n1. Dr. B.R. Ambedkar resigned in 1953 over differences on the Hindu Code Bill.\n2. C.D. Deshmukh resigned due to differences over the policy of reorganisation of states.\n3. Arif Mohammed Khan resigned in opposition to the Muslim Women (Protection of Rights on Divorce) Act, 1986.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — these three examples, spanning from the 1950s to the 1980s, illustrate the operation of collective responsibility in practice: ministers unwilling to publicly defend a cabinet decision they disagreed with chose to resign rather than continue serving in apparent contradiction of their own views."
+      },
+      {
+        "q": "Assertion (A): The Prime Minister's power to advise the President to dismiss an individual minister is central to enforcing collective responsibility.\nReason (R): Dr. Ambedkar observed that collective responsibility can be achieved only through the instrumentality of the Prime Minister, who alone has the authority to nominate and dismiss ministers.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — Ambedkar's own words in the Constituent Assembly Debates directly establish this causal link between the PM's individual enforcement power and the functioning of collective responsibility as a whole."
+      },
+      {
+        "q": "Consider the following statements about the composition and role of parliamentary secretaries:\n1. They are appointed by the Prime Minister, not the President.\n2. They are attached to senior ministers to assist with parliamentary duties.\n3. They form the fourth, lowest-ranking category within the formal council of ministers.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — parliamentary secretaries are explicitly stated to NOT be members of the council of ministers at all; they exist as a separate category outside the three-tier ministerial structure (cabinet ministers, ministers of state, deputy ministers). Statements 1 and 2 are correct."
+      },
+      {
+        "q": "With reference to the distinctions between the council of ministers and the cabinet (Table 21.1), consider the following statements:\n1. The council of ministers does not meet as a body to transact government business and has no collective functions.\n2. The cabinet meets frequently, usually once a week, to deliberate and take decisions on government business.\n3. The cabinet directs the council of ministers by taking policy decisions binding on all ministers, while the council implements decisions taken by the cabinet.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — together they capture the functional hierarchy the book establishes: the cabinet is the smaller, active decision-making core, while the larger council of ministers primarily implements what the cabinet decides, rather than deliberating collectively itself."
+      },
+      {
+        "q": "Consider the following statements about the legislative backing given to the classification of ministers despite the Constitution's silence on this classification:\n1. The Salaries and Allowances of Ministers Act, 1952 defines a 'minister' as a member of the council of ministers, by whatever name called, including a deputy minister.\n2. This Act provides the primary source of legal recognition for the three-tier ministerial classification, since the Constitution itself does not detail it.\n3. This same Act also explicitly defines and legally recognises the position of 'Deputy Prime Minister'.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — as the Devi Lal case (1990) confirmed, the description 'Deputy Prime Minister' is merely DESCRIPTIVE with no distinct constitutional or statutory basis conferring any special powers; the 1952 Act does not specifically define or recognise this title as a formal category. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the historical evolution of Article 74's binding-advice framework:\n1. In the original 1950 Constitution, there was no explicit provision in Article 74 making the President bound by ministerial advice.\n2. The 42nd Amendment Act, 1976 first inserted this explicit binding requirement into Article 74.\n3. The 44th Amendment Act, 1978 subsequently removed this binding requirement to restore full presidential discretion.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the 44th Amendment did NOT remove the binding requirement; it only added a limited reconsideration mechanism while keeping the (reconsidered) advice fully binding. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the role of the Cabinet as described in the book:\n1. It is the highest decision-making authority in India's politico-administrative system.\n2. It exercises control over higher appointments like constitutional authorities and senior secretariat administrators.\n3. It has no role whatsoever in dealing with emergency situations, which are handled exclusively by the President acting alone.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the book explicitly lists the Cabinet as 'chief crisis manager', dealing with all emergency situations, contradicting the idea that the President handles emergencies exclusively alone (in any case, the President acts on ministerial/cabinet advice per Article 74). Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the 'dictatorship of the cabinet' phenomenon as described by Ramsay Muir:\n1. Muir argued that a cabinet commanding a parliamentary majority is 'omnipotent' in theory, with its dictatorship qualified only by publicity.\n2. He argued this dictatorship had become weaker over successive generations, not stronger.\n3. The book states this same description holds good in the Indian context too.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect and reverses Muir's actual claim — he specifically wrote that 'this dictatorship is far more absolute than it was two generations ago', meaning it had grown STRONGER, not weaker, over time. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about Article 78's provisions on the duties of the Prime Minister with respect to furnishing information to the President:\n1. It is the duty of the Prime Minister to communicate to the President all decisions of the council of ministers relating to the administration of the affairs of the Union and proposals for legislation.\n2. The Prime Minister must furnish such information relating to the administration of the affairs of the Union and proposals for legislation as the President may call for.\n3. Article 78 empowers the President to independently overrule any council of ministers decision that is communicated to him under this article.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — Article 78 is purely an information/communication channel between the PM and the President; it grants the President no independent power to overrule cabinet decisions, which remain binding on him under Article 74. Statements 1 and 2 correctly state Article 78's two duties (communicating decisions, and furnishing information the President calls for)."
       }
     ]
   }

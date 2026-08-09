@@ -614,6 +614,127 @@
         ],
         "a": 0,
         "e": "Statement 3 is incorrect — for constitutional amendment bills, the President can ONLY ratify (give assent); rejection and return are not available options, unlike with ordinary bills. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the formula for calculating the value of votes in the presidential electoral college:\n1. Every elected MLA's vote value depends on dividing the state's population by the total elected assembly seats, then dividing by 1,000.\n2. Every elected MP's vote value is calculated by dividing the aggregate value of all state MLA votes by the total number of elected MPs.\n3. This system is designed to ensure uniformity in representation across states and parity between the states as a whole and the Union.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — the book explicitly states the Constitution provides for 'uniformity in the scale of representation of different states as well as parity between the states as a whole and the Union', which this vote-value formula is specifically designed to achieve."
+      },
+      {
+        "q": "Consider the following statements about the security deposit and forfeiture rules for presidential candidates:\n1. Every candidate must deposit ₹15,000 with the Reserve Bank of India.\n2. This deposit is forfeited if the candidate fails to secure one-sixth of the votes polled.\n3. Before 1997, the security deposit was ₹2,500, and it was increased specifically to discourage non-serious candidates.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — alongside raising the number of required proposers/seconders from 10 to 50 each, the 1997 amendment to the Presidential and Vice-Presidential Elections Act, 1952 raised both the deposit amount and this one-sixth forfeiture threshold specifically to deter frivolous candidacies."
+      },
+      {
+        "q": "Consider the following statements about the President's salary and pension provisions:\n1. In 2018, Parliament increased the President's salary from ₹1.50 lakh to ₹5 lakh per month.\n2. In 2008, the pension of a retired President was increased to 50% of his/her salary per month.\n3. The spouse of a deceased President is entitled to a family pension at the rate of 50% of the pension of a retired President.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — these figures trace the escalating financial provisions made for the President and their family, reflecting periodic parliamentary revisions to compensation and post-retirement benefits for this office."
+      },
+      {
+        "q": "Consider the following statements about the President's personal immunity from legal proceedings:\n1. The President is immune from any criminal proceedings during the term of office, even in respect of personal acts.\n2. The President cannot be arrested or imprisoned during the term of office.\n3. Civil proceedings can never be instituted against the President in respect of personal acts, even after giving notice.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — civil proceedings CAN be instituted against the President during the term of office in respect of personal acts, but only AFTER giving two months' advance notice; it is not an absolute, permanent immunity from civil suits. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about vacancy scenarios and the mechanism to prevent an 'interregnum' in the presidency:\n1. If a delay occurs in conducting a new presidential election due to any reason, the outgoing President continues in office beyond the five-year term until a successor assumes charge.\n2. In this specific interregnum-prevention scenario, the Vice-President gets the opportunity to act as President instead of the outgoing President continuing.\n3. If the vacancy instead arises from resignation, removal, or death, the Vice-President does act as President until a new President is elected.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — in this SPECIFIC scenario (delay in conducting an election to replace a President whose TERM is expiring), the OUTGOING PRESIDENT continues, and the Vice-President does NOT get the opportunity to act as President; the Vice-President's acting role is reserved for the DIFFERENT scenario of resignation/removal/death. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the D.C. Wadhwa case (1986) concerning the Bihar Governor's ordinance-making practice:\n1. Between 1967 and 1981, the Bihar Governor promulgated 256 ordinances.\n2. These ordinances were kept in force for periods ranging from one to fourteen years through repeated re-promulgation.\n3. The Supreme Court held that this practice amounted to violation of the Constitution and that such repromulgated ordinances are liable to be struck down.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — the sheer scale (256 ordinances) and duration (up to fourteen years without ever being converted into proper legislation) of this practice is precisely what led the Supreme Court to intervene and establish that ordinance power cannot substitute for genuine legislative action."
+      },
+      {
+        "q": "Consider the following statements about the President's power to seek advice from the Supreme Court under Article 143:\n1. The President can seek the Supreme Court's advice on any question of law or fact.\n2. The advice tendered by the Supreme Court under this provision is binding on the President.\n3. This is classified as one of the President's judicial powers and functions.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Supreme Court's advice under Article 143 is explicitly NOT binding on the President, who remains free to act differently after receiving it. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the President's executive powers relating to appointments:\n1. The President appoints the Attorney General of India and determines his/her remuneration.\n2. The President appoints the Comptroller and Auditor General, the Chief Election Commissioner, and the Chairman and members of the UPSC.\n3. The Attorney General holds office for a fixed five-year term, unlike other presidential appointees who serve at pleasure.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the Attorney General holds office DURING THE PLEASURE OF THE PRESIDENT, with no fixed five-year term specified; this differs from claiming a fixed term distinct from other appointees. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the President's power to seek information from the Prime Minister:\n1. The President can seek any information relating to the administration of Union affairs and proposals for legislation from the Prime Minister.\n2. The President can require the Prime Minister to submit for the council of ministers' consideration any matter decided by a single minister but not yet considered by the full council.\n3. These powers are entirely discretionary and require no cooperation from the Prime Minister to be exercised effectively.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 overstates presidential autonomy here — while the President CAN make these requests, the underlying constitutional design (Article 78, mirrored in these executive powers) presumes cooperative compliance from the Prime Minister as part of the ordinary functioning of aid-and-advice, not a purely unilateral presidential capability. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the President's diplomatic and military powers:\n1. International treaties and agreements are negotiated and concluded on behalf of the President, subject to Parliament's approval.\n2. The President, as supreme commander of the defence forces, personally leads military operations during wartime.\n3. The President can declare war or conclude peace, subject to the approval of Parliament.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — while the President holds the ceremonial title of supreme commander and appoints the service chiefs, the book does not describe the President as personally leading military operations; actual command and operational leadership rests with the armed forces' own chain of command. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the President's power to appoint a commission for backward classes and an inter-state council:\n1. The President can appoint a commission to investigate the conditions of backward classes.\n2. The President can appoint an inter-state council to promote Centre-state and inter-state cooperation.\n3. Both of these powers are classified under the President's judicial powers rather than executive powers.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — both the backward classes commission and the inter-state council appointment powers are classified under the President's EXECUTIVE powers and functions, not judicial powers. Statements 1 and 2 are correct."
       }
     ]
   }

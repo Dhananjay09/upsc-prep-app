@@ -482,6 +482,138 @@
         ],
         "a": 0,
         "e": "Statement 2 is incorrect — Sikkim was added as the EIGHTH member only in 2002, three decades after the Council's 1972 formation with its original seven members (Assam, Manipur, Mizoram, Arunachal Pradesh, Nagaland, Meghalaya, Tripura). Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the River Boards Act, 1956:\n1. It provides for the establishment of river boards for the regulation and development of inter-state rivers and river valleys.\n2. A river board is established by the Central government purely at its own discretion, without any request from the concerned states.\n3. It is one of two laws Parliament enacted under Article 262.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — a river board is established by the Central government specifically ON THE REQUEST of the concerned state governments, not purely at its own unilateral discretion. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the composition of the Inter-State Council established in 1990:\n1. It includes six Central cabinet ministers, including the Home Minister, nominated by the Prime Minister.\n2. It includes five additional Ministers of Cabinet rank/Minister of State (independent charge) as permanent invitees.\n3. Chief Ministers of Union Territories without legislative assemblies are members, while administrators of such UTs are excluded entirely.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and reverses the actual composition — it is the ADMINISTRATORS of Union Territories WITHOUT legislative assemblies who are members (since such UTs, by definition, have no elected chief minister); UTs WITH legislative assemblies are instead represented by their chief ministers. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Standing Committee of the Inter-State Council:\n1. It was established in 1996 for continuous consultation and processing of matters for the Council's consideration.\n2. It is chaired by the Union Home Minister and includes five Union Cabinet Ministers and nine Chief Ministers.\n3. It replaced the main Inter-State Council entirely, rendering the latter defunct.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the Standing Committee supplements rather than replaces the main Council; it exists specifically to assist ongoing consultation and processing of matters FOR the Council's consideration, not to make the Council itself defunct. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the 'Full Faith and Credit' clause's treatment of judicial proceedings:\n1. Final judgements and orders of civil courts anywhere in India can be executed anywhere in India without a fresh suit upon the judgement.\n2. This rule extends equally to criminal judgements, requiring one state's courts to enforce another state's penal laws.\n3. Parliament has the power to lay down the mode of proof for public acts, records and proceedings of one state in another.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the rule applies ONLY to civil judgements; it does NOT require the courts of one state to enforce another state's PENAL (criminal) laws. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about Parliament's power to appoint an authority for inter-state trade and commerce:\n1. Parliament can appoint an appropriate authority to carry out the purposes of Articles 301 to 304.\n2. Such an authority, once appointed, would be known in India as the 'Inter-State Commerce Commission', mirroring the American body of the same name.\n3. As of the book's writing, no such authority has actually been appointed in India.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the book notes that IN THE USA such a body is called the 'Inter-State Commerce Commission'; it does NOT state that an equivalent Indian body, if appointed, would necessarily bear this same name. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the factors considered while forming India's Zonal Councils:\n1. Natural divisions of the country and river systems were among the factors considered.\n2. Cultural and linguistic affinity was a relevant factor.\n3. Population size alone was the single decisive factor overriding all others.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the book lists MULTIPLE factors (natural divisions, river systems, communication means, cultural/linguistic affinity, and economic development/security/law-and-order requirements) with no single decisive factor identified as overriding all others. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the advisory members of Zonal Councils:\n1. A person nominated by NITI Aayog, the chief secretary of each state in the zone, and the development commissioner of each state in the zone can be associated as advisors.\n2. These advisors have full voting rights equal to regular members in Zonal Council meetings.\n3. The Union Home Minister serves as the common chairman across all five Zonal Councils.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — these advisors are explicitly WITHOUT the right to vote in Zonal Council meetings; they serve in an advisory capacity only. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the objectives of Zonal Councils:\n1. They aim to achieve emotional integration of the country.\n2. They aim to help arrest the growth of acute state-consciousness, regionalism, and linguism.\n3. They possess binding legislative authority over member states in matters of economic and social planning.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — Zonal Councils are purely deliberative and advisory bodies; they possess no binding legislative authority over member states on any subject, including economic and social planning. Statements 1 and 2 correctly describe genuine objectives listed in the book."
+      },
+      {
+        "q": "Match List-I (Zonal Council) with List-II (Headquarters) and select the correct answer using the code below.\nList-I:\nA. Northern Zonal Council\nB. Central Zonal Council\nC. Eastern Zonal Council\nD. Western Zonal Council\nList-II:\n1. Kolkata\n2. Mumbai\n3. New Delhi\n4. Prayagraj",
+        "o": [
+          "A-3, B-4, C-1, D-2",
+          "A-3, B-1, C-4, D-2",
+          "A-2, B-4, C-1, D-3",
+          "A-3, B-4, C-2, D-1"
+        ],
+        "a": 0,
+        "e": "Northern Zonal Council = New Delhi; Central Zonal Council = Prayagraj; Eastern Zonal Council = Kolkata; Western Zonal Council = Mumbai. Correct code: A-3, B-4, C-1, D-2."
+      },
+      {
+        "q": "Consider the following statements about the North-Eastern Council's functions compared to ordinary Zonal Councils:\n1. It must formulate a unified and coordinated regional plan covering matters of common importance to its member states.\n2. This planning function is identical to a function performed by all five ordinary Zonal Councils as well.\n3. It has no role whatsoever in matters of security or public order within its member states.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "Only 1",
+          "1 and 2",
+          "2 and 3",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Only statement 1 is correct. Statement 2 is incorrect — the book describes this unified regional planning function as an ADDITIONAL function specific to the North-Eastern Council, beyond what ordinary Zonal Councils do. Statement 3 is also incorrect — the Council DOES review measures for maintaining security and public order in the region, contrary to having 'no role whatsoever'."
+      },
+      {
+        "q": "Consider the following statements about the legal status and article-based backing of various inter-state cooperation mechanisms:\n1. The Inter-State Council derives its existence from Article 263 of the Constitution.\n2. The Zonal Councils derive their existence from the States Reorganisation Act, 1956, a parliamentary statute rather than a direct constitutional provision.\n3. Both mechanisms therefore have identical constitutional status and legal force.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the two mechanisms have DIFFERENT legal foundations: the Inter-State Council is a constitutional body (Article 263), while the Zonal Councils are statutory bodies (created by ordinary parliamentary legislation), meaning they do not share identical constitutional status. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the timeline of inter-state cooperation mechanisms in India:\n1. The Zonal Councils (1956) predate the formal establishment of the Inter-State Council (1990) by over three decades.\n2. The North-Eastern Council (1971-72) was established before the Inter-State Council but after the Zonal Councils.\n3. All three mechanisms — Zonal Councils, North-Eastern Council, and Inter-State Council — were established under the exact same constitutional Article.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — only the Inter-State Council derives from Article 263; the Zonal Councils and North-Eastern Council are both creations of separate ORDINARY PARLIAMENTARY ACTS (States Reorganisation Act, 1956 and North-Eastern Council Act, 1971 respectively), not the same constitutional article. Statements 1 and 2 are correct."
       }
     ]
   }

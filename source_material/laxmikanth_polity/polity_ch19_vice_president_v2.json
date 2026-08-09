@@ -416,6 +416,171 @@
         ],
         "a": 0,
         "e": "All three statements are correct, drawing directly from the book's election table — Dr. Radhakrishnan was elected unopposed twice (elections 1 and 2) and also served a second term; M. Hidayatullah was also elected unopposed (election 7), showing unopposed elections have occurred more than once in Vice-Presidential history."
+      },
+      {
+        "q": "Match List-I (Article) with List-II (Subject Matter) and select the correct answer using the code below.\nList-I:\nA. Article 63\nB. Article 64\nC. Article 66\nD. Article 69\nList-II:\n1. Election of Vice-President\n2. The Vice-President of India\n3. Oath or affirmation by the Vice-President\n4. The Vice-President to be ex-officio Chairman of the Council of States",
+        "o": [
+          "A-2, B-4, C-1, D-3",
+          "A-1, B-2, C-4, D-3",
+          "A-2, B-1, C-4, D-3",
+          "A-4, B-2, C-3, D-1"
+        ],
+        "a": 0,
+        "e": "Article 63 establishes the office of Vice-President; Article 64 makes the Vice-President ex-officio Chairman of the Council of States (Rajya Sabha); Article 66 deals with election of the Vice-President; Article 69 deals with the oath or affirmation. Correct code: A-2, B-4, C-1, D-3."
+      },
+      {
+        "q": "Consider the following statements about unopposed elections to the office of Vice-President:\n1. Dr. S. Radhakrishnan was elected unopposed on two separate occasions.\n2. M. Hidayatullah was also elected unopposed.\n3. Dr. Shankar Dayal Sharma was elected unopposed as Vice-President as well.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct, based on the book's election table — Dr. Radhakrishnan (twice), M. Hidayatullah, and Dr. Shankar Dayal Sharma were all elected unopposed as Vice-President at different points in India's history, showing unopposed elections have occurred multiple times for this office."
+      },
+      {
+        "q": "Consider the following statements about Mohammad Hamid Ansari's tenure as Vice-President:\n1. He served two consecutive terms as Vice-President.\n2. His two main rival candidates across these two elections were Najma Heptullah and Jaswant Singh respectively.\n3. He is the only Vice-President in India's history to have served more than one term.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — Dr. S. Radhakrishnan was ALSO elected for a second term as Vice-President (as explicitly noted in the book's footnotes), meaning Hamid Ansari is not the only one to have served more than one term. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about salary revisions for the Vice-President (in the capacity of Rajya Sabha Chairman):\n1. In 2018, Parliament increased the Chairman's salary from ₹1.25 lakh to ₹4 lakh per month.\n2. This revision was made through the Finance Act, 2018, with effect from 1st January 2016.\n3. This revision amended the Salaries and Allowances of Officers of Parliament Act, 1953.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — this mirrors the same 2018 Finance Act mechanism (with retrospective effect from 2016) used to revise the President's salary, applied here specifically to the Rajya Sabha Chairman's compensation, which is how the Vice-President is actually paid."
+      },
+      {
+        "q": "Consider the following statements about the Vice-President's Pension (Amendment) Act, 2008:\n1. It increased the pension of a retired Vice-President from ₹20,000 per month to 50% of his/her salary per month.\n2. This amendment updated the Vice-President's Pension Act, 1997.\n3. It also introduced, for the first time, any pension entitlement whatsoever for a retired Vice-President.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the 2008 Act INCREASED an already-existing pension (from ₹20,000/month to 50% of salary), it did not introduce pension entitlement for the first time, since the underlying Vice-President's Pension Act already existed from 1997. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Assertion (A): Dr. S. Radhakrishnan discharged the functions of the President on two separate occasions in 1960 and 1961.\nReason (R): Both occasions arose because the sitting President, Dr. Rajendra Prasad, was temporarily unable to discharge his functions — once due to a foreign tour and once due to illness — rather than because of any vacancy in the presidential office.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — Radhakrishnan's 1960 (15-day USSR tour) and 1961 (illness) instances were both cases of TEMPORARY presidential inability without any actual vacancy, distinguishing them from the 'acting as President' scenario that applies during genuine vacancies."
+      },
+      {
+        "q": "Consider the following statements about the historical timeline of Vice-Presidents who later became President:\n1. Dr. S. Radhakrishnan served as Vice-President before becoming President.\n2. V.V. Giri and B.D. Jatti both acted as President following the deaths of sitting Presidents while they were Vice-President.\n3. R. Venkataraman also transitioned from Vice-President to President.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — this reflects a historically common career pathway in Indian politics, where several individuals (Radhakrishnan, Venkataraman, and others across subsequent decades) served as Vice-President before later being elected President in their own right."
+      },
+      {
+        "q": "Consider the following statements about the removal procedure for the Vice-President compared to ordinary legislative resolutions:\n1. The removal resolution requires a majority of ALL THEN MEMBERS of the Rajya Sabha, which is a stricter threshold than a simple majority of members present and voting.\n2. The Lok Sabha's agreement to such a resolution requires only a simple majority of members present and voting.\n3. This asymmetry means the Rajya Sabha's threshold for removal is actually higher than the Lok Sabha's.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — an 'effective majority' (majority of ALL members, not just those present and voting) is indeed a stricter threshold than an ordinary simple majority, meaning the Rajya Sabha's bar for initiating removal is set deliberately higher than the Lok Sabha's bar for concurring with it."
+      },
+      {
+        "q": "Consider the following statements about the timing flexibility in filling Vice-Presidential vacancies:\n1. When a vacancy arises from the expiry of the sitting Vice-President's term, the election must be completed before the term expires.\n2. When a vacancy arises from resignation, removal, or death, the Constitution requires the election to be held 'as soon as possible', without a fixed numerical deadline.\n3. This contrasts with the President's vacancy rules, which do specify a fixed six-month deadline for elections following resignation, removal, or death.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — this is a genuine textual difference between Articles 62 (President) and 68 (Vice-President): the President's vacancy-filling timeline is fixed at six months, while the Vice-President's is left to the more flexible 'as soon as possible' standard."
+      },
+      {
+        "q": "Consider the following statements about the Vice-President's role during the President's temporary inability to act:\n1. This scenario is governed by a different constitutional mechanism than the 'acting as President' scenario triggered by an actual vacancy.\n2. During this temporary-inability scenario, the Vice-President is also barred from performing the duties of the Rajya Sabha Chairman.\n3. The Deputy Chairman of the Rajya Sabha steps in during both the vacancy-based 'acting as President' scenario and the temporary-inability scenario.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — regardless of WHICH scenario triggers the Vice-President's presidential duties (genuine vacancy or temporary inability), the practical consequence for the Rajya Sabha's leadership is identical: the Deputy Chairman takes over chairmanship duties in both cases."
+      },
+      {
+        "q": "Consider the following statements comparing the electoral college compositions for the President and Vice-President with respect to nominated members:\n1. Nominated members of the Rajya Sabha and Lok Sabha DO participate in electing the Vice-President.\n2. Nominated members of the Rajya Sabha and Lok Sabha do NOT participate in electing the President.\n3. This asymmetry directly reflects the difference in scope between the two offices' normal constitutional functions, as explained by Dr. Ambedkar.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct and consolidate the chapter's central theme — nominated MPs vote for the Vice-President but not the President, an asymmetry Ambedkar explicitly tied to the narrower, Rajya-Sabha-focused scope of the Vice-President's ordinary functions versus the President's broader Centre-and-state authority."
+      },
+      {
+        "q": "Consider the following statements about the office of Vice-President and the historical precedent it maintains:\n1. The office was created with a view to maintain the political continuity of the Indian State.\n2. Despite this stated purpose, the Constitution assigns the Vice-President no truly significant independent function in that specific capacity.\n3. This combination has led some scholars to use the somewhat dismissive label 'His Superfluous Highness' for the office.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct and directly connect the office's stated purpose (political continuity) with the critical assessment of its actual, limited constitutional weight — a tension the book explicitly draws out through this scholarly label."
+      },
+      {
+        "q": "Consider the following statements about the 11th Constitutional Amendment Act, 1961's effect on the Vice-Presidential election procedure:\n1. Before this amendment, the Vice-President was elected by the two Houses of Parliament assembled at a joint meeting.\n2. This joint-meeting procedure was described in the book as 'cumbersome'.\n3. The amendment eliminated the joint-meeting requirement while retaining an electoral college confined to Parliament (both Houses, but not assembled jointly).\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — the 11th Amendment simplified the PROCEDURE (removing the need for an actual joint sitting) while the electoral college's fundamental COMPOSITION (both Houses of Parliament, elected and nominated members) remained essentially the same as before."
+      },
+      {
+        "q": "Consider the following statements about Krishna Kant's significance in Vice-Presidential history:\n1. He was the first Vice-President to die while in office.\n2. His death necessitated the application of the Constitution's vacancy-filling provisions specific to the Vice-President's office.\n3. Following his death, a Vice-President-elect automatically succeeded him without a fresh election, mirroring the American system.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — there is no such 'automatic succession' mechanism for the Vice-Presidency in India; a fresh election (to be held 'as soon as possible') is required to fill any Vice-Presidential vacancy, including one caused by death, with no equivalent to American-style automatic succession even for this office. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the overall structural relationship between the Vice-President's two constitutional roles:\n1. The Rajya Sabha Chairmanship role is a permanent, ongoing function throughout the full five-year term.\n2. The 'acting as President' role is an exceptional, temporary function that arises only under specific triggering conditions and is capped at six months.\n3. Both roles can be exercised simultaneously by the Vice-President at the same time.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the two roles are explicitly MUTUALLY EXCLUSIVE; while acting as President, the Vice-President does NOT perform Rajya Sabha Chairman duties (which fall to the Deputy Chairman instead), meaning both roles cannot be exercised simultaneously. Statements 1 and 2 are correct."
       }
     ]
   }

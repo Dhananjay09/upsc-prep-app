@@ -669,6 +669,94 @@
         ],
         "a": 0,
         "e": "Statement 3 overstates the GST Council's legal character — the book describes it as a body that 'makes recommendations', and while these recommendations carry significant weight and are the basis for practical GST administration, the chapter does not characterise them as absolutely and unconditionally binding in all circumstances. Statements 1 and 2 correctly describe genuine functions of the Council."
+      },
+      {
+        "q": "Consider the following statements about restrictions on Parliament's territorial jurisdiction:\n1. The Governor can direct that an Act of Parliament not apply to a scheduled area in the state, or apply with modifications.\n2. The Governor of Assam can similarly direct that an Act of Parliament not apply to a tribal area (autonomous district) in the state.\n3. The President enjoys the same power as the Governor of Assam with respect to tribal areas in Meghalaya, Tripura and Mizoram.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — these represent specific, named exceptions to Parliament's otherwise plenary territorial jurisdiction over the whole of India, carving out scheduled areas and specific north-eastern tribal areas for special gubernatorial or presidential control over the applicability of central laws."
+      },
+      {
+        "q": "Consider the following statements about the integrated judicial system's provision for common High Courts:\n1. Parliament can establish a common High Court for two or more states.\n2. Maharashtra and Goa share a common High Court, as do Punjab and Haryana.\n3. Judges of a state High Court are appointed by the Governor in consultation with the Chief Justice of India.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — High Court judges are appointed by the <b>President</b>, in consultation with the Chief Justice of India and the Governor of the state, not by the Governor alone. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Administrative Reforms Commission's (1966-69) recommendations on Centre-state relations:\n1. It was chaired by Morarji Desai, followed by K. Hanumanthayya.\n2. It recommended establishment of an Inter-State Council under Article 263.\n3. All of its recommendations were promptly implemented by the Central government.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the book explicitly states 'no action was taken by the Central government' on the ARC's recommendations, despite it making 22 recommendations for improving Centre-state relations. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the West Bengal Memorandum (1977):\n1. It was published by a Communist-led West Bengal government.\n2. It proposed that 75% of total Central revenue should be allocated to the states.\n3. The Central government fully accepted and implemented the demands made in this memorandum.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the book explicitly states the Central government 'did not accept the demands' made in the West Bengal Memorandum. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Anandpur Sahib Resolution (1973):\n1. It was adopted by the Akali Dal at a meeting in Punjab.\n2. It contained both political and religious demands.\n3. It sought to increase, rather than restrict, the Centre's jurisdiction over subjects beyond defence, foreign affairs, communications and currency.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and reverses the resolution's actual demand — it sought to RESTRICT the Centre's jurisdiction to only defence, foreign affairs, communications and currency, vesting all residuary power in the states, not expand Central jurisdiction. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about Article 263 and councils established by the President under it:\n1. The President has established the Central Council of Health and Family Welfare and the Central Council of Local Government under Article 263.\n2. Four Regional Councils for Sales Tax have also been established under this provision.\n3. The Inter-State Council established in 1990 is the only body ever created under Article 263.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — multiple bodies have been established under Article 263 besides the Inter-State Council, including the Central Council of Health and Family Welfare, Central Council of Local Government, and four Regional Councils for Sales Tax. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the taxing powers allocation under the Constitution:\n1. The Union List contains 13 taxation entries, while the State List contains 18.\n2. There are tax entries in the Concurrent List covering income tax and corporation tax.\n3. The 101st Amendment Act, 2016 created an exception to the 'no concurrent taxation' rule specifically for GST.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — there are NO tax entries in the Concurrent List (income tax and corporation tax are actually Union List subjects); the book explicitly notes 'there are no tax entries in the Concurrent List' as the general rule, with GST as the sole exception introduced later. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about protection of states' financial interests in Parliament:\n1. A bill imposing or varying a tax in which states are interested can be introduced only on the President's recommendation.\n2. The Comptroller and Auditor-General's certificate on 'net proceeds' of a tax is final.\n3. A bill affecting the principles on which money is distributable to states can be introduced without any special presidential involvement.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — such a bill (affecting distribution principles) is specifically listed among the categories requiring the President's PRIOR recommendation before introduction, not something introduced without special involvement. Statements 1 and 2 are correct."
       }
     ]
   }
