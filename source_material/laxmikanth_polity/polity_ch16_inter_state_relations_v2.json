@@ -1,0 +1,488 @@
+{
+  "id": "inter_state_relations",
+  "title": "Inter-State Relations",
+  "desc": "Inter-state water disputes, the Inter-State Council, the Full Faith and Credit clause, freedom of inter-state trade and commerce, and the Zonal Councils including the North-Eastern Council",
+  "questions": {
+    "basic": [
+      {
+        "q": "Which Article of the Constitution provides for the adjudication of inter-state water disputes?",
+        "o": [
+          "Article 262",
+          "Article 263",
+          "Article 301",
+          "Article 356"
+        ],
+        "a": 0,
+        "e": "<b>Article 262</b> makes two provisions: Parliament may by law provide for adjudication of inter-state river water disputes, and Parliament may also provide that neither the Supreme Court nor any other court shall have jurisdiction over such disputes — effectively allowing Parliament to oust ordinary judicial review in favour of specialised tribunals."
+      },
+      {
+        "q": "Which two laws did Parliament enact under Article 262 to deal with inter-state river water disputes?",
+        "o": [
+          "The River Boards Act (1956) and the Inter-State River Water Disputes Act (1956)",
+          "The Water Prevention and Control of Pollution Act (1974) and the Environment Protection Act (1986)",
+          "The States Reorganisation Act (1956) and the North-Eastern Council Act (1971)",
+          "The Essential Commodities Act (1955) and the Inter-State Commerce Act (1957)"
+        ],
+        "a": 0,
+        "e": "Parliament enacted the <b>River Boards Act (1956)</b>, which provides for establishing river boards (at states' request) to advise on regulation and development of inter-state rivers, and the <b>Inter-State River Water Disputes Act (1956)</b>, which empowers the Centre to set up ad hoc tribunals whose decisions are final and binding, with courts barred from exercising jurisdiction over such referred disputes."
+      },
+      {
+        "q": "Which body's decision, once set up under the Inter-State River Water Disputes Act, is final and binding on the disputing states, with no court having jurisdiction over the matter?",
+        "o": [
+          "An ad hoc tribunal",
+          "The Supreme Court",
+          "The Inter-State Council",
+          "The Zonal Council"
+        ],
+        "a": 0,
+        "e": "An <b>ad hoc tribunal</b>, set up by the Central government under the Inter-State River Water Disputes Act (1956), gives a final and binding decision — and notably, once a dispute is referred to such a tribunal, NEITHER the Supreme Court nor any other court has jurisdiction over it."
+      },
+      {
+        "q": "Which four states are involved in the Cauvery Water Disputes Tribunal, as listed in the chapter's table?",
+        "o": [
+          "Karnataka, Kerala, Tamil Nadu and Puducherry",
+          "Maharashtra, Karnataka and Andhra Pradesh",
+          "Punjab, Haryana and Rajasthan",
+          "Rajasthan, Gujarat, Madhya Pradesh and Maharashtra"
+        ],
+        "a": 0,
+        "e": "The <b>Cauvery Water Disputes Tribunal</b> involves <b>Karnataka, Kerala, Tamil Nadu and Puducherry</b> — one of nine inter-state water dispute tribunals listed in the chapter, reflecting the recurring and often contentious nature of river-water sharing among Indian states."
+      },
+      {
+        "q": "Which Article empowers the President to establish an Inter-State Council whenever it appears that public interest would be served by its establishment?",
+        "o": [
+          "Article 263",
+          "Article 262",
+          "Article 280",
+          "Article 312"
+        ],
+        "a": 0,
+        "e": "<b>Article 263</b> empowers the President to establish an Inter-State Council to effect coordination between states and between the Centre and states, and to define its duties, organisation and procedure — though the President's discretion in defining duties operates within the specific menu of functions the Article itself lists."
+      },
+      {
+        "q": "Which Prime Minister's government actually established the Inter-State Council in 1990, following the Sarkaria Commission's recommendation?",
+        "o": [
+          "V.P. Singh's government",
+          "Indira Gandhi's government",
+          "Rajiv Gandhi's government",
+          "Morarji Desai's government"
+        ],
+        "a": 0,
+        "e": "The <b>Janata Dal Government headed by V.P. Singh</b> established the Inter-State Council in 1990 via the Inter-State Council Order dated May 28, 1990 — implementing a recommendation the Sarkaria Commission had made just a couple of years earlier."
+      },
+      {
+        "q": "Who serves as the Chairman of the Inter-State Council?",
+        "o": [
+          "The Prime Minister",
+          "The President",
+          "The Union Home Minister",
+          "The Chief Justice of India"
+        ],
+        "a": 0,
+        "e": "The <b>Prime Minister</b> chairs the Inter-State Council. Its other members include chief ministers of all states, chief ministers of UTs with legislative assemblies, administrators of UTs without legislative assemblies, governors of states under President's Rule, and six Central cabinet ministers nominated by the PM."
+      },
+      {
+        "q": "Since which year has the Inter-State Council Secretariat also functioned as the secretariat of the Zonal Councils?",
+        "o": [
+          "2011",
+          "1990",
+          "1996",
+          "1971"
+        ],
+        "a": 0,
+        "e": "The Inter-State Council Secretariat, originally set up in 1991, has also functioned as the secretariat of the <b>Zonal Councils since 2011</b> — a practical administrative consolidation bringing India's two major inter-state coordination mechanisms under shared secretarial support."
+      },
+      {
+        "q": "In how many meetings per year is the Inter-State Council supposed to meet at least, and how are its decisions taken?",
+        "o": [
+          "At least thrice a year, decided by consensus",
+          "At least once a year, decided by majority vote",
+          "At least twice a year, decided by the Prime Minister alone",
+          "There is no fixed frequency and decisions are taken by the President"
+        ],
+        "a": 0,
+        "e": "The Council meets <b>at least thrice a year</b>, with meetings held in camera (privately) and all questions decided by <b>consensus</b> rather than majority voting — reflecting its character as a body for consultation and coordination rather than adversarial decision-making."
+      },
+      {
+        "q": "What is the constitutional clause called that requires full faith and credit to be given throughout India to public acts, records and judicial proceedings of the Centre and every state?",
+        "o": [
+          "The 'Full Faith and Credit' clause",
+          "The 'Equal Protection' clause",
+          "The 'Due Process' clause",
+          "The 'Supremacy' clause"
+        ],
+        "a": 0,
+        "e": "This is called the '<b>Full Faith and Credit</b>' clause. Since each state's jurisdiction is otherwise confined to its own territory, this clause ensures that public acts (legislative and executive), official records, and judicial proceedings of one state are recognised throughout India, preventing legal fragmentation."
+      },
+      {
+        "q": "Does the 'Full Faith and Credit' rule requiring execution of civil court judgements anywhere in India also apply to criminal judgements?",
+        "o": [
+          "No, it applies only to civil judgements, not criminal ones",
+          "Yes, it applies equally to both civil and criminal judgements",
+          "No, it applies only to criminal judgements",
+          "It applies to neither civil nor criminal judgements"
+        ],
+        "a": 0,
+        "e": "The rule applies <b>only to civil judgements</b> — final civil court judgements/orders can be executed anywhere in India without a fresh suit. It does NOT require courts of one state to enforce the PENAL (criminal) laws of another state, a meaningful limitation on the scope of inter-state judicial cooperation."
+      },
+      {
+        "q": "Which Article declares that trade, commerce and intercourse throughout the territory of India shall be free?",
+        "o": [
+          "Article 301",
+          "Article 302",
+          "Article 262",
+          "Article 356"
+        ],
+        "a": 0,
+        "e": "<b>Article 301</b> declares this freedom, aiming to break down border barriers between states and create a single economic unit. Notably, this freedom is not limited to inter-state trade — it also extends to INTRA-state trade, commerce and intercourse, meaning even restrictions within a single state can violate Article 301."
+      },
+      {
+        "q": "Under Article 302, who can impose restrictions on the freedom of trade, commerce and intercourse in the public interest?",
+        "o": [
+          "Parliament",
+          "Only state legislatures",
+          "Only the President personally",
+          "Only the Supreme Court"
+        ],
+        "a": 0,
+        "e": "<b>Parliament</b> can impose such restrictions in the public interest under Article 302, but it CANNOT give preference to one state over another or discriminate between states, except specifically in cases of scarcity of goods in any part of India."
+      },
+      {
+        "q": "A bill imposing reasonable restrictions on inter-state trade by a state legislature can be introduced only with whose previous sanction?",
+        "o": [
+          "The President's",
+          "The Prime Minister's",
+          "The Governor's, without any other approval",
+          "The Chief Justice of India's"
+        ],
+        "a": 0,
+        "e": "Such a bill requires the <b>previous sanction of the President</b> before it can even be introduced in the state legislature — another instance of Central oversight over state legislative action that could otherwise fragment India's internal common market."
+      },
+      {
+        "q": "Which Act of Parliament established the Zonal Councils, dividing the country into five zones?",
+        "o": [
+          "States Reorganisation Act, 1956",
+          "North-Eastern Council Act, 1971",
+          "Inter-State River Water Disputes Act, 1956",
+          "River Boards Act, 1956"
+        ],
+        "a": 0,
+        "e": "The <b>States Reorganisation Act, 1956</b> established the Zonal Councils, dividing the country into five zones — Northern, Central, Eastern, Western and Southern — each with its own council to promote inter-state cooperation within that region."
+      },
+      {
+        "q": "Are the Zonal Councils constitutional bodies or statutory bodies?",
+        "o": [
+          "Statutory bodies, established by an Act of Parliament",
+          "Constitutional bodies, established directly by the Constitution",
+          "Extra-legal advisory bodies with no legal basis",
+          "Judicial bodies established by the Supreme Court"
+        ],
+        "a": 0,
+        "e": "The Zonal Councils are <b>statutory</b> (not constitutional) bodies, created by the States Reorganisation Act, 1956 — an important distinction from bodies like the Finance Commission or Inter-State Council, which have direct constitutional backing under specific Articles."
+      },
+      {
+        "q": "Who serves as the common chairman of all five Zonal Councils?",
+        "o": [
+          "The Union Home Minister",
+          "The Prime Minister",
+          "The President",
+          "A rotating Chief Minister"
+        ],
+        "a": 0,
+        "e": "The <b>Union Home Minister</b> serves as the common chairman of all five Zonal Councils, while each state's Chief Minister acts as vice-chairman of their respective council BY ROTATION, holding that position for one year at a time."
+      },
+      {
+        "q": "Which separate Act created the North-Eastern Council, distinct from the five Zonal Councils created under the States Reorganisation Act?",
+        "o": [
+          "North-Eastern Council Act, 1971",
+          "States Reorganisation Act, 1956",
+          "River Boards Act, 1956",
+          "Inter-State River Water Disputes Act, 1956"
+        ],
+        "a": 0,
+        "e": "The <b>North-Eastern Council Act, 1971</b> created this separate body (which came into existence on August 8, 1972), covering north-eastern states with functions similar to the Zonal Councils but with added responsibilities like formulating a unified regional plan and reviewing security/public order measures."
+      },
+      {
+        "q": "Which state was added as the eighth member of the North-Eastern Council in 2002?",
+        "o": [
+          "Sikkim",
+          "Assam",
+          "Tripura",
+          "Nagaland"
+        ],
+        "a": 0,
+        "e": "<b>Sikkim</b> was added as the eighth member of the North-Eastern Council in 2002, joining the original members: Assam, Manipur, Mizoram, Arunachal Pradesh, Nagaland, Meghalaya, and Tripura."
+      },
+      {
+        "q": "Which city serves as the headquarters of the Southern Zonal Council?",
+        "o": [
+          "Chennai",
+          "Mumbai",
+          "Kolkata",
+          "New Delhi"
+        ],
+        "a": 0,
+        "e": "<b>Chennai</b> is the headquarters of the Southern Zonal Council, whose members are Andhra Pradesh, Telangana, Karnataka, Tamil Nadu, Kerala and Puducherry — reflecting the geographic organisation the book lays out for all five zones."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements about the constitutional provisions for inter-state comity:\n1. Adjudication of inter-state water disputes is one of the listed provisions.\n2. Freedom of inter-state trade, commerce and intercourse is one of the listed provisions.\n3. All these provisions were introduced only by the 101st Amendment Act, 2016.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — these provisions (inter-state water disputes, inter-state councils, mutual recognition of acts/records, freedom of trade) are original features of the Constitution from 1950, not additions from the 2016 GST-related amendment. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the River Boards Act (1956) and the Inter-State River Water Disputes Act (1956):\n1. A river board under the first Act is established by the Central government on the request of concerned state governments.\n2. The tribunal set up under the second Act gives an advisory, non-binding recommendation.\n3. Courts retain jurisdiction over water disputes even after they are referred to a tribunal under the Inter-State River Water Disputes Act.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "Only 1",
+          "1 and 2",
+          "2 and 3",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Only statement 1 is correct. Statements 2 and 3 are both incorrect — the tribunal's decision is FINAL AND BINDING (not merely advisory), and courts are specifically BARRED from exercising jurisdiction once a dispute is referred to such a tribunal."
+      },
+      {
+        "q": "Consider the following statements about the Inter-State Council's advisory function versus the Supreme Court's jurisdiction:\n1. The Council's function to enquire and advise on inter-state disputes is complementary to the Supreme Court's jurisdiction under Article 131.\n2. The Council can deal with disputes of a purely legal nature only.\n3. Unlike the Court, the Council's function is advisory rather than binding.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Council can deal with ANY controversy, whether legal or non-legal, unlike the Supreme Court under Article 131 which handles legal controversies specifically. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the composition of the Inter-State Council:\n1. It includes chief ministers of all states as members.\n2. It includes governors of states under President's Rule as members.\n3. Members of Parliament are permanently included as voting members of the Council.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — ordinary Members of Parliament are not listed among the Council's members; instead, it includes the PM (chairman), chief ministers, UT administrators, governors of President's-Rule states, and specific nominated Central cabinet ministers. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Standing Committee of the Inter-State Council:\n1. It was set up in 1996 for continuous consultation and processing of matters.\n2. Its chairman is the Prime Minister, mirroring the main Council's leadership.\n3. It includes nine Chief Ministers among its members.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Standing Committee's chairman is the <b>Union Home Minister</b>, not the Prime Minister (who chairs only the main Council). Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the 'Full Faith and Credit' clause and Parliament's role:\n1. The general rule of full faith and credit is absolute and cannot be modified by any law of Parliament.\n2. Parliament can lay down the mode of proof and effect of one state's public acts and records in another state.\n3. 'Public acts' under this clause includes both legislative and executive acts of government.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — the general rule is explicitly SUBJECT TO Parliament's power to determine the manner and conditions under which such acts, records and proceedings are proved and their effect determined; it is not an unmodifiable absolute. Statements 2 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about restrictions on the freedom of trade under Part XIII of the Constitution:\n1. Article 301's freedom applies only to inter-state trade and not to trade within a single state.\n2. A state legislature can impose a tax on goods imported from other states, provided it does not exceed the tax on similar goods manufactured within that state.\n3. The freedom under Article 301 is subject to nationalisation laws permitting state monopolies.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — the freedom under Article 301 extends to BOTH inter-state AND intra-state trade, commerce and intercourse; restrictions at any stage, not just state frontiers, can violate it. Statements 2 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the appointment of an authority to carry out Article 301-304's purposes:\n1. The Parliament is empowered to appoint such an authority.\n2. Such an authority has actually been appointed and is functioning in India today.\n3. In the USA, an equivalent body is known as the Inter-State Commerce Commission.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the book explicitly notes 'no such authority has been appointed so far' in India, despite Parliament having this power. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the composition of Zonal Councils:\n1. Each Zonal Council includes the home minister of the Central government as a member.\n2. Each Zonal Council includes two other ministers from each state in the zone, apart from the chief minister.\n3. A person nominated by the NITI Aayog can be associated with the council as a voting member.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the NITI Aayog nominee (along with chief secretaries and development commissioners of member states) can be associated with the council as an ADVISOR only, WITHOUT the right to vote in meetings. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the North-Eastern Council's additional functions compared to ordinary Zonal Councils:\n1. It must formulate a unified and coordinated regional plan covering matters of common importance.\n2. It must review measures taken by member states for maintaining security and public order in the region.\n3. It has the power to override state legislation on any subject in the Concurrent List.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the North-Eastern Council, like ordinary Zonal Councils, is a deliberative and advisory body; it has no legislative override power over the Concurrent List. Statements 1 and 2 correctly describe its genuine additional functions beyond those of the standard Zonal Councils."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "Which of the following best explains why Parliament, under Article 262, can exclude the jurisdiction of even the Supreme Court over inter-state water disputes referred to a tribunal?",
+        "o": [
+          "Because water disputes often involve highly technical, region-specific factual questions best resolved by specialised tribunals with dedicated expertise, and the Constitution deliberately gives Parliament this ouster power to prevent prolonged, potentially inconclusive litigation from destabilising inter-state relations over a resource both states depend on",
+          "Because the Supreme Court lacks any jurisdiction over state matters generally",
+          "Because water is not considered property under the Constitution",
+          "Because Article 262 was later declared unconstitutional and is no longer in force"
+        ],
+        "a": 0,
+        "e": "This unusual court-ousting power reflects a considered constitutional design choice: inter-state river disputes are recurring, technically complex, and politically sensitive (as shown by the sheer number of tribunals set up — Krishna, Godavari, Narmada, Cauvery, and more), so channelling them into specialised, final-and-binding tribunal adjudication (rather than open-ended, appealable litigation) was seen as necessary to actually resolve disputes rather than prolong them indefinitely."
+      },
+      {
+        "q": "Which of the following best explains the functional difference between the Inter-State Council's role under Article 263 and the Supreme Court's role under Article 131 in handling inter-state disputes?",
+        "o": [
+          "The Council's role is advisory and can cover both legal and non-legal (i.e., political, economic, administrative) disputes, whereas the Court's Article 131 jurisdiction gives strictly binding decisions but only on genuine legal controversies",
+          "Both bodies have identical, fully overlapping and interchangeable jurisdictions",
+          "The Council's decisions are binding on states while the Court's decisions are merely advisory",
+          "Article 131 and Article 263 both apply only to Union Territories and never to full states"
+        ],
+        "a": 0,
+        "e": "This is the key functional distinction the book draws (citing M.P. Jain): the Council's advisory jurisdiction is BROADER in subject matter (any controversy, legal or non-legal) but WEAKER in effect (advisory, not binding), while the Court's Article 131 jurisdiction is NARROWER (strictly legal controversies) but STRONGER in effect (binding judicial decision) — the two mechanisms are complementary rather than competing."
+      },
+      {
+        "q": "Which of the following best explains why Article 301's freedom of trade, commerce and intercourse extends to intra-state (not just inter-state) transactions?",
+        "o": [
+          "Because the underlying constitutional goal is to create ONE unified economic unit across all of India, meaning restrictions imposed anywhere — whether at a state's border or entirely within a single state's territory — equally threaten the free flow of trade the provision is meant to protect",
+          "Because 'intra-state' and 'inter-state' are legally identical terms with no meaningful difference",
+          "Because the Constitution originally applied Article 301 only to foreign trade, and intra-state coverage was added later by amendment",
+          "Because state legislatures have no power to regulate trade at all, making the distinction moot"
+        ],
+        "a": 0,
+        "e": "The book explicitly frames the object of Article 301 as breaking down 'border barriers between the states' to create 'one unit' for trade — but achieving genuine economic unity requires protecting against restrictions imposed at ANY point, not just state frontiers, since a restriction entirely internal to one state's territory can just as easily obstruct the national free flow of goods and services as a restriction placed specifically at a border crossing."
+      },
+      {
+        "q": "Which of the following best explains why the book distinguishes between Parliament's power to restrict trade (Article 302) and a state legislature's power to do the same (Article 304), despite both requiring 'public interest'?",
+        "o": [
+          "Parliament can impose restrictions without needing prior presidential sanction and may discriminate between states specifically in cases of goods scarcity, while a state legislature needs the President's previous sanction before even introducing such a bill and can never discriminate between states under any circumstance, including scarcity",
+          "Both provisions are functionally identical with no meaningful procedural or substantive differences",
+          "Only Parliament, never a state legislature, can impose any restriction on trade under any article",
+          "State legislatures have broader discretion than Parliament to discriminate between states"
+        ],
+        "a": 0,
+        "e": "The asymmetry reflects the Centre's structurally privileged position: Parliament can restrict trade in the public interest and is permitted a LIMITED exception to non-discrimination (scarcity of goods), while a state legislature faces a procedural hurdle (mandatory prior presidential sanction just to introduce the bill) and an ABSOLUTE prohibition on inter-state discrimination with no scarcity exception — ensuring individual states cannot use trade restrictions as tools of economic favoritism against other states."
+      },
+      {
+        "q": "Which of the following best explains why the Zonal Councils, despite lacking constitutional status, are still considered institutionally significant for India's federal system?",
+        "o": [
+          "Even as purely statutory, deliberative and advisory bodies, they bring together the Centre and multiple states within a defined region to address genuinely regional concerns (linguistic minorities, border disputes, inter-state transport, economic planning) that neither a single state acting alone nor the all-India Inter-State Council is optimally positioned to address",
+          "Zonal Councils have full legislative power to override both Parliament and state legislatures",
+          "Zonal Councils replaced the Finance Commission as the primary body for tax devolution",
+          "Zonal Councils are constitutional bodies with powers equal to the Supreme Court"
+        ],
+        "a": 0,
+        "e": "The Zonal Councils fill a specific institutional niche: they are neither purely bilateral (single state to Centre) nor fully national in scope (like the Inter-State Council), but instead operate at an intermediate, REGIONAL level — allowing states sharing genuine geographic, linguistic, cultural or economic ties (as reflected in the factors used to draw zone boundaries) to coordinate on matters where regional proximity itself is the relevant unit of cooperation, even though their recommendations carry no binding legal force."
+      }
+    ],
+    "upsc": [
+      {
+        "q": "Consider the following statements about inter-state water dispute resolution mechanisms:\n1. The River Boards Act (1956) establishes boards purely for advisory purposes at states' request.\n2. The Inter-State River Water Disputes Act (1956) allows for tribunals whose decisions are final and binding.\n3. Once a dispute is referred to a tribunal under the 1956 Act, the Supreme Court retains appellate jurisdiction over the tribunal's decision.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the book explicitly states that neither the Supreme Court nor any other court has jurisdiction over disputes referred to such a tribunal; there is no appellate route back to the Supreme Court. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Assertion (A): The Inter-State Council's advisory jurisdiction under Article 263 is broader in scope than the Supreme Court's jurisdiction under Article 131.\nReason (R): The Council can deal with any inter-state controversy, whether legal or non-legal, while Article 131 confines the Court's original jurisdiction to genuinely legal disputes between governments.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R correctly explains A — the Council's subject-matter jurisdiction is broader precisely because it isn't confined to strictly 'legal' controversies as Article 131 is, even though its actual output (advisory recommendation) is weaker than the Court's binding judgment."
+      },
+      {
+        "q": "With reference to the Inter-State Council established in 1990, consider the following statements:\n1. It was established following a recommendation of the Sarkaria Commission.\n2. Its Standing Committee, set up in 1996, is chaired by the Union Home Minister.\n3. The Council's meetings are open to the public and press to ensure transparency.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the Council's meetings are held 'in camera' (privately, not open to the public), with decisions made by consensus rather than public voting. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the 'Full Faith and Credit' clause:\n1. It requires recognition of public acts, records and judicial proceedings of the Centre and every state throughout Indian territory.\n2. Parliament has the power to determine the manner of proof and effect of such acts and records.\n3. This clause requires the courts of one state to enforce the criminal/penal laws of another state.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the rule on execution without fresh suit applies only to CIVIL judgements; it explicitly does NOT require a state's courts to enforce another state's PENAL laws. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Match List-I (Water Dispute Tribunal) with List-II (States Involved) and select the correct answer using the code below.\nList-I:\nA. Ravi and Beas Water Disputes Tribunal\nB. Narmada Water Disputes Tribunal\nC. Vansadhara Water Disputes Tribunal\nD. Mahanadi Water Disputes Tribunal\nList-II:\n1. Odisha and Andhra Pradesh\n2. Odisha and Chhattisgarh\n3. Punjab, Haryana and Rajasthan\n4. Rajasthan, Gujarat, Madhya Pradesh and Maharashtra",
+        "o": [
+          "A-3, B-4, C-1, D-2",
+          "A-4, B-3, C-2, D-1",
+          "A-3, B-1, C-4, D-2",
+          "A-1, B-2, C-3, D-4"
+        ],
+        "a": 0,
+        "e": "Ravi and Beas = Punjab, Haryana, Rajasthan; Narmada = Rajasthan, Gujarat, Madhya Pradesh, Maharashtra; Vansadhara = Odisha and Andhra Pradesh; Mahanadi = Odisha and Chhattisgarh. Correct code: A-3, B-4, C-1, D-2."
+      },
+      {
+        "q": "Consider the following statements about restrictions on inter-state trade under Part XIII of the Constitution:\n1. Parliament cannot discriminate between states when restricting trade, except in the case of scarcity of goods.\n2. A state legislature can impose a tax on goods imported from other states higher than the tax on similar locally manufactured goods, in order to protect local industry.\n3. The freedom under Article 301 is subject to laws providing for state monopolies (nationalisation laws).\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — a state can only impose a tax on imported goods equal to (not higher than) the tax on similar goods manufactured within the state; imposing a HIGHER tax would constitute prohibited discriminatory taxation. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Zonal Councils' formation criteria and structure:\n1. Factors considered in forming the zones included natural divisions, river systems, cultural and linguistic affinity, and economic development requirements.\n2. Each Zonal Council's vice-chairmanship rotates among the member states' chief ministers, each holding office for one year.\n3. The Central Council of Indian Medicine and Central Council of Homoeopathy were established as Zonal Councils under the States Reorganisation Act.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the Central Council of Indian Medicine and Central Council of Homoeopathy were set up under separate Acts of Parliament, and are examples of councils established under Article 263 (like the Central Council of Health and Family Welfare), NOT Zonal Councils under the States Reorganisation Act. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the North-Eastern Council:\n1. It was created by a separate Act of Parliament in 1971 and came into existence in 1972.\n2. Sikkim was an original founding member of the Council in 1972.\n3. Its functions include reviewing measures taken by member states for maintaining security and public order.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — Sikkim was added as the EIGHTH member only in 2002, three decades after the Council's 1972 formation with its original seven members (Assam, Manipur, Mizoram, Arunachal Pradesh, Nagaland, Meghalaya, Tripura). Statements 1 and 3 are correct."
+      }
+    ]
+  }
+}
