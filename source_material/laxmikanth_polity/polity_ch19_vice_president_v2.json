@@ -1,0 +1,422 @@
+{
+  "id": "vice_president",
+  "title": "Vice-President of India",
+  "desc": "Election, qualifications, term, removal and vacancy of the Vice-President, dual role as ex-officio Rajya Sabha Chairman and acting President, and a comparison with the American Vice-President",
+  "questions": {
+    "basic": [
+      {
+        "q": "On whose office is the Indian Vice-President's office modelled?",
+        "o": [
+          "The American Vice-President",
+          "The British Deputy Prime Minister",
+          "The Canadian Governor-General",
+          "The French Prime Minister"
+        ],
+        "a": 0,
+        "e": "The Vice-President's office is modelled on the <b>American Vice-President</b>. Both hold the second-highest office in their respective countries and both chair the upper house of their legislature (Rajya Sabha in India, Senate in the USA) — though, as the chapter later explains, there is a crucial difference in what happens when the presidency itself falls vacant."
+      },
+      {
+        "q": "Which body constitutes the electoral college for the Vice-President's election?",
+        "o": [
+          "Members of both Houses of Parliament (elected and nominated)",
+          "Only elected members of the Lok Sabha",
+          "Members of Parliament and all state legislative assemblies",
+          "Only elected members of both Houses of Parliament"
+        ],
+        "a": 0,
+        "e": "The Vice-President's electoral college consists of <b>all members of both Houses of Parliament, both elected and nominated</b> — unlike the President's electoral college, which includes only ELECTED members of Parliament plus elected state/UT assembly members, and excludes nominated members entirely."
+      },
+      {
+        "q": "Which constitutional amendment did away with the original, cumbersome procedure of electing the Vice-President via a joint meeting of both Houses of Parliament?",
+        "o": [
+          "11th Amendment Act, 1961",
+          "24th Amendment Act, 1971",
+          "42nd Amendment Act, 1976",
+          "44th Amendment Act, 1978"
+        ],
+        "a": 0,
+        "e": "The <b>11th Amendment Act, 1961</b> simplified the process, moving away from requiring a joint sitting of both Houses assembled together for the Vice-President's election."
+      },
+      {
+        "q": "According to Dr. Ambedkar, why does the Vice-President's electoral college NOT include state legislative assembly members, unlike the President's?",
+        "o": [
+          "Because the Vice-President's normal function is only to preside over the Rajya Sabha, and only rarely and temporarily assumes presidential duties, so state legislatures need not have a voice",
+          "Because state legislatures were constitutionally barred from participating in any Union-level elections",
+          "Because the Vice-President represents only the Union government, not the states, in a permanent capacity",
+          "Because the Constituent Assembly ran out of time to include this provision"
+        ],
+        "a": 0,
+        "e": "Ambedkar explained that since the Vice-President's NORMAL role is merely presiding over the Rajya Sabha (not administering the Centre and states like the President does), and assuming presidential duties happens only rarely and temporarily, it was not considered necessary to give state legislatures a voice in this particular election — unlike the President's election, where the President's authority genuinely extends over both Centre and states."
+      },
+      {
+        "q": "What voting system is used for the Vice-President's election, matching the President's election method?",
+        "o": [
+          "Proportional representation by single transferable vote, via secret ballot",
+          "First-past-the-post, via open ballot",
+          "Direct popular vote",
+          "Electoral college weighted voting without transferable preferences"
+        ],
+        "a": 0,
+        "e": "Like the President's election, the Vice-President is elected via <b>proportional representation by single transferable vote</b>, using secret ballot — even though only Parliament members (not state legislators) form the electoral college."
+      },
+      {
+        "q": "Which authority has final jurisdiction to decide all doubts and disputes connected with the Vice-President's election?",
+        "o": [
+          "The Supreme Court",
+          "The Election Commission",
+          "The Rajya Sabha itself",
+          "The President"
+        ],
+        "a": 0,
+        "e": "The <b>Supreme Court</b> has final authority over such disputes — mirroring the exact same rule that applies to presidential election disputes. As with the President, a Vice-President's election cannot be challenged merely because the electoral college had vacancies at the time."
+      },
+      {
+        "q": "What is the minimum age required to be eligible for election as Vice-President?",
+        "o": [
+          "35 years",
+          "30 years",
+          "25 years",
+          "40 years"
+        ],
+        "a": 0,
+        "e": "A candidate must have completed <b>35 years of age</b> — identical to the minimum age for the President, and higher than the 25-year minimum for Lok Sabha membership."
+      },
+      {
+        "q": "For which House must a Vice-President candidate be qualified for election as a member?",
+        "o": [
+          "Rajya Sabha",
+          "Lok Sabha",
+          "Either House, at the candidate's choice",
+          "No specific House qualification is required"
+        ],
+        "a": 0,
+        "e": "A candidate must be qualified for election as a member of the <b>Rajya Sabha</b> — fittingly, since the Vice-President's primary constitutional function is to serve as the Rajya Sabha's ex-officio Chairman."
+      },
+      {
+        "q": "How many electors must subscribe as proposers and seconders for a valid Vice-Presidential nomination?",
+        "o": [
+          "20 proposers and 20 seconders",
+          "50 proposers and 50 seconders",
+          "10 proposers and 10 seconders",
+          "100 proposers and 100 seconders"
+        ],
+        "a": 0,
+        "e": "A Vice-Presidential nomination requires <b>20 proposers and 20 seconders</b> — notably fewer than the 50 each required for a presidential nomination, reflecting the smaller, Parliament-only electoral college for this office."
+      },
+      {
+        "q": "Who administers the oath of office to the Vice-President?",
+        "o": [
+          "The President, or a person appointed by the President for this purpose",
+          "The Chief Justice of India",
+          "The Speaker of the Lok Sabha",
+          "The outgoing Vice-President"
+        ],
+        "a": 0,
+        "e": "The <b>President</b> (or someone appointed by the President for this purpose) administers the Vice-President's oath — a notable contrast to the President's OWN oath, which is instead administered by the Chief Justice of India."
+      },
+      {
+        "q": "What is the term of office of the Vice-President?",
+        "o": [
+          "Five years",
+          "Six years",
+          "Four years",
+          "Term coincides with the President's term"
+        ],
+        "a": 0,
+        "e": "The Vice-President holds office for <b>five years</b> from entering office — the same duration as the President's term, though the two terms need not run concurrently or be synchronised with each other."
+      },
+      {
+        "q": "By what process is the Vice-President removed from office, and does it require formal impeachment like the President?",
+        "o": [
+          "By a Rajya Sabha resolution (effective majority) agreed to by the Lok Sabha (simple majority); no formal impeachment is required",
+          "By formal impeachment requiring two-thirds majority in both Houses, identical to the President's removal process",
+          "By a simple majority resolution passed by the Lok Sabha alone",
+          "By direct dismissal by the President without any parliamentary involvement"
+        ],
+        "a": 0,
+        "e": "Unlike the President, the Vice-President's removal does NOT require formal impeachment — it needs only a resolution passed by a majority of ALL THEN MEMBERS of the Rajya Sabha (an 'effective majority') and AGREED TO by the Lok Sabha via simple majority. Notably, this resolution can be introduced ONLY in the Rajya Sabha."
+      },
+      {
+        "q": "How many days' advance notice must be given before a resolution for the Vice-President's removal can be moved in the Rajya Sabha?",
+        "o": [
+          "14 days",
+          "7 days",
+          "30 days",
+          "One month"
+        ],
+        "a": 0,
+        "e": "At least <b>14 days'</b> advance notice must be given before such a resolution can be moved — the same 14-day notice period the book also cites for a special Lok Sabha sitting to disapprove continuation of a National Emergency."
+      },
+      {
+        "q": "Does the Constitution specify any grounds for the Vice-President's removal from office?",
+        "o": [
+          "No, the Constitution does not mention any ground for removal",
+          "Yes, only 'violation of the Constitution' as with the President",
+          "Yes, only proven misbehaviour or incapacity",
+          "Yes, only conviction for a criminal offence"
+        ],
+        "a": 0,
+        "e": "Notably, <b>no ground is mentioned in the Constitution</b> for the Vice-President's removal — unlike the President, whose removal is tied specifically to 'violation of the Constitution'. This gives Parliament considerable latitude in deciding when removal is warranted."
+      },
+      {
+        "q": "Is the Vice-President eligible for re-election, and if so, for how many terms?",
+        "o": [
+          "Yes, for any number of terms",
+          "Yes, but only for a maximum of two terms",
+          "No, re-election is not permitted",
+          "Yes, but only once, for a total of two terms"
+        ],
+        "a": 0,
+        "e": "The Vice-President is eligible for re-election for <b>any number of terms</b>, just like the President. Dr. S. Radhakrishnan is cited as an example of someone actually elected to a second term as Vice-President."
+      },
+      {
+        "q": "What are the Vice-President's two main constitutional functions?",
+        "o": [
+          "Acting as ex-officio Chairman of the Rajya Sabha, and acting as President during a presidential vacancy",
+          "Leading the ruling party in Parliament, and chairing the Union Cabinet",
+          "Acting as Deputy Prime Minister, and heading the Planning Commission",
+          "Presiding over the Lok Sabha, and heading the Election Commission"
+        ],
+        "a": 0,
+        "e": "The Vice-President's two functions are: acting as the <b>ex-officio Chairman of the Rajya Sabha</b> (with powers similar to the Lok Sabha Speaker), and acting as <b>President</b> when a vacancy arises in that office due to resignation, impeachment, death, or otherwise."
+      },
+      {
+        "q": "For a maximum of how long can the Vice-President act as President following a vacancy in the President's office?",
+        "o": [
+          "Six months",
+          "One year",
+          "Three months",
+          "Indefinitely, until re-elected"
+        ],
+        "a": 0,
+        "e": "The Vice-President can act as President for a <b>maximum of six months</b>, within which a new President must be elected — aligning with the broader constitutional rule that a presidential vacancy (from resignation, removal, or death) must be filled within six months."
+      },
+      {
+        "q": "While the Vice-President is acting as President, who performs the duties of the Rajya Sabha Chairman in their place?",
+        "o": [
+          "The Deputy Chairman of the Rajya Sabha",
+          "The Speaker of the Lok Sabha",
+          "The Chief Justice of India",
+          "No one; the Rajya Sabha is left leaderless during this period"
+        ],
+        "a": 0,
+        "e": "The <b>Deputy Chairman of the Rajya Sabha</b> takes over these duties, since the Vice-President cannot simultaneously act as President and perform the Chairman's role — the two positions are mutually exclusive during this period."
+      },
+      {
+        "q": "What salary/allowance does the Vice-President draw while acting as President, as opposed to while serving as Rajya Sabha Chairman?",
+        "o": [
+          "The salary and allowance of the President, not of the Rajya Sabha Chairman",
+          "No salary at all during this period, as a mark of the office's transitional status",
+          "Double salary, combining both offices' emoluments",
+          "The same Rajya Sabha Chairman's salary, unchanged"
+        ],
+        "a": 0,
+        "e": "While acting as President, the Vice-President receives the <b>President's salary and allowances</b>, NOT the Rajya Sabha Chairman's — reflecting that during this period, they are functionally performing the President's role and are compensated accordingly."
+      },
+      {
+        "q": "Who was the first Vice-President of India to die in office?",
+        "o": [
+          "Krishna Kant",
+          "V.V. Giri",
+          "B.D. Jatti",
+          "M. Hidayatullah"
+        ],
+        "a": 0,
+        "e": "<b>Krishna Kant</b> was the first Vice-President to die while in office. Separately, when Presidents Dr. Zakir Husain and Fakhruddin Ali Ahmed died in office, their respective sitting Vice-Presidents (V.V. Giri and B.D. Jatti) stepped in to act as President."
+      },
+      {
+        "q": "Why do some scholars refer to the Vice-President as 'His Superfluous Highness'?",
+        "o": [
+          "Because the Constitution has not assigned the office any truly significant, independent function beyond the two limited roles described",
+          "Because the office was abolished shortly after independence and later restored",
+          "Because the Vice-President has no salary or official residence",
+          "Because the Vice-President is not mentioned anywhere in the Constitution's text"
+        ],
+        "a": 0,
+        "e": "This somewhat dismissive label reflects the office's genuinely LIMITED constitutional role — beyond presiding over the Rajya Sabha and occasionally, temporarily, acting as President, the Vice-President has no significant independent function, unlike say the American Vice-President who actually SUCCEEDS to the presidency for the remainder of the term when it falls vacant."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements comparing the electoral colleges of the President and Vice-President:\n1. The Vice-President's electoral college includes nominated members of Parliament, while the President's does not.\n2. The Vice-President's electoral college includes elected members of state legislative assemblies, while the President's does not.\n3. Both electoral colleges use the same voting system: proportional representation by single transferable vote.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect and reverses the actual rule — it is the PRESIDENT's electoral college that includes elected state assembly members, while the VICE-PRESIDENT's electoral college does NOT include any state legislators at all, being confined to Parliament. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Vice-President's removal process:\n1. The removal resolution can be introduced in either House of Parliament.\n2. The resolution requires a majority of all the then members of the Rajya Sabha, and simple majority agreement from the Lok Sabha.\n3. At least 14 days' advance notice must be given before such a resolution can be moved.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — the removal resolution can be introduced ONLY in the Rajya Sabha, not in either House at the mover's choice. Statements 2 and 3 correctly describe the majority requirements and notice period."
+      },
+      {
+        "q": "Consider the following statements about vacancy-filling timelines for the Vice-President's office:\n1. If the vacancy arises from the expiry of the sitting Vice-President's term, the election must be held before the term expires.\n2. If the vacancy arises from resignation, removal, or death, the Constitution specifies the election must be held within six months, exactly like the President's vacancy rule.\n3. A newly elected Vice-President, in either scenario, serves a full five-year term from the date of assuming office.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — for the Vice-President, the Constitution simply requires the election be held 'as soon as possible', without specifying a fixed six-month deadline as it does for the President's vacancy. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Vice-President's dual roles and compensation:\n1. The Constitution has fixed specific emoluments for the Vice-President in his/her capacity as Vice-President.\n2. The Vice-President draws a regular salary specifically in the capacity of ex-officio Chairman of the Rajya Sabha.\n3. While acting as President, the Vice-President receives the President's salary rather than the Chairman's salary.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — the Constitution has NOT fixed any separate emoluments for the Vice-President qua Vice-President; salary is drawn only through the Rajya Sabha Chairmanship role (or the President's salary when acting as President). Statements 2 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements comparing the Indian and American Vice-Presidents:\n1. The American Vice-President succeeds to the presidency and completes the unexpired term when it falls vacant.\n2. The Indian Vice-President similarly succeeds to and completes the unexpired presidential term when it falls vacant.\n3. Both offices were created partly to maintain political continuity in their respective countries.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Indian Vice-President does NOT succeed to the office; they merely ACT as President temporarily (maximum six months) until a fresh election is held, unlike the American system where the Vice-President actually becomes President for the remainder of the term. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about instances of the Vice-President discharging presidential functions:\n1. Dr. S. Radhakrishnan discharged the functions of the President in 1960 when President Rajendra Prasad was on a tour to the USSR.\n2. This particular instance involved a vacancy in the President's office due to resignation.\n3. Dr. Radhakrishnan again discharged these functions in 1961 when the President was ill.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — this was not a VACANCY at all; it was a case of the sitting President being temporarily UNABLE to discharge functions (due to travel/illness), a distinct scenario from an actual vacancy caused by resignation, death, or removal. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Vice-President's oath of office:\n1. In the oath, the Vice-President swears to bear true faith and allegiance to the Constitution of India.\n2. The Vice-President's oath also includes a promise to devote himself/herself to the service and well-being of the people of India, identical to the President's oath.\n3. The oath is administered by the President or a person appointed by the President for this purpose.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Vice-President's oath is narrower, covering only allegiance to the Constitution and faithful discharge of office duties; it does NOT include the specific 'service and well-being of the people' clause that appears in the PRESIDENT's oath. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Vice-President's conditions of office:\n1. The Vice-President should not be a member of either House of Parliament or a state legislature.\n2. If a sitting MP is elected Vice-President, they are deemed to have vacated their parliamentary seat automatically upon entering office.\n3. The Vice-President is permitted to simultaneously hold one other office of profit, unlike the President.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — like the President, the Vice-President is also prohibited from holding ANY other office of profit; there is no special permission for one additional office. Statements 1 and 2 are correct."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "Which of the following best explains why the Vice-President's removal process, unlike the President's impeachment, does not require a formal 'impeachment' procedure?",
+        "o": [
+          "The Vice-President's constitutional role is comparatively limited (chairing the Rajya Sabha, occasionally acting as President) rather than being the nation's head of state, so the framers designed a comparatively lighter, faster removal mechanism (Rajya Sabha resolution plus Lok Sabha agreement) proportionate to the office's lesser constitutional weight, without needing a quasi-judicial charge-and-investigation process",
+          "The Vice-President has no real constitutional protections at all and can be dismissed by the Prime Minister alone",
+          "Impeachment was considered unconstitutional by the Supreme Court and removed from all removal procedures",
+          "The Vice-President's removal process is actually more stringent than the President's impeachment process"
+        ],
+        "a": 0,
+        "e": "This lighter-touch removal design reflects the office's comparatively lesser constitutional significance — since the Vice-President is not the head of state exercising ongoing executive authority (merely presiding over the Rajya Sabha and rarely, temporarily acting as President), a full quasi-judicial impeachment process (with formal charges, 14-day notice, investigation by the other House, and two-thirds majorities in BOTH Houses) was not considered necessary; instead, a more straightforward resolution process suffices."
+      },
+      {
+        "q": "Which of the following best explains why Dr. Ambedkar considered it unnecessary to give state legislatures a voice in electing the Vice-President, despite giving them a voice in electing the President?",
+        "o": [
+          "The Vice-President's authority does not ordinarily extend over Centre-state administration the way the President's does; the Vice-President's role is confined mainly to presiding over the Rajya Sabha, with presidential functions assumed only rarely and temporarily, making the broader Centre-state representative logic used for the President's election inapplicable",
+          "State legislatures were considered too politically unstable to be trusted with electing the Vice-President",
+          "The Vice-President was originally intended to be appointed rather than elected at all",
+          "Ambedkar believed the Vice-President's office would eventually be abolished, making the electoral college design irrelevant"
+        ],
+        "a": 0,
+        "e": "Ambedkar's reasoning directly ties electoral college composition to the SCOPE of the office's authority — since the President's power genuinely extends over both Union and state administration (justifying state legislature participation for balanced representation), while the Vice-President's NORMAL function is narrowly confined to the Rajya Sabha (a purely Union-level body), and presidential functions are assumed only exceptionally and temporarily, there was no equivalent need to involve the states in this particular election."
+      },
+      {
+        "q": "Which of the following best captures the functional difference underlying the label 'His Superfluous Highness' as applied to the Vice-President, compared to the American Vice-President?",
+        "o": [
+          "The American Vice-President has a genuine constitutional destiny — automatic succession to a vacant presidency for the remainder of the term — giving the office real, guaranteed future significance, while the Indian Vice-President's role is limited to routine legislative presiding functions and only a brief, temporary caretaker role during a vacancy, with no guarantee of ever becoming President in their own right",
+          "Both offices are functionally identical, and the label is purely a matter of translation from English",
+          "The American Vice-President has no legislative role at all, unlike the Indian Vice-President",
+          "The label refers to the fact that India has never actually filled the office of Vice-President since independence"
+        ],
+        "a": 0,
+        "e": "The 'superfluous' characterisation stems specifically from the CONTRAST in ultimate constitutional destiny: the American Vice-President's role includes a genuine guarantee of stepping into the full presidency (for the remainder of the term) should it fall vacant, while the Indian Vice-President's role during a vacancy is explicitly temporary and caretaker-only (max six months, with no automatic succession) — leaving the office's day-to-day significance limited mainly to a legislative presiding function that, while useful, lacks the weight of guaranteed executive succession."
+      }
+    ],
+    "upsc": [
+      {
+        "q": "Consider the following statements about the Vice-President's qualifications and disqualifications:\n1. A person must be qualified for election as a member of the Rajya Sabha.\n2. A sitting Governor of a state is disqualified from being a Vice-Presidential candidate for holding an office of profit.\n3. A sitting Vice-President seeking re-election is not deemed to hold an office of profit for this purpose.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — a sitting Governor, like a sitting President/Vice-President or a Union/state minister, is specifically NOT deemed to hold an office of profit, and remains eligible as a candidate. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Assertion (A): The Vice-President's electoral college is smaller and narrower in composition than the President's electoral college.\nReason (R): The Vice-President's normal constitutional function (presiding over the Rajya Sabha) does not extend to Centre-state administration the way the President's functions do, so state legislature participation was not considered necessary for this election.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — Ambedkar's own stated reasoning in the Constituent Assembly directly supports this causal link between the scope of an office's functions and the design of its electoral college."
+      },
+      {
+        "q": "With reference to the differences between the Indian and American Vice-Presidents, consider the following statements:\n1. The American Vice-President completes the unexpired presidential term upon a vacancy, while the Indian Vice-President only acts as President temporarily.\n2. Both Vice-Presidents share the common function of chairing the upper house of their respective legislatures.\n3. The Indian Vice-President's office was created for reasons entirely unrelated to political continuity.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the book explicitly states the office was created 'with a view to maintain the political continuity of the Indian State', directly contradicting the claim that continuity was unrelated to its creation. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Vice-President acting as President versus discharging the President's functions:\n1. The Vice-President 'acts as President' specifically when a vacancy occurs due to resignation, removal, death, or otherwise.\n2. The Vice-President 'discharges the functions' of the President when the sitting President is temporarily unable to act due to absence or illness, without any vacancy occurring.\n3. In both scenarios, the Deputy Chairman of the Rajya Sabha takes over the Vice-President's chairmanship duties.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — this distinguishes two related but conceptually different scenarios (an actual VACANCY versus a temporary INABILITY without vacancy), while the practical consequence for Rajya Sabha leadership (Deputy Chairman stepping in) is the same in both cases."
+      },
+      {
+        "q": "Consider the following statements about notable facts in the history of the Vice-Presidential office:\n1. Dr. S. Radhakrishnan was elected unopposed on more than one occasion.\n2. Dr. S. Radhakrishnan was also elected for a second term as Vice-President.\n3. M. Hidayatullah is recorded as having been elected unopposed as Vice-President.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct, drawing directly from the book's election table — Dr. Radhakrishnan was elected unopposed twice (elections 1 and 2) and also served a second term; M. Hidayatullah was also elected unopposed (election 7), showing unopposed elections have occurred more than once in Vice-Presidential history."
+      }
+    ]
+  }
+}
