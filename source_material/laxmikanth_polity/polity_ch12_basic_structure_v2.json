@@ -1,0 +1,576 @@
+{
+  "id": "basic_structure_doctrine",
+  "title": "Basic Structure Doctrine",
+  "desc": "The evolution of the basic structure doctrine through Shankari Prasad, Golak Nath, Kesavananda Bharati, Indira Nehru Gandhi, Minerva Mills and Waman Rao, and the 22-case table of elements recognised as part of the basic structure",
+  "questions": {
+    "basic": [
+      {
+        "q": "In which case did the Supreme Court first rule that Parliament's power under Article 368 includes the power to amend Fundamental Rights?",
+        "o": [
+          "Golak Nath case (1967)",
+          "Shankari Prasad case (1951)",
+          "Kesavananda Bharati case (1973)",
+          "Minerva Mills case (1980)"
+        ],
+        "a": 1,
+        "e": "The <b>Shankari Prasad case (1951)</b> was the very first test of this question, arising within a year of the Constitution's commencement, when the First Amendment Act's curtailment of the right to property was challenged. The Court held that 'law' in Article 13 means only ordinary law, not a constitutional amendment act, so Parliament COULD amend Fundamental Rights without violating Article 13."
+      },
+      {
+        "q": "Which case reaffirmed the Shankari Prasad position, holding that a constitutional amendment act is not 'law' within the meaning of Article 13?",
+        "o": [
+          "Sajjan Singh case (1964)",
+          "Golak Nath case (1967)",
+          "Indira Nehru Gandhi case (1975)",
+          "Waman Rao case (1980)"
+        ],
+        "a": 0,
+        "e": "The <b>Sajjan Singh case (1964)</b> reaffirmed Shankari Prasad's position just over a decade later, maintaining continuity in the Court's approach until this position was dramatically reversed a few years later."
+      },
+      {
+        "q": "Which landmark case reversed the earlier position and held that Fundamental Rights are given a 'transcendental and immutable' position, immune from parliamentary amendment?",
+        "o": [
+          "Shankari Prasad case (1951)",
+          "Sajjan Singh case (1964)",
+          "Golak Nath case (1967)",
+          "Kesavananda Bharati case (1973)"
+        ],
+        "a": 2,
+        "e": "The <b>Golak Nath case (1967)</b> reversed the Court's own earlier stance, ruling that a constitutional amendment IS 'law' under Article 13 and that Fundamental Rights are beyond Parliament's amending power altogether — a dramatic shift that provoked a strong legislative response."
+      },
+      {
+        "q": "Which amendment did Parliament enact specifically in reaction to the Golak Nath judgment, reasserting its power to amend Fundamental Rights?",
+        "o": [
+          "17th Amendment Act, 1964",
+          "24th Amendment Act, 1971",
+          "39th Amendment Act, 1975",
+          "42nd Amendment Act, 1976"
+        ],
+        "a": 1,
+        "e": "The <b>24th Amendment Act, 1971</b> amended both Articles 13 and 368, explicitly declaring that Parliament CAN abridge or take away Fundamental Rights via Article 368, and that such an act is not 'law' under Article 13 — directly overriding the Golak Nath ruling."
+      },
+      {
+        "q": "Which landmark case both upheld the 24th Amendment Act, 1971 AND simultaneously created the 'basic structure' doctrine limiting Parliament's amending power?",
+        "o": [
+          "Golak Nath case (1967)",
+          "Kesavananda Bharati case (1973)",
+          "Minerva Mills case (1980)",
+          "Indira Nehru Gandhi case (1975)"
+        ],
+        "a": 1,
+        "e": "The <b>Kesavananda Bharati case (1973)</b> is the pivotal, dual-effect judgment — it upheld Parliament's power to amend Fundamental Rights (validating the 24th Amendment) while simultaneously introducing the new limitation that Parliament cannot alter the Constitution's 'basic structure', striking a careful middle path between the extremes of Shankari Prasad/Sajjan Singh and Golak Nath."
+      },
+      {
+        "q": "In which case did the Supreme Court first apply the newly-created basic structure doctrine to actually strike down a specific constitutional amendment provision?",
+        "o": [
+          "Golak Nath case (1967)",
+          "Indira Nehru Gandhi case (1975)",
+          "Waman Rao case (1980)",
+          "Kihoto Hollohan case (1992)"
+        ],
+        "a": 1,
+        "e": "In the <b>Indira Nehru Gandhi case (1975)</b> — also called the Election Case — the Court invalidated a provision of the 39th Amendment Act, 1975 that had placed election disputes involving the Prime Minister and Lok Sabha Speaker beyond the jurisdiction of all courts, holding this violated the basic structure."
+      },
+      {
+        "q": "Which amendment did Parliament enact in reaction to the basic structure doctrine, attempting to declare there was 'no limitation' on its constituent power?",
+        "o": [
+          "24th Amendment Act, 1971",
+          "39th Amendment Act, 1975",
+          "42nd Amendment Act, 1976",
+          "44th Amendment Act, 1978"
+        ],
+        "a": 2,
+        "e": "The <b>42nd Amendment Act, 1976</b> amended Article 368 to declare there was no limitation whatsoever on Parliament's constituent power, and that no amendment could be questioned in court on any ground, including violation of Fundamental Rights."
+      },
+      {
+        "q": "Which case struck down the 42nd Amendment's attempt to remove all limitations on Parliament's amending power, holding that judicial review is itself a basic feature?",
+        "o": [
+          "Kesavananda Bharati case (1973)",
+          "Minerva Mills case (1980)",
+          "Waman Rao case (1980)",
+          "S.R. Bommai case (1994)"
+        ],
+        "a": 1,
+        "e": "The <b>Minerva Mills case (1980)</b> struck down this sweeping claim, reasoning that a body given only limited amending power cannot use that very power to convert itself into an unlimited one — since a 'limited amending power' is itself one of the basic features that cannot be destroyed."
+      },
+      {
+        "q": "Which case clarified that the basic structure doctrine applies to constitutional amendments enacted after 24 April 1973?",
+        "o": [
+          "Golak Nath case (1967)",
+          "Minerva Mills case (1980)",
+          "Waman Rao case (1980)",
+          "I.R. Coelho case (2007)"
+        ],
+        "a": 2,
+        "e": "The <b>Waman Rao case (1980)</b> established this crucial cutoff date — 24 April 1973 being the exact date of the Kesavananda Bharati judgment — meaning amendments made before that date are treated differently from those made after, when assessing their compliance with the basic structure doctrine."
+      },
+      {
+        "q": "Has the Supreme Court ever provided a single, complete, exhaustive definition of what constitutes the 'basic structure' of the Constitution?",
+        "o": [
+          "Yes, it was fully defined in the Kesavananda Bharati judgment itself",
+          "No, the basic structure has instead emerged gradually and non-exhaustively through a series of case-by-case judicial pronouncements",
+          "Yes, it was defined in the 42nd Amendment Act",
+          "No, and courts have refused to identify even a single element of it"
+        ],
+        "a": 1,
+        "e": "The book explicitly notes the Supreme Court is <b>yet to define or clarify</b> a complete, closed list — instead, basic structure elements have emerged incrementally through a long line of cases from 1973 onward, making it a judicially evolving rather than a fixed, exhaustively codified concept."
+      },
+      {
+        "q": "Which case is popularly known as the 'Fundamental Rights Case' and first identified elements like 'supremacy of the Constitution' and 'separation of powers' as part of the basic structure?",
+        "o": [
+          "Golak Nath case (1967)",
+          "Kesavananda Bharati case (1973)",
+          "Indira Nehru Gandhi case (1975)",
+          "Minerva Mills case (1980)"
+        ],
+        "a": 1,
+        "e": "The <b>Kesavananda Bharati case (1973)</b> is popularly known as the '<b>Fundamental Rights Case</b>' and its judgment listed nine specific elements, including supremacy of the Constitution, separation of powers, republican and democratic government, secularism, federalism, sovereignty and unity of India, individual freedom and dignity, the mandate to build a welfare state, and the parliamentary system."
+      },
+      {
+        "q": "Which case is popularly known as the 'Election Case' and identified 'free and fair elections' as part of the basic structure?",
+        "o": [
+          "Kesavananda Bharati case (1973)",
+          "Indira Nehru Gandhi case (1975)",
+          "Minerva Mills case (1980)",
+          "Kihoto Hollohan case (1992)"
+        ],
+        "a": 1,
+        "e": "The <b>Indira Nehru Gandhi case (1975)</b> is popularly known as the '<b>Election Case</b>', since it arose from a dispute over Indira Gandhi's own election, and it identified free and fair elections (implied in democracy), judicial review, rule of law, and secularism, among other elements, as part of the basic structure."
+      },
+      {
+        "q": "Which case is popularly known as the 'Mandal Case' and declared 'rule of law' to be part of the basic structure?",
+        "o": [
+          "Indra Sawhney case (1992)",
+          "Kihoto Hollohan case (1992)",
+          "S.R. Bommai case (1994)",
+          "Kuldip Nayar case (2006)"
+        ],
+        "a": 0,
+        "e": "The <b>Indra Sawhney case (1992)</b>, popularly called the '<b>Mandal Case</b>' after the reservation controversy it resolved, also separately contributed 'rule of law' to the evolving list of basic structure elements — showing how the same case can be significant for two entirely different areas of constitutional law (reservation policy AND basic structure jurisprudence)."
+      },
+      {
+        "q": "Which case is popularly known as the 'Defection Case' and identified 'free and fair elections' and 'sovereign, democratic, republican structure' as basic features?",
+        "o": [
+          "Kihoto Hollohan case (1992)",
+          "S.R. Bommai case (1994)",
+          "L. Chandra Kumar case (1997)",
+          "Kuldip Nayar case (2006)"
+        ],
+        "a": 0,
+        "e": "The <b>Kihoto Hollohan case (1992)</b>, popularly known as the '<b>Defection Case</b>' (since it concerned the constitutionality of the Tenth Schedule's Anti-Defection Law), also contributed these two elements to the basic structure list."
+      },
+      {
+        "q": "Which case, involving the dismissal of state governments, listed federalism, secularism, democracy, and unity/integrity of the nation among its basic structure holdings?",
+        "o": [
+          "S.R. Bommai case (1994)",
+          "M. Nagaraj case (2006)",
+          "I.R. Coelho case (2007)",
+          "Namit Sharma case (2012)"
+        ],
+        "a": 0,
+        "e": "The <b>S.R. Bommai case (1994)</b> — a landmark case on the misuse of Article 356 (President's Rule) — listed no fewer than six basic structure elements: federalism, secularism, democracy, unity and integrity of the nation, social justice, and judicial review, making it one of the most substantively rich basic-structure cases."
+      },
+      {
+        "q": "Which case is popularly known as the 'IX Schedule Case' and held that laws placed in the Ninth Schedule after 24 April 1973 remain open to challenge on basic structure grounds?",
+        "o": [
+          "Waman Rao case (1980)",
+          "I.R. Coelho case (2007)",
+          "M. Nagaraj case (2006)",
+          "Madras Bar Association case (2014)"
+        ],
+        "a": 1,
+        "e": "The <b>I.R. Coelho case (2007)</b>, popularly called the '<b>IX Schedule Case</b>', reaffirmed and reinforced the Waman Rao cutoff, ruling that no blanket immunity exists for post-1973 Ninth Schedule laws if they damage the basic structure — this case listed rule of law, separation of powers, principles underlying fundamental rights, judicial review, and the principle of equality among its basic structure findings."
+      },
+      {
+        "q": "Which case established that the powers of High Courts under Articles 226 and 227 (writ jurisdiction and superintendence over subordinate courts) form part of the basic structure?",
+        "o": [
+          "Delhi Judicial Service Association case (1991)",
+          "L. Chandra Kumar case (1997)",
+          "Kumar Padma Prasad case (1992)",
+          "Ram Jethmalani case (2011)"
+        ],
+        "a": 1,
+        "e": "The <b>L. Chandra Kumar case (1997)</b> specifically identified the High Courts' powers under Articles 226 and 227 as basic structure elements — paired with the earlier <b>Delhi Judicial Service Association case (1991)</b>, which had established the Supreme Court's own powers under Articles 32, 136, 141 and 142 as basic structure elements."
+      },
+      {
+        "q": "Which case, decided in 1986, is paired with the P. Sambamurthy case (also 1986) in identifying BOTH 'rule of law' and 'judicial review' as basic structure elements?",
+        "o": [
+          "S.P. Sampath Kumar case",
+          "Kihoto Hollohan case",
+          "Kumar Padma Prasad case",
+          "Raghunath Rao case"
+        ],
+        "a": 0,
+        "e": "The <b>S.P. Sampath Kumar case (1986)</b> and the P. Sambamurthy case (1986) both, in the same year, independently identified rule of law and judicial review as basic structure elements — an early example of the Court reinforcing the same two elements through two separate cases within a short span."
+      },
+      {
+        "q": "Which case, decided in 1999, is called 'Indra Sawhney II' and re-identified the principle of equality as part of the basic structure, distinct from the original 1992 Mandal Case?",
+        "o": [
+          "Indra Sawhney II case (1999)",
+          "Kuldip Nayar case (2006)",
+          "M. Nagaraj case (2006)",
+          "All India Judges' Association case (2001)"
+        ],
+        "a": 0,
+        "e": "The <b>Indra Sawhney II case (1999)</b> revisited reservation-related questions seven years after the original 1992 Mandal Case and, on this occasion, specifically contributed the principle of equality to the basic structure list, showing how litigation on the same broad subject can recur and yield fresh doctrinal contributions."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements about the evolution of judicial thinking on Fundamental Rights and amendment:\n1. Shankari Prasad (1951) and Sajjan Singh (1964) both held that a constitutional amendment is not 'law' under Article 13.\n2. Golak Nath (1967) reversed this, holding that a constitutional amendment IS 'law' under Article 13 and can be struck down for violating Fundamental Rights.\n3. Kesavananda Bharati (1973) restored the Golak Nath position in its entirety without any modification.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — Kesavananda Bharati did NOT simply restore Golak Nath; it took a genuinely new middle path, upholding Parliament's power to amend Fundamental Rights (contrary to Golak Nath) while introducing the basic structure limitation (a wholly new doctrine not present in either earlier line of cases). Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the 24th Amendment Act, 1971:\n1. It amended both Article 13 and Article 368.\n2. It was enacted in direct response to the Golak Nath judgment.\n3. Its validity was struck down entirely by the Supreme Court in the Kesavananda Bharati case.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the Kesavananda Bharati case <b>upheld</b> the 24th Amendment Act's validity (allowing Parliament to amend Fundamental Rights), it did not strike it down; the case only added the NEW basic-structure limitation alongside upholding the amendment. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Indira Nehru Gandhi case (1975):\n1. It involved a challenge to a provision of the 39th Amendment Act, 1975 that placed certain election disputes beyond the jurisdiction of all courts.\n2. The Supreme Court held this provision was within Parliament's amending power since it did not touch any Fundamental Right.\n3. The case is also known as the Election Case.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Court actually <b>invalidated</b> this provision, holding it was BEYOND Parliament's amending power because it damaged the basic structure (specifically, elements like judicial review and free/fair elections), not because it violated a specific Fundamental Right. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the 42nd Amendment Act, 1976's attempt to address the basic structure doctrine:\n1. It declared there was no limitation on Parliament's constituent power under Article 368.\n2. It declared that no constitutional amendment could be questioned in court on any ground.\n3. Both of these provisions were upheld as valid by the Supreme Court in the Minerva Mills case.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the Supreme Court in Minerva Mills (1980) <b>invalidated</b> both these sweeping provisions, reasoning that removing all limitation on the amending power (and excluding judicial review) would itself destroy a basic feature — the very existence of a LIMITED amending power. Statements 1 and 2 correctly describe what the 42nd Amendment attempted."
+      },
+      {
+        "q": "Consider the following statements about the Minerva Mills case's (1980) reasoning:\n1. It held that a body given a limited power cannot use that very power to convert itself into a body with unlimited power.\n2. It held that a limited amending power is itself one of the basic features of the Constitution.\n3. It held that judicial review has no connection to the basic structure doctrine.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the case explicitly held that judicial review IS a basic feature, which is precisely why the 42nd Amendment's exclusion of judicial review was struck down. Statements 1 and 2 correctly capture the Court's central reasoning about the self-limiting nature of a 'limited' amending power."
+      },
+      {
+        "q": "Consider the following statements about the Waman Rao case (1980) and the 24 April 1973 cutoff:\n1. This date corresponds to the day the Kesavananda Bharati judgment was delivered.\n2. The Court held that amendments made BEFORE this date are automatically exempt from any basic structure scrutiny forever.\n3. The Court held that amendments made AFTER this date can be tested against the basic structure doctrine.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 overstates the position taken specifically with respect to the Ninth Schedule context — while pre-1973 Ninth Schedule laws retained broader immunity, this doesn't mean ALL pre-1973 amendments are automatically and permanently exempt from every possible form of basic-structure scrutiny in every context; the cutoff functions as a meaningful dividing line rather than a blanket, universal pre-1973 exemption. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the S.R. Bommai case (1994) and its contribution to basic structure jurisprudence:\n1. It arose in the context of disputes over the use of Article 356 (President's Rule).\n2. It identified federalism, secularism, and social justice as basic structure elements.\n3. It is the only case in the book's table to identify more than five basic structure elements at once.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — while S.R. Bommai identified six elements (a substantial number), the <b>Kesavananda Bharati case</b> identified nine elements, and the <b>I.R. Coelho case</b> identified five, meaning Bommai is not uniquely the sole case with more than five. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about specific case-to-element pairings in the evolution of basic structure jurisprudence:\n1. Central Coal Fields Ltd. case (1980) established 'effective access to justice' as a basic feature.\n2. Bhim Singhji case (1980) established 'welfare state (socio-economic justice)' as a basic feature.\n3. Kumar Padma Prasad case (1992) established 'principle of equality' as a basic feature.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — Kumar Padma Prasad (1992) established '<b>independence of judiciary</b>' as a basic feature, not the principle of equality (that distinction instead belongs to cases like Raghunath Rao, Indra Sawhney II, M. Nagaraj, and I.R. Coelho). Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the chronological gap between key basic structure cases:\n1. There was a gap of over 20 years between Kesavananda Bharati (1973) and S.R. Bommai (1994).\n2. There was a gap of over 30 years between Kesavananda Bharati (1973) and I.R. Coelho (2007).\n3. The Waman Rao case (1980) was decided in the same year as the Minerva Mills case.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements are correct simple arithmetic facts (1994-1973=21 years; 2007-1973=34 years; both Waman Rao and Minerva Mills were decided in 1980) — worth noting as they emphasise just how long and continuous the judicial elaboration of the basic structure doctrine has been, spanning over four decades and counting."
+      },
+      {
+        "q": "Consider the following statements about the relationship between the Kesavananda Bharati case and later cases that add to the basic structure list:\n1. Later cases like L. Chandra Kumar (1997) and Ram Jethmalani (2011) have added ADDITIONAL elements not identified in the original 1973 judgment.\n2. This shows that the list of basic structure elements is considered closed and fixed since 1973, with no scope for new additions.\n3. New elements identified in later cases include the powers of the Supreme Court and High Courts under specific enumerated Articles.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the continuous addition of new elements by cases decided well after 1973 (right up to 2014 in the book's table) demonstrates the list is <b>open-ended and evolving</b>, not closed or fixed. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Kuldip Nayar case (2006) and the M. Nagaraj case (2006):\n1. Both cases were decided in the same year.\n2. Kuldip Nayar contributed 'democracy' and 'free and fair elections' to the basic structure list.\n3. M. Nagaraj contributed the 'principle of equality'.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — 2006 was another notably productive year for basic structure jurisprudence, with these two separate cases contributing three distinct elements between them (democracy, free and fair elections, and principle of equality), continuing the steady, case-by-case expansion of the doctrine."
+      },
+      {
+        "q": "Consider the following statements about the All India Judges' Association case (2001) and the Ram Jethmalani case (2011):\n1. The All India Judges' Association case identified 'independent judicial system' as a basic structure element.\n2. The Ram Jethmalani case identified powers of the Supreme Court (relating to Article 32) as a basic structure element.\n3. Both cases were decided in the same decade.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1, 2 and 3",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — 2001 falls in the 2000s decade while 2011 falls in the 2010s decade, so they are NOT in the same decade despite being only a decade apart in absolute terms. Statements 1 and 2 correctly describe each case's specific contribution."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "Which of the following correctly summarises the sequence of positions the Supreme Court has taken on whether a constitutional amendment counts as 'law' under Article 13?",
+        "o": [
+          "Shankari Prasad/Sajjan Singh: not 'law' → Golak Nath: is 'law' → Kesavananda Bharati/24th Amendment: not 'law', but subject to the new basic structure limitation instead",
+          "Golak Nath: not 'law' → Shankari Prasad: is 'law' → Kesavananda Bharati: is 'law' with no exceptions",
+          "All cases from 1951 to 1973 held identical positions with no change at all",
+          "Kesavananda Bharati was the first case to ever consider this question"
+        ],
+        "a": 0,
+        "e": "This traces the full arc precisely: <b>Shankari Prasad/Sajjan Singh</b> said amendments aren't 'law' under Article 13 (so FR can be amended freely); <b>Golak Nath</b> reversed this, saying amendments ARE 'law' (so FR can't be touched); then the <b>24th Amendment/Kesavananda Bharati</b> combination restored the 'not law' position for Article 13 purposes specifically, while introducing an entirely separate, NEW basic-structure check that doesn't depend on the Article 13 question at all."
+      },
+      {
+        "q": "Which of the following best explains the doctrinal significance of the Minerva Mills case (1980) beyond merely striking down one provision of the 42nd Amendment?",
+        "o": [
+          "It established that the basic structure doctrine itself is subordinate to Parliament's constituent power",
+          "It established a self-referential principle: that a 'limited amending power' is itself a basic feature, meaning Parliament cannot use its amending power to make that same power unlimited",
+          "It abolished the basic structure doctrine altogether",
+          "It transferred the power to amend the Constitution from Parliament to the judiciary"
+        ],
+        "a": 1,
+        "e": "The case's most significant doctrinal contribution is this self-referential, almost paradox-resolving principle — since an unlimited amending power would let Parliament eventually destroy the entire basic structure doctrine itself (by simply amending away the limitation), the Court held that the LIMITED nature of the amending power is itself protected as a basic feature, closing this potential loophole."
+      },
+      {
+        "q": "Which of the following most precisely describes what the Waman Rao case (1980) actually held regarding the temporal application of the basic structure doctrine?",
+        "o": [
+          "The doctrine applies retrospectively to invalidate all amendments made since 1950",
+          "The doctrine applies to constitutional amendments enacted after 24 April 1973, the date of the Kesavananda Bharati judgment",
+          "The doctrine applies only to amendments made after 1980, the year Waman Rao itself was decided",
+          "The doctrine has no defined starting point and applies inconsistently on a case-by-case basis with no fixed date"
+        ],
+        "a": 1,
+        "e": "Waman Rao specifically fixed <b>24 April 1973</b> (the Kesavananda Bharati judgment date) as the operative dividing line — a deliberately chosen, precise date rather than an arbitrary or inconsistent standard, giving later courts (like I.R. Coelho in 2007) a clear, reusable temporal marker for testing amendments and Ninth Schedule additions."
+      },
+      {
+        "q": "Which of the following correctly pairs the case with BOTH its popular nickname and a basic structure element it established?",
+        "o": [
+          "Kihoto Hollohan case — 'Mandal Case' — rule of law",
+          "Indra Sawhney case — 'Defection Case' — free and fair elections",
+          "S.R. Bommai case — 'IX Schedule Case' — federalism",
+          "Kesavananda Bharati case — 'Fundamental Rights Case' — supremacy of the Constitution"
+        ],
+        "a": 3,
+        "e": "Only the fourth pairing is correct: <b>Kesavananda Bharati = 'Fundamental Rights Case' + supremacy of the Constitution</b> (among its nine elements). The other three are deliberately mismatched — Kihoto Hollohan is the 'Defection Case', Indra Sawhney is the 'Mandal Case', and I.R. Coelho (not S.R. Bommai) is the 'IX Schedule Case'."
+      },
+      {
+        "q": "Which of the following correctly identifies TWO separate cases, from different years, that each independently established elements of judicial power (Supreme Court or High Court) as part of the basic structure?",
+        "o": [
+          "Delhi Judicial Service Association case (1991) — Supreme Court's powers under Articles 32, 136, 141, 142; and L. Chandra Kumar case (1997) — High Courts' powers under Articles 226, 227",
+          "Kesavananda Bharati case (1973) and Golak Nath case (1967) — both establishing identical judicial powers",
+          "Minerva Mills case (1980) and Waman Rao case (1980) — both establishing High Court powers",
+          "S.R. Bommai case (1994) — the only case ever to address judicial powers as a basic feature"
+        ],
+        "a": 0,
+        "e": "These two cases, decided six years apart, separately and specifically addressed the constitutional courts' own core powers — the <b>Supreme Court's</b> under Articles 32/136/141/142 (Delhi Judicial Service Association, 1991) and the <b>High Courts'</b> under Articles 226/227 (L. Chandra Kumar, 1997) — together establishing that the judiciary's own foundational powers are themselves protected as basic structure."
+      },
+      {
+        "q": "Which of the following is the most accurate account of why the I.R. Coelho case (2007) is considered a significant reaffirmation rather than a novel departure in basic structure jurisprudence?",
+        "o": [
+          "It was the very first case to ever mention the Ninth Schedule",
+          "It built directly on and reaffirmed the Waman Rao case's 24 April 1973 cutoff, applying the basic structure test specifically to Ninth Schedule laws enacted after that date",
+          "It overturned the Kesavananda Bharati judgment entirely",
+          "It removed the Ninth Schedule from the Constitution altogether"
+        ],
+        "a": 1,
+        "e": "I.R. Coelho's significance lies in <b>reaffirming and reinforcing</b> the pre-existing Waman Rao framework rather than creating something entirely new — it confirmed that laws placed in the Ninth Schedule after 24 April 1973 are NOT automatically immune from judicial review if they violate the basic structure, closing off any lingering ambiguity about whether Ninth Schedule protection could be treated as truly absolute."
+      },
+      {
+        "q": "Which of the following statements correctly identifies a case where 'principle of equality' was recognised as a basic structure element, and distinguishes it from a case addressing a DIFFERENT specific right or freedom?",
+        "o": [
+          "Raghunath Rao case (1993) recognised equality; Kihoto Hollohan case (1992) recognised free and fair elections/democratic structure instead",
+          "Raghunath Rao case recognised free and fair elections; Kihoto Hollohan recognised equality instead",
+          "Both cases recognised only 'unity and integrity of India' and nothing else",
+          "Neither case is connected to the basic structure doctrine at all"
+        ],
+        "a": 0,
+        "e": "<b>Raghunath Rao (1993)</b> recognised both the principle of equality AND unity/integrity of India, while <b>Kihoto Hollohan (1992)</b>, the Defection Case, instead recognised free and fair elections and sovereign/democratic/republican structure — two contemporaneous but substantively distinct contributions to the evolving basic structure list."
+      },
+      {
+        "q": "Which of the following best captures the constitutional tension that the sequence of Golak Nath (1967) → 24th Amendment (1971) → Kesavananda Bharati (1973) illustrates?",
+        "o": [
+          "A tension between the executive and the legislature over budget allocation",
+          "A tension between judicial supremacy (Golak Nath's view that FR are unamendable) and parliamentary sovereignty (the 24th Amendment's assertion of unlimited amending power), ultimately resolved by Kesavananda Bharati's middle path of the basic structure doctrine",
+          "A tension between the President and the Prime Minister over emergency powers",
+          "A tension between state governments and the Union over resource allocation"
+        ],
+        "a": 1,
+        "e": "This sequence is the textbook illustration of the judiciary-versus-legislature tug-of-war over WHO ultimately controls the scope of constitutional change — Golak Nath asserted strong judicial protection of rights, the 24th Amendment asserted strong parliamentary sovereignty in response, and Kesavananda Bharati's basic structure doctrine represents the enduring compromise: Parliament can amend broadly, but not without limit."
+      },
+      {
+        "q": "Which of the following is the most complete and accurate list of the THREE cases decided in the single year 1980 that are referenced in the book's basic structure table?",
+        "o": [
+          "Minerva Mills, Waman Rao, Central Coal Fields Ltd./Bhim Singhji (two separate 1980 cases)",
+          "Kesavananda Bharati, Golak Nath, Sajjan Singh",
+          "Indira Nehru Gandhi, S.P. Sampath Kumar, P. Sambamurthy",
+          "Kihoto Hollohan, Indra Sawhney, Kumar Padma Prasad"
+        ],
+        "a": 0,
+        "e": "<b>1980</b> was an unusually productive year for basic structure jurisprudence, with FOUR cases in the book's table dated to that year: Minerva Mills, Waman Rao, Central Coal Fields Ltd. vs. Jaiswal Coal Co., and Bhim Singhji vs. Union of India — each contributing a different element (limited amending power/judicial review, the 1973 cutoff clarification, effective access to justice, and welfare state respectively)."
+      },
+      {
+        "q": "Which of the following best explains why the Namit Sharma case (2012) and the Madras Bar Association case (2014), despite being decided close together, are considered to contribute DIFFERENT elements to the basic structure?",
+        "o": [
+          "Namit Sharma addressed freedom and dignity of the individual, while Madras Bar Association addressed judicial review and High Courts' powers under Articles 226/227 — distinct subject matters producing distinct doctrinal contributions",
+          "Both cases addressed identical elements, showing the doctrine had stopped evolving by 2012",
+          "Namit Sharma dealt only with federalism while Madras Bar Association dealt only with secularism",
+          "Neither case is actually included in the book's table of basic structure cases"
+        ],
+        "a": 0,
+        "e": "These two closely-timed cases illustrate that the basic structure doctrine's growth is driven by the SPECIFIC facts and subject matter of each case rather than a fixed schedule — Namit Sharma concerned individual freedom/dignity (in the context of the Right to Information Act's tribunal composition), while Madras Bar Association concerned judicial review and High Court powers (in the context of tribunalisation of justice)."
+      }
+    ],
+    "upsc": [
+      {
+        "q": "Consider the following statements about the evolution of the basic structure doctrine:\n1. Shankari Prasad (1951) and Sajjan Singh (1964) held that Parliament could amend Fundamental Rights since a constitutional amendment is not 'law' under Article 13.\n2. Golak Nath (1967) reversed this by treating a constitutional amendment as 'law' subject to Article 13.\n3. The 24th Amendment Act, 1971 reasserted Parliament's power to amend Fundamental Rights, and this reassertion was ultimately upheld (though qualified by a new limitation) in Kesavananda Bharati (1973).\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct and together form the complete, foundational narrative arc of the basic structure doctrine's emergence — from the initial permissive position, through the Golak Nath reversal, to the legislative counter-reaction and its qualified judicial validation."
+      },
+      {
+        "q": "Assertion (A): Parliament cannot use its amending power under Article 368 to grant itself unlimited amending power.\nReason (R): The Supreme Court in the Minerva Mills case (1980) held that a limited amending power is itself a basic feature of the Constitution, so the donee of a limited power cannot convert it into an unlimited one through the exercise of that very power.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R is the Court's own stated reasoning in Minerva Mills, quoted almost verbatim in the book — this self-referential logic (a limited power cannot bootstrap itself into an unlimited one) is the doctrinal heart of why the 42nd Amendment's attempt to remove all limits on Article 368 was struck down."
+      },
+      {
+        "q": "With reference to the temporal scope of the basic structure doctrine, consider the following statements:\n1. Waman Rao (1980) fixed 24 April 1973 (the Kesavananda Bharati judgment date) as the relevant cutoff for testing later constitutional amendments and Ninth Schedule additions.\n2. I.R. Coelho (2007) reaffirmed that laws added to the Ninth Schedule after this cutoff remain open to challenge on basic structure grounds.\n3. This cutoff date means no amendment made before 1973 can ever be challenged under any doctrine whatsoever, even non-basic-structure grounds.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 overreaches — the cutoff is specifically about basic-structure-based challenges to Ninth Schedule inclusions/amendments in this line of cases; it doesn't mean pre-1973 laws are immune from EVERY conceivable legal challenge under all doctrines. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Match List-I (Case) with List-II (Popular Name) and select the correct answer using the code below.\nList-I:\nA. Kesavananda Bharati case (1973)\nB. Indira Nehru Gandhi case (1975)\nC. Indra Sawhney case (1992)\nD. Kihoto Hollohan case (1992)\nList-II:\n1. Election Case\n2. Defection Case\n3. Fundamental Rights Case\n4. Mandal Case",
+        "o": [
+          "A-3, B-1, C-4, D-2",
+          "A-1, B-3, C-2, D-4",
+          "A-3, B-2, C-1, D-4",
+          "A-4, B-1, C-3, D-2"
+        ],
+        "a": 0,
+        "e": "Kesavananda Bharati = Fundamental Rights Case; Indira Nehru Gandhi = Election Case; Indra Sawhney = Mandal Case; Kihoto Hollohan = Defection Case. Correct code: A-3, B-1, C-4, D-2."
+      },
+      {
+        "q": "Consider the following statements about the S.R. Bommai case (1994):\n1. It arose in the context of examining the constitutionality of dismissals of state governments under Article 356.\n2. Among the basic structure elements it identified are federalism, secularism, and judicial review.\n3. It held that Article 356 can never be judicially reviewed under any circumstances.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and actually contradicts the spirit of the judgment — S.R. Bommai is famous precisely for subjecting the exercise of Article 356 power TO judicial review, curbing its earlier misuse, not exempting it from scrutiny. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the 42nd Amendment Act, 1976's provisions concerning Article 368:\n1. It declared there was no limitation on Parliament's constituent power to amend any part of the Constitution.\n2. It declared that no amendment could be questioned in court on the ground of contravening any Fundamental Right.\n3. Both provisions survive today as valid law, having never been challenged before the Supreme Court.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — both provisions were specifically <b>challenged and invalidated</b> in the Minerva Mills case (1980); they do NOT survive as valid law today. Statements 1 and 2 correctly describe what the 42nd Amendment attempted to achieve before being struck down."
+      },
+      {
+        "q": "Consider the following statements about specific elements first recognised as part of the basic structure in named cases:\n1. 'Effective access to justice' was recognised in the Central Coal Fields Ltd. case (1980).\n2. 'Independence of judiciary' was recognised in the Kumar Padma Prasad case (1992).\n3. 'Independent judicial system' (a related but separately listed element) was recognised in the All India Judges' Association case (2001).\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct — this granular level of case-to-element mapping shows how the Supreme Court has, across nearly three decades of separate judgments, built up a rich and specific (if not perfectly systematised) body of basic structure jurisprudence touching different aspects of judicial independence and access to justice."
+      },
+      {
+        "q": "Consider the following statements about the doctrinal relationship between judicial review and the basic structure doctrine:\n1. Judicial review was explicitly identified as a basic feature in the Indira Nehru Gandhi case (1975) and the Minerva Mills case (1980).\n2. The exclusion of judicial review by the 42nd Amendment Act, 1976 was one of the specific grounds on which the Minerva Mills case struck down that amendment's provisions.\n3. S.R. Bommai (1994) and I.R. Coelho (2007) also separately listed judicial review among their identified basic structure elements.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct, and together they show 'judicial review' as perhaps the single most consistently and repeatedly reaffirmed basic structure element across the entire timeline of cases in the book's table — appearing in at least four separate landmark judgments spanning 1975 to 2007."
+      },
+      {
+        "q": "With reference to the overall trajectory of basic structure jurisprudence from 1973 to 2014 as documented in the book, consider the following statements:\n1. The list of recognised basic structure elements has grown incrementally through at least 22 distinct cases.\n2. Some cases (like Kesavananda Bharati and S.R. Bommai) contributed multiple elements simultaneously, while others (like Central Coal Fields Ltd.) contributed only a single, specific element.\n3. The most recently added element in the book's table, from the Madras Bar Association case (2014), relates to judicial review and High Court powers under Articles 226/227.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct and together illustrate the uneven, cumulative, case-by-case character of this jurisprudence — some judgments are doctrinally rich contributing many elements at once, others are narrow and specific, but all collectively build the still-open-ended concept of the Constitution's basic structure."
+      },
+      {
+        "q": "Assertion (A): The basic structure doctrine represents a judicially created limitation rather than an explicit textual provision of the Constitution.\nReason (R): Article 368's text, as it stood even after the 24th Amendment Act, 1971, appeared to grant Parliament the power to amend 'any provision' of the Constitution without express textual limitation, until the Supreme Court read in the basic structure limitation through interpretation in Kesavananda Bharati (1973).\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both statements are true and R explains A — the basic structure doctrine's judicial (rather than textual) origin is exactly why its precise content remains open-ended and continues to be defined case by case, unlike an explicit constitutional list that would have been fixed and closed from the outset."
+      }
+    ]
+  }
+}
