@@ -383,6 +383,7 @@
     <div class="stat-row">
       <div><span class="n" id="stat-correct" style="color:var(--green)">0</span>Correct</div>
       <div><span class="n" id="stat-wrong" style="color:var(--red)">0</span>Wrong</div>
+      <div><span class="n" id="stat-skipped" style="color:var(--amber)">0</span>Skipped</div>
       <div><span class="n" id="stat-total">0</span>Total</div>
     </div>
     <div id="save-status" class="form-msg" style="text-align:center;"></div>
@@ -843,6 +844,29 @@ function escapeHtml(str){
    above is/are correct?" questions and reformats them with the intro, each numbered statement, and the
    closing question each on their own line. Falls back to plain escaped text for regular questions. */
 function formatQuestionHTML(raw){
+  /* Assertion-Reason style questions: put Assertion, Reason, and the closing
+     question each on their own line, same as numbered-statement questions. */
+  const arMatch = raw.match(/^([\s\S]*?)\bAssertion\s*\(A\)\s*:\s*([\s\S]*?)\s*\bReason\s*\(R\)\s*:\s*([\s\S]*)$/i);
+  if(arMatch){
+    const introText = arMatch[1].trim();
+    const assertionText = arMatch[2].trim();
+    let reasonAndTail = arMatch[3].trim();
+    let arTail = '';
+    const qMatch = reasonAndTail.match(/\s*([A-Z][^.?!]{0,140}\?)\s*$/);
+    if(qMatch && qMatch[1].length < reasonAndTail.length){
+      arTail = qMatch[1].trim();
+      reasonAndTail = reasonAndTail.slice(0, qMatch.index).trim();
+    }
+    let arHtml = '';
+    if(introText) arHtml += `<div class="q-intro">${escapeHtml(introText)}</div>`;
+    arHtml += '<div class="q-statements">';
+    arHtml += `<div class="q-stmt"><b>Assertion (A):</b>${escapeHtml(assertionText)}</div>`;
+    arHtml += `<div class="q-stmt"><b>Reason (R):</b>${escapeHtml(reasonAndTail)}</div>`;
+    arHtml += '</div>';
+    if(arTail) arHtml += `<div class="q-closing">${escapeHtml(arTail)}</div>`;
+    return arHtml;
+  }
+
   const tailRe = /\s*(Which of (?:the )?(?:above |following )?statements?[^?]*\?|How many of (?:the )?(?:above|following) statements?[^?]*\?|Which one of (?:the )?(?:above|following) statements?[^?]*\?)\s*$/i;
   const tailMatch = raw.match(tailRe);
   let body = raw;
@@ -974,7 +998,7 @@ function renderQuestion(){
   } else {
     explainEl.style.display = 'none';
     explainEl.innerHTML = '';
-    nextBtn.disabled = true;
+    nextBtn.disabled = false; // allow skipping to the next question without answering
     state.selected = null;
   }
 }
@@ -1057,8 +1081,8 @@ async function saveAttemptIfLoggedIn(){
     statusEl.innerHTML = 'Not saved — <a href="#" onclick="renderAuth(\'signup\'); return false;" style="color:var(--accent); font-weight:600;">sign in</a> to save your score and appear on the leaderboard.';
     return;
   }
-  const total = state.answers.length;
-  const correct = state.answers.filter(a=>a.correct).length;
+  const total = state.list.length;
+  const correct = state.answers.filter(a=>a && a.correct).length;
   const pct = Math.round((correct/total)*100);
   const chapterTitle = state.mode === 'subject'
     ? `Full ${SUBJECTS[state.subjectKey].title} Test`
@@ -1085,28 +1109,40 @@ async function saveAttemptIfLoggedIn(){
 
 function showResult(){
   showScreen('result');
-  const total = state.answers.length;
-  const correct = state.answers.filter(a=>a.correct).length;
-  const wrong = total - correct;
+  const total = state.list.length;
+  const correct = state.answers.filter(a=>a && a.correct).length;
+  const skipped = state.answers.filter(a=>a===null).length;
+  const wrong = total - correct - skipped;
   const pct = Math.round((correct/total)*100);
   document.getElementById('score-num').textContent = pct + '%';
   document.getElementById('stat-correct').textContent = correct;
   document.getElementById('stat-wrong').textContent = wrong;
+  document.getElementById('stat-skipped').textContent = skipped;
   document.getElementById('stat-total').textContent = total;
   saveAttemptIfLoggedIn();
 
   const reviewList = document.getElementById('review-list');
   reviewList.innerHTML = '<h3 style="font-size:0.95rem; margin-bottom:10px;">Review</h3>';
   const letters = ['A','B','C','D'];
-  state.answers.forEach((a, i)=>{
+  state.list.forEach((q, i)=>{
+    const a = state.answers[i];
     const div = document.createElement('div');
     div.className = 'review-item';
-    div.innerHTML = `
-      <div class="rq"><span>${i+1}.</span> ${formatQuestionHTML(a.q)}${a.chapterTitle && state.mode==='subject' ? ` <span style="color:var(--accent); font-weight:600;">(${a.chapterTitle})</span>` : ''}</div>
-      <div class="ra">Your answer: <b>${letters[a.chosenIdx]}. ${a.options[a.chosenIdx]}</b> — <span class="${a.correct?'tag-ok':'tag-bad'}">${a.correct?'Correct':'Wrong'}</span></div>
-      ${!a.correct ? `<div class="ra">Correct answer: <b>${letters[a.correctIdx]}. ${a.options[a.correctIdx]}</b></div>` : ''}
-      <div class="ra" style="color:var(--muted); margin-top:6px;">${a.explain}</div>
-    `;
+    if(a){
+      div.innerHTML = `
+        <div class="rq"><span>${i+1}.</span> ${formatQuestionHTML(a.q)}${a.chapterTitle && state.mode==='subject' ? ` <span style="color:var(--accent); font-weight:600;">(${a.chapterTitle})</span>` : ''}</div>
+        <div class="ra">Your answer: <b>${letters[a.chosenIdx]}. ${a.options[a.chosenIdx]}</b> — <span class="${a.correct?'tag-ok':'tag-bad'}">${a.correct?'Correct':'Wrong'}</span></div>
+        ${!a.correct ? `<div class="ra">Correct answer: <b>${letters[a.correctIdx]}. ${a.options[a.correctIdx]}</b></div>` : ''}
+        <div class="ra" style="color:var(--muted); margin-top:6px;">${a.explain}</div>
+      `;
+    } else {
+      div.innerHTML = `
+        <div class="rq"><span>${i+1}.</span> ${formatQuestionHTML(q.q)}${q.chapterTitle && state.mode==='subject' ? ` <span style="color:var(--accent); font-weight:600;">(${q.chapterTitle})</span>` : ''}</div>
+        <div class="ra">Not answered — <span class="tag-bad">Skipped</span></div>
+        <div class="ra">Correct answer: <b>${letters[q.a]}. ${q.o[q.a]}</b></div>
+        <div class="ra" style="color:var(--muted); margin-top:6px;">${q.e}</div>
+      `;
+    }
     reviewList.appendChild(div);
   });
 }
