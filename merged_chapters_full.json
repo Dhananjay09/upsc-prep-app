@@ -4976,121 +4976,55 @@
   {
     "id": "citizenship",
     "title": "Citizenship",
-    "desc": "Articles 5-11, Citizenship Act, CAA & OCI rules",
+    "desc": "Articles 5-11, the Citizenship Act 1955, its five modes of acquisition and three modes of loss, the Overseas Citizen of India scheme, and the Citizenship (Amendment) Act 2019",
     "questions": {
       "basic": [
         {
-          "q": "Which Part of the Constitution of India deals with citizenship?",
+          "q": "Which Part and Articles of the Constitution deal with citizenship?",
           "o": [
-            "Part I",
-            "Part II",
-            "Part III",
-            "Part IV"
+            "Part I, Articles 1-4",
+            "Part II, Articles 5-11",
+            "Part III, Articles 12-35",
+            "Part IV, Articles 36-51"
           ],
           "a": 1,
-          "e": "<b>Part II</b> of the Constitution (Articles 5 to 11) deals with citizenship."
+          "e": "Citizenship is dealt with in <b>Part II, Articles 5 to 11</b> of the Constitution. This is why it's correct: the Constitution deliberately kept this part short, only identifying who became citizens at the commencement of the Constitution (26 January 1950) and leaving Parliament free to legislate on all future acquisition and loss of citizenship. That later law is the Citizenship Act, 1955. Note the sequencing logic of the document too — Part I (Union and territory) naturally precedes Part II (who belongs to that Union), before Part III opens with Fundamental Rights."
         },
         {
-          "q": "Citizenship is dealt with in which Articles of the Constitution?",
+          "q": "Unlike friendly aliens, enemy aliens in India do not enjoy protection against arrest and detention under which Article?",
           "o": [
-            "Articles 1-4",
-            "Articles 5-11",
-            "Articles 12-18",
-            "Articles 19-22"
-          ],
-          "a": 1,
-          "e": "<b>Articles 5 to 11</b> in Part II deal with citizenship as it stood at the commencement of the Constitution."
-        },
-        {
-          "q": "Which Article of the Constitution provided for citizenship at the commencement of the Constitution based on domicile in India?",
-          "o": [
-            "Article 5",
-            "Article 6",
-            "Article 7",
-            "Article 8"
-          ],
-          "a": 0,
-          "e": "<b>Article 5</b> provided citizenship at commencement based on domicile combined with birth in India, parentage, or five years' ordinary residence."
-        },
-        {
-          "q": "Which Article deals with the rights of citizenship of certain persons who migrated to India from Pakistan?",
-          "o": [
-            "Article 5",
-            "Article 6",
-            "Article 7",
-            "Article 8"
-          ],
-          "a": 1,
-          "e": "<b>Article 6</b> dealt with citizenship rights of persons who migrated to India from Pakistan at/around the time of partition."
-        },
-        {
-          "q": "Which Article deals with the rights of citizenship of certain migrants to Pakistan who later returned to India?",
-          "o": [
-            "Article 6",
-            "Article 7",
-            "Article 8",
-            "Article 9"
-          ],
-          "a": 1,
-          "e": "<b>Article 7</b> covered persons who migrated to Pakistan after 1 March 1947 but returned to India under a resettlement permit."
-        },
-        {
-          "q": "Which Article deals with the rights of citizenship of persons of Indian origin residing outside India?",
-          "o": [
-            "Article 7",
-            "Article 8",
-            "Article 9",
-            "Article 10"
-          ],
-          "a": 1,
-          "e": "<b>Article 8</b> covered persons of Indian origin residing outside India, registered as citizens by India's diplomatic missions abroad."
-        },
-        {
-          "q": "Which Article provides that a person who voluntarily acquires citizenship of a foreign state ceases to be an Indian citizen?",
-          "o": [
-            "Article 8",
-            "Article 9",
-            "Article 10",
-            "Article 11"
-          ],
-          "a": 1,
-          "e": "<b>Article 9</b> reflects India's single citizenship principle - no automatic dual citizenship."
-        },
-        {
-          "q": "Which Article provides for the continuance of the rights of citizenship of existing citizens, subject to any law made by Parliament?",
-          "o": [
-            "Article 9",
-            "Article 10",
-            "Article 11",
-            "Article 5"
-          ],
-          "a": 1,
-          "e": "<b>Article 10</b> continues the citizenship rights of persons already citizens, subject to parliamentary law."
-        },
-        {
-          "q": "Which Article empowers Parliament to make provisions regarding acquisition and termination of citizenship?",
-          "o": [
-            "Article 9",
-            "Article 10",
-            "Article 11",
-            "Article 12"
+            "Article 19",
+            "Article 21",
+            "Article 22",
+            "Article 25"
           ],
           "a": 2,
-          "e": "<b>Article 11</b> empowers Parliament to legislate on acquisition, termination, and all other matters relating to citizenship; it is the basis of the Citizenship Act, 1955."
+          "e": "<b>Article 22</b> denies enemy aliens the safeguards against arbitrary arrest and detention that are otherwise available. The reasoning is that enemy aliens are subjects of a country at war with India, so extending full protection to them during hostilities could compromise national security — friendly aliens, being subjects of countries with cordial relations, face no such restriction. This distinction between friendly and enemy aliens is a recurring theme across several rights discussed in this chapter."
         },
         {
-          "q": "In which year was the Citizenship Act enacted?",
+          "q": "India provides for how many citizenships for its people, unlike the USA and Australia which follow a different model?",
           "o": [
-            "1950",
-            "1955",
-            "1960",
-            "1965"
+            "Single citizenship only",
+            "Dual citizenship (national and state)",
+            "Triple citizenship (national, state and local)",
+            "No fixed citizenship rule; it varies by state"
           ],
-          "a": 1,
-          "e": "The <b>Citizenship Act, 1955</b> was enacted under the power given to Parliament by Article 11."
+          "a": 0,
+          "e": "India follows <b>single citizenship</b> — only Indian citizenship, with no separate state citizenship. This matters because it means every citizen enjoys identical political and civil rights nationwide regardless of birth state, unlike the USA where a person is simultaneously a US citizen and a citizen of a particular state, which can lead to state-level discrimination in rights like voting or holding office. India shares the single-citizenship model with Canada, and it was adopted specifically to promote national unity and fraternity, even though some exceptions (residence-based rules, tribal area protections) still exist."
         },
         {
-          "q": "How many modes of acquiring Indian citizenship are provided under the Citizenship Act, 1955?",
+          "q": "Which Act specifically deals with acquisition and loss of Indian citizenship after the commencement of the Constitution?",
+          "o": [
+            "The Citizenship Act, 1955",
+            "The Foreigners Act, 1946",
+            "The Registration of Foreigners Act, 1939",
+            "The Passport (Entry into India) Act, 1920"
+          ],
+          "a": 0,
+          "e": "The <b>Citizenship Act, 1955</b> is the law Parliament enacted under its power given by Articles 5-11 to handle everything the Constitution itself left open — how citizenship is gained or lost after 26 January 1950. It has been amended multiple times since (1986, 2003, 2005, 2015, 2019), each amendment reflecting new policy needs such as tightening birth-based citizenship rules or introducing the Overseas Citizen of India scheme."
+        },
+        {
+          "q": "According to the Citizenship Act, 1955, how many ways of acquiring Indian citizenship are prescribed?",
           "o": [
             "Three",
             "Four",
@@ -5098,10 +5032,43 @@
             "Six"
           ],
           "a": 2,
-          "e": "The Act provides <b>five modes</b>: birth, descent, registration, naturalisation, and incorporation of territory."
+          "e": "The Act prescribes <b>five</b> ways: birth, descent, registration, naturalisation, and incorporation of territory. Each mode addresses a different real-world situation — birth and descent cover people born in or outside India to Indian parents, registration covers persons of Indian origin or those married to Indian citizens, naturalisation covers foreigners who choose to settle permanently, and incorporation of territory covers cases like Puducherry or Goa becoming part of India, where residents were given citizenship by a government notification rather than through an individual application."
         },
         {
-          "q": "How many ways of losing Indian citizenship are provided under the Citizenship Act, 1955?",
+          "q": "A person born in India on or after 3 December 2004 is considered a citizen of India by birth only if:",
+          "o": [
+            "At least one parent was born in India",
+            "Both parents are citizens of India, or one parent is a citizen and the other is not an illegal migrant",
+            "The child is registered at an Indian consulate within one year",
+            "The child resides in India for five continuous years"
+          ],
+          "a": 1,
+          "e": "Since <b>3 December 2004</b>, citizenship by birth requires that <b>both parents be citizens of India</b>, or one parent be a citizen and the other not an illegal migrant. This is the strictest of the three successive birth-citizenship regimes the book describes — the rule was progressively tightened over time: anyone born in India between 1950-1987 was automatically a citizen regardless of parents' nationality, those born 1987-2004 needed just one Indian-citizen parent, and this 2004 rule adds the further condition that the other parent must not be an illegal migrant, closing a loophole that illegal migrants' children could otherwise exploit."
+        },
+        {
+          "q": "Under the Citizenship Act, 1955, how many years of continuous residence in India are generally required before a foreigner can apply for citizenship by naturalisation?",
+          "o": [
+            "Five years",
+            "Seven years",
+            "Twelve years in aggregate over fourteen years, plus twelve months immediately before applying",
+            "Twenty years"
+          ],
+          "a": 2,
+          "e": "Naturalisation generally requires residence in India (or government service) for the <b>twelve months immediately before the application</b>, plus a total of at least <b>eleven years out of the preceding fourteen years</b>. However, the Citizenship (Amendment) Act, 2019 reduced this eleven-year requirement to just <b>five years</b> for persecuted religious minorities (Hindu, Sikh, Buddhist, Jain, Parsi or Christian) from Afghanistan, Bangladesh or Pakistan — a special relaxation that became one of the most politically debated provisions of Indian citizenship law."
+        },
+        {
+          "q": "When Puducherry became part of India, its residents acquired Indian citizenship through which of the five modes?",
+          "o": [
+            "By birth",
+            "By descent",
+            "By registration",
+            "By incorporation of territory"
+          ],
+          "a": 3,
+          "e": "This is a textbook case of citizenship '<b>by incorporation of territory</b>' — when a foreign territory becomes part of India, the Government of India simply notifies who among its residents shall be citizens, without each person needing to individually apply. The specific notification used for Puducherry was the Citizenship (Pondicherry) Order, 1962. The same mode would apply to any future territorial acquisition by India."
+        },
+        {
+          "q": "The Citizenship Act, 1955 prescribes how many ways by which a person can lose Indian citizenship?",
           "o": [
             "Two",
             "Three",
@@ -5109,374 +5076,728 @@
             "Five"
           ],
           "a": 1,
-          "e": "The Act provides <b>three ways</b> of losing citizenship: renunciation, termination, and deprivation."
+          "e": "There are <b>three</b> ways to lose citizenship: renunciation (a voluntary declaration by the citizen), termination (automatic, when a citizen voluntarily acquires another country's citizenship), and deprivation (a compulsory action by the government, for example if citizenship was obtained by fraud or the citizen shows disloyalty to the Constitution). Renunciation and termination are both citizen-initiated in a sense, while deprivation is state-initiated and punitive in nature."
         },
         {
-          "q": "Which amendment to the Citizenship Act introduced the concept of \"Overseas Citizen of India\" (OCI)?",
+          "q": "If an Indian citizen voluntarily and knowingly acquires the citizenship of another country, what happens to their Indian citizenship?",
           "o": [
-            "Citizenship (Amendment) Act, 1986",
-            "Citizenship (Amendment) Act, 2003",
-            "Citizenship (Amendment) Act, 2019",
-            "Citizenship Act, 1955 (original)"
+            "It continues unaffected",
+            "It is automatically terminated",
+            "It requires a separate renunciation declaration to end",
+            "It is suspended for five years"
           ],
           "a": 1,
-          "e": "The <b>Citizenship (Amendment) Act, 2003</b> introduced the OCI concept and legal basis for the NRC; the scheme was operationalised in 2005."
+          "e": "Indian citizenship is <b>automatically terminated</b> the moment a citizen knowingly and voluntarily takes up another country's citizenship — no separate declaration is needed, unlike renunciation which is a deliberate, citizen-initiated act. This reflects India's constitutional bar on dual citizenship under Article 9. Note the exception: this automatic termination rule does not apply while India is engaged in a war, presumably to avoid citizens using foreign citizenship to evade wartime obligations."
         },
         {
-          "q": "In which year was the Citizenship (Amendment) Act, commonly known as CAA, enacted?",
+          "q": "Who chaired the High Level Committee on the Indian Diaspora, set up in 2000, whose recommendations led to the Overseas Citizenship of India scheme?",
           "o": [
-            "2015",
-            "2019",
-            "2003",
-            "1986"
-          ],
-          "a": 1,
-          "e": "The <b>CAA, 2019</b> provides an expedited naturalisation path for specified minorities from three neighbouring countries."
-        },
-        {
-          "q": "In which year was the Persons of Indian Origin (PIO) card scheme started?",
-          "o": [
-            "1999",
-            "2003",
-            "2005",
-            "2015"
+            "L.M. Singhvi",
+            "M.C. Setalvad",
+            "Fazl Ali",
+            "S.K. Dhar"
           ],
           "a": 0,
-          "e": "The <b>PIO card scheme started in 1999</b> and was later merged with the OCI scheme in 2015."
+          "e": "<b>L.M. Singhvi</b> chaired this committee, which submitted its report in January 2002 recommending a form of dual citizenship for Persons of Indian Origin. This directly led to the Citizenship (Amendment) Act, 2003 creating the Overseas Citizenship of India — showing how a policy committee's recommendation can translate into a specific, dated legislative amendment, a pattern common across many chapters of Indian polity (compare with the Swaran Singh Committee leading to Fundamental Duties)."
+        },
+        {
+          "q": "Is the Overseas Citizen of India (OCI) status legally equivalent to full dual citizenship?",
+          "o": [
+            "Yes, OCI cardholders are dual citizens of India and their other country",
+            "No, because Article 9 of the Constitution forbids dual citizenship; OCI is a special status with limited rights, not citizenship",
+            "Yes, but only for OCI cardholders from Commonwealth countries",
+            "No OCI cardholders exist since the scheme was abolished in 2015"
+          ],
+          "a": 1,
+          "e": "OCI is deliberately <b>not</b> full citizenship, because <b>Article 9</b> of the Constitution bars any person from being a citizen of India if they voluntarily hold another country's citizenship. OCI is instead a special, limited status carrying many practical benefits (lifelong multiple-entry visa, parity with NRIs in several matters) but explicitly excluding core citizenship rights like voting, holding constitutional offices, or public employment. It replaced and merged the earlier PIO card scheme via the Citizenship (Amendment) Act, 2015."
+        },
+        {
+          "q": "Which of the following rights is an OCI cardholder explicitly NOT entitled to, unlike a full Indian citizen?",
+          "o": [
+            "Multiple-entry lifelong visa to visit India",
+            "Exemption from registering with local police for any length of stay",
+            "The right to vote and to be a member of Parliament or a State Legislature",
+            "Parity with Indian nationals in national park entry fees"
+          ],
+          "a": 2,
+          "e": "An OCI cardholder cannot <b>vote</b>, cannot be a <b>member of Parliament or any State Legislature</b>, and is barred from several constitutional offices (President, Vice-President, Supreme Court/High Court judge) and from public employment except where specially notified. This is precisely why OCI is called a 'status' rather than citizenship — it deliberately withholds the core political rights while granting most economic and travel-related conveniences."
+        },
+        {
+          "q": "Which two countries' citizens are generally NOT eligible for Overseas Citizen of India (OCI) registration, even if they are of Indian origin?",
+          "o": [
+            "China and Nepal",
+            "Pakistan and Bangladesh",
+            "Sri Lanka and Myanmar",
+            "Afghanistan and Iran"
+          ],
+          "a": 1,
+          "e": "Persons who are, or whose parents/grandparents/great-grandparents were, citizens of <b>Pakistan or Bangladesh</b> (or any other country the government specifies) are barred from OCI registration. This exclusion reflects India's historically sensitive relationship and border/security concerns with these two neighbouring countries, and it is a recurring theme — the same Pakistan/Bangladesh carve-out also appears in the list of the 16 countries first covered under the 2003 OCI scheme."
+        },
+        {
+          "q": "The Constitution's citizenship provisions (Articles 5-11) primarily deal with which of the following?",
+          "o": [
+            "Only future acquisition and loss of citizenship after 1950",
+            "Only the process for a foreigner to naturalise in India",
+            "Identifying who became citizens of India at the Constitution's commencement, i.e. 26 January 1950",
+            "Only the citizenship of overseas Indians"
+          ],
+          "a": 2,
+          "e": "The constitutional provisions are essentially a one-time snapshot — they identify <b>who became citizens on 26 January 1950</b> and then hand over all future rule-making to Parliament. This deliberate design choice avoided cluttering the Constitution with citizenship rules that might need to change over time (as they indeed have, through six or more amendments to the 1955 Act), while still resolving the pressing question of who counted as a citizen at the exact moment the Republic came into being, especially given the chaos of Partition-era migration."
+        },
+        {
+          "q": "A person who migrated from Pakistan to India before 19 July 1948 became an Indian citizen under the Constitution if they had been:",
+          "o": [
+            "Registered as a citizen after six months' residence",
+            "Ordinarily resident in India since the date of migration",
+            "A government employee in British India",
+            "Married to an Indian citizen"
+          ],
+          "a": 1,
+          "e": "For migrants entering <b>before 19 July 1948</b> (the date the permit system for such migration began), simply being '<b>ordinarily resident in India since the date of migration</b>' was enough. Migrants entering on or after that date faced a stricter requirement — formal registration as a citizen, only after six months' residence preceding the application. The 19 July 1948 cutoff thus marks the line between an easier, presumptive route and a more bureaucratic, application-based route to citizenship for Partition-era migrants."
+        },
+        {
+          "q": "The Public Employment (Requirement as to Residence) Act, 1957, which allowed the Centre to prescribe residence-based conditions for certain state government jobs, has expired for all states except which two?",
+          "o": [
+            "Punjab and Haryana",
+            "Andhra Pradesh and Telangana",
+            "West Bengal and Assam",
+            "Kerala and Tamil Nadu"
+          ],
+          "a": 1,
+          "e": "This special residence requirement survives today only for <b>Andhra Pradesh and Telangana</b>, by virtue of Article 371-D (inserted by the 32nd Amendment Act, 1973, and extended to Telangana after its 2014 creation). This is a good example of how single citizenship's 'no discrimination based on residence' rule is not absolute — Article 16 itself permits Parliament to carve out residence-based exceptions for specific employment categories, and this is the one exception that has actually endured to the present day."
+        },
+        {
+          "q": "Which Article of the Constitution permits the state to restrict the freedom of movement and residence of outsiders in order to protect the interests of Scheduled Tribes?",
+          "o": [
+            "Article 15",
+            "Article 16",
+            "Article 19",
+            "Article 21"
+          ],
+          "a": 2,
+          "e": "<b>Article 19</b>, which guarantees freedom of movement and residence, is itself made subject to reasonable restrictions — including protecting tribal areas from outside settlement. This is meant to safeguard the distinctive culture, language, customs, and traditional livelihoods of Scheduled Tribes from being overwhelmed or exploited by unrestricted outside settlement, and it is one of the few genuine, lasting exceptions to India's principle of uniform citizen rights regardless of the state one resides in."
         }
       ],
       "intermediate": [
         {
-          "q": "Consider the following statements regarding Part II of the Constitution: 1. It deals with citizenship as it stood at the commencement of the Constitution. 2. It also comprehensively deals with subsequent acquisition and loss of citizenship after 1950. Which of the statements given above is/are correct?",
+          "q": "Consider the following statements about aliens in India:\n1. Friendly aliens and enemy aliens enjoy identical constitutional protections.\n2. Enemy aliens do not enjoy protection against arrest and detention under Article 22.\n3. Aliens as a class enjoy all the civil and political rights available to citizens.\nWhich of the statements given above is/are correct?",
           "o": [
-            "1 only",
             "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
           ],
           "a": 0,
-          "e": "Part II deals only with citizenship <b>at the commencement</b> of the Constitution; subsequent matters were left to Parliament under <b>Article 11</b>."
+          "e": "Statements 1 and 3 are incorrect — enemy aliens face specific restrictions that friendly aliens do not (making statement 1 false), and aliens as a category are explicitly denied several rights reserved for citizens, such as certain Article 19 freedoms and cultural/educational rights under Articles 29-30 (making statement 3 false). Only statement 2 is correct. The broader point is that Indian constitutional law recognises a three-tier hierarchy of protection: citizens get the fullest rights, friendly aliens get an intermediate set, and enemy aliens get the least."
         },
         {
-          "q": "Consider the following statements: 1. Article 6 dealt with persons who migrated to India from Pakistan. 2. Article 7 dealt with persons who migrated to Pakistan but subsequently returned to India under a permit for resettlement. Which of the statements given above is/are correct?",
+          "q": "Consider the following statements comparing single and dual citizenship models:\n1. India, like Canada, follows the single citizenship model.\n2. The USA and Australia follow the dual citizenship model, where a person is simultaneously a citizen of the nation and of a specific state.\n3. Dual citizenship inherently prevents any discrimination between citizens of different states.\nWhich of the statements given above is/are correct?",
           "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "a": 2,
-          "e": "<b>Article 6</b> covered migrants from Pakistan to India, while <b>Article 7</b> covered migrants to Pakistan who later returned to India."
-        },
-        {
-          "q": "Consider the following statements regarding the Citizenship (Amendment) Act, 1986: 1. Before this amendment, anyone born in India was automatically a citizen regardless of parents' nationality. 2. After the amendment, a person born in India on or after 1 July 1987 is a citizen by birth only if at least one parent was an Indian citizen at the time of birth. Which of the statements given above is/are correct?",
-          "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "a": 2,
-          "e": "The <b>1986 amendment</b> tightened the birth criterion, requiring at least one Indian citizen parent for those born on or after 1 July 1987."
-        },
-        {
-          "q": "Consider the following statements regarding the Citizenship (Amendment) Act, 2003: 1. A person born in India on or after 3 December 2004 is a citizen by birth only if both parents are Indian citizens, or one parent is an Indian citizen and the other is not an illegal migrant. 2. It provided the legal basis for a National Register of Citizens (NRC). Which of the statements given above is/are correct?",
-          "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "a": 2,
-          "e": "The <b>2003 amendment</b> further tightened birth-based citizenship criteria and provided the legal basis for the NRC."
-        },
-        {
-          "q": "Consider the following statements regarding Overseas Citizen of India (OCI): 1. OCI status is equivalent to dual citizenship. 2. OCI cardholders do not enjoy voting rights in India. Which of the statements given above is/are correct?",
-          "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "a": 1,
-          "e": "OCI is <b>not equivalent to dual citizenship</b>; OCI cardholders lack voting rights, unlike full Indian citizens."
-        },
-        {
-          "q": "Consider the following statements regarding a Non-Resident Indian (NRI): 1. NRI is a citizenship category recognised under the Citizenship Act, 1955. 2. NRI is a residential status under laws like the Income Tax Act and FEMA. Which of the statements given above is/are correct?",
-          "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "a": 1,
-          "e": "<b>NRI is not a citizenship category</b>; it is a residential status, and an NRI remains a full Indian citizen."
-        },
-        {
-          "q": "Consider the following statements regarding PIO and OCI: 1. The PIO card scheme started in 1999, before the OCI scheme. 2. The PIO scheme was merged with the OCI scheme in 2015. Which of the statements given above is/are correct?",
-          "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "a": 2,
-          "e": "The <b>PIO scheme (1999)</b> was merged with the <b>OCI scheme in 2015</b>, creating a single unified category."
-        },
-        {
-          "q": "Consider the following statements regarding citizenship in India: 1. India follows the principle of single citizenship, unlike the USA's dual (state and national) citizenship. 2. There exists a separate state citizenship for residents of each state in India. Which of the statements given above is/are correct?",
-          "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
           ],
           "a": 0,
-          "e": "India has <b>single citizenship</b>; there is no separate state citizenship despite the federal structure."
+          "e": "Statement 3 is incorrect — the book explicitly states that the dual citizenship system in countries like the USA <b>creates</b> the problem of discrimination (a state may favour its own citizens in voting, public offices, or professional practice), which is precisely the problem single citizenship in India was designed to avoid. Statements 1 and 2 correctly identify the contrasting models."
         },
         {
-          "q": "Consider the following statements regarding the Citizenship (Amendment) Act, 2019: 1. It covers Hindu, Sikh, Buddhist, Jain, Parsi, and Christian migrants. 2. It covers migrants from Afghanistan, Pakistan, and Bangladesh who entered India on or before 31 December 2014. Which of the statements given above is/are correct?",
+          "q": "Consider the following statements about exceptions to India's uniform-rights principle under single citizenship:\n1. Parliament can prescribe residence-based qualifications for certain public employment under Article 16.\n2. States can give preference to their own residents in matters not covered by constitutionally guaranteed rights, such as education fee concessions.\n3. The freedom of movement and residence can be restricted to protect Scheduled Tribes' interests.\nHow many of the statements given above are correct?",
           "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
           ],
           "a": 2,
-          "e": "CAA 2019 covers <b>six communities</b> from <b>three countries</b>, with an entry cutoff of 31 December 2014."
+          "e": "All three statements are correct and together map out the main recognised exceptions to India's single-citizenship uniformity: the (now largely lapsed) residence-based employment rule under Article 16, the state's freedom to grant benefits outside the domain of guaranteed rights (like fee concessions, which don't touch Article 15's protected grounds), and tribal-area movement restrictions under Article 19. Notice that none of these exceptions touch citizenship itself — they only create narrow, permitted variations in how rights are exercised regionally."
         },
         {
-          "q": "Consider the following statements regarding loss of Indian citizenship under the Citizenship Act, 1955: 1. Citizenship can be lost by renunciation. 2. Citizenship can be lost by termination or deprivation. Which of the statements given above is/are correct?",
+          "q": "Consider the following statements about the erstwhile special provisions for Jammu and Kashmir's permanent residents:\n1. These provisions flowed from Article 35-A of the Constitution.\n2. Article 35-A was inserted through a regular constitutional amendment passed by Parliament.\n3. The special status was abolished in 2019 through a new presidential order that superseded the 1954 order.\nWhich of the statements given above is/are correct?",
           "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 2 is incorrect — Article 35-A was inserted not by a Parliamentary constitutional amendment but by a <b>presidential order</b> under Article 370 (the Constitution (Application to Jammu and Kashmir) Order, 1954), which is itself a notable and often-debated feature of how J&K's special status was created and later removed by another presidential order in 2019. Statements 1 and 3 are correct."
+        },
+        {
+          "q": "Consider the following statements regarding citizenship by birth under the Citizenship Act, 1955:\n1. Anyone born in India between 26 January 1950 and 30 June 1987 is a citizen by birth regardless of their parents' nationality.\n2. Anyone born in India between 1 July 1987 and 2 December 2004 needs at least one parent to be an Indian citizen at the time of birth.\n3. Children of foreign diplomats posted in India can acquire Indian citizenship by birth if born on Indian soil.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — children of foreign diplomats (and of enemy aliens) are specifically <b>excluded</b> from acquiring Indian citizenship by birth, reflecting the international law principle that diplomatic missions retain a form of extraterritorial status. Statements 1 and 2 correctly describe the first two of the three successive birth-citizenship regimes."
+        },
+        {
+          "q": "Consider the following statements about citizenship by descent:\n1. A person born outside India after 10 December 1992 is a citizen by descent if either parent is an Indian citizen at the time of birth.\n2. From 3 December 2004 onwards, citizenship by descent additionally requires that the birth be registered at an Indian consulate within one year, or with central government permission thereafter.\n3. A minor with dual nationality by descent automatically loses Indian citizenship at birth.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — such a minor does <b>not</b> automatically lose Indian citizenship at birth; rather, on attaining full age, they must renounce the other nationality within six months, failing which they then cease to be an Indian citizen. Statements 1 and 2 correctly describe the post-1992 and post-2004 descent rules."
+        },
+        {
+          "q": "Consider the following statements about citizenship by registration:\n1. A person of Indian origin ordinarily resident in India for seven years before applying is eligible.\n2. A person married to an Indian citizen must be ordinarily resident in India for at least twelve years before applying.\n3. All persons registered under this mode must take an oath of allegiance.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 2 is incorrect — a person married to an Indian citizen needs only <b>seven years</b>' ordinary residence before applying, the same threshold as a person of Indian origin, not twelve years. (Twelve months is instead the requirement for a person who was earlier a citizen of independent India, and for an OCI cardholder of five years' standing, seeking registration.) Statements 1 and 3 are correct."
+        },
+        {
+          "q": "Consider the following statements about the Citizenship (Amendment) Act, 2019:\n1. It reduces the naturalisation residence requirement to five years for certain religious minorities from Afghanistan, Bangladesh and Pakistan.\n2. It applies to Muslims from these three countries on the same terms as the six named minorities.\n3. Its special provisions do not apply to tribal areas under the Sixth Schedule or areas under the Inner Line Permit system.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 2 is incorrect — the CAA, 2019 names only six specific communities (<b>Hindu, Sikh, Buddhist, Jain, Parsi and Christian</b>) as eligible for this fast-track route; Muslims from these three countries are not covered by these special provisions. Statements 1 and 3 are correct and describe two of the Act's most debated features — the religion-based eligibility criteria and the geographic carve-outs for tribal/Inner-Line areas."
+        },
+        {
+          "q": "Consider the following statements about the Assam Accord-related citizenship provisions added by the Citizenship (Amendment) Act, 1985:\n1. Persons of Indian origin who entered Assam from Bangladesh before 1 January 1966 are deemed citizens from that date.\n2. Those who entered between 1 January 1966 and 25 March 1971 and were later detected as foreigners must register, becoming citizens only after a ten-year waiting period from detection.\n3. During this ten-year intervening period, such a registered person has all the rights of a citizen, including the right to vote.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — during the ten-year intervening period, the person has the same rights and obligations as a citizen <b>except the right to vote</b>, which is specifically withheld until full citizenship is deemed to apply. Statements 1 and 2 are correct and reflect the three-tiered cutoff-date structure (1966 and 1971) that is central to the Assam Accord's citizenship framework, still highly relevant to the National Register of Citizens debate in Assam."
+        },
+        {
+          "q": "Consider the following statements about loss of citizenship:\n1. Renunciation is a voluntary act by the citizen and takes effect upon registration of the declaration.\n2. A declaration of renunciation made during a war in which India is engaged is registered immediately to allow the person to leave promptly.\n3. When a person renounces citizenship, their minor children also lose Indian citizenship, but may resume it within one year of turning eighteen.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 2 is incorrect — during wartime, registration of a renunciation declaration is <b>withheld</b>, not expedited, presumably to prevent citizens from evading wartime duties by renouncing citizenship at a convenient moment. Statements 1 and 3 are correct."
+        },
+        {
+          "q": "Consider the following statements about deprivation of citizenship:\n1. It is a voluntary act initiated by the citizen themselves.\n2. Grounds include obtaining citizenship by fraud, disloyalty to the Constitution, or unlawful wartime trade with the enemy.\n3. Continuous residence outside India for seven years can also be a ground for deprivation, subject to certain exceptions like being a student abroad.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "2 and 3 only",
+            "1 and 2 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 1 is incorrect — deprivation is precisely the opposite of a voluntary act; it is a <b>compulsory termination by the Central Government</b>, unlike renunciation which is citizen-initiated. Statements 2 and 3 correctly list several of the specific grounds for deprivation, with statement 3 also correctly noting a key carve-out (students abroad, government/international-organisation employees, or those who register their intent to retain citizenship annually are exempted from the seven-year rule)."
+        },
+        {
+          "q": "Consider the following statements about the evolution of the Overseas Citizen of India scheme:\n1. The Citizenship (Amendment) Act, 2003 first introduced OCI for Persons of Indian Origin from 16 specified countries, excluding Pakistan and Bangladesh.\n2. The 2005 Amendment expanded OCI eligibility to PIOs of virtually all countries (except Pakistan and Bangladesh) whose home country permits dual citizenship.\n3. The 2015 Amendment merged the PIO card scheme with the OCI scheme, creating the unified 'Overseas Citizen of India Cardholder' status.\nHow many of the statements given above are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
           ],
           "a": 2,
-          "e": "The Act provides three ways of losing citizenship: <b>renunciation, termination, and deprivation</b>."
+          "e": "All three statements are correct and trace the scheme's expansion in three clear legislative steps: a limited 16-country start (2003), a near-universal expansion (2005), and a consolidation of two overlapping, confusing card schemes into one (2015) — a good illustration of how Indian citizenship law has evolved incrementally rather than all at once."
         },
         {
-          "q": "Consider the following statements regarding Article 5 of the Constitution: 1. It required domicile in India combined with birth in India, OR either parent born in India, OR five years' ordinary residence before commencement. 2. It applied only to persons born after the commencement of the Constitution. Which of the statements given above is/are correct?",
+          "q": "Consider the following statements about the rights denied to an OCI cardholder:\n1. They cannot hold the office of President or Vice-President of India.\n2. They cannot be appointed as a judge of the Supreme Court or a High Court.\n3. They are barred from all forms of public employment in India, without exception.\nWhich of the statements given above is/are correct?",
           "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
           ],
           "a": 0,
-          "e": "Article 5 dealt with citizenship <b>at the commencement</b> of the Constitution, not persons born afterward."
+          "e": "Statement 3 is incorrect — OCI cardholders are barred from public employment <b>except for such services and posts as the Central Government may specially notify</b> (for instance, they are eligible to be appointed as teaching faculty in IITs, NITs, IIMs, and similar central institutions). Statements 1 and 2 correctly list two of the constitutional-office restrictions."
         },
         {
-          "q": "Consider the following statements regarding modes of acquiring citizenship under the Citizenship Act, 1955: 1. Registration and naturalisation are both recognised modes. 2. Incorporation of territory is also a recognised mode of acquiring citizenship. Which of the statements given above is/are correct?",
+          "q": "Consider the following statements comparing NRIs, PIOs and OCI cardholders:\n1. An NRI is an Indian citizen ordinarily residing abroad and holding an Indian passport.\n2. A PIO is someone whose ancestor was an Indian national but who now holds a foreign country's citizenship.\n3. OCI cardholders require a visa to visit India, just like PIOs.\nWhich of the statements given above is/are correct?",
           "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "a": 2,
-          "e": "The five modes are birth, descent, registration, naturalisation, and <b>incorporation of territory</b>."
-        },
-        {
-          "q": "Consider the following statements regarding the National Register of Citizens (NRC): 1. The legal basis for the NRC was introduced through the Citizenship (Amendment) Act, 2003. 2. The NRC concept is directly mentioned in Article 11 of the Constitution. Which of the statements given above is/are correct?",
-          "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
           ],
           "a": 0,
-          "e": "The <b>2003 amendment</b> to the Citizenship Act provided the legal basis for the NRC; Article 11 only empowers Parliament generally on citizenship matters."
+          "e": "Statement 3 is incorrect — a key advantage of the OCI card is that it <b>itself functions as a multiple-entry lifelong visa</b>, so OCI cardholders do NOT need a separate visa, unlike PIO cardholders (before the scheme's merger) who did require one. Statements 1 and 2 correctly define an NRI and a PIO respectively."
         },
         {
-          "q": "Consider the following statements regarding OCI eligibility: 1. Citizens of Pakistan and Bangladesh are excluded from OCI eligibility even if of Indian origin. 2. OCI cardholders can purchase agricultural land in India like full citizens. Which of the statements given above is/are correct?",
+          "q": "Consider the following statements about the grounds for cancelling OCI registration:\n1. Registration obtained by fraud or false representation can be cancelled.\n2. Disaffection towards the Constitution of India is a valid ground for cancellation.\n3. The cardholder must always be given a reasonable opportunity of being heard before cancellation.\nWhich of the statements given above is/are correct?",
           "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
           ],
-          "a": 0,
-          "e": "Persons of Indian origin who are citizens of <b>Pakistan or Bangladesh</b> are excluded from OCI, and OCI holders generally <b>cannot purchase agricultural land</b>."
+          "a": 3,
+          "e": "All three statements are correct. This cancellation framework closely mirrors the deprivation-of-citizenship grounds applicable to full citizens (fraud, disloyalty), while also embedding a natural-justice safeguard — the right to a hearing before the government finally cancels the registration — reflecting a broader constitutional principle that even revocable, non-citizen statuses cannot be stripped away arbitrarily without due process."
         },
         {
-          "q": "Consider the following statements comparing Article 8 and the OCI scheme: 1. Article 8 dealt with persons of Indian origin residing outside India being registered as citizens by Indian diplomatic missions. 2. The OCI scheme grants full Indian citizenship to persons of Indian origin residing abroad. Which of the statements given above is/are correct?",
+          "q": "Consider the following statements about migrants who entered India from Pakistan:\n1. Migrants who moved to India before 19 July 1948 needed only to show ordinary residence since their date of migration.\n2. Migrants who moved on or after 19 July 1948 needed to register as citizens after six months of residence preceding their application.\n3. A person who migrated to Pakistan after 1 March 1947 but returned to India for resettlement could never regain Indian citizenship.\nWhich of the statements given above is/are correct?",
           "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
           ],
           "a": 0,
-          "e": "Article 8 allowed registration as citizens through diplomatic missions; OCI, in contrast, is <b>not full citizenship</b> but a distinct status for foreign citizens of Indian origin."
+          "e": "Statement 3 is incorrect — such returnees <b>could</b> become Indian citizens again, provided they were resident in India for six months preceding their registration application; this is explicitly one of the four categories of persons the Constitution recognised as citizens at commencement. Statements 1 and 2 correctly describe the two migration-timing rules tied to the 19 July 1948 permit-system cutoff."
+        },
+        {
+          "q": "Consider the following statements about citizenship for persons of Indian origin residing outside undivided India:\n1. Such a person becomes an Indian citizen only by registering as a citizen with an Indian diplomatic or consular representative in their country of residence.\n2. This registration could only be done after the commencement of the Constitution, never before.\n3. This provision was specifically meant to cover overseas Indians wishing to acquire Indian citizenship.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 2 is incorrect — such registration could be done '<b>whether before or after the commencement of the Constitution</b>', giving this category unusual flexibility compared to the Constitution's otherwise fixed 26 January 1950 reference point. Statements 1 and 3 are correct."
+        },
+        {
+          "q": "Consider the following statements about citizenship by naturalisation:\n1. The standard aggregate residence requirement is eleven years out of the fourteen years preceding the last twelve months.\n2. The 2019 Amendment reduces this to five years only for specified minorities from Afghanistan, Bangladesh and Pakistan.\n3. All naturalisation applicants, without exception, must demonstrate knowledge of an Eighth Schedule language.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — this requirement, like several others, can be <b>waived</b> by the government for persons of distinguished service to science, philosophy, art, literature, world peace or human progress; it is not an absolute, exception-free rule. Statements 1 and 2 correctly state the standard and the 2019-reduced residence requirements."
         }
       ],
       "advanced": [
         {
-          "q": "Which of the following best explains why Article 7 reduced the citizenship eligibility of certain persons compared to Article 6, even though both dealt with partition-era migration?",
+          "q": "Which Article of the Constitution explicitly denies citizenship to a person who has voluntarily acquired the citizenship of a foreign state — the same Article cited as the constitutional bar on dual citizenship?",
           "o": [
-            "Article 7 applied to persons who had migrated to Pakistan and later returned to India under a resettlement permit, unlike Article 6 migrants who moved directly to India from Pakistan",
-            "Article 7 applied only to government officials",
-            "Article 7 required a minimum residence of ten years in India",
-            "Article 7 applied only to persons born after 1950"
-          ],
-          "a": 0,
-          "e": "<b>Article 7</b> covered persons who first migrated to Pakistan after 1 March 1947 and then returned to India under a resettlement permit - a category treated more restrictively than the direct migrants covered under <b>Article 6</b>."
-        },
-        {
-          "q": "A person born in India on 15 August 1988 would be governed by which citizenship-by-birth criterion?",
-          "o": [
-            "Automatic citizenship regardless of parents' nationality",
-            "Citizenship by birth only if at least one parent was an Indian citizen at the time of birth (per the 1986 amendment)",
-            "Citizenship by birth only if both parents were Indian citizens",
-            "No citizenship by birth under any circumstances"
-          ],
-          "a": 1,
-          "e": "Persons born on or after <b>1 July 1987</b> require at least one Indian citizen parent, per the <b>Citizenship (Amendment) Act, 1986</b>."
-        },
-        {
-          "q": "A person born in India on 10 December 2004 would be governed by which citizenship-by-birth criterion?",
-          "o": [
-            "Automatic citizenship regardless of parents' nationality",
-            "Citizenship only if at least one parent was Indian, regardless of the other parent's status",
-            "Citizenship only if both parents are Indian citizens, or one parent is Indian and the other is not an illegal migrant",
-            "Citizenship denied altogether since the person was born after independence"
+            "Article 5",
+            "Article 7",
+            "Article 9",
+            "Article 11"
           ],
           "a": 2,
-          "e": "For those born on or after <b>3 December 2004</b>, the 2003 amendment requires both parents to be Indian citizens, or one parent Indian and the other not an illegal migrant."
+          "e": "<b>Article 9</b> states that a person who has voluntarily acquired foreign citizenship shall not be, or be deemed to be, a citizen of India. This single Article is the constitutional root of India's blanket rejection of dual citizenship/nationality — it is precisely why even the OCI scheme, however generous its benefits, is carefully designed and legally described as a 'status' rather than 'citizenship', to avoid conflicting with Article 9."
         },
         {
-          "q": "Under the Citizenship (Amendment) Act, 2019, which of the following categories of areas are excluded from the Act's applicability?",
+          "q": "Which Article empowers Parliament to make any law regarding acquisition, termination, and all other matters relating to citizenship?",
           "o": [
-            "Areas covered under the Fifth Schedule only",
-            "Specified tribal areas and areas under the Inner Line Permit regime",
-            "Coastal areas under the Coastal Regulation Zone",
-            "Union Territories without legislatures"
-          ],
-          "a": 1,
-          "e": "CAA 2019 excludes certain <b>tribal areas</b> and areas under the <b>Inner Line Permit</b> regime from its applicability."
-        },
-        {
-          "q": "Which of the following positions is an OCI cardholder constitutionally barred from holding, being a foreign citizen?",
-          "o": [
-            "Employee of a private company in India",
-            "President of India",
-            "Member of a non-governmental organisation",
-            "Shareholder in an Indian company"
-          ],
-          "a": 1,
-          "e": "OCI cardholders, not being Indian citizens, cannot hold constitutional posts such as <b>President, Vice-President, or Judge of the Supreme Court/High Courts</b>."
-        },
-        {
-          "q": "Which of the following restrictions applies to OCI cardholders but not to Non-Resident Indians (NRIs)?",
-          "o": [
-            "Restriction on purchasing agricultural land in India",
-            "Requirement to file income tax returns in India",
-            "Restriction on holding a savings bank account in India",
-            "Requirement to renounce all foreign assets"
-          ],
-          "a": 0,
-          "e": "OCI cardholders, being foreign citizens, generally <b>cannot purchase agricultural land</b>; NRIs, being Indian citizens, face no such restriction on citizenship grounds."
-        },
-        {
-          "q": "Which of the following statements correctly distinguishes NRI from OCI?",
-          "o": [
-            "An NRI is a foreign citizen while an OCI is an Indian citizen",
-            "An NRI remains a full Indian citizen with voting rights (subject to registration), while an OCI cardholder is a foreign citizen without voting rights",
-            "Both NRI and OCI are foreign citizens with no rights in India",
-            "Both NRI and OCI enjoy full voting rights in India"
-          ],
-          "a": 1,
-          "e": "An <b>NRI</b> is an Indian citizen residing abroad (a residential status), whereas an <b>OCI</b> is a foreign citizen without voting rights."
-        },
-        {
-          "q": "Persons of Indian origin who are citizens of which two countries are NOT eligible for OCI status?",
-          "o": [
-            "Nepal and Bhutan",
-            "Pakistan and Bangladesh",
-            "Sri Lanka and Myanmar",
-            "Afghanistan and Bangladesh"
-          ],
-          "a": 1,
-          "e": "Persons of Indian origin who are citizens of <b>Pakistan and Bangladesh</b> are excluded from OCI eligibility."
-        },
-        {
-          "q": "Which of the following is a correct observation about the Citizenship (Amendment) Act, 2019?",
-          "o": [
-            "It includes Muslims among the eligible communities from the three specified countries",
-            "It covers migrants from Nepal, Bhutan, Myanmar, and Sri Lanka in addition to the three specified countries",
-            "It does not include Muslims among the eligible communities and does not cover migrants from Nepal, Bhutan, Myanmar, or Sri Lanka",
-            "It applies uniformly to all religious communities from all neighbouring countries"
+            "Article 9",
+            "Article 10",
+            "Article 11",
+            "Article 370"
           ],
           "a": 2,
-          "e": "CAA 2019 covers six specific communities from Afghanistan, Pakistan, and Bangladesh only, <b>excluding Muslims</b> and migrants from other neighbouring countries like Nepal, Bhutan, Myanmar, or Sri Lanka."
+          "e": "<b>Article 11</b> is the residuary/enabling provision that hands the entire subject of citizenship law-making to Parliament — it is the constitutional basis for the Citizenship Act, 1955 and every one of its subsequent amendments (1986, 1992, 2003, 2005, 2015, 2019). Without Article 11, Parliament would have had no express power to legislate on matters the Constitution itself left unaddressed, such as naturalisation procedures or the OCI scheme."
         },
         {
-          "q": "The principle underlying Article 9 of the Constitution is best described as which of the following?",
+          "q": "Consider the following statements about eligibility for the office of President of India:\n1. Both citizens by birth and naturalised citizens are eligible for the office of President in India.\n2. In the USA, only a natural-born citizen (not a naturalised citizen) is eligible for the presidency.\n3. This distinction reflects a deliberate constitutional choice by India's framers to be more inclusive than the American model.\nHow many of the statements given above are correct?",
           "o": [
-            "Automatic dual citizenship for Indians acquiring foreign citizenship",
-            "Loss of Indian citizenship upon voluntary acquisition of foreign citizenship, reflecting the single citizenship principle",
-            "Retention of Indian citizenship regardless of foreign citizenship acquired",
-            "Loss of citizenship only upon government notification"
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
           ],
-          "a": 1,
-          "e": "Article 9 reflects India's <b>single citizenship</b> principle - voluntary acquisition of foreign citizenship automatically terminates Indian citizenship."
+          "a": 2,
+          "e": "All three statements are correct as per the book's explicit comparison. This is a favourite comparative-constitution point for exams — it illustrates that although India borrowed heavily from the US Constitution for its Fundamental Rights architecture, it consciously diverged on this particular eligibility rule, allowing naturalised citizens the same presidential eligibility as citizens by birth."
         },
         {
-          "q": "Which of the following correctly describes the relationship between the PIO card scheme and the OCI scheme?",
+          "q": "Arrange the following citizenship-related legislative/administrative milestones in chronological order:\n1. Citizenship (Amendment) Act granting OCI Cardholder status by merging PIO and OCI schemes\n2. Citizenship Act enacted under Article 11\n3. Citizenship (Amendment) Act adding Assam Accord-related special provisions\n4. Citizenship (Amendment) Act enabling registration/naturalisation for persecuted minorities from three named countries",
           "o": [
-            "The PIO scheme (1999) was merged with the OCI scheme in 2015, creating a single unified category",
-            "The OCI scheme (2005) was merged into the PIO scheme in 2015",
-            "The two schemes have always operated as a single unified category since 1999",
-            "The PIO scheme was abolished in 2003 without replacement"
-          ],
-          "a": 0,
-          "e": "The <b>PIO card scheme, started in 1999</b>, was merged into the OCI scheme in <b>2015</b>."
-        },
-        {
-          "q": "Article 10 of the Constitution continues the citizenship rights of existing citizens subject to which of the following?",
-          "o": [
-            "No conditions whatsoever",
-            "Provisions of any law that Parliament may make",
-            "Approval by the President in each case",
-            "Ratification by state legislatures"
-          ],
-          "a": 1,
-          "e": "Article 10 continues citizenship rights <b>\"subject to the provisions of any law that may be made by Parliament\"</b>, i.e., subject to Article 11 legislation."
-        },
-        {
-          "q": "Why does Part II of the Constitution (Articles 5-11) not comprehensively address post-1950 acquisition and loss of citizenship?",
-          "o": [
-            "Because the framers considered citizenship a purely judicial matter",
-            "Because Article 11 specifically empowered Parliament to legislate on all other matters relating to citizenship",
-            "Because citizenship laws were left to individual states",
-            "Because the Constitution prohibited any further citizenship legislation"
-          ],
-          "a": 1,
-          "e": "<b>Article 11</b> empowers Parliament to make provisions on acquisition, termination, and all other matters of citizenship, which is why Part II addresses only citizenship at the Constitution's commencement."
-        },
-        {
-          "q": "Under the CAA, 2019, what is the reduced period of residency in India required for eligible persons to acquire citizenship by naturalisation, compared to the standard requirement?",
-          "o": [
-            "5 years instead of the standard 11 years",
-            "3 years instead of the standard 11 years",
-            "5 years instead of the standard 8 years",
-            "11 years instead of the standard 5 years"
+            "2-3-1-4",
+            "3-2-1-4",
+            "2-1-3-4",
+            "4-3-2-1"
           ],
           "a": 0,
-          "e": "CAA 2019 reduces the residency requirement for eligible persons to <b>5 years</b>, compared to the standard <b>11 years</b> required for naturalisation."
+          "e": "Chronologically: the original Citizenship Act (1955) → Assam Accord provisions added (1985) → PIO/OCI merger into 'OCI Cardholder' (2015) → CAA for persecuted minorities (2019). Correct order: 2-3-1-4. This sequence shows citizenship law evolving in response to distinct political triggers — Partition-era gaps (1955), the Assam foreigners' issue (1985), diaspora engagement (2015), and regional refugee/persecution concerns (2019)."
         },
         {
-          "q": "Which of the following persons would be eligible for citizenship under Article 8 of the Constitution?",
+          "q": "Which of the following is NOT one of the three cutoff/reference dates used in the Assam Accord-related citizenship provisions?",
           "o": [
-            "A person born in India after 1950 to foreign parents",
-            "A person of Indian origin residing outside India whose parents or grandparents were born in undivided India, and who is registered as a citizen by an Indian diplomatic mission",
-            "A person who migrated to Pakistan and returned to India under a resettlement permit",
-            "A foreign citizen who voluntarily acquires Indian citizenship through naturalisation"
+            "1 January 1966",
+            "25 March 1971",
+            "19 July 1948",
+            "A ten-year waiting period from the date of detection as a foreigner"
+          ],
+          "a": 2,
+          "e": "<b>19 July 1948</b> belongs to a different set of provisions entirely — it is the cutoff distinguishing pre- and post-permit-system migrants from Pakistan under the original 1950 constitutional provisions, not the Assam Accord framework. The Assam Accord instead uses 1 January 1966 and 25 March 1971 as its cutoff dates, plus the ten-year deemed-citizenship waiting period for those detected as foreigners in the intervening window."
+        },
+        {
+          "q": "Under the naturalisation route, which category of applicant can have some or all the standard qualifying conditions waived by the Government of India?",
+          "o": [
+            "Any applicant who has resided in India for over 20 years",
+            "A person who has rendered distinguished service to science, philosophy, art, literature, world peace or human progress",
+            "Any applicant sponsored by a Member of Parliament",
+            "Spouses of Indian citizens only"
           ],
           "a": 1,
-          "e": "Article 8 covered persons of <b>Indian origin residing outside India</b> (parents/grandparents born in undivided India), registered as citizens by India's diplomatic missions."
+          "e": "The Government can waive naturalisation conditions for a person who has rendered '<b>distinguished service to science, philosophy, art, literature, world peace or human progress</b>' — a discretionary honour-based exception distinct from the standard residence/character/language requirements. This provision has occasionally been used to fast-track citizenship for internationally eminent individuals."
+        },
+        {
+          "q": "Consider the following statements about the 1954 and 2019 Jammu & Kashmir presidential orders:\n1. The 1954 order was titled 'The Constitution (Application to Jammu and Kashmir) Order' and was issued under Article 370.\n2. The 2019 order of the same name superseded the 1954 order and extended all provisions of the Indian Constitution to J&K.\n3. Both orders required a two-thirds majority vote of Parliament before being issued.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — these were <b>presidential orders</b>, not constitutional amendments requiring Parliamentary special-majority votes; that is precisely what made both orders (and the abolition of Article 35-A/370's special provisions) constitutionally distinctive and, in the case of the 2019 order, legally contentious. Statements 1 and 2 are correct."
+        },
+        {
+          "q": "Which of the following correctly describes the effect of the Citizenship (Amendment) Act, 2019 on pending legal proceedings against eligible migrants?",
+          "o": [
+            "All pending proceedings continue unaffected until a court verdict",
+            "Pending proceedings relating to illegal migration or citizenship stand abated once citizenship is conferred",
+            "Pending proceedings are transferred to special CAA tribunals",
+            "Pending proceedings are automatically converted into naturalisation applications"
+          ],
+          "a": 1,
+          "e": "Once citizenship is conferred under the CAA, 2019 on an eligible migrant, any <b>pending proceeding against them relating to illegal migration or citizenship stands abated</b> — meaning it is automatically terminated rather than continuing. This is a significant practical effect of the Act, effectively granting a fresh start to those who qualify, distinct from the eligibility criteria themselves."
+        },
+        {
+          "q": "Which two government policy actions in 2015 and 2016, taken before the CAA, 2019 was passed, already provided some relief to persecuted religious minorities from Afghanistan, Bangladesh and Pakistan?",
+          "o": [
+            "Waiver of naturalisation fees (2015) and grant of Indian passports (2016)",
+            "Exemption from penal consequences of the Passport Act/Foreigners Act (2015) and eligibility for long-term visas (2016)",
+            "Automatic naturalisation (2015) and automatic voting rights (2016)",
+            "Grant of OCI cards (2015) and grant of dual citizenship (2016)"
+          ],
+          "a": 1,
+          "e": "In <b>2015</b>, the government exempted these migrants from adverse penal consequences under the Passport (Entry into India) Act, 1920 and the Foreigners Act, 1946, and in <b>2016</b> made them eligible for long-term visas. These were administrative stopgaps preceding the more comprehensive legislative fix — the CAA, 2019 — which finally made them formally eligible for citizenship itself, effective from 10 January 2020."
+        },
+        {
+          "q": "A minor child who is a citizen of India by descent and also holds citizenship of another country must do which of the following to retain Indian citizenship?",
+          "o": [
+            "Do nothing; dual citizenship for minors by descent is permitted indefinitely",
+            "Renounce the other country's citizenship or nationality within six months of attaining full age",
+            "Apply for OCI status within one year of turning 18",
+            "Register annually at an Indian consulate until the age of 25"
+          ],
+          "a": 1,
+          "e": "Such a minor must <b>renounce the other nationality within six months of attaining full age (18 years)</b>, or they will cease to be an Indian citizen. This rule reflects the same underlying Article 9 principle against dual citizenship, simply deferred until the child reaches an age where they can make and act on that choice themselves."
+        },
+        {
+          "q": "Which of the following persons would be eligible to acquire Indian citizenship by registration under the 'seven years' ordinary residence' route?",
+          "o": [
+            "A person of Indian origin ordinarily resident in India for seven years before applying",
+            "A minor child of a naturalised citizen",
+            "A foreign diplomat posted in India for seven years",
+            "An OCI cardholder registered for three years"
+          ],
+          "a": 0,
+          "e": "A '<b>person of Indian origin ordinarily resident in India for seven years before making an application</b>' is one of the seven specific categories eligible for registration. The other options fail for distinct reasons: a minor child of citizens is eligible without any residence requirement (a different category), a foreign diplomat's postings do not count as the relevant kind of residence for citizenship purposes, and an OCI cardholder needs five years of OCI registration (not three) plus twelve months' residence to qualify."
+        },
+        {
+          "q": "Which of the following statements about the OCI scheme's historical predecessor programmes is correct?",
+          "o": [
+            "The PIO card scheme began in 2002 and the OCI card scheme began in 2005; both ran in parallel until 2015",
+            "The OCI card scheme predates the PIO card scheme by three years",
+            "Both schemes were introduced simultaneously in 2003",
+            "The PIO scheme was never formally rescinded and still runs alongside OCI today"
+          ],
+          "a": 0,
+          "e": "The <b>PIO card scheme (2002)</b> and the <b>OCI card scheme (2005)</b> ran in parallel for a decade, causing applicant confusion, until the <b>Citizenship (Amendment) Act, 2015</b> merged them and formally rescinded the PIO scheme with effect from 9 January 2015, deeming all existing PIO cardholders to be OCI cardholders from that date."
+        },
+        {
+          "q": "Under the comparative table of NRI, PIO and OCI status, which of the following correctly identifies who is required to register with local police authorities in India based on length of stay?",
+          "o": [
+            "NRIs, if staying more than 180 days",
+            "PIOs, if staying more than 180 days",
+            "OCI cardholders, if staying more than 180 days",
+            "None of the three categories are ever required to register with local police"
+          ],
+          "a": 1,
+          "e": "Only <b>PIO cardholders</b> staying beyond 180 days needed to register with local police authorities. NRIs (being full Indian citizens) never needed to, and OCI cardholders are specifically <b>exempted</b> from FRRO/FRO registration for any length of stay — this exemption is one of the OCI scheme's most practically valuable benefits compared to ordinary long-stay foreign visas."
+        },
+        {
+          "q": "Which of the following economic/professional activities is an OCI cardholder specifically permitted to undertake in India under the notified parity provisions?",
+          "o": [
+            "Purchase of agricultural land or plantation property",
+            "Practising as a doctor, dentist, nurse, pharmacist, advocate, architect or chartered accountant",
+            "Contesting elections to the Lok Sabha",
+            "Appointment as a judge of a High Court"
+          ],
+          "a": 1,
+          "e": "OCI cardholders are permitted to practise as <b>doctors, dentists, nurses, pharmacists, advocates, architects, and chartered accountants</b> in India, on parity with NRIs. In contrast, they are explicitly barred from purchasing agricultural land, farmhouses or plantation property, and of course from any of the citizen-only political or judicial offices, illustrating the deliberately partial nature of OCI's economic parity with citizens."
+        },
+        {
+          "q": "Which of the following statements about the Citizenship Act's treatment of illegal migrants (before the 2019 amendment) is correct?",
+          "o": [
+            "Illegal migrants of any religion were always eligible for naturalisation regardless of documentation",
+            "Persons from any of the six specified minority communities who entered India without valid travel documents were regarded as illegal migrants and were ineligible for citizenship under the Act's registration or naturalisation provisions",
+            "Illegal migrants automatically became citizens after five years of residence",
+            "The term 'illegal migrant' was introduced only by the 2019 amendment"
+          ],
+          "a": 1,
+          "e": "Before the 2019 amendment, such migrants — even from the six now-favoured communities — who lacked valid passports/travel documents (or whose documents had expired) were classified as <b>illegal migrants</b> and were therefore <b>ineligible</b> to apply for citizenship through the ordinary registration or naturalisation routes. It was precisely this pre-existing bar that the CAA, 2019 was designed to lift for the specified communities and countries."
+        },
+        {
+          "q": "Which of the following best explains why the Citizenship Act's registration route requires 'persons of full age and capacity whose parents are registered as citizens of India' to separately register, rather than automatically treating them as citizens?",
+          "o": [
+            "Because such adult children are legally distinct applicants and the law requires each qualifying individual (not the family unit) to formally register",
+            "Because their parents' registration is invalid until the children also register",
+            "Because this category does not actually exist in the Citizenship Act",
+            "Because such persons must instead apply through naturalisation, not registration"
+          ],
+          "a": 0,
+          "e": "The Act treats citizenship as an individual status, so even a person whose <b>parents are already registered citizens</b> must undergo their own registration process once they are of full age and capacity — this differs from a minor child of citizens, who is covered automatically as a distinct, separate category requiring no independent application. This individualised, category-by-category structure is characteristic of how the Citizenship Act handles all seven registration categories."
+        },
+        {
+          "q": "Consider the following statements about citizenship of children when a parent renounces Indian citizenship:\n1. Every minor child of that person also loses Indian citizenship.\n2. Such a child can resume Indian citizenship after attaining 18 years of age, but must do so within one year.\n3. This resumption is entirely at the discretion of the Central Government and cannot be claimed as a right.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 overstates the case — the book frames this as an entitlement the child '<b>may</b>' exercise within one year of attaining majority, a time-bound option rather than a matter purely at government discretion. Statements 1 and 2 correctly describe the loss-and-resumption mechanism for minor children of a renouncing parent."
+        },
+        {
+          "q": "Which of the following correctly identifies the constitutional basis that allows Parliament to prescribe residence as a condition for certain public employment, an apparent exception to the general non-discrimination principle of Article 15?",
+          "o": [
+            "Article 15 itself contains an internal exception for residence",
+            "Article 16 permits Parliament to prescribe residence requirements for specified classes of employment",
+            "Article 19 allows such an exception via its 'reasonable restrictions' clause",
+            "No constitutional provision permits this; it is purely a judicial innovation"
+          ],
+          "a": 1,
+          "e": "It is <b>Article 16</b>, dealing with equality of opportunity in public employment, that carries this specific carve-out, not Article 15 (which governs discrimination on grounds of religion, race, caste, sex or place of birth but not residence). This is a commonly confused pairing on exams — Article 15 bars discrimination on the listed grounds excluding residence, while Article 16 is the one that expressly empowers Parliament to legislate a residence-based qualification for particular posts."
+        }
+      ],
+      "upsc": [
+        {
+          "q": "Consider the following statements regarding the constitutional and statutory framework of Indian citizenship:\n1. Articles 5 to 11 identify persons who became citizens at the commencement of the Constitution but do not deal with subsequent acquisition or loss of citizenship.\n2. Article 11 empowers Parliament to make laws on all matters relating to citizenship, which is the basis for the Citizenship Act, 1955.\n3. Article 9 bars a person from being an Indian citizen if they have voluntarily acquired the citizenship of a foreign state.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct and together form the constitutional backbone of the citizenship chapter — Articles 5-8 give a one-time snapshot of citizens as of 1950, Article 9 embeds the no-dual-citizenship principle, and Article 11 hands all future rule-making power to Parliament, which is why virtually every detailed rule (birth, descent, registration, naturalisation, OCI, CAA) actually lives in the Citizenship Act, 1955 and its amendments rather than in the Constitution itself."
+        },
+        {
+          "q": "Assertion (A): India follows a system of single citizenship despite having a federal Constitution with a division of powers between the Centre and states.\nReason (R): The framers wanted to avoid the discrimination problems seen in dual-citizenship federations like the USA, and to promote a sense of fraternity and integrated nationhood.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+          "o": [
+            "Both A and R are true, and R is the correct explanation of A",
+            "Both A and R are true, but R is NOT the correct explanation of A",
+            "A is true, but R is false",
+            "A is false, but R is true"
+          ],
+          "a": 0,
+          "e": "Both statements are true, and R correctly explains A — the book explicitly frames single citizenship as a conscious choice to avoid the inter-state discrimination problem of the American dual-citizenship model and to build national unity, even though it required departing from the 'expected' federal norm of parallel state citizenship. It's worth noting the irony the book itself flags: despite this design, India has still witnessed communal, caste and regional conflicts, showing single citizenship alone doesn't guarantee full national integration."
+        },
+        {
+          "q": "With reference to the four categories of persons who became citizens of India at the commencement of the Constitution, consider the following statements:\n1. A person domiciled in India who was born in India, or whose parent was born in India, or who had five years' ordinary residence before commencement, became a citizen.\n2. A migrant from Pakistan who entered before 19 July 1948 needed only ordinary residence since migration, while a later migrant needed formal registration after six months' residence.\n3. A person who migrated to Pakistan after 1 March 1947 could never regain Indian citizenship even upon returning for resettlement.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — such returnees <b>could</b> regain citizenship by showing six months' residence before applying for registration; this is one of the four constitutionally recognised categories, addressing the complex, two-way Partition-era migration pattern. Statements 1 and 2 correctly describe the domicile-based and Pakistan-migration-based categories."
+        },
+        {
+          "q": "Match List-I (Mode of acquiring citizenship) with List-II (Illustrative scenario) and select the correct answer using the code below.\nList-I:\nA. By birth\nB. By descent\nC. By registration\nD. By incorporation of territory\nList-II:\n1. A child born abroad in 2010 whose father is an Indian citizen, registered at an Indian consulate\n2. Residents of Puducherry becoming Indian citizens via the Citizenship (Pondicherry) Order, 1962\n3. A child born in India in 1995 to a foreign national parent, with the other parent an Indian citizen\n4. A person of Indian origin, married to an Indian citizen, resident in India for seven years, applying to the Central Government",
+          "o": [
+            "A-3, B-1, C-4, D-2",
+            "A-1, B-3, C-2, D-4",
+            "A-3, B-4, C-1, D-2",
+            "A-2, B-1, C-4, D-3"
+          ],
+          "a": 0,
+          "e": "A child born in India in 1995 (between 1987-2004) with one Indian-citizen parent falls under citizenship '<b>by birth</b>'; a child born abroad after 2004 to an Indian father, duly registered, falls under '<b>by descent</b>'; a person of Indian origin married to a citizen, resident seven years, applies '<b>by registration</b>'; and Puducherry's residents became citizens '<b>by incorporation of territory</b>'. Correct code: A-3, B-1, C-4, D-2."
+        },
+        {
+          "q": "Consider the following statements about the Citizenship (Amendment) Act, 2019:\n1. It provides an accelerated path to citizenship for Hindu, Sikh, Buddhist, Jain, Parsi and Christian migrants from Afghanistan, Bangladesh and Pakistan who entered India on or before 31 December 2014.\n2. It reduces the naturalisation residence requirement for these migrants from eleven years to five years.\n3. Its special provisions apply uniformly across all Indian states and union territories without exception.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — the CAA's special provisions do <b>not</b> apply to tribal areas of Assam, Meghalaya, Mizoram or Tripura covered under the Sixth Schedule, nor to areas under the Inner Line Permit regime (notified under the Bengal Eastern Frontier Regulation, 1873) — a geographic carve-out that reflects concerns in India's Northeast about demographic change. Statements 1 and 2 are correct."
+        },
+        {
+          "q": "Assertion (A): The Overseas Citizen of India (OCI) scheme does not amount to dual citizenship, even though OCI cardholders enjoy substantial rights in India.\nReason (R): Article 9 of the Constitution prohibits a person from being an Indian citizen if they voluntarily hold the citizenship of another country, so OCI is structured as a distinct, revocable legal status rather than citizenship itself.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+          "o": [
+            "Both A and R are true, and R is the correct explanation of A",
+            "Both A and R are true, but R is NOT the correct explanation of A",
+            "A is true, but R is false",
+            "A is false, but R is true"
+          ],
+          "a": 0,
+          "e": "Both are true and R explains A directly — the book is explicit that 'OCI is not actually a dual citizenship as the Indian Constitution forbids dual citizenship or dual nationality (Article 9)', which is exactly why OCI cardholders are denied voting rights, constitutional offices and general public employment even while enjoying visa-free entry and several economic parities with citizens."
+        },
+        {
+          "q": "With reference to the Assam Accord's citizenship provisions inserted by the Citizenship (Amendment) Act, 1985, consider the following statements:\n1. Persons of Indian origin entering Assam from Bangladesh before 1 January 1966 are deemed citizens as from that date.\n2. Those entering between 1 January 1966 and 25 March 1971 who are later detected as foreigners must register and become citizens only ten years after such detection.\n3. During the intervening ten-year period, such registered persons enjoy all rights of citizenship, including voting.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — such persons are denied the <b>right to vote</b> during the ten-year intervening period, even though they otherwise have the rights and obligations of citizens. Statements 1 and 2 correctly capture the two-cutoff-date structure (1 January 1966 and 25 March 1971) central to Assam's long-running foreigners/NRC debate."
+        },
+        {
+          "q": "Consider the following statements comparing the three modes of losing Indian citizenship:\n1. Renunciation is a voluntary act requiring registration of a declaration, and is withheld during wartime.\n2. Termination is automatic upon a citizen voluntarily and knowingly acquiring foreign citizenship, but does not apply during wartime either.\n3. Deprivation is a compulsory government action available on specific grounds such as fraud, disloyalty, or prolonged absence from India.\nHow many of the statements given above are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct. Together they reveal a coherent design: two of the three modes (renunciation, termination) are essentially citizen-driven and both carry a wartime safeguard against citizens exploiting the process to shirk national duty, while the third (deprivation) is the government's own compulsory tool for citizens who have breached the terms of their citizenship, whether through fraud, disloyalty, or actions inconsistent with continued allegiance."
+        },
+        {
+          "q": "Consider the following statements regarding the relationship between the Public Employment (Requirement as to Residence) Act, 1957 and Article 371-D:\n1. The 1957 Act allowed the Centre to prescribe residence qualifications for certain non-Gazetted posts in a few named states.\n2. This Act expired in 1974 for all states except where continued through a separate constitutional provision.\n3. Article 371-D, inserted by the 32nd Amendment Act, 1973, and later extended to Telangana, is the provision that keeps this residence requirement alive today.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct, and together they resolve what could otherwise seem like a contradiction — the general 1957 law lapsed for most states in 1974, but a special constitutional provision (Article 371-D) independently preserved a similar residence-based employment protection specifically for Andhra Pradesh, later extended to Telangana upon its 2014 creation."
+        },
+        {
+          "q": "Consider the following statements about the historical evolution of Overseas Indian engagement schemes:\n1. The PIO card scheme was introduced in 2002, prior to the OCI card scheme launched in 2005.\n2. The High Level Committee on the Indian Diaspora, chaired by L.M. Singhvi, recommended a form of dual citizenship in its January 2002 report, which led to the 2003 OCI amendment.\n3. The 2015 Amendment Act rescinded the PIO scheme and deemed existing PIO cardholders to be OCI cardholders from 9 January 2015.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct and lay out the complete institutional history — from the Singhvi Committee's 2002 recommendation, through the 2003 OCI creation and the pre-existing 2002 PIO scheme, to their eventual 2015 merger. This is a good example of policy history where committee recommendations, legislative amendments and administrative schemes interlock across more than a decade."
+        },
+        {
+          "q": "Assertion (A): An OCI cardholder can practise as a chartered accountant or an advocate in India but cannot purchase agricultural land.\nReason (R): The Citizenship (Amendment) Act, 2015 grants OCI cardholders parity with NRIs in certain specified professional and economic fields, while other fields (like agricultural land ownership) remain governed by rules applicable to foreign nationals.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+          "o": [
+            "Both A and R are true, and R is the correct explanation of A",
+            "Both A and R are true, but R is NOT the correct explanation of A",
+            "A is true, but R is false",
+            "A is false, but R is true"
+          ],
+          "a": 0,
+          "e": "Both are true and R explains A — the notified parity for OCI cardholders is deliberately partial and field-specific: certain professions (medicine, law, architecture, chartered accountancy) and certain property types (excluding agricultural land, farmhouses, plantations) are treated differently, with the latter remaining subject to the more restrictive rules that apply to ordinary foreign nationals."
+        },
+        {
+          "q": "Consider the following statements about India's approach to eligibility for high constitutional offices based on citizenship type:\n1. Both citizens by birth and naturalised citizens are eligible to become President of India.\n2. This is a point of divergence from the American Constitution, which restricts the presidency to natural-born citizens.\n3. OCI cardholders, despite holding a form of Indian legal status, are also constitutionally eligible to become President.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — OCI cardholders are explicitly and specifically <b>barred</b> from eligibility for the office of President (Article 58) as one of the enumerated rights denied to them; only full Indian citizens, whether by birth or naturalisation, qualify. Statements 1 and 2 correctly capture the birth/naturalised-citizen parity and the US-India comparative point."
+        },
+        {
+          "q": "With reference to citizenship by descent, consider the following statements:\n1. A person born outside India before 10 December 1992 needed only their father to be an Indian citizen at the time of birth.\n2. From 10 December 1992, either parent being an Indian citizen suffices.\n3. From 3 December 2004, registration of the birth at an Indian consulate (or central government permission) within the specified time became an additional requirement.\nHow many of the statements given above are correct?",
+          "o": [
+            "Only one",
+            "Only two",
+            "All three",
+            "None"
+          ],
+          "a": 2,
+          "e": "All three statements are correct and trace an important gender-equality correction in Indian citizenship law — the pre-1992 rule recognised only the father's citizenship (a patrilineal bias), which was corrected in 1992 to include either parent, before the 2004 amendment added the further procedural safeguard of mandatory consulate registration."
+        },
+        {
+          "q": "Consider the following statements about the constitutional treatment of Jammu and Kashmir's special citizenship-related provisions:\n1. Article 35-A allowed the erstwhile J&K legislature to define 'permanent residents' and confer special rights on them regarding employment, property acquisition, settlement and scholarships.\n2. Article 35-A was inserted by the Constitution (Application to Jammu and Kashmir) Order, 1954, issued under Article 370.\n3. The special status under Articles 370 and 35-A was abolished by an Act of Parliament amending the Constitution under Article 368.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — the abolition was achieved through a <b>presidential order</b> (The Constitution (Application to Jammu and Kashmir) Order, 2019), not through a Parliamentary constitutional amendment under Article 368, which is precisely why this method attracted significant legal debate and Supreme Court scrutiny. Statements 1 and 2 correctly describe Article 35-A's content and 1954 origin."
+        },
+        {
+          "q": "Consider the following statements regarding the effect of the Jammu and Kashmir Reorganisation Act, 2019 on citizenship-related residency privileges:\n1. It bifurcated the former state into the Union Territories of Jammu and Kashmir, and Ladakh.\n2. Following the 2019 changes, all provisions of the Indian Constitution, including its uniform citizenship framework, were extended to these territories.\n3. The erstwhile 'permanent resident' category under Article 35-A continues to operate unchanged in both new Union Territories.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — since Article 35-A itself was abolished along with J&K's special status in 2019, the old 'permanent resident' category as it previously operated does <b>not</b> continue unchanged; the Indian Constitution's uniform citizenship framework was extended in its place. Statements 1 and 2 are correct."
+        },
+        {
+          "q": "With reference to naturalisation qualifications under the Citizenship Act, 1955, consider the following statements:\n1. An applicant must undertake to renounce any existing foreign citizenship if their Indian citizenship application is accepted.\n2. An applicant must show adequate knowledge of a language specified in the Eighth Schedule of the Constitution.\n3. The Government can waive all naturalisation qualifications, without exception, for any applicant who has resided in India continuously for over 25 years.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — the waiver power is reserved specifically for persons of <b>distinguished service to science, philosophy, art, literature, world peace or human progress</b>, not simply for anyone with 25 years of residence. Statements 1 and 2 correctly state two of the standard naturalisation qualifications: renouncing prior foreign citizenship and demonstrating knowledge of an Eighth Schedule language."
+        },
+        {
+          "q": "Consider the following statements about the rights and privileges reserved exclusively for citizens of India (and denied to aliens):\n1. Right against discrimination under Article 15 and equality of opportunity in public employment under Article 16.\n2. Freedom of speech, assembly, association, movement, residence and profession under Article 19.\n3. Cultural and educational rights under Articles 29 and 30, and eligibility to vote and contest elections.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements correctly list the bundle of rights the book identifies as citizen-exclusive. Understanding this list matters because it clarifies the practical stakes of the citizen/alien and citizen/OCI distinctions covered throughout this chapter — these are precisely the rights an OCI cardholder, despite many economic and travel benefits, still cannot access."
+        },
+        {
+          "q": "Assertion (A): The 1985 Assam Accord provisions and the 2019 CAA both use religion or place-of-origin as organizing criteria for citizenship eligibility, yet operate through different legal mechanisms.\nReason (R): The Assam Accord provisions use specific historical entry-date cutoffs (1966, 1971) tied to Assam's unique migration history, while the CAA, 2019 uses a religion-based eligibility list applicable nationally (with specified geographic exclusions) for migrants from three named countries.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+          "o": [
+            "Both A and R are true, and R is the correct explanation of A",
+            "Both A and R are true, but R is NOT the correct explanation of A",
+            "A is true, but R is false",
+            "A is false, but R is true"
+          ],
+          "a": 0,
+          "e": "Both are true and R explains A — while both provisions carve out special citizenship pathways, the Assam Accord framework is time/place-specific to Assam's Bangladesh-migration history, whereas the CAA, 2019 is organized around religious community and country of origin, applicable more broadly, which is exactly why the two are often confused but are legally and historically distinct provisions."
+        },
+        {
+          "q": "Consider the following statements comparing OCI cardholders with Non-Resident Indians (NRIs):\n1. Both require a visa to enter India.\n2. Both can pursue inter-country adoption of Indian children and appear for all-India entrance tests under NRI quotas.\n3. Both are eligible to be appointed to public services and posts without any restriction.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "2 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 1 is incorrect — NRIs, being full citizens holding Indian passports, need no visa at all, and OCI cardholders also don't need a separate visa since their card itself functions as a lifelong visa; only PIO cardholders (the now-discontinued category) needed one. Statement 3 is incorrect since OCI cardholders face significant public-employment restrictions. Only statement 2 is correct, reflecting the 'parity with NRIs' provisions specifically granted to OCI cardholders in these particular matters."
+        },
+        {
+          "q": "With reference to the constitutional design choices around citizenship, consider the following statements:\n1. The Constitution's citizenship provisions were deliberately kept minimal, unlike the elaborate treatment given to Fundamental Rights.\n2. This design allowed Parliament flexibility to adapt citizenship rules to changing circumstances, such as Partition-era migration, the Assam Accord, diaspora engagement, and cross-border persecution.\n3. As a direct consequence, the Citizenship Act, 1955 has needed no amendments since its enactment, since Articles 5-11 already cover every contingency.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect and in fact inverts the real relationship — it is precisely <b>because</b> the constitutional provisions are minimal that the Citizenship Act has needed <b>repeated amendment</b> (1986, 1992, 2003, 2005, 2015, 2019, among others) to address new situations as they arose. Statements 1 and 2 correctly explain the rationale and consequence of this deliberately lean constitutional design."
         }
       ]
     }
