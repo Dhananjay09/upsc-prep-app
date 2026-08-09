@@ -8127,277 +8127,266 @@
   {
     "id": "amendment_of_constitution",
     "title": "Amendment of the Constitution",
-    "desc": "Article 368, amendment procedures, and key amendments",
+    "desc": "Article 368: procedure, the three types of amendment (simple majority, special majority, special majority plus state ratification), criticism of the procedure, and framers' views on flexibility versus rigidity",
     "questions": {
       "basic": [
         {
-          "q": "Which Part of the Constitution contains Article 368, which deals with the power of Parliament to amend the Constitution?",
+          "q": "Which Article of the Constitution, in Part XX, deals with Parliament's power to amend the Constitution and the procedure for doing so?",
           "o": [
-            "Part XVIII",
-            "Part XIX",
-            "Part XX",
-            "Part XXI"
+            "Article 356",
+            "Article 360",
+            "Article 368",
+            "Article 370"
           ],
           "a": 2,
-          "e": "<b>Article 368</b> is located in <b>Part XX</b> of the Constitution, titled 'Amendment of the Constitution'."
+          "e": "<b>Article 368</b> in <b>Part XX</b> is the master provision on constitutional amendment. It empowers Parliament to amend by way of addition, variation or repeal, while also being subject to the judicially-created limitation that it cannot touch the Constitution's 'basic structure', as established in the Kesavananda Bharati case (1973)."
         },
         {
-          "q": "The title of Part XX of the Constitution, which contains Article 368, is:",
+          "q": "Is India's amendment procedure closer to Britain's flexible model or America's rigid model?",
           "o": [
-            "Amendment of the Constitution",
-            "Miscellaneous Provisions",
-            "Temporary and Transitional Provisions",
-            "Special Provisions Relating to States"
+            "Identical to Britain's fully flexible model",
+            "Identical to America's fully rigid model",
+            "Neither — it is a synthesis of both, neither too easy nor too difficult",
+            "It has no comparable model in any other country"
+          ],
+          "a": 2,
+          "e": "India's Constitution is <b>neither flexible nor rigid but a synthesis of both</b> — some provisions can be changed by a simple parliamentary majority (like Britain's flexible model), others need a special majority, and the most fundamental federal provisions additionally need state ratification (closer to America's more rigid model), all within the same single Article 368 framework."
+        },
+        {
+          "q": "Where can a bill to amend the Constitution be introduced?",
+          "o": [
+            "Only in the Lok Sabha",
+            "Only in the Rajya Sabha",
+            "In either House of Parliament, but not in any state legislature",
+            "In any state legislature, which then forwards it to Parliament"
+          ],
+          "a": 2,
+          "e": "A constitutional amendment bill can be introduced in <b>either House of Parliament</b> — Lok Sabha or Rajya Sabha — but state legislatures have no power to originate such a bill on their own. This is one of the criticisms levelled at the procedure, since it concentrates the power to initiate amendments entirely within Parliament."
+        },
+        {
+          "q": "Does a constitutional amendment bill require the prior permission of the President before it can be introduced in Parliament?",
+          "o": [
+            "Yes, presidential permission is mandatory before introduction",
+            "No, it can be introduced by a minister or a private member without needing prior presidential permission",
+            "Yes, but only if introduced by a private member",
+            "No, but it requires the Prime Minister's prior permission instead"
+          ],
+          "a": 1,
+          "e": "Unlike some other categories of bills (such as Money Bills), a constitutional amendment bill <b>does not require prior presidential permission</b> and can be introduced by <b>either a minister or a private member</b>, making the point of entry into the legislative process relatively open."
+        },
+        {
+          "q": "What is the minimum majority required in each House of Parliament to pass a constitutional amendment bill under Article 368?",
+          "o": [
+            "A simple majority of members present and voting",
+            "A special majority: majority of total membership of the House, and two-thirds of members present and voting",
+            "Three-fourths of the total membership of the House",
+            "Unanimous consent of all members"
+          ],
+          "a": 1,
+          "e": "This is called a '<b>special majority</b>' — it requires BOTH a majority of the House's total membership AND a two-thirds majority of members present and voting, a dual threshold that is harder to achieve than either requirement alone, and is the standard majority for most, though not all, categories of constitutional amendment."
+        },
+        {
+          "q": "If the Lok Sabha and Rajya Sabha disagree on a constitutional amendment bill, is there a provision for a joint sitting to resolve the deadlock?",
+          "o": [
+            "Yes, exactly as with an ordinary bill under Article 108",
+            "No, there is no provision for a joint sitting for a constitutional amendment bill",
+            "Yes, but only the Rajya Sabha can request it",
+            "No, but the President can dissolve Parliament to resolve it"
+          ],
+          "a": 1,
+          "e": "Unlike ordinary bills (which CAN go to a joint sitting under Article 108 to resolve deadlocks), there is <b>no such joint-sitting provision</b> for constitutional amendment bills — each House must pass the bill separately, making genuine bicameral agreement essential for any amendment to succeed."
+        },
+        {
+          "q": "When must a constitutional amendment bill additionally be ratified by state legislatures?",
+          "o": [
+            "Whenever the bill seeks to amend any provision at all",
+            "Only when the bill seeks to amend provisions related to the federal structure of the Constitution",
+            "Only when the bill is introduced by a private member",
+            "Whenever the Rajya Sabha specifically requests state ratification"
+          ],
+          "a": 1,
+          "e": "State ratification is required only for the specific, narrower category of amendments touching the <b>federal structure</b> — such as the distribution of powers, the Supreme Court/High Courts, or the President's election method — not for every amendment. This is the third and most demanding of the three amendment routes."
+        },
+        {
+          "q": "How many state legislatures must ratify a bill amending a federal provision, and by what majority?",
+          "o": [
+            "Half of the states, by a simple majority",
+            "Two-thirds of the states, by a special majority",
+            "Three-fourths of the states, by a simple majority",
+            "All states, by a special majority"
           ],
           "a": 0,
-          "e": "Part XX is titled '<b>Amendment of the Constitution</b>' and contains only <b>Article 368</b>."
+          "e": "Ratification requires <b>half of the state legislatures</b> to approve the bill by a <b>simple majority</b> — notably lower than the two-thirds requirement in Parliament itself, and far less demanding than the American system's three-fourths-of-states requirement."
         },
         {
-          "q": "How many distinct procedures does the Indian Constitution provide for its amendment?",
+          "q": "Once a constitutional amendment bill has been duly passed by Parliament (and ratified by states where required), what happens next?",
+          "o": [
+            "It is sent to the Supreme Court for constitutional review before taking effect",
+            "It is presented to the President, who must give assent and cannot withhold it or return it for reconsideration",
+            "It requires a national referendum before becoming law",
+            "It automatically becomes law without any presidential role"
+          ],
+          "a": 1,
+          "e": "The bill is presented to the <b>President</b>, who <b>must give assent</b> — the <b>24th Amendment Act, 1971</b> made this obligatory, removing any presidential discretion to withhold assent or send the bill back, which had been a point of ambiguity before that amendment."
+        },
+        {
+          "q": "Into how many broad categories can constitutional amendments be classified based on the majority/procedure required?",
           "o": [
             "Two",
-            "Three",
+            "Three: by simple majority, by special majority, and by special majority plus state ratification",
             "Four",
             "Five"
           ],
           "a": 1,
-          "e": "The Constitution can be amended in <b>three</b> ways: by simple majority, by special majority under <b>Article 368</b>, and by special majority with ratification by states."
+          "e": "There are <b>three</b> distinct amendment routes: amendment by <b>simple majority</b> (outside Article 368's technical scope), amendment by <b>special majority</b> of Parliament, and amendment by <b>special majority plus ratification by half the states</b> — each reserved for a different category of constitutional provisions depending on how significant or federally sensitive the change is."
         },
         {
-          "q": "Which of the following can be amended by a simple majority of Parliament, as in ordinary law-making, without invoking Article 368?",
+          "q": "Which of the following can be amended by a simple majority of Parliament, outside the scope of Article 368?",
           "o": [
-            "Formation of new states",
+            "Fundamental Rights",
+            "Formation of new states and alteration of boundaries of existing states",
             "Election of the President",
-            "Distribution of legislative powers between Union and States",
+            "Representation of states in Parliament"
+          ],
+          "a": 1,
+          "e": "Formation of new states and alteration of state boundaries (governed by Articles 2-4) is one of about 18 categories that can be changed by a <b>simple majority</b>, treated as ordinary legislation rather than a 'constitutional amendment' for Article 368 purposes. Fundamental Rights, presidential election, and state representation all require more demanding procedures instead."
+        },
+        {
+          "q": "Which category of provisions requires amendment by the special majority of Parliament alone (without state ratification)?",
+          "o": [
+            "Fundamental Rights and Directive Principles of State Policy",
+            "Distribution of legislative powers between Union and states",
+            "Election of the President",
             "Representation of states in Parliament"
           ],
           "a": 0,
-          "e": "Formation of new states and alteration of boundaries under <b>Articles 2-4</b> are done by <b>simple majority</b>, outside the scope of <b>Article 368</b>."
+          "e": "<b>Fundamental Rights and Directive Principles</b> fall under the 'special majority of Parliament alone' category — a middle tier that is harder to change than simple-majority provisions but doesn't require the additional step of state ratification reserved for the most federally sensitive provisions."
         },
         {
-          "q": "What is the 'special majority' required under Article 368 for most constitutional amendments?",
+          "q": "Which of the following requires amendment by special majority of Parliament PLUS ratification by half the states?",
           "o": [
-            "Simple majority of members present and voting",
-            "Majority of total membership of each House and two-thirds majority of members present and voting",
-            "Two-thirds of total membership of each House",
-            "Three-fourths majority of members present and voting"
+            "Quorum in Parliament",
+            "Salaries and allowances of Members of Parliament",
+            "Distribution of legislative powers between the Union and the states",
+            "Citizenship — acquisition and termination"
+          ],
+          "a": 2,
+          "e": "The <b>distribution of legislative powers</b> between the Union and states goes to the heart of India's federal structure, which is precisely why it requires the most demanding route — special majority in Parliament plus ratification by at least half the state legislatures. The other three options are all examples of matters amendable by simple majority instead."
+        },
+        {
+          "q": "Is there a time limit within which states must give their consent to a constitutional amendment requiring state ratification?",
+          "o": [
+            "Yes, six months",
+            "Yes, one year",
+            "No, the Constitution prescribes no such time limit",
+            "Yes, but only for amendments related to the judiciary"
+          ],
+          "a": 2,
+          "e": "The Constitution is <b>silent on any time limit</b> for state ratification — the amendment process is treated as complete the moment half of the states give their consent, regardless of how long individual states take, and there's likewise no clarity on whether a state can withdraw consent already given, both cited as gaps in the procedure."
+        },
+        {
+          "q": "Which famous case established that Parliament's amending power under Article 368 cannot be used to alter the 'basic structure' of the Constitution?",
+          "o": [
+            "Golaknath case (1967)",
+            "Kesavananda Bharati case (1973)",
+            "Minerva Mills case (1980)",
+            "Maneka Gandhi case (1978)"
           ],
           "a": 1,
-          "e": "Special majority under <b>Article 368</b> means a <b>majority of the total membership</b> of each House and a <b>two-thirds majority</b> of members present and voting."
+          "e": "The <b>Kesavananda Bharati case (1973)</b> established the basic structure doctrine — the single most important judicial limitation on the otherwise very broad amending power granted to Parliament under Article 368, ensuring that even a duly passed amendment cannot destroy the Constitution's foundational identity."
         },
         {
-          "q": "Which Schedule was inserted into the Constitution by the First Amendment Act, 1951?",
+          "q": "Which political scientist praised India's variety of amendment procedures, remarking 'this variety in the amending process is wise but rarely found'?",
           "o": [
-            "Eighth Schedule",
-            "Ninth Schedule",
-            "Tenth Schedule",
-            "Eleventh Schedule"
+            "A.V. Dicey",
+            "K.C. Wheare",
+            "Ivor Jennings",
+            "Granville Austin"
           ],
           "a": 1,
-          "e": "The <b>First Amendment Act, 1951</b> inserted the <b>Ninth Schedule</b> along with Articles 31A and 31B to protect land reform laws from judicial review."
+          "e": "<b>K.C. Wheare</b> made this specific remark admiring India's multi-tiered amendment system. He is also the scholar behind the earlier-noted observation that India's amendment procedure 'strikes a good balance between flexibility and rigidity' — a recurring theme across the chapter's discussion of the procedure's overall design philosophy."
         },
         {
-          "q": "The Seventh Amendment Act, 1956 was enacted to give effect to which reorganization?",
+          "q": "Who observed in the Constituent Assembly, 'While we want this Constitution to be as solid and permanent as we can make it, there is no permanence in a Constitution... there should be a certain flexibility'?",
           "o": [
-            "Linguistic reorganization under the States Reorganisation Act, 1956",
-            "Formation of Union Territories only",
-            "Merger of princely states",
-            "Creation of the Ninth Schedule"
-          ],
-          "a": 0,
-          "e": "The <b>7th Amendment Act, 1956</b> implemented the <b>States Reorganisation Act, 1956</b>, abolishing the four-fold classification of states into Part A, B, C and D."
-        },
-        {
-          "q": "Which amendment is popularly known as the 'Mini-Constitution'?",
-          "o": [
-            "24th Amendment, 1971",
-            "42nd Amendment, 1976",
-            "44th Amendment, 1978",
-            "52nd Amendment, 1985"
+            "Dr. B.R. Ambedkar",
+            "Pandit Jawaharlal Nehru",
+            "Dr. Rajendra Prasad",
+            "Sardar Vallabhbhai Patel"
           ],
           "a": 1,
-          "e": "The <b>42nd Amendment Act, 1976</b> made sweeping changes and is popularly called the '<b>Mini-Constitution</b>'."
+          "e": "<b>Pandit Nehru</b> made this remark, arguing that excessive rigidity would 'stop the nation's growth' as 'a living, vital, organic people' — a philosophical justification for building meaningful amendability into the Constitution rather than treating it as untouchable."
         },
         {
-          "q": "The words 'Socialist' and 'Secular' were added to the Preamble by which amendment?",
+          "q": "Which amendment added the provision relating to the Goods and Services Tax Council, requiring the special majority plus state-ratification procedure?",
           "o": [
-            "1st Amendment, 1951",
-            "42nd Amendment, 1976",
-            "44th Amendment, 1978",
-            "86th Amendment, 2002"
+            "97th Amendment Act, 2011",
+            "101st Amendment Act, 2016",
+            "103rd Amendment Act, 2019",
+            "44th Amendment Act, 1978"
           ],
           "a": 1,
-          "e": "The <b>42nd Amendment Act, 1976</b> added the words '<b>Socialist</b>', '<b>Secular</b>' and 'Integrity' to the Preamble."
-        },
-        {
-          "q": "Fundamental Duties were added to the Constitution under which Article by the 42nd Amendment?",
-          "o": [
-            "Article 21A",
-            "Article 51A",
-            "Article 300A",
-            "Article 31C"
-          ],
-          "a": 1,
-          "e": "The <b>42nd Amendment Act, 1976</b> inserted <b>Article 51A</b> in a new <b>Part IVA</b>, laying down Fundamental Duties."
-        },
-        {
-          "q": "Which amendment changed the ground for declaring a National Emergency from 'internal disturbance' to 'armed rebellion'?",
-          "o": [
-            "42nd Amendment, 1976",
-            "44th Amendment, 1978",
-            "52nd Amendment, 1985",
-            "61st Amendment, 1988"
-          ],
-          "a": 1,
-          "e": "The <b>44th Amendment Act, 1978</b> replaced '<b>internal disturbance</b>' with '<b>armed rebellion</b>' as a ground for National Emergency under Article 352."
-        },
-        {
-          "q": "The Right to Property ceased to be a Fundamental Right and became a legal right under which Article, following the 44th Amendment?",
-          "o": [
-            "Article 19",
-            "Article 300A",
-            "Article 31A",
-            "Article 21A"
-          ],
-          "a": 1,
-          "e": "The <b>44th Amendment Act, 1978</b> deleted the Right to Property from Part III and made it a legal right under <b>Article 300A</b>."
-        },
-        {
-          "q": "The 73rd Amendment Act, 1992 deals with which subject?",
-          "o": [
-            "Municipalities",
-            "Panchayati Raj institutions",
-            "Goods and Services Tax",
-            "Right to Education"
-          ],
-          "a": 1,
-          "e": "The <b>73rd Amendment Act, 1992</b> gave constitutional status to <b>Panchayati Raj institutions</b> through Part IX."
-        },
-        {
-          "q": "The 74th Amendment Act, 1992 introduced constitutional provisions for:",
-          "o": [
-            "Panchayats",
-            "Municipalities",
-            "Cooperative societies",
-            "Tribunals"
-          ],
-          "a": 1,
-          "e": "The <b>74th Amendment Act, 1992</b> added Part IXA on <b>Municipalities</b>, providing them constitutional status."
-        },
-        {
-          "q": "Which amendment inserted Article 21A, guaranteeing the Right to Education as a Fundamental Right?",
-          "o": [
-            "44th Amendment, 1978",
-            "86th Amendment, 2002",
-            "93rd Amendment, 2005",
-            "101st Amendment, 2016"
-          ],
-          "a": 1,
-          "e": "The <b>86th Amendment Act, 2002</b> inserted <b>Article 21A</b>, making free and compulsory education for children aged 6-14 a Fundamental Right."
+          "e": "The <b>101st Amendment Act, 2016</b>, which introduced GST, added the GST Council provision (Article 279-A) to the list of matters requiring special majority plus state ratification — reflecting the genuinely federal, Centre-state cooperative character of India's GST framework."
         }
       ],
       "intermediate": [
         {
-          "q": "Consider the following statements about the amendment procedure under Article 368: 1. It requires a special majority in each House of Parliament. 2. It requires ratification by all state legislatures for every amendment. Which of the statements given above is/are correct?",
+          "q": "Consider the following statements about the initiation of constitutional amendment bills:\n1. Only Parliament can initiate an amendment bill; state legislatures have no such power.\n2. State legislatures have one narrow exception: they can pass a resolution requesting Parliament to create or abolish a legislative council in their state.\n3. Once a state passes such a resolution, Parliament is constitutionally bound to act on it within a fixed time.\nWhich of the statements given above is/are correct?",
           "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
           ],
           "a": 0,
-          "e": "Only some amendments (those in the proviso to <b>Article 368(2)</b>) require ratification by <b>not less than one-half</b> of state legislatures; it is not required for every amendment."
+          "e": "Statement 3 is incorrect — even after a state legislature passes such a resolution, <b>Parliament can approve, disapprove, or simply take no action on it at all</b>, with no obligation to act within any timeframe. Statements 1 and 2 correctly describe the very narrow, exceptional role states play in the amendment process."
         },
         {
-          "q": "Which of the following requires ratification by state legislatures in addition to a special majority in Parliament?",
+          "q": "Consider the following statements comparing constitutional amendment bills with ordinary bills:\n1. Both require only a simple majority to pass in each House.\n2. Both can go to a joint sitting of Parliament if there is a deadlock between the two Houses.\n3. Except for the special majority requirement, the process for passing a constitutional amendment bill largely resembles an ordinary legislative process.\nWhich of the statements given above is/are correct?",
           "o": [
-            "Formation of new states",
-            "Creation of Legislative Councils in states",
-            "Manner of election of the President",
-            "Second Schedule salaries of the Speaker"
-          ],
-          "a": 2,
-          "e": "The manner of <b>election of the President</b> (Articles 54 and 55) is among the provisions listed in the proviso to <b>Article 368(2)</b> requiring ratification by half the states."
-        },
-        {
-          "q": "Consider the following statements regarding the 42nd Amendment Act, 1976: 1. It added the Fundamental Duties. 2. It added the words 'Socialist' and 'Secular' to the Preamble. 3. It curtailed the scope of judicial review. How many of the above statements are correct?",
-          "o": [
-            "Only one",
-            "Only two",
-            "All three",
-            "None"
-          ],
-          "a": 2,
-          "e": "The <b>42nd Amendment Act, 1976</b> added <b>Fundamental Duties</b>, inserted 'Socialist' and 'Secular' into the Preamble, and curtailed <b>judicial review</b> by amending Articles 368 and 31C."
-        },
-        {
-          "q": "Which amendment introduced the Goods and Services Tax (GST) regime in India?",
-          "o": [
-            "95th Amendment",
-            "99th Amendment",
-            "101st Amendment",
-            "103rd Amendment"
-          ],
-          "a": 2,
-          "e": "The <b>101st Amendment Act, 2016</b> introduced the <b>Goods and Services Tax (GST)</b> by inserting Articles 246A, 269A and 279A."
-        },
-        {
-          "q": "The 103rd Amendment Act, 2019 provides for reservation of what percentage of seats/posts for Economically Weaker Sections?",
-          "o": [
-            "5%",
-            "10%",
-            "15%",
-            "20%"
-          ],
-          "a": 1,
-          "e": "The <b>103rd Amendment Act, 2019</b> added Articles 15(6) and 16(6), providing <b>10% reservation</b> for Economically Weaker Sections (EWS)."
-        },
-        {
-          "q": "Granville Austin described the amending process of the Indian Constitution as:",
-          "o": [
-            "Purely rigid, like the USA",
-            "Purely flexible, like the UK",
-            "A synthesis of rigidity and flexibility",
-            "An entirely judicial process"
-          ],
-          "a": 2,
-          "e": "Granville Austin described the Indian Constitution's amending process as a '<b>synthesis of rigidity and flexibility</b>', combining elements of rigid constitutions like the USA and flexible ones like the UK."
-        },
-        {
-          "q": "Which of the following is amended by simple majority, not requiring the special procedure under Article 368?",
-          "o": [
-            "Seventh Schedule lists",
-            "Salaries and allowances of the President under the Second Schedule",
-            "Extent of executive power of states",
-            "Representation of states in Parliament"
-          ],
-          "a": 1,
-          "e": "Salaries, allowances and privileges under the <b>Second Schedule</b> can be altered by <b>simple majority</b>, as an ordinary legislative matter outside Article 368."
-        },
-        {
-          "q": "For an amendment requiring ratification by state legislatures, what proportion of states must ratify the amendment?",
-          "o": [
-            "Not less than one-half of the states",
-            "Not less than two-thirds of the states",
-            "All the states",
-            "Not less than one-third of the states"
+            "3 only",
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only"
           ],
           "a": 0,
-          "e": "As per the proviso to <b>Article 368(2)</b>, ratification requires resolutions passed by <b>not less than one-half</b> of the state legislatures."
+          "e": "Statements 1 and 2 are incorrect — constitutional amendment bills need a <b>special</b> (not simple) majority in most cases, and there is <b>no joint-sitting provision</b> for them (unlike ordinary bills, which can go to a joint sitting under Article 108). Only statement 3 is correct, and it's precisely this resemblance to ordinary legislative process (apart from the majority requirement) that critics have flagged as a weakness in the procedure's design."
         },
         {
-          "q": "By what majority must a state legislature pass a resolution to ratify a constitutional amendment?",
+          "q": "Consider the following statements about the 24th Constitutional Amendment Act, 1971:\n1. It made it obligatory for the President to give assent to a constitutional amendment bill.\n2. It removed the President's power to withhold assent or return the bill for reconsideration.\n3. It was enacted in direct response to the Kesavananda Bharati judgment.\nWhich of the statements given above is/are correct?",
           "o": [
-            "Special majority as in Article 368",
-            "Simple majority",
-            "Two-thirds of total membership",
-            "Three-fourths majority"
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
           ],
-          "a": 1,
-          "e": "State legislatures ratify amendments by a <b>simple majority</b> resolution; no special majority is prescribed for ratification by states."
+          "a": 0,
+          "e": "Statement 3 is incorrect — the 24th Amendment Act, 1971 actually <b>predates</b> Kesavananda Bharati (1973) by two years; it was Parliament's response to the earlier <b>Golaknath case (1967)</b>, reasserting Parliament's power to amend Fundamental Rights, not a reaction to Kesavananda Bharati. Statements 1 and 2 are correct."
         },
         {
-          "q": "Consider the following statements about the 1st Amendment Act, 1951: 1. It added the Ninth Schedule. 2. It inserted Articles 31A and 31B. 3. It added new grounds of restriction to freedom of speech under Article 19(2). Which of the statements given above are correct?",
+          "q": "Consider the following statements about matters amendable by a simple majority of Parliament, outside Article 368's technical scope:\n1. This category includes admission or establishment of new states and citizenship-related matters.\n2. This category includes the number of puisne judges in the Supreme Court and conferring more jurisdiction on it.\n3. This category includes Fundamental Rights, since Parliament frequently needs to update them.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — Fundamental Rights fall under the <b>special majority</b> category (not simple majority), reflecting their greater constitutional weight compared to matters like judicial administration details or citizenship rules. Statements 1 and 2 correctly list two of the roughly eighteen simple-majority categories."
+        },
+        {
+          "q": "Consider the following statements about the 'special majority' required under Article 368:\n1. It means a majority of the total membership of the House and two-thirds of members present and voting.\n2. 'Total membership' is calculated after excluding vacant seats and absent members from the count.\n3. According to Lok Sabha Rules, this special majority standard applies at all effective stages of the bill's passage, not merely at the final voting stage.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 2 is incorrect — '<b>total membership</b>' means the total number of seats in the House <b>regardless of vacancies or absentees</b>, a stricter and less forgiving baseline than counting only currently filled or attending seats. Statements 1 and 3 correctly describe the special majority's composition and its application throughout the bill's passage, not just at the final vote."
+        },
+        {
+          "q": "Consider the following statements about provisions requiring special majority plus state ratification:\n1. This category includes the manner of electing the President and the extent of executive power of the Union and states.\n2. This category includes any of the lists in the Seventh Schedule.\n3. This category also includes Article 368 itself — Parliament's own power to amend the Constitution and its procedure.\nWhich of the statements given above is/are correct?",
           "o": [
             "1 and 2 only",
             "2 and 3 only",
@@ -8405,229 +8394,297 @@
             "1, 2 and 3"
           ],
           "a": 3,
-          "e": "The <b>1st Amendment Act, 1951</b> added the <b>Ninth Schedule</b>, inserted <b>Articles 31A and 31B</b>, and added grounds like public order and friendly relations with foreign states to Article 19(2)."
+          "e": "All three statements are correct — this is a deliberately self-referential design feature: Parliament cannot even change its OWN amending power and procedure (statement 3) without going through the most demanding route, ensuring the amendment mechanism itself can't be casually loosened by a simple parliamentary majority."
         },
         {
-          "q": "Match the following amendments with their subject matter: (1) 7th Amendment (2) 73rd Amendment (3) 86th Amendment (4) 101st Amendment; with (a) GST (b) Right to Education (c) States Reorganisation (d) Panchayati Raj",
+          "q": "Consider the following statements about criticism of India's amendment procedure:\n1. Critics note the absence of a special body like a Constitutional Convention, unlike in the USA.\n2. Critics note that the Constitution requires ratification by three-fourths of state legislatures for federal provisions, mirroring the American requirement exactly.\n3. Critics note that the amendment provisions are sketchy, leaving wide scope for judicial interpretation and litigation.\nWhich of the statements given above is/are correct?",
           "o": [
-            "1-c, 2-d, 3-b, 4-a",
-            "1-d, 2-c, 3-a, 4-b",
-            "1-c, 2-b, 3-d, 4-a",
-            "1-a, 2-b, 3-c, 4-d"
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
           ],
           "a": 0,
-          "e": "The <b>7th Amendment</b> relates to <b>States Reorganisation</b>, the <b>73rd</b> to <b>Panchayati Raj</b>, the <b>86th</b> to <b>Right to Education</b>, and the <b>101st</b> to <b>GST</b>."
+          "e": "Statement 2 is incorrect — India requires ratification by only <b>half</b> of the states, which critics specifically contrast with America's stricter <b>three-fourths</b> requirement, precisely BECAUSE India's threshold is lower and thus considered comparatively easier. Statements 1 and 3 are correct."
         },
         {
-          "q": "Which of the following amendments does NOT require ratification by state legislatures?",
+          "q": "Consider the following statements about state legislatures' role in the amendment process compared to the American system:\n1. In the USA, a constitutional convention can be called on the petition of two-thirds of state legislatures.\n2. In India, no equivalent state-initiated convention mechanism exists; states can, at most, request a specific legislative council change.\n3. Despite this difference, both countries require the SAME proportion of states (half) to ratify a federal-provision amendment.\nWhich of the statements given above is/are correct?",
           "o": [
-            "Amendment to Article 368 itself",
-            "Amendment altering distribution of legislative powers between Union and States",
-            "Amendment adding Fundamental Duties",
-            "Amendment to provisions on election of the President"
-          ],
-          "a": 2,
-          "e": "Addition of <b>Fundamental Duties</b> under Article 51A (via the 42nd Amendment) required only a <b>special majority</b> of Parliament, not state ratification, as it is not listed in the proviso to Article 368(2)."
-        },
-        {
-          "q": "The abolition of Legislative Councils in states is done through:",
-          "o": [
-            "A Constitutional Amendment Act under Article 368 with state ratification",
-            "An ordinary law of Parliament passed by simple majority under Article 169",
-            "A Presidential order",
-            "A resolution of the Rajya Sabha alone"
-          ],
-          "a": 1,
-          "e": "Under <b>Article 169</b>, Parliament can create or abolish Legislative Councils by an ordinary law passed by <b>simple majority</b>, after the state assembly passes a special resolution."
-        },
-        {
-          "q": "In a rigid constitution like that of the USA, amendment typically requires:",
-          "o": [
-            "A simple majority of the legislature",
-            "A special and often more elaborate procedure distinct from ordinary law-making",
-            "No formal procedure at all",
-            "Judicial approval only"
-          ],
-          "a": 1,
-          "e": "Rigid constitutions, such as the <b>USA's</b>, require a special, more difficult amending procedure than ordinary lawmaking, unlike flexible constitutions such as the <b>UK's</b>."
-        },
-        {
-          "q": "Which of the following best describes a 'flexible' constitution such as that of the United Kingdom?",
-          "o": [
-            "It can be amended by the same procedure as ordinary laws",
-            "It cannot be amended at all",
-            "It requires a national referendum for every amendment",
-            "It requires ratification by all constituent units"
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
           ],
           "a": 0,
-          "e": "A <b>flexible constitution</b>, like the UK's unwritten constitution, can be amended by the <b>same procedure</b> used for ordinary legislation."
+          "e": "Statement 3 is incorrect — the USA requires ratification by <b>three-fourths</b> of the states for a constitutional amendment, not half; India's much lower <b>half-state</b> threshold is precisely one of the key differences the book highlights between the two systems. Statements 1 and 2 are correct."
+        },
+        {
+          "q": "Consider the following statements about Dr. Ambedkar's assessment of India's amendment procedure in the Constituent Assembly:\n1. He noted that India, unlike Canada, did not deny the people the right to amend the Constitution at all.\n2. He noted that India, unlike America or Australia, did not make amendment subject to extraordinary terms and conditions.\n3. He concluded that the Constituent Assembly had provided for a genuinely difficult, near-impossible procedure for amending the Constitution.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect and contradicts Ambedkar's actual words — he specifically said the Assembly provided for a '<b>facile</b>' (easy) procedure, the opposite of a difficult or near-impossible one. Statements 1 and 2 correctly capture his comparative points about Canada and America/Australia."
+        },
+        {
+          "q": "Consider the following statements about the absence of a time limit for state ratification:\n1. The Constitution does not specify a deadline by which states must ratify an amendment.\n2. The Constitution is also silent on whether a state can withdraw its ratification after giving it.\n3. Because of this silence, courts have definitively ruled that no state may ever withdraw its consent once given.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 overstates the position — the book identifies this as an unresolved <b>gap or silence</b> in the constitutional text (a criticism of the procedure), not as a matter that has been definitively and conclusively settled by judicial ruling. Statements 1 and 2 correctly identify the two related silences in the text."
+        },
+        {
+          "q": "Consider the following statements about the design philosophy behind India's amendment procedure, as reflected in the views of Nehru and Wheare:\n1. Nehru argued that excessive rigidity would prevent the growth of a 'living, vital, organic people'.\n2. Wheare praised the procedure for striking a good balance between flexibility and rigidity.\n3. Both scholars agreed the procedure should be made uniformly rigid across all provisions to ensure stability.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — neither Nehru nor Wheare argued for uniform rigidity; in fact, the entire point of both their observations is that the Constitution's <b>variable, multi-tiered</b> amendment scheme (simple majority for some things, special majority plus ratification for others) is precisely what allows it to balance stability with adaptability. Statements 1 and 2 are correct."
         }
       ],
       "advanced": [
         {
-          "q": "Which of the following can be altered by Parliament through simple majority, even though it relates to the judiciary?",
+          "q": "Which of the following correctly identifies the constitutional consequence when an amendment bill is passed by simple majority under provisions like Articles 2-4 (formation of new states)?",
           "o": [
-            "Jurisdiction of the Supreme Court under Article 138",
-            "Appointment procedure for Supreme Court judges under Article 124",
-            "Provisions relating to High Courts under Chapter V of Part VI",
-            "Article 368 itself"
+            "It is treated as a constitutional amendment under Article 368 and requires the President's mandatory assent",
+            "It is NOT deemed to be a constitutional amendment for the purposes of Article 368, even though it changes the Constitution's text",
+            "It requires ratification by all states before taking effect",
+            "It cannot be passed without a two-thirds majority in both Houses"
+          ],
+          "a": 1,
+          "e": "This is a subtle but important technical point: provisions changeable by simple majority (like state reorganisation under Articles 2-4) are explicitly <b>NOT deemed 'amendments' for Article 368 purposes</b>, even though they do alter constitutional text — allowing Parliament to treat these as ordinary legislative matters rather than triggering the heavier special-majority/ratification machinery."
+        },
+        {
+          "q": "Which of the following is the most accurate description of why the amendment procedure has been criticised as resembling the 'ordinary legislative process'?",
+          "o": [
+            "Because constitutional amendment bills, apart from requiring a special majority, otherwise follow essentially the same procedural steps as ordinary bills",
+            "Because constitutional amendment bills can be passed by voice vote just like ordinary bills",
+            "Because the President has identical powers over both types of bills, including a veto",
+            "Because both types of bills must be ratified by state legislatures"
           ],
           "a": 0,
-          "e": "Under <b>Article 138</b>, Parliament may confer additional jurisdiction on the Supreme Court by an ordinary law passed with a <b>simple majority</b>, without invoking Article 368."
+          "e": "Critics note that beyond the numerical majority threshold, constitutional amendment bills are processed through Parliament much like <b>ordinary bills</b> — same reading stages, same basic passage mechanics — without a genuinely distinct, more solemn 'constituent' procedure such as a special constitutional convention, which is precisely the point of comparison critics draw with countries like the USA."
         },
         {
-          "q": "The power of Parliament to regulate citizenship under Article 11 is exercised by:",
+          "q": "Which of the following correctly explains why the absence of a joint-sitting provision for constitutional amendment bills is considered structurally significant?",
           "o": [
-            "Special majority under Article 368",
-            "Simple majority as ordinary legislation",
-            "Special majority with state ratification",
-            "Presidential ordinance only"
+            "It means a determined Lok Sabha majority can always override Rajya Sabha objections on amendments, just as with ordinary bills",
+            "It means genuine agreement between both Houses is indispensable for any constitutional amendment to succeed, since no joint-sitting mechanism exists to break a deadlock",
+            "It means only the Rajya Sabha's approval is legally required for constitutional amendments",
+            "It means constitutional amendments can bypass Parliament entirely if the Houses disagree"
           ],
           "a": 1,
-          "e": "Article 11 empowers Parliament to regulate the right of citizenship by <b>law</b>, passed by a <b>simple majority</b>, outside the scope of Article 368."
+          "e": "Because Article 108's joint-sitting mechanism (used to resolve Lok Sabha-Rajya Sabha deadlocks on ordinary bills, where the larger Lok Sabha's numbers typically prevail) is <b>unavailable</b> for constitutional amendments, both Houses must separately and independently agree — making the Rajya Sabha's assent genuinely indispensable for constitutional change in a way it isn't always for ordinary legislation."
         },
         {
-          "q": "Which landmark case held that Parliament's constituent power under Article 368 cannot be used to alter the 'basic structure' of the Constitution?",
+          "q": "Which of the following correctly identifies the significance of the phrase 'in exercise of its constituent power' in Article 368?",
           "o": [
-            "Golaknath v. State of Punjab (1967)",
-            "Kesavananda Bharati v. State of Kerala (1973)",
-            "Minerva Mills v. Union of India (1980)",
-            "Shankari Prasad v. Union of India (1951)"
+            "It means Parliament acts as an ordinary legislature exercising Article 245 powers when amending the Constitution",
+            "It means Parliament, when amending the Constitution, is understood to be acting in a special, distinct capacity as a 'constituent' body rather than as an ordinary legislature",
+            "It means only a specially elected Constituent Assembly, not the regular Parliament, can amend the Constitution",
+            "It has no legal significance and is purely ceremonial language"
           ],
           "a": 1,
-          "e": "In <b>Kesavananda Bharati (1973)</b>, the Supreme Court held that Parliament's amending power under <b>Article 368</b> does not extend to damaging or destroying the <b>'basic structure'</b> of the Constitution."
+          "e": "The phrase signals that Parliament, when amending the Constitution, operates in a qualitatively <b>different capacity</b> — as a 'constituent' body exercising constitution-making power — distinct from its everyday role as an ordinary legislature making laws under its Article 245 powers, even though procedurally the two processes look similar (a tension critics have pointed to)."
         },
         {
-          "q": "Which amendment made it obligatory for the President to give assent to a Constitution Amendment Bill passed under Article 368?",
+          "q": "Which of the following statements about the interaction between Article 368 and the basic structure doctrine is most accurate?",
           "o": [
-            "7th Amendment, 1956",
-            "24th Amendment, 1971",
-            "42nd Amendment, 1976",
-            "44th Amendment, 1978"
+            "The basic structure doctrine is explicitly written into the text of Article 368 itself",
+            "The basic structure doctrine is a judicial gloss added by the Supreme Court in Kesavananda Bharati (1973), constraining Parliament's otherwise textually broad amending power under Article 368",
+            "The basic structure doctrine was inserted into Article 368 by the 24th Amendment Act, 1971",
+            "The basic structure doctrine applies only to amendments requiring state ratification, not to those requiring only a special majority"
           ],
           "a": 1,
-          "e": "The <b>24th Amendment Act, 1971</b> made it obligatory for the President to give assent to any Constitution Amendment Bill, reversing the discretion previously assumed to exist."
+          "e": "The basic structure doctrine is a <b>judicial innovation</b>, not textual language within Article 368 — the Article's own wording appears to grant a very broad power to 'amend by way of addition, variation or repeal any provision', but Kesavananda Bharati (1973) read in an implicit limitation that this power cannot be used to destroy the Constitution's foundational identity, regardless of which of the three amendment routes is used."
         },
         {
-          "q": "The 24th Amendment Act, 1971 was enacted primarily in response to which Supreme Court judgment?",
+          "q": "Which of the following correctly captures Dr. Ambedkar's specific three-way international comparison of amendment difficulty in his Constituent Assembly remarks?",
           "o": [
-            "Kesavananda Bharati case",
-            "Golaknath case",
-            "Minerva Mills case",
-            "Indira Gandhi v. Raj Narain case"
-          ],
-          "a": 1,
-          "e": "The <b>24th Amendment Act, 1971</b> was enacted to overcome the <b>Golaknath (1967)</b> ruling, which had held that Parliament could not amend Fundamental Rights under Article 368."
-        },
-        {
-          "q": "The 42nd Amendment Act's attempt to place constitutional amendments beyond judicial review (by adding clauses 4 and 5 to Article 368) was:",
-          "o": [
-            "Upheld in full by the Supreme Court",
-            "Struck down in Minerva Mills v. Union of India (1980)",
-            "Never challenged in court",
-            "Repealed by the 86th Amendment"
-          ],
-          "a": 1,
-          "e": "In <b>Minerva Mills v. Union of India (1980)</b>, the Supreme Court struck down clauses 4 and 5 added to <b>Article 368</b> by the 42nd Amendment, holding that judicial review is part of the basic structure."
-        },
-        {
-          "q": "Why is the Indian Constitution often described as 'neither too rigid nor too flexible'?",
-          "o": [
-            "Because it can only be amended by a national referendum",
-            "Because it provides different procedures of varying difficulty for different provisions",
-            "Because Article 368 is the sole method of amendment for all provisions",
-            "Because only the judiciary can amend it"
-          ],
-          "a": 1,
-          "e": "The Constitution provides <b>three different procedures</b> of varying stringency-simple majority, special majority, and special majority with state ratification-making it a blend of rigidity and flexibility."
-        },
-        {
-          "q": "Consider the following statements: 1. All amendments to the Seventh Schedule require ratification by states. 2. Amendments relating to the Union List alone can be made by simple majority. Which is correct?",
-          "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
+            "Canada denies citizens the right to amend at all; America and Australia impose extraordinary conditions; India provides a facile procedure",
+            "Canada has the easiest procedure; America has a moderate procedure; India has the most difficult procedure",
+            "All three countries — Canada, America, and Australia — have identical amendment procedures to India's",
+            "Ambedkar did not compare India's procedure to any other country"
           ],
           "a": 0,
-          "e": "Any amendment relating to <b>any of the lists in the Seventh Schedule</b> (Union, State, or Concurrent) falls under the proviso to Article 368(2) and requires <b>ratification by states</b>, not simple majority."
+          "e": "Ambedkar's specific comparison was: <b>Canada</b> denied its people any right to amend the Constitution at that time; <b>America and Australia</b> made amendment subject to extraordinary, difficult conditions; while <b>India</b>, by contrast, provided a comparatively easy ('facile') procedure — positioning India as deliberately more accessible than these other federal or Commonwealth models."
         },
         {
-          "q": "Which of the following changes was NOT made by the 44th Amendment Act, 1978?",
+          "q": "Which of the following correctly identifies why the Goods and Services Tax Council provision requires the special-majority-plus-ratification procedure rather than simple majority?",
           "o": [
-            "Deletion of the Right to Property as a Fundamental Right",
-            "Change of 'internal disturbance' to 'armed rebellion' for National Emergency",
-            "Addition of the words 'Socialist' and 'Secular' to the Preamble",
-            "Restoration of the five-year term for Lok Sabha and State Assemblies"
-          ],
-          "a": 2,
-          "e": "The words '<b>Socialist</b>' and '<b>Secular</b>' were added to the Preamble by the <b>42nd Amendment</b>, not the 44th Amendment, which largely reversed the 42nd Amendment's excesses."
-        },
-        {
-          "q": "The provision for extension of the term of the Lok Sabha from five to six years during an emergency, introduced by the 42nd Amendment, was:",
-          "o": [
-            "Retained by the 44th Amendment",
-            "Reversed by the 44th Amendment, restoring the five-year term",
-            "Never implemented",
-            "Made permanent by the 86th Amendment"
+            "Because it was inserted very recently, in 2016, and all recent amendments automatically require this procedure",
+            "Because it fundamentally affects Centre-state fiscal relations and cooperative federalism, a category the book groups with other 'federal structure' provisions",
+            "Because the GST Council itself formally voted to require this higher threshold",
+            "Because Article 279-A is located within Part III of the Constitution"
           ],
           "a": 1,
-          "e": "The <b>44th Amendment Act, 1978</b> restored the normal term of the Lok Sabha and State Legislative Assemblies to <b>five years</b>, reversing the 42nd Amendment's extension to six years."
+          "e": "The GST Council provision (Article 279-A, added by the 101st Amendment Act, 2016) was grouped with other genuinely <b>federal-structure</b> matters requiring state ratification, because GST fundamentally restructures how the Centre and states share taxation powers — fitting the same underlying rationale that governs the whole 'special majority plus ratification' category, rather than being a special one-off recent-amendment rule."
         },
         {
-          "q": "Under the proviso to Article 368(2), which of the following is included among matters requiring state ratification?",
+          "q": "Which of the following most accurately captures the criticism regarding constituent power distribution between Parliament and state legislatures in India, compared to federal norms elsewhere?",
           "o": [
-            "Representation of states in Parliament",
-            "Formation of Union Territories",
-            "Second Schedule allowances",
-            "Quorum in Parliament"
+            "Indian states have MORE constituent power than American states, since India requires only half rather than three-fourths of states to ratify amendments",
+            "Indian states have virtually no power to independently initiate constitutional amendments, and only a narrow, non-binding consultative role even in ratification-requiring cases",
+            "Indian states have exactly the same constituent power as the Union Parliament",
+            "Indian states can unilaterally amend the Constitution's federal provisions without any parliamentary involvement"
+          ],
+          "a": 1,
+          "e": "Despite occasionally being consulted (through the ratification requirement for certain federal provisions), Indian state legislatures have essentially <b>no independent power to initiate</b> constitutional amendments (barring the one narrow legislative-council exception) — a genuinely more limited role than that of American states, even though the ratification THRESHOLD itself (half vs. three-fourths) is comparatively lower in India."
+        },
+        {
+          "q": "Which of the following statements correctly reflects K.C. Wheare's overall assessment of the Indian amendment procedure?",
+          "o": [
+            "He criticised it as dangerously rigid, comparing it unfavourably to the British model",
+            "He praised it both for striking a good balance between flexibility and rigidity, and for its unusual variety of amendment procedures within a single constitutional framework",
+            "He argued it should be replaced entirely with the American model",
+            "He considered it identical in substance to the Australian amendment procedure"
+          ],
+          "a": 1,
+          "e": "Wheare made two separate, positive observations quoted in the book: that the procedure '<b>strikes a good balance between flexibility and rigidity</b>', and separately that '<b>this variety in the amending process is wise but rarely found</b>' — both reflecting genuine admiration for India's multi-tiered design, not criticism."
+        },
+        {
+          "q": "Arrange the following in the correct chronological order: (1) Kesavananda Bharati case establishing the basic structure doctrine; (2) 24th Amendment Act making presidential assent to amendment bills obligatory; (3) Golaknath case holding Fundamental Rights beyond Parliament's amending power; (4) 101st Amendment Act adding the GST Council provision.",
+          "o": [
+            "3-2-1-4",
+            "2-3-1-4",
+            "3-1-2-4",
+            "1-2-3-4"
           ],
           "a": 0,
-          "e": "<b>Representation of states in Parliament</b> is among the entrenched provisions listed in the proviso to <b>Article 368(2)</b> requiring ratification by half the states."
-        },
+          "e": "Chronologically: Golaknath (1967) → 24th Amendment Act (1971, responding to Golaknath) → Kesavananda Bharati (1973, establishing basic structure) → 101st Amendment Act (2016, GST). Correct order: 3-2-1-4."
+        }
+      ],
+      "upsc": [
         {
-          "q": "Which of these statements about the amendment procedure is correct? 1. A Constitution Amendment Bill can be introduced in either House of Parliament. 2. There is no provision for a joint sitting of both Houses to resolve a deadlock over a Constitution Amendment Bill.",
+          "q": "Consider the following statements about the procedure under Article 368:\n1. An amendment bill can be introduced in either House of Parliament without prior presidential permission.\n2. It must be passed by each House separately, with no joint-sitting mechanism available to resolve inter-House disagreement.\n3. Following the 24th Amendment Act, 1971, the President's assent to a duly passed amendment bill is discretionary.\nWhich of the statements given above is/are correct?",
           "o": [
-            "1 only",
-            "2 only",
-            "Both 1 and 2",
-            "Neither 1 nor 2"
-          ],
-          "a": 2,
-          "e": "A Constitution Amendment Bill may be introduced in <b>either House</b>, and unlike ordinary bills, there is <b>no provision for a joint sitting</b> under Article 368 to resolve disagreements between the Houses."
-        },
-        {
-          "q": "The distribution of legislative powers between the Union and the States, if amended, requires:",
-          "o": [
-            "Simple majority only",
-            "Special majority of Parliament only",
-            "Special majority of Parliament plus ratification by half the states",
-            "Unanimous consent of all states"
-          ],
-          "a": 2,
-          "e": "Amendments affecting the <b>distribution of legislative powers</b> (Chapter I of Part XI) require <b>special majority plus ratification</b> by not less than half the state legislatures, as per the proviso to Article 368(2)."
-        },
-        {
-          "q": "Which of the following is an example of an amendment passed by simple majority rather than under Article 368?",
-          "o": [
-            "Admission or establishment of new states under Articles 2 and 3",
-            "Amendment of Fundamental Rights in Part III",
-            "Amendment altering the powers of the Supreme Court",
-            "Amendment to Article 54 on Presidential election"
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
           ],
           "a": 0,
-          "e": "Under <b>Articles 2 and 3</b>, Parliament can admit or establish new states by an ordinary law passed with <b>simple majority</b>, without following the Article 368 procedure."
+          "e": "Statement 3 is incorrect — the 24th Amendment Act, 1971 made presidential assent <b>obligatory</b>, removing discretion, not the opposite. Statements 1 and 2 correctly describe the bill's introduction and the absence of a joint-sitting mechanism."
         },
         {
-          "q": "The Indian Constitution's amending procedure has been described as combining features of which two types of constitutions?",
+          "q": "Assertion (A): The Indian Constitution's amendment procedure is described as 'neither too rigid nor too flexible'.\nReason (R): It provides three distinct routes for amendment — simple majority, special majority, and special majority with state ratification — calibrated to the constitutional significance of the provision being changed.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
           "o": [
-            "Federal and unitary constitutions",
-            "Written and unwritten constitutions",
-            "Rigid constitutions like the USA's and flexible constitutions like the UK's",
-            "Presidential and parliamentary constitutions"
+            "Both A and R are true, and R is the correct explanation of A",
+            "Both A and R are true, but R is NOT the correct explanation of A",
+            "A is true, but R is false",
+            "A is false, but R is true"
           ],
-          "a": 2,
-          "e": "India's amending procedure blends features of <b>rigid constitutions</b> (like the USA, needing special procedures) and <b>flexible constitutions</b> (like the UK's, amendable by ordinary process), making it a unique synthesis."
+          "a": 0,
+          "e": "Both statements are true, and R directly explains A — it is precisely this three-tiered, calibrated structure that allows India's Constitution to be simultaneously adaptable (for routine matters) and stable (for foundational federal provisions), avoiding the extremes of British-style pure flexibility or American-style uniform rigidity."
+        },
+        {
+          "q": "With reference to the three categories of constitutional amendment, consider the following statements:\n1. Formation of new states (Articles 2-4) requires only a simple majority and is not treated as an 'amendment' under Article 368.\n2. Fundamental Rights and Directive Principles require a special majority of Parliament alone.\n3. The manner of electing the President requires special majority plus ratification by half the states.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct and together illustrate the full three-tier system in action — each example is drawn directly from the book's specific lists for each of the three categories, moving from least demanding (simple majority) to most demanding (special majority plus state ratification)."
+        },
+        {
+          "q": "Consider the following statements about criticisms of India's amendment procedure:\n1. There is no special constitutional convention or assembly analogous to the American model; the constituent power lies mainly with Parliament.\n2. State legislatures can independently initiate constitutional amendment bills on any subject, just like Parliament.\n3. The provisions relating to amendment are considered too sketchy, leaving room for extensive judicial interpretation.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 2 is incorrect — state legislatures have essentially <b>no power to independently initiate</b> constitutional amendments; their only role is passing a non-binding resolution about legislative councils, which Parliament may or may not act upon. Statements 1 and 3 correctly reflect two genuine, book-cited criticisms."
+        },
+        {
+          "q": "Match List-I (Category of Constitutional Provision) with List-II (Amendment Procedure Required) and select the correct answer using the code below.\nList-I:\nA. Quorum in Parliament\nB. Directive Principles of State Policy\nC. Distribution of legislative powers between Union and states\nD. Delimitation of constituencies\nList-II:\n1. Special majority of Parliament plus ratification by half the states\n2. Simple majority of Parliament\n3. Special majority of Parliament alone\n4. Not amendable under any procedure",
+          "o": [
+            "A-2, B-3, C-1, D-2",
+            "A-1, B-2, C-3, D-4",
+            "A-2, B-1, C-3, D-4",
+            "A-3, B-2, C-1, D-2"
+          ],
+          "a": 0,
+          "e": "Quorum in Parliament and delimitation of constituencies both require only simple majority; DPSP requires special majority alone; distribution of legislative powers (a core federal matter) requires special majority plus state ratification. Correct code: A-2, B-3, C-1, D-2."
+        },
+        {
+          "q": "Consider the following statements about the 24th Amendment Act, 1971 and its historical context:\n1. It was Parliament's legislative response to the Golaknath case (1967), which had held Fundamental Rights beyond Parliament's amending power.\n2. It declared Parliament's power to amend any part of the Constitution, including Fundamental Rights, through Article 368.\n3. It made presidential assent to a constitutional amendment bill obligatory.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct — the 24th Amendment Act, 1971 addressed two distinct issues simultaneously: reasserting Parliament's amending power over Fundamental Rights (responding to Golaknath) and separately removing presidential discretion over assent to amendment bills, both significant, related-but-distinct changes made in the same amendment act."
+        },
+        {
+          "q": "Consider the following statements comparing India's and America's amendment procedures:\n1. India requires ratification by half the states for federal provisions, while America requires three-fourths.\n2. America allows a constitutional convention to be called on the petition of two-thirds of state legislatures, a mechanism absent in India.\n3. Both countries provide identical roles for their respective national legislatures in initiating amendments.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect — the two systems differ meaningfully in this respect too: America allows amendments to be proposed either by Congress OR by a state-initiated constitutional convention, while India's Parliament has a near-monopoly on initiation, with states having only the narrow legislative-council exception. Statements 1 and 2 are correct."
+        },
+        {
+          "q": "Consider the following statements about the significance of Article 368 also covering its own amendment procedure:\n1. Parliament's power to amend the Constitution and the amendment procedure itself, as set out in Article 368, can only be changed via special majority plus ratification by half the states.\n2. This design prevents Parliament from unilaterally making the amendment process easier or harder for itself using only a simple or even special majority.\n3. This self-referential feature exists in every country's constitution as a universal norm.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 is incorrect and overgeneralises — this self-referential entrenchment (requiring the hardest procedure to change the procedure itself) is a specific design feature of India's Constitution, not something the book claims is a universal norm across all countries. Statements 1 and 2 correctly describe this design feature and its rationale."
+        },
+        {
+          "q": "Consider the following statements on the philosophical justification for India's amendment procedure, as expressed by the Constitution's framers:\n1. Nehru argued rigidity would prevent the growth of a 'living, vital, organic people'.\n2. Ambedkar contrasted India's 'facile' procedure with Canada's denial of any amending right and America/Australia's extraordinary conditions.\n3. Both framers argued for making the Constitution completely unamendable to preserve its original vision permanently.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 3 directly contradicts both framers' actual, quoted positions — both explicitly argued AGAINST permanence/unamendability and FOR a workable, accessible amendment mechanism, precisely because they believed a living constitution needed room to grow and adapt. Statements 1 and 2 are correct."
+        },
+        {
+          "q": "Consider the following statements about the practical operation of the state-ratification requirement:\n1. The moment half of the states give their consent, the ratification requirement is satisfied, regardless of what the remaining states do.\n2. If a state legislature takes no action at all on the bill, this is treated as an automatic rejection, invalidating the ratification process.\n3. There is no specified time limit for states to give their consent under this procedure.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 0,
+          "e": "Statement 2 is incorrect — the book explicitly states that if some states 'take no action on the bill, it does not matter'; inaction is simply <b>disregarded</b>, not treated as an automatic rejection that would derail the process. Statements 1 and 3 are correct."
+        },
+        {
+          "q": "With reference to the basic structure doctrine's relationship to Article 368, consider the following statements:\n1. It was established by judicial interpretation in Kesavananda Bharati (1973), not by the constitutional text itself.\n2. It means Parliament's amending power, though textually described as extending to 'any provision' of the Constitution, is not truly unlimited.\n3. It applies uniformly regardless of which of the three amendment procedures (simple majority, special majority, or special majority plus ratification) is used.\nWhich of the statements given above is/are correct?",
+          "o": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "a": 3,
+          "e": "All three statements are correct and together capture the full significance of the basic structure doctrine as an overarching, procedure-independent limitation — no matter which of the three routes Parliament uses to amend the Constitution, none of them can be used to destroy its basic structure, a limit that exists entirely outside and beyond the literal text of Article 368."
         }
       ]
     }
