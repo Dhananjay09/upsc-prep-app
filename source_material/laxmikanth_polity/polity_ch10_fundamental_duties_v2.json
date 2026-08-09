@@ -1,0 +1,609 @@
+{
+  "id": "fundamental_duties",
+  "title": "Fundamental Duties",
+  "desc": "Article 51A: origin via the Swaran Singh Committee, the list of eleven duties, features, criticism, significance, and the Fundamental Rights-Directive Principles-Fundamental Duties relationship",
+  "questions": {
+    "basic": [
+      {
+        "q": "Did the original 1950 Constitution of India contain a list of Fundamental Duties for citizens?",
+        "o": [
+          "Yes, ten duties were listed from the start",
+          "No, only the duties of the State were incorporated, in the form of Directive Principles",
+          "Yes, but only five duties were listed originally",
+          "No, and no duties of any kind were included until 2002"
+        ],
+        "a": 1,
+        "e": "The original Constitution had <b>no Fundamental Duties for citizens</b> — the framers instead incorporated duties of the <b>State</b> through the Directive Principles of State Policy. Fundamental Duties for citizens were added only in 1976, a full 26 years after the Constitution's commencement."
+      },
+      {
+        "q": "Which country's Constitution inspired India's Fundamental Duties?",
+        "o": [
+          "The United States of America",
+          "The United Kingdom",
+          "The erstwhile USSR",
+          "Australia"
+        ],
+        "a": 2,
+        "e": "India's Fundamental Duties are inspired by the Constitution of the <b>erstwhile USSR</b>, which declared that citizens' exercise of rights and freedoms was inseparable from performing duties. Notably, major Western democracies like the USA, Canada, France, Germany and Australia don't specifically list citizen duties in their constitutions — Japan is cited as the one exception among major democratic constitutions worldwide."
+      },
+      {
+        "q": "Which committee recommended the inclusion of a separate chapter on Fundamental Duties in the Constitution?",
+        "o": [
+          "The Sarkaria Commission",
+          "The Swaran Singh Committee",
+          "The Balwant Rai Mehta Committee",
+          "The Verma Committee"
+        ],
+        "a": 1,
+        "e": "The <b>Sardar Swaran Singh Committee</b>, set up by the Congress Party in 1976, made this recommendation — its perceived need arose specifically from the experience of the internal Emergency (1975-77), during which the government felt citizens showed insufficient respect for the established legal order."
+      },
+      {
+        "q": "Which Amendment Act inserted Fundamental Duties into the Constitution, and which new Part did it create?",
+        "o": [
+          "44th Amendment Act, 1978; Part IVB",
+          "42nd Amendment Act, 1976; Part IVA",
+          "86th Amendment Act, 2002; Part IVA",
+          "24th Amendment Act, 1971; Part IVA"
+        ],
+        "a": 1,
+        "e": "The <b>42nd Amendment Act, 1976</b> added <b>Part IVA</b>, consisting of a single Article — Article 51A — which listed ten Fundamental Duties for the first time. This same sweeping amendment also altered several other parts of the Constitution, including expanding Article 31C's protection for Directive Principles."
+      },
+      {
+        "q": "How many Fundamental Duties did the Swaran Singh Committee recommend, and how many did the 42nd Amendment Act actually incorporate?",
+        "o": [
+          "Eight recommended; ten incorporated",
+          "Ten recommended; eight incorporated",
+          "Eight recommended; eight incorporated",
+          "Ten recommended; eleven incorporated"
+        ],
+        "a": 0,
+        "e": "The Committee recommended <b>eight</b> duties, but the 42nd Amendment Act actually incorporated <b>ten</b> — meaning the government went beyond the Committee's suggestions in some respects. Notably, though, it also left out three of the Committee's other recommendations, including a proposal for legal penalties for non-compliance."
+      },
+      {
+        "q": "Which recommendation of the Swaran Singh Committee was NOT accepted and incorporated into Article 51A?",
+        "o": [
+          "The duty to respect the National Flag and National Anthem",
+          "The duty to protect the environment",
+          "A provision allowing Parliament to impose penalties for non-compliance with Fundamental Duties",
+          "The duty to develop scientific temper"
+        ],
+        "a": 2,
+        "e": "The Committee's suggestion that Parliament could impose <b>penalties or punishment</b> for failing to observe Fundamental Duties (and that such a penal law should be immune from Fundamental Rights challenges) was <b>NOT accepted</b>. Also rejected was the specific suggestion to make paying taxes a Fundamental Duty — both proposals were considered too far-reaching at the time."
+      },
+      {
+        "q": "Which Amendment Act added the eleventh Fundamental Duty, requiring parents/guardians to provide educational opportunities to children aged six to fourteen?",
+        "o": [
+          "42nd Amendment Act, 1976",
+          "44th Amendment Act, 1978",
+          "86th Amendment Act, 2002",
+          "97th Amendment Act, 2011"
+        ],
+        "a": 2,
+        "e": "The <b>86th Amendment Act, 2002</b> added this eleventh duty — the same amendment that also inserted Article 21A making elementary education a Fundamental Right, showing a deliberate, coordinated design linking a citizen's duty to their child's newly-created Fundamental Right."
+      },
+      {
+        "q": "Are Fundamental Duties available to foreigners residing in India, the way some Fundamental Rights are?",
+        "o": [
+          "Yes, they apply to citizens and foreigners equally",
+          "No, Fundamental Duties are confined to citizens only",
+          "Yes, but only to foreigners who have lived in India for more than five years",
+          "No, they apply only to naturalised citizens, not citizens by birth"
+        ],
+        "a": 1,
+        "e": "Fundamental Duties are <b>confined to citizens only</b>, unlike several Fundamental Rights (such as Articles 14, 21, 23 and 25) which extend to all persons including foreigners. This citizen-only scope makes sense given the duties' focus on national loyalty, patriotism and civic responsibility toward the Indian state specifically."
+      },
+      {
+        "q": "Are Fundamental Duties directly enforceable by courts, similar to Fundamental Rights?",
+        "o": [
+          "Yes, courts can penalise any citizen violating a Fundamental Duty",
+          "No, they are non-justiciable, like the Directive Principles, though Parliament can enforce them through legislation",
+          "Yes, but enforcement is limited to a warning from the court",
+          "No, and Parliament also has no power to legislate on them"
+        ],
+        "a": 1,
+        "e": "Fundamental Duties are <b>non-justiciable</b> — there's no direct constitutional mechanism for courts to enforce them or penalise violations. However, <b>Parliament remains free to enact legislation</b> giving some duties legal teeth, which is different from saying they're entirely without legal consequence in every context."
+      },
+      {
+        "q": "Which of the following is listed as a Fundamental Duty under Article 51A?",
+        "o": [
+          "To pay income tax honestly",
+          "To cast one's vote in every election",
+          "To develop scientific temper, humanism and the spirit of inquiry and reform",
+          "To practice family planning"
+        ],
+        "a": 2,
+        "e": "'To develop scientific temper, humanism and the spirit of inquiry and reform' IS one of the eleven listed duties. Paying taxes, voting, and family planning are all things <b>critics wished had been included</b> but which do NOT actually appear in the final list of eleven Fundamental Duties."
+      },
+      {
+        "q": "Which Supreme Court case held that Article 51A (Fundamental Duties) can be used to interpret ambiguous laws when determining their constitutionality?",
+        "o": [
+          "Kesavananda Bharati case (1973)",
+          "Mohan Kumar Singhania case (1991)",
+          "Minerva Mills case (1980)",
+          "Golaknath case (1967)"
+        ],
+        "a": 1,
+        "e": "<b>Mohan Kumar Singhania vs. Union of India (1991)</b> established that even though Fundamental Duties can't be directly enforced, they CAN serve as an interpretive tool for courts assessing whether other laws are constitutionally valid — giving them real, if indirect, legal significance."
+      },
+      {
+        "q": "Who was the Law Minister who justified adding Fundamental Duties by pointing to a section of people showing 'no anxiety to fulfil their fundamental obligations' around the time of the 1975 Emergency?",
+        "o": [
+          "H.R. Gokhale",
+          "A.K. Sen",
+          "C.K. Daphtary",
+          "D.D. Chawla"
+        ],
+        "a": 0,
+        "e": "<b>H.R. Gokhale</b>, the then Law Minister, gave this justification, framing the new duties chapter as having a 'sobering effect' on those involved in 'anti-national subversive and unconstitutional agitations'. This reasoning is directly tied to the political context of the Emergency period (1975-77) during which the idea originated."
+      },
+      {
+        "q": "Which committee, set up in 1999, identified existing legal provisions that already help implement various Fundamental Duties?",
+        "o": [
+          "The Swaran Singh Committee",
+          "The Sarkaria Commission",
+          "The Verma Committee on Fundamental Duties",
+          "The Balwant Rai Mehta Committee"
+        ],
+        "a": 2,
+        "e": "The <b>Verma Committee on Fundamental Duties of the Citizens (1999)</b> catalogued laws already indirectly enforcing several duties — for instance the Prevention of Insults to National Honour Act, 1971, which protects respect for the Constitution, National Flag and National Anthem, tying back to the very first Fundamental Duty listed in Article 51A."
+      },
+      {
+        "q": "Did the post-Emergency Janata Government, which reversed many other changes made by the 42nd Amendment Act, also repeal the Fundamental Duties?",
+        "o": [
+          "Yes, the Fundamental Duties were repealed by the 44th Amendment Act, 1978",
+          "No, the Janata Government did not annul the Fundamental Duties despite undoing many other 42nd Amendment changes",
+          "Yes, but they were later reinstated in 2002",
+          "No decision was ever made and the matter remains legally ambiguous"
+        ],
+        "a": 1,
+        "e": "Despite the Janata Government (via the 43rd and 44th Amendment Acts) reversing several other controversial 42nd Amendment changes, it <b>did not annul the Fundamental Duties</b> — suggesting a genuine cross-party consensus had formed around their value, later reinforced when the duties list was even expanded in 2002 under a different government."
+      },
+      {
+        "q": "Which Fundamental Duty specifically requires citizens to 'renounce practices derogatory to the dignity of women'?",
+        "o": [
+          "The duty to promote harmony and common brotherhood",
+          "The duty to preserve rich cultural heritage",
+          "The duty to develop scientific temper",
+          "The duty to protect the environment"
+        ],
+        "a": 0,
+        "e": "This clause about renouncing practices derogatory to women's dignity is bundled together with the duty '<b>to promote harmony and the spirit of common brotherhood... transcending religious, linguistic and regional or sectional diversities</b>' — both appear within the same fifth listed duty in Article 51A."
+      },
+      {
+        "q": "Which Fundamental Duty is explicitly connected to protecting forests, lakes, rivers, wildlife and having compassion for living creatures?",
+        "o": [
+          "The duty to preserve composite culture",
+          "The duty to protect and improve the natural environment",
+          "The duty to strive towards excellence",
+          "The duty to safeguard public property"
+        ],
+        "a": 1,
+        "e": "This is the seventh listed Fundamental Duty — '<b>to protect and improve the natural environment including forests, lakes, rivers and wildlife, and to have compassion for living creatures</b>'. It closely parallels the Directive Principle in Article 48A, illustrating how the same environmental value appears in both the Directive Principles (as a state obligation) and the Fundamental Duties (as a citizen obligation)."
+      },
+      {
+        "q": "According to the features of Fundamental Duties described in the book, how are they generally categorised in terms of their nature?",
+        "o": [
+          "Purely legal obligations with criminal penalties",
+          "A mix of moral duties (like cherishing freedom-struggle ideals) and civic duties (like respecting the Constitution and National Flag)",
+          "Purely religious obligations",
+          "Obligations that apply only during a National Emergency"
+        ],
+        "a": 1,
+        "e": "The book distinguishes <b>moral duties</b> (e.g., cherishing the noble ideals of the freedom struggle) from <b>civic duties</b> (e.g., respecting the Constitution, National Flag and National Anthem) — reflecting that Article 51A blends aspirational, values-based commitments with more concrete, behaviour-based expectations."
+      },
+      {
+        "q": "Which case observed that 'a common thread runs through Parts III, IV and IVA of the Constitution' — Fundamental Rights, Directive Principles, and Fundamental Duties — when interpreting constitutional provisions?",
+        "o": [
+          "Mohan Kumar Singhania case (1991)",
+          "Re, Ramlila Maidan Incident (2012)",
+          "Kesavananda Bharati case (1973)",
+          "Minerva Mills case (1980)"
+        ],
+        "a": 1,
+        "e": "The <b>Ramlila Maidan Incident case (2012)</b> made this observation, urging courts to examine the impact of any interpretation across all three related Parts of the Constitution — III (Fundamental Rights), IV (Directive Principles) and IVA (Fundamental Duties) — together, rather than treating them as isolated silos."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements about the origins of the Fundamental Duties:\n1. India borrowed the concept from the erstwhile USSR's Constitution.\n2. Among major democratic countries, only Japan's Constitution is cited as containing a specific list of citizen duties similar to India's.\n3. Socialist countries generally gave equal importance to both rights and duties of citizens, unlike most Western liberal democracies.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct. This trio of facts together explains WHY India's Fundamental Duties look unusual by the standards of major Western democracies (USA, UK, Canada, France, Germany, Australia) but fit a pattern shared by socialist-influenced constitutions and, notably, Japan's."
+      },
+      {
+        "q": "Consider the following statements about the Swaran Singh Committee's role and recommendations:\n1. It was formed by the Congress Party, not by the Government of India directly.\n2. Its formation was prompted by concerns arising during the internal Emergency of 1975-77.\n3. All of its recommendations regarding Fundamental Duties were ultimately incorporated into the Constitution without change.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — several Committee recommendations, including provisions for penalties for non-compliance and making tax-payment a Fundamental Duty, were <b>NOT</b> incorporated. Statements 1 and 2 correctly identify the Committee's party origin and Emergency-era motivation."
+      },
+      {
+        "q": "Consider the following statements about the features of Fundamental Duties:\n1. They are drawn from India's own tradition, mythology, religions and practices rather than being wholly novel inventions.\n2. Like Fundamental Rights, some of them extend to foreigners residing in India.\n3. Like Directive Principles, they are non-justiciable, but Parliament retains the freedom to enforce them through suitable legislation.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — Fundamental Duties are confined <b>strictly to citizens</b>, unlike several Fundamental Rights (Articles 14, 20, 21, 21A, 22, 23, 24, 25, 26, 27, 28) which extend to all persons regardless of citizenship. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about criticisms of the Fundamental Duties:\n1. Critics argue the list is not exhaustive, since it omits duties like voting, paying taxes, and family planning.\n2. D.D. Chawla criticised the vague and ambiguous phrasing of terms like 'noble ideals' and 'composite culture'.\n3. All critics agreed that Fundamental Duties should have been made fully justiciable with strict criminal penalties for violation.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and actually misrepresents the range of criticism — some critics (like C.K. Daphtary and A.K. Sen) argued the OPPOSITE, that including Fundamental Duties at all was unnecessary or even patronising toward citizens, rather than calling for stricter enforcement. Statements 1 and 2 correctly capture two genuine, but different, lines of criticism."
+      },
+      {
+        "q": "Consider the following statements about C.K. Daphtary's and A.K. Sen's objections to including Fundamental Duties:\n1. Daphtary argued that over 99.9% of citizens were already law-abiding, making an explicit duties list unnecessary.\n2. Sen compared the state's new posture to a 'harsh school master' demanding proof of homework from citizens who had, in fact, created the Republic themselves in 1950.\n3. Both ultimately supported the inclusion of Fundamental Duties, but wanted stronger legal penalties attached.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — both Daphtary and Sen <b>opposed</b> the inclusion of Fundamental Duties altogether, not merely their enforcement mechanism; their objection was philosophical (that a confident democracy shouldn't need to lecture its own citizens on duty). Statements 1 and 2 correctly capture their specific, vivid arguments."
+      },
+      {
+        "q": "Consider the following statements about the significance of Fundamental Duties despite their non-justiciable character:\n1. They serve as a warning against anti-national and antisocial activities such as burning the national flag or destroying public property.\n2. Courts have used them as an interpretive aid to determine the constitutionality of ambiguous laws.\n3. Parliament is constitutionally barred from ever attaching a legal penalty to their violation.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the book explicitly notes that Fundamental Duties '<b>are enforceable by law</b>' in the sense that <b>Parliament CAN provide for penalties</b> through ordinary legislation for failure to fulfil them; what's constitutionally missing is direct court enforcement, not a total bar on any legal consequence. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about Indira Gandhi's justification for including Fundamental Duties:\n1. She argued their moral value lies in establishing a 'democratic balance' by making citizens conscious of duties alongside rights.\n2. She claimed their purpose was to permanently override and replace the Fundamental Rights chapter.\n3. She stated this inclusion would help strengthen democracy.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 misrepresents her actual position — she specifically said the moral value of Fundamental Duties would be to 'establish a democratic balance', NOT to '<b>smother rights</b>' or override Fundamental Rights, explicitly rejecting the idea that duties should come at the expense of rights. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Verma Committee's (1999) findings on existing legal implementation of Fundamental Duties:\n1. The Prevention of Insults to National Honour Act, 1971 helps implement the duty to respect the Constitution, National Flag and National Anthem.\n2. The Unlawful Activities (Prevention) Act, 1967 allows declaring a communal organisation unlawful, connecting to the duty of promoting harmony.\n3. The Wildlife (Protection) Act, 1972 and Forest (Conservation) Act, 1980 have no connection to any Fundamental Duty, since environmental protection is addressed only through Directive Principles.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — these two environmental laws directly connect to the Fundamental Duty (the seventh one in Article 51A) requiring citizens to protect the natural environment, forests and wildlife, showing that environmental responsibility is addressed through BOTH the Directive Principles (Article 48A, a state duty) AND the Fundamental Duties (a citizen duty). Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the political aftermath of the 42nd Amendment Act's Fundamental Duties provision:\n1. The Opposition in Parliament strongly opposed including Fundamental Duties at the time.\n2. The subsequent Janata Government, which reversed several other 42nd Amendment changes via the 43rd and 44th Amendment Acts, also specifically repealed the Fundamental Duties provision.\n3. The later addition of an eleventh duty in 2002, under a different ruling party, suggests a cross-party consensus eventually formed around the value of Fundamental Duties.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Janata Government did NOT repeal the Fundamental Duties provision even while reversing several other 42nd Amendment changes, which is precisely the basis for statement 3's inference about eventual cross-party consensus. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the relationship between Fundamental Duties and pre-existing Indian values:\n1. The book states that Fundamental Duties essentially codify tasks that were already integral to the Indian way of life, tradition and mythology.\n2. Critics who called their inclusion 'superfluous' argued that citizens would perform these duties even without constitutional mention.\n3. This 'superfluous' criticism and the 'codification of existing values' description are, in the book's framing, entirely contradictory positions that cannot both be true.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — these two ideas are actually complementary, not contradictory: precisely BECAUSE the duties reflect values already embedded in Indian tradition (statement 1), critics could plausibly argue their formal constitutional listing was unnecessary or 'superfluous' (statement 2), since people would supposedly follow these values regardless. Statements 1 and 2 are correct as independent facts."
+      },
+      {
+        "q": "Consider the following statements about specific Fundamental Duties and their thematic pairing with Directive Principles or Fundamental Rights:\n1. The duty to protect the environment (Article 51A) parallels the Directive Principle in Article 48A.\n2. The duty to provide education for children aged 6-14 (Article 51A) parallels the Fundamental Right in Article 21A.\n3. No Fundamental Duty has any thematic connection to any Directive Principle or Fundamental Right; the three lists were designed to be entirely independent.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and contradicts the clear thematic overlaps in statements 1 and 2 — several Fundamental Duties were deliberately designed to echo companion provisions elsewhere in the Constitution, reinforcing the same values from the citizen's side (duties) that the Directive Principles address from the state's side, and that Fundamental Rights address as protections."
+      },
+      {
+        "q": "Consider the following statements about the timeline of duty-related additions to the Constitution:\n1. The original ten Fundamental Duties were added in 1976, exactly 26 years after the Constitution's 1950 commencement.\n2. The eleventh Fundamental Duty was added in 2002, exactly 26 years after the original ten were introduced.\n3. No Fundamental Duty has been added or amended since 2002.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — and it's a striking coincidence that both major milestones in the Fundamental Duties' history are separated by exactly 26 years: 1950 to 1976 (Constitution's commencement to the original ten duties), and then 1976 to 2002 (the original ten to the eleventh addition), with no further changes to the list since 2002."
+      },
+      {
+        "q": "Consider the following statements about the tenth listed Fundamental Duty:\n1. It requires citizens 'to strive towards excellence in all spheres of individual and collective activity'.\n2. It explicitly names specific fields such as sports, science and the arts as the only qualifying spheres.\n3. Its underlying aim, as stated in the book, is that the nation should constantly rise to higher levels of endeavour and achievement.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the duty is phrased broadly to cover '<b>all spheres</b> of individual and collective activity', without naming or limiting itself to any specific field like sports or science. Statements 1 and 3 correctly quote and explain this duty's purpose."
+      },
+      {
+        "q": "Consider the following statements about the ninth listed Fundamental Duty:\n1. It requires citizens 'to safeguard public property and to abjure violence'.\n2. 'Abjure' in this context means to actively promote or encourage.\n3. This duty is often cited in connection with acts like vandalism during protests or riots.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — '<b>abjure</b>' means to <b>renounce or give up</b>, the opposite of 'promote or encourage'; so this duty calls on citizens to renounce violence, not embrace it. Statements 1 and 3 are correct — this duty is indeed the constitutional touchstone frequently invoked in discussions of property destruction during protests, strikes, or communal unrest."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "Which of the following statements correctly identifies a criticism levelled specifically at the PLACEMENT (not content) of Fundamental Duties within the Constitution's structure?",
+        "o": [
+          "Critics argued Fundamental Duties should have appeared in Part III alongside Fundamental Rights",
+          "Critics argued that placing them as an appendage after Part IV (Directive Principles), rather than right after Part III, diminished their value and significance",
+          "Critics argued they should have been placed before the Preamble",
+          "Critics argued they should have replaced the Directive Principles entirely"
+        ],
+        "a": 1,
+        "e": "The specific structural criticism was that placing Fundamental Duties as Part <b>IVA</b> — essentially an appendage tacked onto Part IV (Directive Principles) — rather than immediately after Part III (Fundamental Rights), symbolically <b>reduced their perceived importance</b>, since it visually and structurally distanced them from the more prestigious, justiciable rights."
+      },
+      {
+        "q": "Which of the following correctly distinguishes the Swaran Singh Committee's original proposal on enforcement from what was actually enacted in 1976?",
+        "o": [
+          "The Committee proposed no enforcement mechanism at all; Parliament added one",
+          "The Committee proposed that Parliament could penalise non-compliance and that such penal laws be immune from Fundamental Rights challenges; neither proposal was enacted",
+          "The Committee proposed judicial enforcement through Article 32; this was fully accepted",
+          "The Committee's enforcement proposal was accepted in 1976 but repealed in 2002"
+        ],
+        "a": 1,
+        "e": "The Committee's more assertive enforcement vision — allowing Parliament to penalise non-compliance AND shielding such penal laws from Fundamental Rights challenges — was <b>NOT adopted</b> in the final 1976 amendment, leaving Fundamental Duties in their current non-justiciable, largely aspirational form (though Parliament retains a general, non-guaranteed freedom to legislate around them)."
+      },
+      {
+        "q": "Which of the following observations is correctly attributed to A.K. Sen in opposing the inclusion of Fundamental Duties?",
+        "o": [
+          "He argued that Fundamental Duties would strengthen, not weaken, Indian democracy",
+          "He compared the state's posture to a 'harsh school master' demanding citizens prove they had 'done their homework', arguing this reflected the state's shaken confidence in its own citizens",
+          "He proposed adding a twelfth duty related to taxation",
+          "He chaired the committee that ultimately drafted Article 51A"
+        ],
+        "a": 1,
+        "e": "A.K. Sen's memorable 'harsh school master' analogy captured his objection that a democracy which was itself created by its people in 1950 shouldn't need to demand proof of civic 'homework' from them — framing the whole exercise as evidence of the state's own insecurity rather than a genuinely necessary reform."
+      },
+      {
+        "q": "Which of the following correctly captures the significance the Supreme Court attached to Fundamental Duties in the Ramlila Maidan Incident case (2012)?",
+        "o": [
+          "It held Fundamental Duties are fully justiciable and directly enforceable like Fundamental Rights",
+          "It held that interpreting any provision under Parts III, IV or IVA should consider the scope and impact on all three Parts together, recognising a 'common thread' running through them",
+          "It held Fundamental Duties override Fundamental Rights during a public emergency",
+          "It struck down Article 51A as unconstitutional"
+        ],
+        "a": 1,
+        "e": "The Court's holding was interpretive rather than transformative — it did NOT make duties justiciable or override rights, but rather counselled that courts should read Fundamental Rights, Directive Principles and Fundamental Duties <b>together</b> as reflecting a unified constitutional vision, rather than interpreting any one Part in isolation."
+      },
+      {
+        "q": "Which of the following correctly identifies why the eleventh Fundamental Duty (added in 2002) is considered a notable structural exception among the eleven duties?",
+        "o": [
+          "It is the only duty that applies to foreigners as well as citizens",
+          "It is the only duty specifically linked to and mirroring a corresponding Fundamental Right (Article 21A) added in the same amendment",
+          "It is the only duty enforceable through a specific criminal penalty",
+          "It is the only duty added by a Congress-led government"
+        ],
+        "a": 1,
+        "e": "Unlike the original ten duties (added in 1976, inspired broadly by the USSR model and India's own traditions), the eleventh duty was added specifically in tandem with a NEW Fundamental Right — <b>Article 21A</b>, also inserted by the 86th Amendment Act, 2002 — creating a rare, deliberately mirrored rights-duties pair within the Constitution."
+      },
+      {
+        "q": "Which of the following is the most accurate statement about the relationship between the Fundamental Duty to 'defend the country and render national service when called upon to do so' and India's approach to military conscription?",
+        "o": [
+          "This duty legally obligates every citizen to serve in the armed forces upon turning 18",
+          "This duty is a general, non-justiciable moral/civic obligation; India has no compulsory military conscription system built on this Article",
+          "This duty was repealed after India's wars with Pakistan and China",
+          "This duty applies only to citizens residing in border states"
+        ],
+        "a": 1,
+        "e": "Despite this duty existing in Article 51A, India has <b>no conscription system</b> tied to it — like all Fundamental Duties, it remains a non-justiciable, aspirational statement rather than a directly enforceable legal obligation compelling citizens into military service, distinguishing India's approach from countries with mandatory conscription laws."
+      },
+      {
+        "q": "Which of the following best describes why Fundamental Duties are sometimes described as a mix of 'moral' and 'civic' obligations rather than a single uniform category?",
+        "o": [
+          "Because some duties (like cherishing freedom-struggle ideals) are aspirational values while others (like respecting the Constitution, Flag and Anthem) involve more concrete, observable civic behaviour",
+          "Because moral duties apply only to Hindu citizens and civic duties apply to all citizens",
+          "Because the Constitution explicitly labels each duty as either 'moral' or 'civic' in its text",
+          "Because moral duties are enforceable while civic duties are not"
+        ],
+        "a": 0,
+        "e": "This moral/civic distinction is a descriptive, analytical one used to explain the varied character of the duties — some (like cherishing 'noble ideals') are broad, values-based aspirations, while others (like respecting specific national symbols) involve concrete, identifiable civic conduct — not a legal classification with different levels of enforceability, and certainly not tied to any specific religious community."
+      },
+      {
+        "q": "Which of the following correctly explains why critics considered the tenth and eleventh Fundamental Duties to be of a fundamentally different character from most of the other nine?",
+        "o": [
+          "The tenth (striving for excellence) and eleventh (child's education) duties are individually/family-oriented aspirations, whereas most of the original ten focus on national loyalty, unity, and collective civic behaviour",
+          "The tenth and eleventh duties are the only two that are directly enforceable in court",
+          "The tenth and eleventh duties were the only two recommended by the Swaran Singh Committee",
+          "The tenth and eleventh duties apply only to government employees"
+        ],
+        "a": 0,
+        "e": "While most of the original ten duties (respecting national symbols, defending the country, promoting unity, and so on) focus on the citizen's relationship to the <b>nation</b> as a collective, the tenth (individual/collective excellence) and especially the eleventh (a parent's duty toward their own child's education) have a more personal, familial dimension — illustrating that the Fundamental Duties are not a perfectly uniform category even amongst themselves."
+      },
+      {
+        "q": "Which of the following statements is the most accurate account of the Verma Committee's overall purpose, as distinct from the Swaran Singh Committee?",
+        "o": [
+          "The Verma Committee (1999) proposed entirely new Fundamental Duties to replace the original eleven",
+          "The Verma Committee (1999) reviewed existing laws to identify where Fundamental Duties were already indirectly implemented, whereas the Swaran Singh Committee (1976) had proposed the original list of duties itself",
+          "The Verma Committee and Swaran Singh Committee were the same body operating under two different names",
+          "The Verma Committee recommended abolishing all Fundamental Duties as unworkable"
+        ],
+        "a": 1,
+        "e": "These two committees had distinct, sequential roles: the <b>Swaran Singh Committee (1976)</b> proposed the ORIGINAL idea and content of the Fundamental Duties, while the <b>Verma Committee (1999)</b>, over two decades later, undertook a review of ALREADY-EXISTING laws to identify where Fundamental Duties were, in effect, already being given some legal teeth — a stock-taking exercise rather than a fresh proposal."
+      }
+    ],
+    "upsc": [
+      {
+        "q": "Consider the following statements about the origin and structure of Fundamental Duties:\n1. They were added 26 years after the Constitution's commencement, by the 42nd Amendment Act, 1976.\n2. Part IVA, containing Article 51A, was inserted specifically for this purpose.\n3. The Swaran Singh Committee's full set of recommendations, including penal enforcement provisions, was adopted without modification.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — several Committee recommendations (penalty provisions, immunity of penal laws from FR challenge, and making tax-payment a duty) were <b>NOT</b> adopted. Statements 1 and 2 correctly describe the timing and structural placement of the Fundamental Duties."
+      },
+      {
+        "q": "Assertion (A): Fundamental Duties, despite being non-justiciable, are not entirely without legal consequence.\nReason (R): Courts have used Article 51A as an interpretive aid in determining the constitutionality of ambiguous laws, and Parliament retains the freedom to enact legislation imposing penalties for non-compliance with specific duties.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both statements are true and R explains A precisely — the 'non-justiciable but not toothless' character of Fundamental Duties rests exactly on these two mechanisms: judicial interpretive use (as in Mohan Kumar Singhania) and Parliament's residual legislative freedom, distinguishing Fundamental Duties from being purely symbolic."
+      },
+      {
+        "q": "With reference to comparative constitutional practice on citizen duties, consider the following statements:\n1. The USA, Canada, France, Germany and Australia do not specifically enumerate a list of citizen duties in their constitutions.\n2. Japan's Constitution is cited as an exception among major democratic constitutions in containing such a list.\n3. Socialist-influenced constitutions, including that of the erstwhile USSR, gave equal importance to rights and duties, viewing them as inseparable.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct and jointly explain the ideological lineage of India's Fundamental Duties — borrowed most directly from the socialist USSR model rather than from the liberal-democratic constitutional tradition that shaped most of India's Fundamental Rights."
+      },
+      {
+        "q": "Consider the following statements about the debate on including Fundamental Duties in 1976:\n1. H.R. Gokhale justified their inclusion by pointing to a perceived lack of respect for the legal order among some citizens around the time of the Emergency.\n2. Indira Gandhi argued their moral value lay in creating a democratic balance between rights-consciousness and duty-consciousness, not in suppressing rights.\n3. The entire political spectrum, including the Opposition, unanimously supported their inclusion at the time.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the <b>Opposition strongly opposed</b> the inclusion of Fundamental Duties at the time, even though a form of consensus arguably emerged much later (given the post-Emergency government's decision not to repeal them, and the 2002 expansion). Statements 1 and 2 correctly capture the government's stated justifications."
+      },
+      {
+        "q": "Match List-I (Critic) with List-II (Specific criticism related to Fundamental Duties or DPSP) and select the correct answer using the code below.\nList-I:\nA. K.T. Shah (Directive Principles critic, included here as a contrast)\nB. D.D. Chawla\nC. C.K. Daphtary\nD. A.K. Sen\nList-II:\n1. Compared the state's posture to a 'harsh school master' demanding citizens prove their 'homework'\n2. Argued the phrases like 'noble ideals' and 'composite culture' are vague and fail to catch the common man's imagination\n3. Argued over 99.9% of citizens were already law-abiding, making a duties list unnecessary\n4. Is actually associated with DPSP criticism ('cheque on a bank'), not Fundamental Duties criticism",
+        "o": [
+          "A-4, B-2, C-3, D-1",
+          "A-1, B-2, C-3, D-4",
+          "A-4, B-3, C-2, D-1",
+          "A-2, B-1, C-4, D-3"
+        ],
+        "a": 0,
+        "e": "K.T. Shah's famous 'cheque on a bank' remark actually belongs to the Directive Principles criticism (a useful trap for confusing the two related chapters); D.D. Chawla criticised the vague, ambiguous phrasing of duty terms; C.K. Daphtary argued citizens' overwhelming law-abidingness made a duties list unnecessary; A.K. Sen made the 'harsh school master' comparison. Correct code: A-4, B-2, C-3, D-1."
+      },
+      {
+        "q": "Consider the following statements about the connection between Fundamental Duties and the Directive Principles of State Policy:\n1. Both are non-justiciable in nature.\n2. Both were entirely absent from the original 1950 Constitution and added later by amendment.\n3. Both find explicit legal implementation echoes in specific ordinary legislation, such as environmental protection laws.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the <b>Directive Principles were part of the original 1950 Constitution</b> from the start; only the <b>Fundamental Duties</b> were added later (1976). Statements 1 and 3 correctly identify the shared non-justiciable character and the overlapping legislative implementation (e.g., environmental laws serving both Article 48A's state duty and Article 51A's citizen duty)."
+      },
+      {
+        "q": "Consider the following statements about the Verma Committee's (1999) identification of existing legal mechanisms connected to Fundamental Duties:\n1. The Representation of the People Act, 1951 disqualifies legislators for corrupt practices like soliciting votes on religious grounds, connecting to the duty of promoting harmony.\n2. The Indian Penal Code declares imputations prejudicial to national integration as punishable offences, connecting to the duty to uphold India's sovereignty, unity and integrity.\n3. All these laws were enacted specifically and only after 1976 to implement the newly created Fundamental Duties.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — several of these laws (like the Representation of the People Act, 1951 and various IPC provisions) actually <b>predate 1976</b> and were not enacted specifically to implement Fundamental Duties; the Verma Committee simply identified them as ALREADY serving purposes that align with duties created later. Statements 1 and 2 correctly describe two of these pre-existing legal connections."
+      },
+      {
+        "q": "Consider the following statements about the structural and political history of the Fundamental Duties:\n1. They occupy Part IVA, positioned between the Directive Principles (Part IV) and the Union Government provisions (Part V).\n2. The Janata Government's 43rd and 44th Amendment Acts reversed several 42nd Amendment changes but left Part IVA intact.\n3. The 86th Amendment Act, 2002, which added the eleventh duty, was passed by the same Congress-led government that had originally introduced Fundamental Duties in 1976.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the 86th Amendment Act, 2002 was passed under the <b>NDA government led by Atal Bihari Vajpayee</b>, a different political dispensation from the Congress government that originally introduced Fundamental Duties in 1976 — reinforcing the cross-party consensus point rather than continuity of the same party's initiative. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements comparing the enforcement mechanisms available for Fundamental Rights, Directive Principles, and Fundamental Duties:\n1. Fundamental Rights are directly enforceable by courts under Article 32/226.\n2. Directive Principles cannot be directly enforced by courts, but can help courts uphold a law's validity when it implements a Directive.\n3. Fundamental Duties cannot be directly enforced by courts, but Parliament retains the freedom to attach legal penalties through ordinary legislation.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct and together form a clean, comparative summary of how Parts III, IV and IVA differ in their practical legal force — a useful mental model for distinguishing justiciability across these three related but distinct constitutional categories."
+      },
+      {
+        "q": "Assertion (A): The list of eleven Fundamental Duties is often criticised as incomplete.\nReason (R): The Swaran Singh Committee's recommendation to make tax-payment a Fundamental Duty was ultimately not incorporated into Article 51A.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R is a specific, well-documented example directly explaining A — the tax-payment omission is precisely the kind of gap critics point to when arguing the list is 'not exhaustive', alongside other missing items like voting and family planning."
+      },
+      {
+        "q": "Consider the following statements about the design logic connecting Fundamental Duties to other parts of the Constitution:\n1. The environmental duty in Article 51A mirrors the Directive Principle in Article 48A, both added by the 42nd Amendment Act, 1976.\n2. The education-related duty in Article 51A mirrors the Fundamental Right in Article 21A, both added by the 86th Amendment Act, 2002.\n3. Both mirrored pairs demonstrate a pattern where a single constitutional amendment simultaneously touches more than one Part of the Constitution to reinforce a single policy goal.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct, and together they reveal a recurring constitutional drafting technique — reinforcing a single social goal (environmental protection, or child education) by embedding it simultaneously as a state obligation (Directive Principle or Fundamental Right) and a citizen's duty (Fundamental Duty) within the very same amendment."
+      },
+      {
+        "q": "Consider the following statements regarding the debate on whether Fundamental Duties should be justiciable:\n1. The original Swaran Singh Committee proposal included a penal enforcement mechanism, which was not adopted.\n2. Critics like C.K. Daphtary and A.K. Sen opposed the very idea of listing duties, regardless of enforceability.\n3. The Supreme Court in Mohan Kumar Singhania (1991) made Fundamental Duties directly enforceable as a matter of judicial precedent, overriding their constitutional non-justiciability.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — Mohan Kumar Singhania did NOT make Fundamental Duties directly enforceable or override their non-justiciable status; it only established that courts could use them as an <b>interpretive aid</b> for assessing other laws' constitutionality, a much more limited role than direct enforceability. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about how the Fundamental Duties chapter reflects a specific historical and political moment:\n1. Its origin is closely tied to the internal Emergency of 1975-77 and the government's concerns about civil disobedience and unrest.\n2. Its survival through a change in government (Janata Party, post-Emergency) suggests the concept transcended its original, politically charged origins.\n3. Its later expansion in 2002 occurred under the same political party that first introduced it in 1976.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the 2002 expansion occurred under the <b>NDA/BJP-led government</b>, not the Congress party that introduced the original ten duties in 1976, which actually strengthens (not weakens) the point in statement 2 about the concept outgrowing its politically charged origins. Statements 1 and 2 are correct."
+      }
+    ]
+  }
+}
