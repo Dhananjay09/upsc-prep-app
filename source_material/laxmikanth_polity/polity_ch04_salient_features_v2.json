@@ -1,0 +1,829 @@
+{
+  "id": "salient_features",
+  "title": "Salient Features of the Constitution",
+  "desc": "The 17 salient features of the Indian Constitution, criticisms levelled against it, and the Parts/Articles/Schedules/Sources tables",
+  "questions": {
+    "basic": [
+      {
+        "q": "Which of the following best describes the Indian Constitution in comparison with other constitutions of the world?",
+        "o": [
+          "It is the shortest written constitution among sovereign nations",
+          "It is the lengthiest written constitution of any sovereign country",
+          "It is an unwritten constitution like that of Britain",
+          "It is a purely rigid constitution incapable of amendment"
+        ],
+        "a": 1,
+        "e": "The Constitution of India is the <b>lengthiest of all written constitutions</b> in the world — a very comprehensive, elaborate and detailed document."
+      },
+      {
+        "q": "As originally adopted in 1949, the Constitution contained a Preamble, how many Articles and how many Schedules?",
+        "o": [
+          "470 Articles and 12 Schedules",
+          "395 Articles and 8 Schedules",
+          "448 Articles and 10 Schedules",
+          "352 Articles and 9 Schedules"
+        ],
+        "a": 1,
+        "e": "Originally (1949) the Constitution had a Preamble, <b>395 Articles</b> (in 22 Parts) and <b>8 Schedules</b>. It presently has about 470 Articles in 25 Parts and 12 Schedules."
+      },
+      {
+        "q": "Consider the following statements about the growth of the Constitution since 1951:\n1. Amendments have deleted about 20 Articles and one full Part.\n2. Amendments have added about 95 Articles and four new Parts.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "a": 2,
+        "e": "Since 1951, amendments have <b>deleted about 20 Articles and Part VII</b>, and <b>added about 95 Articles and four Parts</b> (IVA, IXA, IXB and XIVA) along with four new Schedules (9, 10, 11 and 12)."
+      },
+      {
+        "q": "Which of the following is NOT one of the four factors identified for the elephantine size of the Indian Constitution?",
+        "o": [
+          "Geographical vastness and diversity of the country",
+          "Influence of the bulky Government of India Act, 1935",
+          "A single Constitution for both the Centre and the states",
+          "Absence of legal experts in the Constituent Assembly"
+        ],
+        "a": 3,
+        "e": "The four factors are geographical vastness/diversity, the influence of the bulky GoI Act 1935, having a single Constitution for the Centre and states, and the <b>dominance</b> (not absence) <b>of legal luminaries</b> in the Constituent Assembly."
+      },
+      {
+        "q": "The special status of Jammu and Kashmir under Article 370 was abolished in 2019 through which instrument?",
+        "o": [
+          "A Constitutional Amendment Act passed by a two-third majority",
+          "The Constitution (Application to Jammu and Kashmir) Order, 2019, a presidential order",
+          "A judgment of the Jammu and Kashmir High Court",
+          "An ordinance issued by the Governor of Jammu and Kashmir"
+        ],
+        "a": 1,
+        "e": "The special status was abolished by <b>The Constitution (Application to Jammu and Kashmir) Order, 2019</b>, a presidential order that superseded the 1954 order and extended all provisions of the Indian Constitution to J&K."
+      },
+      {
+        "q": "Which constitutional expert/leader proudly acclaimed that the Indian Constitution was framed after 'ransacking all the known Constitutions of the World'?",
+        "o": [
+          "Jawaharlal Nehru",
+          "Dr. Rajendra Prasad",
+          "Dr. B.R. Ambedkar",
+          "Sardar Vallabhbhai Patel"
+        ],
+        "a": 2,
+        "e": "Dr. B.R. Ambedkar made this remark, defending the practice of borrowing provisions from constitutions across the world while adapting them to Indian conditions."
+      },
+      {
+        "q": "The single most profound source of the Constitution of India, from which the Federal Scheme, office of Governor, Judiciary, Public Service Commissions and Emergency provisions are drawn, is the:",
+        "o": [
+          "British Constitution",
+          "Government of India Act, 1935",
+          "Constitution of Ireland",
+          "Constitution of Canada"
+        ],
+        "a": 1,
+        "e": "More than half the provisions of the Indian Constitution are identical to or closely resemble the <b>Government of India Act, 1935</b>, which is its most profound source."
+      },
+      {
+        "q": "Which pair correctly matches a part of the Constitution with the source that inspired it?",
+        "o": [
+          "Fundamental Rights — Irish Constitution",
+          "Directive Principles of State Policy — American Constitution",
+          "Cabinet Government and Executive-Legislature relations — British Constitution",
+          "Federal Scheme — French Constitution"
+        ],
+        "a": 2,
+        "e": "The political part (Cabinet Government, Executive-Legislature relations) is drawn largely from the <b>British Constitution</b>. Fundamental Rights actually derive from the American Constitution and DPSP from the Irish Constitution."
+      },
+      {
+        "q": "Article 368 of the Constitution, which allows some provisions to be amended by special majority and others by special majority plus ratification of half the states, reflects which salient feature?",
+        "o": [
+          "Federal system with unitary bias",
+          "A blend of rigidity and flexibility",
+          "Synthesis of parliamentary sovereignty and judicial supremacy",
+          "Universal adult franchise"
+        ],
+        "a": 1,
+        "e": "This dual amendment procedure — some provisions needing only special majority, others also needing state ratification, and some needing only a simple majority outside Article 368 — makes the Constitution a <b>blend of rigidity and flexibility</b>."
+      },
+      {
+        "q": "Which of the following is a unitary (non-federal) feature found in the Indian Constitution?",
+        "o": [
+          "Division of powers between the Centre and the states",
+          "Independent judiciary",
+          "Single citizenship",
+          "Two governments — Union and states"
+        ],
+        "a": 2,
+        "e": "<b>Single citizenship</b> is a unitary feature. Division of powers, an independent judiciary and two governments are usual federal features present in India's Constitution."
+      },
+      {
+        "q": "The word actually used in Article 1 of the Constitution to describe India is:",
+        "o": [
+          "Federation of States",
+          "Union of States",
+          "Confederation of States",
+          "Republic of States"
+        ],
+        "a": 1,
+        "e": "Article 1 describes India as a '<b>Union of States</b>'; the term 'Federation' is nowhere used in the Constitution."
+      },
+      {
+        "q": "Which scholar described the Indian Constitution as 'quasi-federal'?",
+        "o": [
+          "Ivor Jennings",
+          "Morris Jones",
+          "K.C. Wheare",
+          "Granville Austin"
+        ],
+        "a": 2,
+        "e": "<b>K.C. Wheare</b> described India's Constitution as 'quasi-federal'. Morris Jones called it 'bargaining federalism' and Granville Austin called it 'co-operative federalism'."
+      },
+      {
+        "q": "India adopted the parliamentary system of government, also known as the Westminster Model, from which country's practice?",
+        "o": [
+          "The United States of America",
+          "Britain",
+          "France",
+          "Switzerland"
+        ],
+        "a": 1,
+        "e": "India adopted the <b>British Parliamentary System</b>, also called the Westminster Model, responsible government, or Cabinet Government, rather than the American Presidential System."
+      },
+      {
+        "q": "Which Article of the Constitution deals with the Right to Constitutional Remedies, described by Dr. Ambedkar as the heart and soul of the Constitution in the context of enforcing Fundamental Rights?",
+        "o": [
+          "Article 21",
+          "Article 32",
+          "Article 14",
+          "Article 19"
+        ],
+        "a": 1,
+        "e": "<b>Article 32</b> guarantees the Right to Constitutional Remedies, empowering an aggrieved person to move the Supreme Court directly for enforcement of Fundamental Rights through writs."
+      },
+      {
+        "q": "Which of the original seven Fundamental Rights was removed from Part III by the 44th Amendment Act of 1978 and made a mere legal right under Article 300-A?",
+        "o": [
+          "Right to Freedom of Religion",
+          "Right to Property",
+          "Right to Equality",
+          "Right against Exploitation"
+        ],
+        "a": 1,
+        "e": "The <b>Right to Property</b> (originally Article 31) was deleted from the list of Fundamental Rights by the 44th Amendment Act, 1978, and made a legal right under Article 300-A in Part XII."
+      },
+      {
+        "q": "Who described the Directive Principles of State Policy as a 'novel feature' of the Indian Constitution?",
+        "o": [
+          "Dr. B.R. Ambedkar",
+          "Jawaharlal Nehru",
+          "Dr. Rajendra Prasad",
+          "K.M. Munshi"
+        ],
+        "a": 0,
+        "e": "<b>Dr. B.R. Ambedkar</b> called the Directive Principles of State Policy a 'novel feature' of the Indian Constitution. They are enumerated in Part IV."
+      },
+      {
+        "q": "The Fundamental Duties of citizens were added to the Constitution by which amendment, and on the recommendation of which committee?",
+        "o": [
+          "44th Amendment Act, 1978; Sarkaria Commission",
+          "42nd Amendment Act, 1976; Swaran Singh Committee",
+          "86th Amendment Act, 2002; National Commission to Review the Constitution",
+          "73rd Amendment Act, 1992; Balwant Rai Mehta Committee"
+        ],
+        "a": 1,
+        "e": "Fundamental Duties were added by the <b>42nd Amendment Act, 1976</b> during the internal Emergency, on the recommendation of the <b>Swaran Singh Committee</b>. The 86th Amendment Act, 2002 later added one more duty."
+      },
+      {
+        "q": "By which Constitutional Amendment Act was the voting age reduced from 21 years to 18 years, giving effect to universal adult franchise as it stands today?",
+        "o": [
+          "44th Amendment Act, 1978",
+          "52nd Amendment Act, 1985",
+          "61st Amendment Act, 1988",
+          "73rd Amendment Act, 1992"
+        ],
+        "a": 2,
+        "e": "The <b>61st Constitutional Amendment Act, 1988</b> reduced the voting age from 21 to 18 years, with effect from 1989."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements regarding the size of the Constitution of India:\n1. Presently, it has about 470 Articles divided into 25 Parts.\n2. It presently has 12 Schedules.\n3. No other Constitution in the world has as many Articles and Schedules as India's.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements are correct as per Laxmikanth: ~470 Articles in 25 Parts, 12 Schedules, and no other Constitution in the world has this many Articles and Schedules."
+      },
+      {
+        "q": "With reference to the sources of the Indian Constitution, consider the following pairs:\n1. Fundamental Rights — American Constitution\n2. Directive Principles of State Policy — Irish Constitution\n3. Fundamental Duties — Constitution of the erstwhile USSR\nWhich of the pairs given above is/are correctly matched?",
+        "o": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three pairs are correct: Fundamental Rights and judicial review come from the American Constitution, DPSP from the Irish Constitution, and Fundamental Duties (along with the Preamble's socio-economic-political justice ideal) from the Soviet Constitution."
+      },
+      {
+        "q": "Which of the following features is correctly matched with its source, the Government of India Act, 1935?",
+        "o": [
+          "Federal Scheme, office of Governor and Emergency provisions",
+          "Directive Principles of State Policy",
+          "Fundamental Rights and judicial review",
+          "Concurrent List and joint sitting of Parliament"
+        ],
+        "a": 0,
+        "e": "The Government of India Act, 1935 is the source of the <b>Federal Scheme, office of Governor, Judiciary, Public Service Commissions and Emergency provisions</b>. DPSP is from Ireland, FR from the USA, and the Concurrent List/joint sitting from Australia."
+      },
+      {
+        "q": "Match List-I (Description of the Constitution) with List-II (Scholar) and select the correct answer using the code below.\nList-I:\nA. Quasi-federal\nB. Bargaining federalism\nC. Co-operative federalism\nD. Federation with a centralising tendency\nList-II:\n1. Morris Jones\n2. Ivor Jennings\n3. K.C. Wheare\n4. Granville Austin",
+        "o": [
+          "A-3, B-1, C-4, D-2",
+          "A-1, B-3, C-2, D-4",
+          "A-3, B-2, C-1, D-4",
+          "A-2, B-1, C-3, D-4"
+        ],
+        "a": 0,
+        "e": "K.C. Wheare called India's Constitution 'quasi-federal'; Morris Jones called it 'bargaining federalism'; Granville Austin called it 'co-operative federalism'; and Ivor Jennings called it a 'federation with a centralising tendency'. Correct code: A-3, B-1, C-4, D-2."
+      },
+      {
+        "q": "Consider the following statements about the parliamentary system adopted by India:\n1. It is based on the principle of separation of powers between the legislature and the executive.\n2. It provides for both a nominal and a real executive.\n3. The Indian Parliament, unlike the British Parliament, is not a sovereign body.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 1,
+        "e": "Statement 1 is incorrect — the parliamentary system is based on co-operation and co-ordination (not separation) between the legislature and executive; that principle characterises the presidential system instead. Statements 2 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements regarding judicial power under the Indian Constitution:\n1. India follows the American 'due process of law' standard rather than 'procedure established by law'.\n2. The scope of judicial review of the Indian Supreme Court is narrower than that of the US Supreme Court.\n3. The Constitution reflects a synthesis of British parliamentary sovereignty and American judicial supremacy.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 1,
+        "e": "Statement 1 is incorrect — Article 21 of the Indian Constitution uses 'procedure established by law', not the American 'due process of law'. Statements 2 and 3 correctly describe the narrower judicial review and the British-American synthesis."
+      },
+      {
+        "q": "Which of the following statements about the judicial system established by the Indian Constitution is/are correct?\n1. India has a single, integrated system of courts that enforces both central and state laws.\n2. This is unlike the USA, where federal laws are enforced by federal courts and state laws by state courts.\n3. All expenses of the Supreme Court are charged on the Consolidated Fund of India to protect its independence.\nSelect the correct answer using the code below.",
+        "o": [
+          "1 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct — India's judiciary is integrated (unlike the dual US system), and several provisions including charging Supreme Court expenses on the Consolidated Fund of India safeguard judicial independence."
+      },
+      {
+        "q": "With reference to Fundamental Rights under Part III, consider the following statements:\n1. They can be suspended in their entirety during a National Emergency.\n2. They can be curtailed or repealed by Parliament through a constitutional amendment.\n3. They are non-justiciable and cannot be enforced by courts.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — rights under Articles 20 and 21 cannot be suspended even during a National Emergency. Statement 3 is incorrect — Fundamental Rights are justiciable, unlike the Directive Principles. Only statement 2 is correct."
+      },
+      {
+        "q": "Consider the following statements about the Directive Principles of State Policy:\n1. They are non-justiciable but the Constitution declares it the duty of the state to apply them in making laws.\n2. The Supreme Court, in the Minerva Mills case (1980), held that the Constitution is founded on a balance between Fundamental Rights and the Directive Principles.\n3. They can be classified into socialistic, Gandhian and liberal-intellectual categories.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements are correct. The DPSP are non-justiciable yet constitutionally binding in spirit on the state, the Minerva Mills case (1980) affirmed the FR-DPSP balance, and the three classic categories are socialistic, Gandhian, and liberal-intellectual."
+      },
+      {
+        "q": "With reference to Fundamental Duties, consider the following statements:\n1. Part IV-A consists of a single Article, 51-A.\n2. They were originally ten in number and are now eleven after the 86th Amendment Act, 2002.\n3. Like the Directive Principles, the Fundamental Duties are non-justiciable.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct: Part IV-A has only Article 51-A, the original ten duties (1976) became eleven after the 86th Amendment (2002), and they remain non-justiciable like the DPSP."
+      },
+      {
+        "q": "Consider the following statements about secularism under the Indian Constitution:\n1. The word 'secular' was inserted into the Preamble by the 42nd Amendment Act, 1976.\n2. India follows the Western/negative concept of secularism involving complete separation of religion and state.\n3. The Constitution has abolished separate electorates based on religion but retains reservation of seats for Scheduled Castes and Scheduled Tribes.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — India follows the <b>positive</b> concept of secularism (equal respect to all religions), not the Western negative concept of strict church-state separation. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about independent bodies established by the Constitution:\n1. The Election Commission conducts elections to Parliament, state legislatures, and the offices of President and Vice-President.\n2. The Comptroller and Auditor-General audits the accounts of only the Central Government, not the states.\n3. The Union Public Service Commission advises the President on disciplinary matters concerning civil servants.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the CAG audits the accounts of <b>both the Central and state governments</b>. Statements 1 and 3 correctly describe the Election Commission and UPSC."
+      },
+      {
+        "q": "Consider the following statements about Emergency provisions in the Constitution:\n1. A National Emergency can be proclaimed on the ground of war, external aggression, or armed rebellion.\n2. A State Emergency, or President's Rule, can be proclaimed for failure of constitutional machinery in a state or failure to comply with Union directions.\n3. During an Emergency, the political system is converted from federal to unitary only through a formal constitutional amendment.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the federal-to-unitary transformation during an Emergency happens <b>without any formal amendment</b> of the Constitution, which is precisely its unique feature. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about local government under the Constitution:\n1. The 73rd Amendment Act, 1992 added Part IX and the Eleventh Schedule for panchayats.\n2. The 74th Amendment Act, 1992 added Part IX-A and the Twelfth Schedule for municipalities.\n3. The three-tier system of panchayati raj functions at village, intermediate and district levels.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements accurately describe the 73rd and 74th Amendment Acts of 1992, which introduced constitutionally recognised rural and urban local self-government as a third tier."
+      },
+      {
+        "q": "Consider the following statements about the 97th Constitutional Amendment Act, 2011:\n1. It made the right to form co-operative societies a Fundamental Right under Article 19.\n2. It inserted a new Directive Principle on the promotion of co-operative societies under Article 43-B.\n3. It added a new Part IX-B titled 'The Co-operative Societies'.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three changes were made by the 97th Amendment Act, 2011 — a new fundamental right under Article 19, a new Directive Principle under Article 43-B, and a new Part IX-B (Articles 243-ZH to 243-ZT)."
+      },
+      {
+        "q": "With reference to India's federal features, which of the following is an accurate distinction between the Indian and American models?\n1. In the USA, a person holds dual citizenship — of the nation and of the state they belong to.\n2. In India, all citizens enjoy identical political and civil rights across the country regardless of the state of their birth or residence.\n3. Despite single citizenship, India has still witnessed communal, caste, linguistic and ethnic conflicts.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct and reflect the book's discussion of single citizenship in India versus dual citizenship in the USA, and the observation that single citizenship alone has not fully achieved national integration."
+      },
+      {
+        "q": "Which of the following statements about the amendment procedure under Article 368 is/are correct?\n1. Some provisions require a special majority of Parliament alone.\n2. Some provisions require a special majority of Parliament plus ratification by half of the state legislatures.\n3. Some constitutional provisions can be amended by a simple majority through the ordinary legislative process, and these amendments fall outside Article 368.\nSelect the correct answer.",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three are correct — Article 368 provides for special-majority-only and special-majority-plus-state-ratification amendments, while some provisions can be changed by simple majority outside Article 368 altogether."
+      },
+      {
+        "q": "Consider the following statements about the criticism that the Indian Constitution is a 'carbon copy' of the Government of India Act, 1935:\n1. N. Srinivasan said it was close to the Act of 1935 in both language and substance.\n2. P.R. Deshmukh said the Constitution was essentially the 1935 Act with only adult franchise added.\n3. Dr. Ambedkar responded that there is nothing to be ashamed of in borrowing since no one holds a patent on constitutional ideas.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements accurately reflect the recorded criticism and Ambedkar's Constituent Assembly response defending the reuse of provisions from the 1935 Act."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "Which of the following is NOT among the Fundamental Rights currently guaranteed under Part III of the Constitution?",
+        "o": [
+          "Right to Freedom of Religion",
+          "Right against Exploitation",
+          "Right to Property",
+          "Right to Constitutional Remedies"
+        ],
+        "a": 2,
+        "e": "The <b>Right to Property</b> was removed from Part III by the 44th Amendment Act, 1978 and now survives only as a legal right under Article 300-A. The other three remain Fundamental Rights."
+      },
+      {
+        "q": "Which committee's recommendation led to the insertion of Fundamental Duties into the Constitution?",
+        "o": [
+          "Sarkaria Commission",
+          "Swaran Singh Committee",
+          "Balwant Rai Mehta Committee",
+          "National Commission to Review the Working of the Constitution"
+        ],
+        "a": 1,
+        "e": "The <b>Swaran Singh Committee</b>, appointed during the internal Emergency (1975-77), recommended the addition of Fundamental Duties, which were incorporated via the 42nd Amendment Act, 1976."
+      },
+      {
+        "q": "Arrange the following constitutional developments in chronological order:\n1. Insertion of the word 'secular' into the Preamble\n2. Deletion of the Right to Property from Part III\n3. Reduction of the voting age to 18 years\n4. Constitutional recognition of co-operative societies",
+        "o": [
+          "1-2-3-4",
+          "2-1-3-4",
+          "1-3-2-4",
+          "4-1-2-3"
+        ],
+        "a": 0,
+        "e": "Chronologically: 'secular' added to Preamble by the 42nd Amendment (1976) → Right to Property deleted by the 44th Amendment (1978) → voting age reduced by the 61st Amendment (1988) → co-operative societies given constitutional status by the 97th Amendment (2011). Order: 1-2-3-4."
+      },
+      {
+        "q": "Which of the following pairs of amendment and the change it made is NOT correctly matched?",
+        "o": [
+          "42nd Amendment Act, 1976 — added the words 'socialist' and 'secular' to the Preamble",
+          "44th Amendment Act, 1978 — replaced 'internal disturbance' with 'armed rebellion' as a ground for National Emergency",
+          "86th Amendment Act, 2002 — added one more Fundamental Duty",
+          "61st Amendment Act, 1988 — added Part IX-B on Co-operative Societies"
+        ],
+        "a": 3,
+        "e": "Part IX-B on Co-operative Societies was added by the <b>97th Amendment Act, 2011</b>, not the 61st Amendment Act (which reduced the voting age to 18). The other three pairs are correctly matched."
+      },
+      {
+        "q": "The scope of judicial review under the Indian Constitution is often described as narrower than in the United States primarily because of the difference between which two constitutional standards?",
+        "o": [
+          "'Rule of law' in India versus 'separation of powers' in the USA",
+          "'Procedure established by law' (Article 21) in India versus 'due process of law' in the USA",
+          "'Basic structure doctrine' in India versus 'implied powers doctrine' in the USA",
+          "'Judicial activism' in India versus 'judicial restraint' in the USA"
+        ],
+        "a": 1,
+        "e": "India's Article 21 uses '<b>procedure established by law</b>', a narrower standard than the American '<b>due process of law</b>', which allows US courts a wider scope to test both the substance and procedure of a law."
+      },
+      {
+        "q": "Which of the following statements about the classification of the Indian Constitution as federal is correct?",
+        "o": [
+          "The Constitution explicitly uses the term 'Federation' in Article 1",
+          "India's federation is the result of an agreement among previously sovereign states",
+          "No state in the Indian Union has the right to unilaterally secede from it",
+          "Indian states enjoy the same degree of autonomy as American states under the US Constitution"
+        ],
+        "a": 2,
+        "e": "Article 1 calls India a 'Union of States', implying that the federation is not born of an agreement among the units and that <b>no state has the right to secede</b>, unlike some federations formed by voluntary compact."
+      },
+      {
+        "q": "Consider the following unitary features embedded in India's otherwise federal Constitution:\n1. Appointment of state Governors by the Centre\n2. All-India Services common to the Union and states\n3. A rigid, non-amendable single Constitution for the Centre and states\nWhich of the above is/are correctly identified as a unitary feature per the Constitution's design?",
+        "o": [
+          "1 and 2 only",
+          "1, 2 and 3",
+          "2 and 3 only",
+          "1 only"
+        ],
+        "a": 0,
+        "e": "Statement 3 is flawed — the Constitution is a <b>single</b> Constitution for the Centre and states (a unitary feature), but it is not rigid; it is a blend of rigidity and flexibility, and it is precisely its 'single Constitution' aspect, not rigidity, that is unitary. Only statements 1 and 2 are correctly identified unitary features."
+      },
+      {
+        "q": "'The music of Veena or Sitar... but here we have the music of an English band' was a remark made by which member of the Constituent Assembly criticizing the Constitution as un-Indian?",
+        "o": [
+          "Lokanath Misra",
+          "K. Hanumanthaiya",
+          "Lakshminarayan Sahu",
+          "T. Prakasam"
+        ],
+        "a": 1,
+        "e": "<b>K. Hanumanthaiya</b> made this famous remark, arguing that the Constitution failed to reflect indigenous Indian political traditions and spirit."
+      },
+      {
+        "q": "Who among the following British constitutionalists described the Indian Constitution as a 'lawyer's paradise' as well as being derived directly from the Government of India Act, 1935 with provisions 'copied almost textually'?",
+        "o": [
+          "Ivor Jennings",
+          "K.C. Wheare",
+          "Morris Jones",
+          "Granville Austin"
+        ],
+        "a": 0,
+        "e": "<b>Sir Ivor Jennings</b>, a British constitutionalist, made both these criticisms — calling the Constitution a 'lawyer's paradise' and noting its provisions were copied almost textually from the 1935 Act."
+      },
+      {
+        "q": "Which member of the Constituent Assembly linked the criticism that the Constitution is 'un-Gandhian' to Dr. Ambedkar's personal distance from the Gandhian movement?",
+        "o": [
+          "H.V. Kamath",
+          "T. Prakasam",
+          "P.R. Deshmukh",
+          "H.K. Maheswari"
+        ],
+        "a": 1,
+        "e": "<b>T. Prakasam</b> attributed the alleged un-Gandhian character of the Constitution to Ambedkar's non-participation in the Gandhian movement and his antagonism towards Gandhian ideas."
+      },
+      {
+        "q": "Dr. B.R. Ambedkar defended the criticism that the Constitution copies extensively from the Government of India Act, 1935 by admitting no shame in borrowing, but expressed regret about one specific aspect. What was that regret?",
+        "o": [
+          "That fundamental rights were borrowed from a foreign constitution",
+          "That the borrowed provisions mostly related to details of administration",
+          "That the Constitution failed to include any original Indian ideas at all",
+          "That the borrowing violated the patent rights of the British Parliament"
+        ],
+        "a": 1,
+        "e": "Ambedkar said he was sorry only because the provisions borrowed from the 1935 Act 'relate mostly to the details of administration' — not that borrowing itself was objectionable."
+      },
+      {
+        "q": "Under the Seventh Schedule of the Constitution, which of the following correctly states the present number of subjects in the Union, State and Concurrent Lists respectively?",
+        "o": [
+          "97, 66, 47",
+          "98, 59, 52",
+          "100, 61, 50",
+          "95, 60, 55"
+        ],
+        "a": 1,
+        "e": "Presently, the Union List has <b>98 subjects</b> (originally 97), the State List has <b>59 subjects</b> (originally 66), and the Concurrent List has <b>52 subjects</b> (originally 47)."
+      },
+      {
+        "q": "The Ninth Schedule of the Constitution was originally added by which amendment, and for what primary purpose?",
+        "o": [
+          "42nd Amendment Act, 1976 — to protect Emergency-related laws",
+          "1st Amendment Act, 1951 — to protect land reform laws from judicial review on grounds of violating Fundamental Rights",
+          "44th Amendment Act, 1978 — to protect the Right to Property",
+          "73rd Amendment Act, 1992 — to protect panchayati raj laws"
+        ],
+        "a": 1,
+        "e": "The Ninth Schedule was added by the <b>1st Amendment Act, 1951</b>, mainly to shield land reform and zamindari abolition laws from judicial review for violating Fundamental Rights. The Supreme Court later held (in Kesavananda Bharati's aftermath) that laws added to it after 24 April 1973 remain open to judicial review."
+      },
+      {
+        "q": "The Tenth Schedule of the Constitution, dealing with disqualification of members on grounds of defection, is popularly known as the Anti-Defection Law and was added by which amendment?",
+        "o": [
+          "44th Amendment Act, 1978",
+          "52nd Amendment Act, 1985",
+          "61st Amendment Act, 1988",
+          "91st Amendment Act, 2003"
+        ],
+        "a": 1,
+        "e": "The <b>52nd Amendment Act, 1985</b> added the Tenth Schedule, popularly called the Anti-Defection Law, covering Articles 102 and 191."
+      },
+      {
+        "q": "Consider the following statements regarding the Eighth Schedule of the Constitution:\n1. It originally recognised 14 languages; it presently recognises 22.\n2. Sindhi was added by the 21st Amendment Act, 1967.\n3. Konkani, Manipuri and Nepali were added together by a single amendment in 1992.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three are correct: the Eighth Schedule grew from 14 to 22 languages; Sindhi was added by the 21st Amendment (1967); and Konkani, Manipuri and Nepali were added together by the 71st Amendment Act, 1992."
+      },
+      {
+        "q": "Which foreign constitution is the source of India's provision for freedom of trade, commerce and intercourse, the Concurrent List, and the joint sitting of the two Houses of Parliament?",
+        "o": [
+          "Canadian Constitution",
+          "Australian Constitution",
+          "Weimar Constitution of Germany",
+          "South African Constitution"
+        ],
+        "a": 1,
+        "e": "The <b>Australian Constitution</b> is the source of the Concurrent List, freedom of trade/commerce/intercourse, and the joint sitting mechanism for resolving deadlocks between the two Houses."
+      },
+      {
+        "q": "The procedure for amendment of the Indian Constitution and the method of electing members to the Rajya Sabha are both said to have been drawn from which country's constitution?",
+        "o": [
+          "Canada",
+          "Germany",
+          "South Africa",
+          "Japan"
+        ],
+        "a": 2,
+        "e": "The <b>South African Constitution</b> is identified as the source for India's amendment procedure and the method of electing Rajya Sabha members."
+      },
+      {
+        "q": "Consider the following statements about the doctrine laid down in the Kesavananda Bharati case (1973):\n1. The Supreme Court ruled that Parliament's constituent power under Article 368 cannot be used to alter the 'basic structure' of the Constitution.\n2. The case is popularly known as the Fundamental Rights case.\n3. The judgment date in this case is also used as the cut-off for judicial review of laws placed in the Ninth Schedule.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements are correct — the case established the basic structure doctrine, is popularly called the Fundamental Rights case, and its judgment date (24 April 1973) is the cut-off used for reviewing Ninth Schedule laws."
+      }
+    ],
+    "upsc": [
+      {
+        "q": "Consider the following statements regarding the size and structure of the Constitution of India:\n1. Originally it had 395 Articles in 22 Parts and 8 Schedules.\n2. Amendments since 1951 have added four new Parts and four new Schedules while deleting one Part.\n3. It presently has more Articles and Schedules than any other Constitution in the world.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements accurately capture the growth of the Constitution's size — from 395 Articles/22 Parts/8 Schedules in 1949 to roughly 470 Articles/25 Parts/12 Schedules today, making it the most extensive Constitution of any sovereign nation."
+      },
+      {
+        "q": "With reference to the sources of the Indian Constitution, consider the following statements:\n1. The structural part of the Constitution is largely derived from the Government of India Act, 1935.\n2. The philosophical part, comprising Fundamental Rights and Directive Principles, is derived respectively from the American and Irish Constitutions.\n3. The political part, comprising Cabinet Government and Executive-Legislature relations, is drawn from the British Constitution.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "This threefold classification — structural from the 1935 Act, philosophical (FR/DPSP) from the USA/Ireland, and political (Cabinet system) from Britain — is exactly how Laxmikanth describes the borrowing pattern of the Constitution."
+      },
+      {
+        "q": "Assertion (A): The Indian Constitution has been described as 'federal in form but unitary in spirit'.\nReason (R): It provides for a single, integrated judiciary and a single citizenship despite dividing powers between the Union and the states.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both statements are true, and R correctly explains A — India combines federal features (division of powers) with unitary features like an integrated judiciary and single citizenship, justifying the description 'federal in form but unitary in spirit'."
+      },
+      {
+        "q": "Assertion (A): The Indian Parliament, unlike the British Parliament, is not a sovereign body.\nReason (R): The Constitution of India is supreme, and Parliament's power to amend it is itself subject to the 'basic structure' doctrine laid down by the judiciary.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A: because the Constitution, not Parliament, is supreme in India, and because the judiciary has held (Kesavananda Bharati) that even Parliament's constituent power cannot alter the basic structure, the Indian Parliament cannot be called sovereign in the British sense."
+      },
+      {
+        "q": "With reference to Table 4.4 (Sources of the Constitution), match List-I (Source) with List-II (Feature Borrowed) and select the correct answer using the code below.\nList-I:\nA. Weimar Constitution of Germany\nB. Canadian Constitution\nC. Soviet Constitution (USSR)\nD. Irish Constitution\nList-II:\n1. Federation with a strong Centre and residuary powers vested in the Centre\n2. Fundamental duties and the ideal of justice in the Preamble\n3. Emergency provisions relating to suspension of Fundamental Rights\n4. Directive Principles of State Policy and nomination of members to Rajya Sabha",
+        "o": [
+          "A-3, B-1, C-2, D-4",
+          "A-1, B-3, C-4, D-2",
+          "A-2, B-4, C-1, D-3",
+          "A-4, B-2, C-3, D-1"
+        ],
+        "a": 0,
+        "e": "Weimar Constitution of Germany gave Emergency provisions on suspension of Fundamental Rights; Canada gave a strong Centre with residuary powers there; the Soviet Constitution gave Fundamental Duties and the justice ideal in the Preamble; Ireland gave the DPSP and Rajya Sabha nominations. Correct code: A-3, B-1, C-2, D-4."
+      },
+      {
+        "q": "Consider the following statements about the parliamentary system as adopted in India:\n1. It establishes parliamentary government not only at the Centre but also in the states.\n2. It rests on the principle of co-operation between the legislative and executive organs, unlike the presidential system's separation of powers.\n3. The growing dominance of the Prime Minister in this system has led some political scientists to call it 'Prime Ministerial Government'.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements are correct and reflect the book's discussion of the parliamentary system's structure at both Union and state levels, its co-operative (not separated) executive-legislative relationship, and the phenomenon of Prime Ministerial dominance."
+      },
+      {
+        "q": "With reference to the judicial system under the Indian Constitution, consider the following statements:\n1. The Supreme Court is described as a federal court, the highest court of appeal, and the guardian of the Constitution.\n2. India's single integrated system of courts enforces both central and state laws, unlike the dual system in the USA.\n3. Provisions ensuring judicial independence include security of tenure, a ban on practice after retirement, and expenses charged on the Consolidated Fund of India.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements correctly summarise the role of the Supreme Court and the various safeguards — tenure security, post-retirement practice ban, and charged expenses — that protect the independence of the integrated Indian judiciary."
+      },
+      {
+        "q": "Consider the following statements regarding Fundamental Rights and Directive Principles of State Policy:\n1. Fundamental Rights promote political democracy, while Directive Principles promote social and economic democracy.\n2. Fundamental Rights are justiciable, while Directive Principles are non-justiciable but constitutionally declared fundamental to governance.\n3. The Supreme Court in the Minerva Mills case (1980) held that the Constitution rests on a balance between the two.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct and together capture the classic FR-DPSP distinction and their constitutional reconciliation as laid down in the Minerva Mills case (1980)."
+      },
+      {
+        "q": "Assertion (A): The original Constitution of India did not contain any Fundamental Duties of citizens.\nReason (R): The Fundamental Duties were added by the 42nd Constitutional Amendment Act, 1976, during the operation of the internal Emergency, on the recommendation of the Swaran Singh Committee.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both statements are true, and R correctly explains why A is so — Fundamental Duties were absent from 1949 to 1976 and were introduced only via the 42nd Amendment during the Emergency, on the Swaran Singh Committee's recommendation."
+      },
+      {
+        "q": "With reference to the secular character of the Indian State, consider the following statements:\n1. The term 'secular' was inserted into the Preamble by the 42nd Amendment Act, 1976.\n2. Article 27 prohibits the state from compelling any person to pay taxes for the promotion of a particular religion.\n3. Article 44 makes it a Fundamental Right of citizens to demand a Uniform Civil Code.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — Article 44 is a Directive Principle (the state 'shall endeavour to secure' a Uniform Civil Code), not a justiciable Fundamental Right. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements regarding independent constitutional bodies:\n1. The Election Commission superintends elections to Parliament, state legislatures, and the offices of President and Vice-President.\n2. The Comptroller and Auditor-General audits accounts of both the Union and state governments and comments on the legality of government expenditure.\n3. The Union Public Service Commission conducts recruitment examinations for state services as well as All-India Services.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — recruitment for <b>state services</b> is the function of the <b>State Public Service Commissions</b>, not the UPSC, which handles All-India Services and higher Central services. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about Emergency provisions under the Constitution:\n1. National Emergency can be proclaimed under Article 352 on grounds of war, external aggression or armed rebellion.\n2. State Emergency under Article 356 is proclaimed on failure of constitutional machinery in a state.\n3. Financial Emergency under Article 360 is proclaimed on a threat to the financial stability or credit of India.\n4. During any of these Emergencies, the federal structure is converted into a unitary one, but only through a formal constitutional amendment.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only two",
+          "Only three",
+          "All four",
+          "None"
+        ],
+        "a": 1,
+        "e": "Statement 4 is incorrect — the shift from federal to unitary during an Emergency happens <b>without a formal constitutional amendment</b>, which is precisely the unique feature the book highlights. Statements 1, 2 and 3 are correct, so three statements are correct."
+      },
+      {
+        "q": "Match List-I (Constitutional Amendment) with List-II (Change Introduced) and select the correct answer using the code below.\nList-I:\nA. 73rd Amendment Act, 1992\nB. 74th Amendment Act, 1992\nC. 97th Amendment Act, 2011\nD. 61st Amendment Act, 1988\nList-II:\n1. Reduced the voting age to 18 years\n2. Gave constitutional recognition to municipalities via Part IX-A\n3. Gave constitutional status to co-operative societies via Part IX-B\n4. Gave constitutional recognition to panchayats via Part IX",
+        "o": [
+          "A-4, B-2, C-3, D-1",
+          "A-1, B-2, C-3, D-4",
+          "A-4, B-3, C-2, D-1",
+          "A-2, B-4, C-1, D-3"
+        ],
+        "a": 0,
+        "e": "73rd Amendment (1992) added Part IX for panchayats; 74th Amendment (1992) added Part IX-A for municipalities; 97th Amendment (2011) added Part IX-B for co-operative societies; 61st Amendment (1988) reduced the voting age to 18. Correct code: A-4, B-2, C-3, D-1."
+      },
+      {
+        "q": "Consider the following statements regarding criticisms levelled against the Indian Constitution in the Constituent Assembly:\n1. N. Srinivasan and Sir Ivor Jennings both criticised it as substantially a copy of the Government of India Act, 1935.\n2. K. Hanumanthaiya criticised the Constitution as un-Indian, comparing it to 'the music of an English band'.\n3. H.K. Maheswari and P.R. Deshmukh both criticised it as excessively legalistic, calling it a 'lawyer's paradise'-like document.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements correctly capture the recorded criticisms — the 'carbon copy of the 1935 Act' charge from Srinivasan and Jennings, Hanumanthaiya's un-Indian critique, and the 'lawyer's paradise'/excessive litigiousness charge from Maheswari and Deshmukh."
+      },
+      {
+        "q": "Assertion (A): Dr. B.R. Ambedkar rejected the criticism that the Constitution is merely a 'bag of borrowings' from other countries.\nReason (R): He argued that after over a hundred years of written constitutions worldwide, the fundamentals of constitution-making had become well settled, so genuine originality could lie only in adapting borrowed features to remove faults and suit Indian conditions.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true, and R is exactly the reasoning Ambedkar gave in the Constituent Assembly Debates in defending the Constitution against the 'borrowed Constitution' charge."
+      },
+      {
+        "q": "With reference to the Ninth and Tenth Schedules of the Constitution, consider the following statements:\n1. The Ninth Schedule was added by the 1st Amendment Act, 1951, mainly to protect land reform laws from judicial review.\n2. Laws included in the Ninth Schedule after 24 April 1973 remain open to judicial review as per a Supreme Court ruling.\n3. The Tenth Schedule, added by the 52nd Amendment Act, 1985, deals with disqualification of legislators on grounds of defection.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct — this is precisely the sequence recorded in the book: the 1st Amendment's Ninth Schedule, the 24 April 1973 cut-off (Kesavananda Bharati judgment date) for judicial review, and the 52nd Amendment's Anti-Defection Law under the Tenth Schedule."
+      },
+      {
+        "q": "Consider the following statements on the Seventh Schedule of the Constitution:\n1. It divides legislative powers between the Union and the states through three lists.\n2. The Union List presently contains more subjects than it originally did, while the State List presently contains fewer subjects than it originally did.\n3. The Concurrent List has grown from 47 to 52 subjects since 1950.\nHow many of the statements given above are correct?",
+        "o": [
+          "Only one",
+          "Only two",
+          "All three",
+          "None"
+        ],
+        "a": 2,
+        "e": "All three statements are correct: the Seventh Schedule's Union List grew from 97 to 98 subjects, the State List shrank from 66 to 59, and the Concurrent List grew from 47 to 52 — reflecting a gradual strengthening of the Centre relative to the states."
+      },
+      {
+        "q": "Consider the following statements regarding the Eighth Schedule of the Constitution:\n1. It originally listed 14 languages and now recognises 22.\n2. Bodo, Dogri, Maithili and Santhali were all added together by the 92nd Amendment Act, 2003.\n3. Oriya was renamed 'Odia' by the 96th Amendment Act, 2011.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 3,
+        "e": "All three statements are correct, capturing the Eighth Schedule's growth from 14 to 22 languages, the 2003 addition of four languages together, and the 2011 renaming of Oriya to Odia."
+      },
+      {
+        "q": "Assertion (A): The Indian Constitution is often called 'federal in form but unitary in spirit', and some scholars go further to call it 'quasi-federal'.\nReason (R): It establishes a strong Centre through features like a single Constitution, single citizenship, an integrated judiciary, and Centre-appointed Governors, alongside the usual federal features of divided powers and a written, supreme Constitution.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both statements are true and R correctly explains A — the coexistence of strong unitary elements alongside standard federal features is exactly why scholars like K.C. Wheare termed India's Constitution quasi-federal."
+      },
+      {
+        "q": "Consider the following statements regarding the borrowing of features by the Indian Constitution from various sources:\n1. The office of Governor and Emergency provisions come from the Government of India Act, 1935.\n2. Judicial review and the post of Vice-President come from the US Constitution.\n3. Freedom of trade, commerce and inter-course comes from the Canadian Constitution.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — freedom of trade, commerce and inter-course is drawn from the <b>Australian</b> Constitution, not the Canadian one (Canada is the source of a strong Centre and residuary powers). Statements 1 and 2 are correct."
+      }
+    ]
+  }
+}
