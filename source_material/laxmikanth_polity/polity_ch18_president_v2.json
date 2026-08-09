@@ -1,0 +1,620 @@
+{
+  "id": "president",
+  "title": "President of India",
+  "desc": "Election, qualifications, term, impeachment and vacancy of the President; executive, legislative, financial, judicial, diplomatic, military and emergency powers; veto power; ordinance-making power; pardoning power; and the constitutional position of the President",
+  "questions": {
+    "basic": [
+      {
+        "q": "Which Articles and Part of the Constitution deal with the Union executive, which includes the President, Vice-President, PM, council of ministers, and Attorney General?",
+        "o": [
+          "Articles 52 to 78, Part V",
+          "Articles 245 to 263, Part XI",
+          "Articles 79 to 122, Part V",
+          "Articles 324 to 329, Part XV"
+        ],
+        "a": 0,
+        "e": "<b>Articles 52 to 78 in Part V</b> deal with the Union executive. The President is the head of the Indian State, the 'first citizen', and symbolises the unity, integrity and solidarity of the nation, even though (as a nominal executive) real power lies with the council of ministers."
+      },
+      {
+        "q": "Who among the following does NOT participate in the President's election as part of the electoral college?",
+        "o": [
+          "Nominated members of both Houses of Parliament",
+          "Elected members of both Houses of Parliament",
+          "Elected members of state legislative assemblies",
+          "Elected members of the Delhi and Puducherry legislative assemblies"
+        ],
+        "a": 0,
+        "e": "<b>Nominated members</b> of Parliament and state assemblies, along with members of state Legislative Councils (in bicameral states), do NOT participate in the President's election — only ELECTED members of Parliament and state/UT (Delhi, Puducherry) assemblies form the electoral college."
+      },
+      {
+        "q": "Which system of voting is used for the President's election?",
+        "o": [
+          "Proportional representation by means of the single transferable vote, via secret ballot",
+          "First-past-the-post, via open ballot",
+          "Direct popular vote, via electronic voting machines",
+          "List-based proportional representation"
+        ],
+        "a": 0,
+        "e": "The President's election uses <b>proportional representation by single transferable vote</b>, with voting by secret ballot. Since only one seat is being filled, some Constituent Assembly members considered 'proportional representation' a misnomer, suggesting 'preferential' or 'alternative vote system' would be more accurate."
+      },
+      {
+        "q": "What is the minimum age requirement to be eligible for election as President?",
+        "o": [
+          "35 years",
+          "25 years",
+          "30 years",
+          "40 years"
+        ],
+        "a": 0,
+        "e": "A presidential candidate must have completed <b>35 years of age</b> — the same minimum age required for Rajya Sabha membership, and higher than the 25-year minimum for Lok Sabha and state assembly membership, reflecting the gravity of the office."
+      },
+      {
+        "q": "How many electors must subscribe as proposers and how many as seconders for a valid presidential nomination, since 1997?",
+        "o": [
+          "50 proposers and 50 seconders",
+          "10 proposers and 10 seconders",
+          "100 proposers and 100 seconders",
+          "25 proposers and 25 seconders"
+        ],
+        "a": 0,
+        "e": "Since 1997, a nomination requires <b>50 proposers and 50 seconders</b> — increased from 10 each before 1997, specifically to discourage non-serious candidates. The security deposit was similarly raised from ₹2,500 to ₹15,000 at the same time."
+      },
+      {
+        "q": "Who administers the oath of office to the President before he/she enters upon office?",
+        "o": [
+          "The Chief Justice of India",
+          "The Vice-President",
+          "The Speaker of the Lok Sabha",
+          "The Prime Minister"
+        ],
+        "a": 0,
+        "e": "The <b>Chief Justice of India</b> administers the oath (or, in the CJI's absence, the seniormost available Supreme Court judge). In the oath, the President swears to faithfully execute the office, preserve/protect/defend the Constitution, and devote himself/herself to the service and well-being of India's people."
+      },
+      {
+        "q": "What is the term of office of the President, and can he/she be re-elected?",
+        "o": [
+          "Five years, and is eligible for re-election any number of times",
+          "Five years, with a maximum of two terms like the US President",
+          "Six years, with no possibility of re-election",
+          "Four years, with unlimited re-election"
+        ],
+        "a": 0,
+        "e": "The President's term is <b>five years</b>, and he/she is eligible for RE-ELECTION FOR ANY NUMBER OF TERMS — unlike the US, where a President cannot be elected more than twice. Only Dr. Rajendra Prasad, however, has actually occupied the office for two terms."
+      },
+      {
+        "q": "On what ground alone can the President be removed from office through impeachment?",
+        "o": [
+          "Violation of the Constitution",
+          "Any criminal offence",
+          "Financial mismanagement",
+          "Loss of majority support in Parliament"
+        ],
+        "a": 0,
+        "e": "The President can be impeached only for '<b>violation of the Constitution</b>' — a phrase the Constitution itself does not define. As of the book's writing, no President has ever actually been impeached in India's history."
+      },
+      {
+        "q": "By what majority must an impeachment resolution against the President be passed in each House of Parliament?",
+        "o": [
+          "Two-thirds of the total membership",
+          "Simple majority",
+          "Two-thirds of members present and voting only",
+          "Three-fourths of total membership"
+        ],
+        "a": 0,
+        "e": "Each House must pass the impeachment resolution by a majority of <b>two-thirds of its total membership</b> — a demanding threshold reflecting impeachment's quasi-judicial, exceptionally serious character as the sole mechanism for removing a sitting President."
+      },
+      {
+        "q": "If a presidential vacancy occurs due to resignation, removal, or death, within how many months must a new election be held?",
+        "o": [
+          "Six months",
+          "Two months",
+          "One year",
+          "Three months"
+        ],
+        "a": 0,
+        "e": "An election to fill such a vacancy must be held within <b>six months</b> from the date the vacancy occurs. In contrast, when the vacancy is due to the expiry of the sitting President's normal term, the election must be completed BEFORE that term actually expires, to avoid any interregnum."
+      },
+      {
+        "q": "Who acts as President when a vacancy occurs due to the President's resignation, removal, or death?",
+        "o": [
+          "The Vice-President",
+          "The Chief Justice of India",
+          "The Speaker of the Lok Sabha",
+          "The Prime Minister"
+        ],
+        "a": 0,
+        "e": "The <b>Vice-President</b> acts as President until a new President is elected. If the Vice-President's office is also vacant, the Chief Justice of India (or the seniormost available Supreme Court judge) steps in to act as President — as actually happened briefly in 1969."
+      },
+      {
+        "q": "Under whose pleasure do the Prime Minister and other ministers hold office, as appointed by the President?",
+        "o": [
+          "The President's pleasure",
+          "Parliament's pleasure",
+          "The Chief Justice's pleasure",
+          "The Election Commission's pleasure"
+        ],
+        "a": 0,
+        "e": "Ministers, including the Prime Minister, hold office <b>during the pleasure of the President</b> — though in practice, given the parliamentary system, this 'pleasure' is exercised in accordance with whether the government continues to command the confidence of the Lok Sabha, not the President's personal discretion."
+      },
+      {
+        "q": "How many members does the President nominate to the Rajya Sabha, chosen for special knowledge or practical experience in literature, science, art or social service?",
+        "o": [
+          "12 members",
+          "2 members",
+          "10 members",
+          "25 members"
+        ],
+        "a": 0,
+        "e": "The President nominates <b>12 members to the Rajya Sabha</b> based on their distinction in these fields. Previously, the President also nominated 2 Anglo-Indian members to the Lok Sabha, but this provision was discontinued by the 104th Constitutional Amendment Act, 2019, effective January 25, 2020."
+      },
+      {
+        "q": "Within how many weeks of Parliament's reassembly must a Presidential ordinance be approved by Parliament, or else it ceases to operate?",
+        "o": [
+          "Six weeks",
+          "Six months",
+          "Three months",
+          "Two weeks"
+        ],
+        "a": 0,
+        "e": "An ordinance must be approved within <b>six weeks</b> from Parliament's reassembly, or it lapses. Given a maximum six-month gap between Parliamentary sessions, the theoretical maximum life of an unapproved ordinance is six months plus six weeks."
+      },
+      {
+        "q": "In which case did the Supreme Court hold that the President's satisfaction in issuing an ordinance can be questioned in court on the ground of malafide?",
+        "o": [
+          "Cooper case (1970)",
+          "Kehar Singh case (1988)",
+          "D.C. Wadhwa case (1986)",
+          "Maru Ram case (1980)"
+        ],
+        "a": 0,
+        "e": "In the <b>Cooper case (1970)</b>, the Supreme Court held the President's ordinance-issuing satisfaction is justiciable on grounds of malafide — meaning a court could examine whether Parliament was deliberately prorogued specifically to bypass parliamentary debate on a controversial matter."
+      },
+      {
+        "q": "Which case dealt with the Bihar Governor's repeated re-promulgation of the same ordinances (256 ordinances between 1967-1981) without ever placing them before the legislature?",
+        "o": [
+          "D.C. Wadhwa case (1986)",
+          "Cooper case (1970)",
+          "Kehar Singh case (1988)",
+          "Maru Ram case (1980)"
+        ],
+        "a": 0,
+        "e": "The <b>D.C. Wadhwa case (1986)</b> struck down this practice, ruling that successive re-promulgation of ordinances with the same text, without any genuine attempt to get them passed as proper legislation, violates the Constitution — the ordinance-making power cannot substitute for the legislature's own law-making function."
+      },
+      {
+        "q": "Which pardoning power removes both the sentence AND the conviction, completely absolving the convict of all punishments and disqualifications?",
+        "o": [
+          "Pardon",
+          "Commutation",
+          "Remission",
+          "Reprieve"
+        ],
+        "a": 0,
+        "e": "<b>Pardon</b> is the most complete form of relief — it removes both sentence and conviction entirely. The other forms are more limited: commutation substitutes a lighter punishment, remission reduces the sentence's duration without changing its character, and reprieve merely stays execution temporarily."
+      },
+      {
+        "q": "Which case laid down that a mercy petitioner has no right to an oral hearing by the President, and that the President's pardoning power is exercised on the advice of the Union cabinet?",
+        "o": [
+          "Kehar Singh case (1988)",
+          "D.C. Wadhwa case (1986)",
+          "Cooper case (1970)",
+          "Golak Nath case (1967)"
+        ],
+        "a": 0,
+        "e": "The <b>Kehar Singh case (1988)</b> laid down several key principles on the pardoning power, including that there's no right to an oral hearing, the President can re-examine evidence and reach a different view than the courts, and the power is exercised on the Union cabinet's advice — with judicial review limited to cases of irrelevance, irrationality, malafide, or discrimination."
+      },
+      {
+        "q": "Unlike the President, a Governor CANNOT pardon which two categories of sentences?",
+        "o": [
+          "Court martial sentences and death sentences",
+          "Sentences under state laws and civil penalties",
+          "Sentences under Union laws only",
+          "Sentences involving fines only"
+        ],
+        "a": 0,
+        "e": "The Governor cannot pardon sentences by <b>court martial (military courts)</b> nor <b>death sentences</b> — these remain exclusively within the President's pardoning power, even if the offence itself is against a state law. However, both the President and Governor share concurrent power to suspend, remit, or commute (though not fully pardon) a death sentence."
+      },
+      {
+        "q": "Which Amendment Act made the President bound by the advice of the council of ministers, a provision not present in the Constitution originally?",
+        "o": [
+          "42nd Amendment Act, 1976",
+          "44th Amendment Act, 1978",
+          "24th Amendment Act, 1971",
+          "38th Amendment Act, 1975"
+        ],
+        "a": 0,
+        "e": "The <b>42nd Amendment Act, 1976</b> (enacted by Indira Gandhi's government) inserted this binding requirement into Article 74. The <b>44th Amendment Act, 1978</b> subsequently added a further nuance — allowing the President to send the advice back ONCE for reconsideration, though the reconsidered advice remains binding."
+      },
+      {
+        "q": "Which of the following situations allows the President to act using genuine personal (situational) discretion, without ministerial advice?",
+        "o": [
+          "Appointing a Prime Minister when no party has a clear Lok Sabha majority",
+          "Signing the annual Union Budget",
+          "Appointing the Chief Election Commissioner",
+          "Nominating members to the Rajya Sabha"
+        ],
+        "a": 0,
+        "e": "Appointing the <b>Prime Minister when no party has a clear majority</b> (or when the sitting PM dies suddenly with no obvious successor) is one of the President's genuine situational-discretion powers — alongside dismissing a council of ministers that cannot prove Lok Sabha confidence, and dissolving the Lok Sabha if the council has lost its majority."
+      },
+      {
+        "q": "Who famously compared the Indian President's constitutional position to the King under the English Constitution — head of State but not of the Executive, bound by ministerial advice?",
+        "o": [
+          "Dr. B.R. Ambedkar",
+          "K.M. Munshi",
+          "Jawaharlal Nehru",
+          "Rajendra Prasad"
+        ],
+        "a": 0,
+        "e": "<b>Dr. B.R. Ambedkar</b> made this comparison in the Constituent Assembly, explicitly contrasting India's parliamentary system (President as ceremonial head, bound by advice) with the American presidential system (where the President genuinely heads the executive and administration)."
+      },
+      {
+        "q": "Which types of veto power does the Indian President possess?",
+        "o": [
+          "Absolute veto, suspensive veto, and pocket veto (but NOT qualified veto)",
+          "Only absolute veto",
+          "Qualified veto and suspensive veto only",
+          "All four types including qualified veto, unlike the US President"
+        ],
+        "a": 0,
+        "e": "The Indian President has <b>absolute veto, suspensive veto, and pocket veto</b> — but NOT a qualified veto (which requires the legislature to override with a HIGHER majority; this exists in the USA but not India). India's suspensive veto can be overridden by an ORDINARY majority on re-passage."
+      },
+      {
+        "q": "Which President famously exercised the 'pocket veto' on the Indian Post Office (Amendment) Bill in 1986, which sought to restrict press freedom?",
+        "o": [
+          "Zail Singh",
+          "R. Venkataraman",
+          "K.R. Narayanan",
+          "Shankar Dayal Sharma"
+        ],
+        "a": 0,
+        "e": "President <b>Zail Singh</b> exercised a pocket veto — neither approving, rejecting, nor returning the bill, simply keeping it pending indefinitely, since the Constitution sets no time limit for presidential action. His successor R. Venkataraman later returned it, but the new government chose to drop the bill entirely."
+      },
+      {
+        "q": "Which type of veto does the President NOT possess in respect of a Constitutional Amendment Bill, following the 24th Amendment Act, 1971?",
+        "o": [
+          "Any veto at all — the President must give assent",
+          "Absolute veto only",
+          "Suspensive veto only",
+          "Pocket veto only"
+        ],
+        "a": 0,
+        "e": "Following the <b>24th Amendment Act, 1971</b>, the President has NO veto power whatsoever over a constitutional amendment bill — assent is OBLIGATORY. This differs sharply from ordinary bills and money bills, where the President retains at least some veto options."
+      },
+      {
+        "q": "Under Article 72, in which of the following cases can ONLY the President (not the Governor) grant a pardon?",
+        "o": [
+          "Cases involving a sentence of death",
+          "Cases involving offences against state laws only",
+          "Minor traffic offence cases",
+          "Cases decided by a District Court"
+        ],
+        "a": 0,
+        "e": "Only the <b>President</b> can grant a full pardon for a <b>death sentence</b> and for sentences by court martial (military courts) — these are the two areas where the President's pardoning power is exclusive and the Governor's power under Article 161 does not extend, regardless of whether the underlying offence is against a Union or state law."
+      },
+      {
+        "q": "In case of any delay in electing a new President, who continues to hold office until the successor assumes charge?",
+        "o": [
+          "The outgoing President",
+          "The Vice-President automatically becomes President",
+          "The Chief Justice of India",
+          "The Speaker of the Lok Sabha"
+        ],
+        "a": 0,
+        "e": "The <b>outgoing President</b> continues in office beyond the normal five-year term until a successor assumes charge — a deliberate constitutional design to prevent an 'interregnum' (a gap with no President). Notably, in this specific scenario, the Vice-President does NOT get to act as President."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements about the value of votes in the President's electoral college:\n1. Every elected MLA's vote value is calculated by dividing the state's population by the total number of elected assembly seats, then dividing that quotient by 1,000.\n2. Every elected MP's vote value is calculated by dividing the total value of all MLA votes across states by the total number of elected MPs.\n3. The Constitution mandates using the population as per the most recently completed census for these calculations.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the 84th Amendment Act, 2001 froze the population figure to the <b>1971 census</b> for this purpose, specifically to avoid penalising states that successfully controlled population growth, and this freeze continues until the first census after 2026 is published. Statements 1 and 2 correctly describe the vote-value formulas."
+      },
+      {
+        "q": "Consider the following statements about the reasons for choosing indirect election of the President:\n1. Direct election would be inconsistent with the President's nominal-executive role under the parliamentary system.\n2. Direct election would be prohibitively costly and time-consuming given the vast size of the Indian electorate.\n3. Election exclusively by Parliament (rather than the broader electoral college) was preferred because it would make the President more genuinely representative of both states and the Union.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the framers specifically REJECTED election by Parliament alone, precisely because a Parliament dominated by one party would likely choose a candidate from that party, making the President unable to represent the STATES; the broader electoral college (including state assemblies) was chosen instead for this representative balance. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about qualifications and eligibility for the office of President:\n1. A person must be qualified for election as a member of the Lok Sabha.\n2. A sitting Governor of a state is disqualified from being a presidential candidate due to holding an office of profit.\n3. A minister of the Union or a state is not deemed to hold an office of profit for this purpose.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — a sitting Governor, like a sitting President/Vice-President or a Union/state minister, is specifically NOT deemed to hold an office of profit, and hence remains eligible to be a presidential candidate. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the impeachment process for the President:\n1. Impeachment charges can be initiated by either House of Parliament.\n2. The charges must be signed by at least one-fourth of the members of the House that frames them, with 14 days' notice to the President.\n3. Only elected members of Parliament can participate in the impeachment process; nominated members are barred.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — NOMINATED members of either House CAN participate in impeachment proceedings, even though they don't participate in the President's ELECTION; this is a notable asymmetry the book specifically highlights. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about a vacancy in the President's office:\n1. If the vacancy arises from the expiry of the President's term, the election must be completed before the term actually expires.\n2. If the vacancy arises from resignation or death, an election must be held within six months, and the new President then serves a fresh five-year term.\n3. When the Vice-President acts as President due to a vacancy, they are elected for a completely new five-year term from that date.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the Vice-President merely ACTS as President temporarily until a new President is properly elected; this is not equivalent to being elected to a fresh presidential term. Statements 1 and 2 correctly describe the two distinct vacancy-filling timelines."
+      },
+      {
+        "q": "Consider the following statements about the President's legislative powers:\n1. The President's prior recommendation is needed to introduce a bill for the alteration of state boundaries.\n2. If a non-money bill returned by the President for reconsideration is passed again by Parliament, the President is not bound to give assent.\n3. The President can appoint any Lok Sabha member to preside over its proceedings if both the Speaker and Deputy Speaker's offices are vacant.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — if a bill returned for reconsideration is passed AGAIN by Parliament (with or without amendments), the President MUST give assent; this is precisely the mechanism of the 'suspensive' veto, which is overridable. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the President's veto power over state legislation:\n1. When a bill is reserved by the Governor for the President's consideration, the President has the same three options as with central bills.\n2. If the state legislature re-passes a bill returned by the President, the President is bound to give assent on the second presentation.\n3. The Constitution prescribes no time limit for the President to decide on a bill reserved by the Governor, allowing a pocket veto over state legislation too.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — unlike central legislation, the state legislature CANNOT override the President's veto by re-passage; the President is NOT bound to give assent even after the bill is passed again and resubmitted. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the ordinance-making power under Article 123:\n1. An ordinance can be issued even when only one House of Parliament is in session.\n2. The President's ordinance-making power is coextensive with Parliament's law-making power, except regarding duration.\n3. An ordinance can be used to amend the Constitution if urgent circumstances require it.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — an ordinance can be issued only when BOTH Houses are not in session OR when EITHER House is not in session (since a law requires both Houses); an ordinance made when both Houses are simultaneously in session is void. Statement 3 is also incorrect — an ordinance CANNOT be used to amend the Constitution under any circumstances. Statement 2 alone is correct."
+      },
+      {
+        "q": "Consider the following statements about the recommendation-and-reconsideration mechanism under Articles 74 and its amendments:\n1. The 42nd Amendment Act, 1976 made the President's action bound by ministerial advice for the first time.\n2. The 44th Amendment Act, 1978 removed this binding requirement altogether, restoring full presidential discretion.\n3. The 44th Amendment allowed the President to send advice back once for reconsideration, but the reconsidered advice remains binding.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the 44th Amendment did NOT remove the binding requirement; it merely ADDED a limited one-time reconsideration option, while keeping the RECONSIDERED advice fully binding on the President. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the 1997-99 President K.R. Narayanan episodes involving Article 356:\n1. In October 1997, Narayanan returned a cabinet recommendation to impose President's Rule in Uttar Pradesh, and the cabinet subsequently decided not to proceed.\n2. In September 1998, Narayanan similarly returned a recommendation regarding Bihar, and President's Rule was never imposed there.\n3. Both episodes illustrate the President's power to send ministerial advice back once for reconsideration under the 44th Amendment framework.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — after Narayanan returned the Bihar recommendation, the cabinet RE-ADVISED the same course of action a few months later, and President's Rule WAS eventually imposed in Bihar in February 1999 (unlike the UP case, where the cabinet dropped the matter). Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the President's judicial and diplomatic powers:\n1. The President appoints the Chief Justice and judges of the Supreme Court and High Courts.\n2. Advice tendered by the Supreme Court when consulted by the President under Article 143 is binding on the President.\n3. International treaties are negotiated and concluded on behalf of the President, subject to Parliament's approval.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Supreme Court's advice under Article 143 is explicitly NOT binding on the President; the President can seek it but remains free to act differently. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the President's military powers:\n1. The President is the supreme commander of India's defence forces.\n2. The President can declare war or conclude peace entirely at his/her own discretion, without needing Parliament's approval.\n3. The President appoints the chiefs of the Army, Navy, and Air Force.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — declaring war or concluding peace is SUBJECT TO Parliament's approval, not a matter of the President's sole discretion. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the absolute veto's typical use cases:\n1. It is usually exercised with respect to private members' bills.\n2. It can be exercised for a government bill if the cabinet resigns after the bill's passage but before presidential assent, and the new cabinet advises withholding assent.\n3. President Rajendra Prasad exercised absolute veto on the PEPSU Appropriation Bill after President's Rule in that state had been revoked before assent was given.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — these are the book's own illustrative examples of when an absolute veto is typically exercised, showing it isn't limited to purely political private-member bills but can also arise from a genuine change in the government's own position on its own legislation."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "Which of the following best explains why the Constitution designed a broad electoral college (Parliament plus state assemblies) for presidential elections rather than direct popular vote or Parliament-only election?",
+        "o": [
+          "The design balances two competing goals — avoiding the anomaly of a directly-elected but merely ceremonial President (which direct popular election would create) while also ensuring the President represents the states as well as the Union (which Parliament-only election, dominated by one party, would fail to achieve)",
+          "The broad electoral college was chosen purely to reduce the cost of holding elections",
+          "Direct popular election was constitutionally prohibited by an earlier colonial-era law",
+          "The electoral college design was borrowed directly from the American presidential system"
+        ],
+        "a": 0,
+        "e": "This dual rejection reveals the framers' careful balancing act: direct popular election was rejected because it would be inconsistent with the President's merely ceremonial, nominal-executive role (why give direct democratic legitimacy to an office with no real power?), while Parliament-only election was rejected because a single dominant party could then simply select 'its' candidate, undermining the President's role as a representative of BOTH the Union and the states equally — the broader electoral college threads this needle."
+      },
+      {
+        "q": "Which of the following best explains the practical significance of the 44th Amendment Act, 1978's 'reconsideration' provision, as illustrated by the 1997 Uttar Pradesh and 1998-99 Bihar episodes?",
+        "o": [
+          "It gives the President a genuine (though limited and non-final) check on ministerial advice — the President cannot permanently block advice, but can force the cabinet to pause, reflect, and potentially reverse course, as happened in the UP case, even though in the Bihar case the cabinet ultimately reasserted its original position and the President was bound to comply",
+          "It gives the President complete and final veto power over all cabinet decisions with no exceptions",
+          "It applies only to money bills and has no relevance to Article 356 proclamations",
+          "It was struck down by the Supreme Court shortly after being enacted and has no continuing legal effect"
+        ],
+        "a": 0,
+        "e": "These two episodes perfectly illustrate the provision's REAL but LIMITED power: in the UP case, sending the recommendation back for reconsideration led the cabinet to change its mind (a genuine check in action), while in the Bihar case, the cabinet's re-advice after reconsideration was constitutionally BINDING on the President, who had no further recourse — showing the mechanism functions as a 'pause and reflect' check rather than an absolute veto."
+      },
+      {
+        "q": "Which of the following best explains why the D.C. Wadhwa case's ruling against repeated ordinance re-promulgation is significant beyond its specific facts about the Bihar Governor?",
+        "o": [
+          "It establishes a broader constitutional principle that the ordinance power — designed for genuinely urgent, unforeseen situations — cannot be turned into a permanent substitute for regular legislative process through indefinite repetition, safeguarding the legislature's primary law-making role against executive overreach",
+          "It means ordinances can never be issued more than once on the same subject under any circumstances",
+          "It applies only to state Governors and has no bearing on the President's ordinance power under Article 123",
+          "It permanently abolished the ordinance-making power in India"
+        ],
+        "a": 0,
+        "e": "The case's broader significance lies in preventing a structural workaround: since Article 123's ordinance power exists specifically for urgent, temporary situations pending Parliament's return, allowing INDEFINITE re-promulgation (as Bihar did for up to 14 years) would let the executive permanently bypass the legislature's law-making role entirely — the Court's ruling reinforces that ordinances remain a genuinely exceptional, temporary tool, not a parallel and permanent legislative track."
+      },
+      {
+        "q": "Which of the following best explains why the President's pardoning power under Article 72 is described as 'independent of the judiciary' even though it involves reviewing convictions and sentences?",
+        "o": [
+          "Because the President does not sit as a court of appeal re-examining legal correctness, but instead exercises an executive check rooted in different considerations — correcting possible judicial errors and providing relief from unduly harsh sentences — operating on a fundamentally different basis than appellate judicial review",
+          "Because the President's decisions in pardon cases are always subject to full appellate review by the Supreme Court",
+          "Because the pardoning power was transferred entirely to the judiciary by a later constitutional amendment",
+          "Because Article 72 has never actually been used by any President"
+        ],
+        "a": 0,
+        "e": "This 'independence' reflects a distinction in FUNCTION, not total insulation — the President's pardoning power serves purposes (correcting possible errors in the OPERATION of law, and affording relief from harshness) that are conceptually different from a court's role in determining legal guilt or innocence, which is why the Kehar Singh case held the President can adopt a different VIEW than the courts, even while acknowledging some (very narrow) judicial review remains possible for malafide, irrational, or discriminatory exercises of the power."
+      },
+      {
+        "q": "Which of the following best captures Dr. Ambedkar's core distinction between the American presidential system and India's parliamentary system, in describing the President's constitutional position?",
+        "o": [
+          "In America, the President IS the chief executive with administration vested directly in him; in India, the President merely occupies a position like the English King — head of State but not of the Executive, bound by ministerial advice, functioning as a ceremonial 'seal' through which the nation's decisions are made known",
+          "Both systems are functionally identical, differing only in the title used for the head of state",
+          "In India, the President has MORE executive power than the American President",
+          "The American President is also bound by the advice of a council of ministers, just like India's President"
+        ],
+        "a": 0,
+        "e": "Ambedkar's comparison is precise and deliberate: he explicitly notes that beyond the shared TITLE ('President'), there is 'nothing in common' between the two systems — America's President actually RULES as chief executive (and can dismiss any secretary at will), while India's President merely REPRESENTS the nation ceremonially, bound entirely by ministerial advice, unable to act contrary to or without it, so long as ministers command a parliamentary majority."
+      },
+      {
+        "q": "Which of the following best explains why the President's ordinance-making power is described as 'coextensive with Parliament's law-making power except as to duration'?",
+        "o": [
+          "An ordinance can be issued only on subjects Parliament could legislate on, is subject to the same constitutional limits (including inability to abridge Fundamental Rights), and can do everything an Act can do substantively — but unlike an Act, it is inherently temporary, lapsing automatically unless converted into an Act by Parliament within the prescribed period",
+          "It means ordinances last exactly as long as Acts of Parliament with no time limit",
+          "It means the President can use ordinances to legislate on subjects even Parliament itself cannot address",
+          "It means ordinances are permanently exempt from any constitutional limitations, unlike parliamentary Acts"
+        ],
+        "a": 0,
+        "e": "This phrase captures a precise substantive-versus-temporal distinction: in terms of WHAT can be legislated (subject matter, constitutional constraints like Fundamental Rights protection), an ordinance mirrors Parliament's own powers exactly — but in terms of HOW LONG it lasts, an ordinance is inherently provisional, automatically expiring within six weeks of Parliament's reassembly unless Parliament itself converts it into permanent legislation."
+      }
+    ],
+    "upsc": [
+      {
+        "q": "Consider the following statements about the President's election and electoral college:\n1. Nominated members of state Legislative Councils participate in the President's election.\n2. The Supreme Court has final authority to decide all doubts and disputes connected with the President's election.\n3. An election cannot be challenged merely on the ground that the electoral college was incomplete due to vacancies.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — nominated members of state Legislative Councils (and of Parliament) do NOT participate in the President's election; only elected members of Parliament and state/UT assemblies do. Statements 2 and 3 are correct."
+      },
+      {
+        "q": "Assertion (A): The President of India possesses a pocket veto that is, in practice, more powerful than that of the American President.\nReason (R): The Indian Constitution prescribes no time limit within which the President must act on a bill, whereas the American President must return a bill for reconsideration within 10 days.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — this exact comparison is captured in the book's remark that 'the pocket of the Indian President is bigger than that of the American President', precisely because of this absence of any prescribed deadline, illustrated concretely by Zail Singh's multi-year pocket veto of the Indian Post Office (Amendment) Bill."
+      },
+      {
+        "q": "With reference to the President's emergency powers, consider the following statements:\n1. During a National Emergency, the President can suspend all Fundamental Rights without exception.\n2. During President's Rule, the President can declare that state legislative powers shall be exercised by or under Parliament's authority.\n3. During a Financial Emergency, the President can direct reduction of salaries of Supreme Court and High Court judges.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — the President CANNOT suspend the right to life and personal liberty (Article 21) and the right to protection in respect of conviction for offences (Article 20), even during a National Emergency; these two rights remain protected. Statements 2 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the categories of bills requiring the President's prior recommendation or permission for introduction in Parliament:\n1. A bill for the alteration of boundaries of states requires the President's recommendation.\n2. A money bill requires the President's recommendation.\n3. Every ordinary bill involving any government expenditure whatsoever, however minor, requires the President's prior recommendation.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 overstates the rule — the specific category requiring recommendation is a bill involving expenditure specifically from the CONSOLIDATED FUND OF INDIA, not literally every bill with any expenditure implication whatsoever; the book lists this as one of seven specific categories, not a blanket rule for all spending-related bills. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Match List-I (Type of Veto) with List-II (Description) and select the correct answer using the code below.\nList-I:\nA. Absolute veto\nB. Suspensive veto\nC. Pocket veto\nD. Qualified veto\nList-II:\n1. Overridable by legislature with a higher majority (not possessed by Indian President)\n2. Withholding assent entirely, ending the bill\n3. Taking no action on the bill for an indefinite period\n4. Returning the bill, overridable by an ordinary majority on re-passage",
+        "o": [
+          "A-2, B-4, C-3, D-1",
+          "A-1, B-2, C-4, D-3",
+          "A-2, B-1, C-4, D-3",
+          "A-4, B-2, C-1, D-3"
+        ],
+        "a": 0,
+        "e": "Absolute veto = withholding assent entirely (2); suspensive veto = returning for reconsideration, overridable by ordinary majority (4); pocket veto = indefinite inaction (3); qualified veto = overridable only by higher majority, not possessed by the Indian President (1). Correct code: A-2, B-4, C-3, D-1."
+      },
+      {
+        "q": "Consider the following statements about the differences between the President's and Governor's pardoning powers:\n1. The President can pardon sentences by court martial; the Governor cannot.\n2. The President can pardon a death sentence; the Governor cannot pardon it but CAN suspend, remit, or commute it.\n3. This means the President and Governor have no overlapping powers whatsoever regarding death sentences.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the President and Governor actually DO have CONCURRENT (overlapping) power specifically regarding suspension, remission, and commutation of a death sentence; it is only the full PARDON of a death sentence that remains exclusively with the President. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the President's situational discretion:\n1. The President can exercise discretion in appointing a Prime Minister when no party has a clear Lok Sabha majority.\n2. The President can dismiss a council of ministers on his/her own personal assessment, without requiring it to first prove confidence on the floor of the House.\n3. The President can exercise discretion in dissolving the Lok Sabha if the council of ministers has lost its majority.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 overstates the President's discretion — dismissal of the council of ministers arises specifically when it CANNOT PROVE confidence on the floor of the Lok Sabha (i.e., after a floor test or failure to face one), not based merely on the President's own subjective assessment. Statements 1 and 3 correctly describe genuine situational-discretion scenarios."
+      },
+      {
+        "q": "Consider the following statements about the President's five forms of pardoning power:\n1. Commutation substitutes a lighter form of punishment for a harsher one.\n2. Respite awards a lesser sentence due to special facts such as physical disability or pregnancy.\n3. Reprieve permanently cancels a death sentence rather than merely staying its execution temporarily.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — reprieve is only a TEMPORARY stay of execution (to allow time to seek pardon or commutation), not a permanent cancellation of the sentence; permanent cancellation is what 'pardon' itself achieves. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "With reference to the President's veto power over Central legislation (Table 18.2), consider the following statements:\n1. For ordinary bills, the President can ratify, reject, or return the bill.\n2. For money bills, the President can ratify or reject the bill, but cannot return it.\n3. For constitutional amendment bills, the President can ratify, reject, or return the bill, exactly as with ordinary bills.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — for constitutional amendment bills, the President can ONLY ratify (give assent); rejection and return are not available options, unlike with ordinary bills. Statements 1 and 2 are correct."
+      }
+    ]
+  }
+}
