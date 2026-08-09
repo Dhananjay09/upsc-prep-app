@@ -1,0 +1,565 @@
+{
+  "id": "pm_council_of_ministers",
+  "title": "Prime Minister & Council of Ministers",
+  "desc": "Appointment, oath, term and powers of the Prime Minister; role descriptions and relationship with the President; caretaker governments; the constitutional provisions, composition, responsibility (collective, individual, and the absence of legal responsibility) of the Council of Ministers; the Cabinet versus Council of Ministers distinction; and the Kitchen Cabinet",
+  "questions": {
+    "basic": [
+      {
+        "q": "Which Article of the Constitution simply states that the Prime Minister shall be appointed by the President, without specifying a detailed procedure?",
+        "o": [
+          "Article 75",
+          "Article 74",
+          "Article 78",
+          "Article 88"
+        ],
+        "a": 0,
+        "e": "<b>Article 75</b> states only that the Prime Minister 'shall be appointed by the President' — the Constitution contains no detailed procedure. In practice, convention requires the President to appoint the leader of the majority party in the Lok Sabha, with genuine personal discretion arising only when no party has a clear majority."
+      },
+      {
+        "q": "Who was the first Prime Minister appointed through the President's personal discretion, following the fall of the Morarji Desai government in 1979?",
+        "o": [
+          "Charan Singh",
+          "V.P. Singh",
+          "Chandrasekhar",
+          "I.K. Gujral"
+        ],
+        "a": 0,
+        "e": "President Neelam Sanjiva Reddy appointed <b>Charan Singh</b> (the coalition leader) as PM in 1979 after Morarji Desai's Janata Party government fell — the first time this presidential discretion was exercised, since no party had a clear Lok Sabha majority at that point."
+      },
+      {
+        "q": "Which President appointed Rajiv Gandhi as Prime Minister in 1984, ignoring the earlier precedent of appointing a caretaker Prime Minister, following Indira Gandhi's assassination?",
+        "o": [
+          "Zail Singh",
+          "Neelam Sanjiva Reddy",
+          "R. Venkataraman",
+          "Shankar Dayal Sharma"
+        ],
+        "a": 0,
+        "e": "President <b>Zail Singh</b> made this discretionary appointment immediately, departing from the earlier practice of appointing a caretaker PM (as had been done twice before, with Gulzari Lal Nanda, following the deaths of Nehru and Shastri) — the Congress parliamentary party later unanimously elected Rajiv Gandhi as its own leader."
+      },
+      {
+        "q": "According to a 1980 Delhi High Court ruling, must a person prove majority support in the Lok Sabha BEFORE being appointed Prime Minister?",
+        "o": [
+          "No, the President can appoint first and then ask for a confidence vote within a reasonable period",
+          "Yes, majority proof is mandatory before any appointment",
+          "Yes, but only if more than one candidate stakes a claim",
+          "No, majority proof is never required at any stage"
+        ],
+        "a": 0,
+        "e": "The <b>1980 Delhi High Court</b> ruling held that the Constitution does NOT require proving majority BEFORE appointment — the President may appoint first and then require a confidence vote within a reasonable period, a practice followed for PMs like Charan Singh (1979), V.P. Singh (1989), and several others listed in the book."
+      },
+      {
+        "q": "According to a 1996 Supreme Court ruling, for how long can a person who is not a member of either House of Parliament serve as Prime Minister?",
+        "o": [
+          "Six months, within which they must become a member of either House",
+          "One year, with automatic disqualification thereafter",
+          "Indefinitely, as membership is not required for PM",
+          "Three months, with a possible one-time extension"
+        ],
+        "a": 0,
+        "e": "The <b>1996 Supreme Court</b> ruling held such a person can serve for a maximum of <b>six months</b>, within which they must become a member of either House — otherwise they cease to be Prime Minister, mirroring the same six-month rule that applies to ordinary ministers."
+      },
+      {
+        "q": "Which two oaths does the President administer to the Prime Minister before he/she enters office?",
+        "o": [
+          "Oath of office and oath of secrecy",
+          "Oath of allegiance and oath of loyalty",
+          "Oath of office only, with no secrecy oath",
+          "Oath of secrecy and oath of impartiality"
+        ],
+        "a": 0,
+        "e": "The President administers the <b>oath of office and oath of secrecy</b> — the same combination administered to any Union minister. In the oath of secrecy, the PM specifically swears not to reveal matters brought under consideration except as required for official duties."
+      },
+      {
+        "q": "On whose pleasure does the Prime Minister hold office, and can the President dismiss the PM at any time?",
+        "o": [
+          "The President's pleasure, but the President cannot dismiss a PM who enjoys Lok Sabha majority support",
+          "The President's pleasure, and the President can dismiss the PM at any time for any reason",
+          "Parliament's pleasure exclusively, with no presidential role",
+          "The Prime Minister's own discretion, serving until voluntary resignation"
+        ],
+        "a": 0,
+        "e": "The PM holds office <b>during the President's pleasure</b> in name, but in substance this is constrained by convention — as long as the PM enjoys Lok Sabha majority support, the President CANNOT dismiss them; dismissal (or resignation) becomes appropriate only once that confidence is actually lost."
+      },
+      {
+        "q": "Who recommends persons for appointment as ministers, whom the President can then appoint?",
+        "o": [
+          "The Prime Minister",
+          "The Speaker of the Lok Sabha",
+          "The Leader of the Opposition",
+          "The Election Commission"
+        ],
+        "a": 0,
+        "e": "The <b>Prime Minister</b> recommends ministers, and the President can appoint ONLY those persons the PM recommends — this is one of the PM's core powers in relation to the council of ministers, alongside allocating/reshuffling portfolios and asking ministers to resign."
+      },
+      {
+        "q": "What happens to the entire council of ministers when the Prime Minister resigns or dies?",
+        "o": [
+          "The council of ministers is automatically dissolved",
+          "Only the Prime Minister's position becomes vacant; other ministers continue",
+          "The Deputy Prime Minister automatically becomes the new Prime Minister",
+          "The council continues functioning under the senior-most cabinet minister"
+        ],
+        "a": 0,
+        "e": "The <b>entire council of ministers is automatically dissolved</b> when the PM resigns or dies, generating a vacuum — this differs sharply from the resignation or death of any OTHER minister, which merely creates a vacancy the PM may or may not choose to fill."
+      },
+      {
+        "q": "Which Article specifically deals with the Prime Minister's duty to communicate Council of Ministers' decisions to the President and furnish information as required?",
+        "o": [
+          "Article 78",
+          "Article 74",
+          "Article 75",
+          "Article 77"
+        ],
+        "a": 0,
+        "e": "<b>Article 78</b> lays out this specific duty — communicating all council decisions relating to Union administration and legislative proposals, furnishing information the President calls for, and submitting any minister's undecided-by-council matter for full council consideration if the President so requires."
+      },
+      {
+        "q": "According to Dr. B.R. Ambedkar, which functionary under the Indian Constitution should actually be compared to the US President?",
+        "o": [
+          "The Prime Minister, not the President of India",
+          "The President of India",
+          "The Chief Justice of India",
+          "The Speaker of the Lok Sabha"
+        ],
+        "a": 0,
+        "e": "Ambedkar stated: 'If any functionary under our constitution is to be compared with the US President, he is the <b>Prime Minister</b> and not the President of the Union' — highlighting that real executive power in India's parliamentary system rests with the PM, unlike the nominal, ceremonial Indian presidency."
+      },
+      {
+        "q": "Which phrase did Lord Morley use to describe the British Prime Minister's position relative to the cabinet?",
+        "o": [
+          "'Primus inter pares' (first among equals)",
+          "'Inter stellas luna minores' (a moon among lesser stars)",
+          "'The captain of the ship of the state'",
+          "'The pivot around which the machinery revolves'"
+        ],
+        "a": 0,
+        "e": "<b>Lord Morley</b> used '<b>primus inter pares</b>' ('first among equals'), also calling the PM the 'key-stone of the cabinet arch'. Other scholars used different metaphors: Harcourt called the PM 'a moon among lesser stars', Jennings called him 'a sun around which planets revolve', and Munro called him 'the captain of the ship of the state'."
+      },
+      {
+        "q": "Which six people became Prime Minister of India after having previously served as Chief Minister of a state?",
+        "o": [
+          "Morarji Desai, Charan Singh, V.P. Singh, P.V. Narasimha Rao, H.D. Deve Gowda, and Narendra Modi",
+          "Jawaharlal Nehru, Indira Gandhi, Rajiv Gandhi, V.P. Singh, Manmohan Singh, and Narendra Modi",
+          "Charan Singh, Chandrasekhar, I.K. Gujral, A.B. Vajpayee, Deve Gowda, and Manmohan Singh",
+          "Morarji Desai, Indira Gandhi, Rajiv Gandhi, V.P. Singh, Narasimha Rao, and Modi"
+        ],
+        "a": 0,
+        "e": "These six — <b>Morarji Desai, Charan Singh, V.P. Singh, P.V. Narasimha Rao, H.D. Deve Gowda, and Narendra Modi</b> — each transitioned from a state Chief Ministership to the national Prime Ministership, illustrating a recurring pathway from state to national leadership in Indian politics."
+      },
+      {
+        "q": "Which committee, appointed during Jayaprakash Narayan's 'Total Revolution' movement (1974), recommended that a caretaker government should not initiate new policies or promise new projects?",
+        "o": [
+          "Tarkunde Committee",
+          "Sarkaria Commission",
+          "Rajamannar Committee",
+          "Administrative Reforms Commission"
+        ],
+        "a": 0,
+        "e": "The <b>Tarkunde Committee (1974-75)</b>, headed by Justice V.M. Tarkunde and also known as the JP Committee, recommended these specific restrictions on caretaker governments — no new policies, no new projects, no allowance/loan/salary grants, and no ministerial official functions — to prevent misuse of transitional power."
+      },
+      {
+        "q": "Does the Constitution of India contain any explicit provision for a 'caretaker government'?",
+        "o": [
+          "No, it is only a situational arrangement and functional necessity",
+          "Yes, it is explicitly defined under Article 75",
+          "Yes, it is explicitly defined under Article 356",
+          "No, and courts have declared the concept unconstitutional"
+        ],
+        "a": 0,
+        "e": "The Constitution has <b>no explicit provision</b> for a caretaker government — it is purely a situational, practical arrangement recognised by convention and judicial observation (e.g., a 1979 Calcutta High Court judgement), not a formal constitutional category."
+      },
+      {
+        "q": "Which Amendment Act capped the total number of ministers (including the PM) at not exceeding 15% of the Lok Sabha's total strength?",
+        "o": [
+          "91st Amendment Act, 2003",
+          "42nd Amendment Act, 1976",
+          "44th Amendment Act, 1978",
+          "73rd Amendment Act, 1992"
+        ],
+        "a": 0,
+        "e": "The <b>91st Amendment Act, 2003</b> introduced this 15% cap on council of ministers' size, and also disqualified defectors from being appointed ministers — both provisions were added to Article 75 to curb the earlier trend of unusually large 'mega' ministries formed for political accommodation."
+      },
+      {
+        "q": "In which case did the Supreme Court hold that even after the Lok Sabha's dissolution, the council of ministers does not cease to hold office, and Article 74 is mandatory?",
+        "o": [
+          "U.N.R. Rao case (1971)",
+          "Shamsher Singh case (1974)",
+          "Kehar Singh case (1988)",
+          "Maru Ram case (1980)"
+        ],
+        "a": 0,
+        "e": "The <b>U.N.R. Rao case (1971)</b> established that the council of ministers continues even after Lok Sabha dissolution, and that the President CANNOT exercise executive power without the council's aid and advice — doing so would violate Article 74."
+      },
+      {
+        "q": "In which case did the Supreme Court hold that wherever the Constitution requires the President's 'satisfaction', this actually means the satisfaction of the council of ministers, not the President's personal satisfaction?",
+        "o": [
+          "Shamsher Singh case (1974)",
+          "U.N.R. Rao case (1971)",
+          "Kehar Singh case (1988)",
+          "Cooper case (1970)"
+        ],
+        "a": 0,
+        "e": "The <b>Shamsher Singh case (1974)</b> clarified this crucial interpretive point — the President's 'satisfaction' referenced throughout the Constitution is legally understood as the council of ministers' collective satisfaction, reinforcing the ceremonial, advice-bound nature of the presidential office."
+      },
+      {
+        "q": "In which case did the Supreme Court uphold the validity of the oath taken by Devi Lal as 'Deputy Prime Minister' in 1990, even though the Constitution does not mention this title?",
+        "o": [
+          "The Devi Lal oath case (1990)",
+          "U.N.R. Rao case (1971)",
+          "Kehar Singh case (1988)",
+          "Shamsher Singh case (1974)"
+        ],
+        "a": 0,
+        "e": "The Supreme Court upheld Devi Lal's oath as valid, ruling that describing someone as 'Deputy Prime Minister' is merely DESCRIPTIVE and doesn't confer any actual powers of the Prime Minister — such a description does not invalidate the oath so long as its SUBSTANTIVE part remains correct."
+      },
+      {
+        "q": "Which three categories of ministers together make up the council of ministers?",
+        "o": [
+          "Cabinet ministers, ministers of state, and deputy ministers",
+          "Cabinet ministers, junior ministers, and parliamentary secretaries",
+          "Senior ministers, state ministers, and district ministers",
+          "Cabinet ministers, deputy ministers, and shadow ministers"
+        ],
+        "a": 0,
+        "e": "The council of ministers consists of <b>cabinet ministers, ministers of state, and deputy ministers</b> — differing in rank, emoluments, and political importance, with the Prime Minister standing at the top of all of them as the supreme governing authority."
+      },
+      {
+        "q": "Which category of ministers can either be given independent charge of a ministry/department OR be attached to work under a cabinet minister's supervision?",
+        "o": [
+          "Ministers of state",
+          "Deputy ministers",
+          "Parliamentary secretaries",
+          "Cabinet ministers"
+        ],
+        "a": 0,
+        "e": "<b>Ministers of state</b> have this dual possibility — with independent charge, they exercise the same powers as a cabinet minister over their department; when attached to a cabinet minister, they work under that minister's overall supervision and don't normally attend cabinet meetings unless specially invited."
+      },
+      {
+        "q": "Which body meets frequently (usually weekly) to deliberate and take collective decisions on government business, unlike the larger council of ministers which has no such collective function?",
+        "o": [
+          "The Cabinet",
+          "The Lok Sabha",
+          "The Rajya Sabha",
+          "Parliamentary Secretaries"
+        ],
+        "a": 0,
+        "e": "The <b>Cabinet</b> — a smaller body consisting only of cabinet ministers — meets regularly (usually weekly) as a collective decision-making body. The full council of ministers, being much larger, does not meet collectively to transact business in the same way."
+      },
+      {
+        "q": "When was the term 'Cabinet' first inserted into the constitutional text, and under which Article?",
+        "o": [
+          "1978, under Article 352, by the 44th Amendment Act",
+          "1950, in the original Constitution, under Article 74",
+          "1976, under Article 74, by the 42nd Amendment Act",
+          "2003, under Article 75, by the 91st Amendment Act"
+        ],
+        "a": 0,
+        "e": "The word 'Cabinet' was inserted only in <b>1978, into Article 352</b>, by the <b>44th Amendment Act</b> — it did NOT appear anywhere in the Constitution's original text; even now, Article 352 only briefly defines it as 'the council consisting of the Prime Minister and other ministers of cabinet rank', without detailing its powers or functions."
+      },
+      {
+        "q": "What is the informal, extra-constitutional body consisting of the Prime Minister and a few trusted colleagues (sometimes including outsiders) that has become the real centre of power, particularly prominent during Indira Gandhi's era?",
+        "o": [
+          "The Kitchen Cabinet (or Inner Cabinet)",
+          "The Shadow Cabinet",
+          "The Cabinet Committee on Political Affairs",
+          "The Council of Ministers"
+        ],
+        "a": 0,
+        "e": "The '<b>Kitchen Cabinet</b>' (or 'Inner Cabinet') is this informal body — composed of the PM's most trusted colleagues, sometimes including friends and family, advising on crucial political and administrative decisions. It became particularly powerful and prominent specifically during Indira Gandhi's tenure."
+      },
+      {
+        "q": "Which minister resigned from Nehru's cabinet in 1953 due to differences over the Hindu Code Bill?",
+        "o": [
+          "Dr. B.R. Ambedkar",
+          "C.D. Deshmukh",
+          "Arif Mohammed Khan",
+          "Morarji Desai"
+        ],
+        "a": 0,
+        "e": "<b>Dr. B.R. Ambedkar</b> resigned in 1953 over the Hindu Code Bill dispute. Other examples of principled cabinet resignations cited in the book include C.D. Deshmukh (over states reorganisation policy) and Arif Mohammed Khan (over the Muslim Women Act, 1986)."
+      }
+    ],
+    "intermediate": [
+      {
+        "q": "Consider the following statements about the appointment of the Prime Minister:\n1. Constitutionally, the Prime Minister may be a member of either House of Parliament.\n2. In Britain, the Prime Minister must definitely be a member of the House of Commons (Lower House).\n3. Indira Gandhi, Deve Gowda, and Manmohan Singh all served as Prime Minister while being members of the Rajya Sabha.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — this comparison between Indian flexibility (either House) and British rigidity (Lower House only) is a recurring theme across the book, illustrated concretely by three actual Indian Prime Ministers who served from the Rajya Sabha."
+      },
+      {
+        "q": "Consider the following statements about the Prime Minister's powers in relation to Parliament:\n1. The Prime Minister advises the President on summoning and proroguing Parliament sessions.\n2. The Prime Minister can recommend dissolution of the Lok Sabha to the President at any time.\n3. The Prime Minister is formally the presiding officer of the Lok Sabha's proceedings.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the Speaker, not the Prime Minister, presides over the Lok Sabha's proceedings; the PM is merely the LEADER of the House (in a political sense), not its presiding officer. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about caretaker governments in India:\n1. The Constitution explicitly defines the powers and limitations of a caretaker government.\n2. In 1979, President N. Sanjeeva Reddy issued a communique on assurances from the outgoing government regarding not setting new policies during the caretaker period.\n3. Caretaker governments face limited accountability because the normal channel of accountability through Parliament does not exist during this period.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — the Constitution does NOT explicitly define a caretaker government at all; its limitations arise from convention, committee recommendations (like Tarkunde Committee), and judicial observations, not constitutional text. Statements 2 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about Article 74 and the advice tendered by the council of ministers to the President:\n1. The President must always act in accordance with the council's advice, with no possibility of seeking reconsideration.\n2. The nature of advice tendered by ministers to the President cannot be inquired into by any court.\n3. The 42nd and 44th Amendment Acts together shaped the current binding-advice framework under Article 74.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — the President CAN require the council to RECONSIDER its advice once; only the RECONSIDERED advice becomes strictly binding, per the 44th Amendment Act's addition. Statements 2 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the appointment and continuation of ministers who are not members of Parliament:\n1. Such a person can be appointed as a minister for up to six months.\n2. Within this period, they must become a member of either House by election or by nomination, or they cease to be a minister.\n3. A minister who is a member of the Lok Sabha can also speak in the Rajya Sabha, and can vote in both Houses.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — while a minister CAN speak in the OTHER House too, they can VOTE only in the House of which they are actually a member, not in both. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about collective responsibility:\n1. When the Lok Sabha passes a no-confidence motion, all ministers must resign, including those who are Rajya Sabha members.\n2. Cabinet decisions bind all ministers even if they personally disagreed during the cabinet meeting.\n3. A minister who disagrees with a cabinet decision but continues to serve without resigning is acting entirely within constitutional norms with no expectation of defending the decision publicly.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the principle of collective responsibility specifically requires that a disagreeing minister who is NOT prepared to defend a cabinet decision publicly MUST resign; continuing to serve while publicly opposing cabinet decisions violates this norm. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about individual ministerial responsibility versus legal responsibility:\n1. Individual responsibility means the President can remove a minister even while the council of ministers as a whole enjoys Lok Sabha confidence.\n2. The President removes an individual minister purely on his/her own initiative, without the Prime Minister's advice.\n3. Unlike Britain, India has no system of legal responsibility requiring ministers to countersign the President's official acts.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the President removes a minister only on the PRIME MINISTER's advice, not on the President's own independent initiative. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements comparing the council of ministers and the cabinet (per Table 21.1):\n1. The council of ministers is vested with all powers in theory, but the cabinet exercises these powers in practice.\n2. The cabinet's size and classification are explicitly detailed in the constitutional text.\n3. Both bodies are collectively responsible to the Lower House of Parliament, though in different senses.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the Constitution does NOT detail the cabinet's size or classification; these are based on British parliamentary conventions, though the classification does have legislative (not constitutional) backing via the Salaries and Allowances of Ministers Act, 1952. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about parliamentary secretaries:\n1. They are members of the council of ministers, appointed by the President.\n2. They have their own independent departments to administer.\n3. They are appointed by the Prime Minister and assist senior ministers with parliamentary duties.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "Only 3",
+          "1 and 2",
+          "2 and 3",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Only statement 3 is correct. Statements 1 and 2 are both incorrect — parliamentary secretaries are explicitly NOT members of the council of ministers, are appointed by the PRIME MINISTER (not the President), and have NO department under their own control, unlike genuine ministers."
+      },
+      {
+        "q": "Consider the following statements about the 'Kitchen Cabinet' phenomenon:\n1. It is unique to India and does not exist in other democracies like the USA or Britain.\n2. Its merits include faster decision-making and greater secrecy compared to the larger formal cabinet.\n3. Its demerits include reducing the formal cabinet's authority and allowing outsiders to influence government decisions without legal accountability.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "2 and 3 only",
+          "1 and 2 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 1 is incorrect — the book explicitly notes this phenomenon 'is not unique to India' and 'also exists in USA and Britain', where it is similarly influential. Statements 2 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Prime Minister's roles beyond the three major relationships (council of ministers, President, Parliament):\n1. The Prime Minister is the chairman of NITI Aayog, National Integration Council, and Inter-State Council.\n2. The Prime Minister has no role in shaping the country's foreign policy, which is handled exclusively by the External Affairs Minister.\n3. The Prime Minister acts as the political head of the civil services.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the book explicitly states the PM 'plays a significant role in shaping the foreign policy of the country', directly contradicting the claim of an exclusively External Affairs Minister-driven process. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Consider the following statements about the salary and allowances of the Prime Minister and ministers:\n1. The Prime Minister receives the same base salary and allowances payable to a Member of Parliament, plus additional benefits like a sumptuary allowance.\n2. In 2001, the sumptuary allowance for the Prime Minister was raised from ₹1,500 to ₹3,000 per month.\n3. The sumptuary allowance is identical in amount for the Prime Minister, cabinet ministers, ministers of state, and deputy ministers.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the sumptuary allowance varies BY RANK: after the 2001 revision, it was ₹3,000 for PM, ₹2,000 for cabinet ministers, ₹1,000 for ministers of state, and ₹600 for deputy ministers — not a uniform amount. Statements 1 and 2 are correct."
+      }
+    ],
+    "advanced": [
+      {
+        "q": "Which of the following best explains why the President's discretion in appointing a Prime Minister is described as exceptional rather than routine?",
+        "o": [
+          "Constitutional convention normally dictates a mechanical rule (appoint the majority party's leader), so genuine discretion arises only in the narrow circumstances of a hung Lok Sabha or a PM's sudden death without an obvious successor — situations where the mechanical rule itself provides no clear answer",
+          "The President exercises full personal discretion in every single Prime Ministerial appointment as a matter of routine practice",
+          "Presidential discretion in PM appointment was abolished entirely by a constitutional amendment",
+          "The Constitution requires the President to consult the Supreme Court before every PM appointment"
+        ],
+        "a": 0,
+        "e": "The 'exceptional' character of this discretion stems directly from how NARROWLY it is confined — in the overwhelming majority of cases, the President simply follows the clear convention of appointing the majority party's leader, with real discretion emerging only in the specific edge cases (hung assembly, sudden PM death with no clear successor) where that convention itself cannot mechanically resolve who should be appointed."
+      },
+      {
+        "q": "Which of the following best explains why the resignation or death of the Prime Minister has categorically different consequences than the resignation or death of any other minister?",
+        "o": [
+          "Because the Prime Minister is the head and unifying authority of the council of ministers as a collective body, so their departure removes the very foundation the council rests on, automatically dissolving it entirely, whereas any other minister's departure only removes one component while the underlying council (and PM) continues functioning",
+          "Because only the Prime Minister's position is mentioned in the Constitution, while other ministers' positions are entirely extra-constitutional",
+          "Because the Prime Minister has a fixed term while other ministers serve indefinitely",
+          "Because other ministers cannot legally resign under the Constitution, unlike the Prime Minister"
+        ],
+        "a": 0,
+        "e": "This asymmetry reflects the PM's structural position as the council's HEAD and organising principle — since the council of ministers exists AS a council specifically because the PM leads and unifies it, the PM's departure removes the entire foundation (triggering automatic dissolution and a 'vacuum'), while any other minister's departure removes just one member, leaving the underlying council and its leadership intact (creating merely a 'vacancy' the PM can address at will)."
+      },
+      {
+        "q": "Which of the following best explains the practical tension between the Prime Minister's power over individual ministers (via presidential 'pleasure') and the principle of collective responsibility, as Ambedkar's own observation suggests?",
+        "o": [
+          "Collective responsibility as a functioning principle actually DEPENDS on the PM's individual power to dismiss or demand resignation from dissenting ministers — without this enforcement mechanism, there would be no way to ensure ministers actually 'swim or sink together', so the two principles are complementary rather than contradictory",
+          "Collective responsibility makes the Prime Minister's individual dismissal power entirely redundant and unnecessary",
+          "The two principles are mutually exclusive and cannot coexist within the same constitutional system",
+          "Ambedkar argued the Prime Minister's office should be abolished to resolve this exact tension"
+        ],
+        "a": 0,
+        "e": "Ambedkar's own observation reveals these principles are mutually REINFORCING, not contradictory: he explicitly stated 'collective responsibility can be achieved only through the instrumentality of the Prime Minister' — meaning the PM's power to individually pressure or remove a dissenting minister is precisely the MECHANISM that makes collective, unified cabinet action possible in the first place, since without it, there would be no way to enforce unity when individual ministers disagree."
+      },
+      {
+        "q": "Which of the following best explains why the 'no legal responsibility' principle (absence of a countersignature requirement, as exists in Britain) reinforces rather than undermines India's system of ministerial accountability?",
+        "o": [
+          "Since courts are separately barred from inquiring into the advice ministers give the President, and there's no countersignature system either, ministerial accountability in India is channelled EXCLUSIVELY through POLITICAL means (collective and individual responsibility to Parliament) rather than legal/judicial means — a deliberate, coherent design choice rather than an accountability gap",
+          "It means Indian ministers face no accountability of any kind, unlike British ministers",
+          "It means the President personally bears full legal liability for every government action instead of ministers",
+          "It contradicts the principle of collective responsibility and represents an unintended drafting oversight"
+        ],
+        "a": 0,
+        "e": "Far from being a gap, this is a coherent design choice: by channelling accountability through POLITICAL mechanisms (collective responsibility to the Lok Sabha, individual responsibility to the PM/President) rather than a British-style LEGAL mechanism (countersignature exposing ministers to court liability), the Indian system concentrates ministerial accountability entirely within the parliamentary-political sphere — consistent with, not contradictory to, the broader constitutional architecture built on Articles 74 and 75."
+      },
+      {
+        "q": "Which of the following best explains why the 'Kitchen Cabinet' is considered structurally distinct from, yet functionally more powerful than, the formal Cabinet in practice?",
+        "o": [
+          "The formal Cabinet is the constitutionally/legislatively recognised, larger decision-making body that meets regularly, while the Kitchen Cabinet is an informal, much smaller circle of trusted advisors (sometimes including non-ministers) that actually shapes decisions BEFORE they reach the formal Cabinet for ratification, making the formal body's role sometimes more ceremonial than substantive",
+          "The Kitchen Cabinet formally replaced the Cabinet as India's highest constitutional decision-making body",
+          "The Kitchen Cabinet consists exclusively of Cabinet ministers with no outside participants",
+          "The Kitchen Cabinet only exists during national emergencies and has no role in ordinary governance"
+        ],
+        "a": 0,
+        "e": "The described dynamic — decisions 'cooked' in the Kitchen Cabinet and then 'placed before the cabinet for formal approval' — captures a real practical inversion: while the FORMAL cabinet retains constitutional/legislative status as the recognised decision-making body, the INFORMAL Kitchen Cabinet's smaller size, greater secrecy, and closer proximity to the PM's personal trust can make it the true locus of substantive decision-making, with the formal cabinet meeting sometimes functioning as a ratifying rather than deliberating body."
+      },
+      {
+        "q": "Which of the following best explains why role descriptions of the British Prime Minister and Cabinet (from scholars like Jennings, Bagehot, and Muir) are said to 'hold good in the Indian context too'?",
+        "o": [
+          "Because India's parliamentary system was directly modelled on the British Westminster system, so the same underlying institutional dynamics — PM as central coordinating figure, Cabinet as the fused executive-legislative hinge — naturally apply, even though the two countries differ in written/unwritten constitutions and federal/unitary structure",
+          "Because India directly copied every specific provision of British constitutional law without modification",
+          "Because Britain and India have identical Head of State arrangements",
+          "Because British scholars were personally involved in drafting India's Constitution"
+        ],
+        "a": 0,
+        "e": "The applicability of these British role-descriptions to India stems from the fact that India deliberately ADOPTED the Westminster parliamentary MODEL — with its characteristic fusion of executive and legislative power through the cabinet system and centrality of the Prime Minister — even while diverging from Britain in other respects (written Constitution, federalism, judicial review), meaning the core INSTITUTIONAL DYNAMICS these scholars describe transfer across despite these differences."
+      }
+    ],
+    "upsc": [
+      {
+        "q": "Consider the following statements about the constitutional and conventional aspects of Prime Ministerial appointment:\n1. The President must ordinarily appoint the leader of the majority party in the Lok Sabha as Prime Minister.\n2. When appointed via presidential discretion due to a hung assembly, the appointee is typically asked to seek a confidence vote within a month.\n3. The Constitution explicitly requires a written recommendation from the outgoing cabinet before a new Prime Minister's appointment in every circumstance.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — there is no such constitutional requirement for a written outgoing-cabinet recommendation before every PM appointment; this conflates the (unrelated) National Emergency cabinet-recommendation requirement with PM appointment, which the Constitution does not detail at all. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Assertion (A): The Prime Minister's resignation or death automatically dissolves the entire council of ministers.\nReason (R): The Prime Minister is the head and unifying authority of the council of ministers, and Article 74 vests the council's function specifically in a body headed by the Prime Minister.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — Article 74's explicit framing of a 'Council of Ministers with the Prime Minister at the head' means the PM's departure removes the very structural foundation the council is built around, directly causing automatic dissolution."
+      },
+      {
+        "q": "With reference to the U.N.R. Rao case (1971) and Shamsher Singh case (1974), consider the following statements:\n1. U.N.R. Rao held that the council of ministers continues even after the Lok Sabha's dissolution.\n2. Shamsher Singh held that the President's 'satisfaction' under various constitutional provisions actually refers to the council of ministers' collective satisfaction.\n3. Both cases collectively reinforce that the President cannot exercise executive power independent of ministerial advice.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — together, these two landmark cases comprehensively establish the mandatory, non-discretionary nature of Article 74's aid-and-advice requirement, confirming the President's role as bound by ministerial advice even in situations (like post-dissolution) where one might assume greater presidential latitude."
+      },
+      {
+        "q": "Consider the following statements about the composition and powers of ministers of state:\n1. When given independent charge, a minister of state exercises the same powers as a cabinet minister over their department.\n2. Ministers of state, regardless of charge type, are always full members of the cabinet and attend all cabinet meetings.\n3. When attached to a cabinet minister, a minister of state works under that minister's overall supervision and responsibility.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — ministers of state are NOT members of the cabinet regardless of charge type, and do NOT attend cabinet meetings unless specifically invited when a matter relating to their ministry is being considered. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Match List-I (Political Scientist) with List-II (Description of Cabinet/PM) and select the correct answer using the code below.\nList-I:\nA. Ramsay Muir\nB. Ivor Jennings\nC. Gladstone\nD. Bagehot\nList-II:\n1. 'The Cabinet is the core of the British Constitutional System'\n2. 'The Cabinet is a hyphen that joins, the buckle that binds the executive and legislative departments'\n3. 'The steering wheel of the ship of the state'\n4. 'The solar orb around which the other bodies revolve'",
+        "o": [
+          "A-3, B-1, C-4, D-2",
+          "A-1, B-3, C-2, D-4",
+          "A-3, B-2, C-1, D-4",
+          "A-4, B-1, C-3, D-2"
+        ],
+        "a": 0,
+        "e": "Ramsay Muir called it the 'steering wheel of the ship of the state'; Ivor Jennings called it the 'core of the British Constitutional System'; Gladstone called it the 'solar orb around which other bodies revolve'; Bagehot called it 'a hyphen that joins... the buckle that binds'. Correct code: A-3, B-1, C-4, D-2."
+      },
+      {
+        "q": "Consider the following statements about the 91st Amendment Act, 2003's changes to Article 75:\n1. It capped the total council of ministers' size at 15% of the Lok Sabha's total strength.\n2. It disqualified any member disqualified on grounds of defection from being appointed a minister.\n3. It also introduced, for the first time, the constitutional term 'Cabinet' into the Constitution's text.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the term 'Cabinet' was introduced much earlier, by the <b>44th Amendment Act, 1978</b> (into Article 352), not by the 91st Amendment Act, 2003. Statements 1 and 2 correctly describe the 91st Amendment's actual contributions."
+      },
+      {
+        "q": "With reference to caretaker governments, consider the following statements:\n1. The Tarkunde Committee recommended that a caretaker government should not grant salary increases or new loans.\n2. A 1979 Calcutta High Court judgement observed that the Constitution does not mention a caretaker government, but such a situation nonetheless calls for the PM and council of ministers to carry on only day-to-day administration.\n3. Caretaker governments are constitutionally barred from taking any decisions whatsoever, even those involving urgent national interest.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the 1979 presidential communique explicitly noted that 'work of an urgent nature involving the national interest will not be held up', meaning caretaker governments retain some limited scope for urgent, nationally significant decisions. Statements 1 and 2 are correct."
+      }
+    ]
+  }
+}
