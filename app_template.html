@@ -90,7 +90,9 @@
   .q-text .q-stmt{font-weight:500; padding-left:2px;}
   .q-text .q-stmt b{font-weight:700; color:var(--accent); margin-right:4px;}
   .q-text .q-closing{margin-top:4px;}
+  .q-list-label{font-weight:700; margin:8px 0 2px;}
   .rq .q-intro{margin-bottom:6px;}
+  .rq .q-list-label{font-weight:700; margin:6px 0 2px;}
   .rq .q-statements{margin:2px 0 8px; display:flex; flex-direction:column; gap:5px;}
   .rq .q-stmt{font-weight:500;}
   .rq .q-stmt b{color:var(--accent); margin-right:4px;}
@@ -865,6 +867,49 @@ function formatQuestionHTML(raw){
     arHtml += '</div>';
     if(arTail) arHtml += `<div class="q-closing">${escapeHtml(arTail)}</div>`;
     return arHtml;
+  }
+
+  /* Match-the-following style questions: "List-I: A. ... B. ... List-II: 1. ... 2. ..." —
+     put each lettered/numbered item on its own line under a bold List-I / List-II label. */
+  const mlMatch = raw.match(/^([\s\S]*?)\bList-?\s*I\s*:\s*([\s\S]*?)\bList-?\s*II\s*:\s*([\s\S]*)$/i);
+  if(mlMatch){
+    const introText = mlMatch[1].trim();
+    const listIBlock = mlMatch[2].trim();
+    let listIIBlock = mlMatch[3].trim();
+
+    let mlTail = '';
+    const qMatch = listIIBlock.match(/\s*([A-Z][^.?!]{0,140}\?)\s*$/);
+    if(qMatch && qMatch[1].length < listIIBlock.length){
+      mlTail = qMatch[1].trim();
+      listIIBlock = listIIBlock.slice(0, qMatch.index).trim();
+    }
+
+    const listIItems = [];
+    const letterRe = /([A-Z])\.\s+([\s\S]*?)(?=(?:\s[A-Z]\.\s+)|$)/g;
+    let lm;
+    while((lm = letterRe.exec(listIBlock)) !== null){
+      const text = lm[2].trim();
+      if(text) listIItems.push({n:lm[1], text});
+    }
+    const listIIItems = [];
+    const numRe2 = /(\d+)\.\s+([\s\S]*?)(?=(?:\s\d+\.\s+)|$)/g;
+    while((lm = numRe2.exec(listIIBlock)) !== null){
+      const text = lm[2].trim();
+      if(text) listIIItems.push({n:lm[1], text});
+    }
+
+    if(listIItems.length >= 2 && listIIItems.length >= 2){
+      let html = '';
+      if(introText) html += `<div class="q-intro">${escapeHtml(introText)}</div>`;
+      html += '<div class="q-list-label">List-I:</div><div class="q-statements">';
+      listIItems.forEach(s=>{ html += `<div class="q-stmt"><b>${s.n}.</b>${escapeHtml(s.text)}</div>`; });
+      html += '</div>';
+      html += '<div class="q-list-label">List-II:</div><div class="q-statements">';
+      listIIItems.forEach(s=>{ html += `<div class="q-stmt"><b>${s.n}.</b>${escapeHtml(s.text)}</div>`; });
+      html += '</div>';
+      if(mlTail) html += `<div class="q-closing">${escapeHtml(mlTail)}</div>`;
+      return html;
+    }
   }
 
   const tailRe = /\s*(Which of (?:the )?(?:above |following )?statements?[^?]*\?|How many of (?:the )?(?:above|following) statements?[^?]*\?|Which one of (?:the )?(?:above|following) statements?[^?]*\?)\s*$/i;
