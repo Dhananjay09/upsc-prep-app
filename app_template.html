@@ -429,6 +429,12 @@ const LEVEL_META = {
   advanced:{title:"Advanced", desc:"Landmark cases, doctrines & amendments", badge:"b-adv"},
   upsc:{title:"UPSC", desc:"Real exam-level toughness — statements, matching & assertion-reason", badge:"b-upsc"}
 };
+/* For chapters whose questions are pre-split into bite-sized UPSC-level tests (e.g. Geography),
+   the questions object uses keys test1, test2, ... instead of basic/intermediate/advanced/upsc.
+   Auto-generate matching level meta entries so these render exactly like any other level button. */
+for(let i=1;i<=20;i++){
+  LEVEL_META[`test${i}`] = {title:`Test ${i}`, desc:"UPSC-level practice set — statements, matching & assertion-reason", badge:"b-upsc"};
+}
 
 const SUBJECT_TEST_SIZE = 25;
 
