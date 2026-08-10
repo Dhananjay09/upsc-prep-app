@@ -1,0 +1,452 @@
+{
+  "id": "landforms_of_glaciation",
+  "title": "Landforms of Glaciation",
+  "desc": "The Ice Age and types of ice masses (ice sheets, ice caps, nunataks, icebergs, glaciers); landforms of highland glaciation (corries, arêtes, U-shaped valleys, hanging valleys, moraines, fiords); landforms of glaciated lowlands (roche moutonnée, crag and tail, boulder clay, erratics, drumlins, eskers, outwash plains); and the human aspects of glaciated landforms",
+  "questions": {
+    "basic": [],
+    "intermediate": [],
+    "advanced": [],
+    "upsc": [
+      {
+        "q": "Consider the following statements about the Pleistocene Ice Ages:\n1. Great continental ice sheets covered much of the temperate latitudes about 30,000 years ago.\n2. It is estimated that more than 31 million sq km of the northern hemisphere were buried by ice, with about half in North America.\n3. Today, major ice caps remain only in the Himalayas and the Andes.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text states only two major ice caps remain today, in Greenland and Antarctica, not the Himalayas and Andes (which still have valley/Alpine glaciers, but not continental-scale ice caps). Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the present-day Greenland and Antarctic ice caps:\n1. The Greenland ice cap covers about 1,872,000 sq km, while the Antarctic ice cap covers more than 13 million sq km.\n2. Both ice caps are made up of compact sheets of ice hardened and crystallized to a depth of over a kilometre.\n3. Under the colossal weight of the ice, the underlying land actually rises, not sinks.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and reverses the effect — the text states that under the colossal weight of the ice cap, the land SINKS gradually, not rises. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about ice thickness measurements:\n1. In Marie Byrd Land, Antarctica, the ice cap was measured and found to be more than 4,200 metres thick.\n2. From the central dome of an ice cap, ice creeps outward in all directions to escape as glaciers.\n3. The peaks of loftier mountains that project above the ice cap's surface are called ice shelves.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — mountain peaks projecting above an ice sheet's surface are called NUNATAKS, not ice shelves; ice shelves refer to ice sheets extending outward over polar waters where they reach the sea. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about ice shelves and icebergs:\n1. When ice sheets reach the sea, they may extend outwards into polar waters and float as ice shelves, terminating in precipitous cliffs.\n2. When ice shelves break into individual blocks, these are called icebergs.\n3. While afloat, icebergs are almost entirely visible above the sea surface, with only a small fraction submerged.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and reverses the actual proportion — the text states that only ONE-NINTH of an iceberg's mass is visible above the surface, meaning the vast majority (eight-ninths) remains submerged. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the fate of icebergs:\n1. Icebergs diminish in size as they approach warmer waters and are eventually melted.\n2. As icebergs melt, they drop the rock debris that was frozen inside them onto the sea bed.\n3. Icebergs, once formed, always maintain the exact same shape they had when they broke off from the ice shelf.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is not supported — the text notes icebergs 'assume a tabular or irregular shape' and progressively diminish in size while melting, implying their form and size change over time rather than remaining fixed. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the snowline and permanent snowfields:\n1. The snowline varies from sea-level in polar regions to about 2,700 metres in the Alps and about 5,180 metres at the equator, as on Mt. Kilimanjaro.\n2. Permanent snowfields are sustained by heavy winter snowfall and ineffective summer melting.\n3. The snowline is at a uniform, fixed altitude everywhere on Earth, regardless of latitude.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and directly contradicts statement 1 — the snowline's altitude varies considerably with latitude, from sea-level at the poles to its highest point near the equator. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about névé (firn) formation:\n1. Surface snow may partly melt during the day and refreeze at night, and repeated cycles of this eventually form a hard, granular substance called névé in French or firn in German.\n2. Gravitational forces draw the névé of an upland snowfield towards the valley below, beginning the flow of the glacier.\n3. A glacier is technically a liquid body of water that flows exactly like a river.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text explicitly states 'though the glacier is not a liquid... it moves' under continual pressure from accumulated snow above, distinguishing it from liquid water flow. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the shape and rate of glacier movement:\n1. A glacier normally assumes a tongue-shape, broadest at the source but becoming narrower downhill.\n2. The rate of glacial movement is greatest in the middle, where there is least obstruction, while the sides and bottom are held back by friction.\n3. A row of stakes planted in a straight line across a glacier will remain in a straight line as the glacier moves, proving uniform flow speed.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text describes stakes taking a CURVED shape down the valley over time, which is precisely the evidence that the glacier moves FASTER at the centre than at the sides, not at a uniform rate. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about comparative rates of glacier flow:\n1. In the Alps, the average rate of glacier flow is about one metre a day.\n2. In Greenland, glaciers may flow at more than 15 metres a day, faster than in the Alps.\n3. In Antarctica, glaciers move faster than anywhere else because of the enormous weight of overlying ice.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text states Antarctic glaciers move only a few MILLIMETRES a day, the SLOWEST rate mentioned, because there is little heat to melt the ice (melting/lubrication aids flow), not the fastest. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Aletsch Glacier:\n1. It is located in the Bernese Oberland of Switzerland and is about 16 km long.\n2. It is the longest glacier in Europe.\n3. It is longer than the glaciers found in Alaska and the Himalayas.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text explicitly states the Aletsch Glacier, though the longest in Europe, is 'short compared with those of Alaska and the Himalayas which measure more than five times that length'. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about piedmont glaciers:\n1. A piedmont glacier forms at the foot of mountain ranges when several glaciers converge into an extensive ice mass.\n2. The Malaspina Glacier of Alaska, the best-known piedmont glacier, is about 104 km long and 40 km wide, covering more than 4,200 sq km.\n3. Combined glaciers of piedmont scale are now common and can be found on most continents today.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text explicitly states combined glaciers of such dimensions 'are now rare', with most continents today only having valley or Alpine glaciers, not common piedmont-scale ones. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about glacial erosion processes:\n1. By plucking, a glacier freezes the joints and beds of underlying rocks, tearing out individual blocks and dragging them away.\n2. By abrasion, a glacier scratches, scrapes, polishes and scours the valley floor using debris frozen into the ice.\n3. Striation (scratching) on glaciated floors is caused exclusively by abrasion and never by plucking.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 overstates the case — the text attributes striation to large angular fragments cutting deep into rock (linked to abrasion by embedded debris), while plucking is described as a separate tearing-out process; the text does not claim striation is caused by abrasion 'exclusively' in a way that excludes plucking's role in supplying the debris. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the factors affecting the rate of glacial erosion:\n1. The rate of erosion is determined by factors such as the velocity of flow, gradient of slope, weight of the glacier, temperature of the ice, and geological structure of the valley.\n2. Highland glaciation generally produces erosional features, while lowland glaciation generally produces depositional features.\n3. These erosional and depositional processes are mutually exclusive, meaning no glacier ever performs both simultaneously.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text explicitly notes that 'these processes are not mutually exclusive because a glacier plays a combined role of erosion, transportation and deposition throughout its course'. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about corries (cirques):\n1. A corrie is a steep, horseshoe-shaped basin formed by plucking on the back-wall and abrasion deepening the floor at a glacier's snow-covered valley-head.\n2. The same feature is called a cirque in French and a cwm in Wales.\n3. When ice in a corrie melts, water may collect behind the rocky ridge at its exit to form a corrie lake or tarn.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct, describing the formation mechanism (plucking + abrasion) and the different regional names (cirque/corrie/cwm) for this characteristic glacial feature, along with the corrie lake/tarn that may form afterward."
+      },
+      {
+        "q": "Consider the following statements about arêtes and pyramidal peaks:\n1. When two corries cut back on opposite sides of a mountain, knife-edged ridges called arêtes are formed.\n2. Striding Edge on Helvellyn in Westmorland is cited as a well-known British example of an arête.\n3. Where three or more cirques cut back together, the resulting angular peak is called a pyramidal peak, with the Matterhorn of Switzerland as a classic example.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct, matching the text's description of how arêtes form from two opposing corries and pyramidal peaks (horns) from three or more converging corries, with the specific named examples given."
+      },
+      {
+        "q": "Consider the following statements about the bergschrund:\n1. It is a deep vertical crack that opens up at the head of a glacier, where it begins to leave the corrie's snowfield.\n2. It typically forms in summer, when the ice continues to move out of the corrie but no new snow replaces it.\n3. A bergschrund is also known in German as a rimaye.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 has the language attribution reversed — the text states the feature is called a bergschrund in German and a rimaye in FRENCH, not the other way around. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the U-shaped glacial trough:\n1. As a glacier moves down its valley, it tends to straighten protruding spurs, blunting interlocking spurs into truncated spurs.\n2. A glaciated valley takes a characteristic U-shape, with a wide, flat floor and very steep sides.\n3. After the ice disappears, overdeepened sections of these troughs may fill with water to form ribbon lakes, such as Loch Ness and Lake Ullswater.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct, describing the process (truncation of spurs), the resulting characteristic cross-section (U-shape), and the ribbon/trough/finger lakes that may later fill overdeepened sections of these troughs."
+      },
+      {
+        "q": "Consider the following statements about hanging valleys:\n1. They form because the main valley is eroded much more rapidly than tributary valleys, since it contains a much larger glacier.\n2. After the ice melts, a tributary valley 'hangs' above the main valley, with its stream plunging down as a waterfall.\n3. Hanging valleys are of no practical use to humans since their steep drops make any development impossible.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text explicitly notes hanging valleys 'may form a natural head of water for generating hydro-electric power', directly contradicting the claim that they have no practical use. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about rock basins and rock steps:\n1. Irregular excavation of bedrock by a glacier gives rise to rock basins, which may later be filled by lakes in the valley trough.\n2. A rock step forms where a tributary valley joins a main valley, as the additional weight of ice cuts deeper into the valley floor at the point of convergence.\n3. A series of rock steps can also form due to differing degrees of rock resistance to glacial erosion.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct, describing both mechanisms by which rock steps and basins form — through tributary-junction ice loading and through differential bedrock resistance."
+      },
+      {
+        "q": "Match List-I (Type of Moraine) with List-II (Formation) and select the correct answer using the code below.\nList-I:\nA. Lateral moraine\nB. Medial moraine\nC. Ground moraine\nD. Terminal moraine\nList-II:\n1. Formed when two glaciers converge and their inside lateral moraines unite\n2. Rock fragments dragged beneath the ice and dropped when the glacier melts, spread across the valley floor\n3. Debris that falls on the sides of the glacier, mainly screes\n4. The pile of transported material left behind at the snout when the glacier melts\nCodes:",
+        "o": [
+          "A-3, B-1, C-2, D-4",
+          "A-1, B-3, C-2, D-4",
+          "A-3, B-1, C-4, D-2",
+          "A-3, B-2, C-1, D-4"
+        ],
+        "a": 0,
+        "e": "The correct match is A-3, B-1, C-2, D-4: lateral moraines form from debris on the glacier's sides; medial moraines form when two lateral moraines unite at a glacier confluence; ground moraine is dropped beneath the ice across the valley floor; and terminal moraine piles up at the melting snout."
+      },
+      {
+        "q": "Consider the following statements about recessional moraines and moraine deposition at sea:\n1. Recessional moraines form when the end moraine's deposition occurs in several succeeding waves, as the ice melts back by stages.\n2. If a glacier flows right down to the sea, it drops its load of moraine directly in the sea.\n3. If sections of a glacier break off as icebergs, morainic material is dropped immediately at the point of breaking, never later.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text explicitly states that when icebergs break off, 'morainic material will only be dropped when they melt', which may occur much later and far from the point of breaking, not immediately. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about fiords:\n1. A fiord forms where the lower end of a glacial trough is drowned by the sea, creating a deep, steep-sided inlet.\n2. Fiords are typical of the Norwegian and south Chilean coasts.\n3. Fiords are found only in tropical coastal regions with no history of glaciation.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and self-contradictory relative to the definition — fiords are explicitly a product of GLACIATED troughs being drowned by the sea, so by definition they occur in formerly glaciated (not tropical, non-glaciated) coastal regions. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about landforms of glaciated lowlands:\n1. These landforms are mainly depositional in nature, brought about by both valley glaciers and continental ice sheets.\n2. It is estimated that almost a third of the total land surface of Europe and North America is littered with glacial and fluvio-glacial materials.\n3. The imprint of valley glaciers on the landscape is far more widespread than that of continental ice sheets.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and reverses the actual relationship — the text states the imprint of ICE SHEETS is far more widespread than that of valley glaciers, since valley glaciers leave eroded materials 'in only restricted areas' while ice sheets advanced through large areas. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about roche moutonnée:\n1. It is a resistant residual rock hummock with a surface striated by ice movement.\n2. Its upstream side is smoothened by abrasion, while its downstream side is roughened and steepened by plucking.\n3. The term describes a feature resembling a sheepskin-wig once worn in France.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct — the roche moutonnée's asymmetric profile (smooth upstream/abraded side, rough downstream/plucked side) and its curious etymology are both directly described in the text."
+      },
+      {
+        "q": "Consider the following statements about crag and tail:\n1. The crag is a mass of hard rock with a precipitous slope on the upstream side, protecting a gentler leeward 'tail' of eroded debris.\n2. Edinburgh Castle in Scotland sits on the crag, with the High Street located on the tail.\n3. Crag and tail features are exclusively depositional, involving no erosional component whatsoever.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — crag and tail is grouped among the 'striking features of EROSION' where resistant rock masses project above the level surface, not a purely depositional feature. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about boulder clay (glacial till):\n1. It is an unsorted glacial deposit comprising boulders, angular stones, sticky clay and fine rock flour.\n2. It is spread out in sheets, forming gently undulating, rather monotonous till or drift plains.\n3. All boulder clay plains are infertile and unsuitable for arable farming, without exception.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text explicitly notes that some boulder clay plains, such as East Anglia and the northern Mid-West of the U.S.A., 'form rich arable lands', directly contradicting a blanket claim of infertility. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about erratics:\n1. Erratics are boulders of varying sizes transported by ice and left 'stranded' when the ice melted.\n2. They are called erratics because they are composed of materials entirely different from those of the region in which they are found.\n3. Erratics are of no scientific use and provide no clues about the history of ice movement.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text explicitly states erratics 'are thus most useful in tracing the source and direction of the ice movement', directly contradicting the claim of no scientific use. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about perched blocks:\n1. These are erratics found perched in precarious positions just as the ice dropped them.\n2. An example cited is Silurian grits found perched on the Carboniferous Limestone of the Pennines.\n3. The presence of perched blocks and erratics in large numbers is generally beneficial to farming, improving soil quality.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and reverses the actual effect — the text states their presence in large numbers 'is a hindrance to farming', not a benefit. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about drumlins:\n1. They are swarms of oval, elongated 'whale-back' hummocks composed wholly of boulder clay.\n2. They are steeper at the onset (upstream) side and taper off at the leeward end, arranged to give a 'basket of eggs topography'.\n3. Large numbers of drumlins are found in County Down, Northern Ireland, and around the Great Lakes in North America.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct, matching the text's description of drumlin composition, characteristic asymmetric shape and orientation, and the specific named locations where extensive drumlin fields occur."
+      },
+      {
+        "q": "Consider the following statements about eskers:\n1. Eskers are long, narrow, sinuous ridges composed of sand and gravel marking former sites of sub-glacial melt-water streams.\n2. In parts of Maine, U.S.A., outstanding eskers form a continuous ridge of about 160 km.\n3. Because eskers are made of highly porous sand and gravel, water drains rapidly from their crests, and they can never support tree growth anywhere.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text notes that in Finland, eskers 'often form tree-covered ridges between lakes', despite generally not supporting many trees due to rapid drainage; it is not an absolute rule. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the Punkaharju Esker and esker distribution:\n1. The Punkaharju Esker is located in Finland.\n2. Eskers are described as very numerous in Scandinavia.\n3. Eskers vary in height from a few metres to about 60 metres.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct, directly matching the text's specific description of the Punkaharju Esker as a Finnish example within the broader context of Scandinavia's numerous eskers, and the general height range given for such features."
+      },
+      {
+        "q": "Consider the following statements about terminal moraines and outwash plains in glaciated lowlands:\n1. Terminal moraines are made up of coarse debris deposited at the edge of the ice-sheet, forming hummocky, hilly country such as the Baltic Heights of the North European Plain.\n2. Outwash plains are made up of fluvio-glacial deposits washed out from terminal moraines by melt-water streams and channels.\n3. Outwash plain material is always coarse and uniform, with no sorting or re-depositing by melt-water at all.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text explicitly states that melt-waters 'sort and re-deposit the material' into varied landforms (heathlands, undulating plains, terraces, alluvial fans, deltaic deposits), not leave it as uniform, unsorted coarse material. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about kames and kettle lakes:\n1. Kames are small, rounded hillocks of sand and gravel that may cover part of an outwash plain.\n2. Depressions among kame deposits may contain kettle lakes, giving rise to a characteristic 'knob and kettle' topography.\n3. The Luneburg Heath of the North European Plain is cited as an example of a low, hilly heathland outwash landscape.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct, matching the text's description of kames, kettle lakes and the specific Luneburg Heath example within the broader discussion of outwash plain landforms."
+      },
+      {
+        "q": "Consider the following statements about glaciation's continuing influence today:\n1. Though the Ice Ages peaked over 30,000 years ago, glaciation's effects on landforms and human activities remain profound in many parts of the world.\n2. Slow-moving glaciers still shape the landscape today in high mountain ranges such as the Alps, Andes, Rockies and Himalayas.\n3. Glacial influence on human economic activity is always unfavourable, with no beneficial effects recorded anywhere.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text explicitly states glacial influences on Man's economic activities are 'both favourable and unfavourable', depending on the intensity, relief and erosional/depositional nature of the effects. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about transhumance in glaciated hilly regions:\n1. In hilly regions like the mountain slopes of Scandinavia, thin glacially-stripped soils are incapable of supporting effective agriculture.\n2. Cattle are driven up to graze on good summer pastures in glacial drifts and benches, returning to the valley bottom in winter — a practice called transhumance.\n3. Transhumance is a form of settled, permanent agriculture with no seasonal animal movement involved.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and contradicts the definition given — transhumance is explicitly described as an 'animal-migration type of farming', involving seasonal movement of cattle between summer pastures and winter valleys, not a settled practice without movement. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements comparing fertile and infertile glaciated landscapes:\n1. Boulder clay plains such as East Anglia and the Mid-West of the U.S.A., and loess plains rich in humus, are among the most fertile agricultural areas.\n2. Sandy or gravelly outwash plains, such as the heath-covered geest of northern Germany, tend to be infertile.\n3. The barren, ice-scoured surfaces of the Canadian and Baltic Shields are noted as fertile farming regions.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text groups the barren, ice-scoured Canadian and Baltic Shields together with other INFERTILE landscapes (alongside sandy outwash plains and marshy boulder clay of central Ireland), not fertile ones. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the effects of erratics, moraines and lakes on land use:\n1. Numerous large erratics and perched blocks in parts of Britain and Alberta, Canada, obstruct farming and the use of machinery.\n2. Morainic deposits may dam, or glaciers may hollow out, lakes that greatly inconvenience large-scale farming or land development.\n3. Old glacial lake beds, once the lakes are eliminated, are typically too infertile for any productive agriculture.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text states that old glacial lake beds 'with their rich alluvium support heavy cropping', directly contradicting a claim of being too infertile for productive agriculture. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about large glacial lakes and drainage:\n1. Large lakes formed by former glaciation, such as the Great Lakes of North America, make excellent waterways.\n2. Deep overflow channels cut by draining glacial lakes may form natural routeways, such as the Hudson-Mohawk Gap linking the interior with the Atlantic seaboard of the U.S.A.\n3. In regions where drumlins are dominant, drainage is always excellent and never poses any confusion or obstruction.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text states that in drumlin-dominated regions, 'the drainage is either poor or much confused', the opposite of always excellent. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Consider the following statements about the economic uses of fluvio-glacial deposits and glaciated mountains:\n1. Eskers and kames in outwash plains have been excavated to provide sands and gravels for highway and building construction, with the purest sands used for metal casting moulds.\n2. Lake basins of glaciated mountains provide natural reservoirs, and streams from hanging valleys are harnessed for hydro-electric power in countries like Scandinavia, Switzerland and Canada.\n3. Terminal and recessional moraines, being composed of coarse materials, are considered highly valuable and are the primary material used in modern precision construction.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — the text explicitly describes terminal and recessional moraine materials as being 'of little use to Man', in contrast to the genuinely valuable fluvio-glacial deposits (eskers, kames) described separately. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Assertion (A): Glaciated mountain regions such as the French, Italian and Swiss Alps attract large numbers of tourists annually.\nReason (R): The magnificent scenery created by glaciation supports activities such as skiing, mountain climbing and sight-seeing.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — the text directly attributes the large tourist numbers in the glaciated Alps to the magnificent scenery produced by glaciation, which supports popular activities like skiing, mountain climbing and sight-seeing."
+      }
+    ]
+  }
+}
