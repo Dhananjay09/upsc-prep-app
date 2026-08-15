@@ -1,0 +1,77 @@
+import json
+
+upsc = []
+
+# ==================================================================
+# SECTION 1: DISTRIBUTION
+# ==================================================================
+
+upsc.append({"q":"Match List-I (Regional Name for the Temperate Grassland) with List-II (Continent/Region, per Goh Cheng Leong) and select the correct answer using the code below.\nList-I:\nA. Steppes\nB. Prairies\nC. Pampas\nD. Downs\nList-II:\n1. North America\n2. Argentina and Uruguay\n3. Eurasia\n4. Australia\nCodes:","o":["A-3, B-1, C-2, D-4","A-1, B-3, C-2, D-4","A-3, B-1, C-4, D-2","A-3, B-2, C-1, D-4"],"a":0,"e":"The correct match is A-3, B-1, C-2, D-4: the Steppes are in Eurasia, the Prairies in North America, the Pampas in Argentina/Uruguay, and the Downs in Australia — all regional names for the temperate continental grassland climate described in the text."})
+
+upsc.append({"q":"Which one of the following statements about the distribution of temperate grasslands, per Goh Cheng Leong, is NOT correct?","o":["In the southern hemisphere, temperate grasslands are generally more extensive and continental than those of the northern hemisphere, owing to the greater width of southern landmasses","The Eurasian Steppes stretch from the shores of the Black Sea across the Russian plain to the foothills of the Altai Mountains, over 3,200 km","In South Africa, the grasslands are subdivided into the more tropical Bush-veld in the north and the more temperate High-veld in the south","In the Pampas of Argentina and Uruguay, the grasslands extend right to the sea and enjoy considerable maritime influence"],"a":0,"e":"This statement is incorrect and reverses the actual point — the text explicitly states that due to the NARROWNESS of the temperate portions of southern continents, southern hemisphere grasslands are MORE restricted and LESS continental (enjoying more maritime influence) than the far more extensive, entirely continental northern hemisphere grasslands. The other three statements are correct."})
+
+# ==================================================================
+# SECTION 2: TEMPERATURE AND PRECIPITATION
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements comparing Winnipeg (Canadian Prairies) and Pretoria (South African Veld), per Goh Cheng Leong:\n1. Winnipeg's annual temperature range (about 39°C) is nearly three times as great as Pretoria's (about 11°C), owing to continentality.\n2. Winters at Pretoria are so mild that mean winter-month temperatures rarely fall below freezing, unlike the harsh sub-zero winters of Winnipeg.\n3. Pretoria receives more annual precipitation than Winnipeg, aided by warm ocean currents washing the shores of southern hemisphere steppe-lands.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching the text's specific comparison of temperature range, winter severity, and rainfall between the northern hemisphere's more continental Steppe climate and the more maritime-influenced southern hemisphere variant."})
+
+upsc.append({"q":"Which one of the following statements about precipitation in the Steppe climate, per Goh Cheng Leong, is NOT correct?","o":["In the northern hemisphere Steppe climate, the heaviest rain comes in winter, brought mainly by convectional sources during intense continental heating","Winnipeg's average annual precipitation is about 508 mm, with a distinct summer maximum from convectional sources","Pretoria experiences three months (June, July and August) with no rainfall, a dry season that can be disastrous for sheep rearing","Mildura, in the rain-shadow of the Great Dividing Range and on the fringe of the Great Australian Desert, has only about 269 mm of annual rainfall, making irrigation essential"],"a":0,"e":"This statement is incorrect and reverses the actual seasonal pattern — the text states the heaviest rain in the northern hemisphere Steppe climate comes in SUMMER (from convectional sources during intense heating), not winter; winter precipitation is comparatively light and falls mostly as snow from occasional Westerly depressions. The other three statements are correct."})
+
+upsc.append({"q":"According to Goh Cheng Leong, what effect does the Chinook wind have on the Canadian and U.S. Prairies?","o":["It is a hot wind descending the eastern Rockies that can raise temperatures by about 22°C within 20 minutes, melting snow-covered pastures and accelerating the agricultural year","It is a cold wind descending the eastern Rockies that deepens winter snow cover, delaying the start of the agricultural year","It is a moist on-shore wind bringing the bulk of the Prairies' summer convectional rainfall","It is a seasonal ocean current responsible for warming the Pampas grasslands of South America"],"a":0,"e":"The text explicitly describes the Chinook as a hot wind (similar to the Föhn) descending the eastern Rockies, capable of raising temperature by about 22°C within 20 minutes, melting snow and letting animals graze outdoors sooner — welcomed by farmers because frequent Chinooks mean milder winters and earlier spring, not a cold wind, rain-bringing wind, or ocean current."})
+
+# ==================================================================
+# SECTION 3: NATURAL VEGETATION
+# ==================================================================
+
+upsc.append({"q":"Which one of the following statements about steppe/temperate grassland vegetation, per Goh Cheng Leong, is NOT correct?","o":["Steppe grasses require more moisture than trees, needing well over 1,000 mm of annual precipitation to survive prolonged droughts","Where rainfall exceeds about 508 mm, grasses are tall, fresh and nutritious, described as long prairie grass, typical of North American wheat-lands and the chernozem areas of Ukraine","Where rainfall is light (below 508 mm) or the soil is poor, short, wiry, sparse steppe grass prevails, often in discontinuous clumps with bare soil exposed between them","Steppe grasses can lie dormant throughout prolonged drought and sprout again once temperatures reach about 6°C"],"a":0,"e":"This statement is incorrect and reverses the actual point — the text explicitly states grass requires LESS moisture than trees, with an annual precipitation of just 254-508 mm being adequate, not 'well over 1,000 mm'. The other three statements are correct."})
+
+upsc.append({"q":"Consider the following statements about the temperate grasslands' treelessness, per Goh Cheng Leong:\n1. Trees are scarce in the steppes mainly due to scanty rainfall, long droughts and severe winters.\n2. Polewards, an increase in precipitation gives rise to a transitional zone of wooded steppes where conifers gradually appear, though still scattered and few.\n3. In cultivated wheat-farming regions, double rows of trees are sometimes planted around farmhouses specifically to shield occupants from strong, unobstructed winds.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching the text's explanation of the steppe's essential treelessness, the poleward transition to wooded steppe, and the practical use of planted tree rows as windbreaks around farmhouses."})
+
+# ==================================================================
+# SECTION 4: ECONOMIC DEVELOPMENT
+# ==================================================================
+
+upsc.append({"q":"Which one of the following statements about wheat cultivation in the temperate grasslands, per Goh Cheng Leong, is NOT correct?","o":["Extensive mechanized wheat farms in the Prairies, Pampas and Australian Downs achieve far higher per-hectare yields than intensive farms in countries like the United Kingdom, Denmark or the Netherlands","Three-quarters of the world's wheat is winter wheat, sown in winter or late autumn, ripened in the hot continental summer, and best suited for breadmaking","Spring wheat, a softer wheat more suitable for cakes and biscuits, is grown polewards where winters are too cold for winter wheat seedlings to survive","Despite lower per-hectare yields, the sparsely populated temperate grasslands produce the greatest quantity of wheat per capita among the world's wheat-growing nations"],"a":0,"e":"This statement is incorrect and reverses the actual comparison — the text explicitly states extensive mechanized farms have a LOWER per-hectare yield than intensive farms in the UK, Denmark, or the Netherlands (sometimes almost a third), though extensive farms have much higher yield PER MAN/per capita. The other three statements are correct."})
+
+upsc.append({"q":"Consider the following statements about pastoral farming in the temperate grasslands, per Goh Cheng Leong:\n1. The development of refrigerated shipping in the late nineteenth century enabled the temperate grasslands to become major exporters of beef, mutton, wool and hides.\n2. In the Pampas, large ranches called 'estancias' were linked to meat-packing factories called 'frigorificos' by dense road and rail networks.\n3. Australia became the world's leading wool exporter, accounting for about a third of total world wool production.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching the text's account of refrigerated shipping's transformative role, the specific Pampas ranching/meat-processing terminology, and Australia's dominant position in world wool exports."})
+
+upsc.append({"q":"According to Goh Cheng Leong, which nomadic tribes historically wandered the Eurasian Steppes with their herds before being settled under Communist rule into collective and state farms?","o":["The Kirghiz, Kazakhs and Kalmuk","The Bedouin and Tuareg","The Masai and Hausa","The Bushmen and Bindibu"],"a":0,"e":"The text explicitly names the Kirghiz (also called 'the Tartars'), Kazakhs, and Kalmuk as the nomadic tribes of the Eurasian Steppes, later settled onto collective/state farms — not the Bedouin/Tuareg (desert nomads, covered in Ch.18), or the Masai/Hausa/Bushmen/Bindibu (covered in earlier savanna/desert chapters)."})
+
+# ==================================================================
+# SECTION 5: NCERT — KOEPPEN'S MID-LATITUDE STEPPE (BSk) CLIMATE
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about Koeppen's Mid-Latitude Steppe (BSk) and Mid-Latitude Desert (BWk) climates, per NCERT — which directly correspond to Goh Cheng Leong's 'Temperate Continental (Steppe) Climate':\n1. BSk and BWk occur at latitudes between 35° and 60°, distinguishing them from the lower-latitude (15°-35°) subtropical BSh/BWh types.\n2. Group B (Dry Climates) as a whole is defined by potential evaporation exceeding precipitation.\n3. The small-letter suffix 'k' denotes these climates' subtropical, generally hotter character, as opposed to mid-latitude coolness.\nWhich of the statements given above is/are correct?","o":["1 and 2 only","1 and 3 only","2 and 3 only","1, 2 and 3"],"a":0,"e":"Statement 3 is incorrect and reverses the actual meaning — the 'k' suffix denotes the cooler, MID-LATITUDE variant (not subtropical/hotter); it is the 'h' suffix that denotes the hotter, subtropical variant. Statements 1 and 2 are correct."})
+
+upsc.append({"q":"Assertion (A): The Steppe climate of Winnipeg (Canadian Prairies) has a far greater annual temperature range than that of a subtropical desert station.\nReason (R): Koeppen's classification places the mid-latitude steppe/desert types (BSk/BWk) at higher latitudes (35°-60°) than the subtropical types (BSh/BWh, at 15°-35°), and higher-latitude continental interiors experience greater seasonal temperature extremes.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?","o":["Both A and R are true, and R is the correct explanation of A","Both A and R are true, but R is NOT the correct explanation of A","A is true, but R is false","A is false, but R is true"],"a":0,"e":"Both are true and R explains A — Winnipeg's exceptionally large annual temperature range (about 39°C, per Goh Cheng Leong) is a direct consequence of its higher-latitude, continental (BSk-type) position as classified by Koeppen/NCERT, which inherently produces greater seasonal extremes than the lower-latitude subtropical (BSh/BWh) climates."})
+
+# ==================================================================
+# ASSEMBLY & VALIDATION
+# ==================================================================
+
+data = {"basic": [], "intermediate": [], "advanced": [], "upsc": upsc}
+
+all_q = upsc
+texts = [q["q"] for q in all_q]
+print("counts:", {k: len(v) for k, v in data.items()})
+print("total:", len(all_q))
+print("unique:", len(set(texts)))
+for q in all_q:
+    assert len(q["o"]) == 4, q["q"]
+    assert 0 <= q["a"] <= 3, q["q"]
+    assert len(set(q["o"])) == 4, ("duplicate option text!", q["q"])
+multi = sum(1 for q in all_q if "\n" in q["q"] or "List-" in q["q"] or "Assertion" in q["q"])
+print("multi-format %:", round(100*multi/len(all_q), 1))
+
+chapter = {
+    "id": "temperate_continental_steppe_climate",
+    "title": "The Temperate Continental (Steppe) Climate",
+    "desc": "Regional climatology (from Goh Cheng Leong's Physical Geography, Ch.20, and NCERT XI Fundamentals of Physical Geography, Ch.12 'World Climate and Climate Change'): distribution of the Steppes, Prairies, Pampas, Veld and Downs; temperature and precipitation contrasts between northern and southern hemisphere steppe climates; the Chinook wind; steppe grassland vegetation; nomadic herding, extensive mechanized wheat cultivation, and pastoral ranching; merged with NCERT's Koeppen classification and the corresponding Mid-Latitude Steppe/Desert (BSk/BWk) climate types",
+    "questions": data
+}
+
+with open("/sessions/vigilant-wonderful-volta/mnt/outputs/geo_ch20_steppe_v2.json", "w") as f:
+    json.dump(chapter, f, indent=2, ensure_ascii=False)
+
+print("Saved.")
