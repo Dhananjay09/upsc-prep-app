@@ -1,0 +1,85 @@
+import json
+
+upsc = []
+
+# ==================================================================
+# SECTION 1: DISTRIBUTION
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about the distribution of the Warm Temperate Western Margin (Mediterranean) Climate, per Goh Cheng Leong:\n1. It is entirely confined to the western portion of continental masses, between about 30° and 45° north and south of the equator.\n2. The basic cause of this climate type is the seasonal shifting of the wind belts.\n3. The best developed form of this climate, according to the text, is found not around the Mediterranean Sea itself but in central Chile.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct — the text explicitly states that although the area around the Mediterranean Sea gives the climate its popular name, 'the best developed form of this peculiar climatic type is, in fact, found in central Chile', while the basic cause is the shifting of the wind belts (as explained in the Climate chapter)."})
+
+# ==================================================================
+# SECTION 2: SUMMER AND WINTER CLIMATIC CONDITIONS
+# ==================================================================
+
+upsc.append({"q":"Which one of the following statements about summer conditions in the Mediterranean climate is NOT correct?","o":["In summer, the Westerlies shift equatorwards into the Mediterranean region, bringing abundant on-shore rain","In summer, the belt of Westerlies' influence shifts polewards, so the Mediterranean region comes under off-shore Trade Winds with practically no rain","The highest summer temperatures are experienced further from the coast, in the more continental eastern Mediterranean (e.g. Beirut, Athens, Larisa)","At night in summer, there is rapid radiation but frosts are rare"],"a":0,"e":"This statement is incorrect and reverses the actual mechanism — in SUMMER, the Westerlies shift POLEWARDS (away from the Mediterranean), leaving the region under dry, off-shore Trade Winds; it is in WINTER that the Westerlies shift equatorward to bring the characteristic rain. The other three statements are correct."})
+
+upsc.append({"q":"Consider the following statements about winter rainfall in the Mediterranean climate, per Goh Cheng Leong:\n1. The concentration of rainfall in winter, brought by on-shore Westerlies, is the most outstanding feature of this climate, unlike most other climatic types where rain peaks in summer.\n2. Rain typically comes in heavy showers on only a few days, with bright sunny periods in between.\n3. The Portuguese coast is significantly drier than eastern Spain, since the Iberian mountains block Atlantic Westerlies from reaching Portugal.\nWhich of the statements given above is/are correct?","o":["1 and 2 only","1 and 3 only","2 and 3 only","1, 2 and 3"],"a":0,"e":"Statement 3 is incorrect and reverses the actual pattern — the text states the Portuguese coast is much WETTER than eastern Spain (Lisbon receiving nearly 760 mm versus much less at Cartagena), because the Iberian mountains act as a barrier to the Westerlies mainly for areas further inland/east, not because Portugal itself is blocked. Statements 1 and 2 are correct."})
+
+upsc.append({"q":"According to Goh Cheng Leong, which location in the eastern Adriatic is cited as among the rainiest parts of Europe, recording about 4,623 mm of rainfall at roughly 1,100 metres above sea-level?","o":["Crkvice","Lisbon","Cartagena","Rome"],"a":0,"e":"The text explicitly names Crkvice, in the steep hills of the eastern Adriatic, as recording 4,623 mm (182 inches) of rainfall — among the highest in Europe — due to its position on windward slopes facing the Westerlies, unlike Lisbon, Cartagena or Rome, which are cited for other rainfall figures."})
+
+# ==================================================================
+# SECTION 3: LOCAL WINDS
+# ==================================================================
+
+upsc.append({"q":"Match List-I (Local Wind) with List-II (Characteristic, per Goh Cheng Leong) and select the correct answer using the code below.\nList-I:\nA. Sirocco\nB. Mistral\nC. Bora\nList-II:\n1. A cold, violent north-easterly wind along the Adriatic coast, caused by pressure differences between continental Europe and the Mediterranean\n2. A hot, dry, dusty wind originating in the Sahara, most frequent in spring\n3. A cold wind rushing down the Rhône valley, intensified by a funnelling effect between the Alps and Central Massif\nCodes:","o":["A-2, B-3, C-1","A-2, B-1, C-3","A-3, B-2, C-1","A-1, B-3, C-2"],"a":0,"e":"The correct match is A-2, B-3, C-1: the Sirocco is a hot Saharan wind most frequent in spring; the Mistral is a cold, funnelled wind down the Rhône valley; and the Bora is a cold, violent north-easterly wind along the Adriatic, caused by pressure differences between continental Europe and the Mediterranean."})
+
+upsc.append({"q":"How many of the following are given by Goh Cheng Leong as local/regional names for the Sirocco wind?\n1. Chili (Tunisia)\n2. Ghibli (Libya)\n3. Leveche (Spain)\n4. Khamsin (Egypt and Malta)\n5. Gharbi (Adriatic and Aegean Sea)","o":["All five","Only two","Only three","Only four"],"a":0,"e":"All five names — Chili, Ghibli, Leveche, Khamsin, and Gharbi — are explicitly cited in the text as regional names for the same hot, dusty Saharan wind known generally as the Sirocco, with the Gharbi variant additionally noted for gathering moisture and sometimes producing 'blood rain' carrying red Saharan dust."})
+
+# ==================================================================
+# SECTION 4: NATURAL VEGETATION
+# ==================================================================
+
+upsc.append({"q":"Match List-I (Local Term for Mediterranean Scrub Vegetation) with List-II (Region, per Goh Cheng Leong) and select the correct answer using the code below.\nList-I:\nA. Maquis\nB. Macchia\nC. Chaparral\nD. Mallee scrub\nList-II:\n1. Italy\n2. California\n3. Southern France\n4. Australia\nCodes:","o":["A-3, B-1, C-2, D-4","A-1, B-3, C-2, D-4","A-3, B-1, C-4, D-2","A-3, B-2, C-1, D-4"],"a":0,"e":"The correct match is A-3, B-1, C-2, D-4: 'maquis' is the term used in southern France, 'macchia' in Italy, 'chaparral' in California, and 'mallee scrub' in Australia — all local names for degraded Mediterranean scrub vegetation described in the text."})
+
+upsc.append({"q":"Which one of the following statements about Mediterranean vegetation, per Goh Cheng Leong, is NOT correct?","o":["Grass grows luxuriantly in the Mediterranean climate because most rainfall arrives during the warm growing season, making cattle rearing highly important","Growth is largely restricted to autumn and spring, when temperature is higher and moisture is just sufficient, since the long summer drought checks growth","Cork oaks of Spain and Portugal are valued for their thick, deeply fissured bark, used for making wine-bottle corks","In limestone uplands, where soil is extremely thin, scrub deteriorates into highly xerophytic ground creepers, a vegetation type called 'garrigue'"],"a":0,"e":"This statement is incorrect and reverses the actual point — grass does NOT grow luxuriantly in the Mediterranean climate; the text explicitly states conditions do not suit grass because rain comes mostly in the cool season when growth is slow, and cattle rearing is consequently UNIMPORTANT in the Mediterranean. The other three statements are correct."})
+
+# ==================================================================
+# SECTION 5: ECONOMIC DEVELOPMENT
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about orchard farming in the Mediterranean lands, per Goh Cheng Leong:\n1. The Mediterranean lands account for about 70 per cent of the world's exports of citrus fruits.\n2. Sunkist oranges are associated with California, Seville oranges with Spain (particularly for marmalade), and Jaffa oranges with Israel.\n3. The orange's native home is in temperate monsoon regions like China and Japan, though commercial cultivation there has historically been comparatively less significant than in the Mediterranean lands.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching the text's figures on citrus export share and its account of named Mediterranean orange varieties and the orange's native origin in China/Japan."})
+
+upsc.append({"q":"Which one of the following statements about the olive tree, per Goh Cheng Leong, is NOT correct?","o":["The olive tree requires deep, fertile alluvial soils and abundant year-round rainfall to survive, unlike hardier Mediterranean crops","The olive can be eaten fresh or pickled, and its oil is a valuable source of cooking oil in a region deficient in animal fat","Olive oil can also be used to make soap and margarine","The olive tree is so hardy and long-rooted that it can survive on poor limestone soils with less than 250 mm of annual rainfall"],"a":0,"e":"This statement is incorrect and reverses the text's explicit description — the olive tree is described as remarkably hardy, surviving on POOR limestone soils with LESS than 250 mm of annual rainfall, not requiring deep fertile soil and abundant rainfall. The other three statements are correct."})
+
+upsc.append({"q":"Consider the following statements about cereal and wine production in the Mediterranean lands, per Goh Cheng Leong:\n1. The wheat grown is mainly hard, winter wheat, sown in autumn to exploit the winter rain and harvested in the sunny, rainless early summer.\n2. Mediterranean regions bordering the Mediterranean Sea account for about three-quarters of the world's wine production.\n3. Sherry originates from southern Spain, port wine from Portugal, while Chianti, asti and marsala come from different parts of Italy.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching the text's account of hard winter wheat cultivation and the specific named wine varieties and their regions of origin."})
+
+# ==================================================================
+# SECTION 6: NCERT — KOEPPEN'S MEDITERRANEAN (Cs) CLIMATE
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about the Mediterranean (Cs) climate type, per NCERT's presentation of Koeppen's classification — which directly corresponds to Goh Cheng Leong's 'Warm Temperate Western Margin (Mediterranean) Climate':\n1. It occurs along the west coast of continents in subtropical latitudes between 30°-40°, such as Central California, Central Chile, and south-eastern/south-western Australia.\n2. These areas come under the influence of the subtropical high in summer and the westerly wind in winter.\n3. Mean average temperature in summer is around 25°C and in winter below 10°C, with annual precipitation ranging between 35-90 cm.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching NCERT's account of the Mediterranean (Cs) climate's distribution, seasonal wind influence, and temperature/precipitation figures, which are broadly consistent with (though independently derived from) Goh Cheng Leong's Rome and Cape Town data."})
+
+upsc.append({"q":"According to Koeppen's classification as presented by NCERT, Warm Temperate (Mid-latitude) climates — Group C — are grouped into how many types, and which one corresponds to the Mediterranean climate?","o":["Four types; Mediterranean is denoted Cs","Three types; Mediterranean is denoted Cw","Five types; Mediterranean is denoted Ca","Two types; Mediterranean is denoted Cm"],"a":0,"e":"NCERT states Koeppen groups Warm Temperate (Mid-latitude) climates into four types — Cwa (humid subtropical, dry winter), Cs (Mediterranean), Cfa (humid subtropical, no dry season), and Cfb (marine west coast) — with the Mediterranean type specifically denoted 'Cs'."})
+
+upsc.append({"q":"Assertion (A): The Mediterranean (Cs) climate is one of very few climate types where rainfall is concentrated in winter rather than summer.\nReason (R): In summer, the region comes under the influence of the subtropical high (associated with off-shore, dry Trade Winds), while in winter the influence of the on-shore Westerlies extends equatorward into the region.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?","o":["Both A and R are true, and R is the correct explanation of A","Both A and R are true, but R is NOT the correct explanation of A","A is true, but R is false","A is false, but R is true"],"a":0,"e":"Both are true and R explains A — both NCERT (subtropical high in summer, westerly influence in winter) and Goh Cheng Leong (off-shore Trades in summer, on-shore Westerlies in winter) independently describe the same seasonal wind-belt shift as the mechanism producing the Mediterranean climate's distinctive winter-rain, summer-drought pattern."})
+
+# ==================================================================
+# ASSEMBLY & VALIDATION
+# ==================================================================
+
+data = {"basic": [], "intermediate": [], "advanced": [], "upsc": upsc}
+
+all_q = upsc
+texts = [q["q"] for q in all_q]
+print("counts:", {k: len(v) for k, v in data.items()})
+print("total:", len(all_q))
+print("unique:", len(set(texts)))
+for q in all_q:
+    assert len(q["o"]) == 4, q["q"]
+    assert 0 <= q["a"] <= 3, q["q"]
+    assert len(set(q["o"])) == 4, ("duplicate option text!", q["q"])
+multi = sum(1 for q in all_q if "\n" in q["q"] or "List-" in q["q"] or "Assertion" in q["q"])
+print("multi-format %:", round(100*multi/len(all_q), 1))
+
+chapter = {
+    "id": "warm_temperate_western_margin_mediterranean_climate",
+    "title": "The Warm Temperate Western Margin (Mediterranean) Climate",
+    "desc": "Regional climatology (from Goh Cheng Leong's Physical Geography, Ch.19, and NCERT XI Fundamentals of Physical Geography, Ch.12 'World Climate and Climate Change'): distribution and mechanism of the Mediterranean climate; summer drought and winter rain characteristics; local winds (Sirocco, Mistral, Bora); Mediterranean vegetation (evergreen forests, maquis/macchia/chaparral/mallee scrub, garrigue); orchard farming, cereal cultivation and wine production; merged with NCERT's Koeppen classification and the corresponding Mediterranean (Cs) climate type",
+    "questions": data
+}
+
+with open("/sessions/vigilant-wonderful-volta/mnt/outputs/geo_ch19_mediterranean_v2.json", "w") as f:
+    json.dump(chapter, f, indent=2, ensure_ascii=False)
+
+print("Saved.")
