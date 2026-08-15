@@ -1,0 +1,23 @@
+[Source: NCERT Class XI "Fundamentals of Physical Geography", Chapter 11 "Water in the Atmosphere". OCR-extracted excerpts on condensation forms and cloud classification, used to complement Goh Cheng Leong's "Weather" chapter. Note: NCERT's cloud-height figures and its "mist contains more moisture than fog" distinction are presented as NCERT's own framing, kept separate from Goh Cheng Leong's differing numeric figures/criteria (humidity-threshold based) to avoid presenting conflicting specifics as a single fact.]
+
+FORMS OF CONDENSATION
+After condensation, water vapour in the atmosphere takes one of the following forms: dew, frost, fog and clouds. Condensation can occur when the dew point is either above or below the freezing point.
+
+Dew: When moisture is deposited in the form of water droplets on cooler surfaces of solid objects (such as stones, grass blades and plant leaves), it is known as dew. Ideal conditions for dew formation are a clear sky, calm air, high relative humidity, and cold, long nights. For dew to form, the dew point must be ABOVE the freezing point.
+
+Frost: Frost forms on cold surfaces when condensation takes place BELOW freezing point (0°C) — i.e. the dew point is at or below freezing. Excess moisture is deposited as minute ice crystals instead of water droplets. Conditions for frost formation are the same as for dew, except that air temperature must be at or below freezing point.
+
+Fog and Mist: When the temperature of an air mass containing a large quantity of water vapour falls suddenly, condensation takes place on fine dust particles — fog is essentially a cloud with its base at or very near the ground. In urban/industrial centres, smoke provides plenty of condensation nuclei, aiding fog and mist formation; when fog mixes with smoke, it is called smog. According to NCERT, the difference between mist and fog is that mist contains MORE moisture than fog (each nucleus in mist carries a thicker layer of moisture). Mists are frequent over mountains, where rising warm air up the slopes meets a cold surface. Fogs, by contrast, are described as drier than mist and prevail where warm air currents meet cold air currents; fogs form around nuclei provided by dust, smoke and salt particles.
+
+CLOUDS — NCERT'S FOUR BASIC TYPES
+A cloud is a mass of minute water droplets or tiny ice crystals formed by condensation of water vapour in free air at considerable elevation. According to height, expanse, density and transparency, NCERT groups clouds into four BASIC types: (i) Cirrus, (ii) Cumulus, (iii) Stratus, (iv) Nimbus.
+
+- Cirrus: formed at high altitudes (NCERT states 8,000-12,000 m); thin, detached, feathery-appearing clouds, always white in colour.
+- Cumulus: look like cotton wool; generally formed at a height of 4,000-7,000 m (per NCERT); exist in patches, scattered, with a flat base.
+- Stratus: layered clouds covering large portions of the sky; generally formed due to loss of heat or the mixing of air masses of different temperatures.
+- Nimbus: black or dark grey clouds forming at middle levels or very near the surface; extremely dense and opaque to sunlight; shapeless masses of thick vapour, sometimes low enough to seem to touch the ground.
+
+A combination of these four basic types gives rise to further sub-types: high clouds — cirrus, cirrostratus, cirrocumulus; middle clouds — altostratus and altocumulus; low clouds — stratocumulus and nimbostratus; and clouds with extensive vertical development — cumulus and cumulonimbus. (This matches, in substance, the ten specific cloud types that Goh Cheng Leong describes directly, but NCERT additionally frames them as combinations arising from four parent types.)
+
+PRECIPITATION FORMS (brief, for context)
+Precipitation may occur as rainfall (liquid), snowfall (hexagonal ice crystal flakes, when temperature is below 0°C), sleet (frozen raindrops/refrozen melted snow-water, forming when a layer of air above freezing overlies a sub-freezing layer near the ground), and hail (rounded solid ice pellets with several concentric ice layers, formed as raindrops repeatedly pass through colder layers).

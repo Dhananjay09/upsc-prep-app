@@ -1,0 +1,32 @@
+[Source: NCERT Class XI "Fundamentals of Physical Geography", Chapter 10 "Atmospheric Circulation and Weather Systems". OCR-extracted excerpts on general atmospheric circulation, air masses, fronts, and extra-tropical cyclones, used to complement Goh Cheng Leong's "Climate" chapter.]
+
+CORIOLIS FORCE AND GEOSTROPHIC WIND
+The Coriolis force acts perpendicular to the pressure gradient force (which itself acts perpendicular to an isobar). At the equator, the Coriolis force is zero and wind blows perpendicular to isobars, so low pressure there simply gets filled rather than intensifying — this is why tropical cyclones do NOT form near the equator. In the upper atmosphere (2-3 km above the surface), winds free from surface friction and controlled only by the pressure gradient force and Coriolis force, blowing parallel to straight isobars, are called geostrophic winds.
+
+The wind circulation around a low pressure system is called cyclonic circulation; around a high pressure system it is anti-cyclonic circulation. Cyclones (low pressure, centre): anticlockwise in the Northern Hemisphere, clockwise in the Southern Hemisphere. Anticyclones (high pressure, centre): clockwise in the Northern Hemisphere, anticlockwise in the Southern Hemisphere. Over a low pressure area, air converges and rises; over a high pressure area, air subsides from above and diverges at the surface.
+
+GENERAL CIRCULATION OF THE ATMOSPHERE (THREE-CELL MODEL)
+The pattern of planetary wind movement is called the general circulation of the atmosphere, depending on: latitudinal variation of heating, emergence of pressure belts, migration of belts following the sun's apparent path, distribution of continents/oceans, and the earth's rotation.
+
+At the Inter-Tropical Convergence Zone (ITCZ), air rises due to convection from high insolation, creating low pressure; converging tropical winds rise with this convective cell to the top of the troposphere (~14 km) and move poleward, accumulating around 30°N/S, where part sinks to form the subtropical high. Near the surface, this returns equatorward as the easterlies (Trade Winds), converging again at the ITCZ. This surface-to-upper-atmosphere circulation loop in the tropics is called the Hadley Cell.
+
+In the middle latitudes, circulation involves sinking cold polar air and rising warm subtropical-high air; at the surface these winds are the Westerlies, and this loop is called the Ferrel Cell.
+
+At polar latitudes, cold, dense air subsides near the poles and flows towards middle latitudes as the Polar Easterlies; this loop is the Polar Cell.
+
+These three cells (Hadley, Ferrel, Polar) together set the pattern of the general atmospheric circulation, transferring heat energy from lower to higher latitudes.
+
+EL NIÑO AND ENSO (not covered by Goh Cheng Leong at all — genuinely new content)
+Warming and cooling of the Pacific Ocean is closely tied to the general atmospheric circulation. Warm water from the central Pacific Ocean slowly drifts towards the South American coast, replacing the cool Peruvian (Humboldt) Current — this appearance of warm water off Peru's coast is called El Niño. El Niño is closely associated with pressure changes across the Central Pacific and Australia, a phenomenon called the Southern Oscillation. The combined phenomenon of the Southern Oscillation and El Niño is called ENSO (El Niño-Southern Oscillation). In years of strong ENSO, large-scale weather variations occur worldwide: the normally arid west coast of South America receives heavy rainfall, drought occurs in Australia (and sometimes India), and floods occur in China. ENSO is closely monitored for long-range weather forecasting.
+
+LOCAL WINDS: MOUNTAIN, VALLEY AND KATABATIC WINDS (not covered by Goh Cheng Leong — new content)
+In mountainous regions, during the day slopes heat up and air moves up-slope; valley air rises to fill the gap, forming a valley breeze. At night, slopes cool and dense air descends into the valley as a mountain wind. Cold air draining from high plateaus and ice fields into a valley is specifically called a katabatic wind. (Note: Goh Cheng Leong covers Föhn/Chinook, Sirocco and Mistral as local winds, but does not name the valley breeze, mountain wind, or katabatic wind as such — these NCERT terms are complementary additions.)
+
+AIR MASSES (not covered by Goh Cheng Leong at all — new content)
+An air mass is a large body of air with little horizontal variation in temperature and moisture, formed when air remains over a homogeneous source region long enough to acquire its characteristics. NCERT identifies five major source regions and corresponding air mass types: (i) warm tropical/subtropical oceans → Maritime Tropical (mT); (ii) subtropical hot deserts → Continental Tropical (cT); (iii) relatively cold high-latitude oceans → Maritime Polar (mP); (iv) very cold, snow-covered continents in high latitudes → Continental Polar (cP); (v) permanently ice-covered continents (Arctic/Antarctic) → Continental Arctic (cA). Tropical air masses are warm; polar air masses are cold.
+
+FRONTS (Goh Cheng Leong mentions fronts only briefly in its cyclonic-rain diagram; NCERT gives the fuller classification)
+When two different air masses meet, the boundary zone between them is called a front; its formation process is frontogenesis. There are four types of fronts: cold front (cold air advancing into a warm air mass), warm front (warm air advancing into a cold air mass), stationary front (front does not move), and occluded front (warm air mass fully lifted off the land surface, no longer in contact with the ground). Fronts occur in middle latitudes, marked by steep temperature/pressure gradients, and cause abrupt weather changes, cloud formation and precipitation.
+
+EXTRA-TROPICAL CYCLONES (polar front theory — complements Goh Cheng Leong's brief "cyclones/depressions" section)
+Extra-tropical (mid-and-high-latitude) cyclones form along the polar front. Initially the front is stationary, with warm air blowing from the south and cold air from the north (Northern Hemisphere). When pressure drops along the front, warm air moves north and cold air moves south, setting an anticlockwise cyclonic circulation (Northern Hemisphere) in motion, developing a warm front and cold front with a warm sector wedged between forward and rear cold sectors. The cold front moves faster than the warm front and eventually overtakes it, completely lifting the warm air off the ground — the front becomes occluded and the cyclone dissipates.
