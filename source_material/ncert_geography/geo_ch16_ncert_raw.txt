@@ -1,0 +1,39 @@
+[Source: NCERT Class XI "India: Physical Environment" (Part 2), Chapter 4 "Climate" (pages 34-56), plus NCERT XI Part 1 Ch.12 "World Climate and Climate Change" (Am climate type). OCR-extracted excerpts on the mechanism of the Indian monsoon, used to complement Goh Cheng Leong's "The Tropical Monsoon and Tropical Marine Climate" chapter. This NCERT chapter gives a far more mechanistic/modern account (jet streams, ITCZ, El Niño) than Goh Cheng Leong's simpler land-sea differential heating explanation, so both are used as complementary, non-contradictory layers.]
+
+WEATHER VS CLIMATE (basic distinction, per NCERT)
+Weather is the momentary state of the atmosphere, while climate refers to the average of the weather conditions over a longer period of time. Weather changes rapidly, perhaps within a day, while climate changes imperceptibly and may only be noted after 50 years or more.
+
+EXTREME TEMPERATURE CONTRASTS ACROSS INDIA (illustrating regional diversity within one monsoon climate)
+Western Rajasthan can touch 55°C in summer while Leh may drop to about minus 45°C in winter. Churu (Rajasthan) may record 50°C or more on a June day while Tawang (Arunachal Pradesh) barely touches 19°C the same day. On a December night, Drass (J&K) may drop to minus 45°C while Thiruvananthapuram or Chennai record 20-22°C the same night. In Kerala and the Andaman Islands, the diurnal (day-night) temperature difference may be barely 7-8°C, but in the Thar desert, a 50°C day may drop to 15-20°C at night.
+
+JET STREAMS AND UPPER AIR CIRCULATION
+In winter, a high-pressure centre develops north of the Himalayas, sending dry continental air southward at low levels, meeting Trade Winds over north-west India. At higher altitude (9-13 km), a broadly different pattern is seen: the westerly jet stream blows west-to-east across Asia north of the Himalayas; the Tibetan Highlands bifurcate this jet stream into a northern branch and a southern branch (mean position 25°N in February, at 200-300 mb level) that exercises an important influence on India's winter weather. In summer, an easterly jet stream (steering tropical depressions into India) sets in along 15°N latitude only after the westerly jet stream withdraws from the north Indian plain — this easterly jet stream is held responsible for the burst of the monsoon in India.
+
+INTER-TROPICAL CONVERGENCE ZONE (ITCZ)
+The ITCZ is a low-pressure zone at the equator where trade winds converge and air ascends. In July, the ITCZ shifts to around 20°-25°N (over the Gangetic plain), sometimes called the monsoon trough, encouraging a thermal low over north/north-west India. Due to this northward shift, southern-hemisphere trade winds cross the equator between 40°E and 60°E longitudes and, deflected by the Coriolis force, blow from south-west to north-east — becoming the south-west monsoon. In winter, the ITCZ moves southward, reversing the winds to become the north-east monsoon.
+
+ONSET AND ENTRY OF THE MONSOON
+During April-May, intense heating over north-west India creates a strong low-pressure cell that (as the Indian Ocean to the south remains comparatively high pressure) attracts the south-east trades across the equator, encouraging the northward shift of the ITCZ; the south-west monsoon can thus be seen as a continuation of the south-east trades deflected after crossing the equator (between 40°E and 60°E longitudes). The south-west monsoon sets in over the Kerala coast by 1 June, reaches Mumbai and Kolkata between 10-13 June, and engulfs the entire subcontinent by mid-July. There are two rain-bearing systems: the Bay of Bengal current (causing rainfall over the plains of north India) and the Arabian Sea current (bringing rain to the west coast); much of the west-coast rainfall along the Western Ghats is orographic.
+
+BREAK IN THE MONSOON
+If rain fails to occur for one or more weeks after a few days of rain during the south-west monsoon period, it is called a 'break' in the monsoon — a common feature of the rainy season. In northern India, breaks occur when rain-bearing storms are infrequent along the monsoon trough/ITCZ; over the west coast, dry spells are associated with winds blowing parallel (rather than perpendicular) to the coast.
+
+EL NIÑO AND THE INDIAN MONSOON
+El Niño is a complex weather system appearing roughly once every three to seven years, bringing drought, floods and other weather extremes worldwide. It involves the appearance of warm currents off the coast of Peru in the Eastern Pacific, temporarily replacing the cold Peruvian (Humboldt) Current and raising coastal water temperature by about 10°C, distorting equatorial atmospheric circulation, causing irregularities in sea-water evaporation, and reducing plankton (hence fish) numbers. The name 'El Niño' means 'Child Christ', as the current appears around Christmas (a summer month in Peru). El Niño is used in India for long-range monsoon forecasting; in 1990-91, a strong El Niño event delayed the onset of the south-west monsoon over most of the country by five to twelve days. (This is the same El Niño/ENSO phenomenon already covered — via NCERT XI Part 1 Ch.10 — in Geography Chapter 14 'Climate'; here it is specifically linked to its effect on the Indian monsoon's onset timing.)
+
+FOUR SEASONS RECOGNISED BY METEOROLOGISTS (per NCERT)
+(i) the cold weather season, (ii) the hot weather season, (iii) the south-west monsoon season, (iv) the retreating monsoon season.
+
+SOME FAMOUS LOCAL STORMS OF THE HOT WEATHER SEASON (genuinely new content vs Goh Cheng Leong, who does not name these specific local storms)
+- Mango Shower: pre-monsoon showers common in Kerala and coastal Karnataka towards the end of summer, so called because they help mangoes ripen early.
+- Blossom Shower: with this shower, coffee flowers blossom in Kerala and nearby areas.
+- Nor'westers: dreaded evening thunderstorms in Bengal and Assam, known locally as 'Kalbaisakhi' ('a calamity of the month of Baisakh'), of great importance for tea, jute and rice cultivation; called 'Bardoli Chheerha' in Assam.
+- Loo: hot, dry, oppressing winds blowing in the afternoon during the hot weather season over north and north-west India, from Punjab to Bihar, with higher intensity between Delhi and Patna; can continue well into midnight.
+
+SOUTHWEST MONSOON SEASON — ONSET MECHANISM (NCERT's account, complementing Goh Cheng Leong's simpler version)
+Rapid temperature rise in May over the north-western plains intensifies low pressure there; by early June this is strong enough to attract the south-east trade winds of the Southern Hemisphere from the Indian Ocean. These cross the equator, enter the Bay of Bengal and Arabian Sea picking up abundant moisture, and (deflected after crossing the equator) follow a south-westerly direction — hence 'south-west monsoons'. The onset ('burst'/'break' of the monsoon) begins abruptly, substantially lowering temperature, and is associated with violent winds, thunder, lightning, and torrential rain.
+
+(For reference only, not used in Ch.16 — reserved for the future 'Cool Temperate'/'Cold Desert' or dedicated India-climate chapters if created: Koeppen's classification applied specifically to India, using letter symbols; the Cold Weather Season's detailed pressure/wind/rainfall patterns; distribution of winter rainfall by region.)
+
+TROPICAL MONSOON CLIMATE (Am) — per Koeppen, as presented in NCERT XI Part 1 Ch.12 (already partially noted in Ch.15's NCERT file)
+Tropical monsoon climate (Am) is found over the Indian sub-continent, North Eastern South America, and Northern Australia. Heavy rainfall occurs mostly in summer; winter is dry. NCERT notes that most of the Indian Peninsula is grouped, under Koeppen's system, as 'Am' — Tropical Monsoon.
