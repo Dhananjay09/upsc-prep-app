@@ -1,0 +1,85 @@
+import json
+
+upsc = []
+
+# ==================================================================
+# SECTION 1: DISTRIBUTION
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about the distribution of the Savanna or Sudan climate, per Goh Cheng Leong:\n1. It is a transitional climate found between the equatorial forests and the Trade Wind hot deserts, confined within the tropics.\n2. It is best developed in the Sudan, where the dry and wet seasons are most distinct, giving the climate its alternative name.\n3. In South America, the llanos of the Orinoco basin and the campos of the Brazilian Highlands represent two distinct savanna regions north and south of the equator.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching the text's description of the Savanna/Sudan climate as transitional, best developed in the Sudan, and represented in South America by the llanos and campos."})
+
+# ==================================================================
+# SECTION 2: RAINFALL AND TEMPERATURE
+# ==================================================================
+
+upsc.append({"q":"Which one of the following statements about rainfall in the Sudan type of climate is NOT correct?","o":["The annual rainfall total and the length of the rainy season generally increase from the equatorial region polewards towards the desert fringes","Kano, Nigeria receives about 864 mm of rainfall annually, almost entirely concentrated in the summer months of May to September","Rainfall varies considerably by location, from about 1,219 mm at Bathurst, Gambia on the coast, to only about 127 mm at Khartoum, Sudan in the interior","In the southern hemisphere, as illustrated by Salisbury (Zimbabwe), the rainy season runs from October to March"],"a":0,"e":"This statement is incorrect and reverses the actual trend — both the annual rainfall total and the length of the rainy season DECREASE appreciably from the equatorial region polewards towards the desert fringes, not increase. The other three statements are correct."})
+
+upsc.append({"q":"Consider the following statements about temperature in the Sudan/Savanna climate, per Goh Cheng Leong:\n1. Monthly temperatures for lowland stations typically range between about 21°C and 32°C, with an annual range around 11°C that increases further from the equator.\n2. The highest temperatures coincide precisely with the period of the highest midday sun, such as June in the northern hemisphere.\n3. There is a distinct drop in temperature during the rainy period itself, owing to the overcast sky and cooler atmosphere.\nWhich of the statements given above is/are correct?","o":["1 and 3 only","1 and 2 only","2 and 3 only","1, 2 and 3"],"a":0,"e":"Statement 2 is incorrect — the text notes it is 'interesting' that the highest temperatures do NOT coincide with the period of highest sun, but instead occur just before the onset of the rainy season (e.g. April in Kano, October in Salisbury). Statements 1 and 3 are correct."})
+
+upsc.append({"q":"According to Goh Cheng Leong, what is the 'Harmattan', and what is one of its notable effects?","o":["A dry, dust-laden North-East Trade Wind blowing off-shore from the Sahara towards the Guinea coast, providing relief from humidity but also ruining crops and impeding river navigation","A moist on-shore wind bringing the annual rainy season to the West African Sudan each May","A local name for the intense radiative cooling that produces night frosts in the Sudan climate's dry season","A seasonal ocean current responsible for the variability of savanna rainfall along the Guinea coast"],"a":0,"e":"The Harmattan is described as a dry, dust-laden wind (the North-East Trades blowing off-shore from the Sahara) reaching the Guinea coast, locally called 'the doctor' because it relieves humidity through evaporative cooling, but it is so dry it ruins crops, raises dusty haze, and impedes inland river navigation — not a rain-bringing wind, radiative cooling process, or ocean current."})
+
+# ==================================================================
+# SECTION 3: NATURAL VEGETATION
+# ==================================================================
+
+upsc.append({"q":"Which one of the following statements about savanna vegetation, per Goh Cheng Leong, is NOT correct?","o":["The term 'tropical grassland' is an accurate and preferred description of the savanna, since trees are essentially absent from the landscape","Trees and plants in the savanna are deciduous, shedding leaves in the cool dry season to prevent excessive water loss through transpiration","Trees such as acacias develop long roots to search for groundwater, while baobabs and bottle trees have broad trunks to store water","Equatorwards, trees increase in size and density due to higher rainfall, while desertwards the vegetation merges into scrub and thorny bushes"],"a":0,"e":"This statement is incorrect and reverses the text's explicit point — Goh Cheng Leong states it is 'rather misleading to call the savanna tropical grassland' because trees are ALWAYS present amongst the tall grass, preferring terms like 'parkland' or 'bush veld' instead. The other three statements are correct."})
+
+upsc.append({"q":"Consider the following statements about savanna animal life, per Goh Cheng Leong:\n1. Herbivorous savanna animals include the zebra, antelope, giraffe, deer, gazelle, elephant and okapi.\n2. Carnivorous savanna animals such as the lion, leopard and hyena often have colourings that blend with the tawny grassland background.\n3. National parks set up in East and South Africa aim to control killing and protect rare animal species, supporting tourism.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching the text's description of savanna herbivores, camouflaged carnivores, and the conservation role of East/South African national parks."})
+
+# ==================================================================
+# SECTION 4: HUMAN LIFE — MASAI AND HAUSA
+# ==================================================================
+
+upsc.append({"q":"Match List-I (Tribe) with List-II (Primary Way of Life, per Goh Cheng Leong) and select the correct answer using the code below.\nList-I:\nA. The Masai\nB. The Hausa\nList-II:\n1. Settled cultivators of the Bauchi Plateau in northern Nigeria, rotating crops between fields rather than practising shifting cultivation\n2. Nomadic cattle pastoralists of the East African Plateau, keeping zebu cattle primarily for milk and blood rather than meat\nCodes:","o":["A-2, B-1","A-1, B-2","A-2, B-2","A-1, B-1"],"a":0,"e":"The correct match is A-2, B-1: the Masai are nomadic cattle pastoralists of Kenya/Tanzania/Uganda who prize their zebu cattle for milk and blood (never slaughtering them for food), while the Hausa are settled cultivators of northern Nigeria's Bauchi Plateau who rotate crops between fields."})
+
+upsc.append({"q":"Which one of the following statements about the Masai, as described by Goh Cheng Leong, is NOT correct?","o":["The Masai regularly slaughter their cattle for meat, treating beef as their primary dietary staple","The Masai's cattle are kept mainly for milk and blood, and are only eaten when they die a natural death from old age or disease","Cattle are considered symbols of wealth among the Masai, and are used in payment for wives","The Masai's old grazing grounds in the Kenyan Highlands were taken over first by white settlers for plantation agriculture and later by African farmers"],"a":0,"e":"This statement is incorrect and reverses the text's explicit point — the Masai will NOT slaughter their cattle for food or sale; beef is only consumed when an animal dies a natural death from old age or disease. The other three statements are correct."})
+
+upsc.append({"q":"Consider the following statements about the Hausa of northern Nigeria, per Goh Cheng Leong:\n1. Unlike many tribes, the Hausa do not practise shifting cultivation; instead, they use a plot for several years and allow it to lie fallow when fertility declines, before returning to it later.\n2. The ancient Hausa city of Kano, with a population of about 300,000, has long been a focus of routes and trade.\n3. The Hausa keep no domesticated animals at all, relying entirely on crop cultivation for subsistence and income.\nWhich of the statements given above is/are correct?","o":["1 and 2 only","1 and 3 only","2 and 3 only","1, 2 and 3"],"a":0,"e":"Statement 3 is incorrect — the text explicitly states the Hausa also keep cattle and goats for milk and meat (though subsidiary to crop cultivation), and raise poultry for eggs and meat. Statements 1 and 2 are correct."})
+
+# ==================================================================
+# SECTION 5: PROBLEMS, PROSPECTS AND DEVELOPMENT
+# ==================================================================
+
+upsc.append({"q":"Which one of the following statements about the development potential and problems of the savanna, per Goh Cheng Leong, is NOT correct?","o":["Torrential rain during the rainy season has no leaching effect on savanna soils, since nutrients are only lost through evaporation in the dry season","Savanna lands with over 760 mm of annual rainfall and without severe cold are considered to hold immense agricultural potential for plantation crops","Native zebu cattle are bony and yield little meat or milk, and are often victims of tropical diseases such as ngana (sleeping sickness) carried by the tsetse fly","Introducing temperate cattle breeds such as the English Shorthorn, Friesian or Guernsey to cross with zebu cattle is seen as necessary for successful commercial cattle rearing"],"a":0,"e":"This statement is incorrect and reverses the actual point — torrential downpours in the rainy season DO cause significant leaching, dissolving and washing away plant nutrients such as nitrates, phosphates and potash, contributing to poor lateritic soils; this is in addition to (not instead of) dry-season evaporation effects. The other three statements are correct."})
+
+upsc.append({"q":"According to Goh Cheng Leong, which region has become Australia's largest cattle-producing state, having made a start on introducing temperate cattle breeds and exporting both meat and milk?","o":["Tropical Queensland","New South Wales","Western Australia","Tasmania"],"a":0,"e":"The text explicitly credits tropical Queensland with becoming Australia's largest cattle-producing state, having successfully introduced improved cattle breeds and exporting both meat and milk — unlike the campos and llanos of South America, where the text notes progress has been comparatively limited."})
+
+# ==================================================================
+# SECTION 6: NCERT — KOEPPEN'S Aw (TROPICAL WET AND DRY) CLIMATE
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about the Tropical Wet and Dry (Aw) climate type, per NCERT's presentation of Koeppen's classification — which directly corresponds to Goh Cheng Leong's 'Savanna or Sudan Climate':\n1. It occurs north and south of Af (Tropical Wet) climate regions, bordering BW (dry) climate on the western part of continents and Cf or Cw climate on the eastern part.\n2. Extensive Aw climate is found north and south of the Amazon forest in Brazil and adjoining Bolivia and Paraguay, in Sudan, and south of Central Africa.\n3. Annual rainfall in Aw climate is considerably less than in Af and Am climates, and diurnal temperature ranges are greatest during the wet season rather than the dry season.\nWhich of the statements given above is/are correct?","o":["1 and 2 only","1 and 3 only","2 and 3 only","1, 2 and 3"],"a":0,"e":"Statement 3 is incorrect — NCERT states diurnal temperature ranges are greatest in the DRY season, not the wet season, consistent with Goh Cheng Leong's own account of the Sudan climate. Statements 1 and 2 are correct."})
+
+upsc.append({"q":"In Koeppen's small-letter notation, as presented by NCERT, which letter specifically denotes a winter dry season — the defining seasonal feature of the Aw (Tropical Wet and Dry) climate used for the Savanna/Sudan climate?","o":["w","f","m","s"],"a":0,"e":"NCERT states the small letter 'w' denotes a winter dry season in Koeppen's notation, distinguishing Aw from 'f' (no dry season, used for Af) and 'm' (monsoonal short dry season, used for Am); 's' denotes a summer dry season, characteristic of climates like the Mediterranean (Cs), not the tropical savanna."})
+
+upsc.append({"q":"Assertion (A): The Aw (Tropical Wet and Dry) climate produces deciduous forest and tree-shredded grassland, matching Goh Cheng Leong's description of savanna vegetation.\nReason (R): The Aw climate has a considerably shorter wet season and a longer, more severe dry season compared to the Af and Am climate types.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?","o":["Both A and R are true, and R is the correct explanation of A","Both A and R are true, but R is NOT the correct explanation of A","A is true, but R is false","A is false, but R is true"],"a":0,"e":"Both are true and R explains A — it is precisely the Aw climate's shorter, less reliable wet season and longer, more severe dry season (relative to Af/Am) that forces vegetation to adopt deciduous, drought-adapted, grassland-with-scattered-trees forms, as both NCERT and Goh Cheng Leong independently describe."})
+
+# ==================================================================
+# ASSEMBLY & VALIDATION
+# ==================================================================
+
+data = {"basic": [], "intermediate": [], "advanced": [], "upsc": upsc}
+
+all_q = upsc
+texts = [q["q"] for q in all_q]
+print("counts:", {k: len(v) for k, v in data.items()})
+print("total:", len(all_q))
+print("unique:", len(set(texts)))
+for q in all_q:
+    assert len(q["o"]) == 4, q["q"]
+    assert 0 <= q["a"] <= 3, q["q"]
+    assert len(set(q["o"])) == 4, ("duplicate option text!", q["q"])
+multi = sum(1 for q in all_q if "\n" in q["q"] or "List-" in q["q"] or "Assertion" in q["q"])
+print("multi-format %:", round(100*multi/len(all_q), 1))
+
+chapter = {
+    "id": "savanna_or_sudan_climate",
+    "title": "The Savanna or Sudan Climate",
+    "desc": "Regional climatology (from Goh Cheng Leong's Physical Geography, Ch.17, and NCERT XI Fundamentals of Physical Geography, Ch.12 'World Climate and Climate Change'): distribution of the savanna/Sudan climate; rainfall and temperature characteristics; the Harmattan; savanna vegetation (parkland, deciduous adaptation) and animal life; human life of the Masai (pastoralists) and Hausa (settled cultivators); problems and development potential; merged with NCERT's Koeppen classification and the corresponding Tropical Wet and Dry (Aw) climate type",
+    "questions": data
+}
+
+with open("/sessions/vigilant-wonderful-volta/mnt/outputs/geo_ch17_savanna_v2.json", "w") as f:
+    json.dump(chapter, f, indent=2, ensure_ascii=False)
+
+print("Saved.")
