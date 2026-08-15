@@ -435,6 +435,12 @@ const LEVEL_META = {
 for(let i=1;i<=20;i++){
   LEVEL_META[`test${i}`] = {title:`Test ${i}`, desc:"UPSC-level practice set — statements, matching & assertion-reason", badge:"b-upsc"};
 }
+/* For chapters whose UPSC-tier questions are split into bite-sized 10-question tests
+   (e.g. Economy), the questions object uses keys upsc1, upsc2, ... instead of a single upsc key.
+   Auto-generate matching level meta entries so these render as "UPSC 1", "UPSC 2", etc. */
+for(let i=1;i<=50;i++){
+  LEVEL_META[`upsc${i}`] = {title:`UPSC ${i}`, desc:"Real exam-level toughness — statements, matching & assertion-reason", badge:"b-upsc"};
+}
 
 const SUBJECT_TEST_SIZE = 25;
 
