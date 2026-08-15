@@ -1,0 +1,17 @@
+[Source: NCERT Class XI "Fundamentals of Physical Geography", Chapter 12 "World Climate and Climate Change" (Koeppen's classification, Dry Climates group B). OCR-extracted excerpt used to complement Goh Cheng Leong's "The Hot Desert and Mid-Latitude Desert Climate" chapter. Same Koeppen chapter already used for Ch.15 (Af), Ch.16 (Am reference), and Ch.17 (Aw).]
+
+DRY CLIMATES (Group B) — directly corresponds to Goh Cheng Leong's "Hot Desert and Mid-Latitude Desert Climate"
+Dry climates are characterised by very low rainfall, not adequate for plant growth, and cover a very large area of the planet extending over latitudes from 15° to 60° north and south of the equator. At low latitudes (15°-30°), they occur in the area of the subtropical high, where subsidence and temperature inversion suppress rainfall; on the western margin of continents, adjoining cold currents (particularly the west coast of South America), they extend further equatorward onto the coastal land. In middle latitudes (35°-60°), they are confined to continental interiors where maritime-humid winds cannot reach, often surrounded by mountains.
+
+Dry climates are divided into steppe/semi-arid (BS) and desert (BW) climates, further subdivided as:
+- Subtropical steppe (BSh) and subtropical desert (BWh), at latitudes 15°-35°
+- Mid-latitude steppe (BSk) and mid-latitude desert (BWk), at latitudes 35°-60°
+
+SUBTROPICAL STEPPE (BSh) AND SUBTROPICAL DESERT (BWh)
+Both share common precipitation and temperature characteristics. Subtropical steppe, in the transition zone between humid and dry climates, receives slightly more rainfall than the desert — enough to support sparse grasslands. Rainfall in both is highly variable, affecting steppe life more than desert life, often causing famine. Rain occurs as short, intense thundershowers that are ineffective in building soil moisture. Fog is common in coastal deserts bordering cold currents. Maximum summer temperature is very high — the highest shade temperature ever recorded, 58°C, was at Al Aziziyah, Libya, on 13 September 1922 (the same record cited independently by Goh Cheng Leong, corroborating rather than conflicting). Annual and diurnal temperature ranges are also high.
+
+MID-LATITUDE STEPPE (BSk) AND MID-LATITUDE DESERT (BWk)
+(NCERT's Koeppen table lists these at latitudes 35°-60° but does not elaborate separately in the excerpted narrative beyond the classification table itself — treated in the question set primarily via the classification table, avoiding duplication of Goh Cheng Leong's own detailed mid-latitude desert account, e.g. the Gobi/Kashi climate data.)
+
+KOEPPEN CLASSIFICATION TABLE ENTRY (recap, for reference)
+B-Dry Climate types: Subtropical steppe (BSh, low-latitude semi-arid); Subtropical desert (BWh, low-latitude arid); Mid-latitude steppe (BSk, mid-latitude semi-arid); Mid-latitude desert (BWk, mid-latitude arid). Koeppen's definition of Group B itself: potential evaporation exceeds precipitation.

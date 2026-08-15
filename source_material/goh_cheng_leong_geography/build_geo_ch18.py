@@ -1,0 +1,87 @@
+import json
+
+upsc = []
+
+# ==================================================================
+# SECTION 1: DISTRIBUTION OF HOT AND MID-LATITUDE DESERTS
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about the distribution of hot deserts, per Goh Cheng Leong:\n1. The major hot deserts of the world are located on the western coasts of continents between latitudes 15° and 30° N and S.\n2. The Sahara Desert, the largest single stretch of desert, has a total area larger than all 50 states of the U.S.A. combined.\n3. The Atacama or Peruvian Desert, in South America, is the wettest of all deserts, receiving well over 250 mm of rainfall annually.\nWhich of the statements given above is/are correct?","o":["1 and 2 only","1 and 3 only","2 and 3 only","1, 2 and 3"],"a":0,"e":"Statement 3 is incorrect and reverses the actual fact — the text explicitly describes the Atacama/Peruvian Desert as the DRIEST of all deserts, with less than 13 mm of rainfall annually, not the wettest. Statements 1 and 2 are correct."})
+
+upsc.append({"q":"Which one of the following statements about the mid-latitude deserts, per Goh Cheng Leong, is NOT correct?","o":["The Patagonian Desert's aridity is due primarily to its position astride the Horse Latitudes, similar to the hot deserts, rather than to any rain-shadow effect","Mid-latitude deserts such as the Gobi and Turkestan are found on plateaux at a considerable distance from the sea","The Patagonian Desert's aridity owes more to its rain-shadow position on the leeward side of the Andes than to continentality alone","Mid-latitude deserts are rainless mainly because of their interior location in the temperate latitudes, well away from rain-bearing winds"],"a":0,"e":"This statement is incorrect — the text explicitly attributes the Patagonian Desert's aridity MORE to its rain-shadow position on the leeward side of the Andes THAN to continentality, and mid-latitude deserts in general are not described as lying astride the Horse Latitudes (that description applies specifically to the hot, Trade Wind deserts). The other three statements are correct."})
+
+# ==================================================================
+# SECTION 2: RAINFALL AND AIR-PRESSURE MECHANISM
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about the causes of aridity in hot deserts, per Goh Cheng Leong:\n1. Hot deserts lie astride the Horse Latitudes/Sub-Tropical High Pressure Belts, where descending air is least favourable for precipitation.\n2. The rain-bearing Trade Winds blow off-shore from hot deserts, while the on-shore Westerlies blow outside the desert limits.\n3. Whatever winds do reach the hot deserts generally blow from warmer to cooler regions, raising their relative humidity and encouraging occasional rain.\nWhich of the statements given above is/are correct?","o":["1 and 2 only","1 and 3 only","2 and 3 only","1, 2 and 3"],"a":0,"e":"Statement 3 is incorrect and reverses the actual mechanism — winds reaching the deserts blow from COOLER to WARMER regions, LOWERING (not raising) their relative humidity and making condensation almost impossible. Statements 1 and 2 are correct."})
+
+upsc.append({"q":"Which one of the following statements about desert rainfall, per Goh Cheng Leong, is NOT correct?","o":["Rain in the desert typically falls as gentle, prolonged drizzle spread evenly over many days","In the Atacama Desert, a station at Iquique once recorded no rainfall for four years, followed by a sudden torrential downpour of 63 mm in a single afternoon","Cold ocean currents on western coastal deserts, such as the Peruvian Current along Chile, produce mists and fogs while suppressing actual rainfall","Rain, when it occurs, is typically a violent convectional thunderstorm that bursts suddenly and pours continuously for a few hours over small areas"],"a":0,"e":"This statement is incorrect and reverses the actual pattern — desert rain does NOT fall as gentle, prolonged drizzle; the text explicitly describes it as scarce, unreliable, and typically arriving as sudden, violent convectional thunderstorms. The other three statements are correct."})
+
+# ==================================================================
+# SECTION 3: TEMPERATURE
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about desert temperatures, per Goh Cheng Leong:\n1. The highest shade temperature ever recorded, 58°C, was at Al Aziziyah, near Tripoli, Libya, on 13 September 1922.\n2. Coastal deserts, due to maritime influence and cooling ocean currents, generally have lower mean temperatures and smaller annual ranges than desert interiors.\n3. In the Death Valley of California, an exceptionally great diurnal (day-night) temperature range of about 41°C has been recorded.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching the text's specific figures for the Al Aziziyah record, the coastal-versus-interior temperature contrast, and the Death Valley diurnal range."})
+
+upsc.append({"q":"Which one of the following statements about mid-latitude desert climate, as illustrated by Kashi (Kashgar) in the Gobi Desert, is NOT correct?","o":["The annual temperature range at Kashi is smaller than that typical of hot deserts, owing to its coastal, maritime setting","Kashi's annual precipitation of about 89 mm falls mostly in summer, with snow occurring in the cold winter months","Summers at Kashi are very hot (around 27°C in July) while winters are extremely cold, with two months below freezing point","Continentality accounts for the greater extremes of temperature in mid-latitude deserts compared to hot deserts"],"a":0,"e":"This statement is incorrect and reverses the actual fact — the text explicitly states the annual temperature range of mid-latitude deserts like Kashi (32°C) is much GREATER than that of hot deserts, precisely because of their inland, continental (not coastal/maritime) setting. The other three statements are correct."})
+
+# ==================================================================
+# SECTION 4: NATURAL VEGETATION
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about desert vegetation, per Goh Cheng Leong:\n1. The predominant vegetation for both hot and mid-latitude deserts is xerophytic or drought-resistant scrub.\n2. Intense evaporation increases soil salinity, and halophytes are plants specially adapted to survive in such saline conditions.\n3. Desert soils are typically rich in humus because the slow decomposition rate allows organic matter to accumulate over long periods.\nWhich of the statements given above is/are correct?","o":["1 and 2 only","1 and 3 only","2 and 3 only","1, 2 and 3"],"a":0,"e":"Statement 3 is incorrect and reverses the actual point — desert soils are described as DEFICIENT in humus, since there is little vegetation to decay and the absence of moisture retards decomposition, not because humus accumulates. Statements 1 and 2 are correct."})
+
+upsc.append({"q":"Which one of the following is NOT cited by Goh Cheng Leong as a way in which xerophytic desert plants adapt to survive the arid environment?","o":["Developing broad, flat leaves to maximise the surface area available for photosynthesis and rapid transpiration","Developing long roots that are well spaced out to gather moisture and search for groundwater","Storing water in thick succulent stems, as in cacti, to survive long droughts","Having leaves that are waxy, leathery, hairy or needle-shaped, or entirely absent, to reduce water loss through transpiration"],"a":0,"e":"This is NOT an adaptation described in the text — desert plants do the opposite, minimising leaf surface area (via waxy, leathery, needle-shaped, or absent leaves) specifically to REDUCE transpiration and water loss, not to maximise it. The other three options are genuine adaptations described in the text."})
+
+# ==================================================================
+# SECTION 5: LIFE IN THE DESERTS
+# ==================================================================
+
+upsc.append({"q":"Match List-I (Group of Desert Inhabitants) with List-II (Example, per Goh Cheng Leong) and select the correct answer using the code below.\nList-I:\nA. Primitive hunters and collectors\nB. Nomadic herdsmen\nC. Settled cultivators\nD. Mining settlers\nList-II:\n1. Bedouin of Arabia, riding horses and living in tents\n2. Egyptians relying on Nile basin irrigation\n3. Bushmen of the Kalahari\n4. Discoverers of gold in the Great Australian Desert (e.g. Kalgoorlie)\nCodes:","o":["A-3, B-1, C-2, D-4","A-1, B-3, C-2, D-4","A-3, B-1, C-4, D-2","A-3, B-4, C-1, D-2"],"a":0,"e":"The correct match is A-3, B-1, C-2, D-4: the Bushmen exemplify primitive hunters/collectors; the Bedouin exemplify nomadic herdsmen; the Egyptians (relying on the Nile) exemplify settled cultivators; and the gold-mining settlements (Kalgoorlie/Boulder) exemplify mining settlers."})
+
+upsc.append({"q":"Which one of the following statements about the camel, described by Goh Cheng Leong as the 'ship of the desert', is NOT correct?","o":["Camels have sharp, narrow hooves similar to horses, which sink readily into sandy desert terrain, making them well suited to caravan travel","A pack-camel, adequately fed, can carry a load of about 160 kg and travel about 80 km a day","The camel can store water in its stomach and fat in its hump, allowing it to go long periods without food or water","A racing camel, when ridden, can travel roughly twice the daily distance of a laden pack-camel"],"a":0,"e":"This statement is incorrect and reverses the actual comparison — the text explicitly contrasts the camel's broad, PADDED feet (which do NOT slip in sand) with horses' sharp hooves that DO sink readily in sandy terrain; camels are suited to desert travel precisely because they lack this problem. The other three statements are correct."})
+
+upsc.append({"q":"According to Goh Cheng Leong, which country is described as the world's greatest producer of dates, an important oasis-cultivated crop grown in dug-out hollows to let roots reach deep groundwater?","o":["Iraq","Egypt","Morocco","Libya"],"a":0,"e":"The text explicitly names Iraq as the world's greatest producer of dates, grown in oasis settlements — not Egypt (cited instead for Nile basin irrigation and cotton/rice/wheat), Morocco (cited for the large Tafilalet Oasis), or Libya (cited for the Ghadames Oasis and Al Aziziyah's temperature record)."})
+
+upsc.append({"q":"Consider the following statements about mining and mineral development in the deserts, per Goh Cheng Leong:\n1. In the Atacama Desert of northern Chile, caliche is mined to extract sodium nitrate, a valuable fertiliser.\n2. Chuquicamata, in Chile, is described as the world's largest copper town.\n3. Vast oil reserves discovered in the Saharan and Arabian Deserts have transformed the economies and landscapes of countries like Saudi Arabia, Kuwait and Iraq.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching the text's account of Chilean nitrate/copper mining and the transformative impact of Middle Eastern oil discoveries on desert economies."})
+
+# ==================================================================
+# SECTION 6: NCERT — KOEPPEN'S DRY CLIMATES (B GROUP)
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about Koeppen's Dry Climates (Group B), per NCERT — which directly corresponds to Goh Cheng Leong's 'Hot Desert and Mid-Latitude Desert Climate':\n1. Group B is defined by potential evaporation exceeding precipitation, and covers latitudes from 15° to 60° north and south of the equator.\n2. Dry climates are divided into steppe/semi-arid (BS) and desert (BW) types, each further subdivided into subtropical (h) and mid-latitude (k) variants.\n3. At low latitudes (15°-30°), Dry climates occur in the area of the subtropical high, where subsidence and temperature inversion suppress rainfall.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching NCERT's presentation of Koeppen's Dry Climates group, its BS/BW and h/k subdivisions, and the subtropical-high mechanism suppressing rainfall at low latitudes."})
+
+upsc.append({"q":"According to NCERT's account of Koeppen's Subtropical Steppe (BSh) and Subtropical Desert (BWh) climates, which one of the following is correct?","o":["Subtropical steppe receives slightly more rainfall than subtropical desert, adequate enough to support sparse grasslands, though both share highly variable rainfall","Subtropical desert receives more rainfall than subtropical steppe, making desert vegetation denser than steppe vegetation","Rainfall in both these climates is entirely reliable and evenly distributed across all months of the year","Fog is rare in coastal deserts bordering cold currents, since cold currents suppress atmospheric moisture entirely"],"a":0,"e":"NCERT states subtropical steppe (BSh) receives slightly MORE rainfall than subtropical desert (BWh) — enough to support sparse grasslands — with both sharing highly variable rainfall; fog, in fact, is described as common (not rare) in coastal deserts bordering cold currents."})
+
+upsc.append({"q":"Assertion (A): The 58°C shade temperature recorded at Al Aziziyah, Libya, on 13 September 1922, is cited independently by both Goh Cheng Leong and NCERT as an example of extreme hot desert temperature.\nReason (R): Subtropical steppe and subtropical desert (BSh/BWh) climates, per NCERT, are characterised by very high maximum summer temperatures alongside high annual and diurnal temperature ranges.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?","o":["Both A and R are true, and R is the correct explanation of A","Both A and R are true, but R is NOT the correct explanation of A","A is true, but R is false","A is false, but R is true"],"a":0,"e":"Both are true and R explains A — the extreme Al Aziziyah record is a specific, well-documented instance of the very high summer maximum temperatures and large temperature ranges that NCERT identifies as a general characteristic of the BSh/BWh (subtropical steppe/desert) climate type, corroborating Goh Cheng Leong's own account of the same event."})
+
+# ==================================================================
+# ASSEMBLY & VALIDATION
+# ==================================================================
+
+data = {"basic": [], "intermediate": [], "advanced": [], "upsc": upsc}
+
+all_q = upsc
+texts = [q["q"] for q in all_q]
+print("counts:", {k: len(v) for k, v in data.items()})
+print("total:", len(all_q))
+print("unique:", len(set(texts)))
+for q in all_q:
+    assert len(q["o"]) == 4, q["q"]
+    assert 0 <= q["a"] <= 3, q["q"]
+    assert len(set(q["o"])) == 4, ("duplicate option text!", q["q"])
+multi = sum(1 for q in all_q if "\n" in q["q"] or "List-" in q["q"] or "Assertion" in q["q"])
+print("multi-format %:", round(100*multi/len(all_q), 1))
+
+chapter = {
+    "id": "hot_desert_and_midlatitude_desert_climate",
+    "title": "The Hot Desert and Mid-Latitude Desert Climate",
+    "desc": "Regional climatology (from Goh Cheng Leong's Physical Geography, Ch.18, and NCERT XI Fundamentals of Physical Geography, Ch.12 'World Climate and Climate Change'): distribution of hot and mid-latitude deserts; rainfall mechanism (Horse Latitudes, cold currents) and temperature extremes; xerophytic vegetation adaptations; desert inhabitants (primitive hunters, nomadic herdsmen, caravan traders, settled cultivators, mining settlers); merged with NCERT's Koeppen classification and the corresponding Dry Climates (BSh, BWh, BSk, BWk) group",
+    "questions": data
+}
+
+with open("/sessions/vigilant-wonderful-volta/mnt/outputs/geo_ch18_desert_v2.json", "w") as f:
+    json.dump(chapter, f, indent=2, ensure_ascii=False)
+
+print("Saved.")
