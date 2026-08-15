@@ -1,0 +1,43 @@
+[Source: NCERT Class XI "Fundamentals of Physical Geography", Chapter 14 "Movements of Ocean Water". OCR-extracted excerpts on wave and tide mechanics, used to add precise terminology alongside Goh Cheng Leong's "Coastal Landforms" chapter.]
+
+WAVES
+Waves are actually the energy, not the water as such, which moves across the ocean surface. Water particles only travel in a small circle as a wave passes. Wind provides energy to the waves. Wind causes waves to travel in the ocean and the energy is released on shorelines. The motion of the surface water seldom affects the stagnant deep bottom water of the oceans. As a wave approaches the beach, it slows down. This is due to the friction occurring between the dynamic water and the sea floor. And, when the depth of water is less than half the wavelength of the wave, the wave breaks. The largest waves are found in the open oceans. Waves continue to grow larger as they move and absorb energy from the wind.
+
+Most of the waves are caused by the wind driving against water. When a breeze of two knots or less blows over calm water, small ripples form and grow as the wind speed increases until white caps appear in the breaking waves. Waves may travel thousands of km before rolling ashore, breaking and dissolving as surf.
+
+A wave's size and shape reveal its origin. Steep waves are fairly young ones and are probably formed by local wind. Slow and steady waves originate from far away places, possibly from another hemisphere. The maximum wave height is determined by the strength of the wind, i.e. how long it blows and the area over which it blows in a single direction.
+
+Waves travel because wind pushes the water body in its course while gravity pulls the crests of the waves downward. The falling water pushes the former troughs upward, and the wave moves to a new position. The actual motion of the water beneath the waves is circular. It indicates that things are carried up and forward as the wave approaches, and down and back as it passes.
+
+Characteristics of Waves:
+- Wave crest and trough: The highest and lowest points of a wave are called the crest and trough respectively.
+- Wave height: It is the vertical distance from the bottom of a trough to the top of a crest of a wave.
+- Wave amplitude: It is one-half of the wave height.
+- Wave period: It is merely the time interval between two successive wave crests or troughs as they pass a fixed point.
+- Wavelength: It is the horizontal distance between two successive crests.
+- Wave speed: It is the rate at which the wave moves through the water, and is measured in knots.
+- Wave frequency: It is the number of waves passing a given point during a one-second time interval.
+
+TIDES
+The periodical rise and fall of the sea level, once or twice a day, mainly due to the attraction of the sun and the moon, is called a tide. Movement of water caused by meteorological effects (winds and atmospheric pressure changes) are called surges — surges are not regular like tides.
+
+The moon's gravitational pull to a great extent, and to a lesser extent the sun's gravitational pull, are the major causes for the occurrence of tides. Another factor is centrifugal force, which acts to counter the balance of gravity. Together, the gravitational pull and the centrifugal force are responsible for creating two major tidal bulges on the earth. On the side of the earth facing the moon, a tidal bulge occurs because the gravitational attraction is greater than the centrifugal force there. On the opposite side of the earth, the attractive force is less (farther away), so the centrifugal force dominates, creating a second bulge away from the moon.
+
+Spring tides: When the sun, moon and earth are in a straight line, tide height is higher — these spring tides occur twice a month, once during full moon and once during new moon.
+
+Neap tides: Normally there is a seven-day interval between spring tides and neap tides. At this time the sun and moon are at right angles to each other, and their gravitational forces tend to counteract one another, producing a smaller tidal range.
+
+Perigee/Apogee effect: Once a month, when the moon's orbit is closest to earth (perigee), unusually high and low tides occur with a greater-than-normal tidal range. Two weeks later, when the moon is farthest from earth (apogee), the tidal range is less than average.
+
+Perihelion/Aphelion effect: When the earth is closest to the sun (perihelion, around 3rd January each year), tidal ranges are also much greater. When the earth is farthest from the sun (aphelion, around 4th July each year), tidal ranges are much less than average.
+
+Types of tides based on frequency:
+- Semi-diurnal tide: the most common tidal pattern, featuring two high tides and two low tides each day, of approximately the same height.
+- Diurnal tide: only one high tide and one low tide during each day, of approximately the same height.
+- Mixed tide: tides having variations in height, generally occurring along the west coast of North America and on many islands of the Pacific Ocean.
+
+The time between high tide and low tide, when the water level is falling, is called the ebb. The time between low tide and high tide, when the tide is rising, is called the flow or flood.
+
+Importance of Tides: Since tides are caused by earth-moon-sun positions which are known accurately, tides can be predicted well in advance, helping navigators and fishermen plan their activities. Tidal heights are especially important for harbours near rivers and within estuaries having shallow 'bars' at the entrance, which can prevent ships and boats from entering. Tides are also helpful in desilting sediments and removing polluted water from river estuaries, and are used to generate electrical (tidal) power, e.g. in Canada, France, Russia and China — a 3 MW tidal power project at Durgaduani in the Sunderbans of West Bengal is mentioned as being under way.
+
+Box note: The highest tides in the world occur in the Bay of Fundy in Nova Scotia, Canada, with a tidal bulge of 15-16 m.

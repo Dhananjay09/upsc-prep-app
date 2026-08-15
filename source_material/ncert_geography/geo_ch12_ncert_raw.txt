@@ -1,0 +1,44 @@
+[Source: NCERT Class XI "Fundamentals of Physical Geography", Chapter 13 "Water (Oceans)". OCR-extracted excerpts on ocean floor relief, thermocline, and salinity concepts, used to complement Goh Cheng Leong's "The Oceans" chapter. Note: where NCERT's specific numeric figures for named seas/lakes (e.g., exact salinity of the Red Sea or Dead Sea) differ slightly from Goh Cheng Leong's own figures, those specific disputed numbers have been deliberately left out of the question bank to avoid presenting conflicting "facts" as both true; only non-conflicting, complementary content is used below.]
+
+HYDROLOGICAL CYCLE AND WATER DISTRIBUTION
+About 71 per cent of the planetary water is found in the oceans; oceans hold about 97.28% of the total water on Earth's surface (Table 13.1: Oceans 1,370 million cubic km, ~97.28%; ice caps and glaciers ~2.08%; groundwater ~0.68%; lakes ~0.01%; soil moisture ~0.005%; atmosphere ~0.001%; streams and rivers ~0.0001%; biosphere ~0.00004%). Nearly 59 per cent of the water that falls on land returns to the atmosphere through evaporation. The renewable water on earth is constant while demand is increasing, causing water crises in different parts of the world.
+
+The geographers have divided the oceanic part of the earth into four oceans: the Pacific, the Atlantic, the Indian and the Arctic. (NCERT exercise: the smallest of these four oceans is the Arctic Ocean.)
+
+DIVISIONS OF THE OCEAN FLOOR
+The ocean floors can be divided into four MAJOR divisions: (i) the Continental Shelf; (ii) the Continental Slope; (iii) the Deep Sea Plain; (iv) the Oceanic Deeps (trenches). Besides these, there are also MINOR relief features of the ocean floor such as ridges, hills, seamounts, guyots, trenches, canyons, etc. (NCERT's own exercise MCQ identifies the Oceanic Deep as NOT a minor relief feature — unlike the seamount, atoll, and guyot, which ARE minor relief features — since oceanic deeps are one of the four major divisions.)
+
+Continental Shelf: the extended margin of each continent occupied by relatively shallow seas and gulfs; the shallowest part of the ocean, with an average gradient of 1° or even less. It typically ends at a very steep slope called the shelf break. Average width of continental shelves is about 80 km, though this varies greatly — the shelf is almost absent along coasts like Chile and Sumatra, while the Siberian shelf in the Arctic Ocean is the largest in the world, stretching to 1,500 km in width.
+
+Continental Slope: connects the continental shelf and the ocean basins; begins where the bottom of the continental shelf sharply drops off into a steep slope, with a gradient varying between 2° and 5°. According to NCERT's own exercise MCQ, the average depth of the continental slope varies between 200 and 2,000 metres. The slope boundary indicates the end of the continents; canyons and trenches are observed in this region.
+
+Deep Sea Plain: gently sloping areas of the ocean basins; the flattest and smoothest regions of the world, with depths varying between 3,000 and 6,000 m, covered with fine-grained sediments like clay and silt.
+
+Oceanic Deeps or Trenches: the deepest parts of the oceans; relatively steep-sided, narrow basins, some 3-5 km deeper than the surrounding ocean floor. They occur at the bases of continental slopes and along island arcs, and are associated with active volcanoes and strong earthquakes, making them significant for the study of plate movements. As many as 57 deeps have been explored so far, of which 32 are in the Pacific Ocean, 19 in the Atlantic Ocean, and 6 in the Indian Ocean.
+
+Minor Relief Features:
+- Mid-Oceanic Ridges: composed of two chains of mountains separated by a large depression; mountain ranges can have peaks as high as 2,500 m, some even reaching above the ocean's surface, e.g. Iceland, part of the Mid-Atlantic Ridge.
+- Seamount: a mountain with a pointed summit rising from the seafloor that does not reach the ocean's surface; volcanic in origin; can be 3,000-4,500 m tall, e.g. the Emperor Seamount (an extension of the Hawaiian Islands in the Pacific).
+- Submarine Canyons: deep valleys, some comparable to the Grand Canyon of the Colorado river, sometimes cutting across continental shelves and slopes, often extending from the mouths of large rivers; the Hudson Canyon is the best-known example in the world.
+- Guyot: a flat-topped seamount, showing evidence of gradual subsidence through stages to become a flat-topped submerged mountain. More than 10,000 seamounts and guyots are estimated to exist in the Pacific Ocean alone.
+- Atoll: low islands found in tropical oceans, consisting of coral reefs surrounding a central depression (lagoon), sometimes enclosing fresh, brackish, or highly saline water.
+
+THERMOCLINE AND OCEAN TEMPERATURE STRUCTURE
+The temperature-depth profile shows a boundary region (usually beginning 100-400 m below the sea surface, extending several hundred metres downward) where there is a rapid decrease of temperature — this boundary is called the thermocline. About 90 per cent of the total volume of ocean water is found below the thermocline, where temperatures approach 0°C.
+
+The temperature structure over middle and low latitudes can be described as a three-layer system: (1) a top warm layer, about 500 m thick, with temperatures between 20°C and 25°C, present year-round in the tropics but only during summer in mid-latitudes; (2) the thermocline layer below it, itself about 500-1,000 m thick, characterised by a rapid decrease in temperature with depth; (3) a third, very cold layer extending to the deep ocean floor. In the Arctic and Antarctic circles, only one layer of uniformly cold water exists from surface to floor, since there is very little temperature change with depth there.
+
+Factors affecting ocean temperature distribution include: latitude (temperature decreases poleward due to decreasing insolation); unequal distribution of land and water between hemispheres (the Northern Hemisphere, with more land, receives more heat); prevailing winds (offshore winds cause upwelling of cold water from below, lowering coastal temperature, while onshore winds pile up warm water near the coast, raising it); and ocean currents (warm currents raise coastal temperatures, e.g. the Gulf Stream near eastern North America and western Europe, while cold currents like the Labrador Current lower temperatures near north-east North America).
+
+SALINITY OF OCEAN WATER
+Salinity is the total content of dissolved salts in sea water, calculated as the amount of salt (in grams) dissolved in 1,000 grams of seawater, usually expressed in parts per thousand (ppt or ‰). A salinity of 24.7‰ is considered the upper limit demarcating 'brackish water'. The salinity for normal open ocean water ranges between 33‰ and 37‰.
+
+Factors affecting salinity include: the balance of evaporation and precipitation; freshwater inflow from rivers (especially in coastal regions) and freezing/thawing of ice (especially in polar regions); wind, which transfers water to other areas; and ocean currents, which contribute to salinity variation (since salinity, temperature and density of water are interrelated).
+
+Vertical distribution of salinity: salinity generally increases with depth, with a distinct zone called the halocline where salinity increases sharply. Higher-salinity, denser water sinks below lower-salinity water, leading to stratification by salinity. Salinity at great depth is very stable, since there is no mechanism there for water to be lost (evaporation) or salt to be added.
+
+NCERT Sample Objective Questions (Chapter 13 exercises):
+- "Identify the element which is NOT a part of the hydrological cycle" — Answer: Hydration (not evaporation, precipitation, or condensation, which are genuine components).
+- "Which one of the following is NOT a minor relief feature in the oceans?" — Answer: Oceanic Deep (a major division), as opposed to Seamount, Atoll, and Guyot, which are minor relief features.
+- "Salinity is expressed as the amount of salt in grams dissolved in sea water per" — Answer: 1,000 gm.
+- "Which one of the following is the smallest ocean?" — Answer: Arctic Ocean.
