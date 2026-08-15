@@ -1,0 +1,13 @@
+[Source: NCERT Class XI "Fundamentals of Physical Geography", Chapter 12 "World Climate and Climate Change" (Koeppen's classification, Polar Climates group E — Tundra ET and Ice Cap EF types). OCR-extracted excerpt used to complement Goh Cheng Leong's "The Arctic or Polar Climate" chapter — the final chapter in the current climate-types sequence. Same Koeppen chapter already used for Ch.15-24.]
+
+POLAR CLIMATES (Group E) — directly corresponds to Goh Cheng Leong's "The Arctic or Polar Climate"
+Polar climates exist poleward beyond 70° latitude. Polar climates consist of two types: (i) Tundra (ET); (ii) Ice Cap (EF).
+
+TUNDRA CLIMATE (ET)
+The tundra climate (ET) is so called after the types of vegetation found there, like low-growing mosses, lichens and flowering plants — matching Goh Cheng Leong's description of tundra vegetation (mosses, lichens, sedges, reindeer moss). This is the region of permafrost, where the sub-soil is permanently frozen. The short growing season and water-logging support only low-growing plants. During summer, the tundra regions have a very long duration of daylight — corroborating Goh Cheng Leong's account of the 'midnight sun' phenomenon.
+
+ICE CAP CLIMATE (EF)
+The ice cap climate (EF) occurs over interior Greenland and Antarctica. Even in summer, the temperature is below freezing point. This area receives very little precipitation. The snow and ice get accumulated, and the mounting pressure causes deformation of the ice sheets, which break apart and move as icebergs floating in the Arctic and Antarctic waters. Plateau Station, Antarctica (79°S), is cited as a representative example of this climate — corroborating Goh Cheng Leong's account of Antarctica's permanent ice-cap (up to 3,000 metres thick) as the greatest single stretch of ice-cap in the world.
+
+KOEPPEN CLASSIFICATION CONTEXT (recap, marking the conclusion of the world-climate-classification sequence used across Ch.15-25)
+Koeppen's five major climatic groups — A (Tropical), B (Dry), C (Warm Temperate/Mid-latitude), D (Cold Snow Forest), and E (Cold/Polar) — have now all been matched, group by group, to Goh Cheng Leong's regional climate-type chapters: A → Ch.15 (Af/Equatorial), Ch.16 (Am/Monsoon), Ch.17 (Aw/Savanna); B → Ch.18 (BSh/BWh/BSk/BWk/Desert), Ch.19 (Cs is technically Group C but shares the Mediterranean transitional character), Ch.20 (BSk/BWk/Steppe); C → Ch.19 (Cs/Mediterranean), Ch.21 (Cfa/China type), Ch.22 (Cfb/British type); D → Ch.23 (Dw/Siberian), Ch.24 (Df/Laurentian); E → Ch.25 (ET/EF/Arctic-Polar).

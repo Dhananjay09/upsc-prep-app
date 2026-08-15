@@ -1,0 +1,81 @@
+import json
+
+upsc = []
+
+# ==================================================================
+# SECTION 1: DISTRIBUTION
+# ==================================================================
+
+upsc.append({"q":"Which one of the following statements about the distribution of the Siberian (Cool Temperate Continental) Climate, per Goh Cheng Leong, is NOT correct?","o":["This climate is well developed in the southern hemisphere too, particularly across the broad east-west continental interiors of southern South America and southern Africa","This climate is experienced only in the northern hemisphere, where continents in high latitudes have a broad east-west spread","On its poleward side, it merges into the Arctic tundra of Canada and Eurasia around the Arctic Circle","In the southern hemisphere, coniferous forests occur only on mountainous uplands of southern Chile, New Zealand, Tasmania and south-east Australia, due to the narrowness of southern continents at high latitudes"],"a":0,"e":"This statement is incorrect and reverses the actual point — the text explicitly states the Siberian climate is 'conspicuously ABSENT in the southern hemisphere' precisely because southern continents are too NARROW at high latitudes, not broadly developed there. The other three statements are correct."})
+
+# ==================================================================
+# SECTION 2: TEMPERATURE
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements comparing Moscow and Churchill (Manitoba), per Goh Cheng Leong:\n1. Moscow's annual temperature range is about 30°C, while Churchill's is even greater, at about 40°C, due to Churchill's more northerly position.\n2. Verkhoyansk, Siberia, once recorded a temperature of -68°C, making it one of the coldest inhabited places on Earth, often called part of the 'cold pole of the earth'.\n3. In North America, temperature extremes are more severe than in Eurasia because of the continent's greater east-west stretch at high latitudes.\nWhich of the statements given above is/are correct?","o":["1 and 2 only","1 and 3 only","2 and 3 only","1, 2 and 3"],"a":0,"e":"Statement 3 is incorrect and reverses the actual point — the text explicitly states North American extremes are LESS severe than Eurasia's precisely BECAUSE the continent has a LESSER east-west stretch, not a greater one. Statements 1 and 2 are correct."})
+
+upsc.append({"q":"According to Goh Cheng Leong, approximately how much colder was the record low temperature at Verkhoyansk (-68°C) compared to Kuala Lumpur's typical temperature?","o":["About 94°C colder","About 50°C colder","About 150°C colder","About 30°C colder"],"a":0,"e":"The text explicitly states that Verkhoyansk's record of -68°C is 'in fact, 94°C colder than Kuala Lumpur', a vivid illustration of the extreme temperature contrast between the Siberian sub-Arctic climate and the equatorial climate."})
+
+# ==================================================================
+# SECTION 3: PRECIPITATION
+# ==================================================================
+
+upsc.append({"q":"Which one of the following statements about precipitation in the Siberian climate, per Goh Cheng Leong, is NOT correct?","o":["European U.S.S.R. generally receives less annual precipitation than Central Siberia or Canada, since it lies furthest from the moderating influence of the Westerlies","Eastern Siberia receives over 508 mm annually, being moistened by the South-East Monsoon from the Pacific Ocean","Central Siberia and Canada receive only about 380 mm annually, owing to continentality and lack of sea influence","Moscow's annual precipitation of 533 mm is mostly concentrated in the warmer months (June-September)"],"a":0,"e":"This statement is incorrect and reverses the actual pattern — the text explicitly states European U.S.S.R. usually has MORE than 508 mm of annual precipitation BECAUSE of on-coming Westerlies and periodic cyclone penetration, i.e. MORE (not less) than the more continental interior regions. The other three statements are correct."})
+
+upsc.append({"q":"Consider the following statements about snow in the Siberian climate, per Goh Cheng Leong:\n1. Permanent snowfields, similar to those of the Alps or Himalayas, are a defining feature of the Siberian taiga.\n2. Snow acts as a poor conductor of heat, protecting the ground from severe cold above, and provides vegetation with moisture upon melting in spring.\n3. Thawing of frozen rivers in spring causes a rise in water level and extensive flooding, with the lower courses of the Ob, Lena and Yenisey remaining marshy and ill-drained.\nWhich of the statements given above is/are correct?","o":["2 and 3 only","1 and 2 only","1 and 3 only","1, 2 and 3"],"a":0,"e":"Statement 1 is incorrect — the text explicitly states permanent snowfields like those of the Alps or Himalayas are ABSENT in the Siberian climate, since accumulated snow melts completely each spring/summer, unlike the Alps/Himalayas. Statements 2 and 3 are correct."})
+
+# ==================================================================
+# SECTION 4: NATURAL VEGETATION
+# ==================================================================
+
+upsc.append({"q":"Match List-I (Coniferous Adaptation) with List-II (Reason, per Goh Cheng Leong) and select the correct answer using the code below.\nList-I:\nA. Conical shape\nB. Small, thick, needle-shaped leaves\nC. Evergreen habit (not shedding annually)\nD. Sparse undergrowth\nList-II:\n1. Reduces transpiration during rapid summer heating\n2. Poor, acidic, leached podzolic soils and slow needle decomposition limit ground vegetation\n3. Prevents snow accumulation from snapping branches and offers little wind resistance\n4. Allows growth to begin immediately once the growing-point temperature is reached in spring\nCodes:","o":["A-3, B-1, C-4, D-2","A-1, B-3, C-4, D-2","A-3, B-1, C-2, D-4","A-4, B-1, C-3, D-2"],"a":0,"e":"The correct match is A-3, B-1, C-4, D-2: conical shape prevents snow-load damage; small needle-shaped leaves reduce transpiration; the evergreen habit lets growth resume instantly each spring; and sparse undergrowth results from poor, acidic, slowly-decomposing podzolic soils."})
+
+upsc.append({"q":"Which one of the following statements about coniferous forest vegetation, per Goh Cheng Leong, is NOT correct?","o":["Conifers replace their entire set of leaves annually, much like deciduous trees, with old needles falling each autumn and new ones growing each spring","The conifer has a two-year fructification cycle, with seeds pollinated in one year and dispersed the following year","The same leaf (needle) may remain on a conifer tree for as long as five years","Conifers are the dominant trees of mountainous districts in both temperate and tropical countries, wherever altitude sufficiently lowers the temperature"],"a":0,"e":"This statement is incorrect and reverses the actual point — the text explicitly states there is 'no annual replacement of new leaves as in deciduous trees'; the same conifer needle can remain on the tree for as long as five years, quite unlike deciduous trees' yearly leaf replacement. The other three statements are correct."})
+
+# ==================================================================
+# SECTION 5: ECONOMIC DEVELOPMENT — TRAPPING AND LUMBERING
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about fur trapping in the Siberian climate zone, per Goh Cheng Leong:\n1. Wherever winters are keenest, fur quality and thickness increase, so the most severe winters produce the finest, most valuable furs.\n2. Mink, beaver, muskrat, ermine and silver fox are among the most important fur-bearing animals sought in Canada.\n3. In recent times, fur farming (captive breeding) has largely replaced the hunting of wild animals in many parts of both Canada and Siberia.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching the text's account of the relationship between winter severity and fur quality, the named Canadian fur species, and the shift towards fur farming in both Canada and Siberia."})
+
+upsc.append({"q":"Which one of the following statements about the lumbering industry in the coniferous forest belt, per Goh Cheng Leong, is NOT correct?","o":["Lumbering is normally carried out in summer, when rivers are ice-free and logs can be floated downstream immediately after felling","Lumbering is normally carried out in winter, when the sap ceases to flow, making felling simpler, and snow-covered ground eases logging and haulage","Canada is the world's leading producer of newsprint, accounting for about 36 per cent of the world's total annual production","Over the greater part of Siberia, rivers drain polewards into the Arctic Ocean, which remains frozen for about three-quarters of the year, limiting the development of sawmills there"],"a":0,"e":"This statement is incorrect and reverses the actual practice — the text explicitly states lumbering is normally carried out in WINTER (not summer), when the sap ceases to flow and snow-covered ground eases logging; the felled logs are then floated downstream only later, when rivers thaw in spring. The other three statements are correct."})
+
+upsc.append({"q":"According to Goh Cheng Leong, in the production of newsprint versus wood pulp among the world's softwood producers, which country leads in each respectively?","o":["Canada leads in newsprint production; the U.S.A. leads in wood pulp production","The U.S.A. leads in newsprint production; Canada leads in wood pulp production","The U.S.S.R. leads in both newsprint and wood pulp production","Sweden leads in both newsprint and wood pulp production"],"a":0,"e":"The text explicitly states that in wood pulp production the U.S.A. is the leader, while in newsprint, Canada has outstripped all other producers with 36 per cent of world output — not the reverse pairing, nor the U.S.S.R. or Sweden leading in both (Sweden is instead noted for matches as a major export item)."})
+
+# ==================================================================
+# SECTION 6: NCERT — KOEPPEN'S COLD CLIMATE WITH DRY WINTERS (Dw)
+# ==================================================================
+
+upsc.append({"q":"Consider the following statements about the Cold Climate with Dry Winters (Dw), per NCERT's presentation of Koeppen's classification — which directly corresponds to Goh Cheng Leong's 'Cool Temperate Continental (Siberian) Climate':\n1. It occurs mainly over north-eastern Asia, where a pronounced winter anticyclone develops and weakens in summer, producing a monsoon-like seasonal wind reversal.\n2. Many locations in this climate experience below-freezing-point temperatures for up to seven months of the year.\n3. Annual precipitation in this climate is generally low, in the range of 12-15 cm.\nWhich of the statements given above is/are correct?","o":["1, 2 and 3","1 and 2 only","2 and 3 only","1 and 3 only"],"a":0,"e":"All three statements are correct, matching NCERT's account of the Dw climate's north-east Asian location, its monsoon-like winter/summer wind reversal, and its extended sub-freezing season and low precipitation — corroborating Goh Cheng Leong's own account of Siberian rivers frozen for up to seven months and generally low continental precipitation."})
+
+upsc.append({"q":"Assertion (A): NCERT's stated annual precipitation figure for the Dw climate (12-15 cm) is markedly lower than Goh Cheng Leong's figures for Moscow (533 mm) and Churchill (406 mm).\nReason (R): NCERT's Dw figure describes the driest, most continental interior portions of the broader Siberian climate belt, whereas Moscow and Churchill are relatively less continental representative stations within that same broad climate type, as Goh Cheng Leong himself notes for Central Siberia/Canada versus European U.S.S.R./Eastern Siberia.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?","o":["Both A and R are true, and R is the correct explanation of A","Both A and R are true, but R is NOT the correct explanation of A","A is true, but R is false","A is false, but R is true"],"a":0,"e":"Both are true and R explains A — Goh Cheng Leong himself documents wide precipitation variation within the Siberian climate belt (Central Siberia/Canada around 380 mm, dropping to 305 mm or less further poleward/southward, versus higher figures near maritime-influenced margins), so NCERT's lower Dw figure describing the driest continental interior is a complementary detail, not a contradiction."})
+
+# ==================================================================
+# ASSEMBLY & VALIDATION
+# ==================================================================
+
+data = {"basic": [], "intermediate": [], "advanced": [], "upsc": upsc}
+
+all_q = upsc
+texts = [q["q"] for q in all_q]
+print("counts:", {k: len(v) for k, v in data.items()})
+print("total:", len(all_q))
+print("unique:", len(set(texts)))
+for q in all_q:
+    assert len(q["o"]) == 4, q["q"]
+    assert 0 <= q["a"] <= 3, q["q"]
+    assert len(set(q["o"])) == 4, ("duplicate option text!", q["q"])
+multi = sum(1 for q in all_q if "\n" in q["q"] or "List-" in q["q"] or "Assertion" in q["q"])
+print("multi-format %:", round(100*multi/len(all_q), 1))
+
+chapter = {
+    "id": "cool_temperate_continental_siberian_climate",
+    "title": "The Cool Temperate Continental (Siberian) Climate",
+    "desc": "Regional climatology (from Goh Cheng Leong's Physical Geography, Ch.23, and NCERT XI Fundamentals of Physical Geography, Ch.12 'World Climate and Climate Change'): distribution of the taiga/sub-Arctic climate; extreme temperature ranges (Moscow, Churchill, Verkhoyansk); precipitation patterns and snow; coniferous forest adaptations (conical shape, needle leaves, evergreen habit); fur trapping and lumbering economies; merged with NCERT's Koeppen classification and the corresponding Cold Climate with Dry Winters (Dw) type",
+    "questions": data
+}
+
+with open("/sessions/vigilant-wonderful-volta/mnt/outputs/geo_ch23_siberian_v2.json", "w") as f:
+    json.dump(chapter, f, indent=2, ensure_ascii=False)
+
+print("Saved.")

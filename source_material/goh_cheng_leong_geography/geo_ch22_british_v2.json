@@ -1,0 +1,144 @@
+{
+  "id": "cool_temperate_western_margin_british_type_climate",
+  "title": "The Cool Temperate Western Margin (British Type) Climate",
+  "desc": "Regional climatology (from Goh Cheng Leong's Physical Geography, Ch.22, and NCERT XI Fundamentals of Physical Geography, Ch.12 'World Climate and Climate Change'): distribution of the British type climate; temperature/precipitation contrasts (London vs Hobart) and rainfall variation with relief; deciduous forest vegetation; economic activities including market gardening, mixed farming, dairying, sheep rearing, potato and sugar-beet cultivation; merged with NCERT's Koeppen classification and the corresponding Marine West Coast (Cfb) climate type",
+  "questions": {
+    "basic": [],
+    "intermediate": [],
+    "advanced": [],
+    "upsc": [
+      {
+        "q": "Which one of the following statements about the distribution of the British type climate, per Goh Cheng Leong, is NOT correct?",
+        "o": [
+          "In North America, the British type climate extends deep into the continental interior, since the low Appalachian relief allows the Westerlies to penetrate freely",
+          "In the northern hemisphere, besides Britain, the belt stretches into north-west Europe, including northern/western France, Belgium, the Netherlands, Denmark, western Norway and north-western Iberia",
+          "In the southern hemisphere, the climate is experienced in southern Chile, Tasmania and most of New Zealand, particularly South Island",
+          "This climate is under the permanent influence of the Westerlies and is a region of much cyclonic activity"
+        ],
+        "a": 0,
+        "e": "This statement is incorrect and reverses the actual geography — in North America, the text states it is the HIGH Rockies (not any low relief) that PREVENT the on-shore Westerlies from penetrating far inland, confining the British type climate mainly to the coastlands of British Columbia. The other three statements are correct."
+      },
+      {
+        "q": "Consider the following statements comparing London and Hobart (Tasmania), per Goh Cheng Leong:\n1. London's annual temperature range is about 13°C, while Hobart's is smaller still, at about 9°C.\n2. Hobart's small range is attributed to the near-total lack of continental land masses around Tasmania, New Zealand and southern Chile, making insularity the overriding factor.\n3. Both London and Hobart happen to record exactly the same annual precipitation figure, 610 mm, in the text's illustrative data.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct, matching the text's specific figures for London and Hobart, and its explanation that insularity (lack of continental landmass) makes the southern hemisphere British-type climate even more equable than its northern counterpart."
+      },
+      {
+        "q": "Which one of the following statements about winter conditions in north-western Europe, per Goh Cheng Leong, is NOT correct?",
+        "o": [
+          "No stations in north-western Europe actually record mean January temperatures below freezing point, mainly because of the warming effect of the cold Labrador Current",
+          "Coastal stations of the region are estimated to be almost 14°C warmer in January than corresponding-latitude stations in continental interiors",
+          "Night frosts do occur in winter, and snow does fall, despite the generally mild character of the season",
+          "Occasional cool spells, caused by invasions of cold polar continental air from the interior, can affect the western margins for a number of weeks"
+        ],
+        "a": 0,
+        "e": "This statement is incorrect and reverses the actual mechanism — the mild winters are attributed to the WARM North Atlantic Drift and the prevailing South-Westerlies, not the cold Labrador Current (which, notably, is invoked elsewhere in the book to explain why Montreal is colder than London at a similar latitude). The other three statements are correct."
+      },
+      {
+        "q": "Consider the following statements about rainfall variation within the British type climate, per Goh Cheng Leong:\n1. The western slopes of the Southern Alps of New Zealand's South Island receive as much as 5,080 mm of rainfall, mainly orographic, while the rain-shadow Canterbury Plain receives only about 635 mm.\n2. Britain's Lake District receives well over 2,540 mm of rainfall, compared to only 610 mm in East Anglia.\n3. Generally, eastern coastal stations of the British-type climate zone are wetter than western coastal stations, since rain-bearing winds approach from the east.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect and reverses the actual pattern — the text explicitly states rain-bearing winds come from the WEST, so WESTERN margins/coastal stations have the heaviest rainfall, decreasing eastwards inland, not the reverse. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Which one of the following statements about deciduous forest vegetation in the British type climate, per Goh Cheng Leong, is NOT correct?",
+        "o": [
+          "Deciduous trees typically have thick, waxy, drought-resistant leaves that remain on the tree throughout the year to survive the long summer dry season",
+          "Trees shed their leaves in the cold season as an adaptation to protect themselves against winter snow and frost, a process beginning in autumn ('fall')",
+          "The deciduous forests occur in comparatively pure stands, making them more valuable commercially than the equatorial forest for lumbering purposes",
+          "Higher up mountains such as the Scandinavian Highlands and the Rockies, deciduous trees are generally replaced by conifers that can survive higher altitude, lower temperature and poorer soils"
+        ],
+        "a": 0,
+        "e": "This statement is incorrect — the text explicitly states deciduous leaves are thin and delicate, requiring NO protective devices against drought (unlike Mediterranean or desert vegetation), since they remain on the trees only during the warmer part of the year and are shed entirely in the cold season, not retained year-round. The other three statements are correct."
+      },
+      {
+        "q": "Consider the following statements about market gardening (truck farming) in north-western Europe, per Goh Cheng Leong:\n1. It is highly specialized due to the region's dense urban population and high industrialization, creating strong demand for fresh perishable produce.\n2. Perishable produce is typically transported by high-speed trucks or vans rather than by ship, given the need for freshness.\n3. Examples cited include the Vales of York and Evesham in the United Kingdom, and specialized horticulture (tulips/bulbs) in the Netherlands.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1, 2 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only"
+        ],
+        "a": 0,
+        "e": "All three statements are correct, matching the text's account of market gardening's causes, its transport logistics, and its specific named regional examples in the U.K. and Netherlands."
+      },
+      {
+        "q": "Which one of the following statements about mixed farming in Britain and north-western Europe, per Goh Cheng Leong, is NOT correct?",
+        "o": [
+          "Wheat grown in the region is now largely exported in bulk to the New World, since local demand has fallen sharply with de-industrialization",
+          "Malting barley for beer/whisky is preferably grown in drier areas such as south-eastern Britain, near hop-growing regions receiving less than 760 mm of rainfall",
+          "North-western Europe was originally home to renowned dairy cattle breeds such as Guernsey, Ayrshire and Friesian",
+          "Cheese is a specialized product of the Netherlands (Edam, Gouda), while Denmark is renowned for high-quality butter exports"
+        ],
+        "a": 0,
+        "e": "This statement is incorrect and reverses the actual trend — the text states wheat is now largely a NET IMPORT item in Europe, since competition from New World wheat lands forced European farmers to shift towards market gardening, dairying, or more intensive mixed farming, not that Europe exports wheat in bulk. The other three statements are correct."
+      },
+      {
+        "q": "According to Goh Cheng Leong, what is 'dredge corn', and how is it typically used?",
+        "o": [
+          "A mixture of barley and oats grown as animal fodder, raised in crop rotation with a leguminous crop and a root crop",
+          "A high-quality malting barley reserved exclusively for whisky distilling in south-eastern Britain",
+          "A hybrid wheat variety developed for the wetter, colder regions of Britain unsuitable for standard wheat",
+          "A term for potatoes grown specifically as a substitute for bread in years of poor wheat harvest"
+        ],
+        "a": 0,
+        "e": "The text explicitly defines 'dredge corn' as barley mixed with oats, grown as animal fodder on heavy soils or wetter regions, raised in rotation with a leguminous crop (beans/clover) and a root crop (turnips/sugar-beet) — not a malting barley, a wheat hybrid, or a potato-based bread substitute."
+      },
+      {
+        "q": "Consider the following statements about sheep rearing in the British type climate, per Goh Cheng Leong:\n1. Britain is home to dual-purpose sheep breeds such as Leicester, Lincolns and Southdowns, noted for both mutton and wool.\n2. Britain today remains a major net exporter of wool and mutton, owing to its extensive upland sheep pastures.\n3. New Zealand, with only about 6 per cent of the world's sheep population, accounts for roughly two-thirds of the world's mutton exports and one-sixth of wool exports.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 3 only",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 2 is incorrect — the text explicitly states Britain today has NEITHER surplus wool NOR mutton for export, having instead become an exporter of pedigree breeding animals to newer sheep lands, due to greater population pressure and more intensive land use. Statements 1 and 3 are correct."
+      },
+      {
+        "q": "Which one of the following statements about sugar-beet cultivation, per Goh Cheng Leong, is NOT correct?",
+        "o": [
+          "Sugar-beet cultivation in Europe began primarily as a response to abundant, cheap tropical cane sugar imports flooding European markets in the eighteenth century",
+          "The crop's development was spurred by Napoleonic-era military blockades around 1800, which caused sugar scarcity and drove governments to seek self-sufficiency",
+          "The crop thrives best in the warmer, drier east of Britain and mainland Europe, with the highest sugar yield obtained when autumn is dry and sunny",
+          "The beet is crushed for sugar while its green tops are used as animal fodder"
+        ],
+        "a": 0,
+        "e": "This statement is incorrect and reverses the actual cause — the crop developed as a response to a SCARCITY (not abundance) of imported sugar, caused by Napoleonic-era blockades that cut off tropical cane sugar supplies, driving European self-sufficiency efforts. The other three statements are correct."
+      },
+      {
+        "q": "Consider the following statements about the Marine West Coast (Cfb) climate, per NCERT's presentation of Koeppen's classification — which directly corresponds to Goh Cheng Leong's 'Cool Temperate Western Margin (British Type) Climate':\n1. It is located poleward from the Mediterranean climate on the west coast of continents, including north-western Europe, the west coast of North America north of California, southern Chile, south-eastern Australia and New Zealand.\n2. Due to marine influence, winter temperatures are warmer than expected for the latitude, with small annual and daily temperature ranges.\n3. Precipitation is concentrated almost entirely in winter, with summers experiencing a pronounced dry season similar to the Mediterranean climate.\nWhich of the statements given above is/are correct?",
+        "o": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "a": 0,
+        "e": "Statement 3 is incorrect — NCERT states precipitation in the Cfb climate occurs THROUGHOUT THE YEAR (varying from 50-250 cm), not concentrated in winter with a Mediterranean-style summer drought; Goh Cheng Leong likewise describes only a 'slight' winter/autumn maximum, with adequate rain year-round. Statements 1 and 2 are correct."
+      },
+      {
+        "q": "Assertion (A): The mean summer temperature range given by NCERT for the Cfb (Marine West Coast) climate, 15°-20°C, is broadly consistent with Goh Cheng Leong's observation that British-type summers are 'never very warm', with mid-summer temperatures over 18°C being rare.\nReason (R): Both sources attribute the moderate, narrow-ranged temperatures of this climate to strong maritime/oceanic influence overriding continental extremes.\nWhich one of the following is correct in respect of the above Assertion (A) and Reason (R)?",
+        "o": [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is NOT the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        "a": 0,
+        "e": "Both are true and R explains A — NCERT's 15°-20°C summer range and Goh Cheng Leong's description of mild, rarely-hot summers are consistent, independent descriptions of the same underlying cause: dominant maritime influence keeping temperatures moderate and narrow-ranged throughout the year in this climate type."
+      }
+    ]
+  }
+}
