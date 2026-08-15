@@ -1,0 +1,36 @@
+[Source: NCERT Class XI "Fundamentals of Physical Geography", Chapter 12 "World Climate and Climate Change". OCR-extracted excerpts on Koeppen's classification scheme and the Tropical Wet (Af) climate type, used to complement Goh Cheng Leong's "The Hot, Wet Equatorial Climate" chapter. NOTE: Koeppen's full classification table (covering Am, Aw, BS/BW, C-types, D-types, E-types) is saved here in full for reuse across the remaining pending climate-type chapters (Tropical Monsoon=Am, Savanna=Aw, Hot Desert=BWh/BSh/BWk/BSk, Mediterranean=Cs, Steppe=BS/BWk, China Type=Cfa, British Type=Cfb, Siberian=Dw, Laurentian=Df, Arctic/Polar=ET/EF), so it need not be re-OCR'd each time.]
+
+KOEPPEN'S SCHEME OF CLASSIFICATION OF CLIMATE
+Three broad approaches have been adopted for classifying climate: empirical (based on observed data, particularly temperature and precipitation), genetic (organises climates according to their causes), and applied (for specific purposes). The most widely used classification is the empirical scheme developed by V. Koeppen, who identified a close relationship between the distribution of vegetation and climate. Developed in 1918 and modified over time, Koeppen's scheme is still popular and in use. He selected values of temperature and precipitation, related them to vegetation distribution, and used capital and small letters to designate climatic groups and types.
+
+Koeppen recognised five major climatic groups, four based on temperature and one on precipitation:
+A - Tropical: average temperature of the coldest month is 18°C or higher
+B - Dry Climates: potential evaporation exceeds precipitation
+C - Warm Temperate (Mid-latitude): average temperature of the coldest month is higher than minus 3°C but below 18°C
+D - Cold Snow Forest Climates: average temperature of the coldest month is minus 3°C or below
+E - Cold Climates: average temperature for all months is below 10°C
+H - Highland: cold due to elevation
+
+Climatic groups are subdivided into types using small letters based on seasonality: f = no dry season, m = monsoon climate, w = winter dry season, s = summer dry season. Small letters a, b, c, d refer to degree of severity of temperature. B-Dry Climates are subdivided using capital S (steppe/semi-arid) and W (desert).
+
+FULL CLIMATIC TYPES TABLE (per Koeppen, for reference across all pending climate chapters):
+A-Tropical Humid Climate: Tropical wet (Af, no dry season); Tropical monsoon (Am, monsoonal short dry season); Tropical wet and dry (Aw, winter dry season)
+B-Dry Climate: Subtropical steppe (BSh, low-latitude semi-arid); Subtropical desert (BWh, low-latitude arid); Mid-latitude steppe (BSk, mid-latitude semi-arid); Mid-latitude desert (BWk, mid-latitude arid)
+C-Warm Temperate (Mid-latitude): Humid subtropical (Cwa, dry winter/hot summer); Mediterranean (Cs, dry hot summer); Humid subtropical (Cfa, no dry season, warm summer); Marine west coast (Cfb, no dry season, warm/cool summer)
+D-Cold Snow-forest Climates: Humid continental (Df, no dry season, severe winter); Subarctic (Dw, winter dry and very severe)
+E-Cold Climates: Tundra (ET, no true summer); Polar ice cap (EF, perennial ice)
+
+GROUP A: TROPICAL HUMID CLIMATES
+Tropical humid climates exist between the Tropic of Cancer and Tropic of Capricorn. The sun being overhead throughout the year and the presence of the Inter-Tropical Convergence Zone (ITCZ) make the climate hot and humid. Annual range of temperature is very low and annual rainfall is high.
+
+TROPICAL WET CLIMATE (Af) — directly corresponds to Goh Cheng Leong's "Hot, Wet Equatorial Climate"
+Tropical wet climate is found near the equator. The major areas are the Amazon Basin in South America, western equatorial Africa, and the islands of the East Indies. Significant rainfall occurs in every month of the year, mostly as thunder showers in the afternoon. Temperature is uniformly high and the annual range of temperature is negligible. The maximum temperature on any day is around 30°C while the minimum is around 20°C. Tropical evergreen forests with dense canopy cover and large biodiversity are found in this climate.
+
+(For reference only, not to be used in Ch.15 — reserved for future chapters:)
+Tropical Monsoon Climate (Am): found over the Indian sub-continent, North Eastern South America, and Northern Australia. Heavy rainfall mostly in summer; winter is dry.
+Tropical Wet and Dry Climate (Aw): occurs north and south of Af regions, bordering BW/Cf climates; found north/south of the Amazon forest, Sudan, south-central Africa. Annual rainfall considerably less than Af/Am and variable; wet season shorter, dry season longer with more severe drought; temperature high throughout the year with greatest diurnal range in the dry season. Deciduous forest and tree-shredded grassland occur here.
+
+MULTIPLE CHOICE QUESTIONS FROM NCERT'S OWN CHAPTER-END EXERCISE (Ch.12):
+- Which one of the following is suitable for Koeppen's "A" type of climate? (Answer: mean monthly temperature of all months more than 18°C)
+- Koeppen's system of classification of climates can be termed as: Empirical (not applied, systematic, or genetic)
+- Most of the Indian Peninsula is grouped, according to Koeppen's system, under "Am" (Tropical Monsoon) — reserved for the Tropical Monsoon chapter, not used here.
