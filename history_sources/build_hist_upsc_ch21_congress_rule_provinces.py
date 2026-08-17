@@ -1,0 +1,54 @@
+import json
+
+qs = []
+
+qs.append({"q":"Following the 1937 provincial elections, Congress ministries were formed in which of the following provinces (initially, and later)?","o":["Bombay, Madras, Central Provinces, Orissa, United Provinces, Bihar, and later NWFP and Assam","Only Bengal, Punjab and Sindh","Only in Muslim-majority provinces","All eleven provinces uniformly from the start"],"a":0,"e":"Congress ministries were formed in Bombay, Madras, Central Provinces, Orissa, United Provinces and Bihar initially, with NWFP and Assam following later."})
+
+qs.append({"q":"Gandhi advised Congressmen who took ministerial office to treat it as:","o":["'Crowns of thorns', to be held lightly and not tightly","A permanent prize to be defended at all costs","A purely ceremonial position with no real responsibility","An opportunity for personal enrichment"],"a":0,"e":"Gandhi urged Congress ministers to hold office lightly, viewing it as a 'crown of thorns' accepted only to test whether it could advance the nationalist cause, not as an end in itself."})
+
+qs.append({"q":"Which of the following measures did the Congress ministries take to ease curbs on civil liberties?\n1. Repeal of laws granting emergency powers.\n2. Lifting bans on organisations like the Hindustan Seva Dal and Youth Leagues.\n3. Release of political prisoners and revocation of deportation orders.\n4. Restoration of confiscated lands in Bombay taken during the Civil Disobedience Movement.\nHow many of the above are correctly listed as civil liberties measures?","o":["All four","Only three","Only two","Only one"],"a":0,"e":"All four measures — repealing emergency laws, lifting bans on organisations, releasing political prisoners, and restoring confiscated lands — reflect the civil liberties reforms undertaken by Congress ministries."})
+
+qs.append({"q":"Despite generally liberalising civil liberties, which of the following incidents is cited as a blemish on Congress ministries' record?","o":["The Madras government arrested socialists Yusuf Maherally and S.S. Batliwala for inflammatory/seditious speeches","The Bombay government banned all trade unions outright","No political prisoners were ever released by any Congress ministry","The Bihar government reinstated the Rowlatt Act provisions"],"a":0,"e":"The arrests of socialists Yusuf Maherally and S.S. Batliwala by the Madras government, and K.M. Munshi's use of the CID against communists in Bombay, are cited as blemishes on the Congress ministries' civil liberties record."})
+
+qs.append({"q":"Which of the following constraints limited the Congress ministries from undertaking a complete overhaul of the agrarian structure, such as abolishing zamindari entirely?","o":["Inadequate powers and financial resources, the need to conciliate landlord-dominated legislative councils, and the approach of the Second World War","Complete absence of any interest in agrarian reform","A total lack of legislative majority in any province","British refusal to allow any land-related legislation whatsoever"],"a":0,"e":"Constraints included limited ministerial powers, inadequate finances (most revenue going to the central government), the need to conciliate zamindar-dominated legislative councils, and looming war clouds around 1938, which together prevented radical agrarian restructuring."})
+
+qs.append({"q":"Regarding the benefits of the agrarian reforms undertaken by Congress ministries, which of the following is correct?","o":["Most benefits went to statutory and occupancy tenants, while sub-tenants and unmobilised agricultural labourers gained little","All classes of peasants, including agricultural labourers, benefited equally","Only zamindars benefited from the reforms","No agrarian legislation was passed at all during this period"],"a":0,"e":"The reforms mainly benefited statutory and occupancy tenants; sub-tenants saw little improvement, and agricultural labourers, not being organised or mobilised, largely missed out on gains."})
+
+qs.append({"q":"The Congress ministries' approach to labour issues was primarily aimed at:","o":["Advancing workers' interests while promoting industrial peace through compulsory arbitration and conciliation machinery","Suppressing all trade union activity entirely","Fully nationalising all private industries immediately","Ignoring labour issues altogether"],"a":0,"e":"The ministries sought to balance worker welfare with industrial peace, encouraging arbitration and conciliation rather than strikes, though this drew criticism from more militant leftist quarters."})
+
+qs.append({"q":"Which of the following social welfare reforms were undertaken by the Congress ministries?\n1. Measures for Harijan welfare including temple entry and public facility access.\n2. Prohibition imposed in certain areas.\n3. Encouragement of khadi through subsidies.\n4. Complete nationalisation of all banking institutions.\nHow many of the above are correctly identified as Congress ministry reforms?","o":["Only three","All four","Only two","Only one"],"a":0,"e":"Statements 1, 2 and 3 correctly describe Congress ministry welfare reforms; nationalisation of banking was never part of the provincial ministries' agenda under the 1935 Act's limited powers."})
+
+qs.append({"q":"The National Planning Committee, aimed at developing planning for India's future economic development, was set up in 1938 under which Congress president?","o":["Subhash Chandra Bose","Jawaharlal Nehru","Rajendra Prasad","Maulana Azad"],"a":0,"e":"Subhash Chandra Bose, as Congress president, established the National Planning Committee in 1938 to lay groundwork for future economic planning."})
+
+qs.append({"q":"Which of the following was an example of extra-parliamentary mass activity undertaken by Congress during its rule in the provinces?","o":["Mass literacy campaigns, Congress police stations and panchayats, and Congress Grievance Committees","Direct armed confrontation with British forces","Formal alliance with the Muslim League government","Complete withdrawal from all provincial governance"],"a":0,"e":"Congress supplemented formal governance with mass mobilisation efforts such as literacy campaigns, community panchayats, and grievance committees that bypassed formal bureaucratic channels."})
+
+qs.append({"q":"Which of the following is identified as a positive achievement of the 28-month period of Congress rule in the provinces?","o":["It demonstrated that a movement could use state power to further its ends without being co-opted, and further weakened the myth that Indians were unfit to rule","It proved conclusively that dominion status was preferable to complete independence","It eliminated all communal tensions in Indian society","It fully abolished the zamindari system nationwide"],"a":0,"e":"Congress rule showed that nationalist forces could wield state power constructively without losing their political identity, while also demonstrating administrative competence that undermined colonial claims of Indian unfitness for self-rule."})
+
+qs.append({"q":"The Congress ministries resigned from office in:","o":["October 1939, following the outbreak of the Second World War","1937, immediately after being elected","1940, after the Lahore Resolution","1942, at the start of the Quit India Movement"],"a":0,"e":"Congress ministries resigned in October 1939, protesting the Viceroy's unilateral declaration of India's participation in World War II without consulting Indian representatives."})
+
+qs.append({"q":"An apparent 'anti-labour shift' in Congress attitudes during this period was reflected in which piece of provincial legislation, passed in Bombay in 1938?","o":["The Bombay Trade Disputes Act","The Bombay Industrial Peace Act","The Bombay Labour Welfare Act","The Bombay Factory Reform Act"],"a":0,"e":"The Bombay Trade Disputes Act (1938) reflected growing tension between the Congress's closer ties with Indian capitalists and rising labour militancy, seen by critics as an anti-labour shift."})
+
+qs.append({"q":"The All India Muslim League, dissatisfied with the Congress's refusal to share power, established which committee in 1938 to document alleged atrocities by Congress ministries against Muslims?","o":["The Pirpur Committee","The Lothian Committee","The Hunter Committee","The Mudiman Committee"],"a":0,"e":"The Muslim League's Pirpur Committee (1938) compiled a report alleging Congress interference in religious practices, suppression of Urdu, and economic and political discrimination against Muslims."})
+
+qs.append({"q":"Which of the following charges did the Pirpur Committee report level against Congress ministries?","o":["Interference in religious rites, suppression of Urdu in favour of Hindi, and denial of proper representation to Muslims","Excessive support for Muslim League candidates in elections","Failure to implement any agrarian reforms whatsoever","Complete abolition of separate electorates for all minorities"],"a":0,"e":"The Pirpur Committee accused Congress ministries of religious interference, favouring Hindi over Urdu, and denying Muslims adequate political and economic representation — allegations that deepened communal distrust."})
+
+qs.append({"q":"Which of the following best summarises the overall significance of the 28-month period of Congress rule in the provinces, as assessed in the chapter?","o":["It confirmed that Indian self-government was necessary for social transformation, while also revealing the genuine difficulties of governing within a colonial constitutional framework amid high popular expectations","It proved that colonial administration was entirely superior to any form of Indian self-rule","It resulted in the immediate abolition of British rule in India","It had no lasting political or administrative significance"],"a":0,"e":"The period demonstrated both the possibilities and limits of governance under colonial constraints — validating self-government's necessity for real transformation while exposing the practical challenges of meeting the high expectations of diverse social groups within a limited constitutional framework."})
+
+for q in qs:
+    assert len(q["o"]) == 4, q["q"]
+    assert 0 <= q["a"] <= 3
+    assert len(set(q["o"])) == 4, q["q"]
+
+print(f"Total questions: {len(qs)}")
+
+out = {
+    "id": "hist_upsc_congress_rule_provinces",
+    "title": "Congress Rule in Provinces",
+    "desc": "Congress ministries (1937-39), Gandhi's advice on office-holding, civil liberties and agrarian reforms, labour policy, social welfare measures, and the Pirpur Committee's allegations",
+    "questions": qs
+}
+
+with open("/sessions/vigilant-wonderful-volta/mnt/outputs/hist_upsc_ch21_congress_rule_provinces.json", "w", encoding="utf-8") as f:
+    json.dump(out, f, ensure_ascii=False, indent=2)
+
+print("Saved.")

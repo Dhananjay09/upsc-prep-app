@@ -1,0 +1,502 @@
+{
+  "id": "hist_upsc_nationalist_response_wwii",
+  "title": "Nationalist Response in the Wake of World War II",
+  "desc": "Congress crisis over Bose's presidency (Haripura, Tripuri), Gandhi-Bose ideological differences, Congress ministries' resignation, Wardha CWC debates, Lahore/Pakistan Resolution, August Offer, Individual Satyagraha, and the Cripps Mission",
+  "questions": [
+    {
+      "q": "What was the primary source of internal disarray within the Congress in the aftermath of the Civil Disobedience Movement, as perceived by Gandhi?",
+      "o": [
+        "Rising corruption, indiscipline, rivalries among leaders, and issues of bogus membership",
+        "A complete lack of funds to run the organisation",
+        "Disagreement over whether to support the British monarchy",
+        "The refusal of provincial governments to cooperate with the Congress"
+      ],
+      "a": 0,
+      "e": "Gandhi perceived rising corruption and indiscipline, petty rivalries among leaders, and issues of bogus membership and unethical means used to control Congress committees."
+    },
+    {
+      "q": "At the Haripura Congress session (February 1938), Subhash Chandra Bose, as president, was instrumental in setting up which body for the country's economic development?",
+      "o": [
+        "The National Planning Committee",
+        "The Reserve Bank of India",
+        "The Planning Commission of independent India",
+        "The Indian Statistical Institute"
+      ],
+      "a": 0,
+      "e": "At Haripura, Bose spoke of economic development through planning and was instrumental in setting up the National Planning Committee."
+    },
+    {
+      "q": "Regarding the 1939 Congress presidential election, which of the following is correct?",
+      "o": [
+        "Subhash Bose defeated Gandhi's preferred candidate Pattabhi Sitaramayya by 1580 votes to 1377, with support from the Congress Socialist Party and communists",
+        "Pattabhi Sitaramayya defeated Bose decisively with an overwhelming majority",
+        "The election was cancelled due to procedural irregularities",
+        "Nehru contested and won the presidency unopposed"
+      ],
+      "a": 0,
+      "e": "Bose won by 1580 votes against 1377, defeating Gandhi-backed Pattabhi Sitaramayya, with support from the Congress Socialist Party and the communists; Gandhi called it his own defeat."
+    },
+    {
+      "q": "At the Tripuri Congress session (March 1939), Bose's presidential address proposed which course of action regarding Britain?",
+      "o": [
+        "A six-month ultimatum to Britain demanding independence, failing which a mass civil disobedience movement should be launched",
+        "Immediate unconditional support for Britain's war preparations",
+        "A referendum among princely states on joining the Congress",
+        "Permanent boycott of all future Congress sessions"
+      ],
+      "a": 0,
+      "e": "Bose proposed giving Britain a six-month ultimatum to grant independence, with mass civil disobedience to follow if rejected, believing international crisis offered strategic advantage."
+    },
+    {
+      "q": "At Tripuri, the resolution moved by Govind Ballabh Pant asked Bose to:",
+      "o": [
+        "Nominate the working committee in accordance with the wishes of Gandhiji",
+        "Resign immediately from the Congress presidency",
+        "Merge the Congress with the Muslim League",
+        "Postpone all further Congress sessions indefinitely"
+      ],
+      "a": 0,
+      "e": "Pant's resolution, passed without opposition even from socialists and communists, reaffirmed faith in Gandhian policies and asked Bose to nominate a working committee per Gandhi's wishes."
+    },
+    {
+      "q": "Why did Bose ultimately resign from the Congress presidency in April 1939, despite winning the election?",
+      "o": [
+        "He refused to nominate a new working committee acceptable to Gandhi and could not bridge the ideological gap with Gandhi, who threatened to withdraw from leadership otherwise",
+        "He was expelled by a unanimous vote of the AICC",
+        "He voluntarily stepped down to contest provincial elections instead",
+        "The British government banned him from holding the post"
+      ],
+      "a": 0,
+      "e": "Bose refused to nominate a working committee in line with Gandhi's wishes; with Gandhi unwilling to compromise and most Congress leaders preferring unity under Gandhi, Bose saw no option but to resign."
+    },
+    {
+      "q": "Following his resignation, what disciplinary action did the Congress Working Committee take against Bose in August 1939?",
+      "o": [
+        "He was removed as president of the Bengal Provincial Congress Committee and debarred from holding elective Congress office for three years",
+        "He was permanently expelled from the Congress party",
+        "He was arrested and imprisoned by the British government",
+        "He was stripped of his Indian citizenship"
+      ],
+      "a": 0,
+      "e": "After Bose called for an all-India protest against an AICC resolution, the CWC removed him from the Bengal PCC presidency and barred him from elective office for three years."
+    },
+    {
+      "q": "Who was elected Congress president after Bose's resignation in 1939, resolving the immediate crisis?",
+      "o": [
+        "Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Maulana Abul Kalam Azad",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "a": 0,
+      "e": "Rajendra Prasad was elected Congress president following Bose's resignation in April 1939."
+    },
+    {
+      "q": "In May 1939, Bose and his followers formed which new party within the Congress?",
+      "o": [
+        "The Forward Bloc",
+        "The Congress Socialist Party",
+        "The Kisan Sabha",
+        "The Swaraj Party"
+      ],
+      "a": 0,
+      "e": "Bose and his followers formed the Forward Bloc in May 1939 (at Makur, Unnao) as a new party within the Congress."
+    },
+    {
+      "q": "Consider the following statements on Gandhi's and Bose's respective views on the appropriate means of struggle:\n1. Gandhi believed non-violence was necessary because an unarmed mass had little chance in armed rebellion.\n2. Bose viewed civil disobedience as effective only if accompanied by a movement prepared to use violence if necessary.\n3. Both agreed that any means, however violent, were justified if the end was national independence.\nWhich of the statements given above is/are correct?",
+      "o": [
+        "1 and 2 only",
+        "1 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "a": 0,
+      "e": "Statements 1 and 2 accurately reflect the two leaders' positions. Statement 3 is incorrect: Gandhi explicitly rejected the idea that any means could justify an end, insisting that means and ends must both be good."
+    },
+    {
+      "q": "Regarding Bose's views on the appropriate form of government for India, which of the following is correct?",
+      "o": [
+        "He initially favoured democracy but later argued that an authoritarian state would be necessary, at least initially, to implement socialist economic reforms",
+        "He consistently advocated for a purely democratic system throughout his political career with no variation",
+        "He believed India should remain under British dominion status permanently",
+        "He rejected socialism entirely in favour of unregulated capitalism"
+      ],
+      "a": 0,
+      "e": "Bose came to believe that democracy alone could not push through socialist economic reforms, arguing (e.g., at Tokyo University, 1944) for an authoritarian state, at least in the initial phase of nation-building."
+    },
+    {
+      "q": "On October 21, 1943, Bose proclaimed the formation of which body, in which he held multiple top posts including head of state, prime minister, and minister for war and foreign affairs?",
+      "o": [
+        "The Provisional Government of Azad Hind (Free India)",
+        "The Indian National Congress Working Committee",
+        "The All India Forward Bloc Council",
+        "The Indian Constituent Assembly"
+      ],
+      "a": 0,
+      "e": "Bose proclaimed the Provisional Government of Azad Hind (Free India) on October 21, 1943, retaining for himself the positions of Supreme Commander of the INA, head of state, prime minister, and minister for war and foreign affairs."
+    },
+    {
+      "q": "Bose termed his ideological synthesis of Socialism and Fascism-style discipline and efficiency by which name?",
+      "o": [
+        "Samyavada",
+        "Sarvodaya",
+        "Ramrajya",
+        "Swadeshi"
+      ],
+      "a": 0,
+      "e": "As early as 1930, Bose called for a synthesis of Socialism's justice and equality with Fascism's discipline and efficiency, terming this synthesis 'samyavada'."
+    },
+    {
+      "q": "Which of the following best characterises Bose's relationship with Fascist and Nazi ideology?",
+      "o": [
+        "He admired their discipline and orderliness but rejected racial superiority theories and Fascist support for capitalism, viewing his alliance with the Axis as a pragmatic revolutionary strategy",
+        "He was an ideological Nazi who fully endorsed Hitler's racial theories",
+        "He had no interaction with or knowledge of Fascist or Nazi Germany at all",
+        "He supported Fascism only because he agreed with its capitalist economic model"
+      ],
+      "a": 0,
+      "e": "Bose disapproved of Nazi racialism and suppression of democratic institutions but admired their discipline; his supporters argue his association with Germany and Japan was dictated by revolutionary strategy, not ideological kinship."
+    },
+    {
+      "q": "Regarding Gandhi's Ramrajya as outlined in Hind Swaraj (1909), which of the following is correct?",
+      "o": [
+        "It envisioned a stateless society of self-sufficient, decentralised village republics with panchayats as the basic unit of self-governance",
+        "It called for a strong centralised state with a large standing army for national defence",
+        "It advocated rapid industrialisation modelled on the Soviet Union",
+        "It proposed direct British-style parliamentary democracy for India"
+      ],
+      "a": 0,
+      "e": "Gandhi's Ramrajya envisioned decentralised, self-sufficient village republics governed by panchayats, with minimal state power; Judith Brown observed that Gandhi could 'properly be called an anarchist'."
+    },
+    {
+      "q": "On the subject of religion, which of the following distinguishes Bose's approach from Gandhi's?",
+      "o": [
+        "Bose, though personally inspired by Hindu spirituality and the Bhagavad Gita, insisted Free India's state must remain neutral and treat religion as a private matter, while Gandhi could not conceive of a state entirely without religion",
+        "Bose was an avowed atheist who rejected all religious symbolism in politics, unlike the deeply religious Gandhi",
+        "Gandhi insisted the state must actively promote a single religion, while Bose opposed any religious content in politics",
+        "Both leaders held identical views advocating a theocratic state"
+      ],
+      "a": 0,
+      "e": "Bose, inspired by Hindu spirituality yet a committed secularist, wanted Free India's state to be neutral on religion as a private matter, whereas Gandhi's vision of the state was itself grounded in religious and moral principles."
+    },
+    {
+      "q": "Which women's regiment did Bose form within the Indian National Army in 1943, commanded by Captain Lakshmi Swaminathan?",
+      "o": [
+        "The Rani of Jhansi Regiment",
+        "The Durga Vahini",
+        "The Bharat Mahila Sena",
+        "The Azad Hind Mahila Dal"
+      ],
+      "a": 0,
+      "e": "Bose formed the Rani of Jhansi Regiment in the INA in 1943, commanded by Captain Lakshmi Swaminathan (later Sahgal), training women as soldiers rather than only in support roles."
+    },
+    {
+      "q": "Regarding views on women, which of the following is correct?",
+      "o": [
+        "Gandhi, while championing women's emancipation from social ills and purdah, still held a comparatively traditionalist view of gendered domestic roles, whereas Bose considered women full equals fit for combat and public life",
+        "Gandhi believed women should have no role in the freedom struggle at all",
+        "Bose opposed involving women in the INA in any capacity",
+        "Both leaders held identical views with no difference on gender roles"
+      ],
+      "a": 0,
+      "e": "Gandhi opposed child marriage, dowry, and purdah and brought women into the freedom struggle, yet retained traditionalist views of women's domestic 'dharma'; Bose considered women equals fit even for combat duty in the INA."
+    },
+    {
+      "q": "On the outbreak of the Second World War, which of the following statements is correct regarding India's involvement?",
+      "o": [
+        "The British Government of India declared India's support for the war on September 3, 1939, without consulting Indian political opinion",
+        "The Congress was formally consulted and gave its consent before India was drawn into the war",
+        "India was granted immediate independence in exchange for war support",
+        "The princely states alone decided India's participation in the war"
+      ],
+      "a": 0,
+      "e": "On September 3, 1939, following Britain's declaration of war against Germany, the British Government of India unilaterally declared India's support for the war effort without consulting Indian opinion."
+    },
+    {
+      "q": "What were the two basic conditions of the Congress's conditional offer to cooperate in the war effort, made to Viceroy Linlithgow?",
+      "o": [
+        "A constituent assembly to determine India's post-war political structure, and immediate establishment of a genuinely responsible government at the Centre",
+        "Complete transfer of the army to Indian command and abolition of the Governor-General's post",
+        "Release of all political prisoners and a ban on the Muslim League",
+        "Formation of a coalition government exclusively with the Muslim League"
+      ],
+      "a": 0,
+      "e": "The Congress conditionally offered wartime cooperation on the basis that (i) a constituent assembly be convened after the war to determine India's political structure, and (ii) a genuinely responsible government be set up immediately at the Centre."
+    },
+    {
+      "q": "At the Wardha CWC meeting on the question of India's support to Britain's war effort, which of the following correctly matches the leader with their position?",
+      "o": [
+        "Gandhi favoured unconditional support to the Allies; Bose and other socialists favoured no support to either side and immediate civil disobedience; Nehru favoured no Indian participation without freedom but also opposed exploiting Britain's difficulty",
+        "Gandhi, Bose and Nehru all held an identical position of unconditional support to Britain",
+        "Gandhi favoured immediate civil disobedience while Bose favoured unconditional support to Britain",
+        "Nehru alone supported the war while Gandhi and Bose opposed all cooperation"
+      ],
+      "a": 0,
+      "e": "Gandhi wanted unconditional support to the Allies due to his opposition to Fascism; Bose and socialists like Narendra Dev and JP Narayan saw the war as an imperialist conflict on both sides and favoured immediate civil disobedience; Nehru favoured neither side but also opposed exploiting Britain's wartime difficulty. Gandhi ultimately went with Nehru's position."
+    },
+    {
+      "q": "The CWC resolution adopted at Wardha (September 1939) on the war stated that:",
+      "o": [
+        "India could not be party to a war fought for democratic freedom while that freedom was denied to India itself, and the government should declare its war aims and how democracy would be applied to India after the war",
+        "India would unconditionally support the war under all circumstances",
+        "Civil disobedience would be launched immediately regardless of the government's response",
+        "The princely states would be excluded from any future constitutional arrangement"
+      ],
+      "a": 0,
+      "e": "The CWC resolution condemned Fascist aggression but held that India could not support a war for democratic freedom while denied that freedom itself, demanding a declaration of British war aims and clarity on democracy's post-war application to India."
+    },
+    {
+      "q": "In his statement of October 17, 1939, what did Viceroy Linlithgow propose?",
+      "o": [
+        "Consultation with representatives of communities, parties and princes on modifying the Act of 1935, and setting up an advisory 'consultative committee', without defining British war aims beyond resisting aggression",
+        "Immediate grant of dominion status to India",
+        "Full transfer of defence and finance portfolios to Indians",
+        "Unconditional acceptance of the Congress's demand for a constituent assembly"
+      ],
+      "a": 0,
+      "e": "Linlithgow refused to define British war aims beyond 'resisting aggression', proposed consulting various interests on modifying the 1935 Act, and offered to set up a purely advisory consultative committee."
+    },
+    {
+      "q": "According to the chapter, what was the British government's hidden agenda behind Linlithgow's October 1939 statement?",
+      "o": [
+        "To provoke the Congress into confrontation, then use the resulting situation to acquire draconian powers and paint the Congress as pro-Axis to win international sympathy",
+        "To immediately grant India full independence after consulting all parties",
+        "To dissolve the Muslim League and support the Congress exclusively",
+        "To transfer all administrative powers to the princely states"
+      ],
+      "a": 0,
+      "e": "British policy aimed to provoke Congress confrontation to justify draconian powers (including a secret Draft Revolutionary Movement Ordinance) and to portray an aggressive Congress as pro-Japan/pro-Germany to win international sympathy."
+    },
+    {
+      "q": "Following Linlithgow's October 1939 statement, on what date did the CWC decide to call upon Congress ministries to resign?",
+      "o": [
+        "October 23, 1939",
+        "September 3, 1939",
+        "January 1940",
+        "August 1940"
+      ],
+      "a": 0,
+      "e": "On October 23, 1939, the CWC rejected the viceregal statement, decided not to support the war, and called upon Congress ministries in the provinces to resign."
+    },
+    {
+      "q": "Which of the following reasons did Gandhi and his supporters cite against launching an immediate mass struggle after Linlithgow's October 1939 statement?\n1. They believed the Allied cause was just.\n2. Communal sensitiveness and lack of Hindu-Muslim unity could cause riots.\n3. The Congress organisation itself was in disarray.\n4. The masses were not yet ready for a struggle.\nHow many of the above are correctly listed as reasons?",
+      "o": [
+        "All four",
+        "Only three",
+        "Only two",
+        "Only one"
+      ],
+      "a": 0,
+      "e": "All four reasons — belief in the just Allied cause, fear of communal riots, disorganised Congress machinery, and unready masses — were cited by Gandhi and supporters against an immediate mass struggle."
+    },
+    {
+      "q": "The Muslim League's Lahore Resolution (March 1940), popularly called the 'Pakistan Resolution', called for:",
+      "o": [
+        "Grouping geographically contiguous Muslim-majority areas of the North-West and East into independent states with autonomous and sovereign constituent units",
+        "A single unified Indian state with proportional representation for all religions",
+        "Complete integration of princely states into British India",
+        "Abolition of separate electorates for Muslims"
+      ],
+      "a": 0,
+      "e": "The Lahore Resolution called for grouping contiguous Muslim-majority areas in the North-West and East into independent, sovereign states — the foundational demand later associated with Pakistan."
+    },
+    {
+      "q": "At the Ramgarh session of the Congress (March 1940), presided over by Maulana Abul Kalam Azad, what was decided?",
+      "o": [
+        "To leave the form and timing of the struggle to Gandhi, while declaring that Indians would accept nothing short of complete independence",
+        "To accept dominion status as a final settlement",
+        "To merge with the Muslim League on a joint platform",
+        "To indefinitely suspend all Congress political activity"
+      ],
+      "a": 0,
+      "e": "At Ramgarh, it was decided to leave the form and timing of any battle to Gandhi, while the Congress declared that Indians would accept nothing short of complete independence, not dominion status."
+    },
+    {
+      "q": "Which of the following provisions were included in the British government's August Offer (August 1940)?\n1. Dominion status as the objective for India.\n2. Expansion of the Viceroy's executive council with an Indian majority.\n3. Setting up a constituent assembly after the war mainly composed of Indians.\n4. No future constitution without the consent of minorities.\nHow many of the above are correctly listed as part of the August Offer?",
+      "o": [
+        "All four",
+        "Only three",
+        "Only two",
+        "Only one"
+      ],
+      "a": 0,
+      "e": "All four elements — dominion status as the objective, an expanded executive council with Indian majority, a post-war constituent assembly, and a minority-consent clause — were part of the August Offer."
+    },
+    {
+      "q": "How did the Congress and the Muslim League respectively respond to the August Offer (1940)?",
+      "o": [
+        "The Congress rejected it, with Nehru declaring dominion status 'dead as a doornail', while the Muslim League welcomed the minority veto assurance and reiterated its demand for partition",
+        "Both the Congress and the Muslim League accepted the offer unconditionally",
+        "The Congress accepted it while the Muslim League rejected it outright",
+        "Both parties rejected the offer and jointly demanded immediate full independence"
+      ],
+      "a": 0,
+      "e": "Nehru dismissed dominion status as 'dead as a doornail' and the Congress rejected the offer; the Muslim League, however, welcomed the minority veto assurance and reaffirmed that partition was the only solution."
+    },
+    {
+      "q": "Regarding the composition of the enlarged Viceroy's executive council in July 1941, which of the following is correct?",
+      "o": [
+        "Indians were given a majority of 8 out of 12 seats for the first time, though the British retained control of defence, finance and home portfolios",
+        "Indians held all 12 seats with no British representation",
+        "The council was abolished entirely in favour of a fully elected legislature",
+        "Only princely state representatives were appointed to the council"
+      ],
+      "a": 0,
+      "e": "In July 1941, the executive council was enlarged to give Indians a majority of 8 out of 12 seats for the first time, though the British retained charge of defence, finance and home."
+    },
+    {
+      "q": "What were the stated aims of Gandhi's Individual Satyagraha launched in late 1940?\n1. To show that nationalist patience was not due to weakness.\n2. To express that Indians made no distinction between Nazism and colonial autocracy.\n3. To give the government another opportunity to accept Congress demands peacefully.\n4. To immediately overthrow British rule through mass armed rebellion.\nHow many of the above are correctly listed as aims?",
+      "o": [
+        "Only three",
+        "All four",
+        "Only two",
+        "Only one"
+      ],
+      "a": 0,
+      "e": "Statements 1, 2 and 3 correctly describe the aims of Individual Satyagraha; it was explicitly a limited, non-violent movement, not an armed rebellion (statement 4 is incorrect)."
+    },
+    {
+      "q": "Who offered Individual Satyagraha first, and who was the second satyagrahi, according to Gandhi's plan?",
+      "o": [
+        "Vinoba Bhave was the first, followed by Jawaharlal Nehru",
+        "Jawaharlal Nehru was the first, followed by Sardar Patel",
+        "Rajendra Prasad was the first, followed by Maulana Azad",
+        "Subhash Bose was the first, followed by Gandhi himself"
+      ],
+      "a": 0,
+      "e": "Vinoba Bhave was selected as the first individual satyagrahi, and Jawaharlal Nehru was the second; by May 1941, about 25,000 people had been convicted for individual civil disobedience."
+    },
+    {
+      "q": "The movement in which satyagrahis would progressively march towards the capital after repeated arrests came to be known as:",
+      "o": [
+        "The Delhi Chalo Movement",
+        "The Quit India Movement",
+        "The Dandi March",
+        "The Non-Cooperation Movement"
+      ],
+      "a": 0,
+      "e": "If the government did not arrest a satyagrahi, they would move into villages and eventually march towards Delhi — a movement known as the 'Delhi Chalo Movement'."
+    },
+    {
+      "q": "Gandhi designated which leader as his chosen political successor, around the time of the CWC's late-1941 resolution offering conditional cooperation in India's defence?",
+      "o": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Maulana Abul Kalam Azad",
+        "Subhash Chandra Bose"
+      ],
+      "a": 0,
+      "e": "Around this period, Gandhi designated Jawaharlal Nehru as his chosen successor, valuing Nehru's inclusive, all-India appeal over more sectionally-associated leaders like Patel, Rajaji, or Azad."
+    },
+    {
+      "q": "According to Rajmohan Gandhi's account, why did Gandhi prefer Nehru over alternatives like Patel, Rajaji, Azad, or Kripalani as his successor?",
+      "o": [
+        "Nehru most reliably reflected the pluralist, inclusive idea of India — trusted by Muslims despite being Hindu, respected across regions, and seen as a genuinely all-India leader",
+        "Nehru was the only candidate with prior administrative experience",
+        "Nehru was chosen purely because of seniority within the party",
+        "The other candidates had all resigned from active politics by this time"
+      ],
+      "a": 0,
+      "e": "Rajmohan Gandhi notes that unlike the more sectionally-associated alternatives, Nehru was trusted across religious and regional lines and embodied Gandhi's own pluralist, inclusive vision of India."
+    },
+    {
+      "q": "Why was the Cripps Mission sent to India in March 1942?\n1. The Japanese threat to invade India had become real after British reverses in South-East Asia.\n2. Allied powers (USA, USSR, China) pressured Britain to seek Indian cooperation.\n3. Indian nationalists had signalled support for the Allied cause if power was transferred and independence promised after the war.\n4. Britain wanted to formally grant India complete independence immediately.\nHow many of the above are correctly listed as reasons for the mission?",
+      "o": [
+        "Only three",
+        "All four",
+        "Only two",
+        "Only one"
+      ],
+      "a": 0,
+      "e": "Statements 1, 2 and 3 are correct reasons; statement 4 is false — the Cripps Mission did not offer immediate complete independence, only a future dominion status arrangement."
+    },
+    {
+      "q": "Which of the following was NOT among the main proposals of the Cripps Mission (March 1942)?",
+      "o": [
+        "Immediate transfer of defence and control of the Indian army to an Indian-led government",
+        "Setting up of an Indian Union with dominion status, free to leave the Commonwealth",
+        "A post-war constituent assembly to frame a new constitution, elected by provincial assemblies and partly nominated by princes",
+        "The option for any unwilling province to have a separate constitution and form a separate Union"
+      ],
+      "a": 0,
+      "e": "The Cripps proposals kept defence of India in British hands during the war and retained the Governor-General's full powers; immediate transfer of defence control was not offered, unlike the other three listed proposals."
+    },
+    {
+      "q": "How did the Cripps proposals differ from the earlier August Offer in terms of constitution-making?",
+      "o": [
+        "Making of the constitution was now to be solely in Indian hands (not merely 'mainly' in Indian hands), with a concrete plan provided for the constituent assembly",
+        "The Cripps proposals removed all mention of a constituent assembly altogether",
+        "The August Offer had already granted full Indian control over constitution-making",
+        "There was no difference between the two offers on this point"
+      ],
+      "a": 0,
+      "e": "Unlike the August Offer, where the constitution-making body was 'mainly' Indian, the Cripps proposals made it solely Indian, with a concrete plan for a constituent assembly elected by provincial assemblies and partly nominated by princes."
+    },
+    {
+      "q": "Which of the following did the Congress object to in the Cripps proposals?\n1. Offer of dominion status instead of complete independence.\n2. Representation of princely states by nominees rather than elected representatives.\n3. The right of provinces to secede from the Union.\n4. Absence of any immediate transfer of power or real share in defence.\nHow many of the above are correctly listed as Congress objections?",
+      "o": [
+        "All four",
+        "Only three",
+        "Only two",
+        "Only one"
+      ],
+      "a": 0,
+      "e": "The Congress objected to all four points: dominion status instead of independence, non-elected princely representation, the provincial secession clause undermining unity, and the lack of immediate power transfer or defence share."
+    },
+    {
+      "q": "Which of the following did the Muslim League object to regarding the Cripps proposals?",
+      "o": [
+        "The idea of a single Indian Union, the machinery for creating the constituent assembly, and the perceived denial of Muslims' right to self-determination and Pakistan",
+        "The proposal's failure to mention dominion status at all",
+        "The retention of the Governor-General's powers, which the League strongly supported removing",
+        "The absence of any provision for provincial secession, which the League wanted removed entirely"
+      ],
+      "a": 0,
+      "e": "The Muslim League objected to the single-Union framework, the constituent assembly's composition procedure, and felt the proposals denied Muslims the right to self-determination and creation of Pakistan."
+    },
+    {
+      "q": "Who famously described the Cripps offer as 'a post-dated cheque'?",
+      "o": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Maulana Abul Kalam Azad",
+        "Subhash Chandra Bose"
+      ],
+      "a": 0,
+      "e": "Gandhi described the Cripps scheme as 'a post-dated cheque' on a failing bank, reflecting Congress's scepticism about British follow-through on the proposals."
+    },
+    {
+      "q": "Which British officials are cited in the chapter as having consistently undermined Cripps' negotiating efforts?",
+      "o": [
+        "Churchill, Amery, Linlithgow, and Ward (the commander-in-chief)",
+        "Stafford Cripps himself, who sabotaged his own mission deliberately",
+        "Mountbatten and Wavell, both serving as Viceroy at the time",
+        "Roosevelt and Chiang Kai-shek, who opposed Indian independence"
+      ],
+      "a": 0,
+      "e": "Churchill (Prime Minister), Amery (Secretary of State), Linlithgow (Viceroy), and Ward (Commander-in-Chief) are cited as consistently torpedoing Cripps' efforts, particularly over the question of the Viceroy's veto."
+    },
+    {
+      "q": "Winston Churchill's remark, \"I have not become His Majesty's first Minister to preside over the liquidation of the British Empire,\" reflects which broader dynamic described in the chapter?",
+      "o": [
+        "British reluctance, especially at the highest levels, to genuinely concede self-government to India despite wartime pressures",
+        "Churchill's personal support for immediate Indian independence",
+        "A joint British-Congress consensus on maintaining the empire",
+        "Churchill's endorsement of the Cripps Mission's proposals in full"
+      ],
+      "a": 0,
+      "e": "Churchill's remark exemplifies the underlying British reluctance to loosen imperial control over India, consistent with the mission's ultimate failure due to rigid British attitudes."
+    },
+    {
+      "q": "According to the chapter's summary of the sequence of events, which of the following correctly orders these developments?\n1. August Offer\n2. Individual Satyagraha begins\n3. Lahore (Pakistan) Resolution\n4. Cripps Mission\nArrange in correct chronological order.",
+      "o": [
+        "3-1-2-4",
+        "1-3-2-4",
+        "3-2-1-4",
+        "4-1-3-2"
+      ],
+      "a": 0,
+      "e": "Correct order: Lahore/Pakistan Resolution (March 1940) → August Offer (August 1940) → Individual Satyagraha begins (October 1940) → Cripps Mission (March 1942)."
+    }
+  ]
+}

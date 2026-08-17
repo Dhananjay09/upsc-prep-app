@@ -1,0 +1,667 @@
+{
+  "id": "hist_upsc_constitutional_admin_judicial",
+  "title": "Constitutional, Administrative and Judicial Developments",
+  "desc": "Constitutional Acts from the Regulating Act of 1773 to the Government of India Act 1935, evolution of civil services, police, the Indian Army, the judiciary, and local self-government under British rule",
+  "questions": [
+    {
+      "q": "Following the Battle of Buxar (1764), the East India Company obtained the Diwani (right to collect revenue) of which regions?",
+      "o": [
+        "Bengal, Bihar and Orissa",
+        "Punjab, Sindh and Kashmir",
+        "Madras, Bombay and Bengal",
+        "Awadh, Bihar and Bengal only"
+      ],
+      "a": 0,
+      "e": "After Buxar (1764), the Company obtained the Diwani of Bengal, Bihar and Orissa, paying an annual subsidy to the Mughal Emperor Shah Alam II and a pension to the Nawab of Awadh."
+    },
+    {
+      "q": "The 'dual system of government' (1765-72), where the Company held authority without responsibility and its Indian representatives held responsibility without authority, was characterised by which of the following?\n1. Rampant corruption among Company servants through private trade.\n2. Excessive revenue collection and oppression of the peasantry.\n3. The Company's bankruptcy even as its servants flourished.\n4. A well-organised, corruption-free administration.\nHow many of the above are correctly listed as characteristics?",
+      "o": [
+        "Only three",
+        "All four",
+        "Only two",
+        "Only one"
+      ],
+      "a": 0,
+      "e": "Statements 1, 2 and 3 correctly describe the dual system's failures; statement 4 is false, as the period was marked precisely by disorganisation and corruption, not efficient administration."
+    },
+    {
+      "q": "Which Act first brought the British government's involvement into Indian affairs, requiring Company directors to submit correspondence on revenue, civil and military administration to the government?",
+      "o": [
+        "The Regulating Act of 1773",
+        "Pitt's India Act of 1784",
+        "The Charter Act of 1793",
+        "The Charter Act of 1813"
+      ],
+      "a": 0,
+      "e": "The Regulating Act of 1773 first gave the British Cabinet a right to exercise control over Indian affairs by requiring submission of Company correspondence on key administrative matters."
+    },
+    {
+      "q": "Under the Regulating Act of 1773, Bengal's administration was to be carried out by a governor-general and a council of how many members, functioning by majority rule?",
+      "o": [
+        "4 members",
+        "6 members",
+        "3 members",
+        "8 members"
+      ],
+      "a": 0,
+      "e": "The Regulating Act established a governor-general and a council of 4 members in Bengal (with Warren Hastings named first), required to function according to majority rule."
+    },
+    {
+      "q": "Which judicial body was established in Bengal under the Regulating Act of 1773, with original and appellate jurisdiction, though its authority often clashed with the council's?",
+      "o": [
+        "A Supreme Court of Judicature at Calcutta",
+        "The Sadar Diwani Adalat",
+        "The Federal Court",
+        "The Privy Council"
+      ],
+      "a": 0,
+      "e": "The Regulating Act established a Supreme Court of Judicature in Bengal, but its jurisdiction was ill-defined vis-a-vis the council, causing recurring administrative friction."
+    },
+    {
+      "q": "Pitt's India Act of 1784 established which body to exercise control over the Company's civil, military and revenue affairs, comprising the chancellor of exchequer, a secretary of state and Privy Council members?",
+      "o": [
+        "The Board of Control",
+        "The Board of Directors",
+        "The Court of Proprietors",
+        "The Secretariat of State"
+      ],
+      "a": 0,
+      "e": "Pitt's India Act (1784) created the Board of Control, giving the British government substantial oversight of Company affairs and effectively making the Company a subordinate department of the state."
+    },
+    {
+      "q": "Under Pitt's India Act, 1784, the Company's Indian territories were formally termed:",
+      "o": [
+        "'British possessions'",
+        "'Crown colonies'",
+        "'Sovereign dominions'",
+        "'Protected states'"
+      ],
+      "a": 0,
+      "e": "Pitt's India Act designated the Company's Indian territories as 'British possessions', reflecting the extension of state control over what had been a commercial enterprise."
+    },
+    {
+      "q": "The Act of 1786 conceded which demand of Lord Cornwallis, subsequently extended to all future governors-general?",
+      "o": [
+        "The power to override the council's decisions if he assumed personal responsibility for them, and to simultaneously hold the offices of governor-general and commander-in-chief",
+        "The power to declare war without approval from London",
+        "The power to appoint all district collectors without oversight",
+        "The power to unilaterally abolish the Board of Control"
+      ],
+      "a": 0,
+      "e": "The Act of 1786 granted Cornwallis both the governor-generalship and commander-in-chiefship, and the power to override his council if he took personal responsibility — a provision later extended to all governors-general."
+    },
+    {
+      "q": "Which Charter Act mandated that senior Company officials required permission to leave India, treated departure without such permission as resignation, and led to the separation of revenue administration from the judiciary (causing the Maal Adalats to disappear)?",
+      "o": [
+        "The Charter Act of 1793",
+        "The Charter Act of 1813",
+        "The Charter Act of 1833",
+        "The Charter Act of 1853"
+      ],
+      "a": 0,
+      "e": "The Charter Act of 1793 required royal approval for senior appointments, restricted officials from leaving India without permission, and separated revenue administration from judicial functions, eliminating the Maal Adalats."
+    },
+    {
+      "q": "Which Charter Act ended the East India Company's monopoly over trade in India (while retaining its China and tea trade), and for the first time explicitly defined the constitutional position of British territories in India?",
+      "o": [
+        "The Charter Act of 1813",
+        "The Charter Act of 1793",
+        "The Charter Act of 1833",
+        "The Act for Better Government of India, 1858"
+      ],
+      "a": 0,
+      "e": "The Charter Act of 1813 ended the Company's Indian trade monopoly (retaining China/tea trade) and explicitly, for the first time, defined the constitutional position of British Indian territories."
+    },
+    {
+      "q": "The Charter Act of 1813 set aside one lakh rupees annually for which purpose, an important early statement of state responsibility for education?",
+      "o": [
+        "Revival, promotion and encouragement of literature, learning and science among the natives of India",
+        "Establishment of a national university system",
+        "Construction of railways across India",
+        "Compensation to zamindars for lost revenue"
+      ],
+      "a": 0,
+      "e": "The 1813 Act allocated one lakh rupees annually for promoting literature, learning and science among Indians — an early, if modest, formal state commitment to education."
+    },
+    {
+      "q": "Which Charter Act ended the Company's monopoly over trade with China and in tea, lifted restrictions on European immigration and property acquisition in India, and envisaged financial, legislative and administrative centralisation under the governor-general?",
+      "o": [
+        "The Charter Act of 1833",
+        "The Charter Act of 1813",
+        "The Charter Act of 1853",
+        "The Act for Better Government of India, 1858"
+      ],
+      "a": 0,
+      "e": "The Charter Act of 1833 ended the Company's remaining trade monopolies, opened India to European colonisation, and centralised administrative, financial and legislative authority under the governor-general."
+    },
+    {
+      "q": "Which declaration in the Charter Act of 1833, though poorly implemented in practice, became a foundational plank of Indian political agitation?",
+      "o": [
+        "No Indian citizen was to be denied employment under the Company on grounds of religion, colour, birth or descent",
+        "All Indians would automatically receive British citizenship",
+        "Indians would be granted representation in the British Parliament",
+        "All revenue collected in India would be spent exclusively within India"
+      ],
+      "a": 0,
+      "e": "The 1833 Act's declaration against employment discrimination based on religion, colour, birth or descent, though rarely honoured in practice, became a key rallying point for later Indian political agitation."
+    },
+    {
+      "q": "Which Charter Act ended the Company's patronage over civil service appointments, opening recruitment to competitive examination, and made the law member a full member of the governor-general's executive council?",
+      "o": [
+        "The Charter Act of 1853",
+        "The Charter Act of 1833",
+        "The Charter Act of 1813",
+        "The Indian Councils Act, 1861"
+      ],
+      "a": 0,
+      "e": "The Charter Act of 1853 dissolved Company patronage over civil service recruitment in favour of open competitive examinations and elevated the law member to full council membership."
+    },
+    {
+      "q": "The Charter Act of 1853 introduced local representation into the Indian legislature through the addition of how many members for legislative purposes, forming what came to be called the Indian Legislative Council?",
+      "o": [
+        "Six additional members",
+        "Two additional members",
+        "Ten additional members",
+        "Fifteen additional members"
+      ],
+      "a": 0,
+      "e": "The 1853 Act added six additional members for legislative purposes, advancing separation of executive and legislative functions and forming the Indian Legislative Council."
+    },
+    {
+      "q": "The Act for Better Government of India, 1858, passed in the aftermath of the 1857 revolt, brought about which major change?",
+      "o": [
+        "India was to be governed by and in the name of the Crown through a secretary of state (with an advisory council), ending the dual system of Pitt's India Act, and the governor-general became Viceroy",
+        "It transferred all governance to a newly created Indian Parliament",
+        "It abolished the office of governor-general entirely",
+        "It granted the Congress formal representation in governance"
+      ],
+      "a": 0,
+      "e": "The 1858 Act shifted governance from Company to Crown, established a secretary of state (assisted by an advisory council) as the ultimate authority, ending the Pitt's India Act's dual system, and renamed the governor-general as Viceroy."
+    },
+    {
+      "q": "Which Act marked an advance in accepting the principle of non-official representatives in legislative bodies, and saw Lord Canning introduce the 'portfolio system' laying foundations of cabinet government in India?",
+      "o": [
+        "The Indian Councils Act, 1861",
+        "The Indian Councils Act, 1892",
+        "The Indian Councils Act, 1909",
+        "The Government of India Act, 1919"
+      ],
+      "a": 0,
+      "e": "The Indian Councils Act, 1861 accepted non-official representation in legislative bodies as a principle and saw Canning's portfolio system lay the groundwork for cabinet-style governance in India."
+    },
+    {
+      "q": "Which of the following were weaknesses of the legislative councils established under the Indian Councils Act, 1861?\n1. They could not discuss important matters or any financial matters without prior government approval.\n2. They had no control over the budget or executive action.\n3. Bills required the viceroy's approval, and even then could be disallowed by the secretary of state.\n4. Non-official Indian members were drawn from broad, representative sections of society.\nHow many of the above are correctly listed as weaknesses?",
+      "o": [
+        "Only three",
+        "All four",
+        "Only two",
+        "Only one"
+      ],
+      "a": 0,
+      "e": "Statements 1, 2 and 3 are genuine weaknesses; statement 4 is false, since non-official Indian members were drawn only from elite sections, not broadly representative groups."
+    },
+    {
+      "q": "The Indian Councils Act, 1892, passed partly in response to Congress demands, introduced which principle, despite carefully avoiding the term 'election'?",
+      "o": [
+        "An element of indirect election through recommendations by universities, district boards, municipalities, zamindars and chambers of commerce",
+        "Direct universal adult suffrage for all legislative council seats",
+        "Reservation of seats exclusively for Congress-nominated candidates",
+        "Abolition of the Imperial Legislative Council altogether"
+      ],
+      "a": 0,
+      "e": "The 1892 Act allowed bodies like universities, district boards, municipalities and chambers of commerce to recommend members, introducing indirect election in substance while avoiding the term formally."
+    },
+    {
+      "q": "The Indian Councils Act of 1909 (Morley-Minto Reforms) saw which Indian become the first to join the Governor-General's (Viceroy's) Executive Council?",
+      "o": [
+        "Satyendra Prasad Sinha",
+        "Satyendra Nath Tagore",
+        "Dadabhai Naoroji",
+        "Surendranath Banerjee"
+      ],
+      "a": 0,
+      "e": "Satyendra Prasad Sinha became the first Indian member of the Viceroy's Executive Council under the 1909 reforms, serving as law member."
+    },
+    {
+      "q": "What was a significant and problematic feature introduced by the Morley-Minto Reforms (1909)?",
+      "o": [
+        "Separate electorates for Muslims, with representation in excess of their population and a lower income qualification for Muslim voters than for Hindus",
+        "Universal adult suffrage for all Indian men regardless of religion",
+        "Complete abolition of all communal representation",
+        "Direct election to the Imperial Legislative Council by popular vote"
+      ],
+      "a": 0,
+      "e": "The 1909 reforms introduced separate Muslim electorates with disproportionate representation and preferential voter qualifications, entrenching communal representation in Indian constitutional development."
+    },
+    {
+      "q": "The Government of India Act, 1919 (Montague-Chelmsford Reforms) introduced which system of provincial government, transferring some subjects to Indian ministers while others remained with the governor?",
+      "o": [
+        "Dyarchy",
+        "Federalism",
+        "Unitary responsible government",
+        "Direct Crown rule"
+      ],
+      "a": 0,
+      "e": "The 1919 Act introduced dyarchy in the provinces, dividing subjects into 'transferred' (under Indian ministers) and 'reserved' (under the governor) categories — a significant, if flawed, step toward self-government."
+    },
+    {
+      "q": "Under the Government of India Act, 1919, the Indian Legislative Council at the Centre was replaced by which bicameral structure?",
+      "o": [
+        "A Council of State (Upper House) and a Legislative Assembly (Lower House)",
+        "A Senate and a House of Representatives",
+        "A Rajya Sabha and a Lok Sabha",
+        "A Federal Assembly and a Provincial Assembly"
+      ],
+      "a": 0,
+      "e": "The 1919 Act replaced the unicameral Indian Legislative Council with a bicameral central legislature comprising the Council of State and the Legislative Assembly, both with elected majorities, though on a restricted franchise."
+    },
+    {
+      "q": "According to Subhash Kashyap's assessment (cited in the chapter), how is the Indian legislature under the 1919 Act best characterised?",
+      "o": [
+        "A non-sovereign law-making body, powerless before the executive in all spheres of governmental activity",
+        "A fully sovereign and empowered legislative body with control over the executive",
+        "An entirely ceremonial body with no legislative functions whatsoever",
+        "A body possessing complete control over provincial as well as central finances"
+      ],
+      "a": 0,
+      "e": "Kashyap characterised the 1919 Act's legislature as a non-sovereign body that, despite new powers to vote supplies, remained powerless before the governor-general's overriding executive authority."
+    },
+    {
+      "q": "The Simon Commission (Indian Statutory Commission), appointed in November 1927, recommended which of the following in its 1930 report?",
+      "o": [
+        "Abolition of dyarchy, extension of responsible government in the provinces, a federation of British India and princely states, and continuation of communal electorates",
+        "Immediate grant of full independence to India with no further review",
+        "Abolition of all communal electorates with immediate effect",
+        "Permanent retention of dyarchy in both provinces and the Centre"
+      ],
+      "a": 0,
+      "e": "The Simon Commission (1930) recommended abolishing dyarchy, extending provincial responsible government, forming an all-India federation including princely states, and — controversially — continuing communal electorates."
+    },
+    {
+      "q": "The Government of India Act, 1935 was based on a joint parliamentary committee report (under Lord Linlithgow) which specified that a federation would be established only if:",
+      "o": [
+        "At least 50 per cent of the princely states were ready to join it",
+        "All princely states without exception agreed to join",
+        "The Congress and the Muslim League jointly consented",
+        "The British Parliament unanimously approved federation"
+      ],
+      "a": 0,
+      "e": "The Linlithgow committee's 1934 report conditioned the all-India federation on at least 50% of princely states agreeing to join — a threshold that was, in practice, never met."
+    },
+    {
+      "q": "Which of the following features characterised the Government of India Act, 1935?\n1. Abolition of dyarchy in the provinces, replaced with provincial autonomy and full responsible government.\n2. Introduction of dyarchy at the federal (all-India) executive level instead.\n3. A bicameral Federal Legislature with a permanent Council of States as the Upper House.\n4. Establishment of a Federal Court in 1937 dominated in practice by the Privy Council in London.\nHow many of the above are correctly listed as features of the 1935 Act?",
+      "o": [
+        "All four",
+        "Only three",
+        "Only two",
+        "Only one"
+      ],
+      "a": 0,
+      "e": "All four are accurate: the 1935 Act abolished provincial dyarchy while introducing dyarchy federally, created a bicameral federal legislature with a permanent Council of States, and established a Federal Court subordinate in influence to the Privy Council."
+    },
+    {
+      "q": "Why did the All-India Federation envisaged under the Government of India Act, 1935 never come into existence?",
+      "o": [
+        "Because of opposition from different Indian parties, leading the British to implement only provincial autonomy (from April 1, 1937) while the Centre continued under the 1919 Act framework",
+        "Because the princely states unanimously refused to consider the federation from the outset",
+        "Because the British Parliament formally repealed the federation provisions before implementation",
+        "Because World War II broke out before any implementation could begin"
+      ],
+      "a": 0,
+      "e": "Opposition from various Indian political parties prevented the federation from materialising; only provincial autonomy was implemented from April 1937, while the central government continued functioning under the 1919 Act with minor amendments."
+    },
+    {
+      "q": "Which of the following criticisms were levelled against the Government of India Act, 1935?\n1. It provided a rigid constitution with amendment rights reserved for the British Parliament, not internal growth.\n2. The extension of communal electorates promoted separatist tendencies that culminated in partition.\n3. It was condemned by nearly all sections and unanimously rejected by the Congress.\n4. Indians were fully and directly involved in drafting the Act.\nHow many of the above are correctly listed as criticisms/facts about the 1935 Act?",
+      "o": [
+        "Only three",
+        "All four",
+        "Only two",
+        "Only one"
+      ],
+      "a": 0,
+      "e": "Statements 1, 2 and 3 accurately describe criticisms of the 1935 Act; statement 4 is false, since Indians were notably NOT involved in creating the Act, which was drafted entirely by the British."
+    },
+    {
+      "q": "Who is credited with first bringing into existence and organising a structured civil service system in India, including measures like raising salaries and enforcing promotion by seniority to curb corruption?",
+      "o": [
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord Bentinck",
+        "Lord Dalhousie"
+      ],
+      "a": 0,
+      "e": "Cornwallis (governor-general, 1786-93) is credited with organising the civil services, raising salaries, strictly enforcing rules against private trade, and instituting seniority-based promotions to reduce corruption."
+    },
+    {
+      "q": "Which institution did Wellesley establish in 1800 for training new civil service recruits, later disapproved by the Court of Directors in favour of a college in England?",
+      "o": [
+        "Fort William College",
+        "Haileybury East India College",
+        "Presidency College",
+        "Elphinstone College"
+      ],
+      "a": 0,
+      "e": "Wellesley set up Fort William College in 1800, but the Court of Directors disapproved it in 1806 in favour of the East India College at Haileybury in England for training recruits."
+    },
+    {
+      "q": "Who became the first Indian to qualify for the Indian Civil Service (ICS), in 1863?",
+      "o": [
+        "Satyendra Nath Tagore",
+        "Satyendra Prasad Sinha",
+        "Surendranath Banerjee",
+        "Romesh Chunder Dutt"
+      ],
+      "a": 0,
+      "e": "Satyendra Nath Tagore became the first Indian to qualify for the ICS in 1863, though systemic barriers continued to severely limit Indian entry into the higher civil services."
+    },
+    {
+      "q": "How did the maximum permissible age for the ICS entrance examination change over time, as a deliberate barrier to Indian entry?",
+      "o": [
+        "It was gradually reduced from 23 (1859) to 22 (1860) to 21 (1866) to 19 (1878, under Lytton)",
+        "It was gradually raised from 19 to 23 to make the exam more accessible to Indians",
+        "It remained fixed at 21 throughout the colonial period",
+        "It was abolished entirely after the Charter Act of 1853"
+      ],
+      "a": 0,
+      "e": "The maximum age for ICS entry was progressively lowered — from 23 in 1859 down to 19 by 1878 under Lytton — making it increasingly difficult for Indian candidates, who needed to travel to England, to qualify in time."
+    },
+    {
+      "q": "The Statutory Civil Service, introduced by Lytton in 1878-79, reserving one-sixth of covenanted posts for nominated Indians of 'high families', ultimately:",
+      "o": [
+        "Failed and was abolished",
+        "Succeeded and became the permanent basis of civil service recruitment",
+        "Was expanded to cover half of all civil service posts",
+        "Was replaced immediately by full open competition for all Indians"
+      ],
+      "a": 0,
+      "e": "The Statutory Civil Service, based on nomination of elite Indians rather than open competition, failed in practice and was subsequently abolished."
+    },
+    {
+      "q": "The Aitchison Committee on Public Services (1886), set up in response to Congress demands, recommended classification of the civil service into which three tiers?",
+      "o": [
+        "Imperial Indian Civil Service, Provincial Civil Service, and Subordinate Civil Service",
+        "Central Civil Service, State Civil Service, and District Civil Service",
+        "Covenanted Service, Uncovenanted Service, and Statutory Service (retaining the old terms)",
+        "Executive Service, Judicial Service, and Police Service"
+      ],
+      "a": 0,
+      "e": "The Aitchison Committee recommended dropping the old 'covenanted/uncovenanted' terminology in favour of a three-tier structure: Imperial Indian Civil Service (examined in England), Provincial Civil Service, and Subordinate Civil Service (both examined in India)."
+    },
+    {
+      "q": "What was the significance of the 1893 House of Commons resolution regarding civil service examinations?",
+      "o": [
+        "It supported holding simultaneous examinations in India and England but was never actually implemented",
+        "It was implemented immediately, resulting in simultaneous exams from 1894 onward",
+        "It abolished the ICS examination altogether",
+        "It reserved half of all ICS posts for Indians with immediate effect"
+      ],
+      "a": 0,
+      "e": "Though the House of Commons passed a resolution in 1893 favouring simultaneous ICS examinations in India and England, it was never actually implemented — reflecting the gap between stated policy and colonial practice."
+    },
+    {
+      "q": "The Lee Commission (1924) recommended reaching what target ratio between Europeans and Indians in direct ICS recruitment within 15 years?",
+      "o": [
+        "50:50 parity",
+        "75:25 in favour of Europeans",
+        "90:10 in favour of Europeans",
+        "25:75 in favour of Indians"
+      ],
+      "a": 0,
+      "e": "The Lee Commission (1924) recommended achieving 50:50 parity between Europeans and Indians in direct ICS recruitment within 15 years, alongside establishing a Public Service Commission."
+    },
+    {
+      "q": "In pre-colonial India, who was primarily responsible for maintaining law and order in cities under Mughal administration, distinct from the faujdars and amils?",
+      "o": [
+        "The kotwal",
+        "The zamindar",
+        "The qazi",
+        "The subedar"
+      ],
+      "a": 0,
+      "e": "The kotwal was responsible for law and order in cities, while faujdars maintained broader law and order and amils were primarily revenue collectors who also dealt with rebels."
+    },
+    {
+      "q": "Who organised a regular police force in 1791 by modernising the old thana system under an Indian daroga and a European superintendent of police, relieving zamindars of their earlier police duties?",
+      "o": [
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord Bentinck",
+        "Lord Mayo"
+      ],
+      "a": 0,
+      "e": "Cornwallis organised a regular police force in 1791, modernising the thana system under a daroga (Indian) at the local level and a superintendent of police (SP) at the district level."
+    },
+    {
+      "q": "Which governor-general abolished the office of Superintendent of Police, transferring police heading duties to the collector/magistrate and commissioner instead, resulting in a poorly organised police structure?",
+      "o": [
+        "William Bentinck",
+        "Warren Hastings",
+        "Lord Wellesley",
+        "Lord Dalhousie"
+      ],
+      "a": 0,
+      "e": "Bentinck (1828-35) abolished the SP's office, burdening the collector/magistrate with police duties as well — a change that resulted in a poorly coordinated police structure."
+    },
+    {
+      "q": "The recommendations of the Police Commission (1860) led to which landmark legislation establishing a hierarchical police structure (inspector-general, deputy inspector-general, superintendent of police)?",
+      "o": [
+        "The Indian Police Act, 1861",
+        "The Indian Councils Act, 1861",
+        "The Criminal Procedure Code, 1861",
+        "The Police Reorganisation Act, 1858"
+      ],
+      "a": 0,
+      "e": "The Indian Police Act, 1861, based on the 1860 Police Commission's recommendations, established a clear hierarchy — inspector-general (province), deputy inspector-general (range), and superintendent of police (district)."
+    },
+    {
+      "q": "The 1902 Police Commission recommended establishing which two bodies for intelligence and criminal investigation?",
+      "o": [
+        "The Criminal Investigation Department (CID) in provinces and a Central Intelligence Bureau at the Centre",
+        "An All-India Police Force under direct central command",
+        "A separate secret police answerable only to the Viceroy",
+        "A Federal Investigation Agency modelled on European lines"
+      ],
+      "a": 0,
+      "e": "The 1902 Police Commission recommended establishing provincial CIDs and a Central Intelligence Bureau, strengthening the colonial state's surveillance and investigative apparatus."
+    },
+    {
+      "q": "Regarding the British Indian Army's composition before 1857, which of the following is correct?",
+      "o": [
+        "It comprised the 'Queen's army' (Crown troops on duty in India) and separate 'Company's troops' (a mix of European regiments and locally recruited Native regiments under British officers)",
+        "It consisted solely of Indian soldiers with no British troops present at all",
+        "It was composed entirely of mercenaries hired from other European colonial powers",
+        "It had no European component whatsoever until after 1857"
+      ],
+      "a": 0,
+      "e": "Prior to 1857, India's British military presence comprised the Crown's Queen's army and the Company's own troops (European regiments plus British-officered Native regiments) operating as two distinct forces."
+    },
+    {
+      "q": "After 1857, army reorganisation deliberately fixed the ratio of Europeans to Indians in the Bengal Army, and in the Madras and Bombay Armies, at approximately what levels?",
+      "o": [
+        "One European to two Indians in Bengal, and two Europeans to five Indians in Madras and Bombay",
+        "One European to ten Indians in all three armies equally",
+        "Complete parity of one European to one Indian everywhere",
+        "No fixed ratio was ever established after 1857"
+      ],
+      "a": 0,
+      "e": "Post-1857 reorganisation fixed European-to-Indian ratios at roughly 1:2 in the Bengal Army and 2:5 in the Madras and Bombay Armies, ensuring firm European numerical dominance."
+    },
+    {
+      "q": "What was the highest rank an Indian could attain in the British Indian Army until 1914, before Indians were allowed into commissioned ranks from 1918 onward?",
+      "o": [
+        "Subedar",
+        "Colonel",
+        "Brigadier",
+        "General"
+      ],
+      "a": 0,
+      "e": "Until 1914, the highest rank open to an Indian soldier was subedar; only from 1918 were Indians permitted into commissioned officer ranks, and even then very gradually."
+    },
+    {
+      "q": "The ideology of 'martial races' and 'non-martial races', developed particularly under Lord Roberts (commander-in-chief, 1887-92), was primarily used to justify:",
+      "o": [
+        "Discriminatory recruitment favouring groups like Sikhs, Gurkhas and Pathans (who had aided suppression of 1857) over groups from regions that had participated in the revolt",
+        "Equal recruitment opportunities for all Indian communities regardless of region",
+        "The complete exclusion of all Indians from the army",
+        "The recruitment of only urban, English-educated Indians into combat roles"
+      ],
+      "a": 0,
+      "e": "The 'martial races' ideology justified preferential recruitment of groups seen as loyal during 1857 (Sikhs, Gurkhas, Pathans) over communities from regions that had revolted, embedding a discriminatory and divisive recruitment policy."
+    },
+    {
+      "q": "According to Charles Wood, Secretary of State for India (as quoted in the chapter), what was the underlying purpose of introducing caste and communal companies within Indian army regiments?",
+      "o": [
+        "To cultivate rivalry between different groups (e.g., Sikh versus Hindu, Gorkha versus either) so soldiers would fire on each other without scruple if needed, preventing unified nationalist sentiment",
+        "To promote genuine multicultural harmony and unity among Indian soldiers",
+        "To ensure equal representation of all regions in every regiment for administrative convenience",
+        "To reduce costs by grouping soldiers according to dietary preferences"
+      ],
+      "a": 0,
+      "e": "Charles Wood explicitly stated the goal of fostering rivalry between different communal/caste groups within regiments, ensuring soldiers would have no scruples firing on each other — a deliberate 'divide and rule' military strategy."
+    },
+    {
+      "q": "Where were the earliest 'Mayor's Courts', marking the beginnings of a common law system based on recorded judicial precedent, established in 1726 by the East India Company?",
+      "o": [
+        "Madras, Bombay and Calcutta",
+        "Delhi, Agra and Lahore",
+        "Calcutta, Patna and Dacca",
+        "Bombay, Surat and Ahmedabad"
+      ],
+      "a": 0,
+      "e": "Mayor's Courts were established in 1726 in Madras, Bombay and Calcutta, marking the beginning of a common law system based on recorded precedent rather than traditional, unstructured justice."
+    },
+    {
+      "q": "Under Warren Hastings' judicial reforms, District Diwani Adalats handled civil disputes with appeals going to which body?",
+      "o": [
+        "The Sadar Diwani Adalat",
+        "The Supreme Court at Calcutta",
+        "The Privy Council in London",
+        "The Federal Court"
+      ],
+      "a": 0,
+      "e": "Under Hastings, appeals from District Diwani Adalats (civil cases) went to the Sadar Diwani Adalat, functioning under a president and two members of the Supreme Council."
+    },
+    {
+      "q": "What major judicial reform did Cornwallis introduce regarding the collector's role, marking a key step in the separation of powers?",
+      "o": [
+        "The collector was made responsible only for revenue administration, losing all magisterial functions, which were transferred to a new district judge",
+        "The collector was given both revenue and full judicial powers combined for greater efficiency",
+        "The office of collector was abolished entirely",
+        "The collector was made subordinate directly to the Sadar Nizamat Adalat"
+      ],
+      "a": 0,
+      "e": "Cornwallis separated revenue and judicial functions, stripping the collector of magisterial powers (transferred to the district judge) — a foundational step toward separation of powers in colonial administration."
+    },
+    {
+      "q": "Which set of codified laws resulted from the Law Commission established under Macaulay in 1833?",
+      "o": [
+        "The Civil Procedure Code (1859), Indian Penal Code (1860), and Criminal Procedure Code (1861)",
+        "The Government of India Act (1858) and Indian Councils Act (1861)",
+        "The Regulating Act (1773) and Pitt's India Act (1784)",
+        "The Hindu Code Bill and the Special Marriage Act"
+      ],
+      "a": 0,
+      "e": "Macaulay's Law Commission (1833) eventually produced the Civil Procedure Code (1859), the Indian Penal Code (1860), and the Criminal Procedure Code (1861), forming the backbone of codified law in British India."
+    },
+    {
+      "q": "In 1865, the Supreme Court and the Sadar Adalats were merged to form which three High Courts?",
+      "o": [
+        "Calcutta, Bombay and Madras",
+        "Delhi, Allahabad and Lahore",
+        "Calcutta, Patna and Nagpur",
+        "Bombay, Karachi and Lahore"
+      ],
+      "a": 0,
+      "e": "The 1865 merger of the Supreme Court and Sadar Adalats created the High Courts of Calcutta, Bombay and Madras, rationalising the colonial judicial hierarchy."
+    },
+    {
+      "q": "Which of the following are cited as negative aspects of the judicial system developed under British rule?\n1. It became increasingly complicated and expensive, favouring the rich who could manipulate it.\n2. There was ample scope for false evidence, deceit and chicanery.\n3. Litigation was often dragged out, delaying justice.\n4. European judges were always thoroughly familiar with Indian customs and traditions.\nHow many of the above are correctly listed as negative aspects?",
+      "o": [
+        "Only three",
+        "All four",
+        "Only two",
+        "Only one"
+      ],
+      "a": 0,
+      "e": "Statements 1, 2 and 3 are genuine criticisms of British Indian judiciary; statement 4 is false, since European judges were often noted to be unfamiliar with Indian usage and traditions — itself a criticism, not a positive feature."
+    },
+    {
+      "q": "Lord Mayo's Resolution of 1870 is significant in the history of local self-government because it:",
+      "o": [
+        "Began the process of financial decentralisation by transferring departments like education, medical services and roads to provincial control, authorising local taxation to fund them",
+        "Established the first fully elected municipal bodies in India",
+        "Abolished all local taxation in favour of central government funding",
+        "Introduced universal adult franchise for local body elections"
+      ],
+      "a": 0,
+      "e": "Mayo's 1870 Resolution began financial decentralisation, transferring certain administrative departments to provincial control and authorising local taxation — the beginning of local finance in British India."
+    },
+    {
+      "q": "Which Viceroy, through his 1882 Resolution, is regarded as the 'father of local self-government in India'?",
+      "o": [
+        "Lord Ripon",
+        "Lord Mayo",
+        "Lord Curzon",
+        "Lord Lytton"
+      ],
+      "a": 0,
+      "e": "Lord Ripon, through his 1882 Resolution advocating elected non-official majorities and reduced official interference in local bodies, is regarded as the father of local self-government in India."
+    },
+    {
+      "q": "Despite Ripon's reforms, which of the following remained persistent drawbacks of local self-governing bodies in India?\n1. Elected members remained a minority in district boards and many municipalities.\n2. Franchise for local body elections was very limited.\n3. District boards continued to be headed by district officials.\n4. The government retained the power to suspend or supersede these bodies at will.\nHow many of the above are correctly listed as persistent drawbacks?",
+      "o": [
+        "All four",
+        "Only three",
+        "Only two",
+        "Only one"
+      ],
+      "a": 0,
+      "e": "All four drawbacks — limited elected representation, restricted franchise, official-headed district boards, and government's suspension powers — persisted despite Ripon's reforms, limiting genuine local self-government."
+    },
+    {
+      "q": "The Royal Commission on Decentralisation (1908) identified which factor as the greatest obstacle to effective local self-government, and recommended empowering village panchayats with which additional powers?",
+      "o": [
+        "Lack of financial resources; recommended judicial jurisdiction in petty cases and control over minor village works, schools and fuel/fodder reserves",
+        "Excessive local taxation; recommended abolishing all local taxes",
+        "Overcrowded courts; recommended abolishing village panchayats entirely",
+        "Lack of British officials in villages; recommended appointing more European supervisors"
+      ],
+      "a": 0,
+      "e": "The 1908 Commission identified inadequate financial resources as the central problem, recommending that village panchayats be granted petty judicial jurisdiction and control over minor local works and resources, along with adequate income sources."
+    },
+    {
+      "q": "Under dyarchy (Government of India Act, 1919), why could Indian ministers accomplish little in the sphere of local self-government despite it becoming a 'transferred' subject?",
+      "o": [
+        "Because finance remained a 'reserved' subject under an executive councillor's control, leaving ministers without adequate funds",
+        "Because local self-government was entirely removed from provincial jurisdiction",
+        "Because the British directly vetoed any local government initiatives",
+        "Because the Congress boycotted all provincial ministries during this period"
+      ],
+      "a": 0,
+      "e": "Although local self-government was 'transferred' to popular ministers, finance remained a 'reserved' subject controlled by an executive councillor, starving local government initiatives of necessary funds."
+    },
+    {
+      "q": "The Simon Commission (1930), reviewing local self-government, made which observation regarding elected members and local taxation?",
+      "o": [
+        "It noted the reluctance of elected members to impose local taxes and observed a general deterioration in local body finances since the 1919 reforms",
+        "It praised elected members for aggressively and effectively raising local taxes",
+        "It found no issues whatsoever with the state of local self-government",
+        "It recommended immediate abolition of all local self-governing bodies"
+      ],
+      "a": 0,
+      "e": "The Simon Commission observed elected members' reluctance to impose local taxes and noted deteriorating local body finances since 1919 — paradoxically recommending increased provincial control rather than more local autonomy."
+    },
+    {
+      "q": "How did the Government of India Act, 1935 affect local self-governing institutions, notwithstanding the provincial autonomy it introduced?",
+      "o": [
+        "Though provincial autonomy brought portfolio finance under popular ministries (aiding local bodies), new restrictions were also placed on local bodies' power to levy or enhance certain taxes",
+        "It granted local bodies unrestricted and unprecedented powers of taxation with no restrictions whatsoever",
+        "It abolished all local self-governing institutions in favour of direct central administration",
+        "It had no impact at all on local self-government"
+      ],
+      "a": 0,
+      "e": "While provincial autonomy under the 1935 Act allowed popular ministries greater control over portfolio finance (benefiting local bodies), new restrictions were simultaneously placed on local bodies' taxing powers over trades, professions and municipal property."
+    }
+  ]
+}
