@@ -229,6 +229,7 @@
 <body>
 <div class="wrap">
   <div class="auth-bar" id="auth-bar">
+    <button class="auth-btn" id="lang-toggle-btn" title="Switch question language">🌐 हिंदी</button>
     <span id="auth-bar-loggedout">
       <button class="auth-btn" id="login-nav-btn">Log in</button>
       <button class="auth-btn primary-outline" id="signup-nav-btn">Sign up</button>
@@ -443,6 +444,37 @@ for(let i=1;i<=50;i++){
 }
 
 const SUBJECT_TEST_SIZE = 25;
+
+/* ==================== LANGUAGE (EN / HI) ====================
+   Questions may carry optional "q_hi" / "o_hi" / "e_hi" fields alongside the
+   base English "q" / "o" / "e". If the current language is Hindi and those
+   fields exist on a question, we show them; otherwise we transparently fall
+   back to English (so chapters not yet translated still work fine). */
+let currentLang = localStorage.getItem('upscPrepLang') || 'en';
+
+function qText(q){ return (currentLang === 'hi' && q.q_hi) ? q.q_hi : q.q; }
+function qOpts(q){ return (currentLang === 'hi' && q.o_hi) ? q.o_hi : q.o; }
+function qExplain(q){ return (currentLang === 'hi' && q.e_hi) ? q.e_hi : q.e; }
+
+function updateLangBtn(){
+  const btn = document.getElementById('lang-toggle-btn');
+  if(!btn) return;
+  btn.textContent = currentLang === 'en' ? '🌐 हिंदी' : '🌐 English';
+}
+
+function setLang(lang){
+  currentLang = lang;
+  localStorage.setItem('upscPrepLang', lang);
+  updateLangBtn();
+  // Re-render whichever screen is currently showing question content.
+  const quizScreen = document.getElementById('quiz-screen');
+  const resultScreen = document.getElementById('result-screen');
+  if(quizScreen && !quizScreen.classList.contains('hidden') && state.list.length){
+    renderQuestion();
+  } else if(resultScreen && !resultScreen.classList.contains('hidden') && state.list.length){
+    renderReviewList();
+  }
+}
 
 /* ==================== STATE ==================== */
 let state = { mode:null, chapterId:null, level:null, idx:0, list:[], answers:[] };
@@ -957,7 +989,23 @@ function formatQuestionHTML(raw){
     if(qMatch && qMatch[1].length < last.text.length){
       tail = qMatch[1].trim();
       last.text = last.text.slice(0, qMatch.index).trim();
-    } else {
+    } else if(/\?\s*$/.test(last.text)){
+      /* Language-agnostic fallback (e.g. Hindi, which ends sentences with
+         '।' rather than '.'): split the last statement's text at the final
+         sentence-ending punctuation mark before the trailing "...?", so the
+         closing question still gets its own line even without a capital
+         Latin letter to anchor on. */
+      const lastPunctIdx = Math.max(
+        last.text.lastIndexOf('।'), last.text.lastIndexOf('॥'),
+        last.text.lastIndexOf('.'), last.text.lastIndexOf('!')
+      );
+      const candidate = lastPunctIdx > -1 ? last.text.slice(lastPunctIdx+1).trim() : '';
+      if(candidate && candidate.endsWith('?') && lastPunctIdx+1 < last.text.length){
+        tail = candidate;
+        last.text = last.text.slice(0, lastPunctIdx+1).trim();
+      }
+    }
+    if(!tail){
       const instrMatch = last.text.match(/\s*((?:Select|Choose) the correct (?:answer|option)s?[^.?]*[.?]?)\s*$/i);
       if(instrMatch && instrMatch[1].length < last.text.length){
         tail = instrMatch[1].trim();
@@ -1021,12 +1069,12 @@ function renderQuestion(){
     tag.classList.add('hidden');
   }
 
-  document.getElementById('q-text').innerHTML = formatQuestionHTML(q.q);
+  document.getElementById('q-text').innerHTML = formatQuestionHTML(qText(q));
   const optsEl = document.getElementById('options');
   optsEl.innerHTML = '';
   const letters = ['A','B','C','D'];
   const existing = state.answers[state.idx];
-  q.o.forEach((optText, i)=>{
+  qOpts(q).forEach((optText, i)=>{
     const div = document.createElement('div');
     div.className = 'opt';
     div.innerHTML = `<span class="letter">${letters[i]}.</span><span>${optText}</span>`;
@@ -1049,7 +1097,7 @@ function renderQuestion(){
       else el.classList.add('dim');
     });
     explainEl.style.display = 'block';
-    explainEl.innerHTML = (existing.correct ? '✅ Correct. ' : '❌ Incorrect. ') + existing.explain;
+    explainEl.innerHTML = (existing.correct ? '✅ Correct. ' : '❌ Incorrect. ') + qExplain(q);
     nextBtn.disabled = false;
     state.selected = existing.chosenIdx;
   } else {
@@ -1072,10 +1120,10 @@ function selectOption(i){
     else el.classList.add('dim');
   });
   const isCorrect = (i === q.a);
-  state.answers[state.idx] = {q:q.q, options:q.o, correctIdx:q.a, chosenIdx:i, correct:isCorrect, explain:q.e, chapterTitle:q.chapterTitle};
+  state.answers[state.idx] = {correctIdx:q.a, chosenIdx:i, correct:isCorrect};
   const explainEl = document.getElementById('explain');
   explainEl.style.display = 'block';
-  explainEl.innerHTML = (isCorrect ? '✅ Correct. ' : '❌ Incorrect. ') + q.e;
+  explainEl.innerHTML = (isCorrect ? '✅ Correct. ' : '❌ Incorrect. ') + qExplain(q);
   document.getElementById('next-btn').disabled = false;
 }
 
@@ -1106,6 +1154,8 @@ document.getElementById('chapter-back-btn').onclick = ()=> renderSubjects();
 document.getElementById('level-back-btn').onclick = ()=> renderChapterList(state.subjectKey);
 
 /* ==================== NAV: auth bar, auth screen, profile, leaderboard ==================== */
+updateLangBtn();
+document.getElementById('lang-toggle-btn').onclick = ()=> setLang(currentLang === 'en' ? 'hi' : 'en');
 document.getElementById('leaderboard-nav-btn').onclick = ()=> renderLeaderboard();
 document.getElementById('login-nav-btn').onclick = ()=> renderAuth('login');
 document.getElementById('signup-nav-btn').onclick = ()=> renderAuth('signup');
@@ -1178,26 +1228,31 @@ function showResult(){
   document.getElementById('stat-total').textContent = total;
   saveAttemptIfLoggedIn();
 
+  renderReviewList();
+}
+
+function renderReviewList(){
   const reviewList = document.getElementById('review-list');
   reviewList.innerHTML = '<h3 style="font-size:0.95rem; margin-bottom:10px;">Review</h3>';
   const letters = ['A','B','C','D'];
   state.list.forEach((q, i)=>{
     const a = state.answers[i];
+    const opts = qOpts(q);
     const div = document.createElement('div');
     div.className = 'review-item';
     if(a){
       div.innerHTML = `
-        <div class="rq"><span>${i+1}.</span> ${formatQuestionHTML(a.q)}${a.chapterTitle && state.mode==='subject' ? ` <span style="color:var(--accent); font-weight:600;">(${a.chapterTitle})</span>` : ''}</div>
-        <div class="ra">Your answer: <b>${letters[a.chosenIdx]}. ${a.options[a.chosenIdx]}</b> — <span class="${a.correct?'tag-ok':'tag-bad'}">${a.correct?'Correct':'Wrong'}</span></div>
-        ${!a.correct ? `<div class="ra">Correct answer: <b>${letters[a.correctIdx]}. ${a.options[a.correctIdx]}</b></div>` : ''}
-        <div class="ra" style="color:var(--muted); margin-top:6px;">${a.explain}</div>
+        <div class="rq"><span>${i+1}.</span> ${formatQuestionHTML(qText(q))}${q.chapterTitle && state.mode==='subject' ? ` <span style="color:var(--accent); font-weight:600;">(${q.chapterTitle})</span>` : ''}</div>
+        <div class="ra">Your answer: <b>${letters[a.chosenIdx]}. ${opts[a.chosenIdx]}</b> — <span class="${a.correct?'tag-ok':'tag-bad'}">${a.correct?'Correct':'Wrong'}</span></div>
+        ${!a.correct ? `<div class="ra">Correct answer: <b>${letters[a.correctIdx]}. ${opts[a.correctIdx]}</b></div>` : ''}
+        <div class="ra" style="color:var(--muted); margin-top:6px;">${qExplain(q)}</div>
       `;
     } else {
       div.innerHTML = `
-        <div class="rq"><span>${i+1}.</span> ${formatQuestionHTML(q.q)}${q.chapterTitle && state.mode==='subject' ? ` <span style="color:var(--accent); font-weight:600;">(${q.chapterTitle})</span>` : ''}</div>
+        <div class="rq"><span>${i+1}.</span> ${formatQuestionHTML(qText(q))}${q.chapterTitle && state.mode==='subject' ? ` <span style="color:var(--accent); font-weight:600;">(${q.chapterTitle})</span>` : ''}</div>
         <div class="ra">Not answered — <span class="tag-bad">Skipped</span></div>
-        <div class="ra">Correct answer: <b>${letters[q.a]}. ${q.o[q.a]}</b></div>
-        <div class="ra" style="color:var(--muted); margin-top:6px;">${q.e}</div>
+        <div class="ra">Correct answer: <b>${letters[q.a]}. ${opts[q.a]}</b></div>
+        <div class="ra" style="color:var(--muted); margin-top:6px;">${qExplain(q)}</div>
       `;
     }
     reviewList.appendChild(div);
