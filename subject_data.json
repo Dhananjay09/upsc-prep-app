@@ -70219,10 +70219,10 @@
             {
               "q": "Which one of the following statements about the Great Barrier Reef is NOT correct?",
               "o": [
-                "The Great Barrier Reef is about 1,930 km long",
-                "The channel separating the Great Barrier Reef from the coast is up to 160 km wide in places",
+                "The Great Barrier Reef is about 1,930 km long, making it by far the largest coral reef structure found anywhere on Earth",
+                "The channel separating the Great Barrier Reef from the coast is up to 160 km wide in places, forming a broad shallow lagoon used for coastal shipping",
                 "The Great Barrier Reef lies off the coast of Queensland, Australia, and is an example of a fringing reef lying directly against the shore",
-                "The channel separating the Great Barrier Reef from the coast can be over 60 metres deep"
+                "The channel separating the Great Barrier Reef from the coast can be over 60 metres deep in its outer sections, deepening further towards the open ocean"
               ],
               "a": 2,
               "e": "This statement is incorrect — the Great Barrier Reef is explicitly cited as the best-known example of a BARRIER reef (separated from the coast by a wide, deep channel), not a fringing reef lying directly against the shore. The other three statements accurately describe its scale."
@@ -70969,10 +70969,10 @@
             {
               "q": "Which one of the following statements about wind speed with altitude is correct, as implied by the text's discussion questions?",
               "o": [
-                "Wind speed decreases steadily with altitude up to the stratosphere",
-                "Wind speed is always identical at all altitudes, since friction plays no role in wind movement",
+                "Wind speed decreases steadily with increasing altitude all the way up through the troposphere into the lower stratosphere",
+                "Wind speed remains broadly identical at all altitudes near the surface, since friction is thought to play only a very minor role in wind movement",
                 "Wind speed at higher altitudes above the surface is generally greater than at ground level, due to reduced surface friction",
-                "Wind speed depends solely on temperature and has no relationship with altitude or friction"
+                "Wind speed depends mainly on local temperature differences and has little meaningful relationship with altitude or surface friction"
               ],
               "a": 2,
               "e": "Wind speed increases with altitude near the surface mainly because frictional drag from the ground, vegetation and buildings slows near-surface winds; higher up, this frictional retardation is reduced, allowing greater wind speeds — consistent with the text's own discussion prompt about wind speed at height versus at the surface."
@@ -71078,9 +71078,9 @@
               "q": "The winter temperature of Montreal (Canada) is much lower than that of London (England), although both lie in almost the same latitudinal zone. Which one of the following is the BEST explanation for this, per Goh Cheng Leong?",
               "o": [
                 "Montreal has a continental location, while London's coast benefits from the warming influence of the Gulf Stream/North Atlantic Drift",
-                "Montreal lies at a much higher altitude than London, producing a colder climate through the lapse rate",
-                "Montreal has far greater cloud cover than London, allowing more rapid nocturnal cooling",
-                "Montreal receives the Westerlies only in winter, while London receives them year-round"
+                "Montreal lies at a much higher altitude than London, producing a colder climate through the normal environmental lapse rate of temperature with height",
+                "Montreal has far greater cloud cover than London throughout the year, allowing much more rapid nocturnal cooling on winter nights",
+                "Montreal receives the moderating Westerlies only during the summer months, while London receives their warming influence year-round"
               ],
               "a": 0,
               "e": "This is the text's classic example of continentality: Montreal's interior, continental location gives it a much colder winter than London, whose position on the western, oceanic side of a landmass is warmed by ocean currents/winds — not a matter of altitude, seasonal Westerlies timing, or cloud cover."
@@ -71089,9 +71089,9 @@
               "q": "Which one of the following instruments is used to measure the velocity of wind, and why is a Stevenson Screen typically painted white?",
               "o": [
                 "Anemometer; painted white to reflect as much heat as possible so instruments inside register accurate air temperature",
-                "Hygrometer; painted white purely for ease of visual identification in the field",
-                "Barograph; painted white to absorb maximum incoming solar energy for calibration purposes",
-                "Wind vane; painted white to prevent corrosion of the instrument casing"
+                "Hygrometer; painted white mainly for ease of visual identification against the surrounding grass and vegetation in the field",
+                "Barograph; painted white to absorb the maximum amount of incoming solar energy needed for its self-calibration mechanism",
+                "Wind vane; painted white to prevent corrosion of the instrument casing under prolonged exposure to sun and rain"
               ],
               "a": 0,
               "e": "Wind velocity is measured by an anemometer (a wind vane only shows direction). A Stevenson Screen is painted white specifically to reflect heat rather than absorb it, so the thermometers inside are not artificially warmed and register accurate ambient air temperature."
@@ -71313,9 +71313,9 @@
               "q": "According to NCERT, why do tropical cyclones NOT form near the equator, despite the equator being a region of intense heating and low pressure?",
               "o": [
                 "Because the Coriolis force is zero at the equator, so low pressure there simply gets filled rather than intensifying into a rotating storm system",
-                "Because equatorial regions never experience low pressure conditions at all",
-                "Because equatorial air masses are always classified as continental, which cannot generate cyclonic rotation",
-                "Because the ITCZ only exists at latitudes above 20°N and S, far from the equator itself"
+                "Because equatorial regions typically experience persistent low pressure without the pressure gradient needed to trigger organised storm rotation",
+                "Because equatorial air masses are generally classified as maritime equatorial, a category thought to suppress the convective instability cyclones require",
+                "Because the ITCZ is usually found near latitudes of about 20°N and S during peak cyclone season, well away from the equator itself"
               ],
               "a": 0,
               "e": "NCERT explicitly explains that at the equator the Coriolis force is zero, so wind blows straight across isobars into the low-pressure area, filling it instead of allowing the rotational intensification needed to form a cyclone — not because of an absence of low pressure, air mass classification, or ITCZ location (the ITCZ is in fact centred near the equator)."
@@ -71477,9 +71477,9 @@
             {
               "q": "Which one of the following statements about the equatorial tropical rain forest is NOT correct?",
               "o": [
-                "The forest displays a distinct three-layer arrangement, with the tallest trees attaining heights of up to 45 metres",
-                "Undergrowth is generally sparse because the taller trees cut off most of the sunlight reaching the ground",
-                "In the Amazon lowlands, the dense forest is termed 'selvas'",
+                "The forest displays a distinct three-layer arrangement, or storeys, with the tallest emergent trees attaining heights of up to 45 metres or more",
+                "Undergrowth is generally sparse and open because the dense canopy of taller trees cuts off most of the sunlight that would otherwise reach the forest floor",
+                "In the Amazon lowlands, this dense equatorial forest is termed 'selvas', a name that distinguishes it from the surrounding llanos and campos vegetation",
                 "Unlike the savanna, Mediterranean and temperate climates, the growing season is restricted to specific months by seasonal drought or cold"
               ],
               "a": 3,
@@ -71499,9 +71499,9 @@
             {
               "q": "In the context of the equatorial rain forest, what is 'belukar', as described by Goh Cheng Leong?",
               "o": [
-                "A term for the thick, continuous canopy of foliage seen from the air over the Amazon lowlands",
-                "A term used for climbing plants such as lianas or rattan that grow to hundreds of metres in length",
-                "A local name for the mangrove forests found in coastal and brackish swamp areas",
+                "A term for the thick, continuous canopy of foliage that is visible from the air stretching unbroken over the Amazon lowlands",
+                "A term used for the woody climbing plants such as lianas or rattan that twist upward through the canopy, sometimes growing to hundreds of metres in length",
+                "A local Malaysian name for the mangrove forests found scattered along coastal mudflats and brackish tidal swamp areas",
                 "A less luxuriant secondary forest, characterised by short trees and very dense undergrowth, that springs up on abandoned forest clearings in Malaysia"
               ],
               "a": 3,
@@ -71788,9 +71788,9 @@
               "q": "According to NCERT, what is meant by a 'break' in the monsoon, and what is one cause of such breaks over India's west coast specifically?",
               "o": [
                 "A break is a dry spell of one or more weeks after some days of rain during the south-west monsoon season; on the west coast, breaks are associated with winds blowing parallel to the coast rather than onshore",
-                "A break is a period of unusually heavy, continuous rainfall lasting several weeks without any pause",
-                "A break refers to the permanent end of the monsoon season each year, occurring when the ITCZ crosses the equator into the southern hemisphere",
-                "A break refers only to the complete absence of the north-east monsoon in a given winter"
+                "A break is a period of unusually heavy, continuous rainfall lasting several weeks with very little pause, typically associated with active monsoon depressions",
+                "A break refers to the permanent end of the monsoon season each year, an event that occurs once the ITCZ has fully crossed back over the equator into the southern hemisphere",
+                "A break refers to a marked weakening of the north-east monsoon during a given winter, reducing the usual rainfall it brings to the south-eastern coast"
               ],
               "a": 0,
               "e": "NCERT defines a 'break' in the monsoon as a dry spell of a week or more occurring after some days of rain during the south-west monsoon season — a common feature of the rainy season, not the permanent end of the season. Over the west coast specifically, such breaks are associated with winds blowing parallel to (rather than perpendicular/onshore to) the coast."
@@ -71852,9 +71852,9 @@
               "q": "According to Goh Cheng Leong, what is the 'Harmattan', and what is one of its notable effects?",
               "o": [
                 "A dry, dust-laden North-East Trade Wind blowing off-shore from the Sahara towards the Guinea coast, providing relief from humidity but also ruining crops and impeding river navigation",
-                "A seasonal ocean current responsible for the variability of savanna rainfall along the Guinea coast",
-                "A moist on-shore wind bringing the annual rainy season to the West African Sudan each May",
-                "A local name for the intense radiative cooling that produces night frosts in the Sudan climate's dry season"
+                "A seasonal cold ocean current that is thought to be chiefly responsible for the year-to-year variability of savanna rainfall along the Guinea coast",
+                "A moist on-shore wind that brings the annual rainy season to the West African Sudan each May, replacing the dry conditions of the preceding months",
+                "A local name for the intense radiative cooling on clear dry nights that produces occasional night frosts during the Sudan climate's cool dry season"
               ],
               "a": 0,
               "e": "The Harmattan is described as a dry, dust-laden wind (the North-East Trades blowing off-shore from the Sahara) reaching the Guinea coast, locally called 'the doctor' because it relieves humidity through evaporative cooling, but it is so dry it ruins crops, raises dusty haze, and impedes inland river navigation — not a rain-bringing wind, radiative cooling process, or ocean current."
@@ -71928,9 +71928,9 @@
             {
               "q": "According to Goh Cheng Leong, which region has become Australia's largest cattle-producing state, having made a start on introducing temperate cattle breeds and exporting both meat and milk?",
               "o": [
-                "New South Wales",
-                "Tasmania",
-                "Western Australia",
+                "New South Wales (south-eastern Australia)",
+                "Tasmania (the island state)",
+                "Western Australia (the vast western state)",
                 "Tropical Queensland"
               ],
               "a": 3,
@@ -72126,9 +72126,9 @@
             {
               "q": "According to NCERT's account of Koeppen's Subtropical Steppe (BSh) and Subtropical Desert (BWh) climates, which one of the following is correct?",
               "o": [
-                "Fog is rare in coastal deserts bordering cold currents, since cold currents suppress atmospheric moisture entirely",
-                "Subtropical desert receives more rainfall than subtropical steppe, making desert vegetation denser than steppe vegetation",
-                "Rainfall in both these climates is entirely reliable and evenly distributed across all months of the year",
+                "Fog is actually common in coastal deserts bordering cold currents, but this fog rarely produces meaningful rainfall since the air above remains stable",
+                "Subtropical desert receives roughly the same rainfall as subtropical steppe, so the two zones support broadly similar sparse vegetation cover",
+                "Rainfall in both these climates is fairly reliable and reasonably well distributed across most months of the year, aiding regular pastoral use",
                 "Subtropical steppe receives slightly more rainfall than subtropical desert, adequate enough to support sparse grasslands, though both share highly variable rainfall"
               ],
               "a": 3,
@@ -72364,9 +72364,9 @@
             {
               "q": "According to Goh Cheng Leong, what effect does the Chinook wind have on the Canadian and U.S. Prairies?",
               "o": [
-                "It is a cold wind descending the eastern Rockies that deepens winter snow cover, delaying the start of the agricultural year",
-                "It is a moist on-shore wind bringing the bulk of the Prairies' summer convectional rainfall",
-                "It is a seasonal ocean current responsible for warming the Pampas grasslands of South America",
+                "It is a cold, dry wind descending the eastern slopes of the Rockies that deepens winter snow cover on the plains, delaying the start of the spring agricultural season",
+                "It is a moist on-shore wind that brings the bulk of the Prairies' summer convectional rainfall inland from the Gulf of Mexico",
+                "It is a seasonal warm ocean current responsible for moderating temperatures along the Pampas grasslands of South America",
                 "It is a hot wind descending the eastern Rockies that can raise temperatures by about 22°C within 20 minutes, melting snow-covered pastures and accelerating the agricultural year"
               ],
               "a": 3,
@@ -72419,10 +72419,10 @@
             {
               "q": "According to Goh Cheng Leong, which nomadic tribes historically wandered the Eurasian Steppes with their herds before being settled under Communist rule into collective and state farms?",
               "o": [
-                "The Masai and Hausa",
+                "The Masai and Hausa (East and West African pastoralist peoples)",
                 "The Kirghiz, Kazakhs and Kalmuk",
-                "The Bushmen and Bindibu",
-                "The Bedouin and Tuareg"
+                "The Bushmen and Bindibu (desert-dwelling peoples of Africa and Australia)",
+                "The Bedouin and Tuareg (nomadic peoples of Arabia and the Sahara)"
               ],
               "a": 1,
               "e": "The text explicitly names the Kirghiz (also called 'the Tartars'), Kazakhs, and Kalmuk as the nomadic tribes of the Eurasian Steppes, later settled onto collective/state farms — not the Bedouin/Tuareg (desert nomads, covered in Ch.18), or the Masai/Hausa/Bushmen/Bindibu (covered in earlier savanna/desert chapters)."
@@ -72788,9 +72788,9 @@
               "q": "Which one of the following statements about precipitation in the Siberian climate, per Goh Cheng Leong, is NOT correct?",
               "o": [
                 "European U.S.S.R. generally receives less annual precipitation than Central Siberia or Canada, since it lies furthest from the moderating influence of the Westerlies",
-                "Central Siberia and Canada receive only about 380 mm annually, owing to continentality and lack of sea influence",
-                "Moscow's annual precipitation of 533 mm is mostly concentrated in the warmer months (June-September)",
-                "Eastern Siberia receives over 508 mm annually, being moistened by the South-East Monsoon from the Pacific Ocean"
+                "Central Siberia and Canada receive about 380 mm annually, a modest total owing to their continental interior location and lack of sea influence",
+                "Moscow's annual precipitation of 533 mm is mostly concentrated in the warmer months between June and September, falling mainly as convectional summer showers",
+                "Eastern Siberia receives over 508 mm annually, being moistened by the South-East Monsoon that reaches it from the Pacific Ocean during summer"
               ],
               "a": 0,
               "e": "This statement is incorrect and reverses the actual pattern — the text explicitly states European U.S.S.R. usually has MORE than 508 mm of annual precipitation BECAUSE of on-coming Westerlies and periodic cyclone penetration, i.e. MORE (not less) than the more continental interior regions. The other three statements are correct."
@@ -72918,9 +72918,9 @@
               "q": "According to Goh Cheng Leong, what specific weather phenomenon results from the meeting of the warm Gulf Stream and the cold Labrador Current off Newfoundland?",
               "o": [
                 "Dense mist and fog, along with substantial precipitation, making Newfoundland experience more drizzle than almost anywhere else in the world",
-                "A dry, dusty wind similar to the Sirocco that withers crops along the coast",
-                "Violent tropical cyclones comparable to Caribbean hurricanes",
-                "A complete absence of precipitation, creating a small coastal rain-shadow desert"
+                "A dry, dusty wind similar in character to the Mediterranean's Sirocco that occasionally withers crops along the exposed Atlantic coastline",
+                "Violent tropical cyclones broadly comparable in intensity to the hurricanes that strike the Caribbean each late summer",
+                "A marked reduction in precipitation, creating a small coastal rain-shadow zone in the lee of the Appalachian uplands"
               ],
               "a": 0,
               "e": "The text explicitly attributes Newfoundland's dense mist, fog, and heavy precipitation (St. John's receiving about 1,372 mm annually) to the meeting of the warm Gulf Stream and cold Labrador Current — not a dry Sirocco-like wind, an absence of precipitation, or tropical cyclones."
@@ -73036,10 +73036,10 @@
             {
               "q": "Which one of the following statements about polar temperature, per Goh Cheng Leong, is NOT correct?",
               "o": [
-                "At the North Pole, there are six months without light in winter, corresponding to weeks of continuous darkness within the Arctic and Antarctic Circles generally",
-                "Normally more than eight months of the year have temperatures above freezing point, making the polar climate milder than commonly assumed",
+                "At the North Pole, there are six months without light in winter, corresponding to lengthy periods of continuous darkness within the Arctic and Antarctic Circles generally, with only twilight even at midday",
+                "Normally more than eight months of the year have temperatures above freezing point, making the polar climate considerably milder overall than the popular image of permanent ice and snow might suggest",
                 "Despite the long duration of continuous summer sunshine (the 'midnight sun'), temperatures remain low because the sun is low in the sky and much of its faint warmth is reflected by snow or consumed melting ice",
-                "The warmest month (June) in polar regions seldom rises above about 10°C, with mid-winter temperatures as low as -37°C or colder in the interior"
+                "The warmest month (June) in polar regions seldom rises above about 10°C even at its peak, with mid-winter temperatures falling as low as -37°C or colder in the continental interior"
               ],
               "a": 2,
               "e": "This statement is incorrect and reverses the actual fact — the text explicitly states normally NOT MORE than four months have temperatures above freezing point, not more than eight; the polar climate is characterised by a very short thaw period, not sustained above-freezing conditions. The other three statements are correct."
@@ -73177,10 +73177,10 @@
             {
               "q": "According to Goh Cheng Leong, what was the Tennessee Valley Authority (T.V.A.), and what did it achieve?",
               "o": [
-                "A private American agribusiness founded to develop the Cotton Belt's export infrastructure",
-                "A soil conservation NGO focused solely on afforestation projects in the south-eastern United States",
+                "A private American agribusiness founded in 1933 to develop the Cotton Belt's export infrastructure, focusing on rail links and cotton warehousing along the Mississippi",
+                "A soil conservation programme focused on afforestation projects in the south-eastern United States, aimed chiefly at reducing wind erosion on abandoned farmland",
                 "A U.S. multi-purpose dam programme, begun in 1933, that rehabilitated a devastated farming region through irrigation, hydro-electric power, flood control and improved river navigability",
-                "An international body established to regulate world wheat export quotas among major producers"
+                "An international body established after the Second World War to regulate world wheat export quotas among major grain-producing nations"
               ],
               "a": 2,
               "e": "The text explicitly describes the T.V.A. as a multi-purpose dam programme (over 30 dams since 1933) on the Tennessee River and its tributaries, rehabilitating a badly devastated 104,000 sq km region through combined irrigation, hydro-electric power generation, flood control and improved navigation — not a private agribusiness, an international quota body, or an NGO limited to afforestation."
@@ -73329,10 +73329,10 @@
             {
               "q": "According to Goh Cheng Leong, petroleum typically accumulates in which of the following geological settings?",
               "o": [
-                "Only at the base of extinct volcanoes, mixed directly with lava flows",
+                "Chiefly at the base of extinct volcanic cones, where it is thought to seep upward mixed with residual lava flows",
                 "Dome-shaped anticlines between two layers of non-porous rock, oil traps formed by faults, or pools capped by an impermeable volcanic dyke",
-                "Only in flat sedimentary basins with no folding or faulting whatsoever",
-                "Exclusively within metamorphic rock formations under extreme heat and pressure"
+                "Within flat sedimentary basins that show little folding or faulting, where porous reservoir rock is capped by a thick shale layer",
+                "Mainly within metamorphic rock formations that have been subjected to extreme heat and pressure over geological time"
               ],
               "a": 1,
               "e": "The text explicitly describes three oil-trapping settings: dome-shaped anticlines (oil at the crest, gas above, water below), fault-created traps where porous and non-porous strata are juxtaposed, and traps capped by an impermeable volcanic dyke — not flat unfolded basins, metamorphic rock, or lava-mixed deposits."
@@ -73678,9 +73678,9 @@
               "q": "According to Goh Cheng Leong, how did Japan address her rapid population growth, and what was the outcome?",
               "o": [
                 "Japan practised family planning, cutting her annual birth rate from about 22 per thousand in 1947 to about 13 per thousand, alongside a rise in living standards",
-                "Japan's population growth was addressed chiefly through compulsory land redistribution programmes",
-                "Japan encouraged large-scale emigration to Brazil and the U.S.A. as her primary population-control strategy",
-                "Japan relied mainly on increasing food imports rather than reducing her birth rate"
+                "Japan's population growth was addressed chiefly through compulsory land redistribution programmes that broke up large rural estates after the war",
+                "Japan encouraged large-scale emigration to Brazil and the U.S.A. as her primary strategy for controlling domestic population pressure",
+                "Japan relied mainly on steadily increasing food imports from South-East Asia rather than on reducing her birth rate directly"
               ],
               "a": 0,
               "e": "The text explicitly credits Japan's success to family planning/birth control, which nearly halved her birth rate (from 22 to 13 per thousand) within two decades, accompanied by a rise in living standards — not emigration, food imports, or land redistribution as the primary solution."
@@ -73752,9 +73752,9 @@
             {
               "q": "Which one of the following statements about draught animals in transport, per Goh Cheng Leong, is NOT correct?",
               "o": [
-                "Andean Indians make use of the llama, while Polar Eskimos still depend on huskies and reindeer",
-                "In Tibet, yaks remain the most important beast of burden in the rugged highlands",
-                "Draught animals could, at best, carry about 45 kg and cover 24 to 48 km per day",
+                "Andean Indians traditionally make use of the llama for transport, while Polar Eskimos still depend heavily on huskies and reindeer",
+                "In Tibet, the yak remains by far the most important beast of burden for travel across the rugged highland terrain",
+                "Draught animals could, at best, carry about 45 kg of load and cover a distance of 24 to 48 km in a single day",
                 "Draught animals such as horses and camels can typically carry loads exceeding 200 kg and cover well over 100 km per day"
               ],
               "a": 3,
@@ -73904,10 +73904,10 @@
             {
               "q": "Which one of the following statements about settlement types, per Goh Cheng Leong, is NOT correct?",
               "o": [
-                "Dispersed settlements are one-family or few-family residences scattered in isolated places, separated by open country or geographical barriers",
+                "Dispersed settlements consist of one-family or a few-family residences scattered across isolated places, separated from one another by open country or natural geographical barriers",
                 "Nucleated settlements are most typical of rural areas such as the highlands of Malaysia and the scrublands of central Australia, while dispersed settlements always include collective amenities like markets and schools",
                 "Nucleated settlements are groupings of several family residences with collective amenities such as shophouses, markets, schools and places of worship",
-                "Nucleated settlements may be called villages, towns, ports or cities depending on their size and function"
+                "Nucleated settlements may be called villages, towns, ports or cities depending on their overall size, population density and the range of functions they perform"
               ],
               "a": 1,
               "e": "This statement is incorrect and reverses the actual classification — the text explicitly describes DISPERSED (not nucleated) settlements as most typical of rural highlands/scrublands, while nucleated settlements are the ones with collective amenities like markets and schools. The other three statements are correct."
@@ -73916,9 +73916,9 @@
               "q": "According to Goh Cheng Leong, what is the key distinction between the 'site' and the 'situation' (or position) of a town, using Kuala Lumpur as the example?",
               "o": [
                 "Site refers to the town's immediate topographical location (e.g., the confluence of the Sungai Kelang and Gombak), while situation refers to its locational relationship to the wider region (e.g., within the 'rubber and tin belt' of central Peninsular Malaysia)",
-                "Site refers only to a town's regional economic role, while situation refers only to its physical landscape",
-                "Site refers to a town's population size, while situation refers to its administrative status",
-                "Site and situation are interchangeable terms referring to the same topographical location"
+                "Site refers only to a town's regional economic role within its trading hinterland and the resources it draws upon, while situation refers only to the physical landscape features found immediately around it",
+                "Site refers to a town's total population size and its formal administrative status within the wider region, while situation refers instead to its historical age, founding date and cultural heritage",
+                "Site and situation are treated as fully interchangeable terms in most geography textbooks, both referring to exactly the same immediate topographical location with no distinct meaning of their own"
               ],
               "a": 0,
               "e": "The text explicitly distinguishes site (the immediate topographical location, e.g., a river confluence) from situation/position (the town's relationship to the broader region, e.g., its place within a wider economic belt), cautioning readers not to confuse the two — not treating them as interchangeable or referring to population/administrative status."
@@ -73970,9 +73970,9 @@
             {
               "q": "Which one of the following statements about urbanization and conurbation, per Goh Cheng Leong, is NOT correct?",
               "o": [
-                "The Midlands of England, where Birmingham, Wolverhampton and Walsall merge, form a well-known conurbation called the 'Black Country'",
-                "Since the beginning of the twentieth century, the ratio of urban to rural population has risen by more than 25% in most countries",
-                "In Australia, roughly three out of every four people live in towns",
+                "The Midlands of England, where the towns of Birmingham, Wolverhampton and Walsall have merged together, form a well-known conurbation called the 'Black Country'",
+                "Since the beginning of the twentieth century, the ratio of urban to rural population has risen by more than 25 per cent in most industrialised and developing countries alike",
+                "In Australia, roughly three out of every four people live in towns or cities, reflecting one of the highest urbanisation levels of any country",
                 "Conurbations, where expanding towns merge into a continuous urban belt, are found only in developing countries and have never occurred in Europe or North America"
               ],
               "a": 3,
@@ -74230,10 +74230,10 @@
             {
               "q": "Which one of the following statements about India's tribal population and forests, per NCERT, is NOT correct?",
               "o": [
-                "The age-old knowledge of tribals regarding forestry can be used in the management and conservation of forests",
+                "The age-old knowledge of tribals regarding forestry, plant use and sustainable harvesting can be usefully drawn upon in the management and conservation of forests",
                 "Out of a total of 593 districts, 187 (2001) have been identified as tribal districts, and these districts account for less than 10 per cent of the total geographical area of the country",
                 "Forests provide tribal people with food, fruits, edible leaves, honey, nourishing roots and wild game, and materials for their houses, agricultural implements and household articles",
-                "Tribal people can be made growers of minor forest produce and encouraged to participate in conservation"
+                "Tribal people can be made growers of minor forest produce such as bamboo, cane and gums, and encouraged to actively participate in forest conservation programmes"
               ],
               "a": 1,
               "e": "This statement is incorrect — NCERT states the 187 tribal districts (2001) account for about 59.8 per cent of the country's forest cover while forming only 33.6 per cent of its total geographical area, not less than 10 per cent — demonstrating a disproportionately high concentration of forest cover in tribal districts. The other three statements are correct."
@@ -74306,8 +74306,8 @@
               "q": "Which one of the following statements about Laterite Soil, per NCERT, is NOT correct?",
               "o": [
                 "The word 'laterite' derives from the Latin word 'later', meaning brick, and these soils develop under high temperature and high rainfall conditions",
-                "Red laterite soils in Tamil Nadu, Andhra Pradesh and Kerala are more suitable for tree crops like cashewnut",
-                "With rain, lime and silica are leached away, leaving behind soils rich in iron oxide and aluminium compounds",
+                "Red laterite soils found in parts of Tamil Nadu, Andhra Pradesh and Kerala are considered more suitable for tree crops such as cashewnut than for cereal cultivation",
+                "With heavy rainfall, lime and silica are gradually leached away from the upper layers, leaving behind soils rich in iron oxide and aluminium compounds",
                 "Laterite soils are naturally rich in humus, nitrogen, phosphate and calcium, making them among the most fertile soils in India without needing any fertiliser application"
               ],
               "a": 3,
@@ -74783,9 +74783,9 @@
             {
               "q": "Which one of the following statements about the three interrelated processes of 'declining capabilities' among the poor, as described by NCERT, is NOT correct?",
               "o": [
-                "Environmental capabilities decline due to pollution",
-                "Personal capabilities decline due to increasing incidence of diseases and accidents",
-                "Social capabilities decline due to displacement and the weakening of social ties (social capital)",
+                "Environmental capabilities decline due to pollution, which increasingly limits poor households' access to clean air, water and usable land",
+                "Personal capabilities decline due to an increasing incidence of diseases and accidents, which the poor are often least equipped to recover from",
+                "Social capabilities decline due to displacement and the weakening of social ties, or social capital, that communities once relied upon",
                 "Economic capabilities decline due to a rigid, unchanging tax structure imposed uniformly on all income groups"
               ],
               "a": 3,
