@@ -1,0 +1,327 @@
+[
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test1",
+    "idx": 1,
+    "q": "Which of the following was an impact of the Russian Revolution on Indian nationalism, as noted in the chapter?",
+    "o": [
+      "It caused the British to grant immediate self-government to India",
+      "It had no impact on Indian nationalist thinking",
+      "It demonstrated that the masses, if organised and united, could challenge even the mightiest tyrants",
+      "It led to an immediate alliance between India and the Soviet Union"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test1",
+    "idx": 3,
+    "q": "Under dyarchy in the provinces, which of the following subjects were classified as 'transferred' subjects, to be administered by ministers responsible to the legislature?",
+    "o": [
+      "Defence and foreign affairs",
+      "Law and order, finance, land revenue and irrigation",
+      "Education, health, local government, agriculture and excise",
+      "Currency and coinage"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test1",
+    "idx": 4,
+    "q": "Under the Government of India Act, 1919, in case of failure of constitutional machinery in a province, the governor could:",
+    "o": [
+      "Refer the matter exclusively to the Secretary of State",
+      "Take over the administration of transferred subjects as well",
+      "Suspend dyarchy nationwide",
+      "Only dissolve the provincial legislature"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test1",
+    "idx": 6,
+    "q": "At the central level under the Government of India Act, 1919, a bicameral legislature was introduced consisting of:",
+    "o": [
+      "The Lok Sabha and Rajya Sabha",
+      "The Imperial Council and the Provincial Council",
+      "The Legislative Assembly and the Senate",
+      "The Central Legislative Assembly (lower house) and the Council of State (upper house)"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test1",
+    "idx": 9,
+    "q": "Which of the following is identified as a major drawback of the Montagu-Chelmsford Reforms?",
+    "o": [
+      "There was no division of subjects at all",
+      "The reforms granted full responsible government at the centre",
+      "Provincial ministers had complete control over finances",
+      "The franchise was extremely limited, covering only about one-and-a-half million people out of a population of roughly 260 million"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test2",
+    "idx": 0,
+    "q": "At the Bombay special session of Congress (August 1918, presided over by Hasan Imam), the Montford Reforms were declared to be:",
+    "o": [
+      "Fully acceptable as a step towards self-government",
+      "Superior to the Morley-Minto Reforms in every respect",
+      "A betrayal requiring immediate armed rebellion",
+      "\"Disappointing\" and \"unsatisfactory\", with demands for effective self-government instead"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test2",
+    "idx": 2,
+    "q": "Mohandas Karamchand Gandhi was born on October 2, 1869 in which princely state?",
+    "o": [
+      "Baroda State",
+      "Bhavnagar State",
+      "Rajkot, in Kathiawar",
+      "Porbandar, in the princely state of Kathiawar, Gujarat"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test2",
+    "idx": 4,
+    "q": "During the moderate phase of his struggle in South Africa (1894-1906), Gandhi set up the Natal Indian Congress and started which newspaper?",
+    "o": [
+      "Harijan",
+      "New India",
+      "Indian Opinion",
+      "Young India"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test2",
+    "idx": 5,
+    "q": "Gandhi's satyagraha technique in South Africa was first employed in 1906 to protest against:",
+    "o": [
+      "A law making it compulsory for Indians to carry registration certificates with fingerprints",
+      "A poll tax on ex-indentured Indians",
+      "A Supreme Court ruling invalidating non-Christian marriages",
+      "A ban on Indian migration between provinces"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test2",
+    "idx": 7,
+    "q": "The Supreme Court ruling in South Africa that invalidated all marriages not conducted according to Christian rites had the effect of:",
+    "o": [
+      "Legalising all forms of interfaith marriage",
+      "Declaring Hindu, Muslim and Parsi marriages illegal and their children illegitimate, drawing many women into the movement",
+      "Abolishing the poll tax on Indians",
+      "Granting Indian women the right to vote"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test2",
+    "idx": 8,
+    "q": "The Tolstoy Farm, founded in 1910 by Gandhi's associate Herman Kallenbach and named after the Russian writer, served the purpose of:",
+    "o": [
+      "Functioning purely as a religious ashram with no educational component",
+      "Training Indian soldiers for the British Indian Army",
+      "Housing the families of satyagrahis and providing vocational and manual training alongside education",
+      "Serving as a base for revolutionary bomb-making"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test3",
+    "idx": 1,
+    "q": "Gandhi returned to India from South Africa in:",
+    "o": [
+      "1906",
+      "January 1915",
+      "1919",
+      "1898"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test3",
+    "idx": 5,
+    "q": "The Ahmedabad Mill Strike of 1918, Gandhi's first hunger strike in India, arose from a dispute between mill owners and workers over:",
+    "o": [
+      "Refusal to hire women workers",
+      "Discontinuation of the plague bonus amid wartime inflation",
+      "Reduction in working hours",
+      "Introduction of new machinery"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test3",
+    "idx": 7,
+    "q": "In the Ahmedabad Mill Strike, Gandhi undertook his first fast unto death to:",
+    "o": [
+      "Protest the Rowlatt Act",
+      "Force the government to hold the Round Table Conference",
+      "Strengthen the workers' resolve after negotiations stalled",
+      "Demand the release of Annie Besant"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test3",
+    "idx": 8,
+    "q": "The Kheda Satyagraha (1918), described as Gandhi's 'first non-cooperation' campaign in India, arose due to:",
+    "o": [
+      "Crop failure from drought, with peasants demanding revenue remission under the Revenue Code",
+      "A wage dispute at textile mills",
+      "A tax imposed on indigo cultivation",
+      "Restrictions on Indian migration"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test3",
+    "idx": 9,
+    "q": "During the Kheda Satyagraha, while Gandhi served as the spiritual head, actual organisational leadership on the ground was provided by:",
+    "o": [
+      "Anusuya Sarabhai",
+      "Rajendra Prasad",
+      "Sardar Vallabhbhai Patel",
+      "Mazhar-ul-Haq"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test4",
+    "idx": 1,
+    "q": "Which of the following powers did the Rowlatt Act grant to the government?",
+    "o": [
+      "Universal adult franchise for all Indians",
+      "Abolition of separate electorates",
+      "Full budgetary control for the central legislature",
+      "Arrest without warrant on mere suspicion, trial without jury, and imprisonment without trial"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test4",
+    "idx": 2,
+    "q": "Which elected Indian members of the Imperial Legislative Council resigned in protest against the passage of the Rowlatt Act?",
+    "o": [
+      "Gandhi, Tilak and Annie Besant",
+      "Mohammed Ali Jinnah, Madan Mohan Malaviya and Mazhar-ul-Haq",
+      "Motilal Nehru, C.R. Das and M.R. Jayakar",
+      "Surendranath Banerjea and Ananda Mohan Bose"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test4",
+    "idx": 4,
+    "q": "The Jallianwala Bagh Massacre occurred in Amritsar on:",
+    "o": [
+      "April 6, 1919",
+      "March 1919",
+      "April 13, 1919 (Baisakhi day)",
+      "April 10, 1919"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test4",
+    "idx": 6,
+    "q": "Brigadier-General Reginald Dyer, responsible for the Jallianwala Bagh firing, had earlier on April 13 issued a proclamation:",
+    "o": [
+      "Forbidding people from leaving the city without a pass or assembling in groups of more than three",
+      "Ordering the release of all political prisoners",
+      "Announcing a curfew only after sunset",
+      "Declaring a public holiday for Baisakhi"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test4",
+    "idx": 7,
+    "q": "According to official British Indian sources, how many people were identified as dead in the Jallianwala Bagh Massacre, while the Indian National Congress estimated a higher figure?",
+    "o": [
+      "No official figure was ever released",
+      "1,650 officially identified dead, matching the number of bullets fired",
+      "379 officially identified dead; the Congress estimated approximately 1,000 killed",
+      "100 officially identified dead; Congress estimated 500 killed"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test5",
+    "idx": 2,
+    "q": "Which of the following Indians served on the Hunter Committee?",
+    "o": [
+      "Sir Chimanlal Harilal Setalvad, Pandit Jagat Narayan and Sardar Sahibzada Sultan Ahmad Khan",
+      "Jinnah, Malaviya and Mazhar-ul-Haq",
+      "Motilal Nehru, C.R. Das and M.R. Jayakar",
+      "Rajendra Prasad, Mazhar-ul-Haq and J.B. Kripalani"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test5",
+    "idx": 3,
+    "q": "When questioned by the Hunter Committee, Dyer justified his firing at Jallianwala Bagh by stating that his intention was to:",
+    "o": [
+      "Strike terror throughout the Punjab and produce a 'moral effect' to reduce the rebels' stature",
+      "Follow direct orders from the Viceroy",
+      "Protect European civilians under immediate physical threat",
+      "Disperse the crowd with minimum casualties"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test5",
+    "idx": 6,
+    "q": "Following the Hunter Committee's findings, what disciplinary action was ultimately taken against General Dyer?",
+    "o": [
+      "He was honoured with a promotion for maintaining order",
+      "He was court-martialled and imprisoned",
+      "He was stripped of his pension and exiled",
+      "He was relieved of his command and recalled to England, but faced no legal action and retained his pension"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_emergence_gandhi",
+    "test_key": "test5",
+    "idx": 8,
+    "q": "The honouring of General Dyer as an honorary Sikh by the clergy of the Golden Temple (led by Arur Singh) contributed to the intensification of which subsequent movement?",
+    "o": [
+      "The Gurudwara Reform Movement (Akali Movement)",
+      "The Khilafat Movement",
+      "The Non-Cooperation Movement",
+      "The Home Rule Movement"
+    ],
+    "a": 0
+  }
+]

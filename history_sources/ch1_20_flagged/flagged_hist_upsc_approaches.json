@@ -1,0 +1,93 @@
+[
+  {
+    "chapter_id": "hist_upsc_approaches",
+    "test_key": "test1",
+    "idx": 2,
+    "q": "With reference to the Nationalist approach/historiography of Indian history, which one of the following statements is correct?",
+    "o": [
+      "Nationalist historiography of modern India was fully developed well before 1900, predating the colonial approach itself",
+      "The nationalist approach emerged independently of, and with no relationship to, the colonial approach",
+      "Nationalist historians of MODERN India did not exist before 1947; prior to independence, nationalist historiography mainly dealt with the ancient and medieval periods of Indian history",
+      "R.C. Majumdar and Tara Chand were prominent Marxist, not nationalist, historians"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_approaches",
+    "test_key": "test1",
+    "idx": 6,
+    "q": "Which one of the following criticisms has the Marxist historian Sumit Sarkar levelled against Rajni Palme Dutt's historiographical paradigm?",
+    "o": [
+      "That Dutt's paradigm gave excessive weight to caste and gender divisions at the expense of class analysis",
+      "That Dutt's paradigm entirely ignored the anti-imperialist contradiction in favour of class struggle alone",
+      "That it represents a 'simplistic version of the Marxian class approach', with nationalist leaders acting as a kind of proxy for as-yet-passive social forces they had little organic connection with",
+      "That Dutt failed to write about the Indian national movement at all"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_approaches",
+    "test_key": "test1",
+    "idx": 8,
+    "q": "With reference to the Subaltern school of historiography, founded under the editorship of Ranajit Guha in the early 1980s, which one of the following statements is correct?",
+    "o": [
+      "It views the Indian National Congress-led movement as a genuinely unified, all-class anti-imperialist struggle",
+      "It fully endorses the Marxist theory of class-based exploitation as the primary explanatory framework for Indian nationalism",
+      "It holds that the fundamental contradiction in colonial India was between the elite (Indian and foreign) and subaltern groups, and rejects the idea that Indian society could be analysed purely in class terms since capitalism was only nascent at the time",
+      "It argues that Indian historiography, prior to its emergence, had a distinctly subaltern (rather than elitist) bias"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_approaches",
+    "test_key": "test1",
+    "idx": 9,
+    "q": "According to Subaltern historiography, Indian society during the colonial period did NOT experience a single, unified anti-imperialist national movement. Instead, it identifies which one of the following as the two distinct 'streams'?",
+    "o": [
+      "A Hindu nationalist stream and a Muslim nationalist stream",
+      "A Marxist proletarian stream and a bourgeois capitalist stream",
+      "A rural agrarian stream and an urban industrial stream",
+      "A genuine anti-imperialist stream of the subalterns, and a 'bogus' elite-led national movement centred on the 'official' leadership of the Indian National Congress"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_approaches",
+    "test_key": "test2",
+    "idx": 0,
+    "q": "The 'Communalist' approach to Indian historiography, which relies heavily on colonial-era historiography and textbooks of medieval India, is characterised by which one of the following views?",
+    "o": [
+      "It focuses primarily on caste-based, rather than religion-based, social divisions",
+      "It was developed by Marxist historians as an extension of class-based analysis",
+      "Hindus and Muslims are portrayed as permanent, mutually hostile groups with antagonistic interests, framing India's medieval history as a continuous story of Hindu-Muslim conflict",
+      "It emphasises the shared, syncretic cultural heritage of Hindus and Muslims across medieval and modern India"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_approaches",
+    "test_key": "test2",
+    "idx": 1,
+    "q": "According to the Cambridge School's interpretation of Indian nationalism, which one of the following statements is correct?",
+    "o": [
+      "The fundamental contradiction under colonial rule was among the Indians themselves, with nationalist leaders driven by a quest for power and material benefits distributed by the British, rather than by genuine anti-colonial struggle",
+      "This school has been broadly praised, without significant criticism, for its nuanced treatment of Indian nationalist leaders' motivations",
+      "The fundamental contradiction was between British imperialism and the Indian people as a unified whole",
+      "Indian nationalism arose purely out of ideological and moral opposition to colonial exploitation"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_approaches",
+    "test_key": "test2",
+    "idx": 2,
+    "q": "Proponents of the Liberal and Neo-Liberal interpretation of colonial economic history, such as Patrick O'Brien, Hopkins and Cain, argue which one of the following?",
+    "o": [
+      "Colonial exploitation was overwhelmingly beneficial to the ordinary British working class",
+      "The economic exploitation of colonies was not beneficial to the British people as a whole, as overseas capital investment (e.g., in Indian railways) may have discouraged domestic investment and delayed the development of 'new' industries in Britain",
+      "This school shares the Marxist view that colonialism was primarily driven by class conflict within Britain",
+      "Investment in Indian railways significantly accelerated Britain's own industrial development"
+    ],
+    "a": 1
+  }
+]

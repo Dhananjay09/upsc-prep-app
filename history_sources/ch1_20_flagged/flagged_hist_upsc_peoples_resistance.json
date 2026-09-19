@@ -1,0 +1,158 @@
+[
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test1",
+    "idx": 2,
+    "q": "The Sanyasi Revolt (1763-1800) is associated with which of the following leaders?",
+    "o": [
+      "Buddho Bhagat",
+      "Sidhu and Kanhu",
+      "Majnum Shah and Bhawani Pathak",
+      "Chakra Bisoi"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test1",
+    "idx": 3,
+    "q": "The Sanyasi Revolt inspired which of the following literary works by Bankim Chandra Chattopadhyay?",
+    "o": [
+      "Gora and Ghare Baire",
+      "Kapalkundala only",
+      "Anandamath and Devi Chaudhurani",
+      "Pather Panchali"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test1",
+    "idx": 6,
+    "q": "The Civil Uprisings in Gorakhpur, Basti and Bahraich (1781) were directed against:",
+    "o": [
+      "Lord Cornwallis's Permanent Settlement",
+      "Warren Hastings' judicial reforms directly",
+      "Robert Clive's revenue settlement",
+      "Major Alexander Hannay, the izaradar under Warren Hastings' revenue-farming scheme"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test2",
+    "idx": 0,
+    "q": "With reference to the Pahariyas' Rebellion (1778), which statement is correct?",
+    "o": [
+      "It was a sepoy mutiny at Vellore",
+      "It was a tribal uprising among the hill tribes of the Rajmahal region",
+      "It was directed by Birsa Munda",
+      "It was led by Sidhu and Kanhu in the Santhal Parganas"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test2",
+    "idx": 1,
+    "q": "The Chuar Uprising, which occurred in two phases (1766-72 and 1795-1816), is associated with which of the following leaders?",
+    "o": [
+      "Buddho Bhagat",
+      "Sidhu and Kanhu",
+      "Chakra Bisoi",
+      "Jagannath Singh, Durjan Singh and Madhab Singh"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test2",
+    "idx": 9,
+    "q": "The Ramosi Risings included an uprising in 1822 under Chittur Singh, and a later phase (1825-29) under which leaders?",
+    "o": [
+      "Tomma Sora and Raja Anantayyar",
+      "Sidhu and Kanhu",
+      "Damodar Singh and Jagannath Dhal",
+      "Umaji Naik and Bapu Trimbakji Sawant"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test3",
+    "idx": 1,
+    "q": "Which of the following distinguishes tribal revolts from civil uprisings, as discussed in the chapter?",
+    "o": [
+      "Tribal revolts occurred only in coastal Bengal",
+      "Tribal revolts had no connection to land or forest rights at all",
+      "Tribal revolts were primarily rooted in the erosion of tribal autonomy and encroachment on tribal land/forest rights by outsiders and the colonial state",
+      "Tribal revolts were led exclusively by disbanded sepoys"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test3",
+    "idx": 5,
+    "q": "The Vellore Mutiny of 1806 was triggered mainly by:",
+    "o": [
+      "The partition of Bengal",
+      "The Doctrine of Lapse",
+      "Interference in the sepoys' social and religious practices, including replacement of the turban with a leather cockade",
+      "The introduction of the Ilbert Bill"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test3",
+    "idx": 6,
+    "q": "In 1824, sepoys at Barrackpore revolted mainly because:",
+    "o": [
+      "They were denied wages entirely",
+      "They were asked to go to Burma, and crossing the sea would mean loss of caste",
+      "They opposed the introduction of the Enfield rifle",
+      "They were forced to convert to Christianity"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test3",
+    "idx": 8,
+    "q": "Lord Canning's General Service Enlistment Act of 1856, which caused religious resentment among high-caste Hindu sepoys, required:",
+    "o": [
+      "Reduction of sepoy salaries by half",
+      "Mandatory retirement after ten years of service",
+      "All new recruits to be ready for service both within and outside India",
+      "Compulsory conversion to Christianity for promotion"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test3",
+    "idx": 9,
+    "q": "Which of the following correctly lists Native Infantry units associated with sepoy mutinies in the years indicated?\n1. 34th N.I. - 1844\n2. 22nd N.I. - 1849\n3. 66th N.I. - 1850\n4. 37th N.I. - 1852",
+    "o": [
+      "Only 1 and 2",
+      "Only 1, 2 and 3",
+      "All four are correctly matched",
+      "Only 3 and 4"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_peoples_resistance",
+    "test_key": "test4",
+    "idx": 0,
+    "q": "Which of the following best explains why pre-1857 civil, tribal and sepoy uprisings, despite being numerous, failed to challenge British rule decisively?",
+    "o": [
+      "They received no support because the grievances were not genuine",
+      "They were localised, arose from local grievances, lacked coordinated national leadership, and used arms/methods obsolete compared to British military strategy",
+      "They lacked any popular participation whatsoever",
+      "They were entirely suppressed before they could even begin"
+    ],
+    "a": 1
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "chapter_id": "hist_upsc_eve_of_conquest",
+    "test_key": "test1",
+    "idx": 1,
+    "q": "Which one of the following correctly identifies the three Battles of Panipat and their outcomes?",
+    "o": [
+      "The Third Battle of Panipat was fought between the English East India Company and Ahmad Shah Abdali",
+      "First (1526, Babur vs. Ibrahim Lodi) founded the Mughal Empire; Second (1556, Akbar vs. Hemu) secured continuation of Mughal rule; Third (1761, Marathas vs. Ahmad Shah Abdali) ended Maratha ambitions of ruling India",
+      "First (1556) founded the Mughal Empire; Second (1526) secured Mughal continuation; Third (1739) ended Maratha ambitions",
+      "All three Battles of Panipat were fought exclusively between the Mughals and the Marathas"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_eve_of_conquest",
+    "test_key": "test1",
+    "idx": 4,
+    "q": "Which one of the following statements about the Sayyid Brothers (Abdulla Khan and Hussain Ali), known as the 'King Makers' of the later Mughal period, is correct?",
+    "o": [
+      "They served as the primary architects of the 1717 farmans granted to the English East India Company",
+      "They helped Farrukhsiyar kill Jahandar Shah to become emperor, but later dethroned Farrukhsiyar himself (with Peshwa Balaji Vishwanath's help), marking the first time in Mughal history that an emperor was killed by his own nobles",
+      "They were defeated and killed by Nadir Shah during his 1739 invasion",
+      "They founded the independent kingdom of Awadh"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_eve_of_conquest",
+    "test_key": "test1",
+    "idx": 6,
+    "q": "Which one of the following statements about Bahadur Shah II (Bahadur Shah Zafar), the last Mughal emperor, is correct?",
+    "o": [
+      "He voluntarily abdicated the throne in 1835 when Mughal-named coinage was discontinued",
+      "He granted the Diwani of Bengal to the East India Company",
+      "He led the Mughal forces to victory at the Third Battle of Panipat",
+      "He was made a symbolic figurehead during the Revolt of 1857, captured by the English afterwards, and died in exile at Rangoon in 1862, with the Mughal Empire legally ending on 1 November 1858 via a declaration of Queen Victoria"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_eve_of_conquest",
+    "test_key": "test1",
+    "idx": 9,
+    "q": "According to the book's three-fold classification of regional states that emerged from Mughal decline, which one of the following pairs is correctly matched?",
+    "o": [
+      "Independent Kingdoms (e.g., Awadh, Bengal) — states set up directly by rebels against the Mughal empire",
+      "Successor States (e.g., Awadh, Bengal, Hyderabad) — provinces that broke away in practice while nominally not challenging Mughal sovereignty",
+      "The New States (e.g., Mysore, Rajput states) — provinces destabilised from within Mughal control",
+      "All three categories describe identical processes with no meaningful distinction"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_eve_of_conquest",
+    "test_key": "test2",
+    "idx": 1,
+    "q": "Which one of the following correctly identifies the founder of the independent state of Bengal and a key later ruler who made Bengal effectively independent of Mughal control by paying only a nominal tribute?",
+    "o": [
+      "Saadat Khan founded the state of Bengal",
+      "Alivardi Khan founded the state; Murshid Quli Khan later made it independent",
+      "Murshid Quli Khan founded the state; Alivardi Khan later made it effectively independent after killing Sarfaraz Khan at Gheria in 1740",
+      "Shuja-ud-din founded the state of Bengal and made it fully sovereign, ending all Mughal tribute obligations"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_eve_of_conquest",
+    "test_key": "test2",
+    "idx": 5,
+    "q": "Which one of the following statements correctly describes the Marathas' position on the eve of British conquest, as discussed in the context of regional power struggles?",
+    "o": [
+      "The Marathas were permanently destroyed as a political power following their defeat at the Third Battle of Panipat",
+      "Despite their defeat by Ahmad Shah Abdali at the Third Battle of Panipat (1761), the Marathas recovered quickly and went on to pose the most formidable challenge to English East India Company supremacy in India",
+      "The Marathas' territorial influence never extended beyond Maharashtra",
+      "The Marathas never sought any formal Mughal sanction for collecting taxes like chauth and sardeshmukhi"
+    ],
+    "a": 1
+  }
+]

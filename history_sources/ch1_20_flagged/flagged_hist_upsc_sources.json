@@ -1,0 +1,106 @@
+[
+  {
+    "chapter_id": "hist_upsc_sources",
+    "test_key": "test1",
+    "idx": 1,
+    "q": "Official records relevant to the history of Modern India fall into four broad categories of archival material. Which one of the following is NOT among these four categories?",
+    "o": [
+      "Central Government archives",
+      "Judicial records",
+      "State Government archives",
+      "Foreign missionary society records exclusively"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_sources",
+    "test_key": "test1",
+    "idx": 3,
+    "q": "The 'Peshwa Daftar', housed in the Alienation Office at Pune, is considered the most valuable single source for studying the history of which one of the following?",
+    "o": [
+      "The Sikh Empire under Ranjit Singh",
+      "The Maratha polity for nearly a century before the fall of the Peshwas",
+      "The Mughal administration under Aurangzeb",
+      "The Vijayanagara Empire's revenue system"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_sources",
+    "test_key": "test1",
+    "idx": 5,
+    "q": "With reference to the archival records of the three British Presidencies, which one of the following statements is correct?",
+    "o": [
+      "The Madras Presidency records contain no information on the Anglo-French struggle in the Deccan",
+      "The Madras Presidency's archival records begin only after 1800, well after those of Bombay and Bengal",
+      "The Bombay Presidency's archives are housed in the National Archives of India, New Delhi, rather than in Maharashtra",
+      "The early records of Fort William (Bengal Presidency) were lost during the sack of Calcutta in 1756, but Bengal Presidency records after the Battle of Plassey survive in a more or less complete series"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_sources",
+    "test_key": "test1",
+    "idx": 7,
+    "q": "Which one of the following was the first newspaper published in India, and in what year?",
+    "o": [
+      "The Bengal Gazette or Calcutta General Advertiser, published by James Augustus Hickey in 1780",
+      "The Bombay Herald, published in 1789",
+      "A newspaper by William Bolts, published in 1776",
+      "The Calcutta Gazette, published in 1784"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_sources",
+    "test_key": "test2",
+    "idx": 1,
+    "q": "With reference to 'Company Paintings' (also known as 'Patna Kalam'), which one of the following statements is correct?",
+    "o": [
+      "They were produced only after the introduction of photography in India, as a reaction against the new medium",
+      "They emerged under the patronage of the East India Company and remained popular through the 19th century until the introduction of photography in India in the 1840s",
+      "They originated in Calcutta and were unrelated to any European patronage",
+      "They depicted exclusively religious and mythological themes, avoiding any depiction of everyday life, trade or festivals"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_sources",
+    "test_key": "test2",
+    "idx": 4,
+    "q": "Which one of the following statements about foreign repositories of source material on Modern Indian history is correct?",
+    "o": [
+      "The India Office Records are located in Paris, not London",
+      "The West Pakistan Record Office (Lahore) and Peshawar records hold no information relevant to India's regional or frontier history",
+      "The Archives Nationale in Paris holds records exclusively related to Portuguese colonial possessions in India",
+      "The India Office Records in London hold the minutes and correspondence of the Board of Control/Commissioners for the Affairs of India, along with records of the Secretary of State and the India Council"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_sources",
+    "test_key": "test2",
+    "idx": 5,
+    "q": "Which one of the following genres of source material is most associated with providing 'interesting as well as useful glimpses' into 18th and early 19th century Indian history, but is generally regarded as less definitively authoritative than official archival records?",
+    "o": [
+      "The judicial records of the Mayor's Courts",
+      "The parliamentary papers of the British Government",
+      "The records of the Survey of India",
+      "Memoirs, biographies and travel accounts of contemporary and semi-contemporary writers"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_sources",
+    "test_key": "test2",
+    "idx": 7,
+    "q": "Which one of the following statements correctly describes the significance of 'private archives' as a source for Modern Indian history?",
+    "o": [
+      "They are housed only in foreign repositories, not within India",
+      "They comprise papers and documents of individuals and families of note, including nationalist leaders' papers and Indian National Congress records housed at the Nehru Memorial Museum and Library",
+      "They are limited exclusively to business records of banks and chambers of commerce, with no political content",
+      "They were destroyed systematically after 1947 and are no longer available to researchers"
+    ],
+    "a": 1
+  }
+]
