@@ -67032,10 +67032,10 @@
             {
               "q": "According to a sample objective question posed directly in the text, the 'Pacific Ring of Fire' (Circum-Pacific belt) includes the Rocky Mountains, the Andes and the Japanese Alps among its associated ranges. Which one of the following ranges is NOT part of this Circum-Pacific volcanic belt?",
               "o": [
-                "The Andes",
+                "The Andes (western South America)",
                 "The Great Dividing Range",
-                "The Japanese Alps",
-                "The Rocky Mountains"
+                "The Japanese Alps (Honshu, Japan)",
+                "The Rocky Mountains (western North America)"
               ],
               "a": 1,
               "e": "The Great Dividing Range lies along Australia's eastern coast, well outside the Circum-Pacific 'Ring of Fire' volcanic and seismic belt described in the text, which instead runs through the Aleutians, Kamchatka, Japan, the Philippines, Indonesia, the Pacific islands, and the American Cordillera (Rockies, Andes) — this mirrors a sample objective question given directly in the chapter."
@@ -69147,10 +69147,10 @@
             {
               "q": "Which one of the following best defines the karst term 'lapies' as given in the NCERT text?",
               "o": [
-                "A landform whose opening is circular at the top and funnel-shaped towards the bottom",
+                "A landform whose opening is circular at the top and funnel-shaped towards the bottom, typically formed where surface water drains down through a widened joint into the underlying limestone",
                 "An irregular surface with a maze of sharp pinnacles, grooves and ridges formed by differential solution activity along parallel joints",
-                "A small to medium sized shallow depression formed solely through solution action",
-                "A column formed by the fusion of a stalactite and a stalagmite"
+                "A small to medium sized shallow depression formed through solution action along joints or bedding planes, often found scattered across a limestone plateau surface",
+                "A column formed by the fusion of a stalactite growing down from the cave roof and a stalagmite building up from the floor, common in caverns such as Cheddar Gorge"
               ],
               "a": 1,
               "e": "Lapies (also spelt lapiés) are correctly defined as the irregular maze of sharp pinnacles, grooves and ridges that develop from differential solution activity along parallel to sub-parallel joints; the lapie field may eventually smooth into a limestone pavement. The other options describe a sinkhole and a pillar respectively, not lapies."
@@ -69183,9 +69183,9 @@
               "q": "According to NCERT, valley sinks or uvalas form through which one of the following processes?",
               "o": [
                 "Sink holes and dolines joining together because of slumping of materials along their margins or due to roof collapse of caves",
-                "The steady deposition of calcium carbonate over thousands of years within a limestone cave",
-                "The gradual widening of a single joint by frost action into a narrow gorge",
-                "The faulting and subsidence of an entire limestone plateau under tectonic stress"
+                "The steady deposition of calcium carbonate over thousands of years within a limestone cave, gradually building up flowstone sheets across the cave floor",
+                "The gradual widening of a single joint by frost action and meltwater into a narrow gorge that eventually exposes the bedding planes below",
+                "The faulting and subsidence of an entire limestone plateau under tectonic stress, producing a broad basin bounded by steep fault scarps"
               ],
               "a": 0,
               "e": "NCERT describes valley sinks (uvalas) as forming when sink holes and dolines join together because of slumping of materials along their margins or due to roof collapse of caves, producing long, narrow to wide trenches — not through calcite deposition, tectonic faulting, or frost widening."
@@ -69724,9 +69724,9 @@
             {
               "q": "Which one of the following statements about lakes used for irrigation and multi-purpose dam projects is NOT correct?",
               "o": [
-                "The Burrinjuck Dam is located on the Murrumbidgee river in Australia",
+                "The Burrinjuck Dam is located on the Murrumbidgee river in Australia, and forms part of the irrigation network supplying the Riverina agricultural region",
                 "Former lake beds, once dried up, may be covered with fertile alluvium suitable for agriculture, as with the Red River Valley of Canada (former site of Lake Agassiz)",
-                "Modern multi-purpose dams typically combine hydro-electric power generation with irrigation water supply",
+                "Modern multi-purpose dams typically combine hydro-electric power generation with irrigation water supply, along with flood control and municipal water storage",
                 "The Sennar Dam on the Blue Nile (Sudan) and the Ghulam Mohammed Barrage on the Indus (Pakistan) are examples of dams built purely for hydro-electric power with no irrigation function"
               ],
               "a": 3,
@@ -69899,10 +69899,10 @@
             {
               "q": "Which one of the following statements about Chesil Beach and related bar features is NOT correct?",
               "o": [
-                "Chesil Beach extends for over 26 km along the Dorset coast, linking the Isle of Portland with the mainland",
-                "A bar joining two land masses, such as at Chesil Beach, is better known as a tombolo",
+                "Chesil Beach extends for over 26 km along the Dorset coast, linking the Isle of Portland with the mainland, and is composed mainly of flint and chert shingle",
+                "A bar joining two land masses, such as at Chesil Beach, is better known as a tombolo, since it connects Portland to the mainland rather than running parallel to open coast",
                 "Chesil Beach is an example of a spit with one end permanently open to strong tidal currents, preventing any lagoon from forming behind it",
-                "The lagoon enclosed behind Chesil Beach is called the Fleet"
+                "The lagoon enclosed behind Chesil Beach, separating it from the mainland shore along much of its length, is called the Fleet"
               ],
               "a": 2,
               "e": "This statement is incorrect — Chesil Beach is explicitly identified as a BAR (not merely an open spit) that encloses a lagoon called the Fleet; it is a tombolo since it joins the Isle of Portland to the mainland, not a feature that leaves the area open with no lagoon formed. The other three statements are correct."
@@ -70033,9 +70033,9 @@
             {
               "q": "Which one of the following statements about the importance of tides is NOT correct?",
               "o": [
-                "Tides are used to generate electrical power in countries such as Canada, France, Russia and China",
-                "Tidal heights are especially important for harbours near rivers and estuaries with shallow entrance bars",
-                "Tides help in desilting sediments and removing polluted water from river estuaries",
+                "Tides are used to generate electrical power in countries such as Canada, France, Russia and China, through purpose-built tidal barrage stations",
+                "Tidal heights are especially important for harbours near rivers and estuaries with shallow entrance bars, since ships can only cross safely at high tide",
+                "Tides help in desilting sediments and removing polluted water from river estuaries, keeping navigation channels clear for shipping",
                 "Because tide timing cannot be reliably predicted in advance, navigators and fishermen must rely entirely on real-time observation rather than forecasting"
               ],
               "a": 3,
@@ -70066,10 +70066,10 @@
             {
               "q": "Photograph evidence of the 'tri-foot stone' of Sabah (an arch with a stack) is best explained by which one of the following processes?",
               "o": [
-                "The solvent action of tropical rainwater dissolving a limestone coastal outcrop",
-                "A single sudden earthquake fracturing the headland into separate rock towers",
+                "The solvent action of tropical rainwater gradually dissolving and widening joints in a limestone coastal outcrop over many centuries",
+                "A single sudden earthquake fracturing the headland along a pre-existing fault line into separate free-standing rock towers",
                 "Prolonged wave attack eroding caves on either side of a headland until they unite, followed by partial collapse leaving a stack",
-                "Wind abrasion during stormy monsoon periods acting on a granite headland"
+                "Wind abrasion during stormy monsoon periods acting on an exposed granite headland, gradually undercutting its base"
               ],
               "a": 2,
               "e": "The tri-foot stone, like similar arch-and-stack features described in the chapter, results from the classic marine erosion sequence: prolonged wave attack (corrasion and hydraulic action) hollowing out caves on either side of a headland until they meet to form an arch, whose partial collapse then leaves a stack — not wind abrasion, limestone solution, or a single seismic event."
