@@ -1,0 +1,223 @@
+[
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test1",
+    "idx": 2,
+    "q": "During the British evacuation from South-East Asia, what practice exposed the racist attitude of colonial rulers, as highlighted in the chapter?",
+    "o": [
+      "Provision of a separate 'Black Road' for Indian refugees and a 'White Road' exclusively for European refugees",
+      "Confiscation of all Indian-owned property in South-East Asia",
+      "Complete refusal to evacuate any Indian civilians",
+      "Forced conscription of all Indian refugees into the British Army"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test2",
+    "idx": 0,
+    "q": "Which regions saw the most intense mass activity — such as blowing up bridges, removing railway tracks, and cutting telegraph lines — during the Quit India Movement?",
+    "o": [
+      "Kashmir and Himachal Pradesh",
+      "Eastern United Provinces and Bihar",
+      "Punjab and Sindh",
+      "Kerala and Tamil Nadu"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test2",
+    "idx": 5,
+    "q": "Regarding communal dynamics during the Quit India Movement, which of the following is correct?",
+    "o": [
+      "Muslims sheltered underground activists and there were no communal clashes during the movement, even as the Muslim League officially opposed it fearing Hindu domination after a British exit",
+      "There were widespread communal riots throughout the movement",
+      "The Muslim League actively participated in and led the movement",
+      "Muslims were entirely excluded from all participation in the movement"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test2",
+    "idx": 7,
+    "q": "According to the chapter's estimate of Quit India's significance, which of the following is correct?",
+    "o": [
+      "Only the upper classes and bureaucracy actively participated, while common people remained passive",
+      "The movement achieved immediate and complete Indian independence in 1942 itself",
+      "The movement placed the demand for independence firmly on the immediate national agenda, after which there could be no retreat, even though it lacked centralised leadership once senior leaders were arrested",
+      "The movement was entirely suppressed with no lasting political impact"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test2",
+    "idx": 8,
+    "q": "In February 1943, Gandhi undertook a fast primarily as:",
+    "o": [
+      "A response against the government's exhortation to condemn violence, directed as a protest against state violence",
+      "A gesture of solidarity with the victims of the Bengal famine",
+      "A protest against the Cripps Mission's proposals",
+      "A hunger strike demanding his own release from prison"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test3",
+    "idx": 0,
+    "q": "Which regions were worst affected by the Bengal Famine of 1943, in which an estimated 1.5 to 3 million people perished?",
+    "o": [
+      "Assam and the north-eastern hill regions",
+      "Punjab and the North-West Frontier Province",
+      "Only urban Calcutta and its immediate suburbs",
+      "South-west Bengal (Tamluk-Contai-Diamond Harbour), Dacca, Faridpur, Tippera and Noakhali"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test3",
+    "idx": 2,
+    "q": "The Rajagopalachari (CR) Formula of 1944 represented what kind of shift in the Congress's position on the communal question?",
+    "o": [
+      "An outright rejection of any possibility of partition under any circumstances",
+      "A proposal to permanently postpone any discussion of the communal question",
+      "A demand for the immediate and unconditional creation of Pakistan without any plebiscite",
+      "A tacit acceptance of the Muslim League's demand for Pakistan, conditional on Muslim-majority areas deciding via plebiscite after the war"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test3",
+    "idx": 3,
+    "q": "Why did Jinnah reject the Rajagopalachari (CR) Formula?",
+    "o": [
+      "He wanted immediate merger of the League with the Congress",
+      "He wanted the Congress to explicitly accept the two-nation theory, wanted only Muslims (not the entire population) of the North-West and North-East to vote in the plebiscite, and opposed a common centre",
+      "He believed the formula granted the Muslim League too much power over the interim government",
+      "He objected to any plebiscite being held at all under any circumstances"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test3",
+    "idx": 5,
+    "q": "The Desai-Liaqat Pact was a draft proposal between which two leaders for forming an interim government at the centre?",
+    "o": [
+      "Jawaharlal Nehru and Liaqat Ali Khan",
+      "Bhulabhai Desai (Congress) and Liaqat Ali Khan (Muslim League)",
+      "Bhulabhai Desai and Mohammad Ali Jauhar",
+      "C. Rajagopalachari and Muhammad Ali Jinnah"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test3",
+    "idx": 6,
+    "q": "What was a key proposal of the Desai-Liaqat Pact?",
+    "o": [
+      "Reservation of 50% of seats exclusively for princely state nominees",
+      "An equal number of Congress and League nominees in the central legislature, with 20% of seats reserved for minorities",
+      "Complete Muslim League control of the central government",
+      "Abolition of the central legislature altogether"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test3",
+    "idx": 9,
+    "q": "Which of the following was a key feature of the Wavell Plan?",
+    "o": [
+      "Defence and finance were to be handed over completely to Indian control immediately",
+      "The council was to function fully outside the framework of the 1935 Act with complete legislative sovereignty",
+      "All members of the executive council, except the governor-general and commander-in-chief, were to be Indians, with equal representation for caste Hindus and Muslims",
+      "The Congress alone would nominate all executive council members"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test4",
+    "idx": 0,
+    "q": "Why did the Muslim League object to the Wavell Plan's nomination process?",
+    "o": [
+      "It wanted fewer Muslim representatives on the council overall",
+      "It demanded that only Hindus be allowed on the executive council",
+      "It feared that since other minorities' aims (depressed classes, Sikhs, Christians) aligned with the Congress, the League would be reduced to a one-third minority, so it demanded that all Muslim members be League nominees",
+      "It rejected the entire concept of an executive council in principle"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test4",
+    "idx": 1,
+    "q": "How did the Congress respond to the Wavell Plan?",
+    "o": [
+      "It demanded the plan be scrapped in favour of immediate full independence with no interim arrangement",
+      "It fully accepted the plan without any reservations",
+      "It objected to the plan as an attempt to reduce it to the status of a purely caste Hindu party and insisted on its right to nominate members of all communities",
+      "It supported the League's demand for a communal veto"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test4",
+    "idx": 2,
+    "q": "What was Wavell's key mistake regarding the breakdown of the Shimla Conference talks, and its consequence?",
+    "o": [
+      "Immediately resigning as Viceroy following the failed talks",
+      "Publicly endorsing the Congress's position over the League's",
+      "Refusing to meet with any Congress leaders throughout the conference",
+      "Announcing the breakdown in a way that effectively gave the Muslim League a virtual veto, strengthening its position ahead of the 1945-46 elections"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test4",
+    "idx": 6,
+    "q": "Under which pseudonym did Bose meet Adolf Hitler in Germany?",
+    "o": [
+      "Ziauddin",
+      "Abid Hussain",
+      "Orlando Mazzotta",
+      "Netaji Rao"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test4",
+    "idx": 7,
+    "q": "From where did Bose give the famous slogan 'Jai Hind'?",
+    "o": [
+      "The Free India Centre, Germany",
+      "Tokyo, Japan",
+      "Singapore",
+      "Rangoon, Burma"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_quit_india_pakistan_ina",
+    "test_key": "test5",
+    "idx": 6,
+    "q": "What ultimately happened to the INA following Japan's surrender in the Second World War?",
+    "o": [
+      "The INA merged directly into the British Indian Army without any legal proceedings",
+      "The INA continued fighting independently and achieved India's liberation before Independence",
+      "The INA was formally absorbed into the post-independence Indian Army immediately upon Japan's surrender",
+      "The INA surrendered along with Japan on August 15, 1945, following its retreat after Allied forces reclaimed Moirang and the broader Japanese retreat"
+    ],
+    "a": 3
+  }
+]

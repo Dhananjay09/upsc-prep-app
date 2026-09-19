@@ -82972,18 +82972,18 @@
               "q": "Following the 1937 provincial elections, Congress ministries were formed in which of the following provinces (initially, and later)?",
               "o": [
                 "Bombay, Madras, Central Provinces, Orissa, United Provinces, Bihar, and later NWFP and Assam",
-                "Only in Muslim-majority provinces",
-                "Only Bengal, Punjab and Sindh",
-                "All eleven provinces uniformly from the start"
+                "Bombay, Madras, Bengal, Punjab, and Sindh, with NWFP and Assam remaining under Muslim League-led ministries throughout",
+                "Central Provinces, Orissa, United Provinces, and Bihar only, while Bombay and Madras stayed under Governors' rule for the entire period",
+                "All eleven provinces from the outset in 1937, including Bengal and Punjab under Congress-led coalition ministries"
               ],
               "a": 0,
               "e": "Congress ministries were formed in Bombay, Madras, Central Provinces, Orissa, United Provinces and Bihar initially, with NWFP and Assam following later.",
               "q_hi": "1937 के प्रांतीय चुनावों के बाद, कांग्रेस मंत्रिमंडल निम्नलिखित में से किन प्रांतों में (आरंभ में और बाद में) गठित किए गए थे?",
               "o_hi": [
                 "बॉम्बे, मद्रास, सेंट्रल प्रोविंसेज़, उड़ीसा, संयुक्त प्रांत, बिहार, और बाद में उत्तर-पश्चिम सीमा प्रांत (NWFP) तथा असम",
-                "केवल मुस्लिम-बहुल प्रांतों में",
-                "केवल बंगाल, पंजाब और सिंध",
-                "आरंभ से ही सभी ग्यारह प्रांतों में समान रूप से"
+                "बॉम्बे, मद्रास, बंगाल, पंजाब और सिंध, जबकि उत्तर-पश्चिम सीमा प्रांत (NWFP) और असम पूरे समय मुस्लिम लीग के नेतृत्व वाले मंत्रिमंडलों के अधीन रहे",
+                "केवल सेंट्रल प्रोविंसेज़, उड़ीसा, संयुक्त प्रांत और बिहार में, जबकि बॉम्बे और मद्रास पूरी अवधि गवर्नर शासन के अधीन रहे",
+                "1937 में आरंभ से ही सभी ग्यारह प्रांतों में, जिसमें बंगाल और पंजाब भी कांग्रेस के नेतृत्व वाले गठबंधन मंत्रिमंडलों के अधीन शामिल थे"
               ],
               "e_hi": "कांग्रेस मंत्रिमंडल आरंभ में बॉम्बे, मद्रास, सेंट्रल प्रोविंसेज़, उड़ीसा, संयुक्त प्रांत और बिहार में गठित हुए, जबकि उत्तर-पश्चिम सीमा प्रांत (NWFP) और असम बाद में इनमें शामिल हुए।"
             },
@@ -83028,19 +83028,19 @@
             {
               "q": "Despite generally liberalising civil liberties, which of the following incidents is cited as a blemish on Congress ministries' record?",
               "o": [
-                "No political prisoners were ever released by any Congress ministry",
-                "The Bihar government reinstated the Rowlatt Act provisions",
+                "The United Provinces government invoked emergency provisions of the Government of India Act to dissolve Kisan Sabha-affiliated district boards in Awadh",
+                "The Central Provinces government issued a province-wide ordinance proscribing meetings of the Communist Party of India",
                 "The Madras government arrested socialists Yusuf Maherally and S.S. Batliwala for inflammatory/seditious speeches",
-                "The Bombay government banned all trade unions outright"
+                "The Bombay government dismissed municipal councillors in Ahmedabad for opposing the textile labour arbitration scheme"
               ],
               "a": 2,
               "e": "The arrests of socialists Yusuf Maherally and S.S. Batliwala by the Madras government, and K.M. Munshi's use of the CID against communists in Bombay, are cited as blemishes on the Congress ministries' civil liberties record.",
               "q_hi": "नागरिक स्वतंत्रताओं को सामान्यतः उदार बनाने के बावजूद, निम्नलिखित में से किस घटना को कांग्रेस मंत्रिमंडलों के रिकॉर्ड पर एक धब्बे के रूप में उद्धृत किया जाता है?",
               "o_hi": [
-                "किसी भी कांग्रेस मंत्रिमंडल ने कभी किसी राजनीतिक बंदी को रिहा नहीं किया",
-                "बिहार सरकार ने रॉलेट एक्ट के प्रावधानों को पुनः लागू किया",
+                "संयुक्त प्रांत की सरकार ने अवध में किसान सभा से संबद्ध जिला बोर्डों को भंग करने हेतु भारत सरकार अधिनियम के आपातकालीन प्रावधानों का प्रयोग किया",
+                "सेंट्रल प्रोविंसेज़ सरकार ने भारतीय कम्युनिस्ट पार्टी की सभाओं पर रोक लगाने हेतु प्रांत-व्यापी अध्यादेश जारी किया",
                 "मद्रास सरकार ने भड़काऊ/राजद्रोहात्मक भाषणों के लिए समाजवादियों यूसुफ मेहरअली और एस.एस. बटलीवाला को गिरफ्तार किया",
-                "बॉम्बे सरकार ने सभी ट्रेड यूनियनों पर पूर्ण प्रतिबंध लगा दिया"
+                "बॉम्बे सरकार ने वस्त्र श्रमिक पंच-निर्णय योजना का विरोध करने पर अहमदाबाद के नगरपालिका पार्षदों को बर्खास्त कर दिया"
               ],
               "e_hi": "मद्रास सरकार द्वारा समाजवादियों यूसुफ मेहरअली और एस.एस. बटलीवाला की गिरफ्तारी, तथा के.एम. मुंशी द्वारा बॉम्बे में साम्यवादियों के विरुद्ध सीआईडी के प्रयोग को कांग्रेस मंत्रिमंडलों के नागरिक स्वतंत्रता संबंधी रिकॉर्ड पर धब्बे के रूप में उद्धृत किया जाता है।"
             },
@@ -83048,18 +83048,18 @@
               "q": "Which of the following constraints limited the Congress ministries from undertaking a complete overhaul of the agrarian structure, such as abolishing zamindari entirely?",
               "o": [
                 "Inadequate powers and financial resources, the need to conciliate landlord-dominated legislative councils, and the approach of the Second World War",
-                "A total lack of legislative majority in any province",
-                "British refusal to allow any land-related legislation whatsoever",
-                "Complete absence of any interest in agrarian reform"
+                "Opposition from the peasantry itself, who largely preferred the zamindari system to remain unchanged during this period",
+                "A specific constitutional bar under the Government of India Act, 1935 that prohibited provincial legislatures from altering land revenue arrangements",
+                "The reluctance of the Indian National Congress high command to sanction any provincial legislation touching agrarian relations"
               ],
               "a": 0,
               "e": "Constraints included limited ministerial powers, inadequate finances (most revenue going to the central government), the need to conciliate zamindar-dominated legislative councils, and looming war clouds around 1938, which together prevented radical agrarian restructuring.",
               "q_hi": "निम्नलिखित में से किन बाधाओं ने कांग्रेस मंत्रिमंडलों को कृषि संरचना में पूर्ण परिवर्तन करने से, जैसे कि जमींदारी को पूरी तरह समाप्त करने से, सीमित किया?",
               "o_hi": [
                 "अपर्याप्त शक्तियां और वित्तीय संसाधन, जमींदार-प्रधान विधान परिषदों को संतुष्ट रखने की आवश्यकता, तथा द्वितीय विश्व युद्ध का निकट आना",
-                "किसी भी प्रांत में विधायी बहुमत का पूर्ण अभाव",
-                "भूमि संबंधी किसी भी कानून की अनुमति देने से ब्रिटिश इनकार",
-                "कृषि सुधार में किसी भी रुचि का पूर्ण अभाव"
+                "स्वयं किसानों की ओर से विरोध, जो इस दौरान ज़मींदारी व्यवस्था को अपरिवर्तित रखने के पक्ष में थे",
+                "भारत सरकार अधिनियम, 1935 के तहत एक विशिष्ट संवैधानिक प्रतिबंध, जो प्रांतीय विधानमंडलों को भू-राजस्व व्यवस्था में परिवर्तन करने से रोकता था",
+                "भारतीय राष्ट्रीय कांग्रेस के हाईकमान की कृषि संबंधों से जुड़े किसी भी प्रांतीय विधान को मंज़ूरी देने में अनिच्छा"
               ],
               "e_hi": "बाधाओं में सीमित मंत्रिस्तरीय शक्तियां, अपर्याप्त वित्त (अधिकांश राजस्व केंद्र सरकार को जाना), जमींदार-प्रधान विधान परिषदों को संतुष्ट रखने की आवश्यकता, और 1938 के आसपास मंडराते युद्ध के बादल शामिल थे, जिन्होंने मिलकर कट्टरपंथी कृषि पुनर्गठन को रोका।"
             },
@@ -83067,37 +83067,37 @@
               "q": "Regarding the benefits of the agrarian reforms undertaken by Congress ministries, which of the following is correct?",
               "o": [
                 "Most benefits went to statutory and occupancy tenants, while sub-tenants and unmobilised agricultural labourers gained little",
-                "No agrarian legislation was passed at all during this period",
-                "All classes of peasants, including agricultural labourers, benefited equally",
-                "Only zamindars benefited from the reforms"
+                "Sub-tenants and share-croppers were the principal beneficiaries, while occupancy tenants saw comparatively little improvement in their conditions",
+                "Agricultural labourers secured statutory minimum wages for the first time, surpassing the gains made by tenant cultivators",
+                "Zamindars retained the larger share of gains through compensation clauses that outweighed benefits extended to any class of tenants"
               ],
               "a": 0,
               "e": "The reforms mainly benefited statutory and occupancy tenants; sub-tenants saw little improvement, and agricultural labourers, not being organised or mobilised, largely missed out on gains.",
               "q_hi": "कांग्रेस मंत्रिमंडलों द्वारा किए गए कृषि सुधारों के लाभों के संबंध में, निम्नलिखित में से कौन सा सही है?",
               "o_hi": [
                 "अधिकांश लाभ सांविधिक (statutory) और काश्तकारी (occupancy) किरायेदारों को मिले, जबकि उप-किरायेदारों और असंगठित कृषि मजदूरों को बहुत कम लाभ हुआ",
-                "इस अवधि में कोई कृषि संबंधी कानून पारित ही नहीं किया गया",
-                "कृषि मजदूरों सहित किसानों के सभी वर्गों को समान रूप से लाभ हुआ",
-                "इन सुधारों से केवल जमींदारों को लाभ हुआ"
+                "उप-काश्तकार और बटाईदार मुख्य लाभार्थी थे, जबकि स्थायी काश्तकारों (occupancy tenants) की स्थिति में अपेक्षाकृत कम सुधार हुआ",
+                "कृषि श्रमिकों को पहली बार वैधानिक न्यूनतम मज़दूरी प्राप्त हुई, जो काश्तकार किसानों को हुए लाभ से भी अधिक थी",
+                "ज़मींदारों ने प्रतिकर (मुआवज़ा) संबंधी प्रावधानों के माध्यम से लाभ का बड़ा हिस्सा अपने पास बनाए रखा, जो किसी भी वर्ग के काश्तकारों को मिले लाभ से अधिक था"
               ],
               "e_hi": "इन सुधारों से मुख्यतः सांविधिक और काश्तकारी किरायेदारों को लाभ हुआ; उप-किरायेदारों की स्थिति में बहुत कम सुधार हुआ, और संगठित या लामबंद न होने के कारण कृषि मजदूर अधिकांशतः लाभ से वंचित रह गए।"
             },
             {
               "q": "The Congress ministries' approach to labour issues was primarily aimed at:",
               "o": [
-                "Ignoring labour issues altogether",
+                "Granting industrial workers an unrestricted right to strike without requiring any prior conciliation attempts",
                 "Advancing workers' interests while promoting industrial peace through compulsory arbitration and conciliation machinery",
-                "Fully nationalising all private industries immediately",
-                "Suppressing all trade union activity entirely"
+                "Transferring ownership and management of major industries to worker-run cooperative boards under ministry supervision",
+                "Favouring employer associations by withdrawing government-backed conciliation machinery from industrial disputes"
               ],
               "a": 1,
               "e": "The ministries sought to balance worker welfare with industrial peace, encouraging arbitration and conciliation rather than strikes, though this drew criticism from more militant leftist quarters.",
               "q_hi": "श्रमिक मुद्दों के प्रति कांग्रेस मंत्रिमंडलों का दृष्टिकोण मुख्यतः किस उद्देश्य पर केंद्रित था?",
               "o_hi": [
-                "श्रमिक मुद्दों की पूरी तरह उपेक्षा करना",
+                "औद्योगिक श्रमिकों को बिना किसी पूर्व सुलह प्रयास के हड़ताल का असीमित अधिकार प्रदान करना",
                 "अनिवार्य पंच निर्णय (arbitration) और सुलह तंत्र के माध्यम से औद्योगिक शांति को बढ़ावा देते हुए श्रमिकों के हितों को आगे बढ़ाना",
-                "सभी निजी उद्योगों का तत्काल पूर्ण राष्ट्रीयकरण करना",
-                "सभी ट्रेड यूनियन गतिविधियों का पूर्णतः दमन करना"
+                "मंत्रिमंडल की देखरेख में प्रमुख उद्योगों के स्वामित्व और प्रबंधन को श्रमिक-संचालित सहकारी बोर्डों को हस्तांतरित करना",
+                "औद्योगिक विवादों से सरकार समर्थित सुलह तंत्र को हटाकर नियोक्ता संगठनों का पक्ष लेना"
               ],
               "e_hi": "मंत्रिमंडलों ने श्रमिक कल्याण और औद्योगिक शांति के बीच संतुलन बनाने का प्रयास किया, हड़तालों के बजाय पंच निर्णय और सुलह को प्रोत्साहित किया, हालांकि इसकी अधिक उग्र वामपंथी धड़ों द्वारा आलोचना की गई।"
             },
@@ -83142,19 +83142,19 @@
             {
               "q": "Which of the following was an example of extra-parliamentary mass activity undertaken by Congress during its rule in the provinces?",
               "o": [
-                "Direct armed confrontation with British forces",
-                "Formal alliance with the Muslim League government",
+                "Setting up a parallel network of Congress-run courts that formally replaced British judicial institutions in rural areas",
+                "Organising an all-India tax refusal campaign to pressure the British government while ministries remained in office",
                 "Mass literacy campaigns, Congress police stations and panchayats, and Congress Grievance Committees",
-                "Complete withdrawal from all provincial governance"
+                "Coordinating joint mass rallies with the Muslim League against autocratic rule in the princely states"
               ],
               "a": 2,
               "e": "Congress supplemented formal governance with mass mobilisation efforts such as literacy campaigns, community panchayats, and grievance committees that bypassed formal bureaucratic channels.",
               "q_hi": "प्रांतों में अपने शासनकाल के दौरान कांग्रेस द्वारा की गई अतिरिक्त-संसदीय जन गतिविधि का निम्नलिखित में से कौन सा उदाहरण था?",
               "o_hi": [
-                "ब्रिटिश सेना के साथ सीधा सशस्त्र टकराव",
-                "मुस्लिम लीग सरकार के साथ औपचारिक गठबंधन",
+                "ग्रामीण क्षेत्रों में ब्रिटिश न्यायिक संस्थाओं का औपचारिक रूप से स्थान लेने वाले कांग्रेस-संचालित न्यायालयों का समानांतर नेटवर्क स्थापित करना",
+                "मंत्रिमंडलों के पद पर बने रहते हुए ब्रिटिश सरकार पर दबाव बनाने हेतु अखिल भारतीय कर-अस्वीकृति अभियान का आयोजन करना",
                 "जन साक्षरता अभियान, कांग्रेस पुलिस थाने और पंचायतें, तथा कांग्रेस शिकायत समितियां",
-                "समस्त प्रांतीय शासन से पूर्ण वापसी"
+                "देशी रियासतों में निरंकुश शासन के विरुद्ध मुस्लिम लीग के साथ संयुक्त जन-रैलियों का समन्वय करना"
               ],
               "e_hi": "कांग्रेस ने औपचारिक शासन को साक्षरता अभियानों, सामुदायिक पंचायतों और शिकायत समितियों जैसे जन-लामबंदी प्रयासों से पूरक बनाया, जो औपचारिक नौकरशाही माध्यमों से परे थे।"
             }
@@ -83163,19 +83163,19 @@
             {
               "q": "Which of the following is identified as a positive achievement of the 28-month period of Congress rule in the provinces?",
               "o": [
-                "It proved conclusively that dominion status was preferable to complete independence",
+                "It proved that the parliamentary path of gradual reform was more effective than mass civil disobedience in ultimately achieving independence from British rule",
                 "It demonstrated that a movement could use state power to further its ends without being co-opted, and further weakened the myth that Indians were unfit to rule",
-                "It fully abolished the zamindari system nationwide",
-                "It eliminated all communal tensions in Indian society"
+                "It showed that sustained cooperation with the colonial government could gradually secure dominion status without the need for further mass struggle",
+                "It established that provincial autonomy alone, without control over the centre, could satisfy the political and economic aspirations of the national movement"
               ],
               "a": 1,
               "e": "Congress rule showed that nationalist forces could wield state power constructively without losing their political identity, while also demonstrating administrative competence that undermined colonial claims of Indian unfitness for self-rule.",
               "q_hi": "प्रांतों में कांग्रेस शासन की 28 महीनों की अवधि की एक सकारात्मक उपलब्धि के रूप में निम्नलिखित में से किसे पहचाना गया है?",
               "o_hi": [
-                "इसने निर्णायक रूप से सिद्ध किया कि डोमिनियन दर्जा पूर्ण स्वतंत्रता से बेहतर था",
+                "इसने सिद्ध किया कि ब्रिटिश शासन से अंततः स्वतंत्रता प्राप्त करने में क्रमिक सुधार का संसदीय मार्ग जन सविनय अवज्ञा की तुलना में अधिक प्रभावी था",
                 "इसने यह प्रदर्शित किया कि एक आंदोलन बिना समाहित हुए अपने उद्देश्यों को आगे बढ़ाने के लिए राज्य शक्ति का उपयोग कर सकता है, और इसने भारतीयों के शासन के लिए अयोग्य होने की धारणा को और कमजोर किया",
-                "इसने राष्ट्रव्यापी स्तर पर जमींदारी प्रथा को पूर्णतः समाप्त कर दिया",
-                "इसने भारतीय समाज में सभी सांप्रदायिक तनावों को समाप्त कर दिया"
+                "इसने दिखाया कि औपनिवेशिक सरकार के साथ निरंतर सहयोग से आगे के जन-संघर्ष की आवश्यकता के बिना क्रमशः डोमिनियन स्टेटस प्राप्त किया जा सकता था",
+                "इसने स्थापित किया कि केंद्र पर नियंत्रण के बिना केवल प्रांतीय स्वायत्तता ही राष्ट्रीय आंदोलन की राजनीतिक और आर्थिक आकांक्षाओं को पूरा कर सकती थी"
               ],
               "e_hi": "कांग्रेस शासन ने दिखाया कि राष्ट्रवादी शक्तियां अपनी राजनीतिक पहचान खोए बिना राज्य शक्ति का रचनात्मक उपयोग कर सकती हैं, साथ ही इसने प्रशासनिक दक्षता का भी प्रदर्शन किया, जिसने भारतीयों के स्वशासन के अयोग्य होने संबंधी औपनिवेशिक दावों को कमजोर किया।"
             },
@@ -83183,18 +83183,18 @@
               "q": "The Congress ministries resigned from office in:",
               "o": [
                 "October 1939, following the outbreak of the Second World War",
-                "1937, immediately after being elected",
-                "1940, after the Lahore Resolution",
-                "1942, at the start of the Quit India Movement"
+                "September 1939, in protest against the arrest of Subhas Chandra Bose by the colonial government",
+                "November 1939, following the Muslim League's countrywide observance of the Day of Deliverance",
+                "December 1939, after the Tripuri Congress session left the ministries without clear central direction"
               ],
               "a": 0,
               "e": "Congress ministries resigned in October 1939, protesting the Viceroy's unilateral declaration of India's participation in World War II without consulting Indian representatives.",
               "q_hi": "कांग्रेस मंत्रिमंडलों ने पद से इस्तीफा किस समय दिया?",
               "o_hi": [
                 "अक्टूबर 1939, द्वितीय विश्व युद्ध के प्रारंभ होने के बाद",
-                "1937, चुने जाने के तुरंत बाद",
-                "1940, लाहौर प्रस्ताव के बाद",
-                "1942, भारत छोड़ो आंदोलन के आरंभ में"
+                "सितंबर 1939, औपनिवेशिक सरकार द्वारा सुभाष चंद्र बोस की गिरफ़्तारी के विरोध में",
+                "नवंबर 1939, मुस्लिम लीग द्वारा देशव्यापी 'मुक्ति दिवस' मनाए जाने के पश्चात",
+                "दिसंबर 1939, त्रिपुरी कांग्रेस अधिवेशन के बाद जब मंत्रिमंडलों को स्पष्ट केंद्रीय दिशा-निर्देश नहीं मिल सका"
               ],
               "e_hi": "कांग्रेस मंत्रिमंडलों ने अक्टूबर 1939 में इस्तीफा दिया, जो वायसराय द्वारा भारतीय प्रतिनिधियों से परामर्श किए बिना द्वितीय विश्व युद्ध में भारत की भागीदारी की एकतरफा घोषणा के विरोध में था।"
             },
@@ -83239,18 +83239,18 @@
             {
               "q": "Which of the following charges did the Pirpur Committee report level against Congress ministries?",
               "o": [
-                "Failure to implement any agrarian reforms whatsoever",
-                "Complete abolition of separate electorates for all minorities",
-                "Excessive support for Muslim League candidates in elections",
+                "Excessive allocation of government jobs, scholarships, and public contracts specifically to Muslim candidates in Congress-ruled provinces",
+                "Preferential treatment shown to Muslim League leaders in the formation of coalition ministries in the United Provinces",
+                "Imposition of a uniform civil code that abolished separate personal laws for Muslims and other religious minorities",
                 "Interference in religious rites, suppression of Urdu in favour of Hindi, and denial of proper representation to Muslims"
               ],
               "a": 3,
               "e": "The Pirpur Committee accused Congress ministries of religious interference, favouring Hindi over Urdu, and denying Muslims adequate political and economic representation — allegations that deepened communal distrust.",
               "q_hi": "पीरपुर समिति की रिपोर्ट ने कांग्रेस मंत्रिमंडलों पर निम्नलिखित में से कौन से आरोप लगाए?",
               "o_hi": [
-                "किसी भी प्रकार के कृषि सुधार लागू करने में विफलता",
-                "सभी अल्पसंख्यकों के लिए पृथक निर्वाचक मंडल की पूर्ण समाप्ति",
-                "चुनावों में मुस्लिम लीग के उम्मीदवारों को अत्यधिक समर्थन",
+                "कांग्रेस-शासित प्रांतों में विशेष रूप से मुस्लिम उम्मीदवारों को सरकारी नौकरियों, छात्रवृत्तियों और सार्वजनिक ठेकों का अत्यधिक आवंटन",
+                "संयुक्त प्रांत में गठबंधन मंत्रिमंडलों के गठन में मुस्लिम लीग के नेताओं को दी गई तरजीही व्यवहार",
+                "एक समान नागरिक संहिता लागू करना, जिसने मुसलमानों और अन्य धार्मिक अल्पसंख्यकों के लिए अलग व्यक्तिगत कानूनों को समाप्त कर दिया",
                 "धार्मिक अनुष्ठानों में हस्तक्षेप, हिंदी के पक्ष में उर्दू का दमन, और मुसलमानों को उचित प्रतिनिधित्व से वंचित रखना"
               ],
               "e_hi": "पीरपुर समिति ने कांग्रेस मंत्रिमंडलों पर धार्मिक हस्तक्षेप, उर्दू की तुलना में हिंदी को वरीयता देने, तथा मुसलमानों को पर्याप्त राजनीतिक और आर्थिक प्रतिनिधित्व से वंचित रखने का आरोप लगाया — इन आरोपों ने सांप्रदायिक अविश्वास को और गहरा किया।"
@@ -83258,19 +83258,19 @@
             {
               "q": "Which of the following best summarises the overall significance of the 28-month period of Congress rule in the provinces, as assessed in the chapter?",
               "o": [
-                "It had no lasting political or administrative significance",
-                "It proved that colonial administration was entirely superior to any form of Indian self-rule",
+                "It demonstrated that meaningful social transformation in India could be achieved only through continued British administrative oversight and paternal guidance",
+                "It showed that the existing colonial constitutional framework provided adequate scope for realising the Congress's economic and social programme",
                 "It confirmed that Indian self-government was necessary for social transformation, while also revealing the genuine difficulties of governing within a colonial constitutional framework amid high popular expectations",
-                "It resulted in the immediate abolition of British rule in India"
+                "It suggested that popular expectations had been fundamentally out of step with the ministries' modest administrative achievements, discrediting the mass movement approach"
               ],
               "a": 2,
               "e": "The period demonstrated both the possibilities and limits of governance under colonial constraints — validating self-government's necessity for real transformation while exposing the practical challenges of meeting the high expectations of diverse social groups within a limited constitutional framework.",
               "q_hi": "अध्याय में किए गए मूल्यांकन के अनुसार, प्रांतों में कांग्रेस शासन की 28 महीनों की अवधि के समग्र महत्व को निम्नलिखित में से कौन सा सर्वोत्तम रूप से संक्षेपित करता है?",
               "o_hi": [
-                "इसका कोई स्थायी राजनीतिक या प्रशासनिक महत्व नहीं था",
-                "इसने सिद्ध किया कि औपनिवेशिक प्रशासन किसी भी प्रकार के भारतीय स्वशासन से पूर्णतः श्रेष्ठ था",
+                "इसने दिखाया कि भारत में सार्थक सामाजिक परिवर्तन केवल निरंतर ब्रिटिश प्रशासनिक निगरानी और संरक्षणात्मक मार्गदर्शन के माध्यम से ही संभव था",
+                "इसने दिखाया कि मौजूदा औपनिवेशिक संवैधानिक ढांचा कांग्रेस के आर्थिक और सामाजिक कार्यक्रम को साकार करने के लिए पर्याप्त गुंजाइश प्रदान करता था",
                 "इसने पुष्टि की कि सामाजिक परिवर्तन के लिए भारतीय स्वशासन आवश्यक था, साथ ही इसने उच्च जन-अपेक्षाओं के बीच औपनिवेशिक संवैधानिक ढांचे के भीतर शासन करने की वास्तविक कठिनाइयों को भी उजागर किया",
-                "इसके परिणामस्वरूप भारत में ब्रिटिश शासन का तत्काल उन्मूलन हुआ"
+                "इसने संकेत दिया कि जनता की अपेक्षाएँ मंत्रिमंडलों की मामूली प्रशासनिक उपलब्धियों से मौलिक रूप से मेल नहीं खातीं, जिससे जन आंदोलन के दृष्टिकोण की विश्वसनीयता को ठेस पहुँची"
               ],
               "e_hi": "इस अवधि ने औपनिवेशिक बाधाओं के अंतर्गत शासन की संभावनाओं और सीमाओं दोनों को प्रदर्शित किया — इसने वास्तविक परिवर्तन के लिए स्वशासन की आवश्यकता को प्रमाणित किया, साथ ही एक सीमित संवैधानिक ढांचे के भीतर विविध सामाजिक समूहों की उच्च अपेक्षाओं को पूरा करने की व्यावहारिक चुनौतियों को भी उजागर किया।"
             }
@@ -83286,10 +83286,10 @@
             {
               "q": "What was the primary source of internal disarray within the Congress in the aftermath of the Civil Disobedience Movement, as perceived by Gandhi?",
               "o": [
-                "A complete lack of funds to run the organisation",
-                "The refusal of provincial governments to cooperate with the Congress",
+                "A severe financial crisis triggered by the sudden collapse of donations from merchant and business supporters after 1934",
+                "Growing disputes among provincial Congress committees over whether to accept ministerial office under the Government of India Act, 1935",
                 "Rising corruption, indiscipline, rivalries among leaders, and issues of bogus membership",
-                "Disagreement over whether to support the British monarchy"
+                "Persistent friction between the Congress and the Muslim League over joint electorates in several provinces"
               ],
               "a": 2,
               "e": "Gandhi perceived rising corruption and indiscipline, petty rivalries among leaders, and issues of bogus membership and unethical means used to control Congress committees."
@@ -83308,10 +83308,10 @@
             {
               "q": "Regarding the 1939 Congress presidential election, which of the following is correct?",
               "o": [
-                "Nehru contested and won the presidency unopposed",
+                "Jawaharlal Nehru declined to stand for a second successive term, prompting the Congress to nominate Pattabhi Sitaramayya unopposed as a unity candidate",
                 "Subhash Bose defeated Gandhi's preferred candidate Pattabhi Sitaramayya by 1580 votes to 1377, with support from the Congress Socialist Party and communists",
-                "Pattabhi Sitaramayya defeated Bose decisively with an overwhelming majority",
-                "The election was cancelled due to procedural irregularities"
+                "Pattabhi Sitaramayya, backed by Gandhi and the Congress high command, secured a comfortable majority of nearly 700 votes over Bose, reflecting confidence in continuity",
+                "The Subjects Committee postponed the presidential poll by several months after both candidates agreed to a compromise formula proposed by Rajendra Prasad"
               ],
               "a": 1,
               "e": "Bose won by 1580 votes against 1377, defeating Gandhi-backed Pattabhi Sitaramayya, with support from the Congress Socialist Party and the communists; Gandhi called it his own defeat."
@@ -83319,10 +83319,10 @@
             {
               "q": "At the Tripuri Congress session (March 1939), Bose's presidential address proposed which course of action regarding Britain?",
               "o": [
-                "A referendum among princely states on joining the Congress",
-                "Permanent boycott of all future Congress sessions",
+                "Formation of a federal front with the Muslim League and the princely states to jointly negotiate a new constitutional settlement with Britain",
+                "Deferring any mass movement until the Congress had first resolved its internal disputes between the socialist and conservative factions",
                 "A six-month ultimatum to Britain demanding independence, failing which a mass civil disobedience movement should be launched",
-                "Immediate unconditional support for Britain's war preparations"
+                "Conditional cooperation with the British administration in the provinces in exchange for a firm assurance of eventual dominion status"
               ],
               "a": 2,
               "e": "Bose proposed giving Britain a six-month ultimatum to grant independence, with mass civil disobedience to follow if rejected, believing international crisis offered strategic advantage."
@@ -83330,10 +83330,10 @@
             {
               "q": "At Tripuri, the resolution moved by Govind Ballabh Pant asked Bose to:",
               "o": [
-                "Resign immediately from the Congress presidency",
+                "Reconstituting the working committee through a fresh election open to all AICC members rather than through presidential nomination",
                 "Nominate the working committee in accordance with the wishes of Gandhiji",
-                "Merge the Congress with the Muslim League",
-                "Postpone all further Congress sessions indefinitely"
+                "Share presidential authority equally with a deputy president to be elected separately by the AICC",
+                "Defer the formation of a new working committee until the next annual session scheduled for December"
               ],
               "a": 1,
               "e": "Pant's resolution, passed without opposition even from socialists and communists, reaffirmed faith in Gandhian policies and asked Bose to nominate a working committee per Gandhi's wishes."
@@ -83342,9 +83342,9 @@
               "q": "Why did Bose ultimately resign from the Congress presidency in April 1939, despite winning the election?",
               "o": [
                 "He refused to nominate a new working committee acceptable to Gandhi and could not bridge the ideological gap with Gandhi, who threatened to withdraw from leadership otherwise",
-                "The British government banned him from holding the post",
-                "He voluntarily stepped down to contest provincial elections instead",
-                "He was expelled by a unanimous vote of the AICC"
+                "The colonial government formally barred him from holding any elective post under the newly enacted Defence of India Rules",
+                "He voluntarily relinquished the post to contest a separate provincial ministerial election in Bengal, believing he could achieve more as a provincial leader",
+                "The AICC passed a no-confidence resolution against him, formally removing him from the presidency before he could complete his term"
               ],
               "a": 0,
               "e": "Bose refused to nominate a working committee in line with Gandhi's wishes; with Gandhi unwilling to compromise and most Congress leaders preferring unity under Gandhi, Bose saw no option but to resign."
@@ -83352,9 +83352,9 @@
             {
               "q": "Following his resignation, what disciplinary action did the Congress Working Committee take against Bose in August 1939?",
               "o": [
-                "He was stripped of his Indian citizenship",
-                "He was permanently expelled from the Congress party",
-                "He was arrested and imprisoned by the British government",
+                "He was censured by the AICC and directed to publicly apologise to Gandhi as a condition for retaining his Congress membership",
+                "He was removed from all Congress committees and disqualified from contesting Congress elections for a period of six years",
+                "He was suspended from Congress membership for one year, after which he could seek re-election to the Bengal Provincial Congress Committee",
                 "He was removed as president of the Bengal Provincial Congress Committee and debarred from holding elective Congress office for three years"
               ],
               "a": 3,
@@ -83398,10 +83398,10 @@
             {
               "q": "Regarding Bose's views on the appropriate form of government for India, which of the following is correct?",
               "o": [
-                "He believed India should remain under British dominion status permanently",
-                "He rejected socialism entirely in favour of unregulated capitalism",
+                "He argued that India should first achieve dominion status within the Commonwealth before pursuing full independence at a later stage",
+                "He believed a mixed economy combining state planning with limited private enterprise was preferable to any form of centralised socialism",
                 "He initially favoured democracy but later argued that an authoritarian state would be necessary, at least initially, to implement socialist economic reforms",
-                "He consistently advocated for a purely democratic system throughout his political career with no variation"
+                "He argued that a decentralised parliamentary system modelled closely on the British Westminster pattern was best suited to India's diversity"
               ],
               "a": 2,
               "e": "Bose came to believe that democracy alone could not push through socialist economic reforms, arguing (e.g., at Tokyo University, 1944) for an authoritarian state, at least in the initial phase of nation-building."
@@ -83410,9 +83410,9 @@
               "q": "On October 21, 1943, Bose proclaimed the formation of which body, in which he held multiple top posts including head of state, prime minister, and minister for war and foreign affairs?",
               "o": [
                 "The Provisional Government of Azad Hind (Free India)",
-                "The Indian Constituent Assembly",
-                "The All India Forward Bloc Council",
-                "The Indian National Congress Working Committee"
+                "The Indian National Army's Supreme Command Council",
+                "The All India Forward Bloc's Provisional Council",
+                "The Indian Independence League's Central Executive Board"
               ],
               "a": 0,
               "e": "Bose proclaimed the Provisional Government of Azad Hind (Free India) on October 21, 1943, retaining for himself the positions of Supreme Commander of the INA, head of state, prime minister, and minister for war and foreign affairs."
@@ -83431,10 +83431,10 @@
             {
               "q": "Which of the following best characterises Bose's relationship with Fascist and Nazi ideology?",
               "o": [
-                "He supported Fascism only because he agreed with its capitalist economic model",
+                "He genuinely embraced Fascist economic doctrine, believing state-directed capitalism under a single party offered the fastest route to India's industrial development",
                 "He admired their discipline and orderliness but rejected racial superiority theories and Fascist support for capitalism, viewing his alliance with the Axis as a pragmatic revolutionary strategy",
-                "He was an ideological Nazi who fully endorsed Hitler's racial theories",
-                "He had no interaction with or knowledge of Fascist or Nazi Germany at all"
+                "He came to accept the Nazi racial hierarchy as scientifically valid, viewing it as compatible with his vision of a disciplined Indian nation",
+                "He maintained cordial personal ties with German officials during his stay in Europe but consistently declined any political or military cooperation with the Axis powers"
               ],
               "a": 1,
               "e": "Bose disapproved of Nazi racialism and suppression of democratic institutions but admired their discipline; his supporters argue his association with Germany and Japan was dictated by revolutionary strategy, not ideological kinship."
@@ -83442,9 +83442,9 @@
             {
               "q": "Regarding Gandhi's Ramrajya as outlined in Hind Swaraj (1909), which of the following is correct?",
               "o": [
-                "It proposed direct British-style parliamentary democracy for India",
-                "It called for a strong centralised state with a large standing army for national defence",
-                "It advocated rapid industrialisation modelled on the Soviet Union",
+                "It proposed retaining a modified version of British parliamentary institutions, adapted to Indian conditions but still centred on a national legislature in Delhi",
+                "It called for a strong centralised state, headed by an enlightened monarch, that would coordinate economic planning across the provinces",
+                "It advocated rapid, state-directed industrialisation along the lines of contemporary European models to achieve economic self-sufficiency",
                 "It envisioned a stateless society of self-sufficient, decentralised village republics with panchayats as the basic unit of self-governance"
               ],
               "a": 3,
@@ -83453,10 +83453,10 @@
             {
               "q": "On the subject of religion, which of the following distinguishes Bose's approach from Gandhi's?",
               "o": [
-                "Both leaders held identical views advocating a theocratic state",
-                "Gandhi insisted the state must actively promote a single religion, while Bose opposed any religious content in politics",
+                "Both leaders envisioned a state actively guided by Hindu religious principles, differing only in how strictly those principles should be enforced legally",
+                "Gandhi wanted the state to formally recognise Hinduism as India's official religion, while Bose sought a secular state that would nonetheless fund religious institutions equally",
                 "Bose, though personally inspired by Hindu spirituality and the Bhagavad Gita, insisted Free India's state must remain neutral and treat religion as a private matter, while Gandhi could not conceive of a state entirely without religion",
-                "Bose was an avowed atheist who rejected all religious symbolism in politics, unlike the deeply religious Gandhi"
+                "Bose was a committed atheist who saw religious practice as an obstacle to national unity, in contrast to Gandhi's use of religious idiom in politics"
               ],
               "a": 2,
               "e": "Bose, inspired by Hindu spirituality yet a committed secularist, wanted Free India's state to be neutral on religion as a private matter, whereas Gandhi's vision of the state was itself grounded in religious and moral principles."
@@ -83475,9 +83475,9 @@
             {
               "q": "Regarding views on women, which of the following is correct?",
               "o": [
-                "Gandhi believed women should have no role in the freedom struggle at all",
-                "Both leaders held identical views with no difference on gender roles",
-                "Bose opposed involving women in the INA in any capacity",
+                "Gandhi confined women's participation in the freedom struggle largely to symbolic roles such as spinning and picketing, discouraging their involvement in direct confrontation with police",
+                "Both leaders equally championed women's combat participation, differing only on which specific military units women should be assigned to",
+                "Bose supported women's participation in nursing and administrative wings of the INA but was reluctant to deploy the Rani of Jhansi Regiment in actual combat",
                 "Gandhi, while championing women's emancipation from social ills and purdah, still held a comparatively traditionalist view of gendered domestic roles, whereas Bose considered women full equals fit for combat and public life"
               ],
               "a": 3,
@@ -83486,10 +83486,10 @@
             {
               "q": "On the outbreak of the Second World War, which of the following statements is correct regarding India's involvement?",
               "o": [
-                "India was granted immediate independence in exchange for war support",
+                "The Viceroy promised dominion status within two years as an incentive for Indian political parties to back the war effort",
                 "The British Government of India declared India's support for the war on September 3, 1939, without consulting Indian political opinion",
-                "The princely states alone decided India's participation in the war",
-                "The Congress was formally consulted and gave its consent before India was drawn into the war"
+                "The princely states negotiated separate treaties committing their troops in exchange for enhanced autonomy after the war",
+                "The Congress Working Committee was consulted in advance and negotiated specific terms before agreeing to India's entry into the war"
               ],
               "a": 1,
               "e": "On September 3, 1939, following Britain's declaration of war against Germany, the British Government of India unilaterally declared India's support for the war effort without consulting Indian opinion."
@@ -83497,9 +83497,9 @@
             {
               "q": "What were the two basic conditions of the Congress's conditional offer to cooperate in the war effort, made to Viceroy Linlithgow?",
               "o": [
-                "Formation of a coalition government exclusively with the Muslim League",
-                "Complete transfer of the army to Indian command and abolition of the Governor-General's post",
-                "Release of all political prisoners and a ban on the Muslim League",
+                "Formation of a national government including representatives of the Muslim League and the princely states, with Congress holding only an advisory role",
+                "Immediate transfer of the finance and foreign affairs portfolios to Indian ministers, while defence remained under British control for the war's duration",
+                "Release of political prisoners held under the Defence of India Rules and a formal apology for the 1939 declaration of war without consultation",
                 "A constituent assembly to determine India's post-war political structure, and immediate establishment of a genuinely responsible government at the Centre"
               ],
               "a": 3,
@@ -83510,10 +83510,10 @@
             {
               "q": "At the Wardha CWC meeting on the question of India's support to Britain's war effort, which of the following correctly matches the leader with their position?",
               "o": [
-                "Nehru alone supported the war while Gandhi and Bose opposed all cooperation",
-                "Gandhi, Bose and Nehru all held an identical position of unconditional support to Britain",
+                "Nehru favoured immediate civil disobedience to pressure Britain; Gandhi insisted on unconditional support to the Allies out of non-violent principle; Bose remained undecided and deferred to the AICC's collective judgment",
+                "Gandhi and Nehru both favoured conditional support tied to a firm promise of post-war independence, while Bose alone demanded total withdrawal of Indian participation from the war effort",
                 "Gandhi favoured unconditional support to the Allies; Bose and other socialists favoured no support to either side and immediate civil disobedience; Nehru favoured no Indian participation without freedom but also opposed exploiting Britain's difficulty",
-                "Gandhi favoured immediate civil disobedience while Bose favoured unconditional support to Britain"
+                "Gandhi favoured a negotiated middle path of conditional cooperation; Bose favoured unconditional support to Britain in return for future concessions; Nehru favoured immediate civil disobedience regardless of British assurances"
               ],
               "a": 2,
               "e": "Gandhi wanted unconditional support to the Allies due to his opposition to Fascism; Bose and socialists like Narendra Dev and JP Narayan saw the war as an imperialist conflict on both sides and favoured immediate civil disobedience; Nehru favoured neither side but also opposed exploiting Britain's wartime difficulty. Gandhi ultimately went with Nehru's position."
@@ -83522,9 +83522,9 @@
               "q": "The CWC resolution adopted at Wardha (September 1939) on the war stated that:",
               "o": [
                 "India could not be party to a war fought for democratic freedom while that freedom was denied to India itself, and the government should declare its war aims and how democracy would be applied to India after the war",
-                "The princely states would be excluded from any future constitutional arrangement",
-                "Civil disobedience would be launched immediately regardless of the government's response",
-                "India would unconditionally support the war under all circumstances"
+                "The princely states should be given a separate assembly to decide their own future political relationship with British India, apart from the mainstream constitutional process",
+                "Civil disobedience should be launched only after Congress ministries formally resigned and a fresh mandate was sought from the provincial legislatures",
+                "India would extend support to the war effort provided Britain agreed to review the question of Indian self-government at a later, unspecified date"
               ],
               "a": 0,
               "e": "The CWC resolution condemned Fascist aggression but held that India could not support a war for democratic freedom while denied that freedom itself, demanding a declaration of British war aims and clarity on democracy's post-war application to India."
@@ -83532,10 +83532,10 @@
             {
               "q": "In his statement of October 17, 1939, what did Viceroy Linlithgow propose?",
               "o": [
-                "Immediate grant of dominion status to India",
-                "Full transfer of defence and finance portfolios to Indians",
+                "A commitment to grant dominion status within five years, contingent on Indian parties first agreeing among themselves on minority safeguards",
+                "Transfer of the finance portfolio to an Indian minister while retaining British control over defence and external affairs for the war's duration",
                 "Consultation with representatives of communities, parties and princes on modifying the Act of 1935, and setting up an advisory 'consultative committee', without defining British war aims beyond resisting aggression",
-                "Unconditional acceptance of the Congress's demand for a constituent assembly"
+                "Acceptance in principle of a constituent assembly, provided the Muslim League and princely states were given a prior veto over its composition"
               ],
               "a": 2,
               "e": "Linlithgow refused to define British war aims beyond 'resisting aggression', proposed consulting various interests on modifying the 1935 Act, and offered to set up a purely advisory consultative committee."
@@ -83544,9 +83544,9 @@
               "q": "According to the chapter, what was the British government's hidden agenda behind Linlithgow's October 1939 statement?",
               "o": [
                 "To provoke the Congress into confrontation, then use the resulting situation to acquire draconian powers and paint the Congress as pro-Axis to win international sympathy",
-                "To transfer all administrative powers to the princely states",
-                "To dissolve the Muslim League and support the Congress exclusively",
-                "To immediately grant India full independence after consulting all parties"
+                "To gradually shift administrative authority toward the princely states as a counterweight to the Congress's growing influence in British India",
+                "To engineer a formal merger between the Congress and the Muslim League under British mediation, thereby simplifying wartime negotiations",
+                "To grant India dominion status after the war in exchange for the Congress's unequivocal backing of the war effort"
               ],
               "a": 0,
               "e": "British policy aimed to provoke Congress confrontation to justify draconian powers (including a secret Draft Revolutionary Movement Ordinance) and to portray an aggressive Congress as pro-Japan/pro-Germany to win international sympathy."
@@ -83576,10 +83576,10 @@
             {
               "q": "The Muslim League's Lahore Resolution (March 1940), popularly called the 'Pakistan Resolution', called for:",
               "o": [
-                "Complete integration of princely states into British India",
-                "A single unified Indian state with proportional representation for all religions",
+                "Integration of princely states into a proposed Muslim-majority federation in the North-West, granting them internal autonomy under central Muslim League oversight",
+                "A single Indian union with a bicameral legislature reserving one-third of seats for Muslims on a permanent basis",
                 "Grouping geographically contiguous Muslim-majority areas of the North-West and East into independent states with autonomous and sovereign constituent units",
-                "Abolition of separate electorates for Muslims"
+                "Retention of separate electorates alongside proportional weightage for Muslims in provinces where they formed a minority"
               ],
               "a": 2,
               "e": "The Lahore Resolution called for grouping contiguous Muslim-majority areas in the North-West and East into independent, sovereign states — the foundational demand later associated with Pakistan."
@@ -83587,10 +83587,10 @@
             {
               "q": "At the Ramgarh session of the Congress (March 1940), presided over by Maulana Abul Kalam Azad, what was decided?",
               "o": [
-                "To accept dominion status as a final settlement",
-                "To indefinitely suspend all Congress political activity",
+                "To accept dominion status as an interim arrangement, provided a firm timetable was set for full independence within a decade",
+                "To suspend mass civil disobedience for the duration of the war while continuing constitutional and legislative opposition to British policies",
                 "To leave the form and timing of the struggle to Gandhi, while declaring that Indians would accept nothing short of complete independence",
-                "To merge with the Muslim League on a joint platform"
+                "To form a joint platform with the Muslim League on war policy while leaving the question of Pakistan for post-war negotiation"
               ],
               "a": 2,
               "e": "At Ramgarh, it was decided to leave the form and timing of any battle to Gandhi, while the Congress declared that Indians would accept nothing short of complete independence, not dominion status."
@@ -83609,9 +83609,9 @@
             {
               "q": "How did the Congress and the Muslim League respectively respond to the August Offer (1940)?",
               "o": [
-                "Both the Congress and the Muslim League accepted the offer unconditionally",
-                "The Congress accepted it while the Muslim League rejected it outright",
-                "Both parties rejected the offer and jointly demanded immediate full independence",
+                "Both the Congress and the Muslim League welcomed the offer as a genuine step forward, though each sought further clarification on the minority veto clause",
+                "The Congress accepted the offer's expansion of the executive council, while the Muslim League rejected it for failing to explicitly endorse Pakistan",
+                "Both parties rejected the offer and issued a joint statement demanding a specific timetable for full independence after the war",
                 "The Congress rejected it, with Nehru declaring dominion status 'dead as a doornail', while the Muslim League welcomed the minority veto assurance and reiterated its demand for partition"
               ],
               "a": 3,
@@ -83622,10 +83622,10 @@
             {
               "q": "Regarding the composition of the enlarged Viceroy's executive council in July 1941, which of the following is correct?",
               "o": [
-                "Only princely state representatives were appointed to the council",
-                "Indians held all 12 seats with no British representation",
+                "Princely state representatives were given a majority of seats for the first time, displacing British India's provincial nominees",
+                "Indians were given a bare majority of 7 out of 12 seats, with the remaining seats split evenly between British officials and European businessmen",
                 "Indians were given a majority of 8 out of 12 seats for the first time, though the British retained control of defence, finance and home portfolios",
-                "The council was abolished entirely in favour of a fully elected legislature"
+                "The council was reconstituted as an elected body, with members chosen directly by the provincial legislative assemblies"
               ],
               "a": 2,
               "e": "In July 1941, the executive council was enlarged to give Indians a majority of 8 out of 12 seats for the first time, though the British retained charge of defence, finance and home."
@@ -83677,9 +83677,9 @@
             {
               "q": "According to Rajmohan Gandhi's account, why did Gandhi prefer Nehru over alternatives like Patel, Rajaji, Azad, or Kripalani as his successor?",
               "o": [
-                "Nehru was chosen purely because of seniority within the party",
-                "The other candidates had all resigned from active politics by this time",
-                "Nehru was the only candidate with prior administrative experience",
+                "Nehru was chosen mainly for his long personal friendship with Gandhi dating back to the Non-Cooperation Movement, rather than for any broader political consideration",
+                "The other candidates were seen as too closely identified with a single region or community, such as Patel's Gujarati business ties or Rajaji's South Indian base",
+                "Nehru was preferred chiefly for his socialist economic outlook, which Gandhi believed would appeal more to the Congress's younger cadre than Patel's or Rajaji's conservatism",
                 "Nehru most reliably reflected the pluralist, inclusive idea of India — trusted by Muslims despite being Hindu, respected across regions, and seen as a genuinely all-India leader"
               ],
               "a": 3,
@@ -83710,9 +83710,9 @@
             {
               "q": "How did the Cripps proposals differ from the earlier August Offer in terms of constitution-making?",
               "o": [
-                "The Cripps proposals removed all mention of a constituent assembly altogether",
-                "There was no difference between the two offers on this point",
-                "The August Offer had already granted full Indian control over constitution-making",
+                "The Cripps proposals retained the same 'mainly Indian hands' formulation as the August Offer, changing only the procedure for selecting constituent assembly members",
+                "Both offers differed only in tone, since the August Offer had already promised a constituent assembly with a binding timetable for Indian self-rule",
+                "The August Offer had proposed a constituent assembly but reserved final approval of the constitution for the British Parliament, unlike the Cripps proposals",
                 "Making of the constitution was now to be solely in Indian hands (not merely 'mainly' in Indian hands), with a concrete plan provided for the constituent assembly"
               ],
               "a": 3,
@@ -83734,9 +83734,9 @@
             {
               "q": "Which of the following did the Muslim League object to regarding the Cripps proposals?",
               "o": [
-                "The retention of the Governor-General's powers, which the League strongly supported removing",
-                "The absence of any provision for provincial secession, which the League wanted removed entirely",
-                "The proposal's failure to mention dominion status at all",
+                "The composition of the proposed constituent assembly's electoral college, which the League felt gave excessive weightage to the Indian princely states over Muslim-majority provinces",
+                "The proposal's provision allowing provinces to opt out of the Union only through a two-thirds majority vote, which the League considered too restrictive a threshold for Pakistan",
+                "The Cripps proposals' offer of dominion status soon after the war, which the League felt was a distraction from the more urgent question of Pakistan",
                 "The idea of a single Indian Union, the machinery for creating the constituent assembly, and the perceived denial of Muslims' right to self-determination and Pakistan"
               ],
               "a": 3,
@@ -83767,10 +83767,10 @@
             {
               "q": "Winston Churchill's remark, \"I have not become His Majesty's first Minister to preside over the liquidation of the British Empire,\" reflects which broader dynamic described in the chapter?",
               "o": [
-                "A joint British-Congress consensus on maintaining the empire",
+                "A shared understanding between Churchill and Congress leaders that empire and self-government could be pursued simultaneously without contradiction",
                 "British reluctance, especially at the highest levels, to genuinely concede self-government to India despite wartime pressures",
-                "Churchill's endorsement of the Cripps Mission's proposals in full",
-                "Churchill's personal support for immediate Indian independence"
+                "Churchill's genuine enthusiasm for the Cripps Mission as a decisive step toward transferring real power to Indian hands",
+                "Churchill's calculated strategy of offering token concessions to India while planning full independence once the war ended"
               ],
               "a": 1,
               "e": "Churchill's remark exemplifies the underlying British reluctance to loosen imperial control over India, consistent with the mission's ultimate failure due to rigid British attitudes."
@@ -83821,9 +83821,9 @@
               "q": "During the British evacuation from South-East Asia, what practice exposed the racist attitude of colonial rulers, as highlighted in the chapter?",
               "o": [
                 "Provision of a separate 'Black Road' for Indian refugees and a 'White Road' exclusively for European refugees",
-                "Confiscation of all Indian-owned property in South-East Asia",
-                "Complete refusal to evacuate any Indian civilians",
-                "Forced conscription of all Indian refugees into the British Army"
+                "Requirement that Indian evacuees surrender their cash and valuables at checkpoints before crossing into India, a rule not applied to European refugees",
+                "Confinement of Indian refugees to overcrowded quarantine camps for weeks before being permitted to proceed, while European refugees passed through without delay",
+                "Denial of ration cards and medical supplies to Indian refugees along the evacuation route while European refugees received priority access to both"
               ],
               "a": 0,
               "e": "The British provided two separate evacuation roads — the Black Road for Indian refugees and the White Road exclusively for Europeans — starkly exposing racist double standards."
@@ -83966,9 +83966,9 @@
               "q": "Regarding communal dynamics during the Quit India Movement, which of the following is correct?",
               "o": [
                 "Muslims sheltered underground activists and there were no communal clashes during the movement, even as the Muslim League officially opposed it fearing Hindu domination after a British exit",
-                "There were widespread communal riots throughout the movement",
-                "The Muslim League actively participated in and led the movement",
-                "Muslims were entirely excluded from all participation in the movement"
+                "Communal tensions rose sharply as the movement spread, with sporadic Hindu-Muslim clashes reported in several towns of the United Provinces and Bihar",
+                "The Muslim League passed a resolution at its 1942 session extending qualified support to the movement, while urging its cadres to join the underground resistance",
+                "Muslim participation was confined to a small circle of Congress-affiliated Muslim leaders, while the wider Muslim peasantry kept away from the underground activities out of loyalty to the League"
               ],
               "a": 0,
               "e": "Despite the Muslim League's official opposition (fearing minority oppression if the British left), ordinary Muslims sheltered underground activists, and there were no communal clashes during the movement."
@@ -83987,10 +83987,10 @@
             {
               "q": "According to the chapter's estimate of Quit India's significance, which of the following is correct?",
               "o": [
-                "Only the upper classes and bureaucracy actively participated, while common people remained passive",
-                "The movement achieved immediate and complete Indian independence in 1942 itself",
+                "The movement was largely confined to the urban middle classes and students, with the peasantry and industrial workers remaining largely aloof from the underground struggle",
+                "The movement forced the British to open fresh negotiations with Congress leaders soon afterward, resulting in a substantial transfer of provincial power before the war's end",
                 "The movement placed the demand for independence firmly on the immediate national agenda, after which there could be no retreat, even though it lacked centralised leadership once senior leaders were arrested",
-                "The movement was entirely suppressed with no lasting political impact"
+                "The movement was crushed within a few weeks and left the national movement demoralised, with initiative passing decisively to the Muslim League for the rest of the decade"
               ],
               "a": 2,
               "e": "Quit India placed independence irrevocably on the immediate agenda; leaderless after mass arrests, it saw high spontaneity, but its deeper significance lay in demonstrating that British rule without Indian consent had become untenable."
@@ -83999,9 +83999,9 @@
               "q": "In February 1943, Gandhi undertook a fast primarily as:",
               "o": [
                 "A response against the government's exhortation to condemn violence, directed as a protest against state violence",
-                "A gesture of solidarity with the victims of the Bengal famine",
-                "A protest against the Cripps Mission's proposals",
-                "A hunger strike demanding his own release from prison"
+                "A gesture of solidarity with the victims of the Bengal famine, whose distress had begun to attract international attention by early 1943",
+                "A protest against the government's rejection of the Congress's counter-proposals to the failed Cripps Mission negotiations of the previous year",
+                "A hunger strike demanding his own release from Aga Khan Palace, where he had been detained since August 1942"
               ],
               "a": 0,
               "e": "Gandhi's February 1943 fast was a response to government pressure that he condemn the movement's violence; he instead directed his fast against the violence of the State itself."
@@ -84022,9 +84022,9 @@
             {
               "q": "Which regions were worst affected by the Bengal Famine of 1943, in which an estimated 1.5 to 3 million people perished?",
               "o": [
-                "Assam and the north-eastern hill regions",
-                "Punjab and the North-West Frontier Province",
-                "Only urban Calcutta and its immediate suburbs",
+                "Assam and the north-eastern hill districts, including Sylhet, Cachar and the Lushai Hills, which bore the brunt of wartime food shortages",
+                "Punjab and the North-West Frontier Province, particularly the canal colony districts of Lyallpur and Montgomery, which saw severe grain shortages",
+                "Urban Calcutta and its immediate industrial suburbs of Howrah and Hooghly, where destitutes gathered in large numbers seeking relief",
                 "South-west Bengal (Tamluk-Contai-Diamond Harbour), Dacca, Faridpur, Tippera and Noakhali"
               ],
               "a": 3,
@@ -84044,9 +84044,9 @@
             {
               "q": "The Rajagopalachari (CR) Formula of 1944 represented what kind of shift in the Congress's position on the communal question?",
               "o": [
-                "An outright rejection of any possibility of partition under any circumstances",
-                "A proposal to permanently postpone any discussion of the communal question",
-                "A demand for the immediate and unconditional creation of Pakistan without any plebiscite",
+                "A formal Congress resolution recognising the Muslim League as the sole representative of Indian Muslims, without any accompanying conditions on partition",
+                "A proposal to shelve the communal question until a directly elected constituent assembly could take it up after independence, with no interim plebiscite",
+                "A scheme for creating Pakistan through a direct division of provinces by the central legislature, bypassing any plebiscite among the local population",
                 "A tacit acceptance of the Muslim League's demand for Pakistan, conditional on Muslim-majority areas deciding via plebiscite after the war"
               ],
               "a": 3,
@@ -84055,10 +84055,10 @@
             {
               "q": "Why did Jinnah reject the Rajagopalachari (CR) Formula?",
               "o": [
-                "He wanted immediate merger of the League with the Congress",
+                "He demanded that the plebiscite on Pakistan be conducted under Muslim League supervision rather than the existing provincial administration, fearing the process would be manipulated",
                 "He wanted the Congress to explicitly accept the two-nation theory, wanted only Muslims (not the entire population) of the North-West and North-East to vote in the plebiscite, and opposed a common centre",
-                "He believed the formula granted the Muslim League too much power over the interim government",
-                "He objected to any plebiscite being held at all under any circumstances"
+                "He believed the formula granted the Muslim League too much power over the interim central government while leaving the question of a common defence and foreign policy unresolved",
+                "He objected that the formula left the final decision on Pakistan's boundaries to a future constituent assembly instead of guaranteeing them in advance"
               ],
               "a": 1,
               "e": "Jinnah demanded explicit Congress acceptance of the two-nation theory, restriction of plebiscite voting to Muslims only (not the whole population), and rejected the idea of a common centre for defence and commerce."
@@ -84077,10 +84077,10 @@
             {
               "q": "The Desai-Liaqat Pact was a draft proposal between which two leaders for forming an interim government at the centre?",
               "o": [
-                "Jawaharlal Nehru and Liaqat Ali Khan",
+                "Jawaharlal Nehru (Congress) and Liaqat Ali Khan (Muslim League)",
                 "Bhulabhai Desai (Congress) and Liaqat Ali Khan (Muslim League)",
-                "Bhulabhai Desai and Mohammad Ali Jauhar",
-                "C. Rajagopalachari and Muhammad Ali Jinnah"
+                "Bhulabhai Desai (Congress) and Mohammad Ali Jauhar (Muslim League)",
+                "C. Rajagopalachari (Congress) and Muhammad Ali Jinnah (Muslim League)"
               ],
               "a": 1,
               "e": "Bhulabhai Desai, leader of the Congress Party in the Central Legislative Assembly, and Liaqat Ali Khan, deputy leader of the Muslim League, drafted the proposal for an interim central government."
@@ -84088,10 +84088,10 @@
             {
               "q": "What was a key proposal of the Desai-Liaqat Pact?",
               "o": [
-                "Reservation of 50% of seats exclusively for princely state nominees",
+                "Reservation of one-third of central legislature seats for princely state nominees, with the remainder split between Congress and League",
                 "An equal number of Congress and League nominees in the central legislature, with 20% of seats reserved for minorities",
-                "Complete Muslim League control of the central government",
-                "Abolition of the central legislature altogether"
+                "Muslim League nomination of all Muslim members to the central legislature, with Congress retaining nomination rights only over general seats",
+                "Replacement of the central legislature with a body of provincial governors' nominees pending a future constitutional settlement"
               ],
               "a": 1,
               "e": "The pact proposed equal numbers of Congress and League nominees in the central legislature, along with a 20% reservation of seats for minorities — establishing a notion of Congress-League parity."
@@ -84121,10 +84121,10 @@
             {
               "q": "Which of the following was a key feature of the Wavell Plan?",
               "o": [
-                "Defence and finance were to be handed over completely to Indian control immediately",
-                "The council was to function fully outside the framework of the 1935 Act with complete legislative sovereignty",
+                "Defence and external affairs were to remain under the viceroy's direct control, while finance and home affairs were transferred to Indian members of the council",
+                "The council was to function within the framework of the 1935 Act but with an expanded advisory role for the provinces in constitutional matters",
                 "All members of the executive council, except the governor-general and commander-in-chief, were to be Indians, with equal representation for caste Hindus and Muslims",
-                "The Congress alone would nominate all executive council members"
+                "The Congress and the Muslim League were each to nominate an equal number of members regardless of their respective communities, with no separate quota for other minorities"
               ],
               "a": 2,
               "e": "The Wavell Plan proposed an all-Indian executive council (barring the governor-general and commander-in-chief) with equal Hindu-Muslim representation, still functioning within the 1935 Act framework."
@@ -84134,10 +84134,10 @@
             {
               "q": "Why did the Muslim League object to the Wavell Plan's nomination process?",
               "o": [
-                "It wanted fewer Muslim representatives on the council overall",
-                "It demanded that only Hindus be allowed on the executive council",
+                "It wanted a guaranteed one-third share of total council seats regardless of how other minorities' nominees voted, rather than a simple headcount of Muslim members",
+                "It demanded that the viceroy retain the power to veto any Congress nominee belonging to a minority community claiming to represent Muslims",
                 "It feared that since other minorities' aims (depressed classes, Sikhs, Christians) aligned with the Congress, the League would be reduced to a one-third minority, so it demanded that all Muslim members be League nominees",
-                "It rejected the entire concept of an executive council in principle"
+                "It objected mainly to the continued presence of the commander-in-chief on the council, seeing it as a barrier to genuine self-government"
               ],
               "a": 2,
               "e": "The League feared being outnumbered since other minorities' interests aligned with the Congress, so it insisted all Muslim nominees be exclusively from the League, along with a claimed communal veto."
@@ -84145,10 +84145,10 @@
             {
               "q": "How did the Congress respond to the Wavell Plan?",
               "o": [
-                "It demanded the plan be scrapped in favour of immediate full independence with no interim arrangement",
-                "It fully accepted the plan without any reservations",
+                "It demanded that the plan be shelved in favour of a national government responsible to a directly elected constituent assembly convened before the war's end",
+                "It accepted the plan's broad framework but insisted on separate guarantees for the political prisoners still detained since 1942",
                 "It objected to the plan as an attempt to reduce it to the status of a purely caste Hindu party and insisted on its right to nominate members of all communities",
-                "It supported the League's demand for a communal veto"
+                "It endorsed the League's claim to nominate all Muslim members but sought equivalent veto power over League nominees to the council"
               ],
               "a": 2,
               "e": "The Congress objected to being cast as a purely caste-Hindu party and insisted on retaining the right to include members of all communities, including Muslims, among its own nominees."
@@ -84156,9 +84156,9 @@
             {
               "q": "What was Wavell's key mistake regarding the breakdown of the Shimla Conference talks, and its consequence?",
               "o": [
-                "Immediately resigning as Viceroy following the failed talks",
-                "Publicly endorsing the Congress's position over the League's",
-                "Refusing to meet with any Congress leaders throughout the conference",
+                "Resigning as Viceroy soon after the talks collapsed, which left the negotiations to be revived only after the 1945-46 elections under his successor",
+                "Publicly blaming the Congress alone for the breakdown, prompting the League to boycott all further talks with the viceroy for the remainder of the war",
+                "Insisting on holding separate one-on-one meetings only with Congress leaders, which the League cited as evidence of viceregal favouritism",
                 "Announcing the breakdown in a way that effectively gave the Muslim League a virtual veto, strengthening its position ahead of the 1945-46 elections"
               ],
               "a": 3,
@@ -84312,9 +84312,9 @@
             {
               "q": "What ultimately happened to the INA following Japan's surrender in the Second World War?",
               "o": [
-                "The INA merged directly into the British Indian Army without any legal proceedings",
-                "The INA continued fighting independently and achieved India's liberation before Independence",
-                "The INA was formally absorbed into the post-independence Indian Army immediately upon Japan's surrender",
+                "The INA disbanded quietly in Southeast Asia and most of its soldiers returned home individually, avoiding any formal surrender or trial",
+                "The INA retreated into the Burmese hills and continued a guerrilla campaign against British forces for several months after Japan's surrender",
+                "Surviving INA officers were quietly absorbed into the British Indian Army's intelligence corps in exchange for testifying against Bose",
                 "The INA surrendered along with Japan on August 15, 1945, following its retreat after Allied forces reclaimed Moirang and the broader Japanese retreat"
               ],
               "a": 3,
@@ -84332,10 +84332,10 @@
             {
               "q": "According to the chapter, the last two years of British rule witnessed two basic strands of national upsurge. Which of the following correctly describes them?",
               "o": [
-                "Purely peaceful negotiations with no mass action whatsoever",
-                "Complete absence of any negotiations, with only violent mass uprisings",
+                "Smooth and swift negotiations among government, Congress and League leading directly to a unified independent dominion, alongside coordinated mass campaigns organised under central Congress command",
+                "Prolonged negotiations conducted mainly between the Congress and the League without British participation, resulting in a federal constitution, alongside isolated student protests confined to a handful of university towns",
                 "Tortuous negotiations among government, Congress and League culminating in freedom and partition; and sporadic, militant mass action by workers, peasants and states' peoples",
-                "A single unified armed rebellion led jointly by the Congress and the League"
+                "Extended talks primarily between the Muslim League and individual princely states over accession terms, alongside a wave of trade union strikes concentrated in the Bombay textile mills"
               ],
               "a": 2,
               "e": "The chapter identifies two strands: prolonged tripartite negotiations ending in freedom and partition amid communal violence, and a parallel wave of localised militant mass action by workers, peasants and states' peoples."
@@ -84376,10 +84376,10 @@
             {
               "q": "What was the most significant feature of the Congress's 1945-46 election campaign strategy?",
               "o": [
-                "It was conducted entirely in cooperation with the Muslim League",
+                "It relied on a formal seat-sharing arrangement with the Muslim League across most provinces so as to avoid splitting the anti-British vote",
                 "It sought to mobilise Indians against the British rather than merely appealing for votes, glorifying Quit India martyrs and condemning repressive officials",
-                "It avoided any mention of the 1942 movement to prevent provoking the government",
-                "It focused exclusively on economic promises to voters with no reference to nationalism"
+                "It largely downplayed the events of 1942 in official speeches, choosing instead to assure the government of the Congress's readiness to negotiate a settlement",
+                "It concentrated mainly on promises of land redistribution and price controls, leaving broader nationalist appeals to be made informally by local candidates"
               ],
               "a": 1,
               "e": "The campaign's central feature was mobilising anti-British sentiment by glorifying Quit India martyrs, setting up memorials, collecting relief funds, and condemning officials responsible for 1942 repression — rather than simple vote-seeking."
@@ -84387,10 +84387,10 @@
             {
               "q": "Regarding the INA trials, which of the following is correct?",
               "o": [
-                "The trials were held in strict secrecy with no public knowledge of the accused",
-                "Only Muslim INA officers were put on trial by the British",
+                "The trials were conducted before a closed military tribunal in Rangoon, with proceedings kept from Indian journalists and defence lawyers",
+                "The first trial was held quietly at Lahore Fort in early 1945, dealing mainly with desertion charges against a group of Sikh officers",
                 "The first trial, held at the Red Fort in Delhi in November 1945, controversially placed a Hindu (Sehgal), a Muslim (Shah Nawaz Khan) and a Sikh (Dhillon) together in the dock",
-                "The trials were held in Singapore rather than in India"
+                "The trials began in Singapore in late 1944 under a joint Anglo-American commission examining charges of collaboration with Japan"
               ],
               "a": 2,
               "e": "The first INA trial at the Red Fort (November 1945) placed together Prem Kumar Sehgal (Hindu), Shah Nawaz Khan (Muslim) and Gurbaksh Singh Dhillon (Sikh) — a move that inadvertently united communities in the INA's defence."
@@ -84398,9 +84398,9 @@
             {
               "q": "Which of the following prominent lawyers organised the legal defence of INA prisoners in court?",
               "o": [
-                "M.A. Jinnah and Liaqat Ali Khan exclusively",
-                "Only Jawaharlal Nehru, acting alone as defence counsel",
-                "C. Rajagopalachari and Vallabhbhai Patel exclusively",
+                "M.A. Jinnah and Liaqat Ali Khan, who led the defence team on behalf of the Muslim League's INA Relief Committee",
+                "Jawaharlal Nehru, who returned to legal practice specially for the case and personally argued most of the courtroom proceedings",
+                "C. Rajagopalachari and Vallabhbhai Patel, who assembled a team of Madras-based lawyers to handle the appeals",
                 "Bhulabhai Desai, Tej Bahadur Sapru, Kailash Nath Katju, Jawaharlal Nehru and Asaf Ali"
               ],
               "a": 3,
@@ -84409,10 +84409,10 @@
             {
               "q": "Which of the following groups extended support to the INA cause, apart from the Congress?",
               "o": [
-                "Only the Congress supported the INA cause; all other parties opposed it",
-                "Solely the Communist Party, with all other groups remaining neutral",
+                "Mainly the Congress and the Liberal Federation, since most other parties regarded the INA officers as collaborators with the Japanese",
+                "Chiefly the Communist Party and the Kisan Sabha, while communal organisations such as the League and Hindu Mahasabha kept their distance",
                 "The Muslim League, Communist Party, Unionists, Akalis, Justice Party, RSS, Hindu Mahasabha and the Sikh League",
-                "The British government itself formally endorsed the INA cause"
+                "The colonial government's own Legislative Council, which passed a resolution commending the INA's wartime conduct"
               ],
               "a": 2,
               "e": "A remarkably broad coalition — including the Muslim League, Communist Party, Unionists, Akalis, Justice Party, RSS, Hindu Mahasabha and Sikh League — supported the INA cause in varying degrees, reflecting the issue's unifying, anti-British character."
@@ -84420,10 +84420,10 @@
             {
               "q": "Which of the following correctly lists the three major upsurges of the winter of 1945-46?",
               "o": [
-                "The Tebhaga movement, the Telangana revolt, and the Worli revolt",
-                "The Quit India Movement, the Individual Satyagraha, and the Civil Disobedience Movement",
+                "The Tebhaga movement of Bengal peasants, the Telangana armed struggle, and the Worli tribal revolt in Maharashtra, all erupting in the same winter",
+                "The Quit India Movement of August 1942, the Individual Satyagraha campaign of 1940-41, and a brief revival of Civil Disobedience in early 1946",
                 "Calcutta (Nov 21, 1945) over INA trials; Calcutta (Feb 11, 1946) over Rashid Ali's sentence; Bombay RIN ratings' strike (Feb 18, 1946)",
-                "Bombay riots (1946), Noakhali riots (1946), and Bihar riots (1946)"
+                "The Great Calcutta Killing of August 1946, the Noakhali riots of October 1946, and the Bihar riots of November 1946, all following Direct Action Day"
               ],
               "a": 2,
               "e": "The three major upsurges were the Calcutta unrest over INA trials (Nov 21, 1945), the Calcutta protest over Rashid Ali's sentence (Feb 11, 1946), and the RIN ratings' strike in Bombay (Feb 18, 1946)."
@@ -84456,9 +84456,9 @@
               "q": "According to the chapter's evaluation, what was a key limitation of the three 1945-46 upsurges despite their significance?",
               "o": [
                 "They were short-lived, confined to a few urban centres, and the communal unity displayed was more organisational (Muslims consulting the League, others the Congress) than a genuine unity among the people",
-                "They were entirely orchestrated and directed by the Congress leadership from the start",
-                "They had no impact whatsoever on British policy or concessions",
-                "They failed to attract any participation from the armed forces at all"
+                "They were carefully planned and directed by the Congress high command from their inception, forming part of a coordinated strategy for independence",
+                "They produced a marked shift in British policy, prompting the Cabinet Mission to be despatched earlier than had originally been intended",
+                "They drew wide participation from within the armed forces but generated little corresponding support among civilian workers or students"
               ],
               "a": 0,
               "e": "Despite their militancy, the upsurges were short-lived and urban-confined; the apparent communal unity was more organisational than a deep popular unity, since Muslim ratings sought League guidance while others turned to Congress or Socialists."
@@ -84466,9 +84466,9 @@
             {
               "q": "What was Gandhi's opinion on the RIN mutiny of February 1946?",
               "o": [
-                "He called for the ratings to be given full political power immediately",
-                "He fully endorsed and praised the mutiny as the ideal method of struggle",
-                "He was indifferent and made no comment on the mutiny",
+                "He urged the Viceroy to grant the ratings' demands at once, viewing the mutiny as a legitimate expression of the freedom struggle",
+                "He praised the mutiny as an outstanding example of disciplined resistance that vindicated the tactics of direct mass action against British authority",
+                "He remained publicly non-committal for several weeks, waiting for the Congress Working Committee to issue an official statement before offering his own view",
                 "He felt the mutiny was badly advised — wrong if aimed at fighting for freedom without guidance, and wrong if it was over grievances since the ratings should have waited for leaders' guidance"
               ],
               "a": 3,
@@ -84477,9 +84477,9 @@
             {
               "q": "In the 1945-46 elections, which of the following describes the Congress's performance?",
               "o": [
-                "It won a majority of Muslim votes across all provinces",
-                "It captured all 102 seats in the Central Assembly",
-                "It lost every provincial election held during this period",
+                "It won a comfortable majority of Muslim votes in Bengal and Punjab, cutting significantly into the Muslim League's traditional support base",
+                "It secured a narrow plurality of 45 of 102 Central Assembly seats, falling short of a clear majority in the chamber",
+                "It formed the provincial government in Bengal and Sindh in coalition with regional Muslim parties, sidelining the League in both provinces",
                 "It won 91% of non-Muslim votes, captured 57 of 102 Central Assembly seats, and secured majorities in most provinces except Bengal, Sindh and Punjab"
               ],
               "a": 3,
@@ -84488,9 +84488,9 @@
             {
               "q": "In the same elections, which of the following describes the Muslim League's performance?",
               "o": [
-                "It won only a small minority of Muslim votes and failed to establish itself as representative of Muslims",
-                "It won a majority in Punjab outright without any coalition",
-                "It performed identically to its poor 1937 showing",
+                "It won roughly half of the Muslim vote nationally, an improvement on 1937 but still short of establishing clear dominance among Muslim voters",
+                "It secured a majority in Punjab on its own, without needing the support of the Unionist Party or other local groupings",
+                "It repeated its 1937 performance almost exactly, again failing to win any of the reserved Muslim seats in the Central Assembly",
                 "It won 86.6% of Muslim votes, captured all 30 reserved Central Assembly seats, and won majorities in Bengal and Sindh, firmly establishing itself as the dominant Muslim party unlike in 1937"
               ],
               "a": 3,
@@ -84511,9 +84511,9 @@
               "q": "Why did the 1945-46 elections show strong communal voting patterns despite the anti-British unity displayed in the mass upsurges of the same period?",
               "o": [
                 "Due to separate electorates and a highly limited franchise (under 10% for provinces, under 1% for the Central Assembly)",
-                "Because the Congress and League contested on a joint platform",
-                "Because voting was entirely voluntary and open to all adults regardless of religion",
-                "Because the British banned all communal parties from contesting"
+                "Because the Congress and the League had privately agreed to divide constituencies along religious lines before the campaign began",
+                "Because the reformed franchise under the Government of India Act, 1935 had been extended to nearly all Indian adults, making religious appeals more effective",
+                "Because provincial authorities actively campaigned on behalf of communal candidates while discouraging secular parties from contesting reserved seats"
               ],
               "a": 0,
               "e": "Separate electorates and a highly restricted franchise (under 10% of the population for provincial elections, under 1% for the Centre) meant elections reflected narrower, more communally-organised voting than the broader anti-British street unity."
@@ -84567,10 +84567,10 @@
             {
               "q": "How many members were envisaged for the Constituent Assembly under the Cabinet Mission Plan, and how were they to be apportioned?",
               "o": [
-                "250 members nominated solely by the British government",
-                "100 members equally divided between Congress and League",
+                "296 members chosen jointly by the Congress and the League in equal numbers, with the princely states excluded from representation",
+                "410 members, with two-thirds elected by the provincial assemblies and one-third nominated directly by the Viceroy",
                 "389 members — 292 from provincial assemblies, 4 from chief commissioners' provinces, and 93 from princely states",
-                "500 members elected entirely by adult suffrage"
+                "350 members apportioned strictly according to population, with no separate quota reserved for the princely states"
               ],
               "a": 2,
               "e": "The Constituent Assembly was to have 389 members: 292 sent by provincial assemblies, 4 from chief commissioners' provinces, and 93 from the princely states, elected by proportional representation across General, Muslim and Sikh groups."
@@ -84589,9 +84589,9 @@
             {
               "q": "How did the Congress and the Muslim League differ in their interpretation of the Cabinet Mission's 'grouping' clause?",
               "o": [
-                "The League saw grouping as optional while the Congress insisted it was compulsory",
-                "Both parties agreed grouping was entirely optional from the outset",
-                "Both parties agreed grouping was compulsory from the outset",
+                "The League regarded grouping as a minor administrative convenience, while the Congress treated it as the foundation for eventual partition",
+                "Both parties initially agreed that grouping would be decided later by a plebiscite in each province, a position the Mission endorsed",
+                "Both parties agreed grouping was compulsory from the outset, and the dispute instead centred on whether NWFP could opt out unilaterally",
                 "The Congress saw grouping as optional (making Pakistan effectively rejected), while the League insisted it was compulsory, implying Pakistan; the Mission later clarified in the League's favour"
               ],
               "a": 3,
@@ -84600,9 +84600,9 @@
             {
               "q": "What was Wavell's 'Breakdown Plan' presented to the Cabinet Mission in May 1946?",
               "o": [
-                "A plan proposing complete merger of Congress and the Muslim League",
-                "A plan to permanently retain British rule over all of India",
-                "A plan to hold immediate general elections under adult franchise before any transfer of power",
+                "A plan proposing that Congress and the League merge into a single party to jointly contest the next round of provincial elections",
+                "A plan to retain British control over defence and foreign affairs indefinitely while granting full internal autonomy to Indian provincial ministries",
+                "A plan to hold fresh elections under adult franchise across the provinces as a preliminary step, deferring any transfer of power until the results were known",
                 "A plan envisaging British withdrawal to Muslim-majority North-West and North-East provinces while handing over the rest of the country to the Congress"
               ],
               "a": 3,
@@ -84623,9 +84623,9 @@
               "q": "What triggered the Muslim League's withdrawal of its acceptance of the Cabinet Mission's long-term plan on July 29, 1946?",
               "o": [
                 "Nehru's July 10, 1946 statement suggesting the Constituent Assembly was sovereign and that grouping might not occur since NWFP and Assam would object to joining sections B and C",
-                "The resignation of Lord Wavell as Viceroy",
-                "The Congress's rejection of the interim government proposal",
-                "A unilateral British decision to cancel the Cabinet Mission Plan entirely"
+                "Growing pressure from Muslim League provincial leaders in Bengal and Sindh, who feared losing power once the grouping arrangements took effect",
+                "The Congress's formal rejection of the interim government proposal that Wavell had put forward in June 1946",
+                "A recommendation from the British Cabinet in London to replace the Cabinet Mission's long-term plan with a revised partition scheme"
               ],
               "a": 0,
               "e": "Nehru's July 10 statement implying the Constituent Assembly's sovereignty and the likely absence of grouping (since NWFP and Assam objected) prompted the League to withdraw its acceptance and call for 'Direct Action'."
@@ -84644,10 +84644,10 @@
             {
               "q": "Which areas were worst affected by the communal riots that erupted from August 16, 1946?",
               "o": [
-                "Delhi and Madras exclusively",
-                "Only Punjab and NWFP",
+                "Delhi and Madras, where curfews were imposed for over a month following clashes between rival student groups",
+                "Punjab and the North-West Frontier Province, where tribal militias clashed repeatedly with provincial police forces",
                 "Calcutta, Bombay, Noakhali, Bihar and Garhmukteshwar (United Provinces)",
-                "Only princely states, with British India remaining calm"
+                "Several princely states such as Hyderabad and Kashmir, while British India itself saw comparatively minor disturbances"
               ],
               "a": 2,
               "e": "The worst-hit areas of the post-Direct Action communal violence were Calcutta, Bombay, Noakhali, Bihar and Garhmukteshwar in the United Provinces, leaving thousands dead."
@@ -84668,10 +84668,10 @@
             {
               "q": "When did the Muslim League join the Interim Government, and under what conditions?",
               "o": [
-                "December 9, 1946, only after formally renouncing Direct Action",
-                "It never joined the Interim Government at all",
+                "December 9, 1946, shortly after formally renouncing Direct Action and accepting the Cabinet Mission's compulsory grouping formula",
+                "It declined to join the Interim Government throughout 1946, opting instead to contest that year's elections independently and boycott the new government's institutions",
                 "October 26, 1946, without giving up 'direct action' and despite rejecting the Cabinet Mission's plans and insisting on compulsory grouping",
-                "September 2, 1946, alongside the Congress from the very start"
+                "September 2, 1946, alongside the Congress from the outset, having already dropped its demand for compulsory grouping in earlier negotiations"
               ],
               "a": 2,
               "e": "Wavell brought the League into government on October 26, 1946, even though it had not renounced Direct Action, had rejected the Cabinet Mission's plans, and still insisted on compulsory grouping."
@@ -84701,10 +84701,10 @@
             {
               "q": "Why did the Muslim League boycott the first meeting of the Constituent Assembly on December 9, 1946?",
               "o": [
-                "Because the meeting was postponed indefinitely by the Viceroy",
+                "Because the Viceroy had postponed the Assembly's opening by several months pending fresh negotiations between the Congress and the League over grouping",
                 "As part of its obstructionist approach after rejecting the Cabinet Mission's plans, seeking to use its foothold in government to continue the fight for Pakistan rather than participate in constitution-making",
-                "Because the Assembly denied Muslims any representation whatsoever",
-                "Because the Congress refused to allow League members to attend"
+                "Because the Congress-dominated Assembly had allotted Muslims only a token handful of seats out of the 389-member body",
+                "Because the Congress leadership had formally passed a resolution barring League members from taking their seats in the Assembly"
               ],
               "a": 1,
               "e": "The League boycotted the Constituent Assembly as part of a deliberate obstructionist strategy, viewing its presence in the Interim Government as a continuation of the political struggle for Pakistan rather than genuine participation in constitution-making."
@@ -84746,9 +84746,9 @@
               "q": "According to the chapter, what was the social/class basis of communalism, as argued from a Left perspective?",
               "o": [
                 "It was rooted in the rising middle classes propagating imaginary communal interests to further their own economic interests, making it 'a bourgeois question par excellence'",
-                "It arose purely and exclusively from religious doctrine with no economic basis",
-                "It originated solely among industrial workers competing over factory wages",
-                "It was entirely a peasant-driven, grassroots phenomenon with no elite involvement"
+                "It stemmed mainly from doctrinal disputes between Muslim theologians and Hindu religious reformers over questions of scripture and ritual",
+                "It grew chiefly out of competition between Hindu and Muslim industrial workers over limited factory employment in Bombay and Calcutta",
+                "It was primarily a rural phenomenon driven by peasant communities resisting moneylenders belonging to a different religion"
               ],
               "a": 0,
               "e": "The chapter notes the Left's view that communalism's social roots lay in the rising middle classes, who propagated communal interests to further their own economic ambitions — hence a fundamentally 'bourgeois' phenomenon."
@@ -84756,9 +84756,9 @@
             {
               "q": "Which of the following is cited as a socio-economic reason for the growth of communalism among Muslims?",
               "o": [
-                "Muslims controlled the majority of India's industrial capital",
-                "Muslims were uniformly wealthier and more educated than Hindus across all regions",
-                "There was no economic dimension whatsoever to the rise of communalism",
+                "Muslims had come to dominate India's banking and industrial sectors, prompting Hindu traders to organise communally in response",
+                "Muslims and Hindus were roughly equal in education and government employment, so economic grievance played little part in communal politics",
+                "The economic dimension was chiefly a later addition, since nineteenth-century communal tensions were driven mostly by disputes over religious festivals",
                 "Muslims lagged in modern education, trade and industry, leaving educated Muslims dependent on government jobs, which reactionary landlords and loyalist leaders exploited to build communal influence"
               ],
               "a": 3,
@@ -84767,10 +84767,10 @@
             {
               "q": "What was the British policy of 'divide and rule' regarding Muslims after the 1870s?",
               "o": [
-                "The British consistently repressed Muslims throughout without any change in policy",
-                "The British granted Muslims complete political independence from British India",
+                "The British maintained a uniform policy of religious neutrality after the 1870s, treating Hindu and Muslim political demands in the same manner",
+                "The British transferred substantial administrative powers to Muslim-majority provinces while tightening control over Hindu-majority regions",
                 "Reversing earlier repression, the government began courting Muslims through concessions and favours (via figures like Syed Ahmed Khan) to counter rising nationalism among the educated middle classes",
-                "The British banned all Muslim political organisations after 1870"
+                "The British encouraged Muslim political organisations to merge with the Congress after the 1870s in order to present a unified front"
               ],
               "a": 2,
               "e": "After the 1870s, faced with rising nationalism, the British reversed earlier repressive policies toward Muslims, instead using concessions and figures like Syed Ahmed Khan to rally Muslim loyalty against the nationalist movement."
@@ -84780,10 +84780,10 @@
             {
               "q": "How did communal historiography distort India's historical narrative, according to the chapter?",
               "o": [
-                "It was developed exclusively by nationalist historians with no colonial influence",
+                "It was developed mainly by British Orientalist scholars translating Sanskrit texts, with little influence from Indian nationalist writers",
                 "It portrayed the ancient period as a purely 'Hindu' golden age and the medieval period (Turkish, Afghan, Mughal rule) as a 'Muslim' phase, exaggerating ruling-class conflicts as Hindu-Muslim conflicts",
-                "It correctly emphasised that medieval politics was based on religious rather than economic or political interests",
-                "It denied any distinction between ancient and medieval periods of Indian history"
+                "It correctly identified that medieval politics rested chiefly on religious loyalties rather than on dynastic or economic considerations",
+                "It treated the ancient and medieval periods as a single continuous era, denying that any change in the religion of rulers had occurred"
               ],
               "a": 1,
               "e": "Communal historiography (both imperialist and later some Indian chauvinist writing) falsely framed ancient India as a Hindu golden age and medieval India as a Muslim phase of decline, ignoring that medieval political conflicts were driven by economic and political, not religious, interests."
@@ -84791,10 +84791,10 @@
             {
               "q": "Which of the following are cited as socio-religious reform movements whose militant overtones contributed to communalism?",
               "o": [
-                "The Brahmo Samaj and the Aligarh Movement",
-                "The Self-Respect Movement and the Justice Party",
+                "The Brahmo Samaj's campaign for widow remarriage and the Aligarh Movement's push for modern Western education",
+                "The Self-Respect Movement's anti-Brahmin campaigns and the Justice Party's demand for reserved government posts",
                 "The Wahabi Movement among Muslims and the Shuddhi movement among Hindus",
-                "The Ramakrishna Mission and the Theosophical Society"
+                "The Ramakrishna Mission's monastic reforms and the Theosophical Society's revival of Hindu philosophical texts"
               ],
               "a": 2,
               "e": "The Wahabi Movement (Muslim) and Shuddhi movement (Hindu, aimed at reconversion) are cited as reform movements whose militant overtones inadvertently fed communal consciousness."
@@ -84802,9 +84802,9 @@
             {
               "q": "Which of Tilak's initiatives is cited as an example of how militant nationalism inadvertently acquired a Hindu communal tinge?",
               "o": [
-                "The formation of the Congress Socialist Party",
-                "The Home Rule Movement",
-                "The launch of the Kesari newspaper",
+                "His founding of the Congress Socialist Party, intended to mobilise industrial labour behind the nationalist cause",
+                "His leadership of the Home Rule Movement alongside Annie Besant during the First World War",
+                "His launch of the Kesari newspaper, which focused mainly on economic critiques of British land revenue policy",
                 "The Ganapati and Shivaji festivals along with anti-cow slaughter campaigns"
               ],
               "a": 3,
@@ -84813,10 +84813,10 @@
             {
               "q": "According to the chapter, what unease did the Khilafat agitation (1920-22) create among some Congressmen?",
               "o": [
-                "It was seen as entirely a secular economic agitation with no religious content",
+                "It was generally regarded within the Congress as an economic agitation against wartime price rises, with religious symbolism playing only a minor, incidental role",
                 "The fight was framed around protecting the Caliph and Islamic holy places rather than the economic and political consequences of imperialism, raising concerns about its purely nationalistic character",
-                "It was universally regarded as the most successful and unproblematic Congress-led campaign",
-                "It received no Muslim participation at all"
+                "It was regarded by most contemporaries as the most successful and least controversial mass campaign the Congress had yet organised",
+                "It drew active participation mainly from Hindu peasants in the United Provinces, with comparatively little Muslim involvement beyond the leadership"
               ],
               "a": 1,
               "e": "Some Congressmen were uneasy that the Khilafat movement's core motivation — protecting the Caliph and Islamic holy sites — was religious rather than a critique of imperialism's economic and political consequences, even though it was anti-imperialist in effect."
@@ -84857,10 +84857,10 @@
             {
               "q": "The All India Muslim League was founded in 1906 by which group of leaders, with the initial aim of preaching loyalty to the British government?",
               "o": [
-                "Iqbal, Jinnah and the Agha Khan jointly",
-                "Syed Ahmed Khan, Badruddin Tyabji and Hamid Ali Khan",
+                "Iqbal, Jinnah and the Agha Khan, who jointly drafted the League's founding charter at a convention in Lahore",
+                "Syed Ahmed Khan, Badruddin Tyabji and Hamid Ali Khan, building on the earlier United Patriots' Association",
                 "The Agha Khan, Nawab Salimullah of Dacca, Nawab Mohsin-ul-Mulk and Nawab Waqar-ul-Mulk",
-                "Muhammad Ali Jinnah, Liaqat Ali Khan and Rahmat Ali"
+                "Muhammad Ali Jinnah, Liaqat Ali Khan and Rahmat Ali, who convened the founding meeting at Aligarh"
               ],
               "a": 2,
               "e": "The Muslim League was founded in 1906 by the Agha Khan, Nawab Salimullah of Dacca, Nawab Mohsin-ul-Mulk and Nawab Waqar-ul-Mulk, initially aimed at preaching British loyalty and keeping Muslims away from the Congress."
@@ -84892,10 +84892,10 @@
             {
               "q": "What were Jinnah's 'Fourteen Points' (1929), presented in response to the Nehru Report?",
               "o": [
-                "A programme for Hindu-Muslim unity based on joint electorates",
-                "A demand for complete abolition of communal representation",
+                "A programme calling for Hindu-Muslim unity to be achieved through joint electorates and proportional cabinet representation",
+                "A demand for the abolition of communal representation in favour of a uniform adult franchise across British India",
                 "A set of demands including separate electorates and reservation for Muslims in government service and self-governing bodies",
-                "A blueprint for the immediate creation of Pakistan as a separate sovereign state"
+                "A blueprint proposing the eventual creation of Pakistan as a sovereign state carved out of the Muslim-majority provinces"
               ],
               "a": 2,
               "e": "Jinnah's Fourteen Points (1929), a response to the Nehru Report, demanded separate electorates and reserved Muslim representation in government service and self-governing institutions, among other communal safeguards."
@@ -84926,9 +84926,9 @@
               "q": "What impossible demand did Jinnah make between 1937 and 1939 that blocked avenues for Congress-League conciliation?",
               "o": [
                 "That the Congress declare itself a Hindu organisation and recognise the Muslim League as the sole representative of Indian Muslims",
-                "That all princely states be immediately merged into British India",
-                "That the Congress accept dominion status as a permanent constitutional arrangement",
-                "That the British immediately grant full independence with no transitional period"
+                "That all princely states accede directly to the Muslim League rather than negotiating separately with the Crown or the Congress",
+                "That the Congress formally accept dominion status as a permanent constitutional settlement rather than a stepping stone to full independence",
+                "That the British grant independence within a fixed one-year timetable without any interim transitional arrangements"
               ],
               "a": 0,
               "e": "Jinnah demanded that the Congress declare itself a purely Hindu organisation and accept the League as the sole representative of Muslims — a demand the Congress, claiming to represent all communities, could not accept."
@@ -84937,9 +84937,9 @@
               "q": "During the Second World War negotiations (August Offer, Cripps proposals, Shimla Conference, Cabinet Mission), what advantage did the Muslim League consistently exploit?",
               "o": [
                 "A virtual veto given to it by the British Indian government on any political settlement",
-                "Sole representation of India at Allied war conferences",
-                "Direct control over the Indian Army's command structure",
-                "Complete financial control over the war effort"
+                "Guaranteed sole representation of India at Allied war conferences, sidelining both the Congress and the princely states",
+                "Direct operational control over the Indian Army's command structure, independent of the Viceroy's authority",
+                "Effective financial control over the war effort through a seat on the Viceroy's Executive Council's finance department"
               ],
               "a": 0,
               "e": "Throughout wartime negotiations, the British government effectively gave the League a virtual veto over political settlements, which it used consistently to press for a separate Pakistan, ultimately achieved in 1947."
@@ -84978,10 +84978,10 @@
             {
               "q": "Which of the following was a key provision of Attlee's February 1947 statement regarding the transfer of power?",
               "o": [
-                "Power would be transferred only to a single unified central government under all circumstances",
-                "The British would retain control over defence indefinitely after transfer of power",
+                "Power was to be transferred to Indian hands not later than June 1947, a year earlier than the date actually specified by the Cabinet",
+                "British paramountcy over the princely states would automatically transfer to whichever central government succeeded British India, continuing the same treaty obligations",
                 "Power might be transferred either to a central government or, in some areas, to existing provincial governments if the constituent assembly was not fully representative",
-                "All princely states would automatically become part of British India's successor government"
+                "The Cabinet Mission's grouping scheme for provinces would be compulsorily enforced regardless of the constituent assembly's final composition"
               ],
               "a": 2,
               "e": "Attlee's statement allowed for a fragmented transfer of power — to a central government or to provincial governments — if Muslim-majority provinces refused to join a representative constituent assembly, hinting at partition."
@@ -84989,10 +84989,10 @@
             {
               "q": "According to Attlee's statement, what would happen to British paramountcy over the princely states upon transfer of power?",
               "o": [
-                "Paramountcy would be transferred exclusively to the Congress-led government",
+                "Paramountcy would be transferred to the Congress-led interim government, which would assume all the treaty rights and obligations Britain had held over the states",
                 "British powers and obligations toward the princely states would lapse, but would not automatically transfer to any successor government in British India",
-                "Paramountcy would be automatically transferred wholesale to whichever government succeeded British India",
-                "The princely states would remain permanently under British control even after independence"
+                "Paramountcy would pass automatically to whichever dominion, India or Pakistan, was geographically contiguous to each princely state's territory",
+                "The princely states would continue to be bound by their existing treaties with the British Crown until a new paramount authority was formally constituted by Parliament"
               ],
               "a": 1,
               "e": "Attlee's statement specified that British paramountcy over princely states would simply lapse with the transfer of power, without automatically passing to any successor government — leaving the states' future status open."
@@ -85011,10 +85011,10 @@
             {
               "q": "Why did the British government fix a specific date for withdrawal in the February 1947 statement?",
               "o": [
-                "Because international law required a fixed exit date for all colonial powers",
-                "Because the United Nations had imposed the deadline on Britain",
+                "Because the Labour government calculated that only a fixed date could reassure British financial markets and secure continued sterling balances owed to India",
+                "Because Mountbatten had privately promised Jinnah a specific timetable in order to secure League cooperation with the interim government",
                 "To shock the parties into agreement, avert the deepening constitutional crisis, and convince Indians of British sincerity, given the irreversible decline in governmental authority",
-                "Because Indian industrialists demanded a fixed date for economic planning purposes"
+                "Because the Indian Civil Service had warned that its British officers would resign en masse unless a firm departure date was announced"
               ],
               "a": 2,
               "e": "The fixed deadline aimed to shock the Congress and League into agreement, defuse the escalating crisis, signal genuine British sincerity, and reflected acceptance of Wavell's assessment that governmental authority had irreversibly declined."
@@ -85022,9 +85022,9 @@
             {
               "q": "Why was the provision allowing transfer of power to more than one centre acceptable to the Congress?",
               "o": [
-                "It ensured the immediate abolition of the Muslim League as a political entity",
-                "It required unanimous approval from all princely states before proceeding",
-                "It guaranteed the Congress control over the entire subcontinent without any partition",
+                "It allowed the Congress to argue that the Muslim League's demand for Pakistan need not be conceded in the north-eastern and north-western provinces where Congress held support",
+                "It obliged the Muslim League to first secure the consent of the Chamber of Princes before any province could opt out of the union",
+                "It preserved the possibility that Punjab and Bengal could later be re-united with the Indian Union once communal passions subsided",
                 "It meant the existing constituent assembly could proceed to frame a constitution for the areas it represented, offering a way out of the deadlock"
               ],
               "a": 3,
@@ -85044,9 +85044,9 @@
             {
               "q": "In April 1947, what message did Congress president Kripalani reportedly convey to the Viceroy regarding Pakistan?",
               "o": [
-                "That the Congress wanted a plebiscite held in every province of British India",
-                "That the Congress would never under any circumstances accept the idea of Pakistan",
-                "That the Congress demanded immediate merger of the Muslim League into itself",
+                "That the Congress would accept Pakistan only if a fresh plebiscite were held district by district across Punjab and Bengal rather than province-wide",
+                "That the Congress leadership had decided to press the Viceroy to postpone the transfer of power until the League agreed to a joint defence arrangement",
+                "That the Congress demanded the League first agree to a common governor-general for both future dominions before any partition talks could proceed",
                 "That the Congress would let the League have Pakistan, provided Bengal and Punjab were partitioned in a fair manner rather than fighting a battle over the issue"
               ],
               "a": 3,
@@ -85055,9 +85055,9 @@
             {
               "q": "Why was Mountbatten able to act more firmly and quickly as Viceroy than his predecessors?",
               "o": [
-                "He was personally appointed by the Muslim League rather than the British Cabinet",
-                "He alone among Viceroys had prior administrative experience in India",
-                "He had significantly less oversight from the British Parliament than any previous Viceroy",
+                "He arrived with a personal rapport with Nehru built during his wartime command in South-East Asia, which he used to bypass normal Cabinet channels",
+                "He was the first Viceroy to have previously served as a provincial governor in India, giving him direct administrative experience the others lacked",
+                "He was granted plenipotentiary powers superior to those of the Cabinet Mission, allowing him to override decisions taken in London",
                 "He was informally given greater powers to decide matters on the spot and had the backing of Britain's firm decision to quit at the earliest"
               ],
               "a": 3,
@@ -85068,10 +85068,10 @@
             {
               "q": "What was the 'Plan Balkan' that Mountbatten formulated between March and May 1947, before it was abandoned?",
               "o": [
-                "A plan to divide India into exactly two dominions with no options for individual provinces or states",
+                "A plan to divide British India into two dominions, India and Pakistan, while requiring every princely state to accede to one or the other within a fixed period",
                 "A plan to transfer power to separate provinces or a confederation, with princely states free to join India, Pakistan, or remain independent",
-                "A plan to grant complete independence only to Bengal and Punjab while retaining British control elsewhere",
-                "A plan proposing continued British rule over a confederated India for another decade"
+                "A plan to grant Bengal and Punjab the status of autonomous provinces within a single Indian dominion, while other provinces joined a separate Muslim dominion",
+                "A plan proposing a loose all-India confederation retaining a British-appointed Governor-General with veto powers over provincial legislation"
               ],
               "a": 1,
               "e": "Plan Balkan envisaged transferring power to separate provinces or a pre-transfer confederation, with individual units and princely states (freed by lapsed paramountcy) able to join India, Pakistan, or remain separate — risking the country's Balkanisation."
@@ -85101,10 +85101,10 @@
             {
               "q": "Under the Mountbatten Plan of June 3, 1947, how were Punjab and Bengal's legislative assemblies to decide on partition?",
               "o": [
-                "Only the Muslim League members had voting rights on the question",
+                "The two communities' representatives would vote together as a single house, requiring a two-thirds majority for partition to be triggered",
                 "They would meet in two groups (Hindu and Muslim members) to vote, with a simple majority in either group sufficing to trigger partition of that province",
-                "Decision was to be made solely by the Viceroy without any legislative vote",
-                "A single joint vote of the entire assembly, with a two-thirds majority required"
+                "The decision would be referred to a joint Congress-League committee chaired by the Viceroy, whose recommendation the assemblies would ratify without a formal vote",
+                "Each assembly would vote as a single undivided house, with a simple majority of all members sufficient to decide the province's fate"
               ],
               "a": 1,
               "e": "Under the plan, Punjab and Bengal assemblies met in Hindu and Muslim groups; a simple majority in either group voting for partition would trigger that province's division."
@@ -85123,9 +85123,9 @@
             {
               "q": "Which of the following outcomes did the Mountbatten Plan rule out, given the Congress's acceptance of a unified (if partitioned) India?\n1. Independence for the princely states.\n2. Independence for Bengal as a separate unit.\n3. Accession of Hyderabad to Pakistan.\n4. Setting up a Boundary Commission if partition occurred.\nWhich of these were ruled OUT (i.e., NOT permitted), rather than provided for?",
               "o": [
-                "1, 2, 3 and 4",
-                "Only 1",
-                "Only 4",
+                "1, 2 and 4 only",
+                "2, 3 and 4 only",
+                "1, 3 and 4 only",
                 "1, 2 and 3 only"
               ],
               "a": 3,
@@ -85213,10 +85213,10 @@
             {
               "q": "Why did Mountbatten decide to delay the public announcement of the Radcliffe Award, even though it was ready by August 12, 1947?",
               "o": [
-                "Because the princely states needed additional time to review the boundaries",
-                "Because Radcliffe himself requested additional time to revise his boundary lines",
+                "Because Mountbatten wanted to first secure the princely states' instruments of accession before the new boundaries could influence their decisions",
+                "Because Radcliffe wanted to cross-check his boundary lines against the latest census returns before they were made public, fearing errors in the district-wise data",
                 "So that the British could escape responsibility for the resulting communal disturbances by having it announced only after the transfer of power on August 15",
-                "Because the Congress and League had not yet agreed to accept the award's contents"
+                "Because the Congress and the League had asked for a joint sitting of the Partition Council to formally ratify the award before its publication"
               ],
               "a": 2,
               "e": "Mountbatten deliberately delayed the Radcliffe Award's announcement until after August 15, 1947, so the British could distance themselves from responsibility for the ensuing communal violence and displacement."
@@ -85224,9 +85224,9 @@
             {
               "q": "Following the referendum process, which of the following outcomes is correctly matched?",
               "o": [
-                "Both NWFP and Sylhet opted to remain outside both dominions",
-                "Both NWFP and Sylhet voted to join India",
-                "NWFP voted to join India, while Sylhet voted to remain independent",
+                "Both NWFP and Sylhet returned majorities against joining either dominion, leading to their temporary administration as separate Chief Commissioners' provinces",
+                "NWFP voted to join India by a narrow margin, while Sylhet's referendum favoured remaining part of undivided Assam",
+                "NWFP voted in favour of Pakistan with a boycott by the Muslim League, while Sylhet's referendum resulted in its retention within Assam and India",
                 "NWFP voted in favour of Pakistan (with the Provincial Congress abstaining from the referendum), while Sylhet's referendum resulted in its incorporation into East Bengal (Pakistan)"
               ],
               "a": 3,
@@ -85257,10 +85257,10 @@
             {
               "q": "In the first phase of state integration, why did most princes agree relatively easily to sign the Instrument of Accession covering defence, external affairs and communication?",
               "o": [
-                "Because the Indian government offered them full sovereignty in exchange",
+                "Because the Indian government guaranteed them continued control over their state forces and internal police in exchange for signing",
                 "Because the British government directly compelled them to sign under threat of force",
                 "Because they were merely 'surrendering' functions they never actually held (these had been part of British paramountcy), and their internal political structure remained unchanged",
-                "Because the accession was purely symbolic and carried no legal effect"
+                "Because the Instrument only bound the states for an initial one-year period, after which they could renegotiate their terms of accession"
               ],
               "a": 2,
               "e": "Since defence, external affairs and communication had always been part of British paramountcy (not the princes' own powers), signing away these functions cost the princes little, while their internal authority remained intact initially."
@@ -85268,10 +85268,10 @@
             {
               "q": "What was the principal incentive ('bait') offered to princes during the more difficult second phase of state integration?",
               "o": [
-                "Exemption from all future taxation",
+                "A one-time cash settlement equal to five years of state revenue, paid in lieu of any future administrative role",
                 "A generous privy purse, along with appointments as governors and rajpramukhs in free India",
-                "Guaranteed seats in the Indian Parliament for life",
-                "Permanent retention of full sovereign powers over their territories"
+                "Hereditary seats in a specially created upper chamber of princes, modelled on the pre-independence Chamber of Princes",
+                "Continued control over their state's judiciary and police, even after merging their territories into the Indian Union"
               ],
               "a": 1,
               "e": "During the second, more complex phase of integrating states into larger administrative units, princes were incentivised chiefly through generous privy purses and appointments as governors or rajpramukhs."
@@ -85303,9 +85303,9 @@
             {
               "q": "According to the chapter, which of the following best explains the deeper reason why the Congress ultimately accepted partition?",
               "o": [
-                "The Congress accepted partition purely due to Gandhi's personal insistence, against the wishes of all other leaders",
-                "Partition was solely the result of British military coercion against Congress wishes",
-                "The Congress fully supported partition from the very beginning of the freedom struggle as an ideological goal",
+                "The exhaustion of senior Congress leaders after years of imprisonment made them prioritise an early transfer of power over prolonging negotiations to prevent partition",
+                "The British administration's warnings of an imminent breakdown of law and order convinced the Congress leadership that only partition could avert a wider civil war",
+                "The Congress had long accepted the two-nation theory as valid, and partition merely formalised a division it had endorsed since the Lucknow Pact",
                 "The Congress had succeeded in building national consciousness to pressure Britain to leave, but had failed in its parallel task of fully integrating Muslims into a unified national identity"
               ],
               "a": 3,
@@ -85325,10 +85325,10 @@
             {
               "q": "According to the chapter, in what way did Nehru display 'wishful thinking' regarding partition, underestimating the nature of 1940s communalism?",
               "o": [
-                "He believed communalism in the 1940s was identical in nature to that of the 1920s",
-                "He insisted from the outset that partition was permanent and irreversible",
+                "He believed that communal tensions were confined to the upper classes and politicians, and would not affect the loyalties of the common peasantry",
+                "He believed that once Jinnah's demand was conceded, the two-nation theory would collapse under its own economic contradictions within a few years",
                 "He believed Hindu-Muslim differences would be patched up once the British left, that partition was only temporary, and that it would be peaceful once Pakistan was conceded",
-                "He predicted correctly and accurately that partition would cause massive, prolonged violence"
+                "He believed that a strong central government backed by the army could suppress any communal violence before it spread beyond a few districts"
               ],
               "a": 2,
               "e": "Nehru repeatedly expressed optimistic but ultimately mistaken views — that post-British Hindu-Muslim unity would return, that partition was temporary, and that conceding Pakistan would ensure peace — underestimating the assertive, all-out nature of 1940s communalism."
@@ -85337,9 +85337,9 @@
               "q": "Why did Gandhi feel a sense of helplessness regarding the acceptance of partition?",
               "o": [
                 "He believed the people themselves had become communalised, making it impossible to sustain a movement against communalism, though he urged Congressmen not to accept partition 'in their hearts'",
-                "He believed partition was entirely his own idea and felt guilty for proposing it",
-                "He had no opinion on partition and remained indifferent throughout the process",
-                "He believed partition was the best possible outcome and celebrated its acceptance"
+                "He blamed himself for having earlier encouraged Khilafat-era Hindu-Muslim unity in ways that, in hindsight, deepened rather than healed communal divisions",
+                "He held that partition should be resisted through a fresh nationwide fast, but found the Working Committee unwilling to risk further delay in the transfer of power",
+                "He viewed partition as a reasonable compromise necessary to prevent an even larger loss of territory to the League's demands"
               ],
               "a": 0,
               "e": "Gandhi felt helpless because the communalisation of the masses left no base for an anti-communal movement; he reluctantly accepted the political reality of partition while urging Congressmen to reject it in spirit."
@@ -85348,9 +85348,9 @@
               "q": "According to historian R.C. Mazumdar's assessment (as cited in the chapter), what combination of factors is credited with bringing freedom to India, beyond the Civil Disobedience Movement alone?",
               "o": [
                 "The cumulative effect of Gandhi's campaigns, the INA's efforts under Bose, and the indirect pressure exerted by Hitler and Japan against Britain during the two World Wars",
-                "Only the direct diplomatic intervention of the United States and Soviet Union",
-                "Exclusively the Civil Disobedience Movement, with no role for any other factor",
-                "Solely the economic collapse of British India with no political factors involved"
+                "The combined diplomatic pressure of the United States and the Soviet Union on Britain during the early Cold War rivalry over Asian influence",
+                "The Civil Disobedience Movement together with the Round Table Conferences, which together persuaded Britain of Congress's mass following",
+                "The financial exhaustion of Britain after the Second World War combined with the Labour government's ideological opposition to imperialism"
               ],
               "a": 0,
               "e": "Mazumdar argued that no single method (Gandhi's non-violence, Bose's INA, or wartime pressure from the Axis powers) alone secured independence, but their cumulative effect — especially the INA trials' impact on army loyalty — was decisive."
@@ -85359,9 +85359,9 @@
               "q": "According to the chapter, which factor made it clear to the exhausted British that they could no longer rely on the loyalty of Indian soldiers for maintaining authority?",
               "o": [
                 "The revelations made during the INA trials and the popular reaction they produced across India",
-                "The failure of the Cripps Mission in 1942",
-                "The passage of the Government of India Act, 1935",
-                "The outcome of the 1937 provincial elections"
+                "The breakdown of the Cripps Mission negotiations in 1942, which convinced British officials that no Indian party would cooperate militarily without a firm independence pledge",
+                "The passage of the Government of India Act, 1935, which had already devolved enough provincial autonomy to make continued British rule administratively unsustainable",
+                "The results of the 1937 provincial elections, which showed Congress winning enough seats to form ministries capable of paralysing the war effort"
               ],
               "a": 0,
               "e": "The INA trials' revelations and the massive, unifying public reaction they triggered convinced the war-exhausted British that Indian soldiers' loyalty could no longer be assumed, significantly influencing the final decision to quit India."
@@ -85433,9 +85433,9 @@
             {
               "q": "Which judicial body was established in Bengal under the Regulating Act of 1773, with original and appellate jurisdiction, though its authority often clashed with the council's?",
               "o": [
-                "The Federal Court",
+                "The Sadar Nizamat Adalat",
                 "A Supreme Court of Judicature at Calcutta",
-                "The Privy Council",
+                "The Privy Council in London",
                 "The Sadar Diwani Adalat"
               ],
               "a": 1,
@@ -85466,9 +85466,9 @@
             {
               "q": "The Act of 1786 conceded which demand of Lord Cornwallis, subsequently extended to all future governors-general?",
               "o": [
-                "The power to appoint all district collectors without oversight",
-                "The power to unilaterally abolish the Board of Control",
-                "The power to declare war without approval from London",
+                "The power to nominate and dismiss members of his executive council without prior reference to the Court of Directors in London",
+                "The right to sit concurrently as a member of the Board of Control in London while continuing to govern from Calcutta",
+                "The authority to overrule directives from the Board of Control on revenue and commercial policy whenever he considered them impractical to enforce",
                 "The power to override the council's decisions if he assumed personal responsibility for them, and to simultaneously hold the offices of governor-general and commander-in-chief"
               ],
               "a": 3,
@@ -85502,9 +85502,9 @@
               "q": "The Charter Act of 1813 set aside one lakh rupees annually for which purpose, an important early statement of state responsibility for education?",
               "o": [
                 "Revival, promotion and encouragement of literature, learning and science among the natives of India",
-                "Compensation to zamindars for lost revenue",
-                "Construction of railways across India",
-                "Establishment of a national university system"
+                "Maintenance of the newly created Anglican bishopric and diocesan establishment at Calcutta",
+                "Compensation to the East India Company for the loss of its trade monopoly with India",
+                "Salaries and pensions for Christian missionaries newly permitted to proselytise in Company territories"
               ],
               "a": 0,
               "e": "The 1813 Act allocated one lakh rupees annually for promoting literature, learning and science among Indians — an early, if modest, formal state commitment to education."
@@ -85523,10 +85523,10 @@
             {
               "q": "Which declaration in the Charter Act of 1833, though poorly implemented in practice, became a foundational plank of Indian political agitation?",
               "o": [
-                "All revenue collected in India would be spent exclusively within India",
-                "Indians would be granted representation in the British Parliament",
+                "The Company's trade monopoly with China would be phased out gradually over a fixed transitional period rather than abolished at once",
+                "The offices of Governor-General of Bengal and Governor-General of India would be permanently kept distinct from one another to preserve provincial autonomy",
                 "No Indian citizen was to be denied employment under the Company on grounds of religion, colour, birth or descent",
-                "All Indians would automatically receive British citizenship"
+                "A Law Member would be added to the Governor-General's Council, holding voting rights on all matters including executive business"
               ],
               "a": 2,
               "e": "The 1833 Act's declaration against employment discrimination based on religion, colour, birth or descent, though rarely honoured in practice, became a key rallying point for later Indian political agitation."
@@ -85556,10 +85556,10 @@
             {
               "q": "The Act for Better Government of India, 1858, passed in the aftermath of the 1857 revolt, brought about which major change?",
               "o": [
-                "It transferred all governance to a newly created Indian Parliament",
-                "It granted the Congress formal representation in governance",
+                "It transferred the Company's governing powers to a newly created Council of India in London, which functioned largely independently of the Secretary of State's day-to-day control",
+                "It retained the Company's Court of Directors as a permanent advisory body while shifting ultimate legislative and financial authority directly to Parliament itself",
                 "India was to be governed by and in the name of the Crown through a secretary of state (with an advisory council), ending the dual system of Pitt's India Act, and the governor-general became Viceroy",
-                "It abolished the office of governor-general entirely"
+                "It abolished the office of governor-general and replaced it with a Viceroy appointed directly by, and answerable directly to, Parliament rather than the Crown"
               ],
               "a": 2,
               "e": "The 1858 Act shifted governance from Company to Crown, established a secretary of state (assisted by an advisory council) as the ultimate authority, ending the Pitt's India Act's dual system, and renamed the governor-general as Viceroy."
@@ -85589,10 +85589,10 @@
             {
               "q": "The Indian Councils Act, 1892, passed partly in response to Congress demands, introduced which principle, despite carefully avoiding the term 'election'?",
               "o": [
-                "Direct universal adult suffrage for all legislative council seats",
-                "Abolition of the Imperial Legislative Council altogether",
+                "Granted the Imperial Legislative Council the power to formally vote down the government's annual budget proposals",
+                "Provided for a non-official majority in the Imperial Legislative Council at the Centre for the first time",
                 "An element of indirect election through recommendations by universities, district boards, municipalities, zamindars and chambers of commerce",
-                "Reservation of seats exclusively for Congress-nominated candidates"
+                "Created separate communal electorates for Muslims and Hindus within the provincial legislative councils"
               ],
               "a": 2,
               "e": "The 1892 Act allowed bodies like universities, district boards, municipalities and chambers of commerce to recommend members, introducing indirect election in substance while avoiding the term formally."
@@ -85613,9 +85613,9 @@
             {
               "q": "What was a significant and problematic feature introduced by the Morley-Minto Reforms (1909)?",
               "o": [
-                "Direct election to the Imperial Legislative Council by popular vote",
-                "Complete abolition of all communal representation",
-                "Universal adult suffrage for all Indian men regardless of religion",
+                "Extension of a non-official majority to the Imperial Legislative Council at the Centre, matching the concession already made in the provinces",
+                "Appointment of an Indian member to the Viceroy's Executive Council with charge of a major portfolio such as finance or home affairs",
+                "Introduction of a common electoral roll in which Muslim and Hindu voters jointly elected candidates to reserved communal seats",
                 "Separate electorates for Muslims, with representation in excess of their population and a lower income qualification for Muslim voters than for Hindus"
               ],
               "a": 3,
@@ -85635,10 +85635,10 @@
             {
               "q": "Under the Government of India Act, 1919, the Indian Legislative Council at the Centre was replaced by which bicameral structure?",
               "o": [
-                "A Rajya Sabha and a Lok Sabha",
+                "A Rajya Sabha (Upper House) and a Lok Sabha (Lower House)",
                 "A Council of State (Upper House) and a Legislative Assembly (Lower House)",
-                "A Senate and a House of Representatives",
-                "A Federal Assembly and a Provincial Assembly"
+                "A Senate (Upper House) and a House of Representatives (Lower House)",
+                "A Federal Assembly (Upper House) and a Provincial Assembly (Lower House)"
               ],
               "a": 1,
               "e": "The 1919 Act replaced the unicameral Indian Legislative Council with a bicameral central legislature comprising the Council of State and the Legislative Assembly, both with elected majorities, though on a restricted franchise."
@@ -85658,9 +85658,9 @@
               "q": "The Simon Commission (Indian Statutory Commission), appointed in November 1927, recommended which of the following in its 1930 report?",
               "o": [
                 "Abolition of dyarchy, extension of responsible government in the provinces, a federation of British India and princely states, and continuation of communal electorates",
-                "Immediate grant of full independence to India with no further review",
-                "Permanent retention of dyarchy in both provinces and the Centre",
-                "Abolition of all communal electorates with immediate effect"
+                "Extension of responsible government to the Centre at the same pace as the provinces, ending dyarchy simultaneously at both levels of government",
+                "Retention of dyarchy in the provinces while extending responsible government only at the Centre, reversing the arrangement recommended for the provinces",
+                "Abolition of communal electorates in favour of a single joint electorate to be introduced uniformly across all provinces and at the Centre"
               ],
               "a": 0,
               "e": "The Simon Commission (1930) recommended abolishing dyarchy, extending provincial responsible government, forming an all-India federation including princely states, and — controversially — continuing communal electorates."
@@ -85690,9 +85690,9 @@
             {
               "q": "Why did the All-India Federation envisaged under the Government of India Act, 1935 never come into existence?",
               "o": [
-                "Because the princely states unanimously refused to consider the federation from the outset",
-                "Because World War II broke out before any implementation could begin",
-                "Because the British Parliament formally repealed the federation provisions before implementation",
+                "Because most princely states were reluctant to accede, citing disputes over the financial safeguards, representation shares, and treaty guarantees the federation would require",
+                "Because the outbreak of the Second World War in 1939 forced the British to shelve the federal scheme indefinitely while the war continued",
+                "Because the Chamber of Princes formally withdrew its earlier conditional assent to the federation scheme through a resolution passed in 1939",
                 "Because of opposition from different Indian parties, leading the British to implement only provincial autonomy (from April 1, 1937) while the Centre continued under the 1919 Act framework"
               ],
               "a": 3,
@@ -85747,9 +85747,9 @@
             {
               "q": "How did the maximum permissible age for the ICS entrance examination change over time, as a deliberate barrier to Indian entry?",
               "o": [
-                "It was gradually raised from 19 to 23 to make the exam more accessible to Indians",
-                "It was abolished entirely after the Charter Act of 1853",
-                "It remained fixed at 21 throughout the colonial period",
+                "It was gradually raised from 19 (1878) to 21 (1885) to 23 (1892) as the British eased entry requirements for Indian candidates",
+                "It was abolished after the Charter Act of 1853, which removed all age restrictions from the examination",
+                "It remained fixed at 21 throughout the period from 1853 to 1892, unaffected by subsequent reforms",
                 "It was gradually reduced from 23 (1859) to 22 (1860) to 21 (1866) to 19 (1878, under Lytton)"
               ],
               "a": 3,
@@ -85780,10 +85780,10 @@
             {
               "q": "What was the significance of the 1893 House of Commons resolution regarding civil service examinations?",
               "o": [
-                "It was implemented immediately, resulting in simultaneous exams from 1894 onward",
+                "It was accepted by the Secretary of State, leading to simultaneous examinations beginning in India from 1895",
                 "It supported holding simultaneous examinations in India and England but was never actually implemented",
-                "It reserved half of all ICS posts for Indians with immediate effect",
-                "It abolished the ICS examination altogether"
+                "It recommended a fixed quota of ICS posts to be reserved for candidates who qualified through the Indian examination centres",
+                "It proposed relocating the ICS examination from London to India while keeping the existing age and subject requirements unchanged"
               ],
               "a": 1,
               "e": "Though the House of Commons passed a resolution in 1893 favouring simultaneous ICS examinations in India and England, it was never actually implemented — reflecting the gap between stated policy and colonial practice."
@@ -85849,9 +85849,9 @@
               "q": "The 1902 Police Commission recommended establishing which two bodies for intelligence and criminal investigation?",
               "o": [
                 "The Criminal Investigation Department (CID) in provinces and a Central Intelligence Bureau at the Centre",
-                "An All-India Police Force under direct central command",
-                "A separate secret police answerable only to the Viceroy",
-                "A Federal Investigation Agency modelled on European lines"
+                "A unified All-India Police Force commanded directly from the centre, replacing separate provincial police establishments",
+                "A secret political intelligence service reporting directly and solely to the Viceroy's private secretariat",
+                "A Federal Investigation Agency modelled on continental European detective bureaus, based in Simla"
               ],
               "a": 0,
               "e": "The 1902 Police Commission recommended establishing provincial CIDs and a Central Intelligence Bureau, strengthening the colonial state's surveillance and investigative apparatus."
@@ -85860,9 +85860,9 @@
               "q": "Regarding the British Indian Army's composition before 1857, which of the following is correct?",
               "o": [
                 "It comprised the 'Queen's army' (Crown troops on duty in India) and separate 'Company's troops' (a mix of European regiments and locally recruited Native regiments under British officers)",
-                "It had no European component whatsoever until after 1857",
-                "It consisted solely of Indian soldiers with no British troops present at all",
-                "It was composed entirely of mercenaries hired from other European colonial powers"
+                "It was organised as a single unified national army under one commander-in-chief, without the separate presidency-based Bengal, Madras and Bombay armies that emerged later",
+                "It consisted only of the three presidency armies of Bengal, Madras and Bombay, with Crown regiments first deployed to India only after the 1857 revolt broke out",
+                "It was composed mainly of mercenaries recruited from rival European colonial powers such as the French and Portuguese, serving alongside a small Company cadre"
               ],
               "a": 0,
               "e": "Prior to 1857, India's British military presence comprised the Crown's Queen's army and the Company's own troops (European regiments plus British-officered Native regiments) operating as two distinct forces."
@@ -85870,10 +85870,10 @@
             {
               "q": "After 1857, army reorganisation deliberately fixed the ratio of Europeans to Indians in the Bengal Army, and in the Madras and Bombay Armies, at approximately what levels?",
               "o": [
-                "Complete parity of one European to one Indian everywhere",
-                "No fixed ratio was ever established after 1857",
+                "One European to three Indians in Bengal, and one European to five Indians in Madras and Bombay",
+                "Two Europeans to three Indians in Bengal, and one European to two Indians in Madras and Bombay",
                 "One European to two Indians in Bengal, and two Europeans to five Indians in Madras and Bombay",
-                "One European to ten Indians in all three armies equally"
+                "One European to five Indians in Bengal, and one European to two Indians in Madras and Bombay"
               ],
               "a": 2,
               "e": "Post-1857 reorganisation fixed European-to-Indian ratios at roughly 1:2 in the Bengal Army and 2:5 in the Madras and Bombay Armies, ensuring firm European numerical dominance."
@@ -85892,10 +85892,10 @@
             {
               "q": "The ideology of 'martial races' and 'non-martial races', developed particularly under Lord Roberts (commander-in-chief, 1887-92), was primarily used to justify:",
               "o": [
-                "The complete exclusion of all Indians from the army",
-                "Equal recruitment opportunities for all Indian communities regardless of region",
+                "The concentration of recruitment in the Bengal and Awadh regions that had traditionally supplied the bulk of Company sepoys before 1857",
+                "A gradual increase in the proportion of Bengali and Maratha Brahmins recruited into infantry regiments on account of their educational attainments",
                 "Discriminatory recruitment favouring groups like Sikhs, Gurkhas and Pathans (who had aided suppression of 1857) over groups from regions that had participated in the revolt",
-                "The recruitment of only urban, English-educated Indians into combat roles"
+                "The promotion of caste-mixed regiments in which Brahmins, Rajputs and Muslims served together in equal numbers within the same infantry units"
               ],
               "a": 2,
               "e": "The 'martial races' ideology justified preferential recruitment of groups seen as loyal during 1857 (Sikhs, Gurkhas, Pathans) over communities from regions that had revolted, embedding a discriminatory and divisive recruitment policy."
@@ -85903,10 +85903,10 @@
             {
               "q": "According to Charles Wood, Secretary of State for India (as quoted in the chapter), what was the underlying purpose of introducing caste and communal companies within Indian army regiments?",
               "o": [
-                "To reduce costs by grouping soldiers according to dietary preferences",
-                "To ensure equal representation of all regions in every regiment for administrative convenience",
+                "To simplify quartermaster logistics, since grouping soldiers by community made it administratively easier to arrange separate rations, religious observances and messing in cantonments",
+                "To ensure that recruitment quotas were spread proportionately across every province and community, addressing complaints from regions that felt under-represented in the army",
                 "To cultivate rivalry between different groups (e.g., Sikh versus Hindu, Gorkha versus either) so soldiers would fire on each other without scruple if needed, preventing unified nationalist sentiment",
-                "To promote genuine multicultural harmony and unity among Indian soldiers"
+                "To reward loyal communities with land grants and pensions channelled collectively through their own company structure, strengthening their ties to the colonial state"
               ],
               "a": 2,
               "e": "Charles Wood explicitly stated the goal of fostering rivalry between different communal/caste groups within regiments, ensuring soldiers would have no scruples firing on each other — a deliberate 'divide and rule' military strategy."
@@ -85937,9 +85937,9 @@
               "q": "What major judicial reform did Cornwallis introduce regarding the collector's role, marking a key step in the separation of powers?",
               "o": [
                 "The collector was made responsible only for revenue administration, losing all magisterial functions, which were transferred to a new district judge",
-                "The collector was given both revenue and full judicial powers combined for greater efficiency",
-                "The collector was made subordinate directly to the Sadar Nizamat Adalat",
-                "The office of collector was abolished entirely"
+                "The collector retained revenue powers but also gained appellate authority over civil decisions made by the newly created district judge",
+                "The collector was placed under the direct supervision of the Governor-General's Council for both revenue and magisterial matters",
+                "The office of collector was merged with that of the district judge to create a single unified post with combined powers"
               ],
               "a": 0,
               "e": "Cornwallis separated revenue and judicial functions, stripping the collector of magisterial powers (transferred to the district judge) — a foundational step toward separation of powers in colonial administration."
@@ -85949,9 +85949,9 @@
             {
               "q": "Which set of codified laws resulted from the Law Commission established under Macaulay in 1833?",
               "o": [
-                "The Regulating Act (1773) and Pitt's India Act (1784)",
-                "The Government of India Act (1858) and Indian Councils Act (1861)",
-                "The Hindu Code Bill and the Special Marriage Act",
+                "The Regulating Act of 1773 and Pitt's India Act of 1784, the two founding constitutional statutes",
+                "The Government of India Act of 1858 and the Indian Councils Act of 1861, which reorganised the legislature",
+                "The Hindu Code Bill and the Special Marriage Act of 1872, both dealing with personal law reform",
                 "The Civil Procedure Code (1859), Indian Penal Code (1860), and Criminal Procedure Code (1861)"
               ],
               "a": 3,
@@ -85982,10 +85982,10 @@
             {
               "q": "Lord Mayo's Resolution of 1870 is significant in the history of local self-government because it:",
               "o": [
-                "Abolished all local taxation in favour of central government funding",
-                "Established the first fully elected municipal bodies in India",
+                "Centralised control over education, medical services and roads at the imperial level, taking these departments out of provincial hands",
+                "Established municipal committees headed by nominated British officials as chairmen in every presidency town, replacing bodies that had previously been elected",
                 "Began the process of financial decentralisation by transferring departments like education, medical services and roads to provincial control, authorising local taxation to fund them",
-                "Introduced universal adult franchise for local body elections"
+                "Introduced a property-based franchise restricted to large zamindars and urban taxpayers for election to the new district boards"
               ],
               "a": 2,
               "e": "Mayo's 1870 Resolution began financial decentralisation, transferring certain administrative departments to provincial control and authorising local taxation — the beginning of local finance in British India."
@@ -86015,10 +86015,10 @@
             {
               "q": "The Royal Commission on Decentralisation (1908) identified which factor as the greatest obstacle to effective local self-government, and recommended empowering village panchayats with which additional powers?",
               "o": [
-                "Overcrowded courts; recommended abolishing village panchayats entirely",
+                "Official interference in local affairs; recommended replacing elected panchayats with nominated committees of retired district officials",
                 "Lack of financial resources; recommended judicial jurisdiction in petty cases and control over minor village works, schools and fuel/fodder reserves",
-                "Excessive local taxation; recommended abolishing all local taxes",
-                "Lack of British officials in villages; recommended appointing more European supervisors"
+                "Corruption among panchayat members; recommended stricter central auditing of village funds along with powers of suspension by the collector",
+                "Illiteracy among the village population; recommended compulsory primary education before any devolution of civic powers to panchayats"
               ],
               "a": 1,
               "e": "The 1908 Commission identified inadequate financial resources as the central problem, recommending that village panchayats be granted petty judicial jurisdiction and control over minor local works and resources, along with adequate income sources."
@@ -86027,9 +86027,9 @@
               "q": "Under dyarchy (Government of India Act, 1919), why could Indian ministers accomplish little in the sphere of local self-government despite it becoming a 'transferred' subject?",
               "o": [
                 "Because finance remained a 'reserved' subject under an executive councillor's control, leaving ministers without adequate funds",
-                "Because local self-government was entirely removed from provincial jurisdiction",
-                "Because the British directly vetoed any local government initiatives",
-                "Because the Congress boycotted all provincial ministries during this period"
+                "Because the Governor retained a general power to overrule ministers on any transferred subject he judged inexpedient",
+                "Because the Imperial Legislative Council retained the sole power to sanction any new local taxation proposed by ministers",
+                "Because the Secretary of State in London had to approve every individual local body budget before it could be implemented"
               ],
               "a": 0,
               "e": "Although local self-government was 'transferred' to popular ministers, finance remained a 'reserved' subject controlled by an executive councillor, starving local government initiatives of necessary funds."
@@ -86037,10 +86037,10 @@
             {
               "q": "The Simon Commission (1930), reviewing local self-government, made which observation regarding elected members and local taxation?",
               "o": [
-                "It found no issues whatsoever with the state of local self-government",
-                "It praised elected members for aggressively and effectively raising local taxes",
+                "It found that local bodies had substantially improved their finances since 1919 by successfully diversifying revenue sources beyond local taxation",
+                "It praised provincial governments for compensating local bodies generously through increased grants-in-aid after elected members proved reluctant to tax",
                 "It noted the reluctance of elected members to impose local taxes and observed a general deterioration in local body finances since the 1919 reforms",
-                "It recommended immediate abolition of all local self-governing bodies"
+                "It recommended transferring local taxation powers away from elected bodies to salaried district officers to improve collection efficiency"
               ],
               "a": 2,
               "e": "The Simon Commission observed elected members' reluctance to impose local taxes and noted deteriorating local body finances since 1919 — paradoxically recommending increased provincial control rather than more local autonomy."
@@ -86048,10 +86048,10 @@
             {
               "q": "How did the Government of India Act, 1935 affect local self-governing institutions, notwithstanding the provincial autonomy it introduced?",
               "o": [
-                "It granted local bodies unrestricted and unprecedented powers of taxation with no restrictions whatsoever",
+                "Though provincial autonomy placed finance under popular ministries, local bodies were simultaneously granted new powers to levy fresh taxes without needing provincial sanction",
                 "Though provincial autonomy brought portfolio finance under popular ministries (aiding local bodies), new restrictions were also placed on local bodies' power to levy or enhance certain taxes",
-                "It had no impact at all on local self-government",
-                "It abolished all local self-governing institutions in favour of direct central administration"
+                "Provincial autonomy left local self-government largely untouched, since finance and taxation powers remained exactly as they had been under dyarchy",
+                "It replaced elected local bodies with nominated development boards answerable directly to the provincial governor in reserved subjects"
               ],
               "a": 1,
               "e": "While provincial autonomy under the 1935 Act allowed popular ministries greater control over portfolio finance (benefiting local bodies), new restrictions were simultaneously placed on local bodies' taxing powers over trades, professions and municipal property."

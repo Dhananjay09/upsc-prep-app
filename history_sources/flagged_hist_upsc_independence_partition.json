@@ -1,0 +1,249 @@
+[
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test1",
+    "idx": 2,
+    "q": "Which of the following was a key provision of Attlee's February 1947 statement regarding the transfer of power?",
+    "o": [
+      "Power would be transferred only to a single unified central government under all circumstances",
+      "The British would retain control over defence indefinitely after transfer of power",
+      "Power might be transferred either to a central government or, in some areas, to existing provincial governments if the constituent assembly was not fully representative",
+      "All princely states would automatically become part of British India's successor government"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test1",
+    "idx": 3,
+    "q": "According to Attlee's statement, what would happen to British paramountcy over the princely states upon transfer of power?",
+    "o": [
+      "Paramountcy would be transferred exclusively to the Congress-led government",
+      "British powers and obligations toward the princely states would lapse, but would not automatically transfer to any successor government in British India",
+      "Paramountcy would be automatically transferred wholesale to whichever government succeeded British India",
+      "The princely states would remain permanently under British control even after independence"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test1",
+    "idx": 5,
+    "q": "Why did the British government fix a specific date for withdrawal in the February 1947 statement?",
+    "o": [
+      "Because international law required a fixed exit date for all colonial powers",
+      "Because the United Nations had imposed the deadline on Britain",
+      "To shock the parties into agreement, avert the deepening constitutional crisis, and convince Indians of British sincerity, given the irreversible decline in governmental authority",
+      "Because Indian industrialists demanded a fixed date for economic planning purposes"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test1",
+    "idx": 6,
+    "q": "Why was the provision allowing transfer of power to more than one centre acceptable to the Congress?",
+    "o": [
+      "It ensured the immediate abolition of the Muslim League as a political entity",
+      "It required unanimous approval from all princely states before proceeding",
+      "It guaranteed the Congress control over the entire subcontinent without any partition",
+      "It meant the existing constituent assembly could proceed to frame a constitution for the areas it represented, offering a way out of the deadlock"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test1",
+    "idx": 8,
+    "q": "In April 1947, what message did Congress president Kripalani reportedly convey to the Viceroy regarding Pakistan?",
+    "o": [
+      "That the Congress wanted a plebiscite held in every province of British India",
+      "That the Congress would never under any circumstances accept the idea of Pakistan",
+      "That the Congress demanded immediate merger of the Muslim League into itself",
+      "That the Congress would let the League have Pakistan, provided Bengal and Punjab were partitioned in a fair manner rather than fighting a battle over the issue"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test1",
+    "idx": 9,
+    "q": "Why was Mountbatten able to act more firmly and quickly as Viceroy than his predecessors?",
+    "o": [
+      "He was personally appointed by the Muslim League rather than the British Cabinet",
+      "He alone among Viceroys had prior administrative experience in India",
+      "He had significantly less oversight from the British Parliament than any previous Viceroy",
+      "He was informally given greater powers to decide matters on the spot and had the backing of Britain's firm decision to quit at the earliest"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test2",
+    "idx": 0,
+    "q": "What was the 'Plan Balkan' that Mountbatten formulated between March and May 1947, before it was abandoned?",
+    "o": [
+      "A plan to divide India into exactly two dominions with no options for individual provinces or states",
+      "A plan to transfer power to separate provinces or a confederation, with princely states free to join India, Pakistan, or remain independent",
+      "A plan to grant complete independence only to Bengal and Punjab while retaining British control elsewhere",
+      "A plan proposing continued British rule over a confederated India for another decade"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test2",
+    "idx": 3,
+    "q": "Under the Mountbatten Plan of June 3, 1947, how were Punjab and Bengal's legislative assemblies to decide on partition?",
+    "o": [
+      "Only the Muslim League members had voting rights on the question",
+      "They would meet in two groups (Hindu and Muslim members) to vote, with a simple majority in either group sufficing to trigger partition of that province",
+      "Decision was to be made solely by the Viceroy without any legislative vote",
+      "A single joint vote of the entire assembly, with a two-thirds majority required"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test2",
+    "idx": 5,
+    "q": "Which of the following outcomes did the Mountbatten Plan rule out, given the Congress's acceptance of a unified (if partitioned) India?\n1. Independence for the princely states.\n2. Independence for Bengal as a separate unit.\n3. Accession of Hyderabad to Pakistan.\n4. Setting up a Boundary Commission if partition occurred.\nWhich of these were ruled OUT (i.e., NOT permitted), rather than provided for?",
+    "o": [
+      "1, 2, 3 and 4",
+      "Only 1",
+      "Only 4",
+      "1, 2 and 3 only"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test3",
+    "idx": 2,
+    "q": "Who chaired the Boundary Commissions constituted to demarcate the borders of Punjab and Bengal after partition?",
+    "o": [
+      "V.P. Menon",
+      "Lord Wavell",
+      "Sir Cyril Radcliffe",
+      "Lord Mountbatten"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test3",
+    "idx": 3,
+    "q": "Why did Mountbatten decide to delay the public announcement of the Radcliffe Award, even though it was ready by August 12, 1947?",
+    "o": [
+      "Because the princely states needed additional time to review the boundaries",
+      "Because Radcliffe himself requested additional time to revise his boundary lines",
+      "So that the British could escape responsibility for the resulting communal disturbances by having it announced only after the transfer of power on August 15",
+      "Because the Congress and League had not yet agreed to accept the award's contents"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test3",
+    "idx": 4,
+    "q": "Following the referendum process, which of the following outcomes is correctly matched?",
+    "o": [
+      "Both NWFP and Sylhet opted to remain outside both dominions",
+      "Both NWFP and Sylhet voted to join India",
+      "NWFP voted to join India, while Sylhet voted to remain independent",
+      "NWFP voted in favour of Pakistan (with the Provincial Congress abstaining from the referendum), while Sylhet's referendum resulted in its incorporation into East Bengal (Pakistan)"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test3",
+    "idx": 7,
+    "q": "In the first phase of state integration, why did most princes agree relatively easily to sign the Instrument of Accession covering defence, external affairs and communication?",
+    "o": [
+      "Because the Indian government offered them full sovereignty in exchange",
+      "Because the British government directly compelled them to sign under threat of force",
+      "Because they were merely 'surrendering' functions they never actually held (these had been part of British paramountcy), and their internal political structure remained unchanged",
+      "Because the accession was purely symbolic and carried no legal effect"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test3",
+    "idx": 8,
+    "q": "What was the principal incentive ('bait') offered to princes during the more difficult second phase of state integration?",
+    "o": [
+      "Exemption from all future taxation",
+      "A generous privy purse, along with appointments as governors and rajpramukhs in free India",
+      "Guaranteed seats in the Indian Parliament for life",
+      "Permanent retention of full sovereign powers over their territories"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test4",
+    "idx": 1,
+    "q": "According to the chapter, which of the following best explains the deeper reason why the Congress ultimately accepted partition?",
+    "o": [
+      "The Congress accepted partition purely due to Gandhi's personal insistence, against the wishes of all other leaders",
+      "Partition was solely the result of British military coercion against Congress wishes",
+      "The Congress fully supported partition from the very beginning of the freedom struggle as an ideological goal",
+      "The Congress had succeeded in building national consciousness to pressure Britain to leave, but had failed in its parallel task of fully integrating Muslims into a unified national identity"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test4",
+    "idx": 3,
+    "q": "According to the chapter, in what way did Nehru display 'wishful thinking' regarding partition, underestimating the nature of 1940s communalism?",
+    "o": [
+      "He believed communalism in the 1940s was identical in nature to that of the 1920s",
+      "He insisted from the outset that partition was permanent and irreversible",
+      "He believed Hindu-Muslim differences would be patched up once the British left, that partition was only temporary, and that it would be peaceful once Pakistan was conceded",
+      "He predicted correctly and accurately that partition would cause massive, prolonged violence"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test4",
+    "idx": 4,
+    "q": "Why did Gandhi feel a sense of helplessness regarding the acceptance of partition?",
+    "o": [
+      "He believed the people themselves had become communalised, making it impossible to sustain a movement against communalism, though he urged Congressmen not to accept partition 'in their hearts'",
+      "He believed partition was entirely his own idea and felt guilty for proposing it",
+      "He had no opinion on partition and remained indifferent throughout the process",
+      "He believed partition was the best possible outcome and celebrated its acceptance"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test4",
+    "idx": 5,
+    "q": "According to historian R.C. Mazumdar's assessment (as cited in the chapter), what combination of factors is credited with bringing freedom to India, beyond the Civil Disobedience Movement alone?",
+    "o": [
+      "The cumulative effect of Gandhi's campaigns, the INA's efforts under Bose, and the indirect pressure exerted by Hitler and Japan against Britain during the two World Wars",
+      "Only the direct diplomatic intervention of the United States and Soviet Union",
+      "Exclusively the Civil Disobedience Movement, with no role for any other factor",
+      "Solely the economic collapse of British India with no political factors involved"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_independence_partition",
+    "test_key": "test4",
+    "idx": 6,
+    "q": "According to the chapter, which factor made it clear to the exhausted British that they could no longer rely on the loyalty of Indian soldiers for maintaining authority?",
+    "o": [
+      "The revelations made during the INA trials and the popular reaction they produced across India",
+      "The failure of the Cripps Mission in 1942",
+      "The passage of the Government of India Act, 1935",
+      "The outcome of the 1937 provincial elections"
+    ],
+    "a": 0
+  }
+]

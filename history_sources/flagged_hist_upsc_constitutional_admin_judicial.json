@@ -1,0 +1,314 @@
+[
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test1",
+    "idx": 4,
+    "q": "Which judicial body was established in Bengal under the Regulating Act of 1773, with original and appellate jurisdiction, though its authority often clashed with the council's?",
+    "o": [
+      "The Federal Court",
+      "A Supreme Court of Judicature at Calcutta",
+      "The Privy Council",
+      "The Sadar Diwani Adalat"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test1",
+    "idx": 7,
+    "q": "The Act of 1786 conceded which demand of Lord Cornwallis, subsequently extended to all future governors-general?",
+    "o": [
+      "The power to appoint all district collectors without oversight",
+      "The power to unilaterally abolish the Board of Control",
+      "The power to declare war without approval from London",
+      "The power to override the council's decisions if he assumed personal responsibility for them, and to simultaneously hold the offices of governor-general and commander-in-chief"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test2",
+    "idx": 0,
+    "q": "The Charter Act of 1813 set aside one lakh rupees annually for which purpose, an important early statement of state responsibility for education?",
+    "o": [
+      "Revival, promotion and encouragement of literature, learning and science among the natives of India",
+      "Compensation to zamindars for lost revenue",
+      "Construction of railways across India",
+      "Establishment of a national university system"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test2",
+    "idx": 2,
+    "q": "Which declaration in the Charter Act of 1833, though poorly implemented in practice, became a foundational plank of Indian political agitation?",
+    "o": [
+      "All revenue collected in India would be spent exclusively within India",
+      "Indians would be granted representation in the British Parliament",
+      "No Indian citizen was to be denied employment under the Company on grounds of religion, colour, birth or descent",
+      "All Indians would automatically receive British citizenship"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test2",
+    "idx": 5,
+    "q": "The Act for Better Government of India, 1858, passed in the aftermath of the 1857 revolt, brought about which major change?",
+    "o": [
+      "It transferred all governance to a newly created Indian Parliament",
+      "It granted the Congress formal representation in governance",
+      "India was to be governed by and in the name of the Crown through a secretary of state (with an advisory council), ending the dual system of Pitt's India Act, and the governor-general became Viceroy",
+      "It abolished the office of governor-general entirely"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test2",
+    "idx": 8,
+    "q": "The Indian Councils Act, 1892, passed partly in response to Congress demands, introduced which principle, despite carefully avoiding the term 'election'?",
+    "o": [
+      "Direct universal adult suffrage for all legislative council seats",
+      "Abolition of the Imperial Legislative Council altogether",
+      "An element of indirect election through recommendations by universities, district boards, municipalities, zamindars and chambers of commerce",
+      "Reservation of seats exclusively for Congress-nominated candidates"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test3",
+    "idx": 0,
+    "q": "What was a significant and problematic feature introduced by the Morley-Minto Reforms (1909)?",
+    "o": [
+      "Direct election to the Imperial Legislative Council by popular vote",
+      "Complete abolition of all communal representation",
+      "Universal adult suffrage for all Indian men regardless of religion",
+      "Separate electorates for Muslims, with representation in excess of their population and a lower income qualification for Muslim voters than for Hindus"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test3",
+    "idx": 2,
+    "q": "Under the Government of India Act, 1919, the Indian Legislative Council at the Centre was replaced by which bicameral structure?",
+    "o": [
+      "A Rajya Sabha and a Lok Sabha",
+      "A Council of State (Upper House) and a Legislative Assembly (Lower House)",
+      "A Senate and a House of Representatives",
+      "A Federal Assembly and a Provincial Assembly"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test3",
+    "idx": 4,
+    "q": "The Simon Commission (Indian Statutory Commission), appointed in November 1927, recommended which of the following in its 1930 report?",
+    "o": [
+      "Abolition of dyarchy, extension of responsible government in the provinces, a federation of British India and princely states, and continuation of communal electorates",
+      "Immediate grant of full independence to India with no further review",
+      "Permanent retention of dyarchy in both provinces and the Centre",
+      "Abolition of all communal electorates with immediate effect"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test3",
+    "idx": 7,
+    "q": "Why did the All-India Federation envisaged under the Government of India Act, 1935 never come into existence?",
+    "o": [
+      "Because the princely states unanimously refused to consider the federation from the outset",
+      "Because World War II broke out before any implementation could begin",
+      "Because the British Parliament formally repealed the federation provisions before implementation",
+      "Because of opposition from different Indian parties, leading the British to implement only provincial autonomy (from April 1, 1937) while the Centre continued under the 1919 Act framework"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test4",
+    "idx": 2,
+    "q": "How did the maximum permissible age for the ICS entrance examination change over time, as a deliberate barrier to Indian entry?",
+    "o": [
+      "It was gradually raised from 19 to 23 to make the exam more accessible to Indians",
+      "It was abolished entirely after the Charter Act of 1853",
+      "It remained fixed at 21 throughout the colonial period",
+      "It was gradually reduced from 23 (1859) to 22 (1860) to 21 (1866) to 19 (1878, under Lytton)"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test4",
+    "idx": 5,
+    "q": "What was the significance of the 1893 House of Commons resolution regarding civil service examinations?",
+    "o": [
+      "It was implemented immediately, resulting in simultaneous exams from 1894 onward",
+      "It supported holding simultaneous examinations in India and England but was never actually implemented",
+      "It reserved half of all ICS posts for Indians with immediate effect",
+      "It abolished the ICS examination altogether"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test5",
+    "idx": 1,
+    "q": "The 1902 Police Commission recommended establishing which two bodies for intelligence and criminal investigation?",
+    "o": [
+      "The Criminal Investigation Department (CID) in provinces and a Central Intelligence Bureau at the Centre",
+      "An All-India Police Force under direct central command",
+      "A separate secret police answerable only to the Viceroy",
+      "A Federal Investigation Agency modelled on European lines"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test5",
+    "idx": 2,
+    "q": "Regarding the British Indian Army's composition before 1857, which of the following is correct?",
+    "o": [
+      "It comprised the 'Queen's army' (Crown troops on duty in India) and separate 'Company's troops' (a mix of European regiments and locally recruited Native regiments under British officers)",
+      "It had no European component whatsoever until after 1857",
+      "It consisted solely of Indian soldiers with no British troops present at all",
+      "It was composed entirely of mercenaries hired from other European colonial powers"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test5",
+    "idx": 3,
+    "q": "After 1857, army reorganisation deliberately fixed the ratio of Europeans to Indians in the Bengal Army, and in the Madras and Bombay Armies, at approximately what levels?",
+    "o": [
+      "Complete parity of one European to one Indian everywhere",
+      "No fixed ratio was ever established after 1857",
+      "One European to two Indians in Bengal, and two Europeans to five Indians in Madras and Bombay",
+      "One European to ten Indians in all three armies equally"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test5",
+    "idx": 5,
+    "q": "The ideology of 'martial races' and 'non-martial races', developed particularly under Lord Roberts (commander-in-chief, 1887-92), was primarily used to justify:",
+    "o": [
+      "The complete exclusion of all Indians from the army",
+      "Equal recruitment opportunities for all Indian communities regardless of region",
+      "Discriminatory recruitment favouring groups like Sikhs, Gurkhas and Pathans (who had aided suppression of 1857) over groups from regions that had participated in the revolt",
+      "The recruitment of only urban, English-educated Indians into combat roles"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test5",
+    "idx": 6,
+    "q": "According to Charles Wood, Secretary of State for India (as quoted in the chapter), what was the underlying purpose of introducing caste and communal companies within Indian army regiments?",
+    "o": [
+      "To reduce costs by grouping soldiers according to dietary preferences",
+      "To ensure equal representation of all regions in every regiment for administrative convenience",
+      "To cultivate rivalry between different groups (e.g., Sikh versus Hindu, Gorkha versus either) so soldiers would fire on each other without scruple if needed, preventing unified nationalist sentiment",
+      "To promote genuine multicultural harmony and unity among Indian soldiers"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test5",
+    "idx": 9,
+    "q": "What major judicial reform did Cornwallis introduce regarding the collector's role, marking a key step in the separation of powers?",
+    "o": [
+      "The collector was made responsible only for revenue administration, losing all magisterial functions, which were transferred to a new district judge",
+      "The collector was given both revenue and full judicial powers combined for greater efficiency",
+      "The collector was made subordinate directly to the Sadar Nizamat Adalat",
+      "The office of collector was abolished entirely"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test6",
+    "idx": 0,
+    "q": "Which set of codified laws resulted from the Law Commission established under Macaulay in 1833?",
+    "o": [
+      "The Regulating Act (1773) and Pitt's India Act (1784)",
+      "The Government of India Act (1858) and Indian Councils Act (1861)",
+      "The Hindu Code Bill and the Special Marriage Act",
+      "The Civil Procedure Code (1859), Indian Penal Code (1860), and Criminal Procedure Code (1861)"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test6",
+    "idx": 3,
+    "q": "Lord Mayo's Resolution of 1870 is significant in the history of local self-government because it:",
+    "o": [
+      "Abolished all local taxation in favour of central government funding",
+      "Established the first fully elected municipal bodies in India",
+      "Began the process of financial decentralisation by transferring departments like education, medical services and roads to provincial control, authorising local taxation to fund them",
+      "Introduced universal adult franchise for local body elections"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test6",
+    "idx": 6,
+    "q": "The Royal Commission on Decentralisation (1908) identified which factor as the greatest obstacle to effective local self-government, and recommended empowering village panchayats with which additional powers?",
+    "o": [
+      "Overcrowded courts; recommended abolishing village panchayats entirely",
+      "Lack of financial resources; recommended judicial jurisdiction in petty cases and control over minor village works, schools and fuel/fodder reserves",
+      "Excessive local taxation; recommended abolishing all local taxes",
+      "Lack of British officials in villages; recommended appointing more European supervisors"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test6",
+    "idx": 7,
+    "q": "Under dyarchy (Government of India Act, 1919), why could Indian ministers accomplish little in the sphere of local self-government despite it becoming a 'transferred' subject?",
+    "o": [
+      "Because finance remained a 'reserved' subject under an executive councillor's control, leaving ministers without adequate funds",
+      "Because local self-government was entirely removed from provincial jurisdiction",
+      "Because the British directly vetoed any local government initiatives",
+      "Because the Congress boycotted all provincial ministries during this period"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test6",
+    "idx": 8,
+    "q": "The Simon Commission (1930), reviewing local self-government, made which observation regarding elected members and local taxation?",
+    "o": [
+      "It found no issues whatsoever with the state of local self-government",
+      "It praised elected members for aggressively and effectively raising local taxes",
+      "It noted the reluctance of elected members to impose local taxes and observed a general deterioration in local body finances since the 1919 reforms",
+      "It recommended immediate abolition of all local self-governing bodies"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_constitutional_admin_judicial",
+    "test_key": "test6",
+    "idx": 9,
+    "q": "How did the Government of India Act, 1935 affect local self-governing institutions, notwithstanding the provincial autonomy it introduced?",
+    "o": [
+      "It granted local bodies unrestricted and unprecedented powers of taxation with no restrictions whatsoever",
+      "Though provincial autonomy brought portfolio finance under popular ministries (aiding local bodies), new restrictions were also placed on local bodies' power to levy or enhance certain taxes",
+      "It had no impact at all on local self-government",
+      "It abolished all local self-governing institutions in favour of direct central administration"
+    ],
+    "a": 1
+  }
+]

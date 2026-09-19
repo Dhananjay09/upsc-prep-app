@@ -1,0 +1,132 @@
+[
+  {
+    "chapter_id": "hist_upsc_congress_rule_provinces",
+    "test_key": "test1",
+    "idx": 0,
+    "q": "Following the 1937 provincial elections, Congress ministries were formed in which of the following provinces (initially, and later)?",
+    "o": [
+      "Bombay, Madras, Central Provinces, Orissa, United Provinces, Bihar, and later NWFP and Assam",
+      "Only in Muslim-majority provinces",
+      "Only Bengal, Punjab and Sindh",
+      "All eleven provinces uniformly from the start"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_congress_rule_provinces",
+    "test_key": "test1",
+    "idx": 3,
+    "q": "Despite generally liberalising civil liberties, which of the following incidents is cited as a blemish on Congress ministries' record?",
+    "o": [
+      "No political prisoners were ever released by any Congress ministry",
+      "The Bihar government reinstated the Rowlatt Act provisions",
+      "The Madras government arrested socialists Yusuf Maherally and S.S. Batliwala for inflammatory/seditious speeches",
+      "The Bombay government banned all trade unions outright"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_congress_rule_provinces",
+    "test_key": "test1",
+    "idx": 4,
+    "q": "Which of the following constraints limited the Congress ministries from undertaking a complete overhaul of the agrarian structure, such as abolishing zamindari entirely?",
+    "o": [
+      "Inadequate powers and financial resources, the need to conciliate landlord-dominated legislative councils, and the approach of the Second World War",
+      "A total lack of legislative majority in any province",
+      "British refusal to allow any land-related legislation whatsoever",
+      "Complete absence of any interest in agrarian reform"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_congress_rule_provinces",
+    "test_key": "test1",
+    "idx": 5,
+    "q": "Regarding the benefits of the agrarian reforms undertaken by Congress ministries, which of the following is correct?",
+    "o": [
+      "Most benefits went to statutory and occupancy tenants, while sub-tenants and unmobilised agricultural labourers gained little",
+      "No agrarian legislation was passed at all during this period",
+      "All classes of peasants, including agricultural labourers, benefited equally",
+      "Only zamindars benefited from the reforms"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_congress_rule_provinces",
+    "test_key": "test1",
+    "idx": 6,
+    "q": "The Congress ministries' approach to labour issues was primarily aimed at:",
+    "o": [
+      "Ignoring labour issues altogether",
+      "Advancing workers' interests while promoting industrial peace through compulsory arbitration and conciliation machinery",
+      "Fully nationalising all private industries immediately",
+      "Suppressing all trade union activity entirely"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_congress_rule_provinces",
+    "test_key": "test1",
+    "idx": 9,
+    "q": "Which of the following was an example of extra-parliamentary mass activity undertaken by Congress during its rule in the provinces?",
+    "o": [
+      "Direct armed confrontation with British forces",
+      "Formal alliance with the Muslim League government",
+      "Mass literacy campaigns, Congress police stations and panchayats, and Congress Grievance Committees",
+      "Complete withdrawal from all provincial governance"
+    ],
+    "a": 2
+  },
+  {
+    "chapter_id": "hist_upsc_congress_rule_provinces",
+    "test_key": "test2",
+    "idx": 0,
+    "q": "Which of the following is identified as a positive achievement of the 28-month period of Congress rule in the provinces?",
+    "o": [
+      "It proved conclusively that dominion status was preferable to complete independence",
+      "It demonstrated that a movement could use state power to further its ends without being co-opted, and further weakened the myth that Indians were unfit to rule",
+      "It fully abolished the zamindari system nationwide",
+      "It eliminated all communal tensions in Indian society"
+    ],
+    "a": 1
+  },
+  {
+    "chapter_id": "hist_upsc_congress_rule_provinces",
+    "test_key": "test2",
+    "idx": 1,
+    "q": "The Congress ministries resigned from office in:",
+    "o": [
+      "October 1939, following the outbreak of the Second World War",
+      "1937, immediately after being elected",
+      "1940, after the Lahore Resolution",
+      "1942, at the start of the Quit India Movement"
+    ],
+    "a": 0
+  },
+  {
+    "chapter_id": "hist_upsc_congress_rule_provinces",
+    "test_key": "test2",
+    "idx": 4,
+    "q": "Which of the following charges did the Pirpur Committee report level against Congress ministries?",
+    "o": [
+      "Failure to implement any agrarian reforms whatsoever",
+      "Complete abolition of separate electorates for all minorities",
+      "Excessive support for Muslim League candidates in elections",
+      "Interference in religious rites, suppression of Urdu in favour of Hindi, and denial of proper representation to Muslims"
+    ],
+    "a": 3
+  },
+  {
+    "chapter_id": "hist_upsc_congress_rule_provinces",
+    "test_key": "test2",
+    "idx": 5,
+    "q": "Which of the following best summarises the overall significance of the 28-month period of Congress rule in the provinces, as assessed in the chapter?",
+    "o": [
+      "It had no lasting political or administrative significance",
+      "It proved that colonial administration was entirely superior to any form of Indian self-rule",
+      "It confirmed that Indian self-government was necessary for social transformation, while also revealing the genuine difficulties of governing within a colonial constitutional framework amid high popular expectations",
+      "It resulted in the immediate abolition of British rule in India"
+    ],
+    "a": 2
+  }
+]
