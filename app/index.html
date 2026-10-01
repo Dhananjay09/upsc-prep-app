@@ -285,6 +285,7 @@
         </div>
       </div>
       <button class="auth-submit" id="login-submit-btn">Log in</button>
+      <button type="button" class="back-btn" id="auth-skip-btn" style="margin-top:14px; width:100%; text-align:center; background:none; border:none; color:var(--muted); font-size:0.85rem; cursor:pointer; text-decoration:underline;">Continue without an account</button>
     </div>
 
     <div id="signup-form" class="hidden">
@@ -545,22 +546,31 @@ async function loadCurrentProfile(){
 }
 
 async function initAuth(){
-  const { data: { session } } = await sb.auth.getSession();
-  currentUser = session ? session.user : null;
-  await loadCurrentProfile();
-
-  /* The whole app requires being logged in -- land on the auth screen until that's true. */
-  if(currentUser) renderSubjects();
-  else renderAuth('login');
-
-  sb.auth.onAuthStateChange(async (event, session)=>{
-    const wasLoggedIn = !!currentUser;
+  try {
+    const { data: { session } } = await sb.auth.getSession();
     currentUser = session ? session.user : null;
     await loadCurrentProfile();
-    if(!currentUser && wasLoggedIn){
-      renderAuth('login');
-    }
-  });
+  } catch(e) {
+    console.warn('Auth backend unreachable (continuing in offline/guest mode):', e && e.message);
+    currentUser = null;
+    currentProfile = null;
+  }
+
+  /* Local/offline build: always show subjects, never force a login wall. Login/signup stay available (for leaderboard/profile if a backend is reachable) but are entirely optional. */
+  renderSubjects();
+
+  try {
+    sb.auth.onAuthStateChange(async (event, session)=>{
+      const wasLoggedIn = !!currentUser;
+      currentUser = session ? session.user : null;
+      await loadCurrentProfile();
+      if(!currentUser && wasLoggedIn){
+        renderAuth('login');
+      }
+    });
+  } catch(e) {
+    console.warn('Could not attach auth listener (offline/guest mode):', e && e.message);
+  }
 }
 
 function switchAuthTab(tab){
@@ -603,7 +613,14 @@ async function doSignup(){
   /* Store the chosen display name in the auth user's own metadata (not our profiles table) --
      this survives even before email confirmation, since it's part of the Supabase Auth user
      record itself, not something guarded by our profiles RLS policy. */
-  const { data, error } = await sb.auth.signUp({ email, password, options: { data: { username } } });
+  let data, error;
+  try {
+    ({ data, error } = await sb.auth.signUp({ email, password, options: { data: { username } } }));
+  } catch(e) {
+    btn.disabled = false; btn.textContent = 'Create account';
+    showAuthMsg('Could not reach the account server right now. You can still use the app without an account -- just pick a subject below.', 'error');
+    return;
+  }
   btn.disabled = false; btn.textContent = 'Create account';
   if(error){
     showAuthMsg(error.message, 'error');
@@ -629,7 +646,14 @@ async function doLogin(){
 
   const btn = document.getElementById('login-submit-btn');
   btn.disabled = true; btn.textContent = 'Logging in...';
-  const { data, error } = await sb.auth.signInWithPassword({ email, password });
+  let data, error;
+  try {
+    ({ data, error } = await sb.auth.signInWithPassword({ email, password }));
+  } catch(e) {
+    btn.disabled = false; btn.textContent = 'Log in';
+    showAuthMsg('Could not reach the account server right now. You can still use the app without an account -- just pick a subject below.', 'error');
+    return;
+  }
   btn.disabled = false; btn.textContent = 'Log in';
   if(error){ showAuthMsg(error.message, 'error'); return; }
   currentUser = data.user;
@@ -1177,6 +1201,7 @@ document.querySelectorAll('.toggle-pw').forEach(btn=>{
   };
 });
 document.getElementById('login-submit-btn').onclick = ()=> doLogin();
+document.getElementById('auth-skip-btn').onclick = ()=> renderSubjects();
 document.getElementById('signup-submit-btn').onclick = ()=> doSignup();
 
 async function saveAttemptIfLoggedIn(){
